@@ -1,0 +1,76 @@
+name: Fetch Tweets & Deploy
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:          # allow manual trigger
+
+permissions:
+  contents: write             # needed to commit data/tweets.json
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────
+      - uses: actions/checkout@v4
+
+      # ── 2. Fetch & analyze tweets ─────────────────────────────────
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch and analyze tweets
+        run: python scripts/fetch_and_analyze.py
+        env:
+          X_COOKIES: ${{ secrets.X_COOKIES }}
+          X_USERNAME: ${{ secrets.X_USERNAME }}
+          X_EMAIL: ${{ secrets.X_EMAIL }}
+          X_PASSWORD: ${{ secrets.X_PASSWORD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTIFY_SMTP_HOST: ${{ secrets.NOTIFY_SMTP_HOST }}
+          NOTIFY_SMTP_PORT: ${{ secrets.NOTIFY_SMTP_PORT }}
+          NOTIFY_SMTP_USER: ${{ secrets.NOTIFY_SMTP_USER }}
+          NOTIFY_SMTP_PASS: ${{ secrets.NOTIFY_SMTP_PASS }}
+          NOTIFY_EMAIL_TO: ${{ secrets.NOTIFY_EMAIL_TO }}
+
+      # ── 3. Commit updated data back to main ───────────────────────
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tweets.json
+          git diff --staged --quiet || git commit -m "chore: update tweets"
+          git push
+
+      # ── 4. Build frontend ─────────────────────────────────────────
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install frontend dependencies
+        run: npm ci
+        working-directory: frontend
+
+      - name: Copy latest data into frontend build
+        run: cp data/tweets.json frontend/public/data/tweets.json
+
+      - name: Build frontend
+        run: npm run build
+        working-directory: frontend
+
+      # ── 5. Deploy to GitHub Pages ────────────────────────────────
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./frontend/dist
+          cname: ""   # leave empty unless you have a custom domain
