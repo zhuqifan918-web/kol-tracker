@@ -1,10 +1,9 @@
 """
-Fetch tweets from tracked KOLs via twikit (no API key required),
+Fetch tweets from tracked KOLs via twscrape (no API key required),
 analyze investment-related content with Claude, and update data/tweets.json.
 
-Auth: uses X_COOKIES env var (JSON string) if set, otherwise falls back to
-      X_USERNAME + X_EMAIL + X_PASSWORD. Cookie-based auth is more stable
-      for GitHub Actions — see README for how to generate cookies.
+Auth: X_ACCOUNTS env var (JSON exported by gen_accounts.py) is loaded into
+      twscrape's in-memory pool each run.
 """
 
 import asyncio
@@ -16,12 +15,14 @@ from datetime import datetime, timezone
 from email.mime.text import MIMEText
 
 import anthropic
-from twikit import Client
+from twscrape import API
 
 TWEETS_FILE = "data/tweets.json"
 KOLS_FILE = "config/kols.json"
 MAX_TWEETS_STORED = 1000
-FETCH_COUNT = 20  # tweets per KOL per run
+FETCH_COUNT = 20
+
+DIRECTION_ZH = {"bullish": "🟢 看多", "bearish": "🔴 看空", "neutral": "⚪ 中性"}
 
 
 def load_json(path: str, default):
@@ -37,29 +38,21 @@ def save_json(path: str, data) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-async def get_x_client() -> Client:
-    client = Client("en-US")
-    cookies_json = os.environ.get("X_COOKIES")
-    if cookies_json:
-        with tempfile.NamedTemporaryFile(
-            mode="w", suffix=".json", delete=False
-        ) as tmp:
-            tmp.write(cookies_json)
-            tmp_path = tmp.name
-        client.load_cookies(tmp_path)
-        os.unlink(tmp_path)
-        print("Loaded auth from X_COOKIES")
-    else:
-        username = os.environ["X_USERNAME"]
-        email = os.environ.get("X_EMAIL", "")
-        password = os.environ["X_PASSWORD"]
-        await client.login(
-            auth_info_1=username,
-            auth_info_2=email,
-            password=password,
-        )
-        print(f"Logged in as {username}")
-    return client
+async def get_api() -> API:
+    api = API()
+    accounts_json = os.environ.get("X_ACCOUNTS")
+    if not accounts_json:
+        raise RuntimeError("X_ACCOUNTS env var is not set. Run scripts/gen_accounts.py first.")
+    accounts = json.loads(accounts_json)
+    for acc in accounts:
+        await api.pool.add_account(**{
+            "username":       acc["username"],
+            "password":       acc["password"],
+            "email":          acc["email"],
+            "email_password": acc.get("email_password", acc["password"]),
+            "cookies":        acc.get("cookies"),
+        })
+    return api
 
 
 def analyze_tweet(text: str, claude: anthropic.Anthropic) -> dict:
@@ -76,7 +69,7 @@ Return a JSON object with exactly these fields:
 - tickers: array of stock/crypto ticker symbols mentioned (e.g. ["NVDA", "BTC"]), empty array if none
 - direction: "bullish" | "bearish" | "neutral" | null — null only if not investment related
 - summary: string — 1-3 sentence Chinese summary of the investment insight; null if not investment related
-- confidence: "high" | "medium" | "low" | null — how clear/confident the recommendation is; null if not investment related"""
+- confidence: "high" | "medium" | "low" | null — null if not investment related"""
 
     response = claude.messages.create(
         model="claude-haiku-4-5-20251001",
@@ -87,11 +80,7 @@ Return a JSON object with exactly these fields:
     return json.loads(response.content[0].text)
 
 
-DIRECTION_ZH = {"bullish": "🟢 看多", "bearish": "🔴 看空", "neutral": "⚪ 中性"}
-
-
 def send_email_notification(tweet: dict) -> None:
-    """Send email via SMTP. Requires NOTIFY_EMAIL_* env vars."""
     smtp_host = os.environ.get("NOTIFY_SMTP_HOST")
     smtp_port = int(os.environ.get("NOTIFY_SMTP_PORT", "465"))
     smtp_user = os.environ.get("NOTIFY_SMTP_USER")
@@ -106,7 +95,6 @@ def send_email_notification(tweet: dict) -> None:
     tickers = "  ".join(f"${t}" for t in a.get("tickers", []))
 
     subject = f"[KOL追踪] {tweet['kol_display_name']}" + (f" · {tickers}" if tickers else "")
-
     body = f"""{tweet['kol_display_name']} (@{tweet['kol_username']}) 发布了新推文
 
 {'方向：' + direction if direction else ''}{'　　标的：' + tickers if tickers else ''}
@@ -118,7 +106,6 @@ def send_email_notification(tweet: dict) -> None:
 
 查看原推：{tweet['tweet_url']}
 """
-
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = subject
     msg["From"] = smtp_user
@@ -133,23 +120,14 @@ def send_email_notification(tweet: dict) -> None:
         print(f"  Email failed: {exc}")
 
 
-def parse_created_at(raw: str) -> str:
-    """Convert Twitter's date format to ISO 8601."""
-    try:
-        dt = datetime.strptime(raw, "%a %b %d %H:%M:%S %z %Y")
-        return dt.isoformat()
-    except (ValueError, TypeError):
-        return raw or datetime.now(timezone.utc).isoformat()
-
-
 async def main() -> None:
     kols = load_json(KOLS_FILE, [])
     existing_tweets: list = load_json(TWEETS_FILE, [])
     existing_ids = {t["tweet_id"] for t in existing_tweets}
 
-    x_client = await get_x_client()
-    claude = anthropic.Anthropic()
-
+    api = await get_api()
+    base_url = os.environ.get("ANTHROPIC_BASE_URL")
+    claude = anthropic.Anthropic(base_url=base_url) if base_url else anthropic.Anthropic()
     new_tweets: list = []
 
     for kol in kols:
@@ -160,23 +138,27 @@ async def main() -> None:
         print(f"\nFetching @{username}...")
 
         try:
-            user = await x_client.get_user_by_screen_name(username)
-            tweets = await user.get_tweets("Tweets", count=FETCH_COUNT)
+            user = await api.user_by_login(username)
+            if not user:
+                print(f"  User not found: {username}")
+                continue
+            tweets = []
+            async for tweet in api.user_tweets(user.id, limit=FETCH_COUNT):
+                tweets.append(tweet)
         except Exception as exc:
             print(f"  ERROR fetching {username}: {exc}")
             continue
 
-        # Update avatar URL in kol record (best-effort)
-        avatar_url = getattr(user, "profile_image_url", "") or kol.get("avatar_url", "")
-        # Use higher-res avatar (replace _normal with _400x400)
-        avatar_url = avatar_url.replace("_normal", "_400x400")
+        avatar_url = getattr(user, "profileImageUrl", "") or kol.get("avatar_url", "")
+        if avatar_url:
+            avatar_url = avatar_url.replace("_normal", "_400x400")
 
         for tweet in tweets:
             tweet_id = str(tweet.id)
             if tweet_id in existing_ids:
                 continue
 
-            text = tweet.text or ""
+            text = tweet.rawContent or ""
             print(f"  Analyzing {tweet_id}: {text[:60]}...")
 
             try:
@@ -197,9 +179,7 @@ async def main() -> None:
                 "kol_focus": kol.get("focus", ""),
                 "content": text,
                 "tweet_url": f"https://x.com/{username}/status/{tweet_id}",
-                "published_at": parse_created_at(
-                    getattr(tweet, "created_at", None)
-                ),
+                "published_at": tweet.date.isoformat() if tweet.date else datetime.now(timezone.utc).isoformat(),
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
                 "analysis": analysis,
             }
@@ -210,7 +190,7 @@ async def main() -> None:
             if kol.get("notify", False):
                 send_email_notification(record)
 
-        await asyncio.sleep(2)  # be polite between users
+        await asyncio.sleep(2)
 
     if new_tweets:
         all_tweets = new_tweets + existing_tweets
