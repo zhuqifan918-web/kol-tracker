@@ -7,6 +7,13 @@
     "notify": true
   },
   {
+    "username": "xiaomustock",
+    "display_name": "小木",
+    "focus": "A股/港股",
+    "enabled": true,
+    "notify": true
+  },
+  {
     "username": "unusual_whales",
     "display_name": "Unusual Whales",
     "focus": "美股期权/异动",
