@@ -1,15 +1,15 @@
 [
   {
-    "username": "unusual_whales",
-    "display_name": "Unusual Whales",
-    "focus": "美股期权/异动",
+    "username": "aleabitoreddit",
+    "display_name": "Serenity",
+    "focus": "产业链卡点投资",
     "enabled": true,
     "notify": true
   },
   {
-    "username": "ReformedBroker",
-    "display_name": "Josh Brown",
-    "focus": "美股宏观",
+    "username": "unusual_whales",
+    "display_name": "Unusual Whales",
+    "focus": "美股期权/异动",
     "enabled": true,
     "notify": false
   }
