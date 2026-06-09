@@ -1,1 +1,7 @@
+frontend/node_modules/
+frontend/dist/
+*.pyc
+__pycache__/
+*.db
 cookies.json
+accounts.db
