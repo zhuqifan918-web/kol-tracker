@@ -24,4 +24,17 @@ export interface KOL {
   display_name: string;
   focus: string;
   enabled: boolean;
+  notify: boolean;
 }
+
+export interface KolSummary {
+  generated_at: string;
+  focus_tickers: string[];
+  overall_bias: "bullish" | "bearish" | "neutral";
+  key_themes: string[];
+  recent_shift: string;
+  representative_quotes: string[];
+}
+
+export type Summaries = Record<string, KolSummary>;
+

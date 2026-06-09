@@ -18,9 +18,11 @@ import anthropic
 from twscrape import API
 
 TWEETS_FILE = "data/tweets.json"
+SUMMARIES_FILE = "data/summaries.json"
 KOLS_FILE = "config/kols.json"
-MAX_TWEETS_STORED = 1000
+MAX_TWEETS_STORED = 5000
 FETCH_COUNT = 20
+MIN_TWEETS_FOR_SUMMARY = 5  # minimum investment tweets to generate a summary
 
 DIRECTION_ZH = {"bullish": "🟢 看多", "bearish": "🔴 看空", "neutral": "⚪ 中性"}
 
@@ -194,11 +196,59 @@ async def main() -> None:
 
     if new_tweets:
         all_tweets = new_tweets + existing_tweets
+        all_tweets.sort(key=lambda t: t["published_at"], reverse=True)
         all_tweets = all_tweets[:MAX_TWEETS_STORED]
         save_json(TWEETS_FILE, all_tweets)
         print(f"\nDone — added {len(new_tweets)} new tweet(s), total {len(all_tweets)}")
     else:
+        all_tweets = existing_tweets
         print("\nDone — no new investment-related tweets")
+
+    # Regenerate summaries for KOLs that got new tweets
+    updated_kols = {t["kol_username"] for t in new_tweets}
+    if updated_kols:
+        generate_summaries(all_tweets, updated_kols, claude)
+
+
+def generate_summaries(all_tweets: list, kol_usernames: set, claude: anthropic.Anthropic) -> None:
+    summaries = load_json(SUMMARIES_FILE, {})
+
+    for username in kol_usernames:
+        kol_tweets = [t for t in all_tweets if t["kol_username"] == username]
+        if len(kol_tweets) < MIN_TWEETS_FOR_SUMMARY:
+            print(f"  Skipping summary for {username}: only {len(kol_tweets)} tweets")
+            continue
+
+        print(f"  Generating summary for @{username} ({len(kol_tweets)} tweets)...")
+        tweet_texts = "\n---\n".join(
+            f"[{t['published_at'][:10]}] {t['content']}" for t in kol_tweets[:100]
+        )
+
+        try:
+            response = claude.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=800,
+                system="You are a financial analyst. Analyze a collection of tweets and return structured JSON only.",
+                messages=[{"role": "user", "content": f"""Analyze these tweets from a stock market influencer and return a JSON summary.
+
+Tweets (most recent first):
+{tweet_texts}
+
+Return JSON with exactly these fields:
+- focus_tickers: array of top 5 most mentioned ticker symbols
+- overall_bias: "bullish" | "bearish" | "neutral" — their general market stance
+- key_themes: array of 3-5 Chinese strings describing main investment themes
+- recent_shift: one Chinese sentence describing any notable change in recent views vs earlier; empty string if no change
+- representative_quotes: array of 2-3 most insightful original tweet excerpts (keep original language)"""}],
+            )
+            summary = json.loads(response.content[0].text)
+            summary["generated_at"] = datetime.now(timezone.utc).isoformat()
+            summaries[username] = summary
+            print(f"  Summary done: bias={summary.get('overall_bias')}, tickers={summary.get('focus_tickers')}")
+        except Exception as exc:
+            print(f"  Summary error for {username}: {exc}")
+
+    save_json(SUMMARIES_FILE, summaries)
 
 
 if __name__ == "__main__":

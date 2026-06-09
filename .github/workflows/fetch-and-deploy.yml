@@ -2,8 +2,15 @@ name: Fetch Tweets & Deploy
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
-  workflow_dispatch:          # allow manual trigger
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      fetch_history:
+        description: "Fetch 1 year of historical tweets (slow, run once)"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
 
 permissions:
   contents: write             # needed to commit data/tweets.json
@@ -38,12 +45,20 @@ jobs:
           NOTIFY_SMTP_PASS: ${{ secrets.NOTIFY_SMTP_PASS }}
           NOTIFY_EMAIL_TO: ${{ secrets.NOTIFY_EMAIL_TO }}
 
+      - name: Fetch history (only when triggered manually with history=true)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.fetch_history == 'true'
+        run: python scripts/fetch_history.py
+        env:
+          X_ACCOUNTS: ${{ secrets.X_ACCOUNTS }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
+
       # ── 3. Commit updated data back to main ───────────────────────
       - name: Commit data changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/tweets.json
+          git add data/tweets.json data/summaries.json
           git diff --staged --quiet && exit 0
           git pull --rebase origin main
           git commit -m "chore: update tweets"
@@ -61,7 +76,10 @@ jobs:
         working-directory: frontend
 
       - name: Copy latest data into frontend build
-        run: cp data/tweets.json frontend/public/data/tweets.json
+        run: |
+          cp data/tweets.json frontend/public/data/tweets.json
+          cp config/kols.json frontend/public/data/kols.json
+          cp data/summaries.json frontend/public/data/summaries.json 2>/dev/null || echo '{}' > frontend/public/data/summaries.json
 
       - name: Build frontend
         run: npm run build
