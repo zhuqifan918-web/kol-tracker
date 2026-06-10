@@ -83,7 +83,7 @@ Return JSON only, no markdown."""
 
 def send_email_notification(tweet: dict) -> None:
     smtp_host = os.environ.get("NOTIFY_SMTP_HOST")
-    smtp_port = int(os.environ.get("NOTIFY_SMTP_PORT", "465"))
+    smtp_port = int(os.environ.get("NOTIFY_SMTP_PORT") or "465")
     smtp_user = os.environ.get("NOTIFY_SMTP_USER")
     smtp_pass = os.environ.get("NOTIFY_SMTP_PASS")
     to_addr   = os.environ.get("NOTIFY_EMAIL_TO")
