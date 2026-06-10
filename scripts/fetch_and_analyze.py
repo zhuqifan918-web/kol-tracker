@@ -166,7 +166,9 @@ async def main() -> None:
             try:
                 analysis = analyze_tweet(text, claude)
             except Exception as exc:
+                import traceback
                 print(f"  Analysis error: {exc}")
+                traceback.print_exc()
                 continue
 
             if not analysis.get("is_investment_related"):
