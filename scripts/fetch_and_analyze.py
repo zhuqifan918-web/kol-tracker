@@ -1,6 +1,6 @@
 """
 Fetch tweets from tracked KOLs via twscrape (no API key required),
-analyze investment-related content with Claude, and update data/tweets.json.
+analyze investment-related content with DeepSeek, and update data/tweets.json.
 
 Auth: X_ACCOUNTS env var (JSON exported by gen_accounts.py) is loaded into
       twscrape's in-memory pool each run.
@@ -10,11 +10,10 @@ import asyncio
 import json
 import os
 import smtplib
-import tempfile
 from datetime import datetime, timezone
 from email.mime.text import MIMEText
 
-import anthropic
+from openai import OpenAI
 from twscrape import API
 
 TWEETS_FILE = "data/tweets.json"
@@ -57,11 +56,7 @@ async def get_api() -> API:
     return api
 
 
-def analyze_tweet(text: str, claude: anthropic.Anthropic) -> dict:
-    system = (
-        "You are a financial analyst assistant. "
-        "Analyze tweets and return structured JSON only — no markdown, no extra text."
-    )
+def analyze_tweet(text: str, client: OpenAI) -> dict:
     prompt = f"""Analyze this tweet for investment relevance.
 
 Tweet: {text}
@@ -71,15 +66,19 @@ Return a JSON object with exactly these fields:
 - tickers: array of stock/crypto ticker symbols mentioned (e.g. ["NVDA", "BTC"]), empty array if none
 - direction: "bullish" | "bearish" | "neutral" | null — null only if not investment related
 - summary: string — 1-3 sentence Chinese summary of the investment insight; null if not investment related
-- confidence: "high" | "medium" | "low" | null — null if not investment related"""
+- confidence: "high" | "medium" | "low" | null — null if not investment related
 
-    response = claude.messages.create(
-        model="claude-haiku-4-5-20251001",
+Return JSON only, no markdown."""
+
+    response = client.chat.completions.create(
+        model="deepseek-chat",
         max_tokens=400,
-        system=system,
-        messages=[{"role": "user", "content": prompt}],
+        messages=[
+            {"role": "system", "content": "You are a financial analyst assistant. Return structured JSON only — no markdown, no extra text."},
+            {"role": "user", "content": prompt},
+        ],
     )
-    return json.loads(response.content[0].text)
+    return json.loads(response.choices[0].message.content)
 
 
 def send_email_notification(tweet: dict) -> None:
@@ -128,8 +127,10 @@ async def main() -> None:
     existing_ids = {t["tweet_id"] for t in existing_tweets}
 
     api = await get_api()
-    base_url = os.environ.get("ANTHROPIC_BASE_URL")
-    claude = anthropic.Anthropic(base_url=base_url) if base_url else anthropic.Anthropic()
+    client = OpenAI(
+        api_key=os.environ.get("DEEPSEEK_API_KEY"),
+        base_url="https://api.deepseek.com",
+    )
     new_tweets: list = []
 
     for kol in kols:
@@ -164,11 +165,9 @@ async def main() -> None:
             print(f"  Analyzing {tweet_id}: {text[:60]}...")
 
             try:
-                analysis = analyze_tweet(text, claude)
+                analysis = analyze_tweet(text, client)
             except Exception as exc:
-                import traceback
                 print(f"  Analysis error [{type(exc).__name__}]: {exc}")
-                traceback.print_exc()
                 continue
 
             if not analysis.get("is_investment_related"):
@@ -209,10 +208,10 @@ async def main() -> None:
     # Regenerate summaries for KOLs that got new tweets
     updated_kols = {t["kol_username"] for t in new_tweets}
     if updated_kols:
-        generate_summaries(all_tweets, updated_kols, claude)
+        generate_summaries(all_tweets, updated_kols, client)
 
 
-def generate_summaries(all_tweets: list, kol_usernames: set, claude: anthropic.Anthropic) -> None:
+def generate_summaries(all_tweets: list, kol_usernames: set, client: OpenAI) -> None:
     summaries = load_json(SUMMARIES_FILE, {})
 
     for username in kol_usernames:
@@ -227,11 +226,12 @@ def generate_summaries(all_tweets: list, kol_usernames: set, claude: anthropic.A
         )
 
         try:
-            response = claude.messages.create(
-                model="claude-haiku-4-5-20251001",
+            response = client.chat.completions.create(
+                model="deepseek-chat",
                 max_tokens=800,
-                system="You are a financial analyst. Analyze a collection of tweets and return structured JSON only.",
-                messages=[{"role": "user", "content": f"""Analyze these tweets from a stock market influencer and return a JSON summary.
+                messages=[
+                    {"role": "system", "content": "You are a financial analyst. Analyze a collection of tweets and return structured JSON only."},
+                    {"role": "user", "content": f"""Analyze these tweets from a stock market influencer and return a JSON summary.
 
 Tweets (most recent first):
 {tweet_texts}
@@ -241,9 +241,12 @@ Return JSON with exactly these fields:
 - overall_bias: "bullish" | "bearish" | "neutral" — their general market stance
 - key_themes: array of 3-5 Chinese strings describing main investment themes
 - recent_shift: one Chinese sentence describing any notable change in recent views vs earlier; empty string if no change
-- representative_quotes: array of 2-3 most insightful original tweet excerpts (keep original language)"""}],
+- representative_quotes: array of 2-3 most insightful original tweet excerpts (keep original language)
+
+Return JSON only, no markdown."""},
+                ],
             )
-            summary = json.loads(response.content[0].text)
+            summary = json.loads(response.choices[0].message.content)
             summary["generated_at"] = datetime.now(timezone.utc).isoformat()
             summaries[username] = summary
             print(f"  Summary done: bias={summary.get('overall_bias')}, tickers={summary.get('focus_tickers')}")

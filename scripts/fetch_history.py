@@ -11,7 +11,7 @@ import os
 import tempfile
 from datetime import datetime, timezone, timedelta
 
-import anthropic
+from openai import OpenAI
 from twscrape import API
 
 TWEETS_FILE = "data/tweets.json"
@@ -50,11 +50,7 @@ async def get_api() -> API:
     return api
 
 
-def analyze_tweet(text: str, claude: anthropic.Anthropic) -> dict:
-    system = (
-        "You are a financial analyst assistant. "
-        "Analyze tweets and return structured JSON only — no markdown, no extra text."
-    )
+def analyze_tweet(text: str, client: OpenAI) -> dict:
     prompt = f"""Analyze this tweet for investment relevance.
 
 Tweet: {text}
@@ -64,15 +60,19 @@ Return a JSON object with exactly these fields:
 - tickers: array of ticker symbols (e.g. ["NVDA", "BTC"]), empty if none
 - direction: "bullish" | "bearish" | "neutral" | null
 - summary: 1-3 sentence Chinese summary | null if not investment related
-- confidence: "high" | "medium" | "low" | null"""
+- confidence: "high" | "medium" | "low" | null
 
-    response = claude.messages.create(
-        model="claude-haiku-4-5-20251001",
+Return JSON only, no markdown."""
+
+    response = client.chat.completions.create(
+        model="deepseek-chat",
         max_tokens=400,
-        system=system,
-        messages=[{"role": "user", "content": prompt}],
+        messages=[
+            {"role": "system", "content": "You are a financial analyst assistant. Return structured JSON only — no markdown, no extra text."},
+            {"role": "user", "content": prompt},
+        ],
     )
-    return json.loads(response.content[0].text)
+    return json.loads(response.choices[0].message.content)
 
 
 async def fetch_kol_history(api: API, username: str, existing_ids: set, limit: int = 500) -> list:
@@ -105,8 +105,10 @@ async def main() -> None:
     existing_ids = {t["tweet_id"] for t in existing_tweets}
 
     api = await get_api()
-    base_url = os.environ.get("ANTHROPIC_BASE_URL")
-    claude = anthropic.Anthropic(base_url=base_url) if base_url else anthropic.Anthropic()
+    client = OpenAI(
+        api_key=os.environ.get("DEEPSEEK_API_KEY"),
+        base_url="https://api.deepseek.com",
+    )
 
     new_tweets: list = []
 
@@ -129,11 +131,9 @@ async def main() -> None:
             text = tweet.rawContent or ""
 
             try:
-                analysis = analyze_tweet(text, claude)
+                analysis = analyze_tweet(text, client)
             except Exception as exc:
-                import traceback
                 print(f"  Analysis error [{type(exc).__name__}]: {exc}")
-                traceback.print_exc()
                 continue
 
             if not analysis.get("is_investment_related"):
