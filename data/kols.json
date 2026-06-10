@@ -11,7 +11,7 @@
     "display_name": "小木",
     "focus": "A股/港股",
     "enabled": true,
-    "notify": true
+    "notify": false
   },
   {
     "username": "unusual_whales",
