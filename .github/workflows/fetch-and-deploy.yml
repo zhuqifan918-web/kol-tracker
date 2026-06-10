@@ -59,7 +59,9 @@ jobs:
           git add data/tweets.json data/summaries.json
           git diff --staged --quiet && exit 0
           git commit -m "chore: update tweets"
+          git stash
           git pull --rebase origin main
+          git stash pop || true
           git push
 
       # ── 4. Build frontend ─────────────────────────────────────────
