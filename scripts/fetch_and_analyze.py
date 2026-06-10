@@ -66,13 +66,14 @@ Return a JSON object with exactly these fields:
 - tickers: array of stock/crypto ticker symbols mentioned (e.g. ["NVDA", "BTC"]), empty array if none
 - direction: "bullish" | "bearish" | "neutral" | null — null only if not investment related
 - summary: string — 1-3 sentence Chinese summary of the investment insight; null if not investment related
+- translation: string — full Chinese translation of the tweet; null if not investment related
 - confidence: "high" | "medium" | "low" | null — null if not investment related
 
 Return JSON only, no markdown."""
 
     response = client.chat.completions.create(
         model="deepseek-chat",
-        max_tokens=400,
+        max_tokens=600,
         messages=[
             {"role": "system", "content": "You are a financial analyst assistant. Return structured JSON only — no markdown, no extra text."},
             {"role": "user", "content": prompt},
@@ -94,13 +95,18 @@ def send_email_notification(tweet: dict) -> None:
     a = tweet["analysis"]
     direction = DIRECTION_ZH.get(a.get("direction", ""), "")
     tickers = "  ".join(f"${t}" for t in a.get("tickers", []))
+    published = tweet.get("published_at", "")[:19].replace("T", " ") + " UTC"
 
     subject = f"[KOL追踪] {tweet['kol_display_name']}" + (f" · {tickers}" if tickers else "")
     body = f"""{tweet['kol_display_name']} (@{tweet['kol_username']}) 发布了新推文
+发布时间：{published}
 
 {'方向：' + direction if direction else ''}{'　　标的：' + tickers if tickers else ''}
 
 {a.get('summary', '')}
+
+中文翻译：
+{a.get('translation', '')}
 
 原文：
 {tweet['content']}
