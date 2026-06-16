@@ -1,70 +1,70 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AXTI",
       "$SIVE",
       "$LITE",
       "$AAOI",
-      "$MU"
+      "$AXTI",
+      "$IQE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学供应链瓶颈与投资机会",
-      "存储芯片（HBM/内存）结构性增长",
-      "AI基建上游（衬底、外延片、激光器）"
+      "人工智能基础设施投资",
+      "光学/光通讯供应链瓶颈",
+      "上游半导体材料与设备"
     ],
-    "recent_shift": "近期从个人辩护转向更系统地展示过往成功预测，并强调光子学、存储、新创云三大主题正在验证中。",
+    "recent_shift": "从早期关注数据中心光学器件扩展到更上游的基板和外延片，并强调欧洲小型光电公司价值。",
     "representative_quotes": [
-      "If you want to figure out psychologically what other regards are believing, you use TA. But for determining the actual upside... nah",
-      "$AXTI didn't go up 8000% because the golden waterfall candle alert sounded back at $8. it's because of InP substrate...",
-      "$MU looks like the next Nvidia. When Nvidia was $400B (now $4.5T+), markets thought GPUs were a short-term cycle. Same with memory today."
+      "I think AI is the most disruptive technology in human history.",
+      "Just some reflection, my core high conviction ideas from 2025 aged super well!",
+      "Photonics is still probably the earliest out of the three."
     ],
-    "generated_at": "2026-06-16T10:56:31.047494+00:00"
+    "generated_at": "2026-06-16T15:50:57.472643+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
       "SPCX",
+      "HOOD",
+      "NVDA",
       "INTC",
-      "ROKU",
-      "SPAL"
+      "QCOM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治与石油航运复苏",
-      "政府投资与股市联动",
-      "科技与AI驱动的市场创新"
+      "SpaceX与meme股热潮",
+      "宏观因素与地缘政治影响",
+      "杠杆ETF与新金融产品"
     ],
-    "recent_shift": "从关注平台工具推广转向宏观地缘事件和公司新闻密集评论",
+    "recent_shift": "近期看法更偏向SpaceX的强劲涨势和积极期权流，早前观点更多关注宏观事件。",
     "representative_quotes": [
-      "The playbook to investing in 2026 - Trump's administration buys Intel $INTC on 8/22/25 - It's up another 3% today - now up 400%+ since - A generational trade by the president himself",
-      "BREAKING: GraniteShares launches 2x long, $SPAL, and 2x short, $SNK, SpaceX ETFs on $SPCX. Leveraged + inverse, daily reset, high risk incl. total loss.",
-      "BREAKING: Nvidia, $NVDA, to raise $20 billion through 7 part US bond issuance"
+      "The day 1 $SPCX options flows are bullish out of the gates with positive net call flows and negative net put flows!",
+      "SpaceX, $SPCX, shares jump 20%, adding $412 billion in market value.",
+      "Evercore ISI has said that the SpaceX, $SPCX, IPO could reignite bull market."
     ],
-    "generated_at": "2026-06-16T10:56:37.892376+00:00"
+    "generated_at": "2026-06-16T15:50:54.794880+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$DRAM",
-      "$NVDA",
-      "$NOK",
-      "$SPCX",
-      "海力士"
+      "DRAM",
+      "MU",
+      "NOK",
+      "SPCX",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI存储需求长期短缺",
-      "存储为核心投资标的",
-      "长期持有优于短线交易",
-      "英伟达与诺基亚合作太空算力",
-      "SPCX IPO对市场的影响"
+      "存储（内存）是AI革命的核心，长期供不应求",
+      "马斯克的太空算力计划（SPCX）和机器人需要大量存储与基站（诺基亚）",
+      "韩股与美股波动剧烈，但强调长期持有和信仰",
+      "机构募资后资金释放带来反弹机会",
+      "Intel应转型代工以扭转颓势"
     ],
-    "recent_shift": "较早提到SPCX上市可能导致市场调整，但后期强调存储的复苏和长期信心。",
+    "recent_shift": "早期强调SPCX上市后资金释放和存储业绩支撑，近期更多聚焦诺基亚与太空算力的深度绑定，并强化存储的长期确定性",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
       "人大部分的恐惧来源于自己的想象，时间会抚平一切，也会证明一切。",
-      "英伟达机柜这里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润。"
+      "马斯克的 $SPCX 梦想离不开诺基亚 $NOK ... 以后地上都是特斯拉机器人连接诺基亚的基站 诺基亚的基站连接spcx的算力卫星。"
     ],
-    "generated_at": "2026-06-16T10:56:34.125426+00:00"
+    "generated_at": "2026-06-16T15:50:52.185904+00:00"
   }
 }

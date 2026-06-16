@@ -1,5 +1,308 @@
 [
   {
+    "tweet_id": "2066907903701987453",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jim Cramer has said that SpaceX, $SPCX, has become a memestock.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066907903701987453",
+    "published_at": "2026-06-16T15:37:00+00:00",
+    "fetched_at": "2026-06-16T15:50:20.535604+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "Jim Cramer表示SpaceX（$SPCX）已变成一只模因股，这暗示其价格波动可能更多受到社交媒体和散户情绪驱动，而非基本面因素。投资者需警惕投机风险。",
+      "translation": "吉姆·克莱默表示，SpaceX（$SPCX）已经变成了一只模因股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066902870889271408",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Robinhood, $HOOD, to cut 10% of its fulltime workforce.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066902870889271408",
+    "published_at": "2026-06-16T15:17:00+00:00",
+    "fetched_at": "2026-06-16T15:50:22.124201+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "HOOD"
+      ],
+      "direction": "bearish",
+      "summary": "Robinhood（HOOD）宣布裁员10%全职员工，反映公司面临经营压力，可能对股价产生负面影响，属于利空消息。",
+      "translation": "Robinhood（股票代码：$HOOD）将裁减10%的全职员工。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066884499942883593",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Yum Brands to sell Pizza Hut for $2.7 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2066884499942883593",
+    "published_at": "2026-06-16T14:04:00+00:00",
+    "fetched_at": "2026-06-16T15:50:27.580387+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "YUM"
+      ],
+      "direction": "neutral",
+      "summary": "Yum Brands以27亿美元出售必胜客，该交易可能对YUM的股价产生影响，投资者需关注后续发展以判断是利好还是利空。",
+      "translation": "Yum Brands以27亿美元出售必胜客。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066883993123848249",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The day 1 $SPCX options flows are bullish out of the gates with positive net call flows and negative net put flows!\n\nhttps://t.co/koiEiqkjPI https://t.co/8MYDtDz8mm",
+    "tweet_url": "https://x.com/unusual_whales/status/2066883993123848249",
+    "published_at": "2026-06-16T14:01:59+00:00",
+    "fetched_at": "2026-06-16T15:50:29.325826+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出SPCX的Day 1期权交易显示出强劲的看涨信号，看涨期权净流入为正，看跌期权净流入为负，表明市场情绪积极。",
+      "translation": "SPCX首日期权交易开盘即呈现看涨态势，看涨期权净流量为正，看跌期权净流量为负！",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066880473192902828",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SpaceX, $SPCX, to acquire Cursor for $60 billion in stock",
+    "tweet_url": "https://x.com/unusual_whales/status/2066880473192902828",
+    "published_at": "2026-06-16T13:48:00+00:00",
+    "fetched_at": "2026-06-16T15:50:30.829466+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX以600亿美元股票收购Cursor，显示其扩张和看涨迹象，对SPCX构成潜在利好。",
+      "translation": "突发新闻：SpaceX，$SPCX，将以600亿美元的股票收购Cursor。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066876611576606865",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The $SPCX options chain is now live!\n\nSee what SPCX options they're trading with Unusual Whales: https://t.co/2LGEEfuqzY https://t.co/7kJaIGHk75",
+    "tweet_url": "https://x.com/unusual_whales/status/2066876611576606865",
+    "published_at": "2026-06-16T13:32:39+00:00",
+    "fetched_at": "2026-06-16T15:50:33.097223+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文宣布SPCX（ETF）的期权链现已上线，并引流到交易分析平台。虽未明确多空方向，但表明该ETF的期权市场已开放，对关注SPCX的交易者具有参考价值。",
+      "translation": "$SPCX 的期权链现已上线！看看他们在Unusual Whales上交易的SPCX期权：https://t.co/2LGEEfuqzY https://t.co/7kJaIGHk75",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066872671808245815",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The S&amp;P500 can hit 9,000 this year, per Evercore.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066872671808245815",
+    "published_at": "2026-06-16T13:17:00+00:00",
+    "fetched_at": "2026-06-16T15:50:35.761666+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPY"
+      ],
+      "direction": "bullish",
+      "summary": "Evercore预测标普500指数年内可能达到9000点，表达了对美国股市的强烈看涨预期。",
+      "translation": "根据Evercore的预测，标普500指数今年可能达到9000点。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066868456457416871",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some random thoughts, I do think AI is the most disruptive technology in human history. \n\nTo the level of agricultural or industrial revolution.\n\nSince Anthropic, OpenAi, XAI, and others are racing to build superintelligence. \n\nThe amount of economic impact can't be measured if AI helps find cures for cancer or accelerates discovery for Quantum Computing. \n\nOr if AI end up displacing the workforce, which increases profitability for companies. \n\nThe US Gov has every incentive to keep the buildout going too, as the implications from Warfare, Cybersecurity, is also immeasurable if China takes the lead. \n\nSo there's likely to be incentives and subsidies to win, even if there's not enough profit derived LLM training/inference. \n\nAs for sustainability, when you look upstream, $GOOGL is able to fund it majorly with their own cashflow, same with $AMZN, $MSFT. \n\nMore lukewarm on $META. Very iffy about $ORCL. \n\nBut I do see some bubbles forming around debt interest like $CRWV.\n\nMaybe circular valuations that's happening with OpenAI backlog agreements or $NVDA / $AMD agreements with Neoclouds to buy their GPUs.\n\nBut as seen with $MSFT and having OpenAI be a major part of the backlog, it did correct off the information, so \"bubbles\" like that do pop despite the overall markets increasing.\n\nDefinitely don't see a bubble in upstream semiconductors from $LITE to Sk Hynix though since the amount of profit they get from the buildout would likely be insane to make up for capex decreasing. \n\nOpenAI was actually my biggest fear from contagion, eg. $CRWV, $CBRS and others, but they just raised a lot.\n\nSo think it will be fine for another 1 1/2 years of capex, especially if they IPO this year. \n\nI also don't think we'll get massive Fed tightening despite \"predictions\" since this will trigger a contagion since many of these players rely heavily on debt. \n\nAnd although the Fed is independent, don't think Trump would have supported someone who is against his administration goals.  \n\nAs for semiconductor valuations going up every day like $AMD or $MU, there's probably going to be some corrections here and there. Everything going up together is kinda unhealthy. \n\nCan't time the capex peak but just from $AVGO and other projections, it just keeps accelerating exponentially into 2028. \n\nEspecially as everyone is starting to sign multi year agreements as well. \n\nOpenAI contagion / hyperscaler capex decreasing / fed tightening was what I'm looking out for, and no blaring signs of any of those yet. \n\nSo I think the music will keep playing for this year at the bare minimum.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066868456457416871",
+    "published_at": "2026-06-16T13:00:15+00:00",
+    "fetched_at": "2026-06-16T15:49:15.174173+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "AMZN",
+        "MSFT",
+        "META",
+        "ORCL",
+        "CRWV",
+        "NVDA",
+        "AMD",
+        "LITE",
+        "MU",
+        "AVGO",
+        "CBRS"
+      ],
+      "direction": "bullish",
+      "summary": "分析认为AI是颠覆性技术，中美竞争下美国政府会持续补贴，上游半导体如NVDA、AMD盈利强劲，泡沫风险可控，未来1-2年资本支出持续增长。",
+      "translation": "只是一些随想，我认为AI是人类历史上最具颠覆性的技术，堪比农业或工业革命。Anthropic、OpenAI、XAI等公司正在竞相构建超级智能。如果AI帮助找到癌症治疗方法或加速量子计算发现，其经济影响难以估量。或者如果AI最终取代劳动力，提高公司盈利能力。美国政府也有充分激励推进建设，因为如果中国领先，战争和网络安全的影响同样不可估量。因此，即使LLM训练/推理利润不足，也可能有激励和补贴。关于可持续性，上游来看，谷歌、亚马逊、微软能用自己的现金流资助，我对Meta较冷淡，对Oracle非常不确定。但我看到一些泡沫围绕债务利息如CRWV。OpenAI的积压协议或NVDA/AMD与云商的GPU交易可能存在循环估值。但正如微软将OpenAI作为积压的一部分后价格修正，此类泡沫虽会破裂但市场整体仍在上升。上游半导体如LITE和SK海力士我不认为有泡沫，因为它们从建设中获得巨大利润。我原本最担心OpenAI的传染效应，如CRWV、CBRS等，但他们刚融了一大笔钱，所以未来1.5年资本支出没问题，尤其如果他们今年IPO。我也不认为会有大规模美联储紧缩，因为这会引发传染，许多玩家依赖债务。虽然美联储独立，但我不认为特朗普会支持反对其政府目标的人。半导体估值如AMD、MU每日上涨，可能会有调整。一切都同时上涨不太健康。无法预测资本支出峰值，但从博通等预测看，它呈指数增长到2028年，尤其大家开始签多年协议。我关注的OpenAI传染、超大规模资本支出减少、美联储紧缩，目前没有明显信号。所以我认为音乐至少今年还会继续。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066867638446489905",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Evercore ISI has said that the SpaceX, $SPCX, IPO could reignite bull market.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066867638446489905",
+    "published_at": "2026-06-16T12:57:00+00:00",
+    "fetched_at": "2026-06-16T15:50:37.199401+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "Evercore ISI认为SpaceX的IPO可能重新点燃牛市，显示出对市场前景的乐观态度。投资者可关注SPCX相关动态。",
+      "translation": "Evercore ISI表示，SpaceX的IPO可能重新点燃牛市。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066862605457829981",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Retail investors buy SpaceX, $SPCX, in record numbers, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2066862605457829981",
+    "published_at": "2026-06-16T12:37:00+00:00",
+    "fetched_at": "2026-06-16T15:50:38.908714+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "根据CNBC报道，散户投资者对SpaceX股票（$SPCX）的购买量创下历史新高，显示市场对该公司的强烈兴趣和乐观情绪。",
+      "translation": "散户投资者以创纪录的数量购买SpaceX股票（$SPCX），据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066857572146225194",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China economy weakens further in May, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2066857572146225194",
+    "published_at": "2026-06-16T12:17:00+00:00",
+    "fetched_at": "2026-06-16T15:50:40.727993+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中国5月经济数据弱于预期，可能对A股和港股形成压力，投资者需警惕下行风险。",
+      "translation": "根据CNBC报道，中国经济在5月进一步走弱。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066852539035795922",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Gold sell-off was a ‘reset,’ Barclays has said.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066852539035795922",
+    "published_at": "2026-06-16T11:57:00+00:00",
+    "fetched_at": "2026-06-16T15:50:42.172942+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD"
+      ],
+      "direction": "bullish",
+      "summary": "巴克莱认为近期黄金抛售是一次‘重置’，后市可能迎来上涨机会。对于黄金投资者而言，可视为逢低买入的信号。",
+      "translation": "巴克莱表示，黄金抛售是一次‘重置’。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066847505782899082",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Qualcomm, $QCOM, CEO says AI agents will replace apps, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2066847505782899082",
+    "published_at": "2026-06-16T11:37:00+00:00",
+    "fetched_at": "2026-06-16T15:50:43.784292+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "QCOM"
+      ],
+      "direction": "bullish",
+      "summary": "高通CEO称AI代理将取代应用，表明公司押注AI趋势，可能带动未来增长，对投资者构成利好。",
+      "translation": "高通CEO表示，AI代理将会取代应用程序，据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066838650193949091",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Woah, $SPCX acquired Cursor for $60B.\n\nI did not think it was worth that much…\n\nMaybe network effect or data for improving models became invaluable? \n\nI’m sure Elon has a plan in mind, the Twitter acquisition paid extreme dividends. https://t.co/FoZ1wb6DI9",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066838650193949091",
+    "published_at": "2026-06-16T11:01:48+00:00",
+    "fetched_at": "2026-06-16T15:49:29.630337+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "推文认为SPCX收购Cursor的交易尽管价格高昂，但网络效应或数据价值可能被低估，并联想Elon Musk的Twitter收购获得巨大回报，暗示对SPCX前景乐观。",
+      "translation": "哇，$SPCX以600亿美元收购了Cursor。我之前认为它不值那么多……也许网络效应或用于改进模型的数据变得无价？我确信Elon有计划，Twitter的收购带来了丰厚的回报。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2066832888847630555",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -35,6 +338,25 @@
       "summary": "该推文强烈看多存储板块，认为存储是AI革命的核心方向，建议重仓持有。",
       "translation": "存储是AI革命的终极正确答案。其他股票相比之下，真是一堆垃圾。天壤之别。大仓位一定要拿着存储，捏住AI的俩个蛋蛋。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066825836250947906",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Do you the ai bubble is not popping this year?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066825836250947906",
+    "published_at": "2026-06-16T10:10:53+00:00",
+    "fetched_at": "2026-06-16T15:49:24.918354+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文询问AI泡沫是否会在今年破裂，表达了对AI市场估值过高的担忧，但没有给出明确的多空立场。",
+      "translation": "你认为AI泡沫今年不会破裂吗？",
+      "confidence": "medium"
     }
   },
   {
@@ -125,6 +447,27 @@
       "summary": "推文回顾了2025年对光通信和半导体股票的看涨预测，这些预测后来得到了验证，并暗示当前市值约30亿美元的SIVE可能具有类似上涨潜力。",
       "translation": "有趣地回顾一下2025年的随机想法。那时，AAOI市值20亿美元，LITE 260亿美元，AXTI 5亿美元。现在：AAOI 153.7亿美元，Lumentum 744.7亿美元，AXT 72.4亿美元。当时信息较少，毕竟是一个早期主题。显然，随着更多细节的出现，ASIC计划可能存在一些细微差别被遗漏。但方向性上，我很高兴我的主题想法被证明是正确的。看到当前市值30亿美元的光通信多头股SIVE，有种似曾相识的感觉。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066784093954793656",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明的救世主，能放螺旋屁屁的天才。 https://t.co/kXkGwfcs3W",
+    "tweet_url": "https://x.com/xiaomustock/status/2066784093954793656",
+    "published_at": "2026-06-16T07:25:01+00:00",
+    "fetched_at": "2026-06-16T15:50:02.142474+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "推文对SPCX表达极度乐观情绪，将马斯克比作救世主，暗示投资者对相关资产有强烈看涨预期。但内容夸张，需谨慎对待。",
+      "translation": "SPCX这一波太爽了，马斯克简直是银河系的耶稣转世，人类文明的救世主，能放螺旋屁的天才。",
+      "confidence": "medium"
     }
   },
   {
@@ -496,6 +839,33 @@
     }
   },
   {
+    "tweet_id": "2066535221554733278",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just as a recap, these were all my core European longs:\n\n1. $SIVE\n2. $LPK\n3. $SOI\n4. $RPI \n5. $IQE\n6. $ALRIB\n7. $XFAB\n\nSivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.\n\nEmbedded in many hyperscaler suppliers from Jabil to Ayar. Should go brrr 2027 but markets are forward looking, so ramps + qualifications should get priced in now. \n\nLPK Laser - Glass core substrate \"monopoly\" with LIDE. \n\n\"More than 80% of major global players have selected our equipment for process validation, learning and scaling to mass production\"\n\nSoitec - Silicon photonics SoI substrate pure monopoly while coming out of legacy drag segments.  \n\nRaspberry Pi - Was my fun idea around Raspberry Pis being used for AI hardware deployments. \n\nPreviously this thing was mainly educational or hobby boards, but now used for edge/local AI. Just thought revenue increase would be extremely material and it played out well. \n\nIQE - Critical epiwafer player for your Western photonics like Macom, Tower, Lumentum, and others. \n\nWas kinda going under, but thought their latent capacity relative to Landmark was undervalued. \n\nAlso given how important it was, I thought that your downstream players + Govs wouldn't let it go under, so it was more of a moonshot idea earlier in the year. \n\nLot more derisked now, very important.\n\nRiber - Kinda monopoly in the MBE space, exposure to Quantum / quantum dot + silicon photonics. \n\nFound out from OSINT help from a friend latentvalue that Microsoft Quantum was buying their machines, so this was direct hyperscaler validation + kinda de-risked at current MCs.\n\nXFab - SiC foundry backed by EU/US CHIPS Act with power semi upside. (152% Y/Y growth for their sic vertical). \n\nMain growth was their silicon photonics foundry past 2027 that's getting evaled by nvidia. And that they're leading Europe's value chain efforts in photonics, kinda like an early tower semi. \n\nWe'll see how this plays out, thought power semi exposure + low P/B would derisk the company until they scale their photbunchonics efforts. \n\nFrom my own personal thoughts:\n\nOut of the  maybe $SOI has already been re-rated the most? But I'm holding anyway. \n\n$LPK and $ALRIB I think are still undervalued despite their monopolies. \n\n$RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai. \n\n$IQE probably has a long way to go given new tower long term agreement, alongside macom. And if they convert latent capacity, I still think it has a chance of rerating like landmark. \n\n$XFAB idk if im missing something or are markets missing something. you have nvidia as a direct eval of their silicon photonics foundry, and it's trading below replacement P/B. i think im right though. \n\n$SIVE I see has the highest upside out of all of them given laser company ability to vertically integrate, acquire companies downstream to make their lasers more valuable, etc. Just like coherent/lumentum. \n\nThere's like 1-2 more random ones that aren't really material, but just in general.\n\nThese are the ones I've liked the most.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
+    "published_at": "2026-06-15T14:56:05+00:00",
+    "fetched_at": "2026-06-16T15:49:41.044996+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "LPK",
+        "SOI",
+        "RPI",
+        "IQE",
+        "ALRIB",
+        "XFAB"
+      ],
+      "direction": "bullish",
+      "summary": "该推文详细分析了多只欧洲长期持有的股票，涵盖光电子、玻璃基板、硅光子、AI硬件等热门领域，作者对大部分标的持乐观态度，尤其看好SIVERS（激光芯片）、LPK（玻璃基板垄断）、ALRIB（MBE设备垄断）和XFab（SiC+硅光子代工）的上涨潜力。",
+      "translation": "以下是我核心的欧洲多头持仓：$SIVE、$LPK、$SOI、$RPI、$IQE、$ALRIB、$XFAB。SIVERS：下一代光子学的核心激光瓶颈，从1.6T可插拔到CPO，嵌入多家超大规模供应商（从Jabil到Ayar），2027年应会大爆发，但市场前瞻，现在就会定价爬坡和认证。LPK Laser：玻璃基板LIDE工艺“垄断”，超过80%的全球主要玩家已选择其设备进行工艺验证和量产爬坡。Soitec：硅光子SOI衬底纯垄断，同时摆脱传统拖累业务。Raspberry Pi：AI硬件部署的趣味想法，从教育/爱好者板转向边缘/本地AI，收入增长显著。IQE：西方光子学关键外延片供应商（服务Macom、Tower、Lumentum等），原本快倒闭，但认为其闲置产能被低估，且下游客户和政府不会让它倒闭，如今风险已大幅降低。Riber：MBE设备的垄断供应商，涉足量子点/硅光子，微软量子部门购买其机器，得到超大规模验证。XFab：SiC代工厂，受益于欧美芯片法案，功率半导体同比增长152%，主要增长点在于硅光子代工（2027年后），正在被英伟达评估，类似于早期的Tower Semiconductor。个人认为：SOI可能已重估最多，但仍持有；LPK和ALRIB仍然低估；RPI边走边看，若成为边缘AI的迷你英伟达会很有趣；IQE因新长期协议和Macom合作，仍有重估空间；XFab交易在净资产以下，而英伟达直接评估其硅光子代工，市场可能没看到这一点。SIVERS在垂直整合、并购下游公司等方面潜力最大。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2066535009402356017",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -683,6 +1053,27 @@
       "summary": "该推文极度看好$SIVE，认为其是AI光互连核心供应商，拥有多家超大规模客户的认证和采购协议，估值低于$POET，并有望复制$LITE的增长路径，强调2027-2028年需求庞大，短期催化剂是纳斯达克上市时间表。",
       "translation": "$SIVE就是下一个SIVE。别以为你能找到另一家公司。这家公司已经获得资格认证，很可能成为独家/主供应商，服务于：- $JBL和其他可插拔超大规模供应商- Ayar和$NVDA NVLink CPO生态系统同时作为$GFS以及可插拔/CPO/NPO部署的基础参考激光器。那些超大规模企业如$AMD等都在用，按当前估值来看。就连$POET也购买$SIVE的激光器，而$POET的估值仅仅因为一笔5000万美元的采购协议就与$SIVE差不多。2027到2028年超大规模供应商的数量简直太夸张了。从今天几个小时后召开的股东大会，我们希望看到纳斯达克上市时间表的确认。这样他们就有空间进行并购以扩大TAM，并使他们销售的每颗激光器更有价值。效仿$LITE成长为750亿美元公司的道路。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066436086675513577",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit I need another $SIVE serenity 😗",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066436086675513577",
+    "published_at": "2026-06-15T08:22:10+00:00",
+    "fetched_at": "2026-06-16T15:49:45.300691+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "neutral",
+      "summary": "提及股票代码$SIVE，表达了对该股票的需求或好感，但没有明确的方向性分析或推荐。",
+      "translation": "@aleabitoreddit 我需要再来一股$SIVE的宁静😗",
+      "confidence": "low"
     }
   },
   {
@@ -1060,6 +1451,27 @@
       "direction": "bullish",
       "summary": "推文指出AI军备竞赛导致上游供应链瓶颈，特别是各国出口管制带来的投资机会，并提到$AXTI。整体看多上游供应链相关投资机会。",
       "translation": "AI霸权战争开始了。我认为很多上游供应链瓶颈是由各国相互实施出口管制造成的（例如$AXTI）。这将在不久的将来带来一些有趣的机会。也就是说，Anthropic在新加坡到中国等地被大量蒸馏。尽管有些争议，但这样的步骤确实有助于维护美国在AI领域的领先地位，将最先进的模型留在国内。我认为超级智能不应该全球开放，因为我们正在进入未知领域。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065597531644743999",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: https://t.co/bwn0sximKZ",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065597531644743999",
+    "published_at": "2026-06-13T00:50:03+00:00",
+    "fetched_at": "2026-06-16T15:49:54.088421+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ANTH"
+      ],
+      "direction": "bearish",
+      "summary": "美国政府以国家安全为由限制Fable 5和Mythos 5模型出口，影响Anthropic客户使用，可能对ANTH（Anthropic）股价产生负面压力。",
+      "translation": "美国政府以国家安全为由发布出口管制指令，暂停任何外国国民（包括外国籍的Anthropic员工）在美国境内或境外访问Fable 5和Mythos 5。该命令的实际效果是我们必须立即为所有客户禁用Fable 5和Mythos 5以确保合规。其他所有Claude模型的访问不受影响。我们对给客户带来的干扰表示歉意。我们认为这是误解，正在尽快恢复访问。阅读完整声明：https://t.co/bwn0sxkimz",
       "confidence": "medium"
     }
   },
@@ -1766,6 +2178,25 @@
       "direction": "neutral",
       "summary": "该推文讨论加密货币市场的剧烈波动和散户常见亏损原因，建议长期持有（存储）而非追涨杀跌，等待市场重估。",
       "translation": "暴涨暴跌，每天都来一次，没点信仰的话真是要被折磨疯。散户最大的亏损很可能来自不断的追涨杀跌，存储还是适合捏着别动，等市场慢慢重估。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064351682658435169",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "麻了，又直线下跌📉",
+    "tweet_url": "https://x.com/xiaomustock/status/2064351682658435169",
+    "published_at": "2026-06-09T14:19:29+00:00",
+    "fetched_at": "2026-06-16T15:50:10.265604+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文表达了市场突然急剧下跌的沮丧情绪，可能暗示投资者面临亏损或市场恐慌，建议警惕短期风险。",
+      "translation": "天哪，又直线下跌📉",
       "confidence": "medium"
     }
   },
