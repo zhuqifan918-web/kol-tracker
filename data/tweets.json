@@ -1,1 +1,2062 @@
-[]
+[
+  {
+    "tweet_id": "2066747957035389072",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: One of my favorite ways to use @unusual_whales is starting with the Market Map instead of only scrolling the flow feed.\n\nIn this video, I walk through how I use it to find names that are starting to stand out before digging deeper into the contracts.\n\nWe go through:\n• Spotting hidden flow\n• Finding unusual volume\n• Looking at net premium\n• Watching names separating from the market\n• Using the Market Map as a starting point for research\n\nThis helps you find areas worth looking into instead of randomly chasing whatever hits the tape.\n\nWatch here:\nhttps://t.co/u6cUmFb4VV\n\nIf you want to use the same @unusual_whales tools, you can save 10% on the annual or monthly subscription here:\nhttps://t.co/xNtvfox5Lf",
+    "tweet_url": "https://x.com/unusual_whales/status/2066747957035389072",
+    "published_at": "2026-06-16T05:01:25+00:00",
+    "fetched_at": "2026-06-16T05:48:23.958678+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文介绍了一种利用Unusual Whales市场地图识别潜在交易机会的方法，包括发现隐藏流动、异常成交量、净溢价等，但不直接推荐任何具体标的或方向。",
+      "translation": "RT @AnthonySandford：我最喜欢使用@unusual_whales的方法之一就是从市场地图开始，而不是只滚动浏览流动数据。在本视频中，我将演示如何利用它找出开始脱颖而出的股票，再深入研究合约。内容涵盖：发现隐藏流动、寻找异常成交量、关注净溢价、观察与市场走势分离的股票、以及将市场地图作为研究起点。这能帮助你找到值得关注的领域，而不是随意追逐任何即时信息。观看地址：https://t.co/u6cUmFb4VV。如果你想使用同样的@unusual_whales工具，可在此处订阅年费或月费节省10%：https://t.co/xNtvfox5Lf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066727809175932934",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Bank of Japan raises rates to 1% for first time since 1995",
+    "tweet_url": "https://x.com/unusual_whales/status/2066727809175932934",
+    "published_at": "2026-06-16T03:41:22+00:00",
+    "fetched_at": "2026-06-16T05:48:26.597269+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "日本央行加息至1%可能收紧全球流动性，对风险资产构成压力，短期利空股市和加密货币。",
+      "translation": "突发：日本央行自1995年以来首次将利率上调至1%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066726511684800763",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "For those unaware, we launched the White House Asset Management Portfolio on Autopilot\n\nIt lets you invest in the same companies Trump’s admin invests in\n\nHere’s how to see the full performance + holdings\nhttps://t.co/1O9ArQ45Am https://t.co/2YnKrbiXlB",
+    "tweet_url": "https://x.com/unusual_whales/status/2066726511684800763",
+    "published_at": "2026-06-16T03:36:12+00:00",
+    "fetched_at": "2026-06-16T05:48:28.739519+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文推广白宫资产管理投资组合，声称可投资特朗普政府投资的公司，暗示跟随政府投资方向可能获得正面回报，属于看涨观点。",
+      "translation": "对于那些不知道的人，我们推出了白宫资产管理投资组合的自动驾驶模式，它让你投资于特朗普政府投资的公司。以下是查看完整表现和持仓的方法。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066720197491437898",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "60% chance Iran agrees to end enrichment of uranium by December 31, per Polymarket.\n\nSee more: https://t.co/SfHldYszrQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2066720197491437898",
+    "published_at": "2026-06-16T03:11:07+00:00",
+    "fetched_at": "2026-06-16T05:48:33.676227+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "伊朗可能在年底前放弃铀浓缩，地缘风险缓和预期或提振全球市场情绪，对原油等避险资产形成压力，但利好风险资产如股票和加密货币。",
+      "translation": "根据Polymarket数据，伊朗在12月31日前同意停止铀浓缩的可能性为60%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066707573139763211",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "New reports that $AMD is scrambling for CW laser supply. \n\nAnd is negotiating large-scale purchase orders for CW Lasers to ensure its production capacity is not constrained by $NVDA (Trendforce)\n\nObvious CW laser beneficiaries: \n- $SIVE (AMD went to GFS for CPO, Sivers reference laser level)\n- $AAOI (Rosenblatt analyst checks)\n\nLumentum/Coherent are kinda booked out way into 2028 as well. \n\nLumentum is especially constrained for CW capacity already from existing EML contracts (so they probably are buying from Sumitomo/Furukawa and co). \n\nMaybe Macom and Japanese giants still have spare capacity. (disclosure, own aaoi/sivers).\n\nI predicted this last year and said hyperscalers should go more upstream to secure capacity... at laser levels, epiwafer levels, or even inp substrate levels. \n\nTo not get bottlenecked by Nvidia.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066707573139763211",
+    "published_at": "2026-06-16T02:20:57+00:00",
+    "fetched_at": "2026-06-16T05:42:39.208183+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "SIVE",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出AMD正在抢购连续波激光器产能以避免受英伟达制约，并点名受益股SIVE和AAOI，同时提到Lumentum/Coherent产能已排至2028年，暗示上游供应链存在投资机会。",
+      "translation": "新报告称$AMD正在抢购连续波激光器供应。并且正在协商大规模采购订单，以确保其生产能力不受$NVDA的限制（Trendforce）。明显的连续波激光器受益者：$SIVE（AMD转向GFS做CPO，Sivers参考激光器级别）、$AAOI（Rosenblatt分析师确认）。Lumentum/Coherent的产能也已排到2028年。Lumentum的连续波产能尤其紧张，因为已有EML合同（所以他们可能正在从住友/古河等公司采购）。也许Macom和日本巨头还有剩余产能。（披露：持有aaoi/sivers）。我去年就预测了这一点，并说超大规模企业应该更上游地锁定产能……在激光器级别、外延片级别甚至InP衬底级别。以免被英伟达卡脖子。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066676986324648239",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Apparently, $SPCX is a $2.5T company now. \n\nI did say Americans would buy anything futuristic without caring about valuations... \n\nI guess everything in Murica go brrr. https://t.co/QAKU0D9EIH",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066676986324648239",
+    "published_at": "2026-06-16T00:19:25+00:00",
+    "fetched_at": "2026-06-16T05:42:46.330712+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "$SPCX"
+      ],
+      "direction": "bearish",
+      "summary": "推文嘲讽美股市场非理性繁荣，尤其是指出SPCX市值高达2.5万亿美元，认为美国投资者盲目追捧任何未来概念而不关心估值，暗示市场存在估值泡沫风险。",
+      "translation": "显然，$SPCX现在是一家2.5万亿美元的公司。\n\n我确实说过，美国人会买任何看起来未来感十足的东西，而不关心估值……\n\n看来在美利坚，一切都在“嗖嗖”地涨。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066651594100498607",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Average US petrol price falls below $4 on deal to reopen Strait of Hormuz, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2066651594100498607",
+    "published_at": "2026-06-15T22:38:31+00:00",
+    "fetched_at": "2026-06-16T05:48:43.851593+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国汽油价格跌破4美元，若霍尔木兹海峡重新开放将增加全球石油供应，可能导致油价下跌，利空能源板块相关投资。",
+      "translation": "根据英国金融时报消息，因达成协议重新开放霍尔木兹海峡，美国平均汽油价格降至4美元以下。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066645327168610489",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX, $SPCX, shares jump 20%, adding $412 billion in market value.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066645327168610489",
+    "published_at": "2026-06-15T22:13:37+00:00",
+    "fetched_at": "2026-06-16T05:48:45.375036+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX股价飙升20%，市值增加4120亿美元，显示市场对该公司前景极为乐观，可能受利好消息或业绩驱动。",
+      "translation": "SpaceX，$SPCX，股价上涨20%，市值增加4120亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066598347717423139",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NVIDIA's bond sale increased to $25 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2066598347717423139",
+    "published_at": "2026-06-15T19:06:56+00:00",
+    "fetched_at": "2026-06-16T05:48:50.171258+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "英伟达将债券发行规模增至250亿美元，这通常用于融资以支持扩张或回购，对股价影响中性偏正面，需关注具体用途。",
+      "translation": "英伟达的债券发行规模增至250亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066581408639025229",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Join us today to talk about how investors are playing SPCX IPO with @willrhind from GraniteShares: https://t.co/ylpdmCcOpL",
+    "tweet_url": "https://x.com/unusual_whales/status/2066581408639025229",
+    "published_at": "2026-06-15T17:59:37+00:00",
+    "fetched_at": "2026-06-16T05:48:52.920848+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "推特提到与GraniteShares的Will Rhind讨论投资者如何参与SPCX IPO，暗示可能存在投资机会，但未明确方向。",
+      "translation": "最新消息：今天加入我们，与GraniteShares的Will Rhind一起讨论投资者如何参与SPCX IPO：https://t.co/ylpdmCcOpL",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066576483586539854",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US oil reserve has hit a 43-year low, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2066576483586539854",
+    "published_at": "2026-06-15T17:40:03+00:00",
+    "fetched_at": "2026-06-16T05:48:54.474676+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国石油储备跌至43年新低，可能推高油价，利好能源类资产但增加通胀压力，需关注相关ETF及个股。",
+      "translation": "根据Axios报道，美国石油储备已跌至43年来的最低点。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066569991865200726",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, draws $85 billiln of investor demand for bond sale",
+    "tweet_url": "https://x.com/unusual_whales/status/2066569991865200726",
+    "published_at": "2026-06-15T17:14:15+00:00",
+    "fetched_at": "2026-06-16T05:48:55.935026+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达债券发行吸引850亿美元投资者需求，显示市场对其信用和前景高度信心，利好股价。",
+      "translation": "英伟达（$NVDA）的债券发行吸引了850亿美元的投资者需求。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066560470018867530",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The playbook to investing in 2026\n\n- Trump's administration buys Intel $INTC on 8/22/25\n- It's up another 3% today\n- now up 400%+ since\n\nA generational trade by the president himself https://t.co/TLCciJNw5N",
+    "tweet_url": "https://x.com/unusual_whales/status/2066560470018867530",
+    "published_at": "2026-06-15T16:36:25+00:00",
+    "fetched_at": "2026-06-16T05:48:30.861791+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "推文声称特朗普政府于2025年8月22日购入英特尔（$INTC），该股今日再涨3%，累计涨幅已超400%，被视为总统级别的历史性交易。这表明作者对英特尔及当前市场持极度看涨态度。",
+      "translation": "2026年投资指南：特朗普政府于8月22日买入英特尔（$INTC），今日再涨3%，目前累计涨幅已超400%。这是总统本人做出的划时代交易。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066550549051519156",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran says Strait of Hormuz to reopen fully Friday.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066550549051519156",
+    "published_at": "2026-06-15T15:57:00+00:00",
+    "fetched_at": "2026-06-16T05:48:36.592478+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "伊朗宣布霍尔木兹海峡将于周五全面重新开放，这有助于缓解全球能源供应链的紧张局势，可能对油价产生下行压力并利好航运和能源消费类资产。",
+      "translation": "伊朗表示霍尔木兹海峡将在周五全面重新开放。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066543035400552481",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Join us today at 2pm EST to talk about how investors are playing SPCX IPO with @willrhind from GraniteShares: https://t.co/ylpdmCcOpL",
+    "tweet_url": "https://x.com/unusual_whales/status/2066543035400552481",
+    "published_at": "2026-06-15T15:27:08+00:00",
+    "fetched_at": "2026-06-16T05:49:03.320409+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文宣布了一场关于SPCX IPO的线上讨论，邀请投资者与GraniteShares的专家参与。内容中性，仅提供信息，无明确买卖建议。",
+      "translation": "今天美东时间下午2点加入我们，与GraniteShares的@willrhind一起讨论投资者如何参与SPCX IPO。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066537201614442519",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: 🚨 GraniteShares launches 2x long, $SPAL, and 2x short, $SNK, SpaceX ETFs on $SPCX. Leveraged + inverse, daily reset, high risk incl. total loss. @graniteshares",
+    "tweet_url": "https://x.com/unusual_whales/status/2066537201614442519",
+    "published_at": "2026-06-15T15:03:57+00:00",
+    "fetched_at": "2026-06-16T05:49:06.850329+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPAL",
+        "SNK",
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "GraniteShares 推出了基于 SpaceX 指数 $SPCX 的 2 倍杠杆做多 ($SPAL) 和 2 倍反向做空 ($SNK) 的 ETF，具有每日重置特征，风险极高，可能导致本金全损。",
+      "translation": "突发：🚨 GraniteShares 推出了 2 倍杠杆做多 $SPAL 和 2 倍反向做空 $SNK 的 SpaceX ETF，基于 $SPCX 指数。杠杆和反向产品，每日重置，高风险，包括本金全损的可能。来源：@graniteshares",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066535009402356017",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit I was thinking, wouldn't water related stocks go brrr in the next years due to the insane data centers water usage + global warming + population growing? I feel like these 3 components put together are the perfect recipe for a water shortage in the future, am I missing something?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066535009402356017",
+    "published_at": "2026-06-15T14:55:15+00:00",
+    "fetched_at": "2026-06-16T05:42:59.132637+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文认为由于数据中心用水量增加、全球变暖和人口增长，未来水资源可能短缺，看好水务相关股票。",
+      "translation": " @aleabitoreddit 我在想，由于数据中心的巨大用水量、全球变暖和人口增长，水务相关股票未来几年会不会大涨？这三个因素叠加在一起，未来很可能导致水资源短缺，我是不是漏掉了什么？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066521694836330618",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I’ve written a thesis on these 3 themes early on:\n\nNeoclouds, Photonics, and Memory.\n\nNow, it’s fun to sit back and watch all my thesis ideas play out from $AAOI to $EWY to $NBIS. \n\nEven got my warnings right too, $IREN is still stagnant due to the $6B of constant selling pressure from the ATM, while $NBIS reaches ATHs.\n\nBut the bagholders still don’t want to admit it.\n\nThink a core part is knowing what theme comes next with markets, then comes picking the winner + heavy concentration in them.\n\nIf you went long on software and chose the ideal stock, you’d probably end up not as happy? \n\nPhotonics is still probably the earliest out of the three.\n\nBut I can see Nebius end up like AWS one day.\n\nAnd $MU / SK Hynix / Samsung potentially end up like a mini $NVDA if memory demand is structural.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066521694836330618",
+    "published_at": "2026-06-15T14:02:20+00:00",
+    "fetched_at": "2026-06-16T05:43:17.338486+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "EWY",
+        "NBIS",
+        "IREN",
+        "MU",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "作者早期布局了Neoclouds、光子学和内存三大主题，看好相关标的，如NBIS可能成长为类似AWS的公司，MU等内存股可能成为迷你版NVDA。",
+      "translation": "我早期就撰写了关于这三个主题的论文：新云、光子学和内存。现在，看着我的论文想法从$AAOI到$EWY到$NBIS逐步实现，真是有趣。我的警告也对了，$IREN由于ATM带来的60亿美元持续抛售压力而停滞不前，而$NBIS则创下历史新高。但那些持有者仍然不愿承认。我认为核心部分是知道市场接下来会流行什么主题，然后选择赢家并高度集中投资。如果你做多软件并选择了理想的股票，你可能最终不会那么开心？光子学可能仍是三者中最早的。但我可以看到Nebius有朝一日像AWS一样。而$MU / SK Hynix / 三星如果内存需求是结构性的，可能会成为迷你版的$NVDA。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066515963592527972",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump: Ships are starting to move, many loaded up with oil, out of the Strait of Hormuz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066515963592527972",
+    "published_at": "2026-06-15T13:39:34+00:00",
+    "fetched_at": "2026-06-16T05:49:13.152841+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普称船只开始驶离霍尔木兹海峡，且多艘满载石油，暗示中东石油供应得以恢复，对全球能源市场及油价可能产生下行压力，利好石油进口国和相关行业。",
+      "translation": "突发：特朗普：船只开始移动，许多满载石油，驶出霍尔木兹海峡。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066515621534433404",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: FOX to buy $ROKU for $160/share in cash and stock deal",
+    "tweet_url": "https://x.com/unusual_whales/status/2066515621534433404",
+    "published_at": "2026-06-15T13:38:12+00:00",
+    "fetched_at": "2026-06-16T05:49:14.668752+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ROKU"
+      ],
+      "direction": "bullish",
+      "summary": "福克斯将以每股160美元现金加股票收购Roku，意味着收购溢价，对Roku股东是利好，可能推动股价短期上涨。",
+      "translation": "突发：福克斯将以每股160美元现金加股票收购Roku。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066514588921901275",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Nvidia, $NVDA, to raise $20 billion through 7 part US bond issuance",
+    "tweet_url": "https://x.com/unusual_whales/status/2066514588921901275",
+    "published_at": "2026-06-15T13:34:06+00:00",
+    "fetched_at": "2026-06-16T05:49:21.007961+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "英伟达（NVDA）宣布通过7部分美国债券发行筹集200亿美元，这属于公司融资活动，对股价短期影响中性，但可能增加财务灵活性。",
+      "translation": "突发新闻：英伟达（$NVDA）将通过7部分美国债券发行筹集200亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066513938490003718",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Market is open and WhaleWatch is live!\n\nTrade the open and make flow requests\n\nNew feed below:\n\nhttps://t.co/kEd8xsyUku",
+    "tweet_url": "https://x.com/unusual_whales/status/2066513938490003718",
+    "published_at": "2026-06-15T13:31:31+00:00",
+    "fetched_at": "2026-06-16T05:49:16.954525+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布“鲸鱼观察”实时市场监控服务已启动，鼓励用户进行开市交易并发送资金流向请求，提供了相关链接。这暗示可能关注大户资金流向或市场流动性，但未提供具体方向或投资建议。",
+      "translation": "市场开盘，“鲸鱼观察”正在直播！进行开盘交易并发送资金流动请求。下方是新动态推送：https://t.co/kEd8xsyUku",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2066498742942159288",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE is the next SIVE.\n\nDon’t think you’ll find another company.\n\nThat’s qualified and likely primary/sole source with:\n\n- $JBL and other pluggable hyperscaler suppliers \n- Ayar and the $NVDA NVLink CPO ecosystems\n\nWhile being the foundational reference laser for $GFS and pluggable/CPO/NPO deployments.\n\nThat hyperscalers like $AMD and others use, at current valuations.\n\nEven $POET buys $SIVE lasers and Poet is about the same valuation just off having one $50m purchase agreement. \n\nAmount of hyperscaler suppliers for 2027 into 2028 is just ridiculous. \n\nFrom the general meeting today in a few hours, we’ll hopefully see NASDAQ listing timelines confirmed.\n\nSo they can have room for M&A to TAM expansion and to make each laser they sell more valuable.\n\nFollowing what $LITE did to grow into a $75B company.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066498742942159288",
+    "published_at": "2026-06-15T12:31:08+00:00",
+    "fetched_at": "2026-06-16T05:43:24.184034+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "JBL",
+        "NVDA",
+        "GFS",
+        "AMD",
+        "POET",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文极度看好$SIVE，认为其是AI光互连核心供应商，拥有多家超大规模客户的认证和采购协议，估值低于$POET，并有望复制$LITE的增长路径，强调2027-2028年需求庞大，短期催化剂是纳斯达克上市时间表。",
+      "translation": "$SIVE就是下一个SIVE。别以为你能找到另一家公司。这家公司已经获得资格认证，很可能成为独家/主供应商，服务于：- $JBL和其他可插拔超大规模供应商- Ayar和$NVDA NVLink CPO生态系统同时作为$GFS以及可插拔/CPO/NPO部署的基础参考激光器。那些超大规模企业如$AMD等都在用，按当前估值来看。就连$POET也购买$SIVE的激光器，而$POET的估值仅仅因为一笔5000万美元的采购协议就与$SIVE差不多。2027到2028年超大规模供应商的数量简直太夸张了。从今天几个小时后召开的股东大会，我们希望看到纳斯达克上市时间表的确认。这样他们就有空间进行并购以扩大TAM，并使他们销售的每颗激光器更有价值。效仿$LITE成长为750亿美元公司的道路。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066435515763524048",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Do you have some similar older stock picks, you still believe in and want for them to rise accordingly?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066435515763524048",
+    "published_at": "2026-06-15T08:19:54+00:00",
+    "fetched_at": "2026-06-16T05:43:11.002296+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该用户询问是否有推荐的类似旧股票，期望这些股票能上涨，暗示了对这些股票未来增长的信心。",
+      "translation": "@aleabitoreddit 你有一些类似的旧股票选择吗？你仍然相信它们，并希望它们相应地上涨？",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2066435132471513578",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Ur welcome with $IQE https://t.co/dn7XDgZ4FE",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066435132471513578",
+    "published_at": "2026-06-15T08:18:22+00:00",
+    "fetched_at": "2026-06-16T05:43:29.805259+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IQE"
+      ],
+      "direction": "bullish",
+      "summary": "推文提及IQE股票，并表达感谢，暗示积极情绪，可能为投资推荐或看涨信号。",
+      "translation": "不客气，关于$IQE。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066421816793714938",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal.\n\nRemember I told you all IQE was important to Western optical supply chains back at $12?\n\n$MTSI had to go out of their way to secure their supply with IQE.\n\nNow there’s another critical deal with Tower Semi. https://t.co/4A5PAuA3PU",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066421816793714938",
+    "published_at": "2026-06-15T07:25:28+00:00",
+    "fetched_at": "2026-06-16T05:43:40.744520+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IQE",
+        "TSEM",
+        "MTSI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调IQE与Tower Semiconductor签署了InP外延片多年期协议，同时提及IQE此前已与MTSI达成供应合作，表明IQE在西方光通信供应链中的关键地位。作者对IQE及合作方（TSEM、MTSI）持乐观态度，认为该交易进一步巩固了IQE的战略价值。",
+      "translation": "哇，$IQE和$TSEM签署了一项多年期的InP外延片协议。还记得我告诉过你们，当IQE股价还在12美元时，它对西方光通信供应链很重要吗？$MTSI之前不得不专门与IQE达成供应协议。现在又和Tower Semi达成了关键交易。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066408937272782988",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Hi serenity! Take a look $IQE https://t.co/gKRvJrNBn1",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066408937272782988",
+    "published_at": "2026-06-15T06:34:17+00:00",
+    "fetched_at": "2026-06-16T05:43:45.194312+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IQE"
+      ],
+      "direction": "neutral",
+      "summary": "推文提到了一只名为IQE的股票，但未提供具体的投资观点或方向。",
+      "translation": "嗨，宁静！看这个$IQE https://t.co/gKRvJrNBn1",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2066404298163154976",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I did say Foosung (093370) was going to be a major winner from the bottleneck created by Chinese export controls on Japan…\n\nMost people chase 7.5% index returns, yet random bottlenecks spotted might be 21% in a day lol https://t.co/50znQb5Qei",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066404298163154976",
+    "published_at": "2026-06-15T06:15:51+00:00",
+    "fetched_at": "2026-06-16T05:43:50.063204+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "093370"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到由于中国对日本出口限制导致的瓶颈，Foosung（093370）成为主要受益者，并暗示该股票可能带来高达21%的日涨幅，远超指数回报。",
+      "translation": "我确实说过，Foosung（093370）将是中国对日本出口管制造成的瓶颈的主要赢家……大多数人追逐7.5%的指数回报，但随机发现的瓶颈可能一天就带来21%的收益，哈哈。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066387018246971786",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "一定要去正规市场玩，今天看到有人朋友圈分享的一段话。\n东北每到冬天，白雪皑皑，非常冷，要熬到春暖花开才暖和。\n但你实际不需要熬，直接买个机票到三亚一直暖和。\n\ndram，smh，qqq，海力士全是好东西，数不过来。 https://t.co/VTtFgJHsxi",
+    "tweet_url": "https://x.com/xiaomustock/status/2066387018246971786",
+    "published_at": "2026-06-15T05:07:11+00:00",
+    "fetched_at": "2026-06-16T05:47:03.857780+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DRAM",
+        "SMH",
+        "QQQ",
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "推文通过比喻（冬天去三亚）建议投资者不要死守等待市场回暖，而应直接转向表现强劲的领域。明确提及DRAM、SMH、QQQ和SK海力士等投资标的，整体态度积极看多。",
+      "translation": "一定要去正规市场玩，今天看到有人朋友圈分享的一段话。东北每到冬天，白雪皑皑，非常冷，要熬到春暖花开才暖和。但你实际不需要熬，直接买个机票到三亚一直暖和。DRAM、SMH、QQQ、海力士全是好东西，数不过来。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066360345774764496",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Yep, very stupid to be a bear.\n\nWhen Trump is doing everything to boost markets before Midterms. \n\nOn top, your $WOLF power semi basket should go brrr from 800 VDC acceleration.\n\n$LITE optical basket should go brrr from InP easing.  \n\n$SPCX successful IPO gives more appetite to risk on themes/IPOs (eg. Space sector).  \n\nAnd overall macro go brr from War/Strait peace deals.\n\nIt’s already kind of showing, since 2026 rate hike odds also crashed from 65% -> 35% following the news. Along with crude futures dropping. \n\nI've actually found Europe to be the most price sensitive to Iran tensions, so EU markets would probably be the most bullish overall… \n\n(South Korea/TW was originally with Sk Hynix moving directly in correlation to crude oil futures, but stopped caring after awhile).\n\nBut basically: Murica go brrrr.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066360345774764496",
+    "published_at": "2026-06-15T03:21:12+00:00",
+    "fetched_at": "2026-06-16T05:44:02.838561+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WOLF",
+        "LITE",
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强烈看涨市场，认为特朗普提振市场、电力半导体和光学板块受益、SPCX成功IPO以及地缘局势缓和将推动美股和欧股上涨。",
+      "translation": "是的，做空非常愚蠢。特朗普正在尽一切努力在中期选举前提振市场。此外，你的$WOLF电力半导体篮子应该从800V加速中受益，$LITE光学篮子应从InP供应宽松中受益，$SPCX成功IPO增加了对风险主题/IPO（如太空领域）的兴趣。整体宏观因素受益于战争/海峡和平协议。这已经开始显现，2026年加息概率也从65%暴跌至35%。同时原油期货下跌。我发现欧洲对伊朗紧张局势最敏感，因此欧盟市场可能整体最为看涨……（韩国/台湾最初与SK海力士相关，与原油期货直接联动，但后来不再关注）。但基本上：美国要起飞了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066340661633372452",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Today, there's a new report that China eased InP substrate exports. \n\nWhich is expected to relieve mass production bottlenecks in the photonics market (source: Digitimes)\n\nMy optical positions are very happy to hear this:\n\nFrom $AXTI (substrates), $IQE (epiwafers) to $AAOI (lasers) / $LITE / $SIVE, and others. \n\nTaiwanese optical players like VPEC, Landmark, and others should go brrr as well. \n\nJust to recap: the photonics market, especially for laser companies is moreso \"how much can you make\" rather than how much demand is there. \n\nInP substrates was one of the main bottlenecks affecting upstream capacity.   \n\nSo if you're able to make more = more revenue.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066340661633372452",
+    "published_at": "2026-06-15T02:02:59+00:00",
+    "fetched_at": "2026-06-16T05:44:13.499292+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "IQE",
+        "AAOI",
+        "LITE",
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到中国放松InP衬底出口，缓解了光电子市场量产瓶颈，利好相关光学公司（如AXTI、IQE、AAOI等），并认为激光公司产能增加将直接推动收入增长。整体观点积极。",
+      "translation": "今天有新报道称中国放松了InP衬底的出口，预计这将缓解光电子市场的量产瓶颈（来源：Digitimes）。我的光学头寸对此非常高兴：从$AXTI（衬底）、$IQE（外延片）到$AAOI（激光器）/ $LITE / $SIVE等。台湾的光学公司如VPEC、Landmark等也应该会大涨。回顾一下：光电子市场，尤其是激光公司，更多是“你能生产多少”的问题，而不是需求有多大。InP衬底曾是限制上游产能的主要瓶颈之一。因此，如果你能生产更多 = 更多收入。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066331718471307715",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit 看来美股又要大涨，太多利好消息了",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066331718471307715",
+    "published_at": "2026-06-15T01:27:26+00:00",
+    "fetched_at": "2026-06-16T05:44:07.511381+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文认为美股市场即将大涨，主要基于大量利好消息推动，表达了乐观态度。",
+      "translation": "看起来美股又要大涨，太多利好消息了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066331049605627951",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA and $GOOGL lead 800V DC ahead of schedule. \n\n\"Ahead of schedule\", pulled up to Q3 2026 with small volume shipments starting . \n\n- Delta Electronics (2308), $VRT\n- Song Chuan Precision (7788)\n- Schneider Electric, Eaton, Siemens.\n\nAll flagged as beneficiaries. \n\n\"Market sources indicate that Nvidia’s Vera Rubin platform and Google’s next-generation AI data centers will be the first to adopt the technology\"\n\nSource: Commercial Times \n\nThe power semi trade should be happy to hear this.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066331049605627951",
+    "published_at": "2026-06-15T01:24:47+00:00",
+    "fetched_at": "2026-06-16T05:44:18.885068+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "GOOGL",
+        "2308",
+        "VRT",
+        "7788"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达Vera Rubin平台和谷歌下一代AI数据中心提前采用800V DC技术，利好相关电力半导体和供应链公司。",
+      "translation": "$NVDA和$GOOGL提前引领800V直流电技术，时间点提前至2026年第三季度，小批量出货已开始。受益方包括：台达电子(2308)、$VRT、松川精密(7788)、施耐德电气、伊顿、西门子。消息来源称英伟达的Vera Rubin平台和谷歌的下一代AI数据中心将率先采用该技术。消息来源：Commercial Times。电力半导体交易者应为此消息感到高兴。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066180704661356593",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "This is gonna upset a lot of people: \n\nBut TA is astrology for traders.\n\nIt's confirmation bias + trading human psychology about entries. \n\nKinda like how people frontran $SPCE from $SPCX IPO expecting retail to mess up tickers by trading psychology. \n\n$SIVE didn't go up 1900% because of the golden cross space comet firebreathing dragon candle that someone is trying to sell for $499. \n\nIt's because markets are pricing in future revenue from $JBL, $GFS that got announced. \n\n$AXTI didn't go up 8000% because the golden waterfall candle alert sounded back at $8. \n\nit's because of InP substrate, game theory on ASP hikes, export controls, photonics demand, and others. \n\nIf you want to figure out psychologically what other regards are believing, you use TA. \n\nBut for determining the actual upside... nah\n\nPeople have been drawing $120+ TAs on $IREN for the past idk how many months none of that crap matters when there's a $6B ATM that needs to be bought through first.\n\nIt's by theme (eg. $LITE to $AAOI relations), any news catalysts that affect forward revenue, projections, macro news, earnings, float dynamics, and so on. \n\nThen you can just derive what MC that company should be at. \n\nSo for entry points, sure you can use TA. \n\nFor determining where the stock heads, just throw the tyrannosaurs rex omega-green candle indicator out the window.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066180704661356593",
+    "published_at": "2026-06-14T15:27:22+00:00",
+    "fetched_at": "2026-06-16T05:44:33.897197+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCE",
+        "SPCX",
+        "SIVE",
+        "JBL",
+        "GFS",
+        "AXTI",
+        "IREN",
+        "LITE",
+        "AAOI"
+      ],
+      "direction": "neutral",
+      "summary": "推文强烈批判技术分析（TA），认为其类似占星术，充满确认偏差和交易心理学，而非基本面驱动。作者主张通过主题关联、新闻催化剂、宏观数据、收益和流通动态等基本面因素判断股价去向，仅将TA用于入场点的心理分析。文中列举了多个股票案例（如SIVE、AXTI、IREN），说明其涨幅源于未来收入预期、供需变化等实质因素，而非技术指标。整体对TA持否定态度，但未明确看多或看空市场。",
+      "translation": "这条推文会让很多人不爽：但技术分析（TA）对交易者来说就是占星术。它是关于入场点的确认偏差和交易心理学。有点像人们通过交易心理预期散户会搞错股票代码，从而在$SPCE从$SPCX IPO时就抢先交易一样。$SIVE没有因为某个卖499美元的‘黄金交叉太空彗星喷火龙蜡烛图’而上涨1900%。它上涨是因为市场正在定价来自$JBL和$GFS的未来收入，这些消息已经公布了。$AXTI没有因为‘黄金瀑布蜡烛预警’在8美元时响起而上涨8000%。它上涨是因为InP衬底、ASP上涨的博弈论、出口管制、光子需求等因素。如果你想在心理上弄清楚其他蠢货相信什么，你使用TA。但要确定实际上行空间……不。人们在$IREN上画$120以上的TA已经好几个月了，但那些东西都无关紧要，因为有一个60亿美元的ATM需要先被买入消化。它是根据主题（例如$LITE到$AAOI的关系）、任何影响未来收入的新闻催化剂、预测、宏观消息、收益、流通动态等等。然后你就可以得出那家公司应该有的市值。所以对于入场点，当然你可以使用TA。对于判断股价去向，就把那个霸王龙欧米伽绿色蜡烛指标扔出窗外吧。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066060007724974200",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "牢牢抓紧内存，就是🤏捏住了ai的蛋蛋🥚🥚",
+    "tweet_url": "https://x.com/xiaomustock/status/2066060007724974200",
+    "published_at": "2026-06-14T07:27:46+00:00",
+    "fetched_at": "2026-06-16T05:47:07.613521+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文强调内存对AI发展至关重要，暗示持有内存相关股票将受益于AI浪潮。",
+      "translation": "牢牢抓住内存，就是捏住了AI的蛋蛋。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065930011023204509",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "If I had to stereotype my X experiences with markets:\n\nChina 🇨🇳: set on cloning me with AI, can only think of trades in short term timeframes from A-shares PTSD.\n\nAmerica 🇺🇸:  bullish on anything futuristic like $SPCX, don’t care about valuations\n\nEurope 🇪🇺: from $SIVE to $SOI, cares more about water usage than the AI buildout. Somehow can only look at past 12 months. (Belgium is cool so far), looking at you France + Sweden\n\nKorea 🇰🇷: leveraged degens. I’ve never seen a market so volatile. Equivalent of 50x hyperliquid traders but with stock markets.\n\nJapan 🇯🇵: somehow supportive of everything, haven’t seen any Japanese person aggressively bear post and short stocks before.\n\nNot enough data on other places yet like Latin America, but will have some soon enough ig.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065930011023204509",
+    "published_at": "2026-06-13T22:51:12+00:00",
+    "fetched_at": "2026-06-16T05:42:53.370747+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX",
+        "SIVE",
+        "SOI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文通过刻板印象分析了不同国家投资者的行为特点：中国投资者受A股影响偏向短期交易；美国投资者追逐未来概念且不关注估值；欧洲投资者重视ESG（如用水量）且关注短期业绩；韩国市场高波动、杠杆率高；日本投资者普遍看多。无明确买卖建议。",
+      "translation": "如果让我对我在市场上（X平台）的经历进行刻板印象总结：\n\n中国🇨🇳：打算用AI克隆我，只能从A股创伤后遗症出发以短期时间框架思考交易。\n\n美国🇺🇸：看好任何像$SPCX这样的未来主义事物，不在乎估值。\n\n欧洲🇪🇺：从$SIVE到$SOI，更关心用水量而不是AI建设。不知为何只能看过去12个月。（比利时目前还不错），特别是法国和瑞典。\n\n韩国🇰🇷：杠杆赌徒。我从未见过如此波动的市场。相当于股票市场上的50倍杠杆Hyperliquid交易者。\n\n日本🇯🇵：不知为何支持一切，没见过任何日本人激进地发布看空帖子和做空股票。\n\n其他地区如拉丁美洲数据不足，但很快会有。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065779524248510758",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "It’s been officially 3 months since I posted my $SIVE long thesis back at 4 SEK.\n\nThis idea is now up ~1900%… \n\nWith many US institutions from JPM to Fidelity only recently entering positions.\n\nProbably my 2nd greatest thesis of all time after $AXTI.\n\nDid you listen anon? https://t.co/dSZ6AeTJYL",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065779524248510758",
+    "published_at": "2026-06-13T12:53:13+00:00",
+    "fetched_at": "2026-06-16T05:44:41.531182+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "AXTI"
+      ],
+      "direction": "bullish",
+      "summary": "自发布$SIVE多头分析以来，三个月内涨幅约1900%，摩根大通、富达等美国机构近期才建仓，作者认为是其第二大成功分析。",
+      "translation": "距离我以4瑞典克朗发布$SIVE多头分析已经正式过去3个月。这个想法现在上涨约1900%… 从摩根大通到富达，许多美国机构最近才建仓。可能是我仅次于$AXTI的第二大成功分析。你听从了吗？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065758024896037020",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "한국 어머니들은 원래 이렇게 사기캐인가요?\n어머님이 WF6의 3차 파급 효과(third-order effect)에 따른 공급망 차질을 파악하셨다니 정말 놀랍습니다.\n\n중국의 대(對)일본 텅스텐 수출 통제로 인해,\n전구체 부족 및 원가 상승이 발생하여 글로벌 공급망의 25~35%가 타격을 입게 된다는 사실을 말이죠.\n\n게다가 후성(093370)이 SK하이닉스 같은 메모리 반도체 제조사들에게 얼마나 중요한 기업인지 짚어내시고,\n\n이 공급망에 얽힌 수많은 기업들 중에서도 시가총액 12억 달러(약 1조 6천억 원) 규모의 이 한국 기업을, 해당 병목 현상에 투자할 수 있는 가장 최적의 저평가된 투자처(exposure)로 정확히 발굴해 내시다니요?\n\n진심으로 감탄했습니다.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065758024896037020",
+    "published_at": "2026-06-13T11:27:47+00:00",
+    "fetched_at": "2026-06-16T05:44:54.895592+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "093370"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了一家名为后成（代码093370）的韩国公司，指出由于中国对日本钨出口限制导致供应链瓶颈，这家公司作为内存半导体关键供应商，市值12亿美元，被认为是低估值的投资机会。",
+      "translation": "韩国母亲们原来是这么厉害的吗？母亲居然能理解WF6的三次效应导致的供应链中断，真是令人惊讶。由于中国对日本的钨出口控制，导致前体短缺和成本上升，全球供应链的25-35%将受到打击。而且，母亲还指出了后成（093370）对SK海力士等内存半导体制造商的重要性，并在众多相关公司中，准确地将这家市值12亿美元（约1.6万亿韩元）的韩国公司，作为投资该瓶颈的最佳低估值标的发掘出来。真心佩服。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065736884752703865",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Okay my fellow Koreans, it's been awhile. \n\nFoosung (093370, ~$1.2B MC) looks like a massive beneficiary soon. \n\nBasically China export controlled Japan, causing their WF₆ supply chain to go down.\n\nMeaning 25% of the world's supply required for SK Hynix, Samsung, $TSM go bye bye. \n\nIf you remember the Straight of Homuz with Oil, that's a lot. \n\nFoosung's importance just shot through the roof given from some est. they're 10% of the supply chain? \n\nSo that number goes up, massive bottleneck for demand. Then this looks like the best pure play beneficiary outside of China (even if precursors pricing are rough). \n\nDon't have positions, just wanted to publish an idea.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065736884752703865",
+    "published_at": "2026-06-13T10:03:47+00:00",
+    "fetched_at": "2026-06-16T05:43:56.160956+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "093370",
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了韩国Foosung公司（093370）因日本受中国出口管制影响导致六氟化钨供应链中断，从而成为重要受益者。推文认为Foosung在全球供应中占比约10%，其重要性将大幅提升，是除中国外的最佳纯受益标的，整体看好其投资价值。",
+      "translation": "好了，我的韩国同胞们，好久不见。\n\nFoosung（093370，市值约12亿美元）看起来很快会成为巨大受益者。\n\n基本上，中国对日本实施出口管制，导致日本的WF₆供应链中断。\n这意味着全球25%的供应量（SK海力士、三星、台积电所需）将消失。\n如果你还记得霍尔木兹海峡与石油的关系，那影响很大。\nFoosung的重要性急剧上升，因为据估算他们占了供应链的10%？\n所以这个数字会上升，需求出现巨大瓶颈。然后这看起来是除中国外最好的纯受益标的（即使前体定价很艰难）。\n我没有持仓，只是想发布一个想法。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065650434644304165",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The AI supremacy Wars begins.\n\nThink a lot of the upstream supply chain bottlenecks caused by each Country export controlling each other (eg. $AXTI)\n\nShould present some interesting opportunities in the near future.\n\nThat being said, Anthropic was getting distilled left and right in Singapore -> China and others.\n\nHot take, but steps like this do help preserve American dominance in AI, keeping the most advanced model at home. \n\nI don’t think Superintelligence should be global access, since we’re starting to get into uncharted territories.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065650434644304165",
+    "published_at": "2026-06-13T04:20:16+00:00",
+    "fetched_at": "2026-06-16T05:45:01.980516+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出AI军备竞赛导致上游供应链瓶颈，特别是各国出口管制带来的投资机会，并提到$AXTI。整体看多上游供应链相关投资机会。",
+      "translation": "AI霸权战争开始了。我认为很多上游供应链瓶颈是由各国相互实施出口管制造成的（例如$AXTI）。这将在不久的将来带来一些有趣的机会。也就是说，Anthropic在新加坡到中国等地被大量蒸馏。尽管有些争议，但这样的步骤确实有助于维护美国在AI领域的领先地位，将最先进的模型留在国内。我认为超级智能不应该全球开放，因为我们正在进入未知领域。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065507165700300920",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "马斯克的 $SPCX 梦想离不开诺基亚 $NOK\n先别反驳，听我讲完。\n马斯克说在27年底实现每年1吉瓦的太空算力部署，那么太空算力向地面的传输，就必须用到基站，而不是星链。\n因为数据量非常庞大，星链数据是给手机或者地面接收器传输，数据内容简单，但是太空数据中心就就必须要通过专门的基站来做回传，到达基站再通过光纤快速传递给每个用户。\n这也是为啥英伟达要跟康宁合作扩产光纤，现阶段应该是用不了太多，真正需求应该是27年年底。\n老美，欧盟，或者其他地区都有通信运营商，为什么 马斯克的 $SPCX 最终会选择 $NOK 诺基亚合作？因为基站能跟英伟达的算力系统紧密合作gpu配合的就诺基亚一家，诺基亚把命都交给 $NVDA 了，紧密融入CUDA生态，而其他选择比如爱立信则不是，它还是以cpu为主，可以兼容，但不完全依赖英伟达。\n\n以后地上都是特斯拉机器人连接诺基亚的基站 诺基亚的基站连接spcx的算力卫星。\n $SPCX 会带着诺基亚 $NOK 把边缘计算的基站建满整个地球，月球，甚至火星。\n老马下一步棋如果想要扩展完成它的太空算力计划，那么百分之百要跟诺基亚\n$NOK 紧密合作，甚至是入股投资或者收购，收购难度应该是最大的，大概率是大额资金入股。",
+    "tweet_url": "https://x.com/xiaomustock/status/2065507165700300920",
+    "published_at": "2026-06-12T18:50:58+00:00",
+    "fetched_at": "2026-06-16T05:47:11.951368+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX",
+        "NOK",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为，马斯克的太空算力计划需要诺基亚的基站技术，因为诺基亚基站与英伟达CUDA生态紧密集成，优于竞争对手爱立信。推文暗示诺基亚可能获得大量基站订单，甚至可能被马斯克投资或收购，对诺基亚和英伟达持看涨态度。",
+      "translation": "马斯克的 $SPCX 梦想离不开诺基亚 $NOK。先别反驳，听我讲完。马斯克说在27年底实现每年1吉瓦的太空算力部署，那么太空算力向地面的传输，就必须用到基站，而不是星链。因为数据量非常庞大，星链数据是给手机或者地面接收器传输，数据内容简单，但是太空数据中心就必须要通过专门的基站来做回传，到达基站再通过光纤快速传递给每个用户。这也是为啥英伟达要跟康宁合作扩产光纤，现阶段应该是用不了太多，真正需求应该是27年年底。老美，欧盟，或者其他地区都有通信运营商，为什么 马斯克的 $SPCX 最终会选择 $NOK 诺基亚合作？因为基站能跟英伟达的算力系统紧密合作gpu配合的就诺基亚一家，诺基亚把命都交给 $NVDA 了，紧密融入CUDA生态，而其他选择比如爱立信则不是，它还是以cpu为主，可以兼容，但不完全依赖英伟达。以后地上都是特斯拉机器人连接诺基亚的基站 诺基亚的基站连接spcx的算力卫星。 $SPCX 会带着诺基亚 $NOK 把边缘计算的基站建满整个地球，月球，甚至火星。老马下一步棋如果想要扩展完成它的太空算力计划，那么百分之百要跟诺基亚 $NOK 紧密合作，甚至是入股投资或者收购，收购难度应该是最大的，大概率是大额资金入股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065462946785030506",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SPCX is now trading! \n\nAnd it’s now over $2.15T+ MC. https://t.co/HLQ8ZkbBvi",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065462946785030506",
+    "published_at": "2026-06-12T15:55:15+00:00",
+    "fetched_at": "2026-06-16T05:45:07.753330+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "SPCX 现已开始交易，市值超过 2.15 万亿美元。此消息表明该基金正式上市，但未提供明确的投资方向或分析。",
+      "translation": "SPCX 现已开始交易！而且其市值已超过 2.15 万亿美元。https://t.co/HLQ8ZkbBvi",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065447200684228634",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "spcx还是破发吧，让这些机构都亏钱，\n有钱赚的时候散户1毛钱额度都没有，\n只配下水道接盘，\n这个社会是真不公平。",
+    "tweet_url": "https://x.com/xiaomustock/status/2065447200684228634",
+    "published_at": "2026-06-12T14:52:41+00:00",
+    "fetched_at": "2026-06-16T05:47:13.804490+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bearish",
+      "summary": "该推文对SPCX持看空态度，认为应该破发让机构亏损，表达了对市场不公的不满，隐含散户在下跌中接盘的风险。",
+      "translation": "SPCX还是破发吧，让这些机构都亏钱，有钱赚的时候散户1毛钱额度都没有，只配下水道接盘，这个社会是真不公平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065434058474307866",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "All the $SNDK short sellers went extinct.\n\nCan’t believe it’s almost $2000 now?\n\nThat aside feels like everyone is just waiting for the $SPCX IPO in a few hours. https://t.co/EahzuEy1KE",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065434058474307866",
+    "published_at": "2026-06-12T14:00:28+00:00",
+    "fetched_at": "2026-06-16T05:45:12.847847+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK",
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "推文提到$SNDK空头消失，股价接近2000美元，暗示看涨；同时关注$SPCX即将进行的IPO，市场等待情绪浓厚。",
+      "translation": "所有$SNDK的空头都消失了。真不敢相信现在都快2000美元了？除此之外，感觉每个人都在等待几个小时后$SPCX的IPO。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065421073571790911",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "spcx接下来不管涨跌都会是这几周最火热的明星股，其他股票都得暗淡无光。",
+    "tweet_url": "https://x.com/xiaomustock/status/2065421073571790911",
+    "published_at": "2026-06-12T13:08:52+00:00",
+    "fetched_at": "2026-06-16T05:47:15.589802+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推特认为SPCX会成为接下来几周最受市场关注的明星股，无论涨跌都会掩盖其他股票的光芒，表达了对该股的强烈看好。",
+      "translation": "SPCX接下来不管涨跌都会是这几周最火热的明星股，其他股票都得暗淡无光。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065411016062882237",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "唯一区别是spcx是人类有史以来最伟大最有想象力的的公司，facebook不是。",
+    "tweet_url": "https://x.com/xiaomustock/status/2065411016062882237",
+    "published_at": "2026-06-12T12:28:54+00:00",
+    "fetched_at": "2026-06-16T05:47:17.172835+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "用户将SPCX与Facebook对比，认为SPCX是史上最伟大、最具想象力的公司，表达了对SPCX的极度看好态度。",
+      "translation": "唯一的区别是SPCX是人类有史以来最伟大、最有想象力的公司，而Facebook不是。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065410587644051749",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这张图可以今晚做个参考，\n当年facebook上市，美股总规模占比0.086%\n今天spcx上市，美股总规模占比0.11%\n比较接近。 https://t.co/pE9IJOIhNt",
+    "tweet_url": "https://x.com/xiaomustock/status/2065410587644051749",
+    "published_at": "2026-06-12T12:27:12+00:00",
+    "fetched_at": "2026-06-16T05:47:19.032457+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "FB",
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文通过比较Facebook上市时在美股中的占比（0.086%）与SPCX上市时的占比（0.11%），认为两者较为接近，为投资者提供了一个参考角度，但未明确表达看涨或看跌观点。",
+      "translation": "这张图可以今晚做个参考，当年facebook上市，美股总规模占比0.086%，今天spcx上市，美股总规模占比0.11%，比较接近。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065351180314955924",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Bro I still can't believe Japan's WF6 supply chain got shut down from China export controls.\n\nWhich affects $TSM, Samsung, and SK Hynix. \n\nAre we really playing global supply chain warfare and game theory over AI supremacy? \n\nJapan probably has the most amount of obscure monopolies, but they haven't fully been weaponizing it back yet.\n\nSo I wonder if this is the start of a slippery slope?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065351180314955924",
+    "published_at": "2026-06-12T08:31:08+00:00",
+    "fetched_at": "2026-06-16T05:45:23.334427+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM"
+      ],
+      "direction": "bearish",
+      "summary": "日本WF6供应链因中国出口管制中断，影响台积电、三星和SK海力士，暗示全球供应链博弈升级，可能对半导体行业造成负面冲击。",
+      "translation": "哥们，我还是不敢相信日本的WF6供应链因中国的出口管制而关闭。这影响到$TSM、三星和SK海力士。我们真的在为AI霸权打全球供应链战争和博弈论吗？日本可能拥有最多的隐形垄断，但他们还没有完全以此作为武器回击。所以我想知道这是否是滑坡效应的开始？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065347103417897423",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So doing research into some random $TSM, SK Hynix, SMIC, type bottleneck. \n\nnot familiar with WF₆ but Peric Special Gases (SHA: 688146) is main benefiary. \n\nTLDR: China -> Tungsten export controls (60-70% of Wf6 costs)\n-> Needed for DRAM/NAND\n-> Japan (35% of capacity)\n-> South Korea 20% of cpacity\n\n\"Japan’s Kanto Denka Kogyo and Central Glass had warned South Korean  chipmakers such as Samsung Electronics and DB HiTek of potential WF₆  supply disruptions\"\n\nChemNet reports that Kanto Denka and Central Glass are expected to permanently halt production starting July 2026.\n\n\"WF₆ is a critical precursor gas applied in DRAM, NAND,\"\n\nPeric Special Gases entered the supply chains of leading global foundries and memory makers, including $TSM, Samsung, SMIC.\n\nSo usually you can just invest in the main $AXTI type beneficary... \n\nOr go the other route of looking at other players that can make up for supply gaps in western supply chains\n\nI was doing too much research into inp substrates that i forgot about Tungsten third order effects i guess... \n\nBy the time news publishes something, kinda on the later end but helpful to see if there's any ripple effect anywhere",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065347103417897423",
+    "published_at": "2026-06-12T08:14:56+00:00",
+    "fetched_at": "2026-06-16T05:45:30.259658+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM",
+        "SMIC",
+        "688146",
+        "AXTI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出中国钨出口管制导致WF6（半导体关键材料）供应紧张，日本生产商计划2026年7月停产，利好A股标的Peric Special Gases (688146)，其已进入台积电、三星等供应链。",
+      "translation": "正在研究一些关于$TSM、SK海力士、SMIC之类瓶颈的随机信息。不太熟悉WF₆，但Peric Special Gases（沪市：688146）是主要受益者。简单来说：中国→钨出口管制（占WF₆成本的60-70%）→DRAM/NAND所需→日本（35%产能）→韩国（20%产能）。\"日本关东电化工业和中央玻璃已警告三星电子、DB HiTek等韩国芯片制造商WF₆可能供应中断\"。ChemNet报道，关东电化工业和中央玻璃预计将从2026年7月起永久停产。\"WF₆是用于DRAM、NAND的关键前驱气体\"。Peric Special Gases已进入领先全球代工厂和存储器制造商的供应链，包括$TSM、三星、SMIC。通常你只需投资主要的$AXTI类型受益者...或者走另一条路，关注可以填补西方供应链空白的企业。我花了太多时间研究InP衬底，以至于忘了钨的三阶效应...等新闻发布时已经晚了，但有助于观察是否有任何涟漪效应。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065333919252418913",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "VPEC new price hikes on Epiwafers today. \n\nPositive bottleneck read through on companies like $IQE and Landmark (3081) in terms of pricing power/demand for epiwafers.\n\nThis follows $MTSI investment into IQE to secure capacity, and shows how important some of these chokepoints are. \n\n(disclosure: have positions in IQE)",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065333919252418913",
+    "published_at": "2026-06-12T07:22:33+00:00",
+    "fetched_at": "2026-06-16T05:45:35.384459+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IQE",
+        "MTSI",
+        "3081"
+      ],
+      "direction": "bullish",
+      "summary": "VPEC对Epiwafer提价，表明IQE和Landmark等公司具有定价权和需求增长，继MTSI投资IQE后，凸显了这些瓶颈环节的重要性。观点看多。",
+      "translation": "VPEC今天对Epiwafer实施新一轮涨价。这对IQE和Landmark（3081）等公司在定价权和Epiwafer需求方面是积极的瓶颈解读。此前MTSI投资IQE以确保产能，这表明这些瓶颈点的重要性。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065309622420836553",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "VPEC全新光電\n\n產品價格調整通知書 (Price Adjustment Notification)\n\n親愛的合作夥伴您好：\n首先，衷心感謝貴司長年以來對 VPEC 的鼎力支持。作為您供應鏈中值得信賴的夥伴，我們始終致力於透過技術革新與製程優化，為您提供卓越的產品品質與服務價值。\n\n然而，在過去的一年中，受全球原物料成本持續攀升、供應短缺及通膨壓力之影響，我們面臨了前所未有的挑戰。儘管我司已盡最大努力透過內部優化來吸收這些額外成本，但為因應不斷增加的營運壓力，並確保能持續穩定提供高品質產品與不間斷的售後服務，經內部審慎評估，我司決定對磊晶晶圓的產品價格進行適度調整。\n\n本次磊晶晶圓價格調整的具體調幅將依品項規格有所差異，相關細節將由我司業務專員與您進一步聯繫。",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065309622420836553",
+    "published_at": "2026-06-12T05:46:00+00:00",
+    "fetched_at": "2026-06-16T05:45:41.550756+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "VPEC"
+      ],
+      "direction": "bullish",
+      "summary": "VPEC因原物料成本上漲及供應短缺，宣布調漲磊晶晶圓價格。此舉可能提升其營收與利潤率，對股價有正面影響。",
+      "translation": "VPEC全新光電產品價格調整通知書。親愛的合作夥伴您好：首先，衷心感謝貴司長年以來對VPEC的鼎力支持。作為您供應鏈中值得信賴的夥伴，我們始終致力於透過技術革新與製程優化，為您提供卓越的產品品質與服務價值。然而，在過去的一年中，受全球原物料成本持續攀升、供應短缺及通膨壓力之影響，我們面臨了前所未有的挑戰。儘管我司已盡最大努力透過內部優化來吸收這些額外成本，但為因應不斷增加的營運壓力，並確保能持續穩定提供高品質產品與不間斷的售後服務，經內部審慎評估，我司決定對磊晶晶圓的產品價格進行適度調整。本次磊晶晶圓價格調整的具體調幅將依品項規格有所差異，相關細節將由我司業務專員與您進一步聯繫。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065289672356745561",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some reflection, my core high conviction ideas from 2025 aged super well!\n\nFrom \n$ALAB: $97-> $372\n$LITE: $330 -> $904\n$AAOI: $30 -> $175\n\nAnd others like $NBIS, $RKLB, and $TSM!\n\nThis was back when I had close to no followers! \n\nI got some nuances slightly off before more information was made public. Lost conviction on ALAB along the way with optical transitions.\n\nBut this was back when AAOI and others were small $3B companies (~$14B now).\n\nSo maybe some others in the same range today like $SIVE should get some more attention?\n\nBut I’m happy a lot of them aged super well. \n\nAnd I think a large part of my recent following growth is just other seeing my ideas like $AXTI get validated over time.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065289672356745561",
+    "published_at": "2026-06-12T04:26:43+00:00",
+    "fetched_at": "2026-06-16T05:45:48.241883+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ALAB",
+        "LITE",
+        "AAOI",
+        "NBIS",
+        "RKLB",
+        "TSM",
+        "SIVE",
+        "AXTI"
+      ],
+      "direction": "bullish",
+      "summary": "推文作者回顾了2025年看好的股票（如ALAB、LITE、AAOI等）表现出色，认为小型公司可能复制类似增长，并暗示SIVE等当前市值较小的公司值得关注。整体观点乐观。",
+      "translation": "只是反思一下，我2025年的核心高确信想法表现超好！比如$ALAB从97涨到372，$LITE从330涨到904，$AAOI从30涨到175。还有其他如$NBIS、$RKLB和$TSM！当时我几乎没有粉丝。在更多信息公开之前，我有些细节把握得不太准。在光传输转型过程中，我对ALAB的信心有所下降。但那时AAOI和其他公司还是市值30亿的小公司（现在约140亿）。所以现在一些类似规模的公司如$SIVE可能值得更多关注？不过我很高兴很多想法都验证得很好。我认为近期我粉丝增长的一部分原因是大家看到我像$AXTI这样的想法逐渐获得验证。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065262802328293497",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100!\n\nFun to see both Astera, Rocketlab and Weebius grow up from being small companies…\n\nInto the largest ones on Nasdaq https://t.co/ntqBmkri6T",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065262802328293497",
+    "published_at": "2026-06-12T02:39:57+00:00",
+    "fetched_at": "2026-06-16T05:46:02.599816+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS",
+        "ALAB",
+        "RKLB"
+      ],
+      "direction": "bullish",
+      "summary": "该推文表示NBIS、ALAB和RKLB被纳入纳斯达克100指数，反映出这些公司从小型公司成长为大型公司的积极趋势，对投资有正面意义。",
+      "translation": "哇，$NBIS、$ALAB和$RKLB被加入了纳斯达克100指数！",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065136761077158061",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just in case you’re wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now.\n\nTrump just cancelled attacks on Iran.\n\nThis market is so volatile… https://t.co/mYzzYeU5rL",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065136761077158061",
+    "published_at": "2026-06-11T18:19:06+00:00",
+    "fetched_at": "2026-06-16T05:46:05.828603+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK",
+        "MRVL",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "由于特朗普取消对伊朗的袭击，市场情绪转好，导致指数和个股（如SNDK、MRVL、LITE）上涨，但市场仍然非常波动。",
+      "translation": "以防你好奇为什么指数和个股（如$SNDK、$MRVL、$LITE）现在都是绿色的。特朗普刚刚取消了对伊朗的袭击。这个市场真是太不稳定了…",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065130589204992048",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "New Anthropic news looks like a potential tailwind for the Neocloud colo sector.\n\nSuch as $WULF, $CIFR, $WYFI, $HUT and others (not named yet). \n\nAs Anthropic is pursuing its first DC leases. \n\n\"The AI company has signed more than a dozen letters of intent with U.S. developers\" per The Information.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065130589204992048",
+    "published_at": "2026-06-11T17:54:35+00:00",
+    "fetched_at": "2026-06-16T05:46:09.580485+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WULF",
+        "CIFR",
+        "WYFI",
+        "HUT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出，Anthropic签署了多项数据中心租赁意向书，这可能对Neocloud托管行业构成利好，并特别提及了WULF、CIFR、WYFI、HUT等股票。",
+      "translation": "新的Anthropic消息似乎为Neocloud托管行业带来潜在利好。例如$WULF、$CIFR、$WYFI、$HUT及其他尚未命名的公司。因为Anthropic正在寻求其首批数据中心租赁。据The Information报道，\"这家AI公司已与美国开发商签署了超过十几份意向书\"。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065114293767741950",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "If you haven’t noticed too with my other investment themes with 800V DC and CPO recently.\n\nIt’s investing in $NVDA, America’s national champion in AI, and securing their supply chains. \n\nMany things feel technologically difficult with yields to substrate supply. \n\nPeople can always bear post laser capacity or export control bottlenecks and tell people to short Nvidia’s supply chains due to difficulties. \n\nBut by investing in the critical companies to give them more capex spend for FAU capacity / yields.\n\nOr funding upstream red phosphorus/InP substrate capacity or SiC/GaN capacity. \n\nIt builds up Western supply chains to make what’s technologically challenging, possible.\n\nAlso I believe in Jensen.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065114293767741950",
+    "published_at": "2026-06-11T16:49:50+00:00",
+    "fetched_at": "2026-06-16T05:46:13.918116+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "推文看好英伟达及其供应链，认为投资关键公司可克服技术挑战，增强西方供应链，相信CEO黄仁勋。",
+      "translation": "如果你还没有注意到我最近关于800V直流和CPO的其他投资主题。那就是投资$NVDA，美国在AI领域的国家冠军，并确保其供应链。很多事情在技术上看起来很困难，从良率到衬底供应。人们总是可以在激光后道产能或出口管制瓶颈之后做空，并告诉别人因困难而做空英伟达的供应链。但通过投资关键公司，为他们提供更多资本支出用于FAU产能/良率。或者资助上游红磷/InP衬底产能或SiC/GaN产能。这可以建立西方供应链，使技术上具有挑战性的事情成为可能。我也相信黄仁勋。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065106954415169666",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。\n历史上前所未有没比存储这波更稳的生意了。这些云厂哪怕借贷融资都买存储搞AI基建。\n$DRAM $MU $KORU #2X海力士 https://t.co/NljNclBWVN",
+    "tweet_url": "https://x.com/xiaomustock/status/2065106954415169666",
+    "published_at": "2026-06-11T16:20:40+00:00",
+    "fetched_at": "2026-06-16T05:47:23.935413+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "KORU"
+      ],
+      "direction": "bullish",
+      "summary": "存储巨头产能已提前售罄至2028年，云厂商不惜借贷购买存储用于AI基建，存储行业迎来史上最稳的景气周期，利多存储相关标的。",
+      "translation": "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有，没有比存储这波更稳的生意了。这些云厂哪怕借贷融资都买存储搞AI基建。$DRAM $MU $KORU #2X海力士",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065105141238489398",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Markets should be cheering on domestic champions like $AAOI. \n\nSince it's ideal to support critical AI infra from laser fab to production in the US, rather than being a bear.\n\nFeels like everyone just outsources transceivers to Asia like Malaysia or Thailand...\n\nWith $INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE, and others... \n\nIf you haven't noticed by now, they're all critical to US supply chains. And every one of them are getting subsidies for securing Western supply chains. \n\nBefore a major trade was to short developing US/Western equities, then hedge with subsidized foreign ones. \n\nAs seen with the energy/solar firms that went bankrupt, this backfired a lot on US AI infrastructure years later with the power grid. \n\nI wanted to help change this mindset, since I believe it's very positive sum to invest in building up critical Western supply chains like photonics today. \n\nEspecially if $AAOI hits their $471m/month projections after reshoring their production to America. \n\nInstead of hoping they fail and calling critical nodes in the supply chains memestocks/bubbles, maybe it's good to change mindsets a bit so we don't see a repeat of the US Solar sector years later. \n\nUS/EU don't just hand out subsidies or CHIPS act grants to anyone.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065105141238489398",
+    "published_at": "2026-06-11T16:13:28+00:00",
+    "fetched_at": "2026-06-16T05:46:20.072159+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "INTC",
+        "IQE",
+        "XFAB",
+        "MU",
+        "WOLF",
+        "SOI",
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "推文看好美国本土AI基础设施供应链，尤其是光子学领域的AAOI，认为在美国生产可获补贴，未来有较大增长潜力，并批评过去做空美欧资产、补贴外国公司的策略导致能源/太阳能行业失败，呼吁投资者改变心态，支持国内冠军企业。",
+      "translation": "市场应该为国内冠军企业如$AAOI欢呼。支持从激光制造到生产的美国关键AI基础设施是理想的做法，而不是做空。感觉每个人都把收发器外包到亚洲如马来西亚或泰国...还有$INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE等...如果你还没注意到，它们都对美国供应链至关重要。而且它们每一个都在获得补贴以保障西方供应链。之前的重大交易是做空美国/西方股票，然后用补贴的外国股票对冲。正如破产的能源/太阳能公司所见，这在美国AI基础设施多年后严重反噬，因为电网问题。我想帮助改变这种心态，因为我相信投资建设西方关键供应链（如今天的光子学）是非常正和的。特别是如果$AAOI在将生产迁回美国后实现每月4.71亿美元的收入预期。与其希望它们失败并称供应链关键节点为迷因股/泡沫，不如改变心态，这样我们多年后就不会重蹈美国太阳能行业的覆辙。美欧不会随意发放补贴或CHIPS法案拨款给任何人。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065088136884220158",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro.\n\nOr just liquidity pull from $SPCX + index inclusion.\n\nAnd institutions frontrunning Nasdaq 100 and other rebalancing of SpaceX...\n\nAnyone know? https://t.co/sTLjsGq95V",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065088136884220158",
+    "published_at": "2026-06-11T15:05:53+00:00",
+    "fetched_at": "2026-06-16T05:46:23.805716+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "MSFT",
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文质疑当前市场（META、MSFT等）的下跌是宏观因素所致，还是由于SPCX流动性抽取、指数纳入以及机构对纳斯达克100和SpaceX再平衡的前瞻操作，表达了困惑。",
+      "translation": "到现在我已经分不清，从$META到$MSFT的市场回调到底是宏观因素导致的，还是因为$SPCX的流动性抽取加上指数纳入，以及机构在纳斯达克100和SpaceX等其他再平衡中提前布局……有人知道吗？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065073494220849660",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Woah, Frankfurt Bank strategists say:\n\n8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ( $SPCX ) shares.\n\nExcited to see how markets react around a Mega-IPO... \n\nDon't think there's been any historical precedence like this yet? https://t.co/W2apWN6QG4",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065073494220849660",
+    "published_at": "2026-06-11T14:07:42+00:00",
+    "fetched_at": "2026-06-16T05:46:27.689413+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "推文引用法兰克福银行策略师观点，指出SpaceX新股发行可能一天内吸收美国8%的经常账户赤字，暗示其市值巨大且市场需求强劲，对SPCX前景看好。",
+      "translation": "哇，法兰克福银行策略师表示：美国经常账户赤字的8%可以在一天内由海外对SpaceX（$SPCX）股票的需求进行再融资。很期待看到市场对这只巨型IPO的反应……历史上好像还没有过这样的先例？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2065039294126030906",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'm trying a new research style going through trade records for fun, in case I find anything random. \n\neg. Starlink direct suppliers:\n\nEson Precision - ($585M, 5243)\nLite-On - (way too many times for power, $16B)\nMeiko - $4.94B\nLens Technology - 300433\nCompeq - $10.36B (I covered this awhile back for spacex)\nChicony Power Technology - $1.13B (never heard of this one)\nFoxconn Interconnect - $7.48B\nDISCO (6146) - oh hey\nE&R (8027) - $758.73M (was looking at this with $LPK)\n\nlot of noise, lot of names, but it's fun",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065039294126030906",
+    "published_at": "2026-06-11T11:51:48+00:00",
+    "fetched_at": "2026-06-16T05:46:32.649437+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "5243",
+        "300433",
+        "6146",
+        "8027"
+      ],
+      "direction": "neutral",
+      "summary": "推文作者分享了一种新的研究方式，通过分析交易记录来寻找投资机会，并列举了多个星链直接供应商的股票代码和市值信息。整体语气偏向探索和分享，未明确表达看多或看空。",
+      "translation": "我正在尝试一种新的研究风格，目的是通过翻看交易记录来找点乐子，说不定能发现什么有趣的东西。例如：星链的直接供应商：Eson Precision（市值5.85亿美元，股票代码5243）、Lite-On（电源方面出现次数太多，市值160亿美元）、Meiko（49.4亿美元）、Lens Technology（300433）、Compeq（103.6亿美元，我之前为SpaceX分析过）、Chicony Power Technology（11.3亿美元，从没听说过）、Foxconn Interconnect（74.8亿美元）、DISCO（6146，哦嘿）、E&R（8027，市值7.5873亿美元，之前和$LPK一起看）。虽然有很多噪音和名字，但挺有趣的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065021329275855277",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There was interesting research published called \"Democratization of Retail Trading\".\n\nThat did a study on 1.6 Million $RDDT WSB comments. \n\nand found: \n\n1. \"WSB outperformed almost all investment banks at detecting top-performing stocks.\"\n\n2. \"Their average returns compete with the best investment banks and outperform them in certain cases.\"\n\nTheir conclusion? \n\n\"We conclude that WSB may indeed constitute a freely accessible, valuable source of investment advice.\"\n\nI do find WSB is really early to names like $RKLB, $HOOD, and others, but often get timing extremely wrong (with options). \n\nI think X is where all the alpha is at nowadays.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065021329275855277",
+    "published_at": "2026-06-11T10:40:25+00:00",
+    "fetched_at": "2026-06-16T05:46:37.272854+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RDDT",
+        "RKLB",
+        "HOOD"
+      ],
+      "direction": "neutral",
+      "summary": "推文讨论了一项关于WSB论坛投资建议的研究，指出WSB在选出表现优异股票方面甚至优于投资银行，但也承认WSB在交易时机把握上常出现错误，尤其涉及期权。作者认为X平台可能才是当前获取超额收益的最佳来源。",
+      "translation": "有一条有趣的研究发表，名为“散户交易的民主化”。该研究分析了160万条$RDDT的WSB评论，发现：1. “WSB在发现表现最佳的股票方面几乎超过了所有投资银行。” 2. “他们的平均回报率可与最佳投资银行相媲美，在某些情况下甚至更优。”他们的结论是：“我们认为WSB确实可以构成一个自由获取、有价值的投资建议来源。”我确实发现WSB对$RKLB、$HOOD等名字反应很早，但他们的时机（尤其是期权）常常非常不准。我认为现在X才是所有超额收益的所在。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2065009883133644963",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Why do I keep getting these questions!!! \n\n$XFAB is building a Silicon Photonics foundry alternative to $TSEM and $GFS. And has Europe backing it + $NVDA evaluations. \n\nIt takes time... Like October 2026, should finish up development. \n\nThen 2027 production scaled into 2028 (mass production), since they've been working on it since 2023. \n\nEveryone thinks it’s a depressed automaker supplier right now. And thankfully with European names they tend to look at TTM revenue over forward growth. \n\nSo somehow it’s leading EU’s efforts to create a $TSEM silicon photonics foundry + supply chain at ~€1.1B MC? \nThat R&D directors from ASE cite + others as future CPO routes.\n\nI’m might just really early to a lot of things, but of course most of the risk/reward comes from taking a little leap of faith in seeing it commercialized. \n\nOtherwise people can take the de-risked route with Tower directly (which I also wrote a thesis on awhile back and also like).",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2065009883133644963",
+    "published_at": "2026-06-11T09:54:56+00:00",
+    "fetched_at": "2026-06-16T05:46:42.739880+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB",
+        "TSEM",
+        "GFS",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "推文认为XFAB正在建设硅光子学代工厂，是TSEM和GFS的替代方案，有欧洲支持和英伟达评估。虽然目前被视为低迷的汽车供应商，但2026-2028年有望实现规模化量产，当前估值偏低。作者看好其长期前景，认为现在介入为早期机会。",
+      "translation": "为什么我老收到这些问题！！！$XFAB正在建设硅光子学代工厂，作为$TSEM和$GFS的替代方案。而且有欧洲支持+$NVDA的评估。这需要时间...比如2026年10月，应该完成开发。然后2027年生产扩至2028年（量产），因为他们从2023年就开始研发了。大家都以为它现在只是一个低迷的汽车供应商。还好欧洲公司倾向于看过去12个月的收入而非未来增长。所以它竟然以约11亿欧元的市值引领欧洲创建$TSEM硅光子学代工厂+供应链？ASE等公司的研发总监都将其视为未来的CPO路线。我可能只是对很多事情都太早了，但当然大部分风险/回报来自对商业化前景的一点点信念。否则人们可以直接选择Tower这条风险更低的路线（我之前也写过关于它的分析，同样看好）。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064992691902140603",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just thought this was interesting: $LPK is an unknown SpaceX supplier.\n\nYou can find it in SpaceX US import logs.  \n\nIt's fun information discovery ahead of Space'x IPO this week. Though, not sure what the exact contract entails. \n\nDisclosure: I have positions in LPK, NFA, credit to my follower Albert_TheVoid for the DM!\n\nEspecially since everyone seems to be talking about about SpaceX with Velo... \n\nJust a fun, new direct relationship between $LPK and SpaceX if people want to do more digging.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2064992691902140603",
+    "published_at": "2026-06-11T08:46:38+00:00",
+    "fetched_at": "2026-06-16T05:46:50.049216+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出LPK是一家尚未被广泛知晓的SpaceX供应商，在SpaceX即将IPO前被发现，暗示潜在投资机会。作者已持有LPK头寸，认为这是一个新的直接合作关系，值得进一步挖掘。",
+      "translation": "刚想到这个挺有意思：$LPK 是一家不为人知的 SpaceX 供应商。你可以在 SpaceX 的美国进口记录中找到它。在 SpaceX 本周 IPO 前发现这个有趣的信息。不过，不确定具体合同内容。披露：我持有 LPK 和 NFA 的头寸，感谢我的粉丝 Albert_TheVoid 的私信！尤其是现在每个人似乎都在谈论 SpaceX 与 Velo 的关系...这只是一个有趣的新直接关系，如果大家想深入挖掘的话。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064992096553959924",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Still like $XFAB ?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2064992096553959924",
+    "published_at": "2026-06-11T08:44:16+00:00",
+    "fetched_at": "2026-06-16T05:46:45.798510+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "neutral",
+      "summary": "该推文询问对$XFAB是否仍然看好，表达了对该股票投资前景的疑问。",
+      "translation": "@aleabitoreddit 仍然看好$XFAB吗？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064986326168924349",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit $lpk?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2064986326168924349",
+    "published_at": "2026-06-11T08:21:20+00:00",
+    "fetched_at": "2026-06-16T05:46:52.707282+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK"
+      ],
+      "direction": null,
+      "summary": null,
+      "translation": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2064971558670553200",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "美股今晚肯定大暴涨，相比于spcx抽走的几百亿资金，\n因为spcx募资而锁定的几千亿美金才是大头，这部分今晚美股就能放出来。\n最后的抄底机会。 https://t.co/4OK7EYY7YX",
+    "tweet_url": "https://x.com/xiaomustock/status/2064971558670553200",
+    "published_at": "2026-06-11T07:22:39+00:00",
+    "fetched_at": "2026-06-16T05:47:21.956470+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文认为美股即将暴涨，原因是SPCX募资锁定的几千亿美元即将释放，为市场带来流动性，并称这是最后的抄底机会。",
+      "translation": "美股今晚肯定大暴涨，相比于spcx抽走的几百亿资金，因为spcx募资而锁定的几千亿美金才是大头，这部分今晚美股就能放出来。最后的抄底机会。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2064770669359808548",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "坚持住，spcx的ipo募资结束就能释放几千亿美金市场里。\n我问AI说就是11号募资结束。就是不知道几点了。\n一旦结束，盘面解放军就来了。 https://t.co/iKpdMKVzEz",
+    "tweet_url": "https://x.com/xiaomustock/status/2064770669359808548",
+    "published_at": "2026-06-10T18:04:23+00:00",
+    "fetched_at": "2026-06-16T05:47:25.527672+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为SPCX的IPO募资结束后将释放数千亿美元市场流动性，并预期市场将迎来上涨（解放军）。表达了对后续行情的乐观态度。",
+      "translation": "坚持住，SPCX的IPO募资结束就能释放几千亿美金市场里。我问AI说就是11号募资结束。就是不知道几点了。一旦结束，盘面解放军就来了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064660831405805648",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back.\n\nRecent SemiAnalysis reports run contrary to our own checks at Computex.\n\nBro this has gotta be the dumbest CPO/800V selloff I’ve seen.\n\nSince the selloff from their claim $MU had 0 share of Nvidia HBM4 https://t.co/YX9apQSVLT",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2064660831405805648",
+    "published_at": "2026-06-10T10:47:56+00:00",
+    "fetched_at": "2026-06-16T05:44:24.665725+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为由SemiAnalysis报告引发的NVDA抛售毫无根据，并引用Morgan Stanley否认800V DC延迟的消息，同时指出SemiAnalysis此前关于MU失去HBM4市场份额的声明也是错误的，因此对NVDA和MU均持看涨态度。",
+      "translation": "摩根士丹利：$NVDA否认了关于800V DC被推迟的报道。最近的SemiAnalysis报告与我们自己在Computex上的核实结果相矛盾。兄弟，这一定是我见过的最愚蠢的CPO/800V抛售。自从他们声称$MU在NVDA的HBM4中占有零份额导致抛售以来...",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2064571279273804130",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩国股市在ktv和icu之间来回蹦跶，\n天天都是熔断，\n要么涨停熔断要么跌停熔断，\n真他娘的心脏受不了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2064571279273804130",
+    "published_at": "2026-06-10T04:52:05+00:00",
+    "fetched_at": "2026-06-16T05:47:27.159351+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文描述了韩国股市近期剧烈波动，频繁触发熔断机制，情感上表达了投资者的焦虑，但未提供具体投资建议或方向判断。",
+      "translation": "韩国股市在KTV和ICU之间来回蹦跶，天天都是熔断，要么涨停熔断要么跌停熔断，真他娘的心脏受不了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064540777754079664",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "假设美股跌几个月，唯一能靠业绩不断增长把股价拉回来的可能也就存储了，其他的都没业绩。",
+    "tweet_url": "https://x.com/xiaomustock/status/2064540777754079664",
+    "published_at": "2026-06-10T02:50:53+00:00",
+    "fetched_at": "2026-06-16T05:47:28.671307+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文认为，如果美股下跌数月，只有存储板块能依靠业绩持续增长来修复股价，其他板块缺乏业绩支撑，因此对存储板块持看好态度。",
+      "translation": "假设美股跌几个月，唯一能靠业绩不断增长把股价拉回来的可能也就存储了，其他的都没业绩。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064513926629412927",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "暴涨暴跌，每天都来一次，没点信仰的话真是要被折磨疯。\n散户最大的亏损很可能\n来自不断的追涨杀跌，\n存储还是适合捏着别动，\n等市场慢慢重估。 https://t.co/rRzZeioOkN",
+    "tweet_url": "https://x.com/xiaomustock/status/2064513926629412927",
+    "published_at": "2026-06-10T01:04:11+00:00",
+    "fetched_at": "2026-06-16T05:47:30.442000+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论加密货币市场的剧烈波动和散户常见亏损原因，建议长期持有（存储）而非追涨杀跌，等待市场重估。",
+      "translation": "暴涨暴跌，每天都来一次，没点信仰的话真是要被折磨疯。散户最大的亏损很可能来自不断的追涨杀跌，存储还是适合捏着别动，等市场慢慢重估。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064344357776290094",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "英伟达机柜这里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润，其他都是虚头巴脑的，就存储是真的，\n其他的就是股民的幻想。\n按照马斯克和黄仁勋的长远眼光看待存储，\n就是继续短缺到2030年，\n产能翻倍都远远不够。\n$DRAM $MU #2x海力士 #2x三星 https://t.co/mSObH19zSn",
+    "tweet_url": "https://x.com/xiaomustock/status/2064344357776290094",
+    "published_at": "2026-06-09T13:50:23+00:00",
+    "fetched_at": "2026-06-16T05:47:36.516394+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "2x海力士",
+        "2x三星"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为英伟达机柜中存储成本占比高（300万美元），其他概念规模小、利润低。基于马斯克和黄仁勋的长期视角，存储将持续短缺至2030年，产能翻倍也不够，因此看好存储相关标的。",
+      "translation": "英伟达机柜里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润，其他都是虚头巴脑的，就存储是真的，其他的就是股民的幻想。按照马斯克和黄仁勋的长远眼光看待存储，就是继续短缺到2030年，产能翻倍都远远不够。$DRAM $MU #2x海力士 #2x三星",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2064217538263719963",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "#2x海力士 #港美 #DRAM #MRAVL 都涨回来了，除了 $NOK 看来诺基亚还是差点意思。\n炒股这玩意每个人都不是神仙，暴跌抄底抄早了把自己抄成满仓最好还是装死。\n如果自己选股眼光不行，就上行业指数比如 $DRAM 或者 $SMH 这种，变相帮自己广撒网。\n如果嫌自己资金少，就2x看多etf，甚至如 $SOXL 这种三倍看多半导体。\n美股每次跌了都是好机会。",
+    "tweet_url": "https://x.com/xiaomustock/status/2064217538263719963",
+    "published_at": "2026-06-09T05:26:27+00:00",
+    "fetched_at": "2026-06-16T05:47:41.983126+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NOK",
+        "DRAM",
+        "SMH",
+        "SOXL"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为美股下跌是买入良机，推荐通过行业指数ETF（如DRAM、SMH）或杠杆ETF（如SOXL）分散投资，而不是依赖个股选择。",
+      "translation": "除了诺基亚，其他都涨回来了。炒股不是神仙，抄底抄早了满仓了最好装死。如果选股不行就买行业指数如DRAM或SMH来广撒网，资金少就用2倍甚至3倍做多半导体ETF如SOXL。美股每次下跌都是好机会。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2064210997590524098",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "高频短线交易则是停留在打工人思维，想着靠短线每天挣点，除非你是天选打工人，否则很难发财甚至大部分人都肯定最终亏钱。\n\n而长期持有只在特定情况调仓是老板思维，\n如果你的眼光和认知配得上你的财富，拥有足够远见，则早晚必定发财。 https://t.co/HZ1YwXelUJ",
+    "tweet_url": "https://x.com/xiaomustock/status/2064210997590524098",
+    "published_at": "2026-06-09T05:00:27+00:00",
+    "fetched_at": "2026-06-16T05:47:44.260799+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文将高频短线交易比作打工人思维，认为难以发财甚至容易亏损；而长期持有、仅在特定情况调仓被视作老板思维，强调凭借远见和认知迟早能致富。整体对长期投资持看好态度。",
+      "translation": "高频短线交易则是停留在打工人思维，想着靠短线每天挣点，除非你是天选打工人，否则很难发财甚至大部分人都肯定最终亏钱。而长期持有只在特定情况调仓是老板思维，如果你的眼光和认知配得上你的财富，拥有足够远见，则早晚必定发财。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064045672010068252",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "之前这张英伟达 $NVDA 的Vera Rubin NVL72成本图变化了，之前是780万美金预估，系基于过时的内存价格，严重低估了实际成本。伯恩斯坦分析师Stacy A. Rasgon给出了机架成本910万美元的预估底层逻辑。\n\nGPU仍是最大单项成本。报告显示，Rubin GPU每颗5.5万美元，每个机架配备72颗GPU，GPU成本为396万美元，占机架总成本近半。每机架36颗Vera CPU合计成本约18万美元。\n\n当前HBM 4价格约为每GB 16.6美元，但预计到2027年Vera Rubin大规模出货时，价格将升至每GB约53美元。伯恩斯坦预计该项成本约为320万美元，远高于此前根据历史价格预估的200万美元。其中，HBM 4贡献约109万美元，CPU DRAM（LPDDR5X）约80万美元，直连存储约128万美元。\n\n网络、冷却与供电合计成本200万美元。网络成本约127万美元，包括NVLink交换机约25万美元、线缆约24万美元、背板及其他规模扩展组件约38万美元，以及SpectrumX交换机约20万美元；冷却约16万美元，供电约15万美元。",
+    "tweet_url": "https://x.com/xiaomustock/status/2064045672010068252",
+    "published_at": "2026-06-08T18:03:30+00:00",
+    "fetched_at": "2026-06-16T05:47:39.819136+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文分析英伟达Vera Rubin NVL72机架成本，显示GPU和HBM4成本上升，总成本预估高于之前，但未明确推荐买卖。",
+      "translation": "之前这张英伟达 $NVDA 的Vera Rubin NVL72成本图变化了，之前是780万美金预估，系基于过时的内存价格，严重低估了实际成本。伯恩斯坦分析师Stacy A. Rasgon给出了机架成本910万美元的预估底层逻辑。GPU仍是最大单项成本。报告显示，Rubin GPU每颗5.5万美元，每个机架配备72颗GPU，GPU成本为396万美元，占机架总成本近半。每机架36颗Vera CPU合计成本约18万美元。当前HBM 4价格约为每GB 16.6美元，但预计到2027年Vera Rubin大规模出货时，价格将升至每GB约53美元。伯恩斯坦预计该项成本约为320万美元，远高于此前根据历史价格预估的200万美元。其中，HBM 4贡献约109万美元，CPU DRAM（LPDDR5X）约80万美元，直连存储约128万美元。网络、冷却与供电合计成本200万美元。网络成本约127万美元，包括NVLink交换机约25万美元、线缆约24万美元、背板及其他规模扩展组件约38万美元，以及SpectrumX交换机约20万美元；冷却约16万美元，供电约15万美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2063997740544086195",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "活过来了兄弟们，一堆大佬加持存储。\n今天马斯克也在摩根大通全球总部的采访中唱多美光科技。他表示，“真正的瓶颈在于芯片制造能力”，目前美光的产能还远不及芯片实际需求。 https://t.co/Oo0YIjI0Y2",
+    "tweet_url": "https://x.com/xiaomustock/status/2063997740544086195",
+    "published_at": "2026-06-08T14:53:03+00:00",
+    "fetched_at": "2026-06-16T05:47:45.966748+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "马斯克在摩根大通总部采访中唱多美光科技，认为芯片制造能力是瓶颈，美光产能远不及需求，暗示存储芯片前景看好。",
+      "translation": "活过来了兄弟们，一堆大佬加持存储。今天马斯克也在摩根大通全球总部的采访中唱多美光科技。他表示，“真正的瓶颈在于芯片制造能力”，目前美光的产能还远不及芯片实际需求。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2063927733931930075",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "老黄在韩国新闻发布会说暴跌应该兴奋。\n坚信存储， $DRAM #2x海力士 \n尤其是韩国其实没多少利空，最近利空都是美国市场的。 https://t.co/8emB64E9NK",
+    "tweet_url": "https://x.com/xiaomustock/status/2063927733931930075",
+    "published_at": "2026-06-08T10:14:52+00:00",
+    "fetched_at": "2026-06-16T05:47:48.805981+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DRAM",
+        "2x海力士"
+      ],
+      "direction": "bullish",
+      "summary": "黄仁勋在韩国发布会表示市场暴跌应感到兴奋，强调存储和SK海力士（2x海力士）的投资机会，并指出韩国市场利空有限，主要利空来自美国市场。",
+      "translation": "老黄在韩国新闻发布会说暴跌应该兴奋。 坚信存储， $DRAM #2x海力士 尤其是韩国其实没多少利空，最近利空都是美国市场的。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2063809823423009159",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "假如马斯克的擎天柱机器人量产，@elonmusk 马斯克需要海量的记忆体。\n\n机器人是通过摄像头拍视频存储作为记忆，每天工作24小时就要拍24小时的视频，365天工作，这个容量需求大到离谱。\n我们用手机随便拍几下就要几个gb，\n那一个能支持长期工作，有记忆能力的机器人需要多大容量的存储。\n这种肯定要优先ssd作为主要存储单元，但依然是一个天量。\n#海力士 跌的很便宜了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2063809823423009159",
+    "published_at": "2026-06-08T02:26:20+00:00",
+    "fetched_at": "2026-06-16T05:47:55.786503+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "推文讨论马斯克擎天柱机器人量产对存储的庞大需求，认为海力士跌到便宜价位，暗示投资机会。",
+      "translation": "如果马斯克的擎天柱机器人量产，需要海量的存储。机器人通过摄像头拍摄视频作为记忆，每天工作24小时就要录24小时视频，365天工作，存储需求巨大。手机随便拍几下就几个GB，能长期工作的机器人需要多大容量？肯定优先用SSD，但仍然是天量。#海力士 跌得很便宜了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2062970383930671336",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天亏成这逼样才体会到\n巴菲特的真正牛逼之处，\n拿着巨额现金几年忍住不买，我们可能三五天都受不住。\n拿着股票几十年不卖，我们拿三五个月可能已经是上限。 https://t.co/AGnKdjIc2m",
+    "tweet_url": "https://x.com/xiaomustock/status/2062970383930671336",
+    "published_at": "2026-06-05T18:50:42+00:00",
+    "fetched_at": "2026-06-16T05:47:57.684505+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "用户通过自身亏损经历，感慨巴菲特长期持有现金和股票的耐心，强调投资中耐心的重要性。",
+      "translation": "今天亏成这逼样才体会到巴菲特的真正牛逼之处，拿着巨额现金几年忍住不买，我们可能三五天都受不住。拿着股票几十年不卖，我们拿三五个月可能已经是上限。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2062940225467277401",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天应该没有赚钱的吧，\n巴菲特今天也得脱层皮 https://t.co/IeEdnVsihL",
+    "tweet_url": "https://x.com/xiaomustock/status/2062940225467277401",
+    "published_at": "2026-06-05T16:50:51+00:00",
+    "fetched_at": "2026-06-16T05:47:59.188427+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文指出今天市场大跌，连巴菲特也会亏损，暗示普遍性的市场下跌趋势，对投资者传递悲观情绪。",
+      "translation": "今天应该没有赚钱的吧，巴菲特今天也得脱层皮。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2062915090433687927",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "人们都期待的是买入即拉盘，\n而不是漫长的等待，\n他们一刻都等不了，\n更别说五年十年。\n但真是买入天天暴涨，\n泡沫得大到多大的程度，\n公司的营收和科技的发展肯定得跟公司市值匹配或者不能差太多。",
+    "tweet_url": "https://x.com/xiaomustock/status/2062915090433687927",
+    "published_at": "2026-06-05T15:10:59+00:00",
+    "fetched_at": "2026-06-16T05:48:01.199639+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "投资者普遍期望买入即涨，无法忍受长期等待，但若市场持续暴涨，泡沫将膨胀过大，而公司营收与科技发展必须与市值匹配或相差不大。",
+      "translation": "人们都期待的是买入即拉盘，而不是漫长的等待，他们一刻都等不了，更别说五年十年。但真是买入天天暴涨，泡沫得大到多大的程度，公司的营收和科技的发展肯定得跟公司市值匹配或者不能差太多。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2062914491289936038",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天这个心理按摩都按不动，\n跌的疼的一逼，\n身体没受害，\n感觉被砍了一刀。\n十年前的前十公司市值，合起来没有现在英伟达一家多。\n通货膨胀一直也在膨胀全球最顶级的公司市值。 https://t.co/Ljcas06ces",
+    "tweet_url": "https://x.com/xiaomustock/status/2062914491289936038",
+    "published_at": "2026-06-05T15:08:36+00:00",
+    "fetched_at": "2026-06-16T05:48:03.203356+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "用户表达了对市场下跌的痛苦感受，并指出当前全球顶级公司市值膨胀，暗示市场泡沫或价值高估。",
+      "translation": "今天的心理按摩都不管用了，跌得疼得要命，身体没受伤，感觉被砍了一刀。十年前市值前十的公司加起来都没有现在英伟达一家多。通货膨胀一直在膨胀全球最顶级公司的市值。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2062783101550416181",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "女股神都救不了eth和btc，\n被cz俩口子搞成诈骗市场废了，\n唯一败绩败给了crytpo，\n再牛的人来了也得亏成裤衩子才能走。\n全线崩盘。",
+    "tweet_url": "https://x.com/xiaomustock/status/2062783101550416181",
+    "published_at": "2026-06-05T06:26:30+00:00",
+    "fetched_at": "2026-06-16T05:48:06.077471+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ETH",
+        "BTC"
+      ],
+      "direction": "bearish",
+      "summary": "该推文认为加密货币市场（尤其ETH和BTC）已被CZ夫妇搞成诈骗市场，极度看空，认为即便是“女股神”也无法挽救，投资该市场必亏。",
+      "translation": "女股神都救不了eth和btc，被CZ两口子搞成诈骗市场废了，唯一败绩败给了cryptocurrency，再牛的人来了也得亏成裤衩子才能走。全线崩盘。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2062764837793419375",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "股票就是先信卖后信，早信早发财。\n白毛女刚发的时候还是跌的，\n现在直接20cm\n周末说不定再发酵一波 https://t.co/dD1bkX90JE",
+    "tweet_url": "https://x.com/xiaomustock/status/2062764837793419375",
+    "published_at": "2026-06-05T05:13:56+00:00",
+    "fetched_at": "2026-06-16T05:48:09.207446+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文讨论股票投资心理，提到早期相信并买入能获得收益，并以”白毛女“（可能指某只股票）为例，显示其从下跌到涨停的走势，暗示周末可能继续发酵，整体看涨。",
+      "translation": "股票就是先相信的人卖给后相信的人，早相信的人早发财。白毛女刚发布的时候还在下跌，现在直接20cm涨停，周末说不定再发酵一波。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2062600105249923433",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我要是 $INTC 英特尔老板，\n就直接全部放弃自己的cpu业务，转头给\n$NVDA 英伟达 和 $AMD 代工他们家的cpu，\n反正自己家的cpu都打不过他俩家，干脆不做了，直接给这俩家搞代工，这样俩家也不怕英特尔偷技术，反正自己cpu业务放弃了，还能出让点专利费。\n还能接来自海力士美光这些存储厂的HBM代工，\n以美国优先的策略，市值能轻轻松松干过 $台积电。\n可惜呐，非要自己浪费一大堆资金搞cpu研发，还亏的底朝天。",
+    "tweet_url": "https://x.com/xiaomustock/status/2062600105249923433",
+    "published_at": "2026-06-04T18:19:21+00:00",
+    "fetched_at": "2026-06-16T05:48:11.549074+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC",
+        "NVDA",
+        "AMD",
+        "台积电"
+      ],
+      "direction": "bullish",
+      "summary": "该推文建议英特尔放弃CPU业务，转而专注为英伟达和AMD代工，并承接HBM代工，认为此举可大幅提升市值，超越台积电。对英特尔转型代工持乐观态度。",
+      "translation": "我要是英特尔老板，就直接全部放弃自己的cpu业务，转头给英伟达和AMD代工他们家的cpu，反正自己家的cpu都打不过他俩家，干脆不做了，直接给这俩家搞代工，这样俩家也不怕英特尔偷技术，反正自己cpu业务放弃了，还能出让点专利费。还能接来自海力士美光这些存储厂的HBM代工，以美国优先的策略，市值能轻轻松松干过台积电。可惜呐，非要自己浪费一大堆资金搞cpu研发，还亏的底朝天。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2062597690307838038",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士除了与台积电代工合作，\n正在寻求 $INTC 英特尔来解决产能不足的问题，存储厂商都称27年产能缺口很大。\n\n对于 $INTC 英特尔业务线的唯一正解，\n彻底放弃自己的cpu业务，\n孤注一掷转向代工业务，\n那么 $INTC 市值至少能飙升到1.5万亿美金以上，\n业务能立马实现盈利。\n可惜英特尔还在硬捣鼓他们那个已经落后了的cpu芯片。\n就看以后英特尔会不会这样干。",
+    "tweet_url": "https://x.com/xiaomustock/status/2062597690307838038",
+    "published_at": "2026-06-04T18:09:45+00:00",
+    "fetched_at": "2026-06-16T05:48:13.903697+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "用户认为英特尔应彻底放弃CPU业务，全力转向代工，这样市值有望飙升至1.5万亿美元以上并实现盈利。目前英特尔坚持CPU业务导致产能不足问题突出，而存储厂商已预警2027年产能缺口很大。",
+      "translation": "海力士除了与台积电代工合作，正在寻求英特尔来解决产能不足的问题，存储厂商都称27年产能缺口很大。对于英特尔业务线的唯一正解，彻底放弃自己的cpu业务，孤注一掷转向代工业务，那么英特尔市值至少能飙升到1.5万亿美金以上，业务能立马实现盈利。可惜英特尔还在硬捣鼓他们那个已经落后了的cpu芯片。就看以后英特尔会不会这样干。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2054234702312034451",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "如果真懂了你买的股票，坚信你自己的买入原因，\n那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。\n跌了反而不敢买还割肉那说明根本不懂，\n怀疑自己买入的股票那只是在跟风，\n不适合炒股。",
+    "tweet_url": "https://x.com/xiaomustock/status/2054234702312034451",
+    "published_at": "2026-05-12T16:18:13+00:00",
+    "fetched_at": "2026-06-16T05:47:51.093238+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文强调，真正理解并坚信自己买入原因的投资者，应在股价下跌时兴奋并加仓，而非割肉。反之，跟风者因缺乏理解而恐慌抛售，不适合炒股。整体传递看多、长期持有的投资理念。",
+      "translation": "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。跌了反而不敢买还割肉那说明根本不懂，怀疑自己买入的股票那只是在跟风，不适合炒股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2033965177918620008",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: We just gave Claude full access to the options, equities, and prediction markets. \n\nThe Unusual Whales MCP Server plugs into any AI and streams live, structured market data on demand. \n\nBuild trading bots, smart money dashboards, screeners. Whatever you want. \n\nPull options flow, dark pools, congressional trades, full financials, technicals, 13Fs, insider activity, and Polymarket data with proprietary analytics to instantly spot smart vs retail divergence.\n\nIt is the most have tool for all vibecoders and traders.  \n\nGet your API key and start shipping: https://t.co/LtCRvn6s1q",
+    "tweet_url": "https://x.com/unusual_whales/status/2033965177918620008",
+    "published_at": "2026-03-17T17:54:22+00:00",
+    "fetched_at": "2026-06-16T05:48:20.800710+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推特宣布Claude接入Unusual Whales的MCP服务器，提供实时结构化市场数据，包括期权、股票和预测市场。该工具可用于构建交易机器人、智能仪表盘和筛选器，支持分析期权流、暗池、国会交易等。对交易者和开发者有参考价值。",
+      "translation": "突发：我们刚刚给了Claude对期权、股票和预测市场的完全访问权限。Unusual Whales MCP服务器可接入任何AI，按需流式传输实时结构化市场数据。构建交易机器人、智能资金仪表盘、筛选器，随心所欲。提取期权流、暗池、国会交易、完整财务数据、技术指标、13F文件、内部人交易以及Polymarket数据，通过专有分析即时发现聪明钱与散户分歧。这是所有vibecoders和交易者的必备工具。获取你的API密钥并开始部署：https://t.co/LtCRvn6s1q",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2033463897521520947",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "New position TLDR:\n\n$SIVE at $140M MC. \n\nLaser supplier for upcoming CPO/silicon photonics companies.\n\nSimilar to Innolight who buys from $LITE for current optical transcievers.\n\nFor CPO/Silicon photonics, it's the next $LITE as they supplier to companies like $POET / $AYAR. \n\nIf I had to make things simple. \n\n$LITE -> EML lasers for current optical bottlenecks. \n\n$SIVE -> Customized InP CW DFB lasers for CPO type companies like Ayar/Poet.\n\nValuation disconnect seems compelling. However, $LITE / $COHR also are competing developing CW lasers for CPO. \n\nIt feels like $SIVE has been co-developing with $POET and others for awhile, so they have a backdoor as the laser supplier to $MRVL Celestial and others.  \n\nBasically thesis is, next possible small cap $LITE as a laser supplier for upcoming CPO/Silicon photonics. \n\nOf course DYOR",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2033463897521520947",
+    "published_at": "2026-03-16T08:42:27+00:00",
+    "fetched_at": "2026-06-16T05:44:48.745552+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "LITE",
+        "POET",
+        "AYAR",
+        "COHR",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为SIVE是一家小型激光器供应商，有望成为CPO/硅光子学领域的下一代LITE，当前市值仅1.4亿美元，存在估值错位。作者看好其与POET等公司的合作，认为其可能成为Marvell Celestial等产品的激光器供应商，但提醒注意LITE和COHR也在竞争。",
+      "translation": "新仓位TLDR：\n\n$SIVE 市值1.4亿美元。\n是即将兴起的CPO/硅光子学公司的激光器供应商。\n类似Innolight从$LITE采购当前光收发器的方式。\n对于CPO/硅光子学，它是下一个$LITE，为像$POET/$AYAR这样的公司供货。\n如果我要简单化。\n$LITE -> 用于当前光瓶颈的EML激光器。\n$SIVE -> 为Ayar/Poet等CPO公司定制的InP CW DFB激光器。\n估值错位似乎很有吸引力。然而，$LITE/$COHR也在开发用于CPO的CW激光器。\n感觉$SIVE与$POET等公司合作已久，因此他们作为$MRVL Celestial等产品的激光器供应商有后路。\n基本上，论点是下一个可能的小型$LITE，作为即将到来的CPO/硅光子学的激光器供应商。\n当然，请自行研究。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2026663975145164937",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "-> $LITE is a known $GOOGL supplier. \n\n-> $IQE is a known $LITE supplier. \n\n-> $AXTI is a known $IQE supplier. \n\nGoogle TPU + Hyperscaler ASIC BOM are extremely confidential. \n\nBut you can kinda guess from relationship mapping even though nobody will say $AXTI or $IQE supplies to  X hyperscaler? \n\nYou'd be surprised how multi-hop relationships are missed.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2026663975145164937",
+    "published_at": "2026-02-25T14:21:59+00:00",
+    "fetched_at": "2026-06-16T05:43:35.198335+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE",
+        "GOOGL",
+        "IQE",
+        "AXTI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文暗示通过供应链关系（LITE-Google，IQE-LITE，AXTI-IQE）可推测AXTI和IQE可能间接供应谷歌TPU或超大规模ASIC，尽管信息未公开，但多跳关系提示投资机会，偏向看多。",
+      "translation": "$LITE是已知的$GOOGL供应商。$IQE是已知的$LITE供应商。$AXTI是已知的$IQE供应商。谷歌TPU和超大规模ASIC的物料清单极其保密。但你可以通过关系映射来猜测，即使没人会说$AXTI或$IQE供应给X超大规模客户？你会惊讶于多跳关系是如何被忽视的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2016993953015615621",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Can all the $SNDK short sellers at $500 come out now? \n\nI know there were a bunch on X\n\nSandisk ER Reported Q3 guide: \n\n- Sales $4.6B vs. est $2.9B \n- EPS $13.00 vs. est $4.21 (lol this is why) https://t.co/QE1Mc57HRx",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2016993953015615621",
+    "published_at": "2026-01-29T21:56:46+00:00",
+    "fetched_at": "2026-06-16T05:45:18.240039+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "该推文嘲笑$500做空桑迪斯克（SNDK）的投资者，并强调公司第三季度业绩指引远超预期（营收46亿美元 vs 预期29亿，每股收益13美元 vs 预期4.21美元），暗示股价可能大幅上涨，对空头构成打击。",
+      "translation": "所有在500美元做空桑迪斯克的人现在可以出来了吗？我知道X上有一堆人。桑迪斯克财报第三季度指引：销售额46亿美元 vs 预期29亿美元，每股收益13.00美元 vs 预期4.21美元（这就是原因）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2016009765944754560",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "目前能买到包含海力士和三星股票的etf有\n1.a股的中韩半导体etf\n2.美股的FLXK\n3.港股的俩倍做多海力士/三星.\n不推荐的是第三个，前俩个有正股不怕横盘磨损.当然也可以都买，成年人不做选择. https://t.co/9kK7sEE6kH",
+    "tweet_url": "https://x.com/xiaomustock/status/2016009765944754560",
+    "published_at": "2026-01-27T04:45:58+00:00",
+    "fetched_at": "2026-06-16T05:46:59.438444+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士",
+        "三星",
+        "FLXK"
+      ],
+      "direction": "bullish",
+      "summary": "推荐买入中韩半导体ETF或美股的FLXK，避免港股杠杆产品。两只ETF持有正股，不怕横盘磨损，适合长期持有。",
+      "translation": "目前能买到包含海力士和三星股票的ETF有：1. A股的中韩半导体ETF；2. 美股的FLXK；3. 港股的两倍做多海力士/三星。不推荐第三个，前两个有正股不怕横盘磨损。当然也可以都买，成年人不做选择。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2016007035872280963",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士这股票要是放了美股，最起码再爆拉三倍，可惜棒子市场太小了没啥流动性能支撑起来.有非常多的人想买正股买不到被动无奈买etf，接下来最关键就看啥时候搞海力士美股adr，放大承接市场才能真正疯狂. https://t.co/z7TWoAqf95",
+    "tweet_url": "https://x.com/xiaomustock/status/2016007035872280963",
+    "published_at": "2026-01-27T04:35:07+00:00",
+    "fetched_at": "2026-06-16T05:47:01.515474+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Hynix"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为海力士如果在美股上市会被爆拉三倍，因韩国市场流动性不足且很多人买不到正股只能买ETF，关键看何时推出美股ADR。",
+      "translation": "海力士这股票如果放在美股，至少再爆拉三倍，可惜韩国市场太小没有流动性支撑。有很多人想买正股买不到，被动无奈买ETF，接下来最关键就看什么时候搞海力士美股ADR，放大承接市场才能真正疯狂。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "1999240464420250042",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I entered $ALAB, $NBIS, $TSM, and $LITE because of Mag7 funneling revenue numbers into them.\n\nLite uniquely because of its role in GOOGL TPU v7, AMZN Trainium v3/4, and NVDA Blackwell.\n\nBut there's a new one I found out about.\n\nA small cap <$3B player that fits the thesis:\n\nName - $AAOI\n\nA small cap photonics player, and one of the two photonics players I'm invested in: \n\n1. Lumentum is uniquely positioned in every single supply chip deployment/ramp, as the Optical Circuit Switching  technology is used in Blackwell, Trainium, and Ironwood as a \"scale-across\" type technology. \n\n$LITE wins no matter what. Hyperscaler ASIC vs. GPU as it's in the center of it all.  \n\n2. Applied Optoelectronics is more of the \"scale-out\" connectivity, for custom ASIC clusters like Trainium, Maia through 400G and 800G optical cables and transceivers. \n\n$AAOI wins no matter what as well given its role with AWS as a whale client for Trainium, and with MSFT Maia ASICs.\n\nThe industry is going through a \"supercycle\" driven by the migration to 800G speeds and AAOI is in the center of it. \n\nOn top of that, AAOI plays unique geopolitical angle,  \nAmerica first. \n\nUnlike many other companies that are fabless and export production elsewhere to Taiwan, Applied Optoelectronics makes their own lasers in Texas.\n\nUS hyperscalers (specifically Amazon and Microsoft) are aggressively reducing reliance on Chinese supply  chains for critical infrastructure and that helps AAOI’s ability to manufacture lasers at home. \n\nAnd we've seen another huge volume order from a  \"major hyperscaler\" on its 800G data center transceivers.  \n\nBut AAOI trades like a distressed company; however, the implied revenue of its Amazon warrant agreement creates an asymmetric risk/reward profile on its 800G ramp in Q4 2025 and FY2026. AAOI seems structurally undervalued, given its role in the AI buildout and existing hyperscaler contracts.  \n\nThe markets are finally catching up to LITE, but it feels $AAOI is yet to begin, given its small market cap size but unique angle of a critical player to hyperscaler ASIC clusters and Made in America. \n\nThe market is currently re-rating heavily with photonics players and assigning a heavy premium, yet AAOI is only up 2.20% this year and seems like it's just about to begin.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/1999240464420250042",
+    "published_at": "2025-12-11T22:10:45+00:00",
+    "fetched_at": "2026-06-16T05:45:57.934545+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ALAB",
+        "NBIS",
+        "TSM",
+        "LITE",
+        "GOOGL",
+        "AMZN",
+        "NVDA",
+        "AAOI",
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好光子学板块，特别是AAOI和LITE。AAOI作为小型美制光子学公司，受益于800G升级周期、AWS和微软等超大规模客户，以及美国本土制造的地缘政治优势，当前估值较低，具有不对称风险收益比。",
+      "translation": "我买入了$ALAB、$NBIS、$TSM和$LITE，因为Mag7的收入正涌入这些公司。LITE因其在GOOGL TPU v7、AMZN Trainium v3/4和NVDA Blackwell中的角色而独特。但我发现了一个新标的：一只市值低于30亿美元的小盘股——$AAOI。这是一家小型光子学公司，也是我投资的两家光子学公司之一：1. Lumentum在每一款芯片部署/升级中都有独特位置，其光路交换技术用于Blackwell、Trainium和Ironwood，作为‘横向扩展’技术。$LITE无论怎样都赢——超大规模ASIC vs GPU，因为它处于中心位置。2. Applied Optoelectronics更侧重于‘纵向扩展’连接，用于定制ASIC集群（如Trainium、Maia），通过400G和800G光缆和收发器。$AAOI同样无论怎样都赢，因为它在AWS的Trainium角色和微软的Maia ASIC中都有大客户。行业正处于由800G速度迁移驱动的‘超级周期’，AAOI处于核心。此外，AAOI有独特的地缘政治角度——美国优先。与许多无晶圆厂并将生产外包到台湾的公司不同，AAOI在德克萨斯州自己制造激光器。美国超大规模云商（特别是亚马逊和微软）正积极减少对中国供应链的依赖，这对AAOI的国内激光器制造能力有利。我们看到另一家‘主要超大规模云商’对其800G数据中心收发器下了大订单。但AAOI的交易价格像一家濒临破产的公司；然而，其与亚马逊权证协议隐含的收入在2025年第四季度和2026年800G升级中创造了不对称的风险收益比。AAOI似乎被结构性低估，考虑到其在AI建设中的角色和现有超大规模合同。市场终于开始重视LITE，但感觉$AAOI尚未启动，因其小市值和作为超大规模ASIC集群关键参与者及‘美国制造’的独特角度。市场正在大力重估光子学板块并给予高溢价，而AAOI今年仅上涨2.20%，似乎正要开始。",
+      "confidence": "high"
+    }
+  }
+]
