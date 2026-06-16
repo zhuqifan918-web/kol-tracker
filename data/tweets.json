@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2067022156547113206",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nSpaceX, $SPCX, options are crazy.\n\nWhat did they look like at Unusual Whales?\n\nLet's take a deep dive. https://t.co/F2Vasx9Hs6",
+    "tweet_url": "https://x.com/unusual_whales/status/2067022156547113206",
+    "published_at": "2026-06-16T23:11:00+00:00",
+    "fetched_at": "2026-06-16T23:26:03.494738+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "推文提及SpaceX的股票代码SPCX，称其期权交易异常活跃，暗示可能存在投资机会。",
+      "translation": "重大消息：看看这个。SpaceX，$SPCX，期权交易非常疯狂。在Unusual Whales上它们看起来怎么样？让我们深入探讨一下。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067018885077885244",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US-Iran deal allows Tehran to immediately sell oil, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2067018885077885244",
+    "published_at": "2026-06-16T22:58:00+00:00",
+    "fetched_at": "2026-06-16T23:26:05.324554+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文报道美伊协议允许伊朗立即出口石油，可能增加全球石油供应，短期利空油价但利好能源相关投资或地缘政治缓和主题。",
+      "translation": "据《华尔街日报》报道，美伊协议允许伊朗立即出售石油。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2066960500311929001",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -2465,6 +2505,25 @@
       "summary": "黄仁勋在韩国发布会表示市场暴跌应感到兴奋，强调存储和SK海力士（2x海力士）的投资机会，并指出韩国市场利空有限，主要利空来自美国市场。",
       "translation": "老黄在韩国新闻发布会说暴跌应该兴奋。 坚信存储， $DRAM #2x海力士 尤其是韩国其实没多少利空，最近利空都是美国市场的。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2063860342787031192",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天还得装死了，我的持仓全跌，\n全方位亏钱。",
+    "tweet_url": "https://x.com/xiaomustock/status/2063860342787031192",
+    "published_at": "2026-06-08T05:47:05+00:00",
+    "fetched_at": "2026-06-16T23:25:55.543165+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "用户抱怨所有持仓都在下跌，呈现全面亏损状态，表达悲观情绪。",
+      "translation": "今天还得装死了，我的持仓全跌，全方位亏钱。",
+      "confidence": "medium"
     }
   },
   {

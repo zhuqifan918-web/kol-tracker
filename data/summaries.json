@@ -26,46 +26,44 @@
       "SPCX",
       "NVDA",
       "HOOD",
-      "MCD",
+      "INTC",
       "QCOM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "SpaceX/SPCX IPO与杠杆ETF热潮",
-      "地缘政治缓解与能源流量恢复",
-      "AI与半导体需求强劲",
-      "市场资金流向与期权交易活跃",
-      "美联储与央行政策影响"
+      "太空探索与SpaceX IPO热潮",
+      "地缘政治缓和与能源市场复苏",
+      "科技巨头融资与AI发展"
     ],
-    "recent_shift": "近期从关注宏观地缘与利率转向聚焦SPCX IPO及其衍生品交易，能源流量恢复预期增强市场风险偏好。",
+    "recent_shift": "近期观点从关注宏观地缘政治风险转向聚焦SpaceX IPO带来的交易机会，整体情绪更加乐观。",
     "representative_quotes": [
-      "The day 1 $SPCX options flows are bullish out of the gates with positive net call flows and negative net put flows!",
-      "Evercore ISI has said that the SpaceX, $SPCX, IPO could reignite bull market.",
-      "Gold sell-off was a ‘reset,’ Barclays has said."
+      "Retail investors buy SpaceX, $SPCX, in record numbers, per CNBC",
+      "US-Iran deal allows Tehran to immediately sell oil, per WSJ",
+      "The playbook to investing in 2026: Trump's administration buys Intel $INTC on 8/22/25, it's up another 3% today, now up 400%+ since"
     ],
-    "generated_at": "2026-06-16T19:29:07.094753+00:00"
+    "generated_at": "2026-06-16T23:26:27.504849+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$DRAM",
       "$MU",
-      "$NOK",
       "$SPCX",
+      "$NOK",
       "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储（DRAM/HBM）是AI革命的核心，长期短缺至2030年",
-      "SPCX上市吸筹后资金释放将带动美股反弹",
-      "坚定长期持有，避免追涨杀跌",
-      "诺基亚与英伟达合作在边缘计算中占据关键地位"
+      "存储芯片（海力士、美光）是AI革命的确定性主线",
+      "SPCX（太空算力）与诺基亚基站生态的长期叙事",
+      "长期持有优于短线交易，信仰与认知决定收益",
+      "市场短期波动（如SPCX上市抽血）后存机会"
     ],
-    "recent_shift": "近期由对市场暴跌的焦虑转向对SPCX募资结束后的乐观预期，并更强调存储行业的确定性。",
+    "recent_shift": "6月初期因市场回调而情绪悲观，但中旬随着存储股反弹和SPCX上市进展，转向更激进的看多，强调SPCX为历史级机会。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "长期持有只在特定情况调仓是老板思维，如果你的眼光和认知配得上你的财富，拥有足够远见，则早晚必定发财。",
-      "人大部分的恐惧来源于自己的想象，时间会抚平一切，也会证明一切。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "马斯克的 $SPCX 梦想离不开诺基亚 $NOK",
+      "坚持住，spcx的ipo募资结束就能释放几千亿美金市场里。"
     ],
-    "generated_at": "2026-06-16T22:00:56.244435+00:00"
+    "generated_at": "2026-06-16T23:26:24.588617+00:00"
   }
 }
