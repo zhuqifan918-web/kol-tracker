@@ -1,71 +1,70 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LITE",
-      "IQE",
-      "AXTI"
-    ],
-    "overall_bias": "bullish",
-    "key_themes": [
-      "光子学供应链瓶颈与机遇",
-      "AI基础设施上游材料与设备",
-      "地缘政治驱动的西方供应链重组",
-      "小盘股价值发现与重估"
-    ],
-    "recent_shift": "近期观点没有明显转变，持续看好光子学和上游供应链。",
-    "representative_quotes": [
-      "$SIVE is the next SIVE... hyperscalers like $AMD and others use, at current valuations.",
-      "It's investing in $NVDA, America's national champion in AI, and securing their supply chains.",
-      "But I can see Nebius end up like AWS one day."
-    ],
-    "generated_at": "2026-06-16T05:49:26.841570+00:00"
-  },
-  "unusual_whales": {
-    "focus_tickers": [
-      "$SPCX",
-      "$NVDA",
-      "$INTC",
-      "$ROKU",
-      "$SPAL"
-    ],
-    "overall_bias": "bullish",
-    "key_themes": [
-      "政治关联投资",
-      "科技公司杠杆交易",
-      "地缘风险事件套利",
-      "AI及期权数据工具",
-      "ETF创新产品"
-    ],
-    "recent_shift": "近期从宏观数据关注转向具体IPO和债券发行事件，并强化了对人工智能数据工具的推广",
-    "representative_quotes": [
-      "The playbook to investing in 2026: Trump's administration buys Intel $INTC on 8/22/25 - now up 400%+ since. A generational trade by the president himself",
-      "SpaceX, $SPCX, shares jump 20%, adding $412 billion in market value.",
-      "One of my favorite ways to use @unusual_whales is starting with the Market Map... helps you find areas worth looking into instead of randomly chasing whatever hits the tape."
-    ],
-    "generated_at": "2026-06-16T05:49:29.541574+00:00"
-  },
-  "xiaomustock": {
-    "focus_tickers": [
-      "$NVDA",
-      "$DRAM",
-      "$NOK",
-      "$SPCX",
+      "$AXTI",
+      "$SIVE",
+      "$LITE",
+      "$AAOI",
       "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片景气度长期向上，AI带动需求爆发",
-      "太空计算与边缘计算新基建，诺基亚与英伟达合作",
-      "SPCX作为明星股抽血后释放资金利好大盘"
+      "光子学供应链瓶颈与投资机会",
+      "存储芯片（HBM/内存）结构性增长",
+      "AI基建上游（衬底、外延片、激光器）"
     ],
-    "recent_shift": "近期从谨慎等待SPCX募资释放资金转为乐观，并进一步强调存储芯片的确定性业绩增长。",
+    "recent_shift": "近期从个人辩护转向更系统地展示过往成功预测，并强调光子学、存储、新创云三大主题正在验证中。",
     "representative_quotes": [
-      "牢牢抓紧内存，就是🤏捏住了ai的蛋蛋🥚🥚",
-      "老马下一步棋如果想要扩展完成它的太空算力计划，那么百分之百要跟诺基亚$NOK紧密合作",
-      "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有没比存储这波更稳的生意了。"
+      "If you want to figure out psychologically what other regards are believing, you use TA. But for determining the actual upside... nah",
+      "$AXTI didn't go up 8000% because the golden waterfall candle alert sounded back at $8. it's because of InP substrate...",
+      "$MU looks like the next Nvidia. When Nvidia was $400B (now $4.5T+), markets thought GPUs were a short-term cycle. Same with memory today."
     ],
-    "generated_at": "2026-06-16T05:49:32.188340+00:00"
+    "generated_at": "2026-06-16T10:56:31.047494+00:00"
+  },
+  "unusual_whales": {
+    "focus_tickers": [
+      "NVDA",
+      "SPCX",
+      "INTC",
+      "ROKU",
+      "SPAL"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "地缘政治与石油航运复苏",
+      "政府投资与股市联动",
+      "科技与AI驱动的市场创新"
+    ],
+    "recent_shift": "从关注平台工具推广转向宏观地缘事件和公司新闻密集评论",
+    "representative_quotes": [
+      "The playbook to investing in 2026 - Trump's administration buys Intel $INTC on 8/22/25 - It's up another 3% today - now up 400%+ since - A generational trade by the president himself",
+      "BREAKING: GraniteShares launches 2x long, $SPAL, and 2x short, $SNK, SpaceX ETFs on $SPCX. Leveraged + inverse, daily reset, high risk incl. total loss.",
+      "BREAKING: Nvidia, $NVDA, to raise $20 billion through 7 part US bond issuance"
+    ],
+    "generated_at": "2026-06-16T10:56:37.892376+00:00"
+  },
+  "xiaomustock": {
+    "focus_tickers": [
+      "$DRAM",
+      "$NVDA",
+      "$NOK",
+      "$SPCX",
+      "海力士"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "AI存储需求长期短缺",
+      "存储为核心投资标的",
+      "长期持有优于短线交易",
+      "英伟达与诺基亚合作太空算力",
+      "SPCX IPO对市场的影响"
+    ],
+    "recent_shift": "较早提到SPCX上市可能导致市场调整，但后期强调存储的复苏和长期信心。",
+    "representative_quotes": [
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "人大部分的恐惧来源于自己的想象，时间会抚平一切，也会证明一切。",
+      "英伟达机柜这里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润。"
+    ],
+    "generated_at": "2026-06-16T10:56:34.125426+00:00"
   }
 }
