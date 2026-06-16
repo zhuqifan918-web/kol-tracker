@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2066960500311929001",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "McDonald’s, $MCD, is bringing back fried apple pies for the first time in more than three decades to honor America’s 250th birthday, per ABC",
+    "tweet_url": "https://x.com/unusual_whales/status/2066960500311929001",
+    "published_at": "2026-06-16T19:06:00+00:00",
+    "fetched_at": "2026-06-16T19:28:40.856032+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MCD"
+      ],
+      "direction": "neutral",
+      "summary": "麦当劳宣布为纪念美国250周年而重新推出油炸苹果派，这是三十多年来的首次。该消息对股价的直接短期影响有限，但可能提振品牌情感共鸣和消费者兴趣，长期来看可能带来正面销售推动。",
+      "translation": "麦当劳（$MCD）为纪念美国250岁生日，三十多年来首次重新推出油炸苹果派，据ABC报道。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2066955837659349182",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US-Iran framework agreement includes plans for a $300 billion private fund to trigger investment in Iran, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2066955837659349182",
+    "published_at": "2026-06-16T18:47:28+00:00",
+    "fetched_at": "2026-06-16T19:28:42.595063+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到美伊框架协议计划设立3000亿美元私人基金以促进对伊朗投资，这暗示地缘政治风险降低、伊朗市场开放可能带来投资机会，对相关行业如能源、基建等构成潜在利好。",
+      "translation": "据路透社报道，美伊框架协议包括计划设立一个3000亿美元的私人基金，以引发对伊朗的投资。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066949498077605983",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Both bears and bulls getting in on $SPCX day 1, with notable flows in the following contracts:\n\n$SPCX 240c 1/15/2027\n$SPCX 155p 8/21\n$SPCX 225c 9/18 + 205p 9/18 multilegged\n\nStream the full SPCX options flow (along with the rest of the market) with Unusual Whales: https://t.co/VfIBZSCWXk\n\nWhat SPCX options flows have you seen today?",
+    "tweet_url": "https://x.com/unusual_whales/status/2066949498077605983",
+    "published_at": "2026-06-16T18:22:17+00:00",
+    "fetched_at": "2026-06-16T19:28:45.844246+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "推文报告了SPCX上市首日出现的多空双向期权流动，包括长期看涨期权（2027年1月240c）和短期看跌期权（8月21日155p），以及9月18日的多腿组合（225c和205p）。这表明市场存在分歧，多空双方都在积极布局。",
+      "translation": "多头和空头都在SPCX上市首日积极参与，以下合约出现了显著流量：$SPCX 240c 1/15/2027、$SPCX 155p 8/21、$SPCX 225c 9/18 + 205p 9/18多腿组合。使用Unusual Whales流式查看完整的SPCX期权流量（以及市场其他部分）：https://t.co/VfIBZSCWXk 你今天看到了哪些SPCX期权流量？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066923003527430234",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Strait of Hormuz is finally reopening, but energy flows may not get back to normal until next year, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2066923003527430234",
+    "published_at": "2026-06-16T16:37:00+00:00",
+    "fetched_at": "2026-06-16T19:28:50.734645+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "霍尔木兹海峡即将重新开放，但能源流动可能要到明年才能恢复正常，这对能源股和全球供应链有潜在影响。投资者需关注短期供应紧张和长期恢复节奏。",
+      "translation": "霍尔木兹海峡终于重新开放，但根据《财富》杂志，能源流动可能要到明年才能恢复正常。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2066907903701987453",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -39,6 +119,44 @@
       "summary": "Robinhood（HOOD）宣布裁员10%全职员工，反映公司面临经营压力，可能对股价产生负面影响，属于利空消息。",
       "translation": "Robinhood（股票代码：$HOOD）将裁减10%的全职员工。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066897837431132310",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Oil traffic through the Strait of Hormuz to normalize by July, per HSBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2066897837431132310",
+    "published_at": "2026-06-16T14:57:00+00:00",
+    "fetched_at": "2026-06-16T19:28:54.928689+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "HSBC预测霍尔木兹海峡的石油运输将于7月前恢复正常，这可能缓解全球石油供应紧张局面，对油价和能源板块构成积极影响，投资者可关注相关能源ETF或原油期货。",
+      "translation": "根据汇丰银行预测，霍尔木兹海峡的石油运输将在7月前恢复正常。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066892804299936118",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran has said that the blockade of the Strait of Hormuz is easing.",
+    "tweet_url": "https://x.com/unusual_whales/status/2066892804299936118",
+    "published_at": "2026-06-16T14:37:00+00:00",
+    "fetched_at": "2026-06-16T19:28:56.561087+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "此消息暗示霍尔木兹海峡封锁缓解，可能降低地缘政治风险和石油供给中断担忧，对全球油价和航运构成利好，投资者可关注相关能源和航运板块。",
+      "translation": "伊朗表示霍尔木兹海峡的封锁正在缓解。",
+      "confidence": "medium"
     }
   },
   {
@@ -2328,6 +2446,25 @@
       "summary": "黄仁勋在韩国发布会表示市场暴跌应感到兴奋，强调存储和SK海力士（2x海力士）的投资机会，并指出韩国市场利空有限，主要利空来自美国市场。",
       "translation": "老黄在韩国新闻发布会说暴跌应该兴奋。 坚信存储， $DRAM #2x海力士 尤其是韩国其实没多少利空，最近利空都是美国市场的。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2063822541286785098",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "#优必选  开售了仿生机器人U1，定位情感陪伴与人体交互，仅限18岁以上成人购买。\n搭配了养成情感大模型，本地存储记忆，\n外观与规格：分男款和女款。\n男款：身高 183 厘米，重量 42 千克。\n女款：身高 168 厘米，重量 35.2 千克。\n均配备 88 个自由度，旨在实现更自然的肢体动作。 https://t.co/CMT7Ml48m8",
+    "tweet_url": "https://x.com/xiaomustock/status/2063822541286785098",
+    "published_at": "2026-06-08T03:16:52+00:00",
+    "fetched_at": "2026-06-16T19:28:32.837213+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "优必选发布仿生机器人U1，具备情感陪伴与人机交互功能，男款183cm/42kg、女款168cm/35.2kg，配备88自由度及养成情感大模型，仅售18岁以上成人。该产品定位高端情感陪伴市场，显示公司在人形机器人领域的商业化进展，可能对股价产生积极影响。",
+      "translation": "#优必选  开售了仿生机器人U1，定位情感陪伴与人体交互，仅限18岁以上成人购买。\n搭配了养成情感大模型，本地存储记忆。\n外观与规格：分男款和女款。\n男款：身高 183 厘米，重量 42 千克。\n女款：身高 168 厘米，重量 35.2 千克。\n均配备 88 个自由度，旨在实现更自然的肢体动作。 https://t.co/CMT7Ml48m8",
+      "confidence": "medium"
     }
   },
   {

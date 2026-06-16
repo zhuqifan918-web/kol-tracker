@@ -24,47 +24,49 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "HOOD",
       "NVDA",
-      "INTC",
+      "HOOD",
+      "MCD",
       "QCOM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "SpaceX与meme股热潮",
-      "宏观因素与地缘政治影响",
-      "杠杆ETF与新金融产品"
+      "SpaceX/SPCX IPO与杠杆ETF热潮",
+      "地缘政治缓解与能源流量恢复",
+      "AI与半导体需求强劲",
+      "市场资金流向与期权交易活跃",
+      "美联储与央行政策影响"
     ],
-    "recent_shift": "近期看法更偏向SpaceX的强劲涨势和积极期权流，早前观点更多关注宏观事件。",
+    "recent_shift": "近期从关注宏观地缘与利率转向聚焦SPCX IPO及其衍生品交易，能源流量恢复预期增强市场风险偏好。",
     "representative_quotes": [
       "The day 1 $SPCX options flows are bullish out of the gates with positive net call flows and negative net put flows!",
-      "SpaceX, $SPCX, shares jump 20%, adding $412 billion in market value.",
-      "Evercore ISI has said that the SpaceX, $SPCX, IPO could reignite bull market."
+      "Evercore ISI has said that the SpaceX, $SPCX, IPO could reignite bull market.",
+      "Gold sell-off was a ‘reset,’ Barclays has said."
     ],
-    "generated_at": "2026-06-16T15:50:54.794880+00:00"
+    "generated_at": "2026-06-16T19:29:07.094753+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "DRAM",
-      "MU",
-      "NOK",
-      "SPCX",
-      "NVDA"
+      "$SPCX",
+      "$NOK",
+      "$DRAM",
+      "$MU",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储（内存）是AI革命的核心，长期供不应求",
-      "马斯克的太空算力计划（SPCX）和机器人需要大量存储与基站（诺基亚）",
-      "韩股与美股波动剧烈，但强调长期持有和信仰",
-      "机构募资后资金释放带来反弹机会",
-      "Intel应转型代工以扭转颓势"
+      "存储（内存）是AI革命核心，长期看多",
+      "SPCX上市短期扰动，但释放资金后利好市场",
+      "英伟达相关产业链（光纤、基站）受益",
+      "长期持有优于短线交易",
+      "马斯克相关标的（SPCX、NOK）具有远大前景"
     ],
-    "recent_shift": "早期强调SPCX上市后资金释放和存储业绩支撑，近期更多聚焦诺基亚与太空算力的深度绑定，并强化存储的长期确定性",
+    "recent_shift": "早期对SPCX上市持有担忧，认为机构抽血，后期转为乐观，认为募资结束释放资金利好市场",
     "representative_quotes": [
       "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "人大部分的恐惧来源于自己的想象，时间会抚平一切，也会证明一切。",
-      "马斯克的 $SPCX 梦想离不开诺基亚 $NOK ... 以后地上都是特斯拉机器人连接诺基亚的基站 诺基亚的基站连接spcx的算力卫星。"
+      "马斯克的 $SPCX 梦想离不开诺基亚 $NOK",
+      "人大部分的恐惧来源于自己的想象，时间会抚平一切，也会证明一切。"
     ],
-    "generated_at": "2026-06-16T15:50:52.185904+00:00"
+    "generated_at": "2026-06-16T19:29:04.264297+00:00"
   }
 }
