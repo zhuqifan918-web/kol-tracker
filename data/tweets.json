@@ -1,5 +1,256 @@
 [
   {
+    "tweet_id": "2067117980656533764",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Bernstein is legit the dumbest analyst firm I’ve seen calling for a 50% crash in Kioxia.\n\nThey gave $INTC a $36 PT back in Jan and now it’s $118.\n\nGood lesson to ignore institutional reports that get published for retail consumption. \n\nThey’re not here to help retail investors.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067117980656533764",
+    "published_at": "2026-06-17T05:31:46+00:00",
+    "fetched_at": "2026-06-17T07:12:30.524736+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文批评Bernstein分析机构对Kioxia的看空预测，并指出其过去对英特尔的目标价预测严重失误，认为机构报告并非为散户投资者服务。",
+      "translation": "Bernstein绝对是我见过最愚蠢的分析机构，他们预测Kioxia会暴跌50%。今年1月他们给了英特尔36美元的目标价，现在英特尔股价是118美元。这是个很好的教训，应该忽略那些为散户消费发布的机构报告。他们并不是来帮助散户投资者的。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067109230205972561",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The token launched on January 17, 2025, three days before Donald Trump’s inauguration, and pulled in at least $1.2 billion from investors.\n\nRead more: https://t.co/qH4BXEDInX",
+    "tweet_url": "https://x.com/unusual_whales/status/2067109230205972561",
+    "published_at": "2026-06-17T04:57:00+00:00",
+    "fetched_at": "2026-06-17T07:13:22.820489+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到一个代币于2025年1月17日推出（特朗普就职前三天），并从投资者处筹集了至少12亿美元，属于加密资产相关的投资信息。",
+      "translation": "该代币于2025年1月17日推出，比唐纳德·特朗普的就职典礼早三天，并从投资者那里筹集了至少12亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067108064403369993",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。\n准备大仓位捏45天。",
+    "tweet_url": "https://x.com/xiaomustock/status/2067108064403369993",
+    "published_at": "2026-06-17T04:52:22+00:00",
+    "fetched_at": "2026-06-17T07:13:05.061029+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者认为海力士当前是确定性很高的机会，未来45天内有利好事件发生，计划重仓持有45天。",
+      "translation": "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067105197537829135",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "摘抄个大佬的语录记录一下。\n炒股只做牛市 牛市只追高 但是追高的时候。选第一热门概念的， \n第二护城河最强的  ，\n第三盈利最好的 https://t.co/VFjN4qouLm",
+    "tweet_url": "https://x.com/xiaomustock/status/2067105197537829135",
+    "published_at": "2026-06-17T04:40:58+00:00",
+    "fetched_at": "2026-06-17T07:13:09.999846+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文引用大佬语录，建议仅在牛市中炒股，并追高时选择第一热门概念、护城河最强、盈利最好的股票。观点偏向看多，但属于经验分享而非具体推荐。",
+      "translation": "摘抄个大佬的语录记录一下。炒股只做牛市，牛市只追高，但是追高的时候选第一热门概念的，第二护城河最强的，第三盈利最好的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067100222778704207",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So I’m reading about an activist report about WUS (2316) right now from Palliser.\n\nI actually thought their report was super compelling… that I decided to follow along and buy in as well. (not my idea this time, I own shares, had to change some weightings around to add this in).\n\nBasically WUS Taiwan owns 11.3% of Kunshan (which is 45% Nvidia AI switch PCB share from their ests.).\n\nWUS TW is valued ~$1B, probably from their own standalone PCB business, which does around $120M revenue, with AI growth ahead.\n\nThat stake of WUS Kunshan is worth around $4-4.3B MC.\n\nAfter tax it’s around $3.2B, which by itself is 3-4x the current business value.\n\nAnd they’re trying to pressure management to unlock that value.\n\nI looked at WUS for PCB exposure earlier, and thought it was an interesting idea but didn’t know about ownership.\n\nAnd this should derisk downside quite a bit. \n\nMain risk is that is management ignores them completely, but don’t think it will be completely ignored like Snapchat. \n\nMaybe some middle ground like selling 1/3rd stake?\n\nApparently it’s some family business that’s stubborn but feel like activists can do some work.\n\nAnyway just doing research into this now sharing my findings.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067100222778704207",
+    "published_at": "2026-06-17T04:21:12+00:00",
+    "fetched_at": "2026-06-17T07:12:43.086266+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WUS",
+        "2316",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "推文分析WUS（2316）的投资价值，指出其持有WUS昆山11.3%股权，后者供应Nvidia AI开关PCB，价值被低估，且存在积极股东要求释放价值。作者已买入，认为下行风险有限。",
+      "translation": "我正在阅读Palliser关于WUS（2316）的积极股东报告。他们的论证非常有说服力，以至于我决定跟进并买入。（这次不是我的主意，我持有股票，不得不调整一些权重以加入这只股票）。基本上，WUS台湾持有昆山公司11.3%的股份（据估计，昆山占据了Nvidia AI交换机PCB约45%的份额）。WUS台湾的估值约为10亿美元，这可能来自于其独立的PCB业务，该业务收入约1.2亿美元，并且随着AI增长前景看好。WUS昆山那部分股权的市值大约在40-43亿美元。税后价值约为32亿美元，这本身就相当于当前业务价值的3-4倍。他们正在向管理层施压，要求释放这一价值。我之前关注过WUS的PCB业务，觉得这个想法有趣，但不知道其股权结构。而这一点应该能大幅降低下行风险。主要风险是管理层完全无视他们，但我认为不会像Snapchat那样被完全忽视。也许是个折中方案，比如出售1/3的股份？据说这是一个固执的家族企业，但我觉得积极股东可以有所作为。总之，我正在就此进行研究，并分享我的发现。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067096013857567044",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天把大部分仓位换到了\n#sk海力士 正股和 #2x海力士 。\n有几个原因\n1.下个月海力士美股adr\n2.下个月hbm4e送样\n3.下个月23号海力士q2财报\n4.美光6.18号财报对于美光自己涨跌都有可能，但对于海力士就是可预测的提振刺激。\n5.adr后的海力士分红计划和回购计划。\n6.怕其他股票因为涨幅波动，变相在海力士里面防守。",
+    "tweet_url": "https://x.com/xiaomustock/status/2067096013857567044",
+    "published_at": "2026-06-17T04:04:29+00:00",
+    "fetched_at": "2026-06-17T07:13:07.937110+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SK Hynix",
+        "2x SK Hynix"
+      ],
+      "direction": "bullish",
+      "summary": "作者因多个利好因素（如美股ADR上市、HBM4E送样、Q2财报、美光财报的提振预期、分红回购计划）将大部分仓位换至SK海力士正股及2倍杠杆产品，认为该股具有防御性和上涨动力。",
+      "translation": "今天把大部分仓位换到了#SK海力士 正股和 #2x海力士 。有几个原因：1.下个月海力士美股ADR；2.下个月HBM4E送样；3.下个月23号海力士Q2财报；4.美光6.18号财报对美光自己涨跌都有可能，但对于海力士就是可预测的提振刺激；5.ADR后的海力士分红计划和回购计划；6.怕其他股票因为涨幅波动，变相在海力士里面防守。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067072488496894419",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get $NVDA updates, and alerts driven directly to you, subscribe to Unusual Whales.\n\nSee more: https://t.co/oyfadhhqnS",
+    "tweet_url": "https://x.com/unusual_whales/status/2067072488496894419",
+    "published_at": "2026-06-17T02:31:00+00:00",
+    "fetched_at": "2026-06-17T07:13:33.658920+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales的NVDA更新提醒服务，未提供具体的投资观点或市场分析。",
+      "translation": "要直接获取$NVDA的更新和提醒，请订阅Unusual Whales。更多信息：https://t.co/oyfadhhqnS",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067072488270376995",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Federal Reserve is widely expected to hold interest rates steady at its policy meeting next week, with investors pricing in at least one 25 basis point rate hike by the end of the year.\n\nRead more: https://t.co/r6WTpCtYtK",
+    "tweet_url": "https://x.com/unusual_whales/status/2067072488270376995",
+    "published_at": "2026-06-17T02:31:00+00:00",
+    "fetched_at": "2026-06-17T07:13:35.688157+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "市场普遍预期美联储下周将维持利率不变，但年底前至少有一次25个基点的加息预期。这对投资者意味着利率环境短期稳定，但需关注后续加息风险。",
+      "translation": "市场普遍预期美联储将在下周的政策会议上维持利率不变，投资者预计年底前至少会有一次25个基点的加息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067071462360666165",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I’m not sure why many folks are super bearish on my high conviction $AAOI long… \n\nEver since $30, then on the way up to $170. (Yes I do think every bear is wrong, we’ll see who’s right).\n\nThey have scarce laser capacity that $AMD and other hyperscalers are looking for.\n\nWhile the entire industry is bottlenecked by $NVDA. \n\nAlong with a US transceiver supply chain for mass production of 800g/1.6T (management - largest in America).\n\nWhile demand far exceeds supply and while assembly gets outsourced to Asia.\n\nThen they’re quoting $471M monthly revenue in H1 entering H2 of 2027. Which is $5.6B ARR, off a $13.5B MC…\n\nWhile a lot of major inflection volume hits even later in 2028.\n\nAs for fluctuations, there might be active $600M ATMs that get tapped into at random times. \n\nAnd random bear posts + macro from time to time that cause more volatility (eg. Analyst notes saying bear on $LITE due to false CPO delay rumors, then that brings down others in the sector).\n\nAlso we’re a year out so timelines are still a little early.\n\nI haven’t seen such fast revenue ramp since $NBIS.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067071462360666165",
+    "published_at": "2026-06-17T02:26:55+00:00",
+    "fetched_at": "2026-06-17T07:12:50.621285+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "AMD",
+        "NVDA",
+        "LITE",
+        "NBIS"
+      ],
+      "direction": "bullish",
+      "summary": "推文强烈看多AAOI，认为其激光产能稀缺、受益于800G/1.6T光模块需求，预计2027年H1月收入4.71亿美元，对应年化收入56亿美元，市值仅135亿美元，存在巨大上涨空间。同时提醒短期波动来自ATM增发和行业传言。",
+      "translation": "我不确定为什么很多人对我的高信心$AAOI多头仓位极度看空……从30美元开始，一路上涨到170美元。（是的，我认为每个空头都是错的，我们看看谁是对的）。他们拥有稀缺的激光产能，AMD和其他超大规模数据中心正在寻找这种产能。而整个行业都受限于$NVDA。再加上美国收发器供应链用于大规模生产800G/1.6T（管理层称是美国最大的）。在需求远超供应、组装外包到亚洲的情况下。他们给出的2027年H1进入H2的月收入是4.71亿美元，即年化56亿美元，而市值仅135亿美元……而更大的盈利拐点量在2028年晚些时候才会到来。至于波动，可能有6亿美元的ATM会在随机时间被使用。还有随机的空头帖子和大宏观事件时不时引发更多波动（例如，分析师看空$LITE的假CPO延迟传言，然后行业其他股票也跟着下跌）。另外我们还有一年时间，时间线仍有点早。我还没见过像$NBIS那样快速的营收增长。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067064938871292225",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nSpaceX, $SPCX, options are crazy.\n\nWhat did they look like at Unusual Whales?\n\nLet's take a deep dive. https://t.co/tpm8lEJgWX",
+    "tweet_url": "https://x.com/unusual_whales/status/2067064938871292225",
+    "published_at": "2026-06-17T02:01:00+00:00",
+    "fetched_at": "2026-06-17T07:13:37.542257+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及SpaceX（代码$SPCX）的期权交易异常活跃，并暗示需要深入分析，但未明确表达看涨或看跌观点。",
+      "translation": "突发新闻：看这个。SpaceX，$SPCX，期权交易非常疯狂。它们在Unusual Whales上看起来如何？让我们深入探究一下。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067061139989491885",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "時価総額トップのキオクシア、株価に50%の下落余地－バーンスタイン https://t.co/QGIOECW8IK",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067061139989491885",
+    "published_at": "2026-06-17T01:45:54+00:00",
+    "fetched_at": "2026-06-17T07:12:35.728742+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "キオクシア"
+      ],
+      "direction": "bearish",
+      "summary": "Bernstein指出，市值最高的存储芯片制造商铠侠（キオクシア）股价存在50%下跌空间。该分析暗示当前估值过高，未来可能面临显著回调。",
+      "translation": "市值最高的铠侠，股价有50%下跌空间——伯恩斯坦",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067059788610154524",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit AAOI又高跳下落，对此你怎么看",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067059788610154524",
+    "published_at": "2026-06-17T01:40:32+00:00",
+    "fetched_at": "2026-06-17T07:12:54.934251+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI"
+      ],
+      "direction": "bearish",
+      "summary": "用户评论AAOI（Applied Optoelectronics）股价高开低走，表现疲软，显示市场对该股持看空态度。",
+      "translation": "@aleabitoreddit AAOI又高开低走，对此你怎么看",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067033984391942150",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1533,6 +1784,27 @@
       "direction": "bullish",
       "summary": "英伟达Vera Rubin平台和谷歌下一代AI数据中心提前采用800V DC技术，利好相关电力半导体和供应链公司。",
       "translation": "$NVDA和$GOOGL提前引领800V直流电技术，时间点提前至2026年第三季度，小批量出货已开始。受益方包括：台达电子(2308)、$VRT、松川精密(7788)、施耐德电气、伊顿、西门子。消息来源称英伟达的Vera Rubin平台和谷歌的下一代AI数据中心将率先采用该技术。消息来源：Commercial Times。电力半导体交易者应为此消息感到高兴。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2066249565997502499",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The TRUMP meme coin generated about $616 million for the Trump family, while buyers lost more than $700 million, according to Reuters' estimates. \n\nThe coin has dropped 97% from its January 2025 peak",
+    "tweet_url": "https://x.com/unusual_whales/status/2066249565997502499",
+    "published_at": "2026-06-14T20:01:00+00:00",
+    "fetched_at": "2026-06-17T07:13:21.122965+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TRUMP"
+      ],
+      "direction": "bearish",
+      "summary": "特朗普迷因币价格暴跌97%，为特朗普家族带来约6.16亿美元，但买家损失超7亿美元，属于高风险投机资产，投资价值极低。",
+      "translation": "据路透社估计，特朗普迷因币为特朗普家族带来了约6.16亿美元，而买家则损失了超过7亿美元。该币种自2025年1月峰值已下跌97%。",
       "confidence": "high"
     }
   },

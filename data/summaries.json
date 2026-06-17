@@ -1,69 +1,73 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LITE",
-      "NVDA",
-      "AXTI"
+      "$SIVE",
+      "$AAOI",
+      "$LITE",
+      "$AXTI",
+      "$IQE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/CPO供应瓶颈",
-      "地缘政治驱动的供应链转移",
-      "AI基础设施建设加速"
+      "光子学供应链瓶颈（磷化铟衬底、外延片、激光器）",
+      "AI基础设施上游（内存、光模块、Neocloud）",
+      "地缘政治驱动的国产替代（美国/欧洲本土制造）",
+      "CPO（共封装光学）与800V直流电加速",
+      "小型股重估（如SIVE、AAOI从低市值起步）"
     ],
-    "recent_shift": "从2025年至今持续聚焦光子学和小盘股，最近更多强调InP基板松绑和800V DC提前部署，整体观点更加乐观",
+    "recent_shift": "近期更强调欧洲和日本市场的机会，并开始关注钨（WF₆）等细分瓶颈，但整体看多立场未变。",
     "representative_quotes": [
-      "I do think AI is the most disruptive technology in human history. To the level of agricultural or industrial revolution.",
-      "$SIVE is the next SIVE. Don’t think you’ll find another company. That’s qualified and likely primary/sole source with $JBL and other pluggable hyperscaler suppliers...",
-      "I'm just sharing ideas out for free, could always be wrong, and they usually take some time to play out."
+      "$SIVE is the next SIVE. Don’t think you’ll find another company. That’s qualified and likely primary/sole source with $JBL and other pluggable hyperscaler suppliers Ayar and the $NVDA NVLink CPO ecosystems",
+      "Bernstein is legit the dumbest analyst firm I’ve seen calling for a 50% crash in Kioxia. They gave $INTC a $36 PT back in Jan and now it’s $118. Good lesson to ignore institutional reports that get published for retail consumption.",
+      "I haven’t seen such fast revenue ramp since $NBIS."
     ],
-    "generated_at": "2026-06-17T02:00:26.927094+00:00"
+    "generated_at": "2026-06-17T07:13:56.283152+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "NVDA",
-      "HOOD",
-      "INTC",
-      "QCOM"
+      "$SPCX",
+      "$NVDA",
+      "$HOOD",
+      "$MCD",
+      "$INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "IPO与杠杆ETF热潮",
-      "能源与地缘政治回暖",
-      "AI与科技巨头融资"
+      "人工智能与科技股",
+      "政治关联投资（特朗普效应）",
+      "新兴市场（伊朗协议与能源）",
+      "杠杆ETF与期权炒作",
+      "降息预期与宏观"
     ],
-    "recent_shift": "近期从关注宏观宽松转向聚焦个股IPO和杠杆策略",
+    "recent_shift": "近期更加强调对SpaceX IPO的看涨情绪，同时提及特朗普交易和伊朗协议等政治事件，整体氛围积极。",
     "representative_quotes": [
-      "The day 1 $SPCX options flows are bullish out of the gates with positive net call flows and negative net put flows!",
-      "SpaceX, $SPCX, shares jump 20%, adding $412 billion in market value.",
-      "Nvidia, $NVDA, draws $85 billiln of investor demand for bond sale"
+      "BREAKING: Look at this. SpaceX, $SPCX, options are crazy.",
+      "The playbook to investing in 2026 - Trump's administration buys Intel $INTC on 8/22/25 - it's up another 3% today - now up 400%+ since",
+      "The Federal Reserve is widely expected to hold interest rates steady at its policy meeting next week, with investors pricing in at least one 25 basis point rate hike by the end of the year."
     ],
-    "generated_at": "2026-06-17T02:00:23.408207+00:00"
+    "generated_at": "2026-06-17T07:13:59.748433+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$DRAM",
-      "$MU",
-      "$SPCX",
-      "$NOK",
-      "$NVDA"
+      "SK하이닉스",
+      "DRAM",
+      "SPCX",
+      "NVDA",
+      "NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（海力士、美光）是AI革命的确定性主线",
-      "SPCX（太空算力）与诺基亚基站生态的长期叙事",
-      "长期持有优于短线交易，信仰与认知决定收益",
-      "市场短期波动（如SPCX上市抽血）后存机会"
+      "存储芯片是AI革命的核心受益者",
+      "海力士近期催化剂密集（ADR、HBM送样、财报）",
+      "长期持有优于短线交易",
+      "SPCX上市与马斯克概念短期热度较高"
     ],
-    "recent_shift": "6月初期因市场回调而情绪悲观，但中旬随着存储股反弹和SPCX上市进展，转向更激进的看多，强调SPCX为历史级机会。",
+    "recent_shift": "近日明确从多只股票换仓至海力士，强调短期确定性机会（45天内利好）而非之前更泛化的AI存储信仰。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
-      "马斯克的 $SPCX 梦想离不开诺基亚 $NOK",
-      "坚持住，spcx的ipo募资结束就能释放几千亿美金市场里。"
+      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "如果你真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。"
     ],
-    "generated_at": "2026-06-16T23:26:24.588617+00:00"
+    "generated_at": "2026-06-17T07:13:51.623927+00:00"
   }
 }
