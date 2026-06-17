@@ -1,25 +1,25 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$LITE",
-      "$AAOI",
-      "$AXTI",
-      "$IQE"
+      "SIVE",
+      "AAOI",
+      "LITE",
+      "NVDA",
+      "AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施投资",
-      "光学/光通讯供应链瓶颈",
-      "上游半导体材料与设备"
+      "光子学/CPO供应瓶颈",
+      "地缘政治驱动的供应链转移",
+      "AI基础设施建设加速"
     ],
-    "recent_shift": "从早期关注数据中心光学器件扩展到更上游的基板和外延片，并强调欧洲小型光电公司价值。",
+    "recent_shift": "从2025年至今持续聚焦光子学和小盘股，最近更多强调InP基板松绑和800V DC提前部署，整体观点更加乐观",
     "representative_quotes": [
-      "I think AI is the most disruptive technology in human history.",
-      "Just some reflection, my core high conviction ideas from 2025 aged super well!",
-      "Photonics is still probably the earliest out of the three."
+      "I do think AI is the most disruptive technology in human history. To the level of agricultural or industrial revolution.",
+      "$SIVE is the next SIVE. Don’t think you’ll find another company. That’s qualified and likely primary/sole source with $JBL and other pluggable hyperscaler suppliers...",
+      "I'm just sharing ideas out for free, could always be wrong, and they usually take some time to play out."
     ],
-    "generated_at": "2026-06-16T15:50:57.472643+00:00"
+    "generated_at": "2026-06-17T02:00:26.927094+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -31,17 +31,17 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "太空探索与SpaceX IPO热潮",
-      "地缘政治缓和与能源市场复苏",
-      "科技巨头融资与AI发展"
+      "IPO与杠杆ETF热潮",
+      "能源与地缘政治回暖",
+      "AI与科技巨头融资"
     ],
-    "recent_shift": "近期观点从关注宏观地缘政治风险转向聚焦SpaceX IPO带来的交易机会，整体情绪更加乐观。",
+    "recent_shift": "近期从关注宏观宽松转向聚焦个股IPO和杠杆策略",
     "representative_quotes": [
-      "Retail investors buy SpaceX, $SPCX, in record numbers, per CNBC",
-      "US-Iran deal allows Tehran to immediately sell oil, per WSJ",
-      "The playbook to investing in 2026: Trump's administration buys Intel $INTC on 8/22/25, it's up another 3% today, now up 400%+ since"
+      "The day 1 $SPCX options flows are bullish out of the gates with positive net call flows and negative net put flows!",
+      "SpaceX, $SPCX, shares jump 20%, adding $412 billion in market value.",
+      "Nvidia, $NVDA, draws $85 billiln of investor demand for bond sale"
     ],
-    "generated_at": "2026-06-16T23:26:27.504849+00:00"
+    "generated_at": "2026-06-17T02:00:23.408207+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
