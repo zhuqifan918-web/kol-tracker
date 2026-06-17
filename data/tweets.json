@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2067033984391942150",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2067033984391942150",
+    "published_at": "2026-06-16T23:58:00+00:00",
+    "fetched_at": "2026-06-17T02:00:01.362439+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPACE"
+      ],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里表示有意做空SpaceX，但因期权费用过高而放弃，透露出对SpaceX的看空态度。",
+      "translation": "迈克尔·伯里表示他有意做空SpaceX，但因昂贵的期权而放弃，据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067033934194696469",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Mizuho Research: No delays on CPO or 800v dc. \n\nRevised up optical engine projections from $NVDA demand ramp.  \n\n- Next phase in CPO for long term, believes InP DFB lasers remains the focus (hello $SIVE). VSCEL and microLED remain \"unproven\" in short distance in rack + chip to chip for 1.6T+ \n\n- HVDC deployment on track, 800VDC incremental volume 2027, with higher penetration in 2028.\n\nWhat a stupid CPO related selloff recently.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067033934194696469",
+    "published_at": "2026-06-16T23:57:48+00:00",
+    "fetched_at": "2026-06-17T01:59:26.027991+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "瑞穗研究指出CPO和800V DC没有延迟，上调了NVDA驱动的光学引擎预测，认为InP DFB激光器是重点，HVDC部署如期，800VDC增量在2027-2028年，批评近期CPO相关回调不合理。整体看好相关技术及个股。",
+      "translation": "瑞穗研究：CPO或800V DC没有延迟。因英伟达需求上升，上调光学引擎预测。- CPO的下一阶段长期来看，InP DFB激光器仍是重点（你好 $SIVE）。VSCEL和microLED在1.6T+的短距离机架内和芯片到芯片方面仍“未经证实”。- HVDC部署按计划进行，800VDC增量在2027年，2028年渗透率更高。最近的CPO相关抛售真愚蠢。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067027190047240217",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Every $1 move in SpaceX stock adds or subtracts roughly $6 billion from Elon Musk's net worth, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067027190047240217",
+    "published_at": "2026-06-16T23:31:00+00:00",
+    "fetched_at": "2026-06-17T02:00:05.011521+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及SpaceX股票价格每变动1美元将导致埃隆·马斯克净资产波动约60亿美元，反映了该公司股权价值的高度集中性和杠杆效应，但未提供具体投资建议或市场方向指引。",
+      "translation": "据彭博社报道，SpaceX股票每变动1美元，埃隆·马斯克的净资产就会增加或减少约60亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067022156547113206",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -36,6 +98,25 @@
       "direction": "bullish",
       "summary": "该推文报道美伊协议允许伊朗立即出口石油，可能增加全球石油供应，短期利空油价但利好能源相关投资或地缘政治缓和主题。",
       "translation": "据《华尔街日报》报道，美伊协议允许伊朗立即出售石油。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067003785420087471",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Reportedly more than half of the $300 billion Iran investment fund already secured in commitments from the US, gulf, Asian, South American and African companies, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2067003785420087471",
+    "published_at": "2026-06-16T21:58:00+00:00",
+    "fetched_at": "2026-06-17T02:00:08.798125+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推特报道称，伊朗300亿美元投资基金已获得美国、海湾、亚洲、南美和非洲公司超过一半的承诺。这表明国际投资流向伊朗，可能对相关国家经济产生积极影响，有利于长期投资者关注伊朗市场潜力。",
+      "translation": "据报道，伊朗300亿美元投资基金已从美国、海湾、亚洲、南美和非洲公司获得超过一半的承诺。",
       "confidence": "medium"
     }
   },
@@ -2318,6 +2399,27 @@
       "summary": "该推文描述了韩国股市近期剧烈波动，频繁触发熔断机制，情感上表达了投资者的焦虑，但未提供具体投资建议或方向判断。",
       "translation": "韩国股市在KTV和ICU之间来回蹦跶，天天都是熔断，要么涨停熔断要么跌停熔断，真他娘的心脏受不了。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2064554061253451815",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA Networking Senior Vice President refuting recent analyst reports on delays:\n\n- “ the most exciting stuff is co-packaged optics.”\n- There is no delay in H2 CPO product delivery schedule. \n- CPO switch will enter mass production and begin ramping up customer deliveries as planned in the second half of 2026\n\nThis was a media article, original interview source credit should have been credited to Tae Kim / Computex. \n\nSomething fun to note too was this quote “Gilad was VERY enthusiastic about the CPO ramp from Nvidia.” \n\nBoth near term and long term.\n\nYeah… I’m extremely bullish on CPO alongside Nvidia.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2064554061253451815",
+    "published_at": "2026-06-10T03:43:40+00:00",
+    "fetched_at": "2026-06-17T01:59:32.187180+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达高管驳斥延迟传闻，确认CPO产品按计划在2026年下半年量产交付，市场情绪积极，看好CPO相关投资机会。",
+      "translation": "英伟达网络高级副总裁反驳近期分析师关于延迟的报告：\n- “最令人兴奋的是共封装光学技术。”\n- H2 CPO产品交付时间表没有延迟。\n- CPO交换机将按计划在2026年下半年进入量产并开始增加客户交付。\n这是一篇媒体报道，原始采访来源应归功于Tae Kim / Computex。\n还有一个有趣的细节：“Gilad对英伟达的CPO爬坡非常热情。”\n无论是近期还是长期。\n是的……我非常看好英伟达的CPO技术。",
+      "confidence": "high"
     }
   },
   {
