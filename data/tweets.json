@@ -1,5 +1,144 @@
 [
   {
+    "tweet_id": "2067312473183863194",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US has reportedly released the full 14-point memorandum with Iran, outlining an immediate ceasefire, safe commercial passage through the Strait of Hormuz, phased sanctions relief, access to frozen Iranian assets, a $300 billion reconstruction framework, limits on Iran's nuclear program under IAEA oversight, and a 60-day timeline to negotiate a final agreement backed by a binding UN Security Council resolution, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2067312473183863194",
+    "published_at": "2026-06-17T18:24:37+00:00",
+    "fetched_at": "2026-06-17T18:39:28.227508+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了美国与伊朗可能达成全面协议，包括停火、制裁解除和核限制等关键内容。对市场的影响取决于协议能否最终落实，若达成可能缓解中东地缘政治紧张，对原油供应和航运安全产生积极影响，利好能源和航运板块；但若谈判破裂则可能加剧不确定性。短期中性，需关注后续进展。",
+      "translation": "突发：据报道美国已公布与伊朗的完整14点备忘录，概述了立即停火、霍尔木兹海峡商业安全通行、分阶段制裁解除、解冻伊朗资产、3000亿美元重建框架、在国际原子能机构监督下限制伊朗核计划，以及在联合国安理会具有约束力的决议支持下60天内谈判达成最终协议的时间表——据路透社",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067311060206395514",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: In new dot plot, nine out of 18 officials have at least one hike this year (and six of those 9 have *multiple hikes*), per Nick Timiraos.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067311060206395514",
+    "published_at": "2026-06-17T18:19:00+00:00",
+    "fetched_at": "2026-06-17T18:39:30.091426+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储点阵图显示多名官员预计今年将加息，暗示货币政策可能收紧，对股市构成压力。",
+      "translation": "突发新闻：根据Nick Timiraos的消息，新的点阵图中，18名官员中有9人预计今年至少加息一次（其中6人预计多次加息）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067308896365293853",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Fed has lowered GDP 2026 projections to 2.4%, and removes statement regarding rate adjustments.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067308896365293853",
+    "published_at": "2026-06-17T18:10:24+00:00",
+    "fetched_at": "2026-06-17T18:39:31.627182+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储下调2026年GDP预期至2.4%，并删除关于利率调整的表述，暗示经济前景转弱且可能暂停加息或转向宽松，对市场情绪构成负面影响。",
+      "translation": "突发：美联储将2026年GDP预期下调至2.4%，并删除了关于利率调整的表述。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067306588508201433",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Federal Reserve leaves rates unchanged.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067306588508201433",
+    "published_at": "2026-06-17T18:01:14+00:00",
+    "fetched_at": "2026-06-17T18:39:32.997373+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储维持利率不变，符合市场预期，短期内对市场影响中性，但需关注后续政策信号。",
+      "translation": "突发：美联储维持利率不变。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067300490568986850",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has said he expects the stock market to keep going up.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067300490568986850",
+    "published_at": "2026-06-17T17:37:00+00:00",
+    "fetched_at": "2026-06-17T18:39:34.666053+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普对股市上涨的预期表态，可能提振市场情绪，属于利好信号。",
+      "translation": "突发：特朗普表示他预期股市将继续上涨。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067290424184820149",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Micron, $MU, price target raised to $1,500 by Deutsche Bank.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067290424184820149",
+    "published_at": "2026-06-17T16:57:00+00:00",
+    "fetched_at": "2026-06-17T18:39:37.642222+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "推特提及德意志银行将美光（MU）目标价上调至1500美元，释放积极信号，表明机构看好其长期增长前景。",
+      "translation": "美光（$MU）目标价被德意志银行上调至1500美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067285458967785980",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "美光和海力士都是1.1万亿美金。\n一旦海力士adr，双倍于 $MU 利润的海力士绝对会被市场疯抢，而资金都会打提前量。我绝大部分仓位都是 #SK海力士 和 #2x海力士 https://t.co/a4TF7QsIrq",
+    "tweet_url": "https://x.com/xiaomustock/status/2067285458967785980",
+    "published_at": "2026-06-17T16:37:16+00:00",
+    "fetched_at": "2026-06-17T18:39:16.989945+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "SK海力士",
+        "2x海力士"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为SK海力士利润是美光的两倍，市值却与美光相当（均约1.1万亿美金），一旦ADR上市会被市场抢购，因此非常看好。作者重仓SK海力士及其2倍杠杆产品。",
+      "translation": "美光和SK海力士市值都是1.1万亿美元。一旦SK海力士ADR上市，利润是美光两倍的海力士绝对会被市场疯抢，而资金都会打提前量。我绝大部分仓位都是SK海力士和2倍海力士。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067276929078788560",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -102,6 +241,25 @@
       "summary": "推文比较了NBIS和IREN的表现，认为NBIS创历史新高而IREN持有者因大额ATM计划被套牢，暗示NBIS优于IREN，对NBIS持看多态度。",
       "translation": "7个月后... $NBIS创历史新高。而$IREN的套牢者仍在资助60亿美元的ATM计划，价格与去年11月相同。看来这解决了争论？",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067250158937788438",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Gas and oil is flowing through the Strait of Hormuz again, per JD Vance",
+    "tweet_url": "https://x.com/unusual_whales/status/2067250158937788438",
+    "published_at": "2026-06-17T14:17:00+00:00",
+    "fetched_at": "2026-06-17T18:39:49.526164+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及霍尔木兹海峡恢复油气流通，暗示地缘政治风险降低，可能利好全球能源供应稳定性，短期内对油气价格构成下行压力，间接利好依赖能源进口的行业。",
+      "translation": "根据JD Vance的说法，霍尔木兹海峡再次有天然气和石油流通。",
+      "confidence": "medium"
     }
   },
   {

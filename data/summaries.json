@@ -25,48 +25,47 @@
     "focus_tickers": [
       "SPCX",
       "NVDA",
-      "INTC",
+      "MU",
       "MCD",
       "QCOM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "SpaceX上市与期权交易热潮",
-      "地缘政治风险缓解与能源市场恢复",
-      "AI与半导体投资机会",
-      "特朗普相关资产投资",
-      "市场整体牛市预期"
+      "地缘政治缓和与能源市场重启",
+      "美联储政策与利率预期",
+      "AI与科技股持续走强",
+      "SpaceX IPO与期权热潮",
+      "供应链与大宗商品"
     ],
-    "recent_shift": "近期推特从关注地缘政治紧张和利率预期，转向积极推动SpaceX相关交易和ETF，并强调牛市前景。",
+    "recent_shift": "近期观点明显转向乐观，主要受美伊协议、美联储利率不变以及SpaceX IPO提振市场信心影响。",
     "representative_quotes": [
-      "BREAKING: Look at this. SpaceX, $SPCX, options are crazy.",
-      "The S&P500 can hit 9,000 this year, per Evercore.",
-      "The playbook to investing in 2026 - Trump's administration buys Intel $INTC on 8/22/25 - It's up another 3% today - now up 400%+ since"
+      "BREAKING: The US has reportedly released the full 14-point memorandum with Iran, outlining an immediate ceasefire, safe commercial passage through the Strait of Hormuz, phased sanctions relief...",
+      "BREAKING: Look at this. SpaceX, $SPCX, options are crazy. What did they look like at Unusual Whales?",
+      "Micron, $MU, price target raised to $1,500 by Deutsche Bank."
     ],
-    "generated_at": "2026-06-17T16:11:37.865670+00:00"
+    "generated_at": "2026-06-17T18:39:56.483010+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "MU",
+      "SK하이닉스",
       "SPCX",
       "NOK",
-      "NVDA",
-      "INTC"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心受益者，尤其海力士和美光",
-      "SPCX（太空探索）被视作最具想象力的公司，带动市场情绪",
-      "长期持有优于短线交易，强调信仰和认知",
-      "诺基亚因与英伟达合作CUDA生态被看好",
-      "英特尔应放弃CPU转向代工以提升市值"
+      "存储是AI革命的终极正解",
+      "海力士ADR及Q2利润催化",
+      "SPCX上市与市场流动性",
+      "长期持有与信仰投资"
     ],
-    "recent_shift": "从早期对存储的坚定看好，近期更多强调SPCX对市场的抽血效应结束后的反弹机会，并明确看多海力士未来45天的强势期。",
+    "recent_shift": "近期更倾向于海力士，因ADR上市和Q2利润预期，同时认为存储确定性高于其他题材。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
-      "spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明的救世主，能放螺旋屁屁的天才。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。",
+      "spcx还是破发吧，让这些机构都亏钱，有钱赚的时候散户1毛钱额度都没有，只配下水道接盘。"
     ],
-    "generated_at": "2026-06-17T16:11:41.963452+00:00"
+    "generated_at": "2026-06-17T18:39:59.274982+00:00"
   }
 }
