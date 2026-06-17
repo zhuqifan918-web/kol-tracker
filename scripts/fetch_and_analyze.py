@@ -18,6 +18,7 @@ from twscrape import API
 
 TWEETS_FILE = "data/tweets.json"
 SUMMARIES_FILE = "data/summaries.json"
+NOTIFIED_FILE = "data/notified_ids.json"
 KOLS_FILE = "config/kols.json"
 MAX_TWEETS_STORED = 5000
 FETCH_COUNT = 20
@@ -131,6 +132,7 @@ async def main() -> None:
     kols = load_json(KOLS_FILE, [])
     existing_tweets: list = load_json(TWEETS_FILE, [])
     existing_ids = {t["tweet_id"] for t in existing_tweets}
+    notified_ids: set = set(load_json(NOTIFIED_FILE, []))
 
     api = await get_api()
     client = OpenAI(
@@ -196,8 +198,9 @@ async def main() -> None:
             existing_ids.add(tweet_id)
             print(f"  Saved: {analysis.get('direction')} — {analysis.get('tickers')}")
 
-            if kol.get("notify", False):
+            if kol.get("notify", False) and tweet_id not in notified_ids:
                 send_email_notification(record)
+                notified_ids.add(tweet_id)
 
         await asyncio.sleep(2)
 
@@ -206,6 +209,7 @@ async def main() -> None:
         all_tweets.sort(key=lambda t: t["published_at"], reverse=True)
         all_tweets = all_tweets[:MAX_TWEETS_STORED]
         save_json(TWEETS_FILE, all_tweets)
+        save_json(NOTIFIED_FILE, list(notified_ids))
         print(f"\nDone — added {len(new_tweets)} new tweet(s), total {len(all_tweets)}")
     else:
         all_tweets = existing_tweets
