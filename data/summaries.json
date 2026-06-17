@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "NVDA",
-      "AAPL",
-      "MU",
-      "QCOM"
+      "$SPCX",
+      "$NVDA",
+      "$INTC",
+      "$AAPL",
+      "$MU"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "SpaceX期权疯狂交易",
-      "美联储政策不确定性",
-      "地缘政治（美伊协议、霍尔木兹海峡）",
-      "科技巨头（苹果、英伟达）杠杆交易",
-      "加密货币税收打击"
+      "地缘政治与能源市场动态",
+      "美联储利率与通胀预期",
+      "特朗普政策影响下的投资机会"
     ],
-    "recent_shift": "从较早的伊朗协议乐观情绪转向关注SpaceX期权狂热和美联储鹰派信息",
+    "recent_shift": "近期对市场情绪转向乐观，强调伊朗协议、能源流动恢复及特朗普看涨股市，但维持对通胀和加息的谨慎。",
     "representative_quotes": [
-      "SpaceX, $SPCX, options are crazy. What did they look like at Unusual Whales?",
-      "Fed's Chair Warsh: Inflation is well ahead of the 2% goal. ... we have dropped the forward guidance.",
-      "The token launched on January 17, 2025, three days before Donald Trump’s inauguration, and pulled in at least $1.2 billion from investors."
+      "BREAKING: The Fed has lowered GDP 2026 projections to 2.4%, and removes statement regarding rate adjustments.",
+      "SpaceX, $SPCX, shares jump 20%, adding $412 billion in market value.",
+      "BREAKING: Trump has said he expects the stock market to keep going up."
     ],
-    "generated_at": "2026-06-17T21:00:43.816327+00:00"
+    "generated_at": "2026-06-17T22:47:18.817863+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

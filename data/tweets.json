@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2067368533408071953",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Someone just invested $466,000 into a Grok Portfolio on Autopilot\n\nThe portfolio was created by a Wharton PhD who uses Grok as part of his investing process.\n\nSince launching on 2/11/25, it's done quite well\n\nCool to see how more people are using Grok to invest",
+    "tweet_url": "https://x.com/unusual_whales/status/2067368533408071953",
+    "published_at": "2026-06-17T22:07:22+00:00",
+    "fetched_at": "2026-06-17T22:47:04.414793+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文介绍了由沃顿商学院博士创建的、利用Grok进行投资的自动化投资组合，并提到自2025年2月11日启动以来表现良好，暗示其盈利能力。",
+      "translation": "有人刚刚向一个自动运行的Grok投资组合投入了46.6万美元。该投资组合由一位沃顿商学院博士创建，他在投资过程中使用Grok。自2025年2月11日启动以来，表现相当不错。看到越来越多人利用Grok进行投资，这很酷。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067351073832964503",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -254,6 +273,25 @@
       "direction": "bullish",
       "summary": "作者认为市值上万亿的公司即使有利空也不会大跌，因为这些公司是指数核心持仓，有强大的融资能力和信用，资金会持续流入。同时看涨SK海力士，认为其是韩国指数和国民的希望，接下来45天是强势期。",
       "translation": "市值上万亿的公司不管在哪个市场，就算再利空都不会跌太多的，他们都是要做各个指数的核心持仓的，不会有太大波动。所以别看说 $spcx  市值太大了太虚就觉得可能跌特别多，其实不然，市值不仅仅代表市值，也代表着一个公司的融资能力和信用额度。它市值到这个位置，会有源源不断的钱流向他，他也能从市场源源不断的拿到钱。其他万亿公司也一样，不要瞎恐慌，涨了看涨跌了看跌。另外，#sk海力士 也是一样，现在它是韩国指数和全韩国人的希望，韩国人端午节不得集体凑钱梭哈海力士。接下来的45天是海力士绝对的强势期。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067273780632662517",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "New: Someone just invested $466,000 behind\n@grkportfolio Grok Portfolio\n\nThe portfolio now has $21,360,483 investing alongside https://t.co/TNXoI5odps",
+    "tweet_url": "https://x.com/unusual_whales/status/2067273780632662517",
+    "published_at": "2026-06-17T15:50:52+00:00",
+    "fetched_at": "2026-06-17T22:47:06.495195+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及某投资组合获得46.6万美元新投资，总规模达2136万美元，表明市场对该策略的看好。",
+      "translation": "最新消息：有人刚刚向@grkportfolio Grok Portfolio投资了46.6万美元。该投资组合目前共有2136.0483万美元资金参与投资。",
       "confidence": "medium"
     }
   },
