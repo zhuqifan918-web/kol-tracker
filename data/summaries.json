@@ -25,25 +25,25 @@
     "focus_tickers": [
       "SPCX",
       "NVDA",
+      "AAPL",
       "MU",
-      "MCD",
       "QCOM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治缓和与能源市场重启",
-      "美联储政策与利率预期",
-      "AI与科技股持续走强",
-      "SpaceX IPO与期权热潮",
-      "供应链与大宗商品"
+      "SpaceX期权疯狂交易",
+      "美联储政策不确定性",
+      "地缘政治（美伊协议、霍尔木兹海峡）",
+      "科技巨头（苹果、英伟达）杠杆交易",
+      "加密货币税收打击"
     ],
-    "recent_shift": "近期观点明显转向乐观，主要受美伊协议、美联储利率不变以及SpaceX IPO提振市场信心影响。",
+    "recent_shift": "从较早的伊朗协议乐观情绪转向关注SpaceX期权狂热和美联储鹰派信息",
     "representative_quotes": [
-      "BREAKING: The US has reportedly released the full 14-point memorandum with Iran, outlining an immediate ceasefire, safe commercial passage through the Strait of Hormuz, phased sanctions relief...",
-      "BREAKING: Look at this. SpaceX, $SPCX, options are crazy. What did they look like at Unusual Whales?",
-      "Micron, $MU, price target raised to $1,500 by Deutsche Bank."
+      "SpaceX, $SPCX, options are crazy. What did they look like at Unusual Whales?",
+      "Fed's Chair Warsh: Inflation is well ahead of the 2% goal. ... we have dropped the forward guidance.",
+      "The token launched on January 17, 2025, three days before Donald Trump’s inauguration, and pulled in at least $1.2 billion from investors."
     ],
-    "generated_at": "2026-06-17T18:39:56.483010+00:00"
+    "generated_at": "2026-06-17T21:00:43.816327+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
