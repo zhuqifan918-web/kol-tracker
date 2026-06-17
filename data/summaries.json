@@ -1,69 +1,72 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
+      "AAOI",
       "LITE",
-      "AMD",
-      "NVDA"
+      "SNDK",
+      "LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈与模拟",
-      "AI基础设施供应链安全",
-      "价值洼地与小型成长股"
+      "光子学供应链瓶颈",
+      "美国半导体制造回流",
+      "AI基础设施持续扩张"
     ],
-    "recent_shift": "近期更加关注CW激光瓶颈和上游供应链的自主可控，同时看好在美制造的光学公司。",
+    "recent_shift": "近期更强调欧洲和日本的光子学及化合物半导体机会，例如LPK和XFAB。",
     "representative_quotes": [
-      "I wouldn't be surprised if other hyperscalers like Amazon, Microsoft, and others saw Nvidia / AMD signing LTAs, and are trying to secure capacity next.",
-      "I'm not sure why many folks are super bearish on my high conviction $AAOI long… Ever since $30, then on the way up to $170. (Yes I do think every bear is wrong, we'll see who's right).",
-      "$SIVE is the next SIVE. Don't think you'll find another company. That's qualified and likely primary/sole source with $JBL and other pluggable hyperscaler suppliers."
+      "I haven't seen such fast revenue ramp since $NBIS.",
+      "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom.",
+      "80% of customers among major global players have selected LPKF equipment."
     ],
-    "generated_at": "2026-06-17T12:02:30.227042+00:00"
+    "generated_at": "2026-06-17T16:11:34.852081+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
       "NVDA",
+      "INTC",
       "MCD",
-      "HOOD",
       "QCOM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "SpaceX IPO与期权热潮",
-      "美国政治经济动态影响市场",
-      "地缘政治与能源市场复苏"
+      "SpaceX上市与期权交易热潮",
+      "地缘政治风险缓解与能源市场恢复",
+      "AI与半导体投资机会",
+      "特朗普相关资产投资",
+      "市场整体牛市预期"
     ],
-    "recent_shift": "早期关注地缘政治紧张和能源危机，后期转向SpaceX上市及期权交易热情",
+    "recent_shift": "近期推特从关注地缘政治紧张和利率预期，转向积极推动SpaceX相关交易和ETF，并强调牛市前景。",
     "representative_quotes": [
       "BREAKING: Look at this. SpaceX, $SPCX, options are crazy.",
-      "Retail investors buy SpaceX, $SPCX, in record numbers, per CNBC",
-      "Both bears and bulls getting in on $SPCX day 1, with notable flows in the following contracts..."
+      "The S&P500 can hit 9,000 this year, per Evercore.",
+      "The playbook to investing in 2026 - Trump's administration buys Intel $INTC on 8/22/25 - It's up another 3% today - now up 400%+ since"
     ],
-    "generated_at": "2026-06-17T12:02:22.334345+00:00"
+    "generated_at": "2026-06-17T16:11:37.865670+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SK",
-      "$MU",
-      "$NVDA",
-      "$SPCX",
-      "$NOK"
+      "MU",
+      "SPCX",
+      "NOK",
+      "NVDA",
+      "INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（DRAM/HBM）是AI硬件核心，供需缺口持续到2030年",
-      "SK海力士短期催化剂密集（ADR、HBM4e送样、Q2财报）",
-      "SPCX上市吸筹后释放流动性，市场将反弹",
-      "长期持有优质标的，避免追涨杀跌"
+      "存储芯片是AI革命的核心受益者，尤其海力士和美光",
+      "SPCX（太空探索）被视作最具想象力的公司，带动市场情绪",
+      "长期持有优于短线交易，强调信仰和认知",
+      "诺基亚因与英伟达合作CUDA生态被看好",
+      "英特尔应放弃CPU转向代工以提升市值"
     ],
-    "recent_shift": "从早期恐慌式下跌（6月5-9日）转向坚定看好存储和SPCX上市后的流动性释放，整体情绪从焦虑转为自信",
+    "recent_shift": "从早期对存储的坚定看好，近期更多强调SPCX对市场的抽血效应结束后的反弹机会，并明确看多海力士未来45天的强势期。",
     "representative_quotes": [
-      "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有没比存储这波更稳的生意了。",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
       "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
-      "真正的瓶颈在于芯片制造能力，目前美光的产能还远不及芯片实际需求。"
+      "spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明的救世主，能放螺旋屁屁的天才。"
     ],
-    "generated_at": "2026-06-17T12:02:26.425148+00:00"
+    "generated_at": "2026-06-17T16:11:41.963452+00:00"
   }
 }
