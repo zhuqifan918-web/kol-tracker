@@ -1,73 +1,69 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LITE",
-      "$AXTI",
-      "$IQE"
+      "AAOI",
+      "SIVE",
+      "LITE",
+      "AMD",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学供应链瓶颈（磷化铟衬底、外延片、激光器）",
-      "AI基础设施上游（内存、光模块、Neocloud）",
-      "地缘政治驱动的国产替代（美国/欧洲本土制造）",
-      "CPO（共封装光学）与800V直流电加速",
-      "小型股重估（如SIVE、AAOI从低市值起步）"
+      "光子学瓶颈与模拟",
+      "AI基础设施供应链安全",
+      "价值洼地与小型成长股"
     ],
-    "recent_shift": "近期更强调欧洲和日本市场的机会，并开始关注钨（WF₆）等细分瓶颈，但整体看多立场未变。",
+    "recent_shift": "近期更加关注CW激光瓶颈和上游供应链的自主可控，同时看好在美制造的光学公司。",
     "representative_quotes": [
-      "$SIVE is the next SIVE. Don’t think you’ll find another company. That’s qualified and likely primary/sole source with $JBL and other pluggable hyperscaler suppliers Ayar and the $NVDA NVLink CPO ecosystems",
-      "Bernstein is legit the dumbest analyst firm I’ve seen calling for a 50% crash in Kioxia. They gave $INTC a $36 PT back in Jan and now it’s $118. Good lesson to ignore institutional reports that get published for retail consumption.",
-      "I haven’t seen such fast revenue ramp since $NBIS."
+      "I wouldn't be surprised if other hyperscalers like Amazon, Microsoft, and others saw Nvidia / AMD signing LTAs, and are trying to secure capacity next.",
+      "I'm not sure why many folks are super bearish on my high conviction $AAOI long… Ever since $30, then on the way up to $170. (Yes I do think every bear is wrong, we'll see who's right).",
+      "$SIVE is the next SIVE. Don't think you'll find another company. That's qualified and likely primary/sole source with $JBL and other pluggable hyperscaler suppliers."
     ],
-    "generated_at": "2026-06-17T07:13:56.283152+00:00"
+    "generated_at": "2026-06-17T12:02:30.227042+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$NVDA",
-      "$HOOD",
-      "$MCD",
-      "$INTC"
+      "SPCX",
+      "NVDA",
+      "MCD",
+      "HOOD",
+      "QCOM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与科技股",
-      "政治关联投资（特朗普效应）",
-      "新兴市场（伊朗协议与能源）",
-      "杠杆ETF与期权炒作",
-      "降息预期与宏观"
+      "SpaceX IPO与期权热潮",
+      "美国政治经济动态影响市场",
+      "地缘政治与能源市场复苏"
     ],
-    "recent_shift": "近期更加强调对SpaceX IPO的看涨情绪，同时提及特朗普交易和伊朗协议等政治事件，整体氛围积极。",
+    "recent_shift": "早期关注地缘政治紧张和能源危机，后期转向SpaceX上市及期权交易热情",
     "representative_quotes": [
       "BREAKING: Look at this. SpaceX, $SPCX, options are crazy.",
-      "The playbook to investing in 2026 - Trump's administration buys Intel $INTC on 8/22/25 - it's up another 3% today - now up 400%+ since",
-      "The Federal Reserve is widely expected to hold interest rates steady at its policy meeting next week, with investors pricing in at least one 25 basis point rate hike by the end of the year."
+      "Retail investors buy SpaceX, $SPCX, in record numbers, per CNBC",
+      "Both bears and bulls getting in on $SPCX day 1, with notable flows in the following contracts..."
     ],
-    "generated_at": "2026-06-17T07:13:59.748433+00:00"
+    "generated_at": "2026-06-17T12:02:22.334345+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK하이닉스",
-      "DRAM",
-      "SPCX",
-      "NVDA",
-      "NOK"
+      "$SK",
+      "$MU",
+      "$NVDA",
+      "$SPCX",
+      "$NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心受益者",
-      "海力士近期催化剂密集（ADR、HBM送样、财报）",
-      "长期持有优于短线交易",
-      "SPCX上市与马斯克概念短期热度较高"
+      "存储芯片（DRAM/HBM）是AI硬件核心，供需缺口持续到2030年",
+      "SK海力士短期催化剂密集（ADR、HBM4e送样、Q2财报）",
+      "SPCX上市吸筹后释放流动性，市场将反弹",
+      "长期持有优质标的，避免追涨杀跌"
     ],
-    "recent_shift": "近日明确从多只股票换仓至海力士，强调短期确定性机会（45天内利好）而非之前更泛化的AI存储信仰。",
+    "recent_shift": "从早期恐慌式下跌（6月5-9日）转向坚定看好存储和SPCX上市后的流动性释放，整体情绪从焦虑转为自信",
     "representative_quotes": [
+      "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有没比存储这波更稳的生意了。",
       "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "如果你真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。"
+      "真正的瓶颈在于芯片制造能力，目前美光的产能还远不及芯片实际需求。"
     ],
-    "generated_at": "2026-06-17T07:13:51.623927+00:00"
+    "generated_at": "2026-06-17T12:02:26.425148+00:00"
   }
 }
