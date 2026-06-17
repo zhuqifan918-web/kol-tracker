@@ -1,5 +1,111 @@
 [
   {
+    "tweet_id": "2067206734427697196",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Trendforce reports that $AMD is actively trying to secure CW laser supply with multiple major procurement orders...\n\nIs probably just the start of the bottleneck?  \n\nThere's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom. \n\nEspecially after Lumentum/Coherent got locked up with multi-year agreements with Nvidia. (disclosure, own Sive and aaoi)\n\nLumentum is already CW laser constrained and is likely buying off Japanese companies like Sumitomo/Furukawa if I had to guess per ER, and those are probably running at max capacity.  \n\nFrom the Trendforce report, this is:\n\n\"to ensure that its future capacity will not be constrained by NVIDIA and other major Cloud Service Providers (CSPs).\"\n\nI wouldn't be surprised if other hyperscalers like Amazon, Microsoft, and others saw Nvidia / AMD signing LTAs, and are trying to secure capacity next. \n\nA lot of it is game theory on not getting choked out by competitors, and looks like AMD is tipping the first domino after Nvidia.\n\nBut my opinion is that this just goes and show how invaluable this CW laser chokepoint is and the companies are inside it.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067206734427697196",
+    "published_at": "2026-06-17T11:24:26+00:00",
+    "fetched_at": "2026-06-17T12:01:17.660487+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD",
+        "SIVE",
+        "AAOI",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出AMD积极下单锁定CW激光器供应，暗示该环节可能成为瓶颈。分析认为西方供应链中独立产能有限，相关公司如SIVE、AAOI和Macom将受益；并提及Lumentum和Coherent已与英伟达签订多年协议，导致资源紧张。整体看好CW激光器领域的投资价值。",
+      "translation": "Trendforce报告称，AMD正积极通过多个大批量采购订单确保连续波（CW）激光器的供应...这可能只是瓶颈的开始？西方供应链中剩余独立产能的公司不多，除了SIVE、AAOI，或许还有Macom。尤其是在Lumentum/Coherent与英伟达签署多年协议之后。（披露：本人持有SIVE和AAOI）Lumentum的CW激光器已经受限，据财报推测，它很可能在从住友、古河等日本公司采购，而这些公司可能已满负荷运转。根据Trendforce报告，此举是“为确保其未来产能不受英伟达及其他主要云服务提供商（CSP）的限制”。我认为其他云巨头如亚马逊、微软也可能看到英伟达/AMD签署长期协议后，会尝试确保产能。这很大程度上是博弈论——避免被竞争对手排挤——看起来AMD是继英伟达之后推倒第一张多米诺骨牌的公司。但我的观点是，这进一步显示了CW激光器这一瓶颈的宝贵性，以及处于其中的公司价值。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067204860672709101",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"I will hold my SpaceX shares forever,\" Shaun Maguire of Sequoia, whose firm has a 1.5% stake in Musk's company., has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2067204860672709101",
+    "published_at": "2026-06-17T11:17:00+00:00",
+    "fetched_at": "2026-06-17T12:01:46.184203+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPACEX"
+      ],
+      "direction": "bullish",
+      "summary": "红杉资本合伙人肖恩·马奎尔表示将永久持有SpaceX股份，并透露红杉持有该公司1.5%的股份，这显示了对SpaceX长期价值的强烈信心，对投资者而言是一个积极的信号。",
+      "translation": "红杉资本的肖恩·马奎尔表示：“我将永远持有我的SpaceX股份。”他的公司持有马斯克公司1.5%的股份。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067201823518150869",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Here are the greatest changes in open interest for $SPCX: https://t.co/V9fjJRAark\n\nA wild day 1 of trading with over 1,700,000 options contracts traded! \n\nSee the latest SPCX flows with Unusual Whales: https://t.co/2LGEEfuqzY https://t.co/m2H6jnEvAx",
+    "tweet_url": "https://x.com/unusual_whales/status/2067201823518150869",
+    "published_at": "2026-06-17T11:04:56+00:00",
+    "fetched_at": "2026-06-17T12:01:48.655883+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到SPCX ETF首日交易活跃，有大量期权交易和未平仓合约变化，但没有明确的多空倾向。",
+      "translation": "以下是$SPCX未平仓合约的最大变化：https://t.co/V9fjJRAark\n\n首日交易非常活跃，期权合约交易量超过170万份！\n\n在Unusual Whales上查看最新的SPCX资金流向：https://t.co/2LGEEfuqzY https://t.co/m2H6jnEvAx",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067149985439977914",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "$MU 美光618财报利润*2+740亿美金=海力士q2利润",
+    "tweet_url": "https://x.com/xiaomustock/status/2067149985439977914",
+    "published_at": "2026-06-17T07:38:56+00:00",
+    "fetched_at": "2026-06-17T12:01:29.227634+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "美光财报显示利润翻倍，市值740亿美金，与海力士Q2利润形成对比，暗示美光估值偏低，可能被市场低估。",
+      "translation": "美光618财报利润*2+740亿美金=海力士q2利润",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067147852535795743",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "打个标记，\n海力士q2利润保守预估1100亿美金纯现金，\n今日海力士市值11200亿美金。\n接下来45天是海力士的强势期，\n到时候q2的利润绝对吓死绝大多数人。 https://t.co/N3uIsujXzu",
+    "tweet_url": "https://x.com/xiaomustock/status/2067147852535795743",
+    "published_at": "2026-06-17T07:30:28+00:00",
+    "fetched_at": "2026-06-17T12:01:31.607778+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者认为SK海力士（Hynix）第二季度利润保守估计为1100亿美金，且当前市值11200亿美金，未来45天是强势期，Q2利润将超预期，对股价持乐观态度。",
+      "translation": "打个标记，海力士Q2利润保守预估1100亿美金纯现金，今日海力士市值11200亿美金。接下来45天是海力士的强势期，到时候Q2的利润绝对吓死绝大多数人。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067117980656533764",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -291,6 +397,27 @@
       "summary": "瑞穗研究指出CPO和800V DC没有延迟，上调了NVDA驱动的光学引擎预测，认为InP DFB激光器是重点，HVDC部署如期，800VDC增量在2027-2028年，批评近期CPO相关回调不合理。整体看好相关技术及个股。",
       "translation": "瑞穗研究：CPO或800V DC没有延迟。因英伟达需求上升，上调光学引擎预测。- CPO的下一阶段长期来看，InP DFB激光器仍是重点（你好 $SIVE）。VSCEL和microLED在1.6T+的短距离机架内和芯片到芯片方面仍“未经证实”。- HVDC部署按计划进行，800VDC增量在2027年，2028年渗透率更高。最近的CPO相关抛售真愚蠢。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067029446780195301",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see more about SpaceX options, and to find your market companion, check out Mr. Whale.\n\nSee more: https://t.co/E7SDkYdrvv",
+    "tweet_url": "https://x.com/unusual_whales/status/2067029446780195301",
+    "published_at": "2026-06-16T23:39:58+00:00",
+    "fetched_at": "2026-06-17T12:02:03.614440+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPACE"
+      ],
+      "direction": "bullish",
+      "summary": "推文推广SpaceX期权交易，并推荐Mr. Whale作为市场助手，暗示SpaceX投资机会。",
+      "translation": "要了解更多关于SpaceX期权的信息，并找到你的市场伙伴，请查看Mr. Whale。",
+      "confidence": "medium"
     }
   },
   {
