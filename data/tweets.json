@@ -1,5 +1,102 @@
 [
   {
+    "tweet_id": "2067351073832964503",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Illinois Governor Pritzker has signed a 0.2% tax on crypto transactions into law including transfers between personal wallets, with the Crypto Council for Innovation calling it \"the most punitive digital asset tax in the country.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2067351073832964503",
+    "published_at": "2026-06-17T20:58:00+00:00",
+    "fetched_at": "2026-06-17T21:00:16.617278+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊利诺伊州对加密货币交易征收0.2%的税款，包括个人钱包之间的转账，被加密货币创新委员会称为全美最具惩罚性的数字资产税。这对加密货币市场可能构成利空，增加了交易成本，抑制了交易活动，但尚未提及具体受影响的代币。",
+      "translation": "伊利诺伊州州长普利兹克已签署对加密货币交易征收0.2%税款的法律，包括个人钱包之间的转账。加密货币创新委员会称其为“全国最具惩罚性的数字资产税”。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067339936177717471",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, is preparing a second-generation iPhone Air for Spring 2027, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2067339936177717471",
+    "published_at": "2026-06-17T20:13:44+00:00",
+    "fetched_at": "2026-06-17T21:00:20.168223+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "苹果计划于2027年春季推出第二代iPhone Air，这一产品更新预期将推动AAPL股价上涨，属于积极信号。",
+      "translation": "据彭博社报道，苹果公司（$AAPL）正为2027年春季准备第二代iPhone Air。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067323643181564117",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Warsh: We'll fix the five years of misses on inflation... I can't give you guidance on what we're going to do next.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067323643181564117",
+    "published_at": "2026-06-17T19:09:00+00:00",
+    "fetched_at": "2026-06-17T21:00:25.339462+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员Warsh表示将解决过去五年通胀持续偏离目标的问题，但不提供未来政策指引。这暗示可能采取更激进的收紧措施，对市场（尤其风险资产）构成压力。",
+      "translation": "美联储的Warsh：我们将解决过去五年通胀持续偏离目标的问题……但我无法就下一步行动提供指引。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067320623143989746",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Chair Warsh: Inflation is well ahead of the 2% goal.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067320623143989746",
+    "published_at": "2026-06-17T18:57:00+00:00",
+    "fetched_at": "2026-06-17T21:00:27.356299+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储主席沃什表示通胀远超2%目标，这暗示美联储可能继续加息或维持高利率，对股市构成压力。投资者需关注货币政策收紧风险。",
+      "translation": "美联储主席沃什：通胀远超2%的目标。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067317785697673294",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Fed's Chair Warsh: Fed policy appears to be restrictive vis-à-vis the housing market, but not financial markets... we have dropped the forward guidance.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067317785697673294",
+    "published_at": "2026-06-17T18:45:43+00:00",
+    "fetched_at": "2026-06-17T21:00:29.496736+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储主席沃什表示政策对房地产市场有抑制性，但对金融市场影响不大，并已取消前瞻性指引。这暗示货币政策可能调整，投资者需关注后续经济数据和政策声明。",
+      "translation": "突发：美联储主席沃什：美联储政策对房地产市场似乎具有限制性，但对金融市场则不然...我们已放弃前瞻性指引。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067312473183863194",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
