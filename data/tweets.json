@@ -1,5 +1,256 @@
 [
   {
+    "tweet_id": "2067276929078788560",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "市值上万亿的公司不管在哪个市场，就算再利空都不会跌太多的，他们都是要做各个指数的核心持仓的，不会有太大波动。\n所以别看说 $spcx  市值太大了太虚就觉得可能跌特别多，其实不然，市值不仅仅代表市值，也代表着一个公司的融资能力和信用额度。\n它市值到这个位置，会有源源不断的钱流向他，他也能从市场源源不断的拿到钱。\n其他万亿公司也一样，不要瞎恐慌，\n涨了看涨跌了看跌。\n另外，#sk海力士 也是一样，现在它是韩国指数和全韩国人的希望，韩国人端午节不得集体凑钱梭哈海力士。接下来的45天是海力士绝对的强势期。",
+    "tweet_url": "https://x.com/xiaomustock/status/2067276929078788560",
+    "published_at": "2026-06-17T16:03:22+00:00",
+    "fetched_at": "2026-06-17T16:10:53.034811+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX",
+        "SK하이닉스"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为市值上万亿的公司即使有利空也不会大跌，因为这些公司是指数核心持仓，有强大的融资能力和信用，资金会持续流入。同时看涨SK海力士，认为其是韩国指数和国民的希望，接下来45天是强势期。",
+      "translation": "市值上万亿的公司不管在哪个市场，就算再利空都不会跌太多的，他们都是要做各个指数的核心持仓的，不会有太大波动。所以别看说 $spcx  市值太大了太虚就觉得可能跌特别多，其实不然，市值不仅仅代表市值，也代表着一个公司的融资能力和信用额度。它市值到这个位置，会有源源不断的钱流向他，他也能从市场源源不断的拿到钱。其他万亿公司也一样，不要瞎恐慌，涨了看涨跌了看跌。另外，#sk海力士 也是一样，现在它是韩国指数和全韩国人的希望，韩国人端午节不得集体凑钱梭哈海力士。接下来的45天是海力士绝对的强势期。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067272647545930045",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Jim Cramer gave $SPCX his blessing. https://t.co/DSbyBt9f0D",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067272647545930045",
+    "published_at": "2026-06-17T15:46:21+00:00",
+    "fetched_at": "2026-06-17T16:09:48.747878+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "吉姆·克莱默（Jim Cramer）对SPCX ETF表示支持，这通常被视为看涨信号，可能吸引更多投资者关注该ETF。",
+      "translation": "吉姆·克莱默给了$SPCX他的祝福。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067270040353746995",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "G7 nations states that they will work to have China supply no more than 60% of rare earth metals, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067270040353746995",
+    "published_at": "2026-06-17T15:36:00+00:00",
+    "fetched_at": "2026-06-17T16:11:11.568753+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "G7国家计划限制中国稀土金属供应占比至60%以下，可能推高稀土价格，对依赖中国稀土的行业构成成本压力，但对拥有替代供应的公司有利。",
+      "translation": "七国集团表示，他们将努力让中国的稀土金属供应不超过60%，据彭博社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067267047781015579",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AEHR receives follow up production order from major Silicon Photonics Customer for wafer level burn in systems.\n\nNow up 11.29% today to $116. \n\nOnly 2 months ago it was in the $30's, good times. https://t.co/It24lVLmBe",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067267047781015579",
+    "published_at": "2026-06-17T15:24:06+00:00",
+    "fetched_at": "2026-06-17T16:09:55.306052+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AEHR"
+      ],
+      "direction": "bullish",
+      "summary": "AEHR获得重要客户的光电芯片晶圆级老化测试系统追加订单，股价大涨11.29%至116美元，两个月前仅30多美元，表明公司业务增长强劲。",
+      "translation": "$AEHR收到主要硅光子客户针对晶圆级老化测试系统的后续生产订单。今日上涨11.29%，达116美元。两个月前还在30多美元，好时光。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067260268166713561",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "And 7 months later... $NBIS is all time highs. \n\nWhile $IREN bagholders are still funding the $6,000,000,000 ATM and stuck at the same price back in November. \n\nGuess this settles the debate? https://t.co/wYvbhw4xK3",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067260268166713561",
+    "published_at": "2026-06-17T14:57:10+00:00",
+    "fetched_at": "2026-06-17T16:10:08.406995+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS",
+        "IREN"
+      ],
+      "direction": "bullish",
+      "summary": "推文比较了NBIS和IREN的表现，认为NBIS创历史新高而IREN持有者因大额ATM计划被套牢，暗示NBIS优于IREN，对NBIS持看多态度。",
+      "translation": "7个月后... $NBIS创历史新高。而$IREN的套牢者仍在资助60亿美元的ATM计划，价格与去年11月相同。看来这解决了争论？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067235336842097124",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Don’t think there’s any new news from $XFAB. \n\nTheir company needs to do a better job with marketing materials though.\n\nSince nobody thinks they’re optical ai dc or power semi adjacent exposure apparently.\n\nHowever, I would have thought that since they’re leading Europe’s silicon photonics value chain efforts with PhotonixFab.\n\nAnd apparently everyone + EU are discussing sovereign AI supply chains after Fable’s export controls.\n\nOne might think they’re a major beneficiary alongside IMEC, ligentec and others in the sovereign AI push?\n\nAnyway, markets can always disagree or maybe they didn’t link things together.\n\nRegardless, I’m just curious how this plays out.  (Disclosure, own positions)",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067235336842097124",
+    "published_at": "2026-06-17T13:18:06+00:00",
+    "fetched_at": "2026-06-17T16:10:22.508676+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为XFAB作为欧洲硅光子学价值链的领导者，可能成为欧盟主权AI供应链政策的主要受益者，但目前市场尚未充分认识其价值，持仓观望。",
+      "translation": "不认为$XFAB有什么新消息。不过他们的公司需要在营销材料上做得更好。显然没人认为他们与光学AI DC或功率半导体相关。然而，我以为他们正通过PhotonixFab领导欧洲硅光子学价值链的努力。而且显然每个人和欧盟都在讨论Fable出口管制后的主权AI供应链。人们可能会认为他们是与IMEC、ligentec等一起成为主权AI推动的主要受益者？无论如何，市场可能不同意或者他们没有联系起来。不管怎样，我只是好奇这会如何发展。（披露，持有仓位）",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067235059493650519",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AI credit markets at risk of ‘violent’ correction, Man Group has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2067235059493650519",
+    "published_at": "2026-06-17T13:17:00+00:00",
+    "fetched_at": "2026-06-17T16:11:20.885686+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到Man Group认为AI信贷市场存在出现‘剧烈’回调的风险，透露出对相关投资领域的看空情绪。",
+      "translation": "Man Group表示，AI信贷市场面临‘剧烈’回调的风险。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067233126183747926",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "里面美光的财报日期记错了，624号",
+    "tweet_url": "https://x.com/xiaomustock/status/2067233126183747926",
+    "published_at": "2026-06-17T13:09:19+00:00",
+    "fetched_at": "2026-06-17T16:10:54.773213+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "neutral",
+      "summary": "提到美光（MU）财报日期记错，表明作者关注该公司的财报事件，但未表达明确的多空观点。",
+      "translation": "里面美光的财报日期记错了，624号",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2067220931739779152",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这些人早喊1500美金 ，我也不至于拿不住 120的 $MU \n存储依然是这轮AI革命的终极答案，刚刚开始。不过我现阶段更偏向海力士，下个月海力士adr美股上线，肯定有非常多人美光换海力士。 https://t.co/1HvBHSo6jI",
+    "tweet_url": "https://x.com/xiaomustock/status/2067220931739779152",
+    "published_at": "2026-06-17T12:20:51+00:00",
+    "fetched_at": "2026-06-17T16:10:57.257206+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "SK Hynix"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为存储是AI革命的终极答案，看好海力士（SK Hynix）美股ADR上线后资金从美光换仓，长期看多存储板块。",
+      "translation": "这些人要是早喊1500美金，我也不至于拿不住120的$MU。存储依然是这轮AI革命的终极答案，刚刚开始。不过我现阶段更偏向海力士，下个月海力士ADR美股上线，肯定会有非常多的人从美光换到海力士。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067218256134361150",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Any News about XFAB? Seems to go down every day",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067218256134361150",
+    "published_at": "2026-06-17T12:10:13+00:00",
+    "fetched_at": "2026-06-17T16:10:27.156249+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "bearish",
+      "summary": "用户关注XFAB股票，提到该股票持续下跌，表达了对下跌趋势的担忧，暗示可能缺乏利好消息。",
+      "translation": "任何关于XFAB的新闻？似乎每天都在下跌。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067216066905088237",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I mean... if i had to guess, $LPK did claim \"80% of customers among major global players have selected LPKF equipment\".\n\nKinda clear glass substrates is the next packaging shift! \n\nFrom est. timelines, major players like Absolics is ramping H2 2026, Samsung Electro Mechanics 2027 + their partners.  \n\nThen there's major shifts like TSM CoPoS 2028 (seems possible $LPK upstream exposure, unconfirmed). \n\nJust that claim of 80% is staggering and my personal expectation was markets might price it in eventually  as they volume ramp (disclosure, own LPK). \n\nDon't think there needs to be any major news, probably just getting closer to HVM timelines.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067216066905088237",
+    "published_at": "2026-06-17T12:01:32+00:00",
+    "fetched_at": "2026-06-17T16:10:33.698908+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为玻璃基板是下一代封装技术趋势，LPK核心受益，并强调其声称80%客户份额令人震惊，预计随着高通量生产时间线推进，市场将逐渐消化这一积极因素。",
+      "translation": "我想说的是...如果非要猜的话，$LPK确实声称“全球主要客户中有80%选择了LPKF设备”。很明显玻璃基板是下一个封装转型方向！根据预估时间线，像Absolics这样的主要厂商在2026年下半年开始扩产，三星电机在2027年及其合作伙伴也是如此。然后还有像台积电CoPoS在2028年这样的重大转型（似乎LPK有可能上游受益，但未确认）。光是那80%的声称就令人震惊，我个人预期随着量产逐步推进，市场最终会将其定价（披露：本人持有LPK）。我认为不需要任何重大新闻，可能只是更接近高速量产时间线了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067211635526131887",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit $lpk is ripping!!!! I didn’t see any big news other than sdax inclusion and some potential institutional ownership",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067211635526131887",
+    "published_at": "2026-06-17T11:43:55+00:00",
+    "fetched_at": "2026-06-17T16:10:38.309214+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK"
+      ],
+      "direction": "bullish",
+      "summary": "推文提及$lpk股票正在大涨，除SDAX纳入和潜在机构持仓外未发现其他重大新闻，整体观点偏乐观。",
+      "translation": "@aleabitoreddit $lpk股价正在飙升！！除了SDAX纳入和一些潜在的机构持仓外，我没有看到其他重大新闻。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067206734427697196",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -3251,6 +3502,38 @@
     }
   },
   {
+    "tweet_id": "2039388766083944750",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AEHR looks extremely promising at ~$1.1B MC. \n\nAehr is starting to remind me of an early $TER, mixed with pre-earnings $AAOI.  \n\nIf we look at the timeline and speculated customers:\n\nFeb 11th: Sonoma production win for Hyperscaler's AI ASIC processors. (likely $GOOGL, $AMZN, $META).\n\n- Probably Google? Aehr bought Incal, who was speculated to be used by Google for their TPUs. \n\nFeb 26th: $14 million from AI lead customer (likely $AMD, $NVDA)\n\n- Probably $AMD here for Instinct MI300/MI400. \n\nMarch 3rd: Lead silicon photonics customer for one FOX-XP system (likely $INTC siph)\n\n- Very likely $INTC has been their lead customer. \n\nMarch 31st: Initial order from major new silicon photonics customer (likely $AVGO, $MRVL, $CSCO )\n\n- New customer (rules out Intel), prob one of these transitioning to 800G/1.6T silicon photonics transceivers\n\n(All speculative, very confidential BOM)\n\nRegardless. This timeline is just bottling up for $AEHR.  \n\nCould be next earnings. Or two quarters from now. \n\nBut feels like a matter of time before we see mass orders.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2039388766083944750",
+    "published_at": "2026-04-01T17:05:46+00:00",
+    "fetched_at": "2026-06-17T16:10:03.294686+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AEHR",
+        "TER",
+        "AAOI",
+        "GOOGL",
+        "AMZN",
+        "META",
+        "AMD",
+        "NVDA",
+        "INTC",
+        "AVGO",
+        "MRVL",
+        "CSCO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为AEHR市值约11亿美元，前景非常看好，将其比作早期的泰瑞达和财报前的AAOI。推文列举了多个潜在客户订单时间线，并推测这些订单可能来自谷歌、亚马逊、Meta、AMD、英伟达、英特尔等大厂，认为大规模订单只是时间问题，投资方向为看涨。",
+      "translation": "$AEHR 在市值约11亿美元时看起来非常有前景。Aehr开始让我想起早期的$TER，并混合了财报前的$AAOI。如果我们看看时间线和推测的客户：2月11日：为超大规模AI ASIC处理器赢得的Sonoma生产订单（可能是$GOOGL、$AMZN、$META）。- 可能是谷歌？Aehr收购了Incal，而Incal此前据推测被谷歌用于其TPU。2月26日：来自AI关键客户的1400万美元订单（可能是$AMD、$NVDA）。- 可能是$AMD，用于Instinct MI300/MI400。3月3日：领先的硅光子客户购买一台FOX-XP系统（可能是$INTC的硅光子）。- 很有可能是$INTC一直是他们的关键客户。3月31日：来自一家重要新硅光子客户的初始订单（可能是$AVGO、$MRVL、$CSCO）。- 新客户（排除了英特尔），可能是这些公司之一正在向800G/1.6T硅光子收发器过渡。（均为推测，高度保密的物料清单。）无论如何。这个时间线对$AEHR来说只是积蓄力量。可能是下一次财报时。也可能是两个季度后。但感觉大规模订单只是时间问题。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2033965177918620008",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -3482,6 +3765,62 @@
       "direction": "bullish",
       "summary": "该推文看好光子学板块，特别是AAOI和LITE。AAOI作为小型美制光子学公司，受益于800G升级周期、AWS和微软等超大规模客户，以及美国本土制造的地缘政治优势，当前估值较低，具有不对称风险收益比。",
       "translation": "我买入了$ALAB、$NBIS、$TSM和$LITE，因为Mag7的收入正涌入这些公司。LITE因其在GOOGL TPU v7、AMZN Trainium v3/4和NVDA Blackwell中的角色而独特。但我发现了一个新标的：一只市值低于30亿美元的小盘股——$AAOI。这是一家小型光子学公司，也是我投资的两家光子学公司之一：1. Lumentum在每一款芯片部署/升级中都有独特位置，其光路交换技术用于Blackwell、Trainium和Ironwood，作为‘横向扩展’技术。$LITE无论怎样都赢——超大规模ASIC vs GPU，因为它处于中心位置。2. Applied Optoelectronics更侧重于‘纵向扩展’连接，用于定制ASIC集群（如Trainium、Maia），通过400G和800G光缆和收发器。$AAOI同样无论怎样都赢，因为它在AWS的Trainium角色和微软的Maia ASIC中都有大客户。行业正处于由800G速度迁移驱动的‘超级周期’，AAOI处于核心。此外，AAOI有独特的地缘政治角度——美国优先。与许多无晶圆厂并将生产外包到台湾的公司不同，AAOI在德克萨斯州自己制造激光器。美国超大规模云商（特别是亚马逊和微软）正积极减少对中国供应链的依赖，这对AAOI的国内激光器制造能力有利。我们看到另一家‘主要超大规模云商’对其800G数据中心收发器下了大订单。但AAOI的交易价格像一家濒临破产的公司；然而，其与亚马逊权证协议隐含的收入在2025年第四季度和2026年800G升级中创造了不对称的风险收益比。AAOI似乎被结构性低估，考虑到其在AI建设中的角色和现有超大规模合同。市场终于开始重视LITE，但感觉$AAOI尚未启动，因其小市值和作为超大规模ASIC集群关键参与者及‘美国制造’的独特角度。市场正在大力重估光子学板块并给予高溢价，而AAOI今年仅上涨2.20%，似乎正要开始。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "1990452960758042917",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nebius [ $NBIS ] at $86.69 is the purest Neocloud and AI-infra asymmetry left. \n\nThis is the highest revenue Neocloud untouched by $CIFR | $WULF and colo providers that has no:\n\n- Plaguing uncertainty that $IREN, $ORCL face from  full-stack execution. \n\n- High interest debt that $CRWV, $APLD, and others face.\n\n- Revenue uncertainty at scale with Hyperscaler contracts that $CLSK, $BITF, $WYFI, $SLNH, and others lack. \n\nAfter the market-wide drop with the AI sector overrun by fear: \n\nNebius is going forward with: $8B midpoint ARR next year, $4.7B+ in cash, diversification in enterprise clients from ( $META, $MSFT, $ACN, $SHOP, Governments), hyper-growth portfolio companies, and a proven full-stack high-margin business.\n\nWith extreme demand, execution uncertainty (margins), and isolation from current issues plaguing the markets with OpenAI contract dependency and credit tightening:\n\nNothing even comes close to Nebius in terms of asymmetrical upside.\n\nYou are simply just waiting for company execution.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/1990452960758042917",
+    "published_at": "2025-11-17T16:12:21+00:00",
+    "fetched_at": "2026-06-17T16:10:16.552714+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "$NBIS",
+        "$CIFR",
+        "$WULF",
+        "$IREN",
+        "$ORCL",
+        "$CRWV",
+        "$APLD",
+        "$CLSK",
+        "$BITF",
+        "$WYFI",
+        "$SLNH",
+        "$META",
+        "$MSFT",
+        "$ACN",
+        "$SHOP"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强烈看好Nebius（$NBIS），认为它是目前最纯粹的Neocloud和AI基础设施投资机会，不存在其他公司面临的执行不确定性、高息债务或收入不确定性问题。预计其明年ARR中位数达80亿美元，现金储备超47亿美元，客户包括科技巨头和政府，具有高不对称上行潜力。",
+      "translation": "Nebius [$NBIS] 股价86.69美元，是现存的、最纯粹的Neocloud和AI基础设施不对称投资机会。这是收入最高的Neocloud公司，未受$CIFR | $WULF和colo提供商影响，而且没有：$IREN、$ORCL面临的全身堆栈执行的困扰不确定性；$CRWV、$APLD等公司面临的高息债务问题；$CLSK、$BITF、$WYFI、$SLNH等公司缺乏的大规模Hyperscaler合同收入不确定性。在AI板块因恐惧而全面下跌的市场中：Nebius正推进明年80亿美元的ARR中位数、超过47亿美元的现金、来自（$META、$MSFT、$ACN、$SHOP、政府）的企业客户多元化、高速增长的组合公司以及经过验证的全栈高利润业务。在极端需求、执行不确定性（利润率）以及市场当前普遍存在的OpenAI合同依赖和信用紧缩问题之外：Nebius在不对称上行空间方面无可匹敌。你只需等待公司执行。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "1955998477059809371",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "$MU 美光极其被低估，ai的推理需求暴涨，美光的存储需求会不断暴增，现在市盈率已经降到20了.\n这是最后一段时间能买到150以下的美光的机会了. https://t.co/CiEewX2DZi",
+    "tweet_url": "https://x.com/xiaomustock/status/1955998477059809371",
+    "published_at": "2025-08-14T14:22:32+00:00",
+    "fetched_at": "2026-06-17T16:10:49.594338+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为美光（MU）被低估，随着AI推理需求暴涨，美光的存储需求将持续增长，且市盈率已降至20，建议在股价低于150美元时买入。",
+      "translation": "美光极其被低估，AI的推理需求暴涨，美光的存储需求会不断暴增，现在市盈率已经降到20了。这是最后一段时间能买到150以下的美光的机会了。",
       "confidence": "high"
     }
   }
