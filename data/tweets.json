@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2067385277329654236",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Defense contractors would be barred from buying back their stock in bill approved by Senate panel, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2067385277329654236",
+    "published_at": "2026-06-17T23:13:54+00:00",
+    "fetched_at": "2026-06-18T00:08:17.751987+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国参议院小组通过法案，禁止国防承包商回购股票，这可能导致国防股短期承压，因为回购是提升股价的重要手段之一。投资者需关注法案后续进展及相关公司股价波动。",
+      "translation": "突发：据CNBC报道，参议院小组通过法案，将禁止国防承包商回购股票。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067368533408071953",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -55,6 +74,25 @@
       "direction": "bullish",
       "summary": "苹果计划于2027年春季推出第二代iPhone Air，这一产品更新预期将推动AAPL股价上涨，属于积极信号。",
       "translation": "据彭博社报道，苹果公司（$AAPL）正为2027年春季准备第二代iPhone Air。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067328060026994816",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran says it will take measures to the best of its ability to ensure safe passage of commercial ships between the Gulf and the Gulf of Oman.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067328060026994816",
+    "published_at": "2026-06-17T19:26:33+00:00",
+    "fetched_at": "2026-06-18T00:08:23.325365+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及地缘政治事件，可能影响航运和石油市场。伊朗确保船舶通行安全的表态可能稳定市场预期，但实际影响需观察后续发展。",
+      "translation": "伊朗表示将尽其所能确保商业船只在波斯湾和阿曼湾之间的安全通行。",
       "confidence": "medium"
     }
   },
@@ -607,6 +645,27 @@
       "summary": "该推文提到SPCX ETF首日交易活跃，有大量期权交易和未平仓合约变化，但没有明确的多空倾向。",
       "translation": "以下是$SPCX未平仓合约的最大变化：https://t.co/V9fjJRAark\n\n首日交易非常活跃，期权合约交易量超过170万份！\n\n在Unusual Whales上查看最新的SPCX资金流向：https://t.co/2LGEEfuqzY https://t.co/m2H6jnEvAx",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067177198390215149",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I clock SpaceX going up one point per hour",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067177198390215149",
+    "published_at": "2026-06-17T09:27:05+00:00",
+    "fetched_at": "2026-06-18T00:07:59.607565+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPACEX"
+      ],
+      "direction": "bullish",
+      "summary": "推文提到SpaceX的价格每小时上涨一个点，显示看涨情绪，但缺乏具体数据支撑。",
+      "translation": "我观察到SpaceX每小时上涨一个点。",
+      "confidence": "low"
     }
   },
   {

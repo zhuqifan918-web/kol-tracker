@@ -1,47 +1,47 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "AAOI",
-      "LITE",
-      "SNDK",
-      "LPK"
+      "SIVE",
+      "LPK",
+      "AXTI",
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学供应链瓶颈",
-      "美国半导体制造回流",
-      "AI基础设施持续扩张"
+      "硅光与光子学供应链瓶颈",
+      "美国/西方AI基础设施自主化",
+      "AI驱动内存与半导体结构性增长"
     ],
-    "recent_shift": "近期更强调欧洲和日本的光子学及化合物半导体机会，例如LPK和XFAB。",
+    "recent_shift": "最近更强调从供应链瓶颈博弈转向提前布局AI基础设施自主化、光子学产能受限及政策利好触发的大幅上涨。",
     "representative_quotes": [
-      "I haven't seen such fast revenue ramp since $NBIS.",
-      "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom.",
-      "80% of customers among major global players have selected LPKF equipment."
+      "They have scarce laser capacity that $AMD and other hyperscalers are looking for. While the entire industry is bottlenecked by $NVDA.",
+      "$SIVE is the next SIVE. Don’t think you’ll find another company that’s qualified and likely primary/sole source with $JBL and Ayar and the $NVDA NVLink CPO ecosystems...",
+      "I do think AI is the most disruptive technology in human history... The US Gov has every incentive to keep the buildout going... I think the music will keep playing for this year at the bare minimum."
     ],
-    "generated_at": "2026-06-17T16:11:34.852081+00:00"
+    "generated_at": "2026-06-18T00:08:30.426117+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$SPCX",
       "$NVDA",
-      "$INTC",
       "$AAPL",
-      "$MU"
+      "$MU",
+      "$QCOM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治与能源市场动态",
-      "美联储利率与通胀预期",
-      "特朗普政策影响下的投资机会"
+      "SpaceX期权与IPO热",
+      "伊朗协议与能源流通",
+      "美联储政策与利率预期"
     ],
-    "recent_shift": "近期对市场情绪转向乐观，强调伊朗协议、能源流动恢复及特朗普看涨股市，但维持对通胀和加息的谨慎。",
+    "recent_shift": "近期从关注宏观政策转向更聚焦个股事件和期权流动。",
     "representative_quotes": [
-      "BREAKING: The Fed has lowered GDP 2026 projections to 2.4%, and removes statement regarding rate adjustments.",
-      "SpaceX, $SPCX, shares jump 20%, adding $412 billion in market value.",
-      "BREAKING: Trump has said he expects the stock market to keep going up."
+      "BREAKING: Look at this. SpaceX, $SPCX, options are crazy.",
+      "Someone just invested $466,000 into a Grok Portfolio on Autopilot",
+      "Fed's Chair Warsh: Inflation is well ahead of the 2% goal."
     ],
-    "generated_at": "2026-06-17T22:47:18.817863+00:00"
+    "generated_at": "2026-06-18T00:08:32.213260+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
