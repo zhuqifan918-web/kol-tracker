@@ -1,5 +1,146 @@
 [
   {
+    "tweet_id": "2067454802607653290",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "再打个标记\n人类历史上唯一一家单季度利润达到1000亿美金现金的公司就是海力士，\n下个月就能看见这样标题的新闻了，\n拭目以待。 https://t.co/GUs3mwsQem",
+    "tweet_url": "https://x.com/xiaomustock/status/2067454802607653290",
+    "published_at": "2026-06-18T03:50:11+00:00",
+    "fetched_at": "2026-06-18T05:12:35.038052+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出海力士将成为人类历史上首家单季度利润达到1000亿美元现金的公司，暗示其盈利能力极强，看好其未来发展。",
+      "translation": "再打个标记：人类历史上唯一一家单季度利润达到1000亿美金现金的公司就是海力士，下个月就能看见这样标题的新闻了，拭目以待。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067433837999837215",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: We had a very interesting trade pointed out to @NicholasFNS and myself on the @unusual_whales Whale Watch stream today by one of the @unusual_whales community members, @RhymesMarket, on the $QURE 6/18 45c. This was the definition of \"someone always knows.\" Let's take a dive into the trade.\n\nLet's start by looking at the historical volume/OI tab. This is where everything starts. We can see back on 6/5, we had 100 contracts transacted at the bid. 100% of that volume turned into open interest on 6/8. On 6/8, we had 402 contracts traded at the bid, with 100% of that volume carrying over into 6/9. We had 3 sessions of no major transactions until we got to 6/15, where we saw another 1,103 contracts transacted, but this time all at the ask. All but 3 contracts carried over into 6/16. Prior to today, you can see on the net premium that this is a name that doesn't get a lot of attention, but we can see some major spikes in the net call premium over the last month.\n\nOn 6/17, we had news that the FDA moved AMT-130 from a delayed/high-risk path back toward a near-term accelerated approval filing, and $QURE finished the day up 78.44%!!!!!!!!!!!\n\nWith all the days combined, the rough average between all the contracts would be .27. With these contracts hitting a high of 5.03 today, this trader would have saw gains of 1,762.96% on this trade.\n\nWith a rough premium of $59,390, this trader turned that into over 1.07 million in profits.\n\nAssuming this is the same trader, which we can't since these all came in at different times, but with the way the 100% of the volume carried over for multiple days, we can assume this is more than likely the same trader. We're seeing a ton of volume today, so it will be impossible to track this flow from here.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067433837999837215",
+    "published_at": "2026-06-18T02:26:52+00:00",
+    "fetched_at": "2026-06-18T05:12:57.913973+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "QURE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了$QURE期权交易活动，指出在FDA批准AMT-130加速审批前，有大量买单提前布局，最终该股单日暴涨78.44%，交易者获利超100万美元。",
+      "translation": "转发 @AnthonySandford：我们与 @NicholasFNS 在 @unusual_whales 的 Whale Watch 直播中，由社区成员 @RhymesMarket 指出了一笔非常有趣的交易，涉及 $QURE 6/18 45c 期权。这正是“总有人先知道”的典型案例。让我们深入分析这笔交易。\n\n首先查看历史成交量/未平仓合约（OI）标签。这里是一切的关键。6月5日，有100张期权以买价成交，100%的成交量在6月8日转为未平仓合约。6月8日，有402张期权以买价成交，100%的成交量延续至6月9日。随后三个交易日没有大额交易，直到6月15日，又有1,103张期权成交，但这次全部以卖价成交，除3张外全部延续至6月16日。在此之前，从净权利金可看出该标的很少受关注，但过去一个月净看涨期权权利金出现明显飙升。\n\n6月17日，有消息称FDA将AMT-130从延迟/高风险路径转回至加速审批路径，$QURE当日收涨78.44%！！\n\n结合所有交易日，这些期权的平均成本约为0.27美元。今日这些期权最高触及5.03美元，该交易者浮盈高达1,762.96%。\n\n按约59,390美元的总权利金计算，该交易者将其变成了超过107万美元的利润。\n\n假设这是同一交易者（虽然无法确定，因为交易在不同时间发生），但考虑到连续数日100%的成交量转为未平仓合约，基本可以判定是同一操盘者。今日成交量巨大，此后难以追踪该资金流。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067432987621511221",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "拿着一个股票不动的时候最无聊，\n也不需要天天研究这研究那，\n只能被无穷无尽的上涨暴击幼小的心灵，\n学不到任何东西。 https://t.co/CEDz9arVgf",
+    "tweet_url": "https://x.com/xiaomustock/status/2067432987621511221",
+    "published_at": "2026-06-18T02:23:29+00:00",
+    "fetched_at": "2026-06-18T05:12:37.004176+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文表达持有股票不动时，虽然无聊且无须分析，但会经历股价不断上涨的冲击，暗示长期持有的上涨收益。",
+      "translation": "持有一只股票不动的时候最无聊，也不需要天天研究这研究那，只能被无穷无尽的上涨暴击幼小的心灵，学不到任何东西。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2067429702319673542",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The 1st large scale X study on stock market net worth has finished! \n\nFrom the 6000+ responses of those active on X finance, here's the results:\n\n5.8% - $10M+\n15% - $1m - $10M\n35.9% - $100k - $1M\n43.3% - under $100k\n\nThis is probably more representative of active followers.\n\nWhere 20.8 out of every 100 people have over $1,000,000+.\n\nAnd 5.8 out of 100 have over $10,000,000. \n\nAnd 43.3% of the population are probably happier in life than the rest. \n\nWas just curious, fascinating figures. \n\nDefinitely not representative of the total population, but just those active on Finance X.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067429702319673542",
+    "published_at": "2026-06-18T02:10:26+00:00",
+    "fetched_at": "2026-06-18T05:12:17.490170+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文分享了一项针对活跃于金融X平台用户的净资产调查结果，显示20.8%的用户净资产超过100万美元，5.8%超过1000万美元。虽然数据不具普遍代表性，但反映了特定投资社群的高净值比例，为观察市场参与者财富分布提供了侧面参考。",
+      "translation": "首个关于股市净资产的大规模X研究已完成！基于6000多份活跃在X财经领域的回复，结果如下：5.8%的人净资产超过1000万美元，15%在100万美元到1000万美元之间，35.9%在10万到100万美元之间，43.3%低于10万美元。这可能更能代表活跃粉丝的情况。即每100人中有20.8人拥有超过100万美元的净资产，每100人中有5.8人超过1000万美元。而43.3%的人可能比其他人生活得更幸福。只是好奇，数据很吸引人。显然不代表整体人口，仅代表活跃在金融X平台的人。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2067422167151919586",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump says he \"would rather not have\" his North American trade deal, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2067422167151919586",
+    "published_at": "2026-06-18T01:40:30+00:00",
+    "fetched_at": "2026-06-18T05:12:59.697314+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普对北美贸易协定的负面表态可能加剧贸易不确定性，对北美市场及相关供应链造成潜在利空影响。",
+      "translation": "特朗普表示他“宁愿没有”他的北美贸易协定，据Axios报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067412467404398942",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I agree with Palliser Capital here.\n\nAs a shareholder, it’s just so stupid how WUS (2316 TW) MC can be ~$1B MC.\n\nWhile they own a 11.26% stake of WUS Kunshan, a $39.3B (¥282B CNY) company…\n\nWhich is worth $4.42B pre-tax. Just sell 1/4th or something?\n\nAnd you get an extra ~$1.1B for PCB growth at the inflection point with AI demand.\n\nWhich is more than your current MC pre-tax, purely in cash. \n\nAnd there’s still $3.3B in assets + markets might revalue your company because of willingness to trim locked up assets.\n\nNobody is asking you to trim everything, but the NAV disconnect is insanity. \n\nWUS TW management should really reconsider.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067412467404398942",
+    "published_at": "2026-06-18T01:01:57+00:00",
+    "fetched_at": "2026-06-18T05:12:25.972337+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "2316"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出WUS（2316 TW）市值约10亿美元，但其持有的WUS昆山11.26%股份价值约44.2亿美元（税前），加上PCB业务在AI需求拐点处的增长潜力，导致NAV严重折价。建议管理层出售部分资产以释放价值。",
+      "translation": "我同意Palliser Capital的观点。作为股东，WUS（2316 TW）市值仅约10亿美元太愚蠢了。他们持有WUS昆山11.26%的股份，而WUS昆山是一家市值393亿美元（2820亿元人民币）的公司……这股权税前价值44.2亿美元。卖掉四分之一或什么的？然后你还能获得PCB业务在AI需求拐点处增长的约11亿美元额外价值。这比你们当前市值税前还要高，完全是现金。还有33亿美元的资产，再加上市场可能因你们愿意处置锁定资产而重新估值。没人要求你们卖掉所有，但NAV价差简直疯狂。WUS TW管理层真该重新考虑。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067405201557041589",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Jim Cramer has said Intel, $INTC, is his top pick.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067405201557041589",
+    "published_at": "2026-06-18T00:33:05+00:00",
+    "fetched_at": "2026-06-18T05:13:01.762243+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "吉姆·克莱默将英特尔（INTC）列为他的首选股票，表示看好该股。投资者可以关注英特尔，但需注意克莱默的推荐有时反向指标效应。",
+      "translation": "突发：吉姆·克莱默表示英特尔（INTC）是他的首选股票。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067385277329654236",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

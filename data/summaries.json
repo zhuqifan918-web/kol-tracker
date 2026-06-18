@@ -1,69 +1,70 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
-      "LPK",
+      "AAOI",
+      "LITE",
       "AXTI",
       "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "硅光与光子学供应链瓶颈",
-      "美国/西方AI基础设施自主化",
-      "AI驱动内存与半导体结构性增长"
+      "AI上游供应链瓶颈",
+      "硅光子与CPO技术受追捧",
+      "西方供应链自主化投资"
     ],
-    "recent_shift": "最近更强调从供应链瓶颈博弈转向提前布局AI基础设施自主化、光子学产能受限及政策利好触发的大幅上涨。",
+    "recent_shift": "近期更强调实地验证和供应链映射，减少早期单纯主题押注，强调欧洲小型公司的低估机会。",
     "representative_quotes": [
-      "They have scarce laser capacity that $AMD and other hyperscalers are looking for. While the entire industry is bottlenecked by $NVDA.",
-      "$SIVE is the next SIVE. Don’t think you’ll find another company that’s qualified and likely primary/sole source with $JBL and Ayar and the $NVDA NVLink CPO ecosystems...",
-      "I do think AI is the most disruptive technology in human history... The US Gov has every incentive to keep the buildout going... I think the music will keep playing for this year at the bare minimum."
+      "I’m not sure why many folks are super bearish on my high conviction $AAOI long… They have scarce laser capacity that $AMD and other hyperscalers are looking for.",
+      "Just some random thoughts, I do think AI is the most disruptive technology in human history.",
+      "I’m trying a new research style going through trade records for fun, in case I find anything random."
     ],
-    "generated_at": "2026-06-18T00:08:30.426117+00:00"
+    "generated_at": "2026-06-18T05:13:15.638557+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$QURE",
       "$SPCX",
+      "$INTC",
       "$NVDA",
-      "$AAPL",
-      "$MU",
-      "$QCOM"
+      "$AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "SpaceX期权与IPO热",
-      "伊朗协议与能源流通",
-      "美联储政策与利率预期"
+      "期权巨量交易与内幕信息",
+      "SpaceX IPO及杠杆ETF",
+      "地缘政治与能源市场",
+      "美联储政策与市场反应",
+      "科技巨头股票回购限制"
     ],
-    "recent_shift": "近期从关注宏观政策转向更聚焦个股事件和期权流动。",
+    "recent_shift": "最近偏向积极解读地缘政治缓和与科技IPO机会，同时关注美联储政策变化",
     "representative_quotes": [
-      "BREAKING: Look at this. SpaceX, $SPCX, options are crazy.",
-      "Someone just invested $466,000 into a Grok Portfolio on Autopilot",
-      "Fed's Chair Warsh: Inflation is well ahead of the 2% goal."
+      "We can see some major spikes in the net call premium over the last month.",
+      "The playbook to investing in 2026 - Trump's administration buys Intel $INTC on 8/22/25 - now up 400%+ since",
+      "Both bears and bulls getting in on $SPCX day 1, with notable flows in the following contracts"
     ],
-    "generated_at": "2026-06-18T00:08:32.213260+00:00"
+    "generated_at": "2026-06-18T05:13:18.686832+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "MU",
       "SK하이닉스",
       "SPCX",
-      "NOK",
-      "NVDA"
+      "DRAM",
+      "NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "存储是AI革命的终极正解",
-      "海力士ADR及Q2利润催化",
-      "SPCX上市与市场流动性",
-      "长期持有与信仰投资"
+      "海力士美股ADR和Q2财报带来45天强势期",
+      "长期持有存储股优于短线操作"
     ],
-    "recent_shift": "近期更倾向于海力士，因ADR上市和Q2利润预期，同时认为存储确定性高于其他题材。",
+    "recent_shift": "近期从关注美光转向更偏好海力士，认为海力士ADR上线和利润公布将带来更大上涨空间。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
-      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。",
-      "spcx还是破发吧，让这些机构都亏钱，有钱赚的时候散户1毛钱额度都没有，只配下水道接盘。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
+      "炒股只做牛市 牛市只追高 但是追高的时候。选第一热门概念的，第二护城河最强的，第三盈利最好的。"
     ],
-    "generated_at": "2026-06-17T18:39:59.274982+00:00"
+    "generated_at": "2026-06-18T05:13:12.507200+00:00"
   }
 }
