@@ -1,5 +1,69 @@
 [
   {
+    "tweet_id": "2067693077469200758",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Amazon, $AMZN, in talks to sell Nvidia, $NVDA, rival chips to other companies, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067693077469200758",
+    "published_at": "2026-06-18T19:37:00+00:00",
+    "fetched_at": "2026-06-18T21:17:02.149426+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "亚马逊正在洽谈向其他公司出售与英伟达竞争的芯片，这对亚马逊（AMZN）是利好，可能增加其芯片业务收入并降低对英伟达（NVDA）的依赖。",
+      "translation": "据彭博社报道，亚马逊正在洽谈向其他公司出售与英伟达竞争的芯片。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067686698277089394",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: 🚨 You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short). Leveraged/inverse, daily reset, high risk incl. possible total loss. @graniteshares",
+    "tweet_url": "https://x.com/unusual_whales/status/2067686698277089394",
+    "published_at": "2026-06-18T19:11:39+00:00",
+    "fetched_at": "2026-06-18T21:17:04.498162+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPAL",
+        "SNK",
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "GraniteShares推出了基于SpaceX的2倍杠杆做多ETF $SPAL和2倍做空ETF $SNK，风险极高，可能损失全部本金。这为交易SpaceX提供了杠杆工具，但需谨慎。",
+      "translation": "重大消息：🚨 你现在可以用2倍杠杆做多或做空SpaceX了。GraniteShares刚刚推出了$SPAL（2倍做多$SPCX）和$SNK（2倍做空）。杠杆/反向ETF，每日重置，高风险，包括可能的全部损失。来自@graniteshares",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067672944944279752",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran to get access to $6 billion of frozen funds to buy US goods, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2067672944944279752",
+    "published_at": "2026-06-18T18:17:00+00:00",
+    "fetched_at": "2026-06-18T21:17:08.227367+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "伊朗将获得60亿美元解冻资金用于购买美国商品，这可能缓解地缘政治紧张局势，对全球市场情绪有温和正面影响，但具体投资方向不明确。",
+      "translation": "伊朗将获得60亿美元解冻资金用于购买美国商品，据金融时报报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067665394970907062",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
