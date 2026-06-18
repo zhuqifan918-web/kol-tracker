@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2067721766496305578",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump said negotiations with Anthropic over restoring access to the company’s latest artificial-intelligence models were “going fine”",
+    "tweet_url": "https://x.com/unusual_whales/status/2067721766496305578",
+    "published_at": "2026-06-18T21:31:00+00:00",
+    "fetched_at": "2026-06-18T23:15:09.828033+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及特朗普与Anthropic就恢复其最新AI模型访问的谈判进展顺利，可能对AI行业及相关公司（如Anthropic的合作伙伴或竞争者）产生间接影响。但未明确指向具体投资标的或市场方向，因此仅作为中性信息参考。",
+      "translation": "特朗普表示，与Anthropic就恢复该公司最新人工智能模型访问权限的谈判“进展顺利”。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067693077469200758",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
