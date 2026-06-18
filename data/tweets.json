@@ -1,5 +1,86 @@
 [
   {
+    "tweet_id": "2067587381494960506",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Traders now price in two Fed rate hikes by the end of 1Q 2027, per Bloombert",
+    "tweet_url": "https://x.com/unusual_whales/status/2067587381494960506",
+    "published_at": "2026-06-18T12:37:00+00:00",
+    "fetched_at": "2026-06-18T12:46:03.477938+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "市场预期美联储2027年第一季度前加息两次，这意味着紧缩货币政策可能提前，对风险资产（如股票、加密货币）构成压力，投资者需警惕流动性收紧带来的下行风险。",
+      "translation": "突发：根据彭博社数据，交易员现在预计美联储将在2027年第一季度末前加息两次。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067582348288205176",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Kevin Warsh showed that he’s decisively not Trump’s ‘sock puppet, and markets didn’t like it,\" per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2067582348288205176",
+    "published_at": "2026-06-18T12:17:00+00:00",
+    "fetched_at": "2026-06-18T12:46:05.367989+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用《财富》杂志内容，指出凯文·沃什在政策立场上表现出独立于特朗普的倾向，市场对此反应负面，暗示不确定性可能打压市场情绪。",
+      "translation": "据《财富》报道，凯文·沃什证明了自己绝非特朗普的“傀儡”，市场对此并不买账。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067567248697376996",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Meta's, $META, CTO, Andrew \"Boz\" Bosworth, recently admitted during an internal June 2026 chat that employee morale is near historic lows, per BI",
+    "tweet_url": "https://x.com/unusual_whales/status/2067567248697376996",
+    "published_at": "2026-06-18T11:17:00+00:00",
+    "fetched_at": "2026-06-18T12:46:09.779559+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "Meta首席技术官承认员工士气接近历史低位，可能暗示公司内部问题或管理困境，对股价有负面影响。",
+      "translation": "突发消息：Meta（股票代码$META）首席技术官安德鲁·“博兹”·博斯沃思在2026年6月的一次内部聊天中承认，员工士气接近历史最低点，据BI报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067562215230595582",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: Apple, $AAPL, to collaborate with Intel, $INTC on designing and manufacturing chips in the US",
+    "tweet_url": "https://x.com/unusual_whales/status/2067562215230595582",
+    "published_at": "2026-06-18T10:57:00+00:00",
+    "fetched_at": "2026-06-18T12:46:11.371521+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL",
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普提及苹果与英特尔合作在美国设计和制造芯片，利好苹果和英特尔，可能推动美国芯片制造产业发展。",
+      "translation": "特朗普：苹果将与英特尔合作在美国设计和制造芯片。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067542382523122001",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -105,6 +186,25 @@
       "summary": "推特指出UniQure在宣布寻求FDA批准亨廷顿病基因疗法前，出现大量$QURE看涨期权交易，随后股价飙升78%，暗示内幕交易或精准预测，对QURE持看涨态度。",
       "translation": "突发：这很不寻常。就在UniQure（$QURE）宣布寻求FDA批准亨廷顿病基因疗法之前，出现了大量$QURE $35看涨期权，到期日为2026年7月17日。$QURE上涨了78%。这些交易者获得了巨额收益。不寻常。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067474524036305138",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 5% chance the US x Iran ceasefire is over by June 30, per Polymarket.\n\nSee more: https://t.co/3OQPhHRYIp",
+    "tweet_url": "https://x.com/unusual_whales/status/2067474524036305138",
+    "published_at": "2026-06-18T05:08:33+00:00",
+    "fetched_at": "2026-06-18T12:46:17.853887+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到Polymarket预测美伊停火协议在6月30日前破裂的概率为5%，这是一个地缘政治风险指标，可能影响能源市场和避险资产，但概率极低，对投资决策影响有限。",
+      "translation": "根据Polymarket，美伊停火协议在6月30日前破裂的概率为5%。",
+      "confidence": "low"
     }
   },
   {
