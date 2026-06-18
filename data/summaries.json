@@ -1,70 +1,72 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AAOI",
       "$SIVE",
+      "$AAOI",
       "$LITE",
-      "$AXTI",
-      "$LPK"
+      "$MU",
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信/激光供应链瓶颈",
-      "硅光子学与CPO技术",
-      "美国本土化供应链与地缘政治"
+      "光子学与光学超级周期",
+      "内存芯片结构性需求增长",
+      "美国AI供应链自主化",
+      "新云基础设施（Neocloud）与边缘AI",
+      "玻璃基板与先进封装"
     ],
-    "recent_shift": "近期对$AAOI和$SIVE等激光公司更加坚定看多，认为市场低估了它们在CPO和1.6T光模块中的关键角色，同时强调2027年营收放量才是主升浪。",
+    "recent_shift": "近期观点没有明显转变，持续强调光子学、内存和新云主题的早期性与高成长潜力。",
     "representative_quotes": [
-      "总的来说，像 $AAOI 和 $SIVE 这样的激光公司是我个人的最爱，因为它们在拓展营收方面有着极大的想象空间。",
-      "Absolutely, the photonics market, especially for laser companies is moreso \"how much can you make\" rather than how much demand is there. InP substrates was one of the main bottlenecks affecting upstream capacity.",
-      "And I think a large part of my recent following growth is just other seeing my ideas like $AXTI get validated over time."
+      "TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock.",
+      "From the Trendforce report... 'to ensure that its future capacity will not be constrained by NVIDIA and other major Cloud Service Providers (CSPs).'",
+      "I think Jim Cramer’s law needs to be studied in history books. Even $SPCX can’t withstand his blessing."
     ],
-    "generated_at": "2026-06-18T09:51:42.371431+00:00"
+    "generated_at": "2026-06-18T16:23:07.619771+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "QURE",
-      "AAPL",
-      "INTC",
-      "NVDA"
+      "$SPCX",
+      "$AAPL",
+      "$INTC",
+      "$NVDA",
+      "$QCOM"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治缓和与伊朗协议推动能源复苏",
-      "AI与量子计算技术投资",
-      "期权异常交易与内幕信息风险"
+      "地缘政治与能源走廊开放",
+      "科技股与ETF投机热潮",
+      "美联储政策与经济数据博弈"
     ],
-    "recent_shift": "近期关注点从宏观经济转向具体个股和事件驱动型机会",
+    "recent_shift": "从早期关注宏观贸易协议与地缘冲突，转向聚焦个股期权投机与美联储加息预期。",
     "representative_quotes": [
-      "Someone just invested $466,000 into a Grok Portfolio on Autopilot since launching on 2/11/25 it's done quite well",
-      "There is a 5% chance the US x Iran ceasefire is over by June 30 per Polymarket",
-      "BREAKING: Traders now price in two Fed rate hikes by the end of 1Q 2027 per Bloombert"
+      "JUST IN: 🚨 GraniteShares launches leveraged SpaceX ETFs. $SPAL targets 2x $SPCX's daily move up, $SNK targets 2x down. High risk, leveraged/inverse, not buy-and-hold, possible total loss. @graniteshares",
+      "BREAKING: Apple, $AAPL, to reportedly hike prices amid memory chip shortage, per WSJ",
+      "BREAKING: Kevin Warsh showed that he’s decisively not Trump’s ‘sock puppet, and markets didn’t like it,\" per FORTUNE"
     ],
-    "generated_at": "2026-06-18T12:46:30.409874+00:00"
+    "generated_at": "2026-06-18T16:23:03.872387+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$MU",
-      "$NVDA",
-      "$NOK",
-      "$SPCX",
-      "$INTC"
+      "SK하이닉스",
+      "MU",
+      "SPCX",
+      "NVDA",
+      "NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储是AI革命的核心，确定性极高",
-      "太空算力与星舰计划是长期布局",
-      "HBM4及存储产能持续短缺",
-      "韩国市场及海力士ADR是关键催化剂",
-      "长期持有与产业趋势投资"
+      "存储芯片是AI革命的核心收益者",
+      "SK海力士ADR上市及Q2财报预期利好",
+      "太空算力与星链生态",
+      "诺基亚作为边缘计算基站合作伙伴",
+      "存储产能短缺持续至2030年"
     ],
-    "recent_shift": "从更早的广泛关注存储和太空算力，近期更集中强调海力士的确定性和短期催化剂（财报、ADR、HBM4送样），并对$SPCX持谨慎乐观态度。",
+    "recent_shift": "从2026-06-12起，对SPCX（星舰/太空算力）的讨论热度上升，但重点仍围绕存储，且对海力士的极端乐观预期（如单季利润1000亿美元）尤为突出。",
     "representative_quotes": [
-      "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有没比存储这波更稳的生意了。这些云厂哪怕借贷融资都买存储搞AI基建。",
-      "马斯克的 $SPCX 梦想离不开诺基亚 $NOK ... 老马下一步棋如果要扩展完成它的太空算力计划，那么百分之百要跟诺基亚 $NOK 紧密合作，甚至是入股投资或者收购",
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "海力士q2利润保守预估1100亿美金纯现金，今日海力士市值11200亿美金。接下来45天是海力士的强势期，到时候q2的利润绝对吓死绝大多数人。",
+      "马斯克说在27年底实现每年1吉瓦的太空算力部署，那么太空算力向地面的传输，就必须用到基站，而不是星链。因为数据量非常庞大...以后地上都是特斯拉机器人连接诺基亚的基站 诺基亚的基站连接spcx的算力卫星。"
     ],
-    "generated_at": "2026-06-18T09:51:46.188668+00:00"
+    "generated_at": "2026-06-18T16:23:00.970914+00:00"
   }
 }
