@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "AAPL",
-      "INTC",
-      "NVDA",
-      "QURE"
+      "$SPCX",
+      "$NVDA",
+      "$AAPL",
+      "$INTC",
+      "$QURE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "马斯克概念股交易狂热",
-      "地缘政治缓和利好能源与航运",
-      "美联储政策不确定性加剧波动",
-      "科技巨头芯片自主化与AI发展",
-      "期权市场异常交易与投机"
+      "伊朗局势与能源通道",
+      "美联储货币政策",
+      "太空探索公司SPCX上市与杠杆ETF",
+      "芯片行业动态",
+      "期权异常交易"
     ],
-    "recent_shift": "从早期关注美联储政策和宏观风险，转向聚焦SpaceX上市引发的投机热潮和地缘政治协议带来的短期利好。",
+    "recent_shift": "近期更聚焦于SPCX上市后的交易机会和杠杆产品，同时对伊朗协议带来的能源与地缘影响持乐观态度。",
     "representative_quotes": [
-      "BREAKING: SpaceX, $SPCX, to acquire Cursor for $60 billion in stock",
-      "The US won't impose any new sanctions on Iran, pending a final deal, per WSJ",
-      "BREAKING: Now this is unusual. Just before UniQure, $QURE, announced it was seeking FDA approval for Huntington’s disease gene therapy... $QURE went up 78%."
+      "BREAKING: You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short).",
+      "BREAKING: Now this is unusual. Just before UniQure, $QURE, announced it was seeking FDA approval for Huntington’s disease gene therapy, there was huge unusual $QURE $35 calls... $QURE went up 78%.",
+      "BREAKING: Trump has said: “There is no 300 Billion Dollar payment to Iran by the U.S. That’s Fake News! All there is for the U.S. is Success, Lower Oil Prices, and Victory. Check out the Stock Market."
     ],
-    "generated_at": "2026-06-18T18:40:25.012704+00:00"
+    "generated_at": "2026-06-18T21:17:17.157235+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
