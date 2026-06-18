@@ -5,68 +5,68 @@
       "$AAOI",
       "$LITE",
       "$MU",
-      "$NBIS"
+      "$AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "光子学与光学超级周期",
-      "内存芯片结构性需求增长",
-      "美国AI供应链自主化",
-      "新云基础设施（Neocloud）与边缘AI",
-      "玻璃基板与先进封装"
+      "记忆体结构性需求",
+      "AI供应链瓶颈与国产替代"
     ],
-    "recent_shift": "近期观点没有明显转变，持续强调光子学、内存和新云主题的早期性与高成长潜力。",
+    "recent_shift": "近期更强调光学和记忆体主题的早期性，并认为市场仍低估光子学供应链瓶颈的投资机会。",
     "representative_quotes": [
-      "TBH, the President should lead Intel's marketing team at this point. Feel's like he's hard carrying the stock.",
-      "From the Trendforce report... 'to ensure that its future capacity will not be constrained by NVIDIA and other major Cloud Service Providers (CSPs).'",
-      "I think Jim Cramer’s law needs to be studied in history books. Even $SPCX can’t withstand his blessing."
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+      "If you see a bunch of projections on memory names like Samsung becoming the most profitable company in the world in 2028... Might be a good idea to think independently outside of the narratives at the time",
+      "By investing in the critical companies to give them more capex spend for FAU capacity / yields... it builds up Western supply chains to make what’s technologically challenging, possible."
     ],
-    "generated_at": "2026-06-18T16:23:07.619771+00:00"
+    "generated_at": "2026-06-18T18:40:33.103893+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$AAPL",
-      "$INTC",
-      "$NVDA",
-      "$QCOM"
+      "SPCX",
+      "AAPL",
+      "INTC",
+      "NVDA",
+      "QURE"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治与能源走廊开放",
-      "科技股与ETF投机热潮",
-      "美联储政策与经济数据博弈"
+      "马斯克概念股交易狂热",
+      "地缘政治缓和利好能源与航运",
+      "美联储政策不确定性加剧波动",
+      "科技巨头芯片自主化与AI发展",
+      "期权市场异常交易与投机"
     ],
-    "recent_shift": "从早期关注宏观贸易协议与地缘冲突，转向聚焦个股期权投机与美联储加息预期。",
+    "recent_shift": "从早期关注美联储政策和宏观风险，转向聚焦SpaceX上市引发的投机热潮和地缘政治协议带来的短期利好。",
     "representative_quotes": [
-      "JUST IN: 🚨 GraniteShares launches leveraged SpaceX ETFs. $SPAL targets 2x $SPCX's daily move up, $SNK targets 2x down. High risk, leveraged/inverse, not buy-and-hold, possible total loss. @graniteshares",
-      "BREAKING: Apple, $AAPL, to reportedly hike prices amid memory chip shortage, per WSJ",
-      "BREAKING: Kevin Warsh showed that he’s decisively not Trump’s ‘sock puppet, and markets didn’t like it,\" per FORTUNE"
+      "BREAKING: SpaceX, $SPCX, to acquire Cursor for $60 billion in stock",
+      "The US won't impose any new sanctions on Iran, pending a final deal, per WSJ",
+      "BREAKING: Now this is unusual. Just before UniQure, $QURE, announced it was seeking FDA approval for Huntington’s disease gene therapy... $QURE went up 78%."
     ],
-    "generated_at": "2026-06-18T16:23:03.872387+00:00"
+    "generated_at": "2026-06-18T18:40:25.012704+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SK하이닉스",
       "MU",
       "SPCX",
-      "NVDA",
-      "NOK"
+      "NOK",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心收益者",
-      "SK海力士ADR上市及Q2财报预期利好",
-      "太空算力与星链生态",
-      "诺基亚作为边缘计算基站合作伙伴",
-      "存储产能短缺持续至2030年"
+      "存储行业是AI革命的终极正解",
+      "SK海力士短期确定性机会高，长期王者地位不变",
+      "SPCX太空算力为长期叙事，需合同落地",
+      "看好存储股因AI和机器人需求持续增长",
+      "强调长期持有和认知变现"
     ],
-    "recent_shift": "从2026-06-12起，对SPCX（星舰/太空算力）的讨论热度上升，但重点仍围绕存储，且对海力士的极端乐观预期（如单季利润1000亿美元）尤为突出。",
+    "recent_shift": "近期观点更加坚定看好存储，尤其是海力士，并强调短期内SPCX上市相关资金流动利好市场，但后续对SPCX保持谨慎需正式合同。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "海力士q2利润保守预估1100亿美金纯现金，今日海力士市值11200亿美金。接下来45天是海力士的强势期，到时候q2的利润绝对吓死绝大多数人。",
-      "马斯克说在27年底实现每年1吉瓦的太空算力部署，那么太空算力向地面的传输，就必须用到基站，而不是星链。因为数据量非常庞大...以后地上都是特斯拉机器人连接诺基亚的基站 诺基亚的基站连接spcx的算力卫星。"
+      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！",
+      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
+      "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。"
     ],
-    "generated_at": "2026-06-18T16:23:00.970914+00:00"
+    "generated_at": "2026-06-18T18:40:29.059379+00:00"
   }
 }

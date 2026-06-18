@@ -1,5 +1,104 @@
 [
   {
+    "tweet_id": "2067665394970907062",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SpaceX's bankers are preparing a bond offering worth at least $20 billion, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067665394970907062",
+    "published_at": "2026-06-18T17:47:00+00:00",
+    "fetched_at": "2026-06-18T18:40:07.880437+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "SpaceX正计划进行至少200亿美元的债券发行，该消息可能对相关金融产品产生影响，但未明确提及具体投资方向或标的。",
+      "translation": "突发：据彭博社报道，SpaceX的银行家们正在准备至少200亿美元的债券发行。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067660596858982719",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has said: “There is no 300 Billion Dollar payment to Iran by the U.S. That’s Fake News! All there is for the U.S. is Success, Lower Oil Prices, and Victory. Check out the Stock Market. Dumocrat propaganda at play!!!\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2067660596858982719",
+    "published_at": "2026-06-18T17:27:56+00:00",
+    "fetched_at": "2026-06-18T18:40:09.794564+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普否认向伊朗支付300亿美元，并强调美国取得成功、油价下跌和股市上涨，整体传递乐观市场信号。",
+      "translation": "突发：特朗普表示：“美国没有向伊朗支付300亿美元。这是假新闻！美国只有成功、更低的油价和胜利。看看股市吧。民主党的宣传在作祟！！！”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067658240612262198",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Anyone got a list or ideas of the biggest NAV discounts. But independently has AI growth?\n\nStuff more extreme end like $ACMR and WUS (2316) compared to SK Square.\n\nHave exposure to the ones above, just wanted to research more opportunities.\n\nSeems to be getting noticed recently",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067658240612262198",
+    "published_at": "2026-06-18T17:18:34+00:00",
+    "fetched_at": "2026-06-18T18:39:34.915445+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ACMR",
+        "WUS",
+        "2316"
+      ],
+      "direction": "bullish",
+      "summary": "该推文在寻找具有高NAV折价但具有AI增长潜力的投资标的，提及了$ACMR、WUS（2316）和SK Square作为极端折价案例，作者已持有部分仓位，并希望了解更多类似机会，暗示看好这类标的的反弹潜力。",
+      "translation": "有人有最大NAV折价但独立具有AI增长潜力的标的列表或想法吗？比如像$ACMR和WUS（2316）相对于SK Square这样的极端折价案例。我已经投资了上面提到的这些，只是想研究更多机会。这似乎最近开始受到关注。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067657845315674509",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever and surpassing the previous $7.1 trillion record from December 2025 by 18%.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067657845315674509",
+    "published_at": "2026-06-18T17:17:00+00:00",
+    "fetched_at": "2026-06-18T18:40:12.216660+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了美国期权市场创纪录的到期事件，8.3万亿美元期权将于6月18日到期，较2025年12月的纪录增长18%。这可能引发市场波动，但未明确指向特定资产方向。",
+      "translation": "突发：美国期权市场有史以来最大规模的到期事件即将发生——8.3万亿美元期权将于6月18日到期，较2025年12月的7.1万亿美元纪录增长了18%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067651349031104885",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has said the stock market is roaring.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067651349031104885",
+    "published_at": "2026-06-18T16:51:11+00:00",
+    "fetched_at": "2026-06-18T18:40:13.583605+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普表示股市表现强劲，暗示市场利好，可能带来短期积极情绪。",
+      "translation": "突发：特朗普表示股市正在大涨。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2067642823005086137",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -410,6 +509,25 @@
       "summary": "推文讨论SPCX实现2030年1万亿美元营收的可能性，认为需要结合星舰发射频率和太空算力部署，并提及云厂和英伟达签署合同是关键。整体态度谨慎但偏乐观，建议等正式合同后再重点买入。",
       "translation": "$spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来测算它太空算力部署的速度和规模。问AI给算了一下，如果搭配星链收入和XAI可能有一丝机会够得到1万亿美金营收。虽然不是完全不可能但还是非常非常困难。真正关键点就是云厂以及英伟达跟spcx签署正式的太空算力部署合同。那时候才值得开始重点买。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067487552953847826",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我想进步，我想学外语\n#SK海力士 #2x海力士",
+    "tweet_url": "https://x.com/xiaomustock/status/2067487552953847826",
+    "published_at": "2026-06-18T06:00:19+00:00",
+    "fetched_at": "2026-06-18T18:39:55.455341+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文提及#SK海力士和#2x海力士，但内容仅为个人学习外语的愿望，未涉及任何投资分析或市场观点，因此无投资见解。",
+      "translation": "我想进步，我想学外语 #SK海力士 #2x海力士",
+      "confidence": "low"
     }
   },
   {
