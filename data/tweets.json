@@ -1,5 +1,271 @@
 [
   {
+    "tweet_id": "2067642823005086137",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: 🚨 GraniteShares launches leveraged SpaceX ETFs. $SPAL targets 2x $SPCX's daily move up, $SNK targets 2x down. High risk, leveraged/inverse, not buy-and-hold, possible total loss. @graniteshares",
+    "tweet_url": "https://x.com/unusual_whales/status/2067642823005086137",
+    "published_at": "2026-06-18T16:17:18+00:00",
+    "fetched_at": "2026-06-18T16:22:34.353709+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPAL",
+        "SNK",
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "GraniteShares 推出了基于 SpaceX 的杠杆 ETF，包括 2 倍做多（$SPAL）和 2 倍做空（$SNK）产品，风险极高，不适合长期持有，存在本金全部损失的可能。该产品虽非直接投资 SpaceX，但通过追踪特定指数实现相关敞口。",
+      "translation": "刚刚：GraniteShares 推出了杠杆化的 SpaceX ETF。$SPAL 目标为 $SPCX 每日涨幅的 2 倍，$SNK 目标为每日跌幅的 2 倍。高风险、杠杆/反向、非买入持有、可能本金全部损失。@graniteshares",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067631924626292753",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran to arrange Hormuz ship passage, with no charge for 60 days, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2067631924626292753",
+    "published_at": "2026-06-18T15:34:00+00:00",
+    "fetched_at": "2026-06-18T16:22:37.325232+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "伊朗宣布在霍尔木兹海峡的船舶通行60天内免费，这一举措可能降低全球石油运输成本和风险，对石油相关资产和市场稳定构成利好。但需注意地缘政治不确定性。",
+      "translation": "据《华尔街日报》报道，伊朗将安排霍尔木兹海峡的船舶通行，60天内免费。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067627646327087400",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US to terminate all Iranian sanctions under final deal, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2067627646327087400",
+    "published_at": "2026-06-18T15:17:00+00:00",
+    "fetched_at": "2026-06-18T16:22:38.917770+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国终止对伊朗制裁可能缓解全球地缘政治紧张局势，降低原油风险溢价，对石油相关资产和避险资产构成潜在利空，但对整体市场情绪改善和贸易前景有利。",
+      "translation": "据《华尔街日报》报道，美国将在最终协议下终止所有对伊朗的制裁。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067624913834549685",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Trump announced Intel + Apple partnership, sending $INTC up 8% today. \n\nIntel execs were reportedly surprised by the $AAPL announcement by Donald Trump.\n\nTBH, the President should lead Intel's marketing team at this point.\n\nFeel's like he's hard carrying the stock. https://t.co/eCSS46U6eb",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067624913834549685",
+    "published_at": "2026-06-18T15:06:08+00:00",
+    "fetched_at": "2026-06-18T16:21:50.913807+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC",
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "推特提到特朗普宣布英特尔与苹果合作，导致英特尔股价上涨8%，并讽刺特朗普在主导英特尔的营销，暗示其对公司股价有积极推动作用。整体偏向看涨。",
+      "translation": "特朗普宣布英特尔与苹果合作，推动$INTC今日上涨8%。英特尔高管据称对特朗普宣布的$AAPL消息感到惊讶。说实话，总统现在应该领导英特尔的营销团队。感觉他正在强力支撑这支股票。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067622613158088706",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran has said that transit of vessels through the Strait of Hormuz still needs to be done in coordination with the Revolutionary Guards Navy",
+    "tweet_url": "https://x.com/unusual_whales/status/2067622613158088706",
+    "published_at": "2026-06-18T14:57:00+00:00",
+    "fetched_at": "2026-06-18T16:22:40.659202+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗要求船只通过霍尔木兹海峡需与革命卫队海军协调，表明地缘政治风险上升，可能影响全球石油供應和航运，对能源市场和相关资产构成负面影响。",
+      "translation": "伊朗表示，船只通过霍尔木兹海峡仍需与革命卫队海军协调。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067621883525394768",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just a reminder: 99% of X was bearish on memory 3 months ago...\n\nSince then:\n\n$MU $380 -> $1122 (+195.26%)\n$SNDK $565 -> $2155 (+281.42%)\n$EWY $132 -> $219 (+65.91%)\nSK Hynix 849K -> 2.685M KRW (+215.5%)\nSamsung 172K -> 362K KRW (+110.7%)\n\nIf you see a bunch of projections on memory names like Samsung becoming the most profitable company in the world in 2028. \n\nMight be a good idea to think independently outside of the narratives at the time like \"Oil, LNG, Helium, Iran, etc.\"\n\nProbably same thing now with optical names and their projections into 2027, 2028.  \n\nI do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067621883525394768",
+    "published_at": "2026-06-18T14:54:06+00:00",
+    "fetched_at": "2026-06-18T16:21:57.387158+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "SNDK",
+        "EWY",
+        "SK Hynix",
+        "Samsung"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调独立思考、避免跟风，看好存储器（如三星、SK海力士）和光子学（光学）的长期超级周期机会，认为当前市场对光学股的悲观预期类似三个月前对存储器的误判。",
+      "translation": "提醒一下：三个月前，99%的X（用户）对存储器持悲观态度...自那时起：MU $380 -> $1122 (+195.26%)；SNDK $565 -> $2155 (+281.42%)；EWY $132 -> $219 (+65.91%)；SK海力士 849K -> 2.685M韩元 (+215.5%)；三星 172K -> 362K韩元 (+110.7%)。如果你看到一堆关于存储器名称（如三星成为2028年全球最赚钱公司）的预测。也许最好独立思考，跳出当时流行的“石油、液化天然气、氦气、伊朗等”叙事。现在光学名称及其对2027、2028年的预测可能也是如此。不过，我确实认为光子学和存储器是两大主题，而光学则处于超级周期的早期阶段。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067617882373337291",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "存储这波不仅卡住了AI的脖子，\n也卡了传统电子产品的脖子。\n存储涨完什么涨？\n当然还是存储涨！\n现在的存储不仅赚走了AI绝大部分的利润，\n还赚走了所有科技电子产品的利润。\n存储是正儿八经王者中的王者行业，\n海力士则是其中存储中的王者。\n捏死就对了，\n现在消费端的需求到了不得不买的时候。\n不采购，那么传统电子产品就关门，\n采购，那就继续捏着鼻子高价买存储商的存储造自己的电子产品。\n采购不到货的消费电子则会直接倒闭失去市场，\n亏损采购的现金流不够给存储商上贡的也会倒闭。",
+    "tweet_url": "https://x.com/xiaomustock/status/2067617882373337291",
+    "published_at": "2026-06-18T14:38:12+00:00",
+    "fetched_at": "2026-06-18T16:22:20.725240+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文强烈看好存储行业，认为存储是王者中的王者，海力士是存储中的王者，并指出当前消费端需求迫使厂商不得不高价采购，存储商将赚取绝大部分利润。",
+      "translation": "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！现在的存储不仅赚走了AI绝大部分的利润，还赚走了所有科技电子产品的利润。存储是正儿八经王者中的王者行业，海力士则是其中存储中的王者。捏死就对了，现在消费端的需求到了不得不买的时候。不采购，那么传统电子产品就关门，采购，那就继续捏着鼻子高价买存储商的存储造自己的电子产品。采购不到货的消费电子则会直接倒闭失去市场，亏损采购的现金流不够给存储商上贡的也会倒闭。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067617579934629990",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US won't impose any new sanctions on Iran, pending a final deal, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2067617579934629990",
+    "published_at": "2026-06-18T14:37:00+00:00",
+    "fetched_at": "2026-06-18T16:22:42.531938+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国暂时不会对伊朗实施新制裁，这有利于缓解中东地缘政治紧张局势，对原油等大宗商品价格可能产生短期压制，但长期需关注核谈进展。",
+      "translation": "据《华尔街日报》报道，美国在最终协议达成前不会对伊朗实施新制裁。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067614352044433533",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "最近存储的ssd板块暴涨\n明天海力士继续收米， https://t.co/c3UJqPVoq0",
+    "tweet_url": "https://x.com/xiaomustock/status/2067614352044433533",
+    "published_at": "2026-06-18T14:24:10+00:00",
+    "fetched_at": "2026-06-18T16:22:22.365930+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "用户提到存储领域的SSD板块近期暴涨，并预期明天海力士将继续盈利，表现出对存储芯片股的看涨情绪。",
+      "translation": "最近存储的SSD板块暴涨，明天海力士继续收米。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067612546903998617",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US are to issue waivers for Iran oil exports soon after the MOU deal, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2067612546903998617",
+    "published_at": "2026-06-18T14:17:00+00:00",
+    "fetched_at": "2026-06-18T16:22:44.231431+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国可能对伊朗石油出口发放豁免，这将增加全球石油供应，对油价构成下行压力。投资者需关注石油相关资产（如能源股、原油ETF）的潜在影响。",
+      "translation": "据《华尔街日报》报道，美国将在谅解备忘录协议后很快对伊朗石油出口发放豁免。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067607513651163186",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump on Fed potentially raising rates later this year: “It could happen… It’s hard to believe. But, we have a very good guy over there now, so I’m guided by what he wants.”",
+    "tweet_url": "https://x.com/unusual_whales/status/2067607513651163186",
+    "published_at": "2026-06-18T13:57:00+00:00",
+    "fetched_at": "2026-06-18T16:22:45.858087+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普暗示美联储可能推迟加息，对市场构成潜在利好，但具体影响取决于美联储政策走向。",
+      "translation": "特朗普谈到美联储可能在今年晚些时候加息：‘这有可能发生……很难相信。不过，我们现在那边有个很好的人，所以我会听从他的意愿。’",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067604528959238272",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I think Jim Cramer’s law needs to be studied in history books.\n\nEven $SPCX can’t withstand his blessing. https://t.co/8Hr7898NmA",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067604528959238272",
+    "published_at": "2026-06-18T13:45:08+00:00",
+    "fetched_at": "2026-06-18T16:22:08.624500+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bearish",
+      "summary": "该推文嘲讽Jim Cramer（知名财经评论员）的“反向指标”效应，指出连$SPCX这种ETF都难以承受其公开看好的“祝福”，暗示被其提及的标的通常表现不佳，属于市场情绪的反向信号。",
+      "translation": "我认为吉姆·克莱默定律应该被载入史册。就连$SPCX也无法承受他的祝福。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067592414261588426",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Apple, $AAPL, to reportedly hike prices amid memory chip shortage, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2067592414261588426",
+    "published_at": "2026-06-18T12:57:00+00:00",
+    "fetched_at": "2026-06-18T16:22:51.331463+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果因内存芯片短缺计划涨价，可能对需求产生负面影响，但短期内存供应紧张也可能支撑苹果定价能力，需关注后续消费者反应和公司利润变化。",
+      "translation": "突发：据《华尔街日报》，苹果公司（$AAPL）因内存芯片短缺计划提价。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067587381494960506",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
