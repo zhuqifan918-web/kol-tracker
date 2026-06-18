@@ -1,70 +1,70 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LITE",
-      "AXTI",
-      "NBIS"
+      "$AAOI",
+      "$SIVE",
+      "$LITE",
+      "$AXTI",
+      "$LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI上游供应链瓶颈",
-      "硅光子与CPO技术受追捧",
-      "西方供应链自主化投资"
+      "光通信/激光供应链瓶颈",
+      "硅光子学与CPO技术",
+      "美国本土化供应链与地缘政治"
     ],
-    "recent_shift": "近期更强调实地验证和供应链映射，减少早期单纯主题押注，强调欧洲小型公司的低估机会。",
+    "recent_shift": "近期对$AAOI和$SIVE等激光公司更加坚定看多，认为市场低估了它们在CPO和1.6T光模块中的关键角色，同时强调2027年营收放量才是主升浪。",
     "representative_quotes": [
-      "I’m not sure why many folks are super bearish on my high conviction $AAOI long… They have scarce laser capacity that $AMD and other hyperscalers are looking for.",
-      "Just some random thoughts, I do think AI is the most disruptive technology in human history.",
-      "I’m trying a new research style going through trade records for fun, in case I find anything random."
+      "总的来说，像 $AAOI 和 $SIVE 这样的激光公司是我个人的最爱，因为它们在拓展营收方面有着极大的想象空间。",
+      "Absolutely, the photonics market, especially for laser companies is moreso \"how much can you make\" rather than how much demand is there. InP substrates was one of the main bottlenecks affecting upstream capacity.",
+      "And I think a large part of my recent following growth is just other seeing my ideas like $AXTI get validated over time."
     ],
-    "generated_at": "2026-06-18T05:13:15.638557+00:00"
+    "generated_at": "2026-06-18T09:51:42.371431+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$QURE",
-      "$SPCX",
-      "$INTC",
-      "$NVDA",
-      "$AAPL"
+      "QURE",
+      "SPCX",
+      "INTC",
+      "NVDA",
+      "AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "期权巨量交易与内幕信息",
-      "SpaceX IPO及杠杆ETF",
-      "地缘政治与能源市场",
-      "美联储政策与市场反应",
-      "科技巨头股票回购限制"
+      "早期或突破性交易的异常期权流",
+      "地缘政治与能源（霍尔木兹海峡、美伊协议）",
+      "宏观政策与市场情绪（美联储、特朗普言论）"
     ],
-    "recent_shift": "最近偏向积极解读地缘政治缓和与科技IPO机会，同时关注美联储政策变化",
+    "recent_shift": "近期从宏观政策和经济数据转向更多讨论个股的异常期权流和公司特定事件（如Qure的基因治疗，SpaceX的上市）",
     "representative_quotes": [
-      "We can see some major spikes in the net call premium over the last month.",
-      "The playbook to investing in 2026 - Trump's administration buys Intel $INTC on 8/22/25 - now up 400%+ since",
-      "Both bears and bulls getting in on $SPCX day 1, with notable flows in the following contracts"
+      "We had a very interesting trade pointed out... on the $QURE 6/18 45c. This was the definition of 'someone always knows.'",
+      "With all the days combined... this trader would have saw gains of 1,762.96% on this trade.",
+      "SpaceX, $SPCX, options are crazy. What did they look like at Unusual Whales?"
     ],
-    "generated_at": "2026-06-18T05:13:18.686832+00:00"
+    "generated_at": "2026-06-18T09:51:38.594464+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "MU",
-      "SK하이닉스",
-      "SPCX",
-      "DRAM",
-      "NOK"
+      "$MU",
+      "$NVDA",
+      "$NOK",
+      "$SPCX",
+      "$INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储是AI革命的终极正解",
-      "海力士美股ADR和Q2财报带来45天强势期",
-      "长期持有存储股优于短线操作"
+      "存储是AI革命的核心，确定性极高",
+      "太空算力与星舰计划是长期布局",
+      "HBM4及存储产能持续短缺",
+      "韩国市场及海力士ADR是关键催化剂",
+      "长期持有与产业趋势投资"
     ],
-    "recent_shift": "近期从关注美光转向更偏好海力士，认为海力士ADR上线和利润公布将带来更大上涨空间。",
+    "recent_shift": "从更早的广泛关注存储和太空算力，近期更集中强调海力士的确定性和短期催化剂（财报、ADR、HBM4送样），并对$SPCX持谨慎乐观态度。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
-      "炒股只做牛市 牛市只追高 但是追高的时候。选第一热门概念的，第二护城河最强的，第三盈利最好的。"
+      "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有没比存储这波更稳的生意了。这些云厂哪怕借贷融资都买存储搞AI基建。",
+      "马斯克的 $SPCX 梦想离不开诺基亚 $NOK ... 老马下一步棋如果要扩展完成它的太空算力计划，那么百分之百要跟诺基亚 $NOK 紧密合作，甚至是入股投资或者收购",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。"
     ],
-    "generated_at": "2026-06-18T05:13:12.507200+00:00"
+    "generated_at": "2026-06-18T09:51:46.188668+00:00"
   }
 }
