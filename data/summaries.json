@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$NVDA",
-      "$AAPL",
-      "$INTC",
-      "$QURE"
+      "SPCX",
+      "AAPL",
+      "NVDA",
+      "INTC",
+      "AMZN"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "伊朗局势与能源通道",
-      "美联储货币政策",
-      "太空探索公司SPCX上市与杠杆ETF",
-      "芯片行业动态",
-      "期权异常交易"
+      "地缘政治与市场波动",
+      "科技巨头与AI竞争",
+      "加密货币与监管"
     ],
-    "recent_shift": "近期更聚焦于SPCX上市后的交易机会和杠杆产品，同时对伊朗协议带来的能源与地缘影响持乐观态度。",
+    "recent_shift": "焦点从伊朗协议转向SpaceX相关ETF和期权事件。",
     "representative_quotes": [
-      "BREAKING: You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short).",
-      "BREAKING: Now this is unusual. Just before UniQure, $QURE, announced it was seeking FDA approval for Huntington’s disease gene therapy, there was huge unusual $QURE $35 calls... $QURE went up 78%.",
-      "BREAKING: Trump has said: “There is no 300 Billion Dollar payment to Iran by the U.S. That’s Fake News! All there is for the U.S. is Success, Lower Oil Prices, and Victory. Check out the Stock Market."
+      "BREAKING: 🚨 You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short).",
+      "Trump said negotiations with Anthropic over restoring access to the company’s latest artificial-intelligence models were “going fine”",
+      "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever and surpassing the previous $7.1 trillion record from December 2025 by 18%."
     ],
-    "generated_at": "2026-06-18T21:17:17.157235+00:00"
+    "generated_at": "2026-06-18T23:15:22.889088+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
