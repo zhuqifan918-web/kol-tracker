@@ -23,25 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "QURE",
       "SPCX",
+      "QURE",
+      "AAPL",
       "INTC",
-      "NVDA",
-      "AAPL"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "早期或突破性交易的异常期权流",
-      "地缘政治与能源（霍尔木兹海峡、美伊协议）",
-      "宏观政策与市场情绪（美联储、特朗普言论）"
+      "地缘政治缓和与伊朗协议推动能源复苏",
+      "AI与量子计算技术投资",
+      "期权异常交易与内幕信息风险"
     ],
-    "recent_shift": "近期从宏观政策和经济数据转向更多讨论个股的异常期权流和公司特定事件（如Qure的基因治疗，SpaceX的上市）",
+    "recent_shift": "近期关注点从宏观经济转向具体个股和事件驱动型机会",
     "representative_quotes": [
-      "We had a very interesting trade pointed out... on the $QURE 6/18 45c. This was the definition of 'someone always knows.'",
-      "With all the days combined... this trader would have saw gains of 1,762.96% on this trade.",
-      "SpaceX, $SPCX, options are crazy. What did they look like at Unusual Whales?"
+      "Someone just invested $466,000 into a Grok Portfolio on Autopilot since launching on 2/11/25 it's done quite well",
+      "There is a 5% chance the US x Iran ceasefire is over by June 30 per Polymarket",
+      "BREAKING: Traders now price in two Fed rate hikes by the end of 1Q 2027 per Bloombert"
     ],
-    "generated_at": "2026-06-18T09:51:38.594464+00:00"
+    "generated_at": "2026-06-18T12:46:30.409874+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
