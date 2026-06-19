@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2067958378488623499",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, I completely missed this with $LPK meeting notes. \n\nAnd I think markets did too. My biggest takeaway:\n\n- NASDAQ listing is actively on their radar and are in discussions.\n- 70% market share targeted, unholy target. \n- TAM greatly exceeds former projections.\n- See a 4-5 base case of players this year with orders. \n- Industry is ready for high volume ramps. \n\nI do think LPK is very undervalued based on these discussions (disclosure: own positions).",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067958378488623499",
+    "published_at": "2026-06-19T13:11:12+00:00",
+    "fetched_at": "2026-06-19T15:19:47.432879+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出LPK的纳斯达克上市计划、70%市场份额目标、TAM超预期、预期今年有4-5个订单以及行业准备高量产能，作者认为LPK被严重低估。",
+      "translation": "哇，我完全错过了$LPK的会议记录。\n\n我认为市场也错过了。我最大的收获：\n\n- 纳斯达克上市正在积极讨论中。\n- 目标市场份额70%，一个惊人的目标。\n- 总可寻址市场远超之前的预测。\n- 今年预计有4-5个基础订单。\n- 行业已准备好高量产。\n\n我认为基于这些讨论LPK被严重低估（持仓披露：我持有仓位）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067954339982008731",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Remind me whenever I call out a bottleneck, I should go long myself.\n\nJust floated this idea out around MLCC bottlenecks awhile back. \n\nTaiyo Yuden up 211.38%\n$VSH up 146.15%\nMurata up 155.43% \n\nWithin the last 2 months... \n\nFeels bad. https://t.co/rwHNVYCuk0",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067954339982008731",
+    "published_at": "2026-06-19T12:55:10+00:00",
+    "fetched_at": "2026-06-19T15:20:03.605185+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "VSH"
+      ],
+      "direction": "bullish",
+      "summary": "推文者回顾了之前指出MLCC瓶颈时未做多相关股票，而Taiyo Yuden、Vishay和Murata在两个月内涨幅巨大，表达了对错失机会的遗憾，暗示此类识别瓶颈的投资策略具有牛市潜力。",
+      "translation": "每当我指出一个瓶颈时，提醒我应该自己去做多。不久前我提出了关于MLCC瓶颈的想法。Taiyo Yuden上涨211.38%，$VSH上涨146.15%，Murata上涨155.43%，都是在最近两个月内...感觉糟透了。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067896191338311750",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -155,6 +197,27 @@
       "summary": "该推文提及特朗普与Anthropic就恢复其最新AI模型访问的谈判进展顺利，可能对AI行业及相关公司（如Anthropic的合作伙伴或竞争者）产生间接影响。但未明确指向具体投资标的或市场方向，因此仅作为中性信息参考。",
       "translation": "特朗普表示，与Anthropic就恢复该公司最新人工智能模型访问权限的谈判“进展顺利”。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067707041741668841",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$LPK \n\nMeeting Notes (not meant to be official guidance just a summary of what I heard)   \n\nIt's incredibly bullish imo a lot of great info but I'll leave that to the reader to decide. Most salient points are in bold \n\n1. Industry is ready for first high volume ramps \n\n2. Sees a minimum of 3 players initiating purchases (4 or 5 base case) this year with around 3-10 machine orders each... \n\n3. Previous delays are not down to lide as it was production ready but down to independent metalization which was immature... this is now more or less solved  \n\n4. Last year the internal assessment was an addressable market of 500 million euros... this has changed and will greatly exceed this. Company intends to update this model soon  \n\n5. Customers are now showing more willingness to take on risk \n\n6. CEO's target is 70% market share  \n\n7. Share of glass in total package technologies in 2030 could be anywhere from 30% on the consrvative side to 80% on the more optimistic side. (this is not market share btw) \n\n8. Rev per system is something like 1 million euros... for initial ramp up 3-10 mill per buyer depending on how many systems are purchased\n\n9. 100 million machine orders from a single customer in the future is something they stated they have to be ready for (100 mill rev on a single order!) Scaling strategy... \n\n10. Solar rev down but very strong potential once perovskite cells enter high volume stage (technological transition) \n\n11. Not surprised by Price action and believes it's reasonably priced \n\n12. Advanced packaging rev will be significantly greater than what other segments deliver in th \n\n13. LIDE is only the entry ticket, there are many other adjacent rev opportunities in advanced packaging \n\n14. Listing on a high volume exchange (like NASDAQ) is actively on their radar and discussions",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067707041741668841",
+    "published_at": "2026-06-18T20:32:29+00:00",
+    "fetched_at": "2026-06-19T15:19:57.783647+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK"
+      ],
+      "direction": "bullish",
+      "summary": "该推文详细分析了LPK公司的投资前景，包括行业即将迎来高容量生产、至少3-5个买家今年将下单、金属化问题已解决、市场预期远超5亿欧元、客户风险偏好上升、CEO目标70%市场份额、先进封装收入将大幅增长、以及考虑在纳斯达克上市等利好消息。",
+      "translation": "$LPK\n\n会议纪要（非官方指引，仅为我所听到的摘要）\n\n在我看来非常看好，很多好信息，但我让读者自行判断。最要点已加粗。\n\n1. 行业已准备好进行首次高容量生产。\n2. 预计今年至少有3家买家启动采购（基准情况4或5家），每家订购3至10台机器。\n3. 之前的延迟并非由于LIDE技术，因为它已可量产，而是由于独立的金属化工艺不成熟……现在这个问题基本解决。\n4. 去年内部评估的可达市场为5亿欧元……现在这一数字将大幅超过。公司计划很快更新模型。\n5. 客户现在更愿意承担风险。\n6. CEO的目标是70%的市场份额。\n7. 玻璃在总封装技术中的份额到2030年可能在保守的30%到乐观的80%之间（这不是市场份额）。\n8. 每套系统的收入约为100万欧元……对于初期出货，每个买家收入在300万至1000万欧元之间，取决于购买的机器数量。\n9. 未来来自单一客户的1亿欧元机器订单是他们必须准备面对的（单笔订单1亿收入！）规模化策略……\n10. 太阳能收入下降，但一旦钙钛矿电池进入高容量生产阶段（技术转型），潜力巨大。\n11. 对价格走势不感意外，认为其定价合理。\n12. 先进封装收入将显著超过其他业务板块。\n13. LIDE只是入场券，先进封装领域还有许多其他周边收入机会。\n14. 在高容量交易所（如纳斯达克）上市正在积极考虑和讨论中。",
+      "confidence": "high"
     }
   },
   {
@@ -4825,6 +4888,36 @@
       "summary": "该推文强调，真正理解并坚信自己买入原因的投资者，应在股价下跌时兴奋并加仓，而非割肉。反之，跟风者因缺乏理解而恐慌抛售，不适合炒股。整体传递看多、长期持有的投资理念。",
       "translation": "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。跌了反而不敢买还割肉那说明根本不懂，怀疑自己买入的股票那只是在跟风，不适合炒股。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2045578992452063383",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "MLCC, inductor + PCB drill bottleneck: \n\n- Murata (TSE: 6981) \n- Taiyo Yuden(TSE: 6976), third largest MLCC in the world \n- TDK (TSE: 6762) \n- Kyocera(TSE: 6971)\n - Yageo(TWSE 2327) \n- Walsin (TWSE 2492)  \n- $VSH in the US.  \n\nSakai Chemical (4078) is a raw chemical suppliers to the MLCC companies, so might be worth taking a look at. (Barium Titanate) (sorry for repost some ticket # wrong) \n\nI'll let you know obviously if I like a few enough to go long on.\n\nThere's also a PCB drill shortage too so:\nTopoint Technology (8021) \nUnion Tool (6278)\nKyocera (appears again)\n\nthrew this in so it's not an exact repeat lol\n\nBut many are kinda priced in already, probably want to find a new one.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2045578992452063383",
+    "published_at": "2026-04-18T19:03:31+00:00",
+    "fetched_at": "2026-06-19T15:20:09.784587+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "6981",
+        "6976",
+        "6762",
+        "6971",
+        "2327",
+        "2492",
+        "VSH",
+        "4078",
+        "8021",
+        "6278"
+      ],
+      "direction": "neutral",
+      "summary": "讨论MLCC、电感及PCB钻孔瓶颈所涉及的供应链公司，指出多数个股价格已反映预期，建议寻找新标的。",
+      "translation": "MLCC、电感及PCB钻孔瓶颈相关公司：村田、太阳诱电（全球第三大MLCC厂商）、TDK、京瓷、国巨、华新科，以及美国的VSH。此外，MLCC原料供应商堺化学（钛酸钡）也值得关注。PCB钻孔短缺还涉及：尖点科技、Union Tool、京瓷（再次出现）。不过多数个股价格已提前反映，可能需要寻找新的投资标的。",
+      "confidence": "medium"
     }
   },
   {

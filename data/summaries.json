@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
-      "SIVE",
-      "LITE",
-      "MU",
-      "SNDK"
+      "$LPK",
+      "$SIVE",
+      "$AAOI",
+      "$LITE",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/硅光子系统投资",
-      "美国/西方AI供应链自主",
-      "存储芯片超级周期",
-      "小盘成长股价值发现",
-      "出口管制与供应链瓶颈"
+      "光子学和光学互连是AI基础设施的关键瓶颈",
+      "存储器超级周期，受AI需求驱动",
+      "上游供应链瓶颈（如衬底、激光器）创造投资机会",
+      "美国本土制造和供应链安全主题",
+      "Neocloud和AI基础设施的长期增长"
     ],
-    "recent_shift": "近期更加强调光子学（photonics）主题，并大幅增持小型光通信公司如SIVE、AAOI，认为市场对CPO（共封装光学）和硅光子系统有严重低估。",
+    "recent_shift": "近期观点更加强调LPK的玻璃基板和SIVE的激光器价值，并明确指出市场尚未充分定价这些环节的垄断地位和收入潜力",
     "representative_quotes": [
-      "But by investing in the critical companies to give them more capex spend for FAU capacity / yields. Or funding upstream red phosphorus/InP substrate capacity or SiC/GaN capacity. It builds up Western supply chains to make what’s technologically challenging, possible.",
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
-      "Sivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO. Embedded in many hyperscaler suppliers from Jabil to Ayar. Should go brrr 2027 but markets are forward looking, so ramps + qualifications should get priced in now."
+      "I do think LPK is very undervalued based on these discussions (disclosure: own positions).",
+      "Sivers... core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.",
+      "I think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-19T11:59:57.951508+00:00"
+    "generated_at": "2026-06-19T15:21:11.541397+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
