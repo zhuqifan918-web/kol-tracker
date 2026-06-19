@@ -9,17 +9,17 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与光学超级周期",
-      "记忆体结构性需求",
-      "AI供应链瓶颈与国产替代"
+      "光子学与激光瓶颈",
+      "内存超级周期",
+      "美国AI供应链自主"
     ],
-    "recent_shift": "近期更强调光学和记忆体主题的早期性，并认为市场仍低估光子学供应链瓶颈的投资机会。",
+    "recent_shift": "从早期光通讯投资转向更上游的CW激光和InP衬底稀缺性，并确认CPO/800V DC无延迟。",
     "representative_quotes": [
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
-      "If you see a bunch of projections on memory names like Samsung becoming the most profitable company in the world in 2028... Might be a good idea to think independently outside of the narratives at the time",
-      "By investing in the critical companies to give them more capex spend for FAU capacity / yields... it builds up Western supply chains to make what’s technologically challenging, possible."
+      "How does China manage to smuggle in something the size of a school bus from $ASML? Is the real question.",
+      "Just a reminder: 99% of X was bearish on memory 3 months ago... Since then: $MU $380 -> $1122.",
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-18T18:40:33.103893+00:00"
+    "generated_at": "2026-06-19T07:36:24.243271+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -27,46 +27,46 @@
       "$NVDA",
       "$AAPL",
       "$INTC",
-      "$QURE"
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "美国-伊朗地缘政治缓和与能源市场波动",
-      "AI与数据中心需求驱动下的科技和半导体投资",
-      "SpaceX上市及相关杠杆ETF的投机热潮",
-      "美联储政策转向与利率预期变化",
-      "科技巨头（苹果、英特尔、Meta）的供应链和业绩动态"
+      "地缘政治博弈与能源市场波动",
+      "人工智能与数据中心需求激增",
+      "科技巨头与芯片产业动态",
+      "杠杆ETF与高风险交易工具",
+      "美联储政策与宏观利率预期"
     ],
-    "recent_shift": "近期关注点从之前的地缘政治风险转向SpaceX期权和ETF投机，以及科技巨头与AI相关合作和股价上扬。",
+    "recent_shift": "最近明显转向关注SpaceX的杠杆ETF和期权交易机会，对美联储加息预期和通胀数据更加谨慎，同时强调地缘事件（如伊朗协议）对能源和市场的短期影响。",
     "representative_quotes": [
-      "BREAKING: 🚨 You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short). Leveraged/inverse, daily reset, high risk incl. possible total loss. @graniteshares",
-      "Amazon, $AMZN, in talks to sell Nvidia, $NVDA, rival chips to other companies, per Bloomberg.",
-      "Trump: Apple, $AAPL, to collaborate with Intel, $INTC on designing and manufacturing chips in the US"
+      "BREAKING: 🚨 You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short). Leveraged/inverse, daily reset, high risk incl. possible total loss.",
+      "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever and surpassing the previous $7.1 trillion record from December 2025 by 18%.",
+      "BREAKING: Look at this. SpaceX, $SPCX, options are crazy. What did they look like at Unusual Whales? Let's take a deep dive."
     ],
-    "generated_at": "2026-06-19T02:12:57.258722+00:00"
+    "generated_at": "2026-06-19T07:36:17.819665+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SK하이닉스",
-      "MU",
-      "SPCX",
-      "NOK",
-      "NVDA"
+      "$MU",
+      "$SPCX",
+      "$NOK",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储行业是AI革命的终极正解",
-      "SK海力士短期确定性机会高，长期王者地位不变",
-      "SPCX太空算力为长期叙事，需合同落地",
-      "看好存储股因AI和机器人需求持续增长",
-      "强调长期持有和认知变现"
+      "存储芯片是AI革命核心，海力士是王者",
+      "长期持有优于短线，利用市场恐慌加仓",
+      "SPCX太空算力与诺基亚基站合作前景",
+      "韩国市场波动中坚信海力士基本面",
+      "美光低估，盈利预期推动上涨"
     ],
-    "recent_shift": "近期观点更加坚定看好存储，尤其是海力士，并强调短期内SPCX上市相关资金流动利好市场，但后续对SPCX保持谨慎需正式合同。",
+    "recent_shift": "从早期关注美光转向重仓海力士，强调下月ADR和财报确定性",
     "representative_quotes": [
       "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！",
-      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
-      "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。"
+      "拿着一个股票不动的时候最无聊，也不需要天天研究这研究那，只能被无穷无尽的上涨暴击幼小的心灵。",
+      "海力士q2利润保守预估1100亿美金纯现金，今日海力士市值11200亿美金。接下来45天是海力士的强势期。"
     ],
-    "generated_at": "2026-06-18T18:40:29.059379+00:00"
+    "generated_at": "2026-06-19T07:36:21.114914+00:00"
   }
 }
