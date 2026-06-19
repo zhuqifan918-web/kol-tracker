@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "$SPCX",
+      "$MU",
+      "$QURE",
       "$NVDA",
-      "$AAPL",
-      "$INTC",
-      "$MU"
+      "$AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治博弈与能源市场波动",
-      "人工智能与数据中心需求激增",
-      "科技巨头与芯片产业动态",
-      "杠杆ETF与高风险交易工具",
-      "美联储政策与宏观利率预期"
+      "期权大单与异常交易流",
+      "AI与数据中心需求",
+      "地缘政治与能源博弈"
     ],
-    "recent_shift": "最近明显转向关注SpaceX的杠杆ETF和期权交易机会，对美联储加息预期和通胀数据更加谨慎，同时强调地缘事件（如伊朗协议）对能源和市场的短期影响。",
+    "recent_shift": "",
     "representative_quotes": [
-      "BREAKING: 🚨 You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short). Leveraged/inverse, daily reset, high risk incl. possible total loss.",
-      "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever and surpassing the previous $7.1 trillion record from December 2025 by 18%.",
-      "BREAKING: Look at this. SpaceX, $SPCX, options are crazy. What did they look like at Unusual Whales? Let's take a deep dive."
+      "The size that came in behind this never scaled out. Held start to finish in full.",
+      "If you tailed this trade you’re up +3,758%. Hands down one of the biggest examples ever of how it can literally pay to follow the flow.",
+      "We had a very interesting trade pointed out to @NicholasFNS and myself on the @unusual_whales Whale Watch stream today by one of the @unusual_whales community members, @RhymesMarket, on the $QURE 6/18 45c. This was the definition of 'someone always knows.'"
     ],
-    "generated_at": "2026-06-19T07:36:17.819665+00:00"
+    "generated_at": "2026-06-19T17:30:09.685757+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
