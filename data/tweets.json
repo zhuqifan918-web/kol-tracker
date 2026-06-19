@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2067896191338311750",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Bernstein is basically the institutional version of Jim Cramer:\n\nTells retail Kioxia looks like it’s going to crash, gives a -50% PT.\n\nBunch of retail sells.\n\nStock proceeds to skyrocket right after, with another +12% today. https://t.co/kcdO6PlZ7b",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067896191338311750",
+    "published_at": "2026-06-19T09:04:06+00:00",
+    "fetched_at": "2026-06-19T11:59:03.529965+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Kioxia"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出，Bernstein作为机构在Kioxia看空后（给出-50%目标价）导致散户卖出，但股价随后大涨12%，暗示机构反向操作或散户需警惕此类行为。",
+      "translation": "伯恩斯坦基本上就是机构版的吉姆·克莱默：告诉散户Kioxia看起来要崩盘，给出-50%的目标价。一批散户卖出。股票随后立即飙升，今天又涨了12%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067892178542858386",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这条推特当时挺火，\n可惜没几天特朗普打伊朗干趴了一个月，\n不过价格海力士都翻倍回来了，\n历史一直重复，\n去年关税战多少人恐惧，\n今天美伊战争一样有非常多人恐惧，\n今年存储这一路捏的其实很艰难，\n很多人三月份被嘲讽被fud被恐惧下车了，\n没能坚持到现在。",
+    "tweet_url": "https://x.com/xiaomustock/status/2067892178542858386",
+    "published_at": "2026-06-19T08:48:09+00:00",
+    "fetched_at": "2026-06-19T11:59:28.504744+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文回忆了特朗普打伊朗导致存储股短期下跌但随后海力士翻倍的历史，并对比去年关税战和当前美伊战争引发的恐惧，强调坚持持有存储类股票最终会获得回报，表达了对存储板块的看涨信心。",
+      "translation": "This tweet was quite popular at the time. Unfortunately, Trump's strike on Iran caused a one-month downturn, but prices (e.g., Hynix) have doubled back. History keeps repeating. Last year's tariff war caused many to fear; today's US-Iran war also has many fearing. Holding storage stocks this year has been tough; many got off in March due to FUD and couldn't hold until now.",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067810501581758828",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -4885,6 +4925,50 @@
       "direction": "bullish",
       "summary": "该推文认为SIVE是一家小型激光器供应商，有望成为CPO/硅光子学领域的下一代LITE，当前市值仅1.4亿美元，存在估值错位。作者看好其与POET等公司的合作，认为其可能成为Marvell Celestial等产品的激光器供应商，但提醒注意LITE和COHR也在竞争。",
       "translation": "新仓位TLDR：\n\n$SIVE 市值1.4亿美元。\n是即将兴起的CPO/硅光子学公司的激光器供应商。\n类似Innolight从$LITE采购当前光收发器的方式。\n对于CPO/硅光子学，它是下一个$LITE，为像$POET/$AYAR这样的公司供货。\n如果我要简单化。\n$LITE -> 用于当前光瓶颈的EML激光器。\n$SIVE -> 为Ayar/Poet等CPO公司定制的InP CW DFB激光器。\n估值错位似乎很有吸引力。然而，$LITE/$COHR也在开发用于CPO的CW激光器。\n感觉$SIVE与$POET等公司合作已久，因此他们作为$MRVL Celestial等产品的激光器供应商有后路。\n基本上，论点是下一个可能的小型$LITE，作为即将到来的CPO/硅光子学的激光器供应商。\n当然，请自行研究。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2028786845861990895",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Thoughts on the $EWY / KOSPI crash and whether it's a buying opportunity for Samsung/Sk Hynix:\n\nThis looks like a clear buying opportunity.\n\nEspecially as investors misunderstand that 2026 is not 2022 (Ukraine-Russia) conflicts. \n\nAI has fundamentally changed the demand for memory, compared to the 2022 downturn in consumer electronics, where Samsung/Sk Hynix also footed opex costs. \n\nThe main catalyst for one of the largest single-day drops in Korean history was Iran drone striking QatarEnergy's Ras Laffan complex. \n\nQatar is roughly ~20% of the global LNG supply.\n\nResults: \n\n-> Dutch TTF (Euro Natural Gas): +46%\n-> Asian Spot LNG: + 39%\n-> U.S. Natural Gas: +4.16% (fine)\n\nThe LNG spike was the catalyst for the drop as South Korea is materially exposed as it relies on imported LNG. \n\nFearing this inflationary energy shock, investors aggressively dumped South Korean tech equities, combined with deleveraging of 10x Samsung/Sk Hynix. \n\nSending\n-> Samsung Electronics down by 9.79%.\n-> SK Hynix shares sank by 11.12%.\n\nand the $EWY (KR futures) down 14.49% today.\n\nEveryone is fearing the 2022 incident with Russia-Ukraine war increasing LNG prices, causing industrial electricity tariffs in South Korea climbed by roughly 70% after KEPCO stopped abosring losses. \n\nIn 2022 alone, Samsung's domestic facilities consumed approximately 28,000 GWh of electricity.\n\nThe tariff hikes added an estimated KRW 2 trillion (over $1.4 billion USD) to Samsung's annual operating expenses and over KRW 1 trillion for SK Hynix.\n\nThis unprecedented spike in operational expenses (OPEX) hit at the exact worst possible time. \n\nIn late 2022, the semiconductor industry entered a brutal cyclical downturn. Post-pandemic demand for PCs and smartphones plummeted, leading to a massive oversupply of DRAM and NAND flash.\n\nHowever, 2026 is completely different:\n\nCompared to 2022 that faced increasing energy costs during a downturn:\n\nAI demand for memory is completely unprecedented. On the 27th, there were reports of DRAM hikes again from Samsung/Sk Hynix.  \n\nDemand for NAND prices from $SNDK have been so high for capacity allocation that they've been taking 3 year pre-orders in advance.\n\nThere is no end to demand in sight, and no relief way until 2028. \n\nComparing this to 2022, where consumer segments for laptops and smartphones were already facing a downturn, memory makers could not pass on the costs (and tanked opex bill). That caused a major correction last time. \n\nBecause the global AI chip shortage is so acute in 2026, they will seamlessly pass their inflated utility bills down the supply chain. \n\nBecause supply is severely constrained, Samsung and SK Hynix dictate the market terms. Big Tech hyperscalers (Microsoft, Meta, Google, Amazon) are locked in an AI arms race. They are highly price-insensitive right now and prioritize securing volume over haggling.\n\nAs a result, this looks like a clear buying opportunity, especially as projections range from:\n\nMorgan Stanley | Macquarie on Samsung \n2026: ~$182.0B USD vs.  ~$210.8B USD  \n2027: ~$235.1B USD vs.  ~$333.7B USD  \n\nMorgan Stanley | Macquarie on SK Hynix: \n2026: ~$132.9B USD vs. ~$190.5B USD\n2027: ~$167.0B USD vs. ~$312.8B USD \n\nThe selloff looks like an immediate de-risking from fears over 2022 Ukraine-Russia-conflicts, combined with extreme leverage from 10x instruments.\n\nBut unlike 2022, where laptops and consumer demand were already facing a downturn and LNG spikes caused Samsung/SK Hynix to foot the bill:\n\nThis time it's passed onto hyperscaler costs because demand is too high. \n\nPeople always compare KOSPI to silver, but the difference is one has whopping operational income, where in a bull-case scenario, 2 years of income alone would exceed their market cap of companies like SK Hynix. \n\nThe drop on Samsung/Sk Hynix looks like a clear buying opportunity as their operational income will likely blow past any short term volatility.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2028786845861990895",
+    "published_at": "2026-03-03T10:57:31+00:00",
+    "fetched_at": "2026-06-19T11:59:12.089543+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "EWY",
+        "KOSPI",
+        "Samsung",
+        "SK Hynix",
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "认为最近韩国股市因能源价格飙升导致的下跌是买入良机，因为AI对存储芯片的需求远超2022年，三星/海力士可将成本转嫁给云端客户，且营收预期强劲。",
+      "translation": "对$EWY / KOSPI崩盘及是否适合买入三星/海力士的分析：这看起来很明显的买入机会。尤其是投资者误以为2026年等同于2022年（俄乌冲突）。AI已根本改变了存储需求，与2022年消费电子低迷期不同。主因是伊朗无人机袭击卡塔尔能源Ras Laffan设施，导致欧洲天然气涨46%、亚洲LNG涨39%，而韩国高度依赖LNG进口。投资者恐慌性地抛售韩国科技股，结合高杠杆，导致三星跌9.79%、海力士跌11.12%、EWY跌14.49%。人们担忧2022年电价飙升重演，但2026年AI需求旺盛，存储厂商可轻松将电力成本转嫁给不差钱的科技巨头。此次下跌类似2022年，但基本面完全不同，是买入时机。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2026907497588834407",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "不要做那种曾经的傻逼，\n2000年初你拥抱互联网跟着时代潮流注册了qq，注册了网易邮箱。体验着各种新奇的互联网产品。\n却不知道他妈的傻逼怎么不去买个腾讯网易的股票。\n现在的你整天在那倒腾AI产品，倒腾电脑里的龙虾，又是买mac mini，又是买claude，gemini会员，你他妈跟当初只知道充值qq会员的傻逼有什么区别？还不如梭哈三星海力士。\n历史给你再重复一遍，不要回望过去，自己还是那个傻逼。",
+    "tweet_url": "https://x.com/xiaomustock/status/2026907497588834407",
+    "published_at": "2026-02-26T06:29:40+00:00",
+    "fetched_at": "2026-06-19T11:59:24.356525+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者认为历史重复，当前AI热潮类似2000年互联网泡沫，投资者应买入相关股票（如三星、海力士），而非仅仅体验产品。",
+      "translation": "不要做那种曾经的傻逼，2000年初你拥抱互联网跟着时代潮流注册了qq，注册了网易邮箱。体验着各种新奇的互联网产品。却不知道他妈的傻逼怎么不去买个腾讯网易的股票。现在的你整天在那倒腾AI产品，倒腾电脑里的龙虾，又是买mac mini，又是买claude，gemini会员，你他妈跟当初只知道充值qq会员的傻逼有什么区别？还不如梭哈三星海力士。历史给你再重复一遍，不要回望过去，自己还是那个傻逼。",
       "confidence": "medium"
     }
   },
