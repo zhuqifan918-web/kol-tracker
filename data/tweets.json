@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2067773608009580876",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Oil is flowing and gas prices have begun tumbling down,\" the White house has said.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067773608009580876",
+    "published_at": "2026-06-19T00:57:00+00:00",
+    "fetched_at": "2026-06-19T02:12:39.426218+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "白宫关于油价和汽油价格下跌的声明可能对能源板块和通胀预期产生影响，但未提供具体投资建议或标的。",
+      "translation": "白宫表示：“石油正在流动，汽油价格已经开始下跌。”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067758760160903278",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Federal regulators have agreeded to let large energy users connect more quickly to the nation’s inefficient and electric transmission system to accommodate surging demand from artificial intelligence data centers, per AP",
+    "tweet_url": "https://x.com/unusual_whales/status/2067758760160903278",
+    "published_at": "2026-06-18T23:58:00+00:00",
+    "fetched_at": "2026-06-19T02:12:42.582187+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该消息对能源股和AI基础设施供应商构成利好。监管机构加速大型能源用户接入电网，将推动电力需求增长，利好相关电力公司及电网设备制造商。",
+      "translation": "据美联社报道，联邦监管机构已同意让大型能源用户更快速地接入国家低效的输电系统，以应对人工智能数据中心激增的电力需求。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067721766496305578",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
