@@ -1,25 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LITE",
-      "$MU",
-      "$AXTI"
+      "AAOI",
+      "SIVE",
+      "LITE",
+      "MU",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与激光瓶颈",
-      "内存超级周期",
-      "美国AI供应链自主"
+      "光子学/硅光子系统投资",
+      "美国/西方AI供应链自主",
+      "存储芯片超级周期",
+      "小盘成长股价值发现",
+      "出口管制与供应链瓶颈"
     ],
-    "recent_shift": "从早期光通讯投资转向更上游的CW激光和InP衬底稀缺性，并确认CPO/800V DC无延迟。",
+    "recent_shift": "近期更加强调光子学（photonics）主题，并大幅增持小型光通信公司如SIVE、AAOI，认为市场对CPO（共封装光学）和硅光子系统有严重低估。",
     "representative_quotes": [
-      "How does China manage to smuggle in something the size of a school bus from $ASML? Is the real question.",
-      "Just a reminder: 99% of X was bearish on memory 3 months ago... Since then: $MU $380 -> $1122.",
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
+      "But by investing in the critical companies to give them more capex spend for FAU capacity / yields. Or funding upstream red phosphorus/InP substrate capacity or SiC/GaN capacity. It builds up Western supply chains to make what’s technologically challenging, possible.",
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+      "Sivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO. Embedded in many hyperscaler suppliers from Jabil to Ayar. Should go brrr 2027 but markets are forward looking, so ramps + qualifications should get priced in now."
     ],
-    "generated_at": "2026-06-19T07:36:24.243271+00:00"
+    "generated_at": "2026-06-19T11:59:57.951508+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -47,26 +49,26 @@
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK하이닉스",
+      "$HBM.SK",
       "$MU",
+      "$NVDA",
       "$SPCX",
-      "$NOK",
-      "$NVDA"
+      "$NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命核心，海力士是王者",
-      "长期持有优于短线，利用市场恐慌加仓",
-      "SPCX太空算力与诺基亚基站合作前景",
-      "韩国市场波动中坚信海力士基本面",
-      "美光低估，盈利预期推动上涨"
+      "存储芯片是AI革命的终极正解",
+      "长期持有优于短线交易",
+      "海力士美股ADR和财报催化上涨",
+      "太空算力与诺基亚合作生态",
+      "市场恐惧时逆向加仓"
     ],
-    "recent_shift": "从早期关注美光转向重仓海力士，强调下月ADR和财报确定性",
+    "recent_shift": "近期观点一致看多存储和太空算力，无显著转向；早期更侧重美光，后期全面转向海力士并增加对SPCX和诺基亚的关注。",
     "representative_quotes": [
-      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！",
-      "拿着一个股票不动的时候最无聊，也不需要天天研究这研究那，只能被无穷无尽的上涨暴击幼小的心灵。",
-      "海力士q2利润保守预估1100亿美金纯现金，今日海力士市值11200亿美金。接下来45天是海力士的强势期。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "拿着一个股票不动的时候最无聊，也不需要天天研究这研究那，只能被无穷无尽的上涨暴击幼小的心灵，学不到任何东西。",
+      "高频短线交易则是停留在打工人思维，想着靠短线每天挣点，除非你是天选打工人，否则很难发财甚至大部分人都肯定最终亏钱。而长期持有只在特定情况调仓是老板思维。"
     ],
-    "generated_at": "2026-06-19T07:36:21.114914+00:00"
+    "generated_at": "2026-06-19T12:00:01.610471+00:00"
   }
 }
