@@ -23,25 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "AAPL",
-      "NVDA",
-      "INTC",
-      "AMZN"
+      "$SPCX",
+      "$NVDA",
+      "$AAPL",
+      "$INTC",
+      "$QURE"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治与市场波动",
-      "科技巨头与AI竞争",
-      "加密货币与监管"
+      "美国-伊朗地缘政治缓和与能源市场波动",
+      "AI与数据中心需求驱动下的科技和半导体投资",
+      "SpaceX上市及相关杠杆ETF的投机热潮",
+      "美联储政策转向与利率预期变化",
+      "科技巨头（苹果、英特尔、Meta）的供应链和业绩动态"
     ],
-    "recent_shift": "焦点从伊朗协议转向SpaceX相关ETF和期权事件。",
+    "recent_shift": "近期关注点从之前的地缘政治风险转向SpaceX期权和ETF投机，以及科技巨头与AI相关合作和股价上扬。",
     "representative_quotes": [
-      "BREAKING: 🚨 You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short).",
-      "Trump said negotiations with Anthropic over restoring access to the company’s latest artificial-intelligence models were “going fine”",
-      "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever and surpassing the previous $7.1 trillion record from December 2025 by 18%."
+      "BREAKING: 🚨 You can now trade SpaceX with 2x leverage, long OR short. GraniteShares just launched $SPAL (2x long $SPCX) and $SNK (2x short). Leveraged/inverse, daily reset, high risk incl. possible total loss. @graniteshares",
+      "Amazon, $AMZN, in talks to sell Nvidia, $NVDA, rival chips to other companies, per Bloomberg.",
+      "Trump: Apple, $AAPL, to collaborate with Intel, $INTC on designing and manufacturing chips in the US"
     ],
-    "generated_at": "2026-06-18T23:15:22.889088+00:00"
+    "generated_at": "2026-06-19T02:12:57.258722+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
