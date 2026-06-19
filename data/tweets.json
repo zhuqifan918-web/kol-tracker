@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2068053955704488287",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The amendment requires defense contractors to submit a \"qualified defense investment plan\" detailing how they will increase production capacity.\n\nRead more: https://t.co/HAzNrv74YG",
+    "tweet_url": "https://x.com/unusual_whales/status/2068053955704488287",
+    "published_at": "2026-06-19T19:31:00+00:00",
+    "fetched_at": "2026-06-19T20:51:23.211212+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DIA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到一项修正案，要求国防承包商提交‘合格国防投资计划’以增加产能，这可能影响国防类股票（如DIA），但未明确利好或利空。",
+      "translation": "该修正案要求国防承包商提交一份‘合格国防投资计划’，详细说明他们将如何提高生产能力。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068031306311811461",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"There's a difference between not telling markets your next move and not telling them how you make decisions at all. Kevin Warsh, at his first meeting as Fed chair, did both,\" per Nick Timiraos at WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2068031306311811461",
+    "published_at": "2026-06-19T18:01:00+00:00",
+    "fetched_at": "2026-06-19T20:51:27.903056+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出新任美联储主席Kevin Warsh不仅不透露具体操作，也不公开决策过程，增加了市场不确定性，对投资者而言意味着需要更谨慎评估政策影响。",
+      "translation": "据《华尔街日报》Nick Timiraos报道，凯文·沃什（Kevin Warsh）在他作为美联储主席的第一次会议上，既没有告诉市场他的下一步行动，也没有透露他如何做出决策。这两件事他都做了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068025769637400899",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US Central Command (CENTCOM) has announced that the US naval blockade of the Strait of Hormuz has officially been lifted.",
+    "tweet_url": "https://x.com/unusual_whales/status/2068025769637400899",
+    "published_at": "2026-06-19T17:39:00+00:00",
+    "fetched_at": "2026-06-19T20:51:29.887341+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国解除霍尔木兹海峡封锁对全球石油运输和能源市场构成积极影响，可能推动油价下行或稳定，利好能源进口国及相关行业。",
+      "translation": "突发：美国中央司令部（CENTCOM）宣布，美国对霍尔木兹海峡的海军封锁已正式解除。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068004278518923485",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
