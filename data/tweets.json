@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2068004278518923485",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @TheBronxViking: $MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆\n\nThe size that came in behind this never scaled out. Held start to finish in full.\n\n3/31/2026, it hit the tape. 30,584 contracts at the ask and mid, avg fill 18.65. \nTotal premium laid out around $57M. \nNo meaningful selling after that, held the entire time.\n\nToday at expiration those same contracts are worth $719.59 each. \nPaid $1,865, worth $71,959 now. \nThat’s a +3,758% return.🤯🤯🤯🤯\n\nPosition value around $2.2B. \nTotal gain around $2.14B.\n\nThree months, March to June, OVER $2 BILLION in profit on one single position. 💰\n\nIf you tailed this trade you’re up +3,758%. Hands down one of the biggest examples ever of how it can literally pay to follow the flow. @unusual_whales 🐳",
+    "tweet_url": "https://x.com/unusual_whales/status/2068004278518923485",
+    "published_at": "2026-06-19T16:13:36+00:00",
+    "fetched_at": "2026-06-19T17:29:40.979333+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了一个关于美光科技（MU）的期权交易案例，指出有人以约5700万美元买入MU看涨期权，最终获利约21.4亿美元，收益率高达3758%。推文强调跟踪大资金流向的重要性，并暗示类似交易机会值得关注。",
+      "translation": "RT @TheBronxViking: 3月31日被提醒的$MU $400看涨期权今天到期，这绝对是我见过的前五名、甚至是最不寻常的交易之一。🏆\n\n这笔交易背后的规模从未缩小。从头到尾持有全部头寸。\n\n2026年3月31日，它出现在交易记录上。以18.65的平均成交价在卖盘价和中间价买入了30,584份合约。\n总投入约5700万美元。\n之后没有明显的卖出，一直持有到期。\n\n今天到期时，这些合约每份价值719.59美元。\n支付1865美元，现在价值71,959美元。\n收益率+3,758%。🤯🤯🤯🤯\n\n头寸价值约22亿美元。\n总获利约21.4亿美元。\n\n三个月内，从三月到六月，单笔交易盈利超过20亿美元。💰\n\n如果你跟随了这笔交易，你赚了+3,758%。毫无疑问，这是如何跟随资金流向赚钱的最佳案例之一。@unusual_whales 🐳",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067986008218759545",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Tech workers who aren’t regular AI users are three times more likely to lose their jobs than their peers, per Gallup",
+    "tweet_url": "https://x.com/unusual_whales/status/2067986008218759545",
+    "published_at": "2026-06-19T15:01:00+00:00",
+    "fetched_at": "2026-06-19T17:29:46.284814+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "这个调查结果暗示AI技术应用可能成为未来就业市场的关键因素，从而推动相关AI技能需求和技术公司的增长，长期来看对AI相关股票和行业有积极影响。",
+      "translation": "据盖洛普调查，不常使用AI的技术工作者，失业可能性比同事高出三倍。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2067958378488623499",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -218,6 +258,25 @@
       "summary": "该推文详细分析了LPK公司的投资前景，包括行业即将迎来高容量生产、至少3-5个买家今年将下单、金属化问题已解决、市场预期远超5亿欧元、客户风险偏好上升、CEO目标70%市场份额、先进封装收入将大幅增长、以及考虑在纳斯达克上市等利好消息。",
       "translation": "$LPK\n\n会议纪要（非官方指引，仅为我所听到的摘要）\n\n在我看来非常看好，很多好信息，但我让读者自行判断。最要点已加粗。\n\n1. 行业已准备好进行首次高容量生产。\n2. 预计今年至少有3家买家启动采购（基准情况4或5家），每家订购3至10台机器。\n3. 之前的延迟并非由于LIDE技术，因为它已可量产，而是由于独立的金属化工艺不成熟……现在这个问题基本解决。\n4. 去年内部评估的可达市场为5亿欧元……现在这一数字将大幅超过。公司计划很快更新模型。\n5. 客户现在更愿意承担风险。\n6. CEO的目标是70%的市场份额。\n7. 玻璃在总封装技术中的份额到2030年可能在保守的30%到乐观的80%之间（这不是市场份额）。\n8. 每套系统的收入约为100万欧元……对于初期出货，每个买家收入在300万至1000万欧元之间，取决于购买的机器数量。\n9. 未来来自单一客户的1亿欧元机器订单是他们必须准备面对的（单笔订单1亿收入！）规模化策略……\n10. 太阳能收入下降，但一旦钙钛矿电池进入高容量生产阶段（技术转型），潜力巨大。\n11. 对价格走势不感意外，认为其定价合理。\n12. 先进封装收入将显著超过其他业务板块。\n13. LIDE只是入场券，先进封装领域还有许多其他周边收入机会。\n14. 在高容量交易所（如纳斯达克）上市正在积极考虑和讨论中。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067706667056464241",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The coronavirus vaccine reduced the risk of major cardiovascular events linked to covid-19 by about 40 percent, according to a new study, per WaPo",
+    "tweet_url": "https://x.com/unusual_whales/status/2067706667056464241",
+    "published_at": "2026-06-18T20:31:00+00:00",
+    "fetched_at": "2026-06-19T17:30:04.754093+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到一项新研究显示新冠疫苗可使与新冠相关的主要心血管事件风险降低约40%，这有利于疫苗制造商和相关医疗保健股，表明疫苗的有效性得到进一步证实，可能提升市场对疫苗需求的信心。",
+      "translation": "根据《华盛顿邮报》报道的一项新研究，新冠疫苗将新冠相关的主要心血管事件风险降低了约40%。",
+      "confidence": "medium"
     }
   },
   {
@@ -4973,6 +5032,27 @@
       "direction": "bullish",
       "summary": "该推文认为AEHR市值约11亿美元，前景非常看好，将其比作早期的泰瑞达和财报前的AAOI。推文列举了多个潜在客户订单时间线，并推测这些订单可能来自谷歌、亚马逊、Meta、AMD、英伟达、英特尔等大厂，认为大规模订单只是时间问题，投资方向为看涨。",
       "translation": "$AEHR 在市值约11亿美元时看起来非常有前景。Aehr开始让我想起早期的$TER，并混合了财报前的$AAOI。如果我们看看时间线和推测的客户：2月11日：为超大规模AI ASIC处理器赢得的Sonoma生产订单（可能是$GOOGL、$AMZN、$META）。- 可能是谷歌？Aehr收购了Incal，而Incal此前据推测被谷歌用于其TPU。2月26日：来自AI关键客户的1400万美元订单（可能是$AMD、$NVDA）。- 可能是$AMD，用于Instinct MI300/MI400。3月3日：领先的硅光子客户购买一台FOX-XP系统（可能是$INTC的硅光子）。- 很有可能是$INTC一直是他们的关键客户。3月31日：来自一家重要新硅光子客户的初始订单（可能是$AVGO、$MRVL、$CSCO）。- 新客户（排除了英特尔），可能是这些公司之一正在向800G/1.6T硅光子收发器过渡。（均为推测，高度保密的物料清单。）无论如何。这个时间线对$AEHR来说只是积蓄力量。可能是下一次财报时。也可能是两个季度后。但感觉大规模订单只是时间问题。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2039013881838735752",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "lot of hits on these $MU $400c's today for 6/18\n@unusual_whales https://t.co/JMIugHNsqR",
+    "tweet_url": "https://x.com/unusual_whales/status/2039013881838735752",
+    "published_at": "2026-03-31T16:16:07+00:00",
+    "fetched_at": "2026-06-19T17:29:43.161892+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到MU（美光科技）的$400看涨期权在6月18日到期日出现大量成交，暗示投资者对MU股价短期内大幅上涨抱有强烈预期，市场情绪偏乐观。",
+      "translation": "今天这些$ MU $ 400看涨期权（6月18日到期）有很多交易量。",
       "confidence": "medium"
     }
   },
