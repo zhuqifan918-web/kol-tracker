@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2067810501581758828",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士今天又是6个点，\n啥也不用研究，\n啥也不要做，\n做得多错的多，时间会给你一切，\n花里胡哨在那天天研究没屌用，\n捏住海力士躺平就够了。 https://t.co/WGVOa0sBv6",
+    "tweet_url": "https://x.com/xiaomustock/status/2067810501581758828",
+    "published_at": "2026-06-19T03:23:36+00:00",
+    "fetched_at": "2026-06-19T07:35:42.135275+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为对于海力士股票，无需主动研究或交易，持有躺平即可获得收益，强调被动投资。",
+      "translation": "海力士今天又是6个点，啥也不用研究，啥也不要做，做得多错得多，时间会给你一切，花里胡哨在那天天研究没屌用，捏住海力士躺平就够了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067797264362315911",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The token hit a peak price of $75.35 and has since collapsed to around $2.38, a decline of nearly 97%.\n\nRead more: https://t.co/AladqVruvp",
+    "tweet_url": "https://x.com/unusual_whales/status/2067797264362315911",
+    "published_at": "2026-06-19T02:31:00+00:00",
+    "fetched_at": "2026-06-19T07:35:56.459883+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该代币价格从峰值75.35美元暴跌至2.38美元，跌幅近97%，显示出强烈的看跌信号和极高风险。",
+      "translation": "该代币曾达到峰值价格75.35美元，此后暴跌至约2.38美元，跌幅近97%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067795114211340290",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "How does China manage to smuggle in something the size of a school bus from $ASML? \n\nIs the real question. https://t.co/Yru8VY5hPO",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2067795114211340290",
+    "published_at": "2026-06-19T02:22:27+00:00",
+    "fetched_at": "2026-06-19T07:35:22.599891+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ASML"
+      ],
+      "direction": "bearish",
+      "summary": "该推文暗示ASML可能向中国非法出口了大型光刻机，这可能引发监管风险，并影响ASML的合规性和股价。",
+      "translation": "中国是如何设法从ASML走私一辆校车大小的东西的？这才是真正的问题。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2067773608009580876",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -99,6 +160,25 @@
       "summary": "GraniteShares推出了基于SpaceX的2倍杠杆做多ETF $SPAL和2倍做空ETF $SNK，风险极高，可能损失全部本金。这为交易SpaceX提供了杠杆工具，但需谨慎。",
       "translation": "重大消息：🚨 你现在可以用2倍杠杆做多或做空SpaceX了。GraniteShares刚刚推出了$SPAL（2倍做多$SPCX）和$SNK（2倍做空）。杠杆/反向ETF，每日重置，高风险，包括可能的全部损失。来自@graniteshares",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067683011173196287",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Mexico amends its constitution to cut the maximum workweek from 48 to 40 hours by 2030 and gives 13.5 million workers the legal right to ignore their boss’s calls, messages, and emails after their shift ends",
+    "tweet_url": "https://x.com/unusual_whales/status/2067683011173196287",
+    "published_at": "2026-06-18T18:57:00+00:00",
+    "fetched_at": "2026-06-19T07:36:09.826243+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "墨西哥缩短工时法规可能增加企业劳动力成本，影响劳动密集型行业利润，但对合规与自动化相关企业有利。需关注具体行业影响。",
+      "translation": "重大消息：墨西哥修改宪法，将最长工作周从48小时削减至40小时（2030年前实施），并赋予1350万员工在下班后忽视老板电话、短信和邮件的法定权利。",
+      "confidence": "medium"
     }
   },
   {
