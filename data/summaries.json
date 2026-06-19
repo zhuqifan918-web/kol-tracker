@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
       "$MU",
       "$QURE",
+      "$SPCX",
       "$NVDA",
-      "$AAPL"
+      "$INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "期权大单与异常交易流",
-      "AI与数据中心需求",
-      "地缘政治与能源博弈"
+      "AI与数据中心需求激增",
+      "地缘政治缓和利好能源与航运",
+      "机遇型期权交易与异常资金流",
+      "国防与半导体政策驱动",
+      "高杠杆ETF及特殊目的工具"
     ],
-    "recent_shift": "",
+    "recent_shift": "近期明显转向关注宏观经济與聯儲動向、地缘风险消退，相比早期更侧重政策执行与市场流动性",
     "representative_quotes": [
-      "The size that came in behind this never scaled out. Held start to finish in full.",
-      "If you tailed this trade you’re up +3,758%. Hands down one of the biggest examples ever of how it can literally pay to follow the flow.",
-      "We had a very interesting trade pointed out to @NicholasFNS and myself on the @unusual_whales Whale Watch stream today by one of the @unusual_whales community members, @RhymesMarket, on the $QURE 6/18 45c. This was the definition of 'someone always knows.'"
+      "$MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆",
+      "There's a difference between not telling markets your next move and not telling them how you make decisions at all. Kevin Warsh, at his first meeting as Fed chair, did both",
+      "Oil is flowing and gas prices have begun tumbling down,"
     ],
-    "generated_at": "2026-06-19T17:30:09.685757+00:00"
+    "generated_at": "2026-06-19T20:51:48.664370+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
