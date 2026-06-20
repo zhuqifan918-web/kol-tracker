@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2068271394551730352",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Why are so many basing you over $XFAB and your other positions ? Could see so much negativity? Even after you picking solid plays so far? Did $XFAB pull of some bad shit?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068271394551730352",
+    "published_at": "2026-06-20T09:55:01+00:00",
+    "fetched_at": "2026-06-20T12:24:09.766112+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "neutral",
+      "summary": "推文讨论了对$XFAB等持仓的负面情绪，但未明确看多或看空，仅表达对负面反馈的疑惑。",
+      "translation": "@aleabitoreddit 为什么这么多人因为$XFAB和你的其他持仓而抨击你？即使你之前选中的股票表现不错，还能看到这么多负面情绪？难道$XFAB干了什么坏事？",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068251542722097454",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",

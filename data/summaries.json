@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LPK",
-      "$MU",
-      "$IQE"
+      "SIVE",
+      "AAOI",
+      "LPK",
+      "LITE",
+      "AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与光学互联",
-      "内存与存储超级周期",
-      "供应链瓶颈与国家安全",
-      "欧洲与日本半导体机会",
-      "AI基础设施与算力部署"
+      "光子学与硅光供应链",
+      "AI基础设施与内存周期",
+      "欧洲半导体投资机会",
+      "供应链瓶颈与地缘博弈",
+      "美国本土制造与国家安全"
     ],
-    "recent_shift": "近期更加聚焦极端NAV折价且独立成长的主题，并明确表达对韩国公司治理的不信任，同时加大对WUS和ACMR等折价标的的集中度。",
+    "recent_shift": "从早期小盘光学股（如AAOI、AXTI）的挖掘转向更关注欧洲半导体（如SIVE、XFAB）及供应链瓶颈（如钨、InP衬底）的深度分析。",
     "representative_quotes": [
-      "I think both $ACMR and WUS have H-Share subsidiary listing soon, and those were the biggest NAV discounts with independent growth.",
-      "Just as a recap, these were all my core European longs: 1. $SIVE 2. $LPK 3. $SOI 4. $RPI 5. $IQE 6. $ALRIB 7. $XFAB",
-      "I haven't seen such fast revenue ramp since $NBIS."
+      "Sivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.",
+      "I do think AI is the most disruptive technology in human history. To the level of agricultural or industrial revolution.",
+      "Even $POET buys $SIVE lasers and Poet is about the same valuation just off having one $50m purchase agreement."
     ],
-    "generated_at": "2026-06-20T04:49:01.646436+00:00"
+    "generated_at": "2026-06-20T12:25:06.257507+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
