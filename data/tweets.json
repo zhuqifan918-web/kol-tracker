@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2068454092163481701",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wells Fargo Investment Institute set its 2027 year-end S&amp;P 500 target range at 8,600–8,800.",
+    "tweet_url": "https://x.com/unusual_whales/status/2068454092163481701",
+    "published_at": "2026-06-20T22:01:00+00:00",
+    "fetched_at": "2026-06-20T23:13:04.091340+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPX"
+      ],
+      "direction": "bullish",
+      "summary": "富国银行投资研究所将2027年底标普500目标区间设定为8600-8800点，表明对该指数长期前景持乐观态度。",
+      "translation": "富国银行投资研究所将2027年底标普500目标区间设定为8600-8800点。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068438992576528456",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
