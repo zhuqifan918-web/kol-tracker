@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2068438992576528456",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said: Stocks should go up.",
+    "tweet_url": "https://x.com/unusual_whales/status/2068438992576528456",
+    "published_at": "2026-06-20T21:01:00+00:00",
+    "fetched_at": "2026-06-20T22:00:36.297215+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普表态支持股市上涨，暗示其政策可能利好市场情绪，对投资者而言偏积极信号。",
+      "translation": "特朗普表示：股票应该上涨。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068425817143874006",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
