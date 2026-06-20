@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$LPK",
       "$SIVE",
       "$AAOI",
-      "$LITE",
-      "$MU"
+      "$LPK",
+      "$MU",
+      "$IQE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学和光学互连是AI基础设施的关键瓶颈",
-      "存储器超级周期，受AI需求驱动",
-      "上游供应链瓶颈（如衬底、激光器）创造投资机会",
-      "美国本土制造和供应链安全主题",
-      "Neocloud和AI基础设施的长期增长"
+      "光子学与光学互联",
+      "内存与存储超级周期",
+      "供应链瓶颈与国家安全",
+      "欧洲与日本半导体机会",
+      "AI基础设施与算力部署"
     ],
-    "recent_shift": "近期观点更加强调LPK的玻璃基板和SIVE的激光器价值，并明确指出市场尚未充分定价这些环节的垄断地位和收入潜力",
+    "recent_shift": "近期更加聚焦极端NAV折价且独立成长的主题，并明确表达对韩国公司治理的不信任，同时加大对WUS和ACMR等折价标的的集中度。",
     "representative_quotes": [
-      "I do think LPK is very undervalued based on these discussions (disclosure: own positions).",
-      "Sivers... core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.",
-      "I think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
+      "I think both $ACMR and WUS have H-Share subsidiary listing soon, and those were the biggest NAV discounts with independent growth.",
+      "Just as a recap, these were all my core European longs: 1. $SIVE 2. $LPK 3. $SOI 4. $RPI 5. $IQE 6. $ALRIB 7. $XFAB",
+      "I haven't seen such fast revenue ramp since $NBIS."
     ],
-    "generated_at": "2026-06-19T15:21:11.541397+00:00"
+    "generated_at": "2026-06-20T04:49:01.646436+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
       "MU",
+      "QURE",
       "NVDA",
-      "INTC",
       "AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治缓和利好能源和航运",
-      "科技巨头与AI持续推动市场",
-      "杠杆ETF和期权交易活跃度高",
-      "伊朗协议带来市场情绪提振",
-      "美联储政策转向与利率预期"
+      "期权流量分析",
+      "地缘政治与市场影响",
+      "科技与AI投资",
+      "石油与能源市场",
+      "美联储政策"
     ],
-    "recent_shift": "最新推文显示出对伊朗协议和油价下跌的乐观情绪增强，与之前对美联储鹰派担忧形成对比。",
+    "recent_shift": "近期从地缘政治新闻转向更多关注SpaceX期权和个别公司交易，但整体偏多立场未变",
     "representative_quotes": [
-      "The size that came in behind this never scaled out. Held start to finish in full. ... That’s a +3,758% return.",
-      "Kevin Warsh showed that he’s decisively not Trump’s ‘sock puppet’, and markets didn’t like it.",
-      "Oil is flowing and gas prices have begun tumbling down."
+      "There is a big difference between seeing flow and actually understanding it.",
+      "$MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.",
+      "Now this is unusual. Just before UniQure, $QURE, announced it was seeking FDA approval for Huntington’s disease gene therapy, there was huge unusual $QURE $35 calls, expiring 07/17/2026."
     ],
-    "generated_at": "2026-06-20T00:02:45.384884+00:00"
+    "generated_at": "2026-06-20T04:48:57.856120+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
