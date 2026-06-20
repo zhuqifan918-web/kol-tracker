@@ -25,50 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "MU",
-      "QURE",
-      "NVDA",
-      "AAPL"
+      "$SPCX",
+      "$NVDA",
+      "$MU",
+      "$INTC",
+      "$AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "期权流量分析",
-      "地缘政治与市场影响",
-      "科技与AI投资",
-      "石油与能源市场",
-      "美联储政策"
+      "期权交易策略与流动分析",
+      "地缘政治与能源市场变化",
+      "科技股与AI投资热潮",
+      "SpaceX IPO与杠杆ETF",
+      "美联储政策与通胀预期"
     ],
-    "recent_shift": "近期从地缘政治新闻转向更多关注SpaceX期权和个别公司交易，但整体偏多立场未变",
+    "recent_shift": "近期观点从关注地缘冲突风险转向强调市场上涨机遇和期权高回报案例。",
     "representative_quotes": [
-      "There is a big difference between seeing flow and actually understanding it.",
-      "$MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.",
-      "Now this is unusual. Just before UniQure, $QURE, announced it was seeking FDA approval for Huntington’s disease gene therapy, there was huge unusual $QURE $35 calls, expiring 07/17/2026."
+      "RT @TheBronxViking: $MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆 ... Total gain around $2.14B.",
+      "BREAKING: SpaceX's bankers are preparing a bond offering worth at least $20 billion, per Bloomberg.",
+      "There is a big difference between seeing flow and actually understanding it."
     ],
-    "generated_at": "2026-06-20T04:48:57.856120+00:00"
+    "generated_at": "2026-06-20T10:45:39.236157+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$HBM.SK",
+      "$SK hynix",
       "$MU",
-      "$NVDA",
       "$SPCX",
+      "$NVDA",
       "$NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的终极正解",
-      "长期持有优于短线交易",
-      "海力士美股ADR和财报催化上涨",
-      "太空算力与诺基亚合作生态",
-      "市场恐惧时逆向加仓"
+      "存储行业是AI革命的终极正解，长期短缺至2030年",
+      "海力士美股ADR上市将带来价值重估",
+      "马斯克SPCX与诺基亚合作构建太空算力基站",
+      "存储三巨头产能提前售罄，业绩确定性高",
+      "长期持有优于短线交易，强调信仰和耐心"
     ],
-    "recent_shift": "近期观点一致看多存储和太空算力，无显著转向；早期更侧重美光，后期全面转向海力士并增加对SPCX和诺基亚的关注。",
+    "recent_shift": "近期从广泛看好科技股转向极端聚焦存储（海力士），并强调45天内的确定性机会，同时因市场波动和SPCX IPO抽血，短期看跌情绪有所增加，但长期依然坚定看多。",
     "representative_quotes": [
       "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "拿着一个股票不动的时候最无聊，也不需要天天研究这研究那，只能被无穷无尽的上涨暴击幼小的心灵，学不到任何东西。",
-      "高频短线交易则是停留在打工人思维，想着靠短线每天挣点，除非你是天选打工人，否则很难发财甚至大部分人都肯定最终亏钱。而长期持有只在特定情况调仓是老板思维。"
+      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
+      "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有没比存储这波更稳的生意了。"
     ],
-    "generated_at": "2026-06-19T12:00:01.610471+00:00"
+    "generated_at": "2026-06-20T10:45:35.653630+00:00"
   }
 }

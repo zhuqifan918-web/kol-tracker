@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2068251542722097454",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "年初当时等待的海力士adr美股即将要来了，\n进美股放大承接市场，\n海力士真正的疯狂！\n牢牢捏住海力士45天！\nHODL！",
+    "tweet_url": "https://x.com/xiaomustock/status/2068251542722097454",
+    "published_at": "2026-06-20T08:36:08+00:00",
+    "fetched_at": "2026-06-20T10:44:57.451286+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "推文提到海力士即将在美股上市，认为这将带来更大承接市场，并强烈看涨，建议持有45天。",
+      "translation": "年初当时等待的海力士adr美股即将要来了，进美股放大承接市场，海力士真正的疯狂！牢牢捏住海力士45天！HODL！",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068180134667182470",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -1510,6 +1531,25 @@
       "direction": "bullish",
       "summary": "作者认为市值上万亿的公司即使有利空也不会大跌，因为这些公司是指数核心持仓，有强大的融资能力和信用，资金会持续流入。同时看涨SK海力士，认为其是韩国指数和国民的希望，接下来45天是强势期。",
       "translation": "市值上万亿的公司不管在哪个市场，就算再利空都不会跌太多的，他们都是要做各个指数的核心持仓的，不会有太大波动。所以别看说 $spcx  市值太大了太虚就觉得可能跌特别多，其实不然，市值不仅仅代表市值，也代表着一个公司的融资能力和信用额度。它市值到这个位置，会有源源不断的钱流向他，他也能从市场源源不断的拿到钱。其他万亿公司也一样，不要瞎恐慌，涨了看涨跌了看跌。另外，#sk海力士 也是一样，现在它是韩国指数和全韩国人的希望，韩国人端午节不得集体凑钱梭哈海力士。接下来的45天是海力士绝对的强势期。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067275324912505103",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jeff Bezos: Ai is going to create a labor shortage.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067275324912505103",
+    "published_at": "2026-06-17T15:57:00+00:00",
+    "fetched_at": "2026-06-20T10:45:11.949382+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "贝佐斯称AI将导致劳动力短缺，暗示AI和自动化相关企业可能受益，长期看多AI行业。",
+      "translation": "杰夫·贝佐斯：人工智能将造成劳动力短缺。",
       "confidence": "medium"
     }
   },
