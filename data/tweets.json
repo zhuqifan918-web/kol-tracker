@@ -1572,6 +1572,25 @@
     }
   },
   {
+    "tweet_id": "2067255192182247817",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran has signed an MOU to buy military equipment from Russia",
+    "tweet_url": "https://x.com/unusual_whales/status/2067255192182247817",
+    "published_at": "2026-06-17T14:37:00+00:00",
+    "fetched_at": "2026-06-20T00:02:21.276757+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "伊朗与俄罗斯签署军事装备采购谅解备忘录，可能影响地缘政治格局和国防相关板块，但未直接提及具体投资标的。国防股如洛克希德马丁等可能间接受益，但需进一步分析。",
+      "translation": "伊朗已经签署了一份谅解备忘录，从俄罗斯购买军事装备。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2067250158937788438",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
