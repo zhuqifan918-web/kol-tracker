@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$SPCX",
-      "$NVDA",
-      "$MU",
+      "$AAPL",
       "$INTC",
-      "$AAPL"
+      "$NVDA",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "期权交易策略与流动分析",
-      "地缘政治与能源市场变化",
-      "科技股与AI投资热潮",
-      "SpaceX IPO与杠杆ETF",
-      "美联储政策与通胀预期"
+      "特朗普政府政策影响市场",
+      "科技巨头与AI投资机会",
+      "期权交易与异常流量",
+      "能源与地缘政治风险缓解",
+      "美联储政策与利率预期"
     ],
-    "recent_shift": "近期观点从关注地缘冲突风险转向强调市场上涨机遇和期权高回报案例。",
+    "recent_shift": "近期关注重点从宏观紧张局势转向微观公司机会，尤其是SpaceX和芯片股的强势表现。",
     "representative_quotes": [
-      "RT @TheBronxViking: $MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆 ... Total gain around $2.14B.",
-      "BREAKING: SpaceX's bankers are preparing a bond offering worth at least $20 billion, per Bloomberg.",
-      "There is a big difference between seeing flow and actually understanding it."
+      "The size that came in behind this never scaled out. Held start to finish in full. ... That’s a +3,758% return.🤯",
+      "There is a big difference between seeing flow and actually understanding it.",
+      "Oil is flowing and gas prices have begun tumbling down."
     ],
-    "generated_at": "2026-06-20T10:45:39.236157+00:00"
+    "generated_at": "2026-06-20T14:39:14.921436+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2068333296421842968",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump admin seeks to roll back testosterone restrictions, per NYP",
+    "tweet_url": "https://x.com/unusual_whales/status/2068333296421842968",
+    "published_at": "2026-06-20T14:01:00+00:00",
+    "fetched_at": "2026-06-20T14:38:50.431972+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普政府计划放宽睾酮限制，可能利好相关制药公司如AbbVie（AndroGel生产商）和Endo International，推动股价短期上涨。",
+      "translation": "特朗普政府寻求解除睾酮限制，据纽约邮报报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068271394551730352",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -17,6 +36,27 @@
       "direction": "neutral",
       "summary": "推文讨论了对$XFAB等持仓的负面情绪，但未明确看多或看空，仅表达对负面反馈的疑惑。",
       "translation": "@aleabitoreddit 为什么这么多人因为$XFAB和你的其他持仓而抨击你？即使你之前选中的股票表现不错，还能看到这么多负面情绪？难道$XFAB干了什么坏事？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068269343033655490",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I’m just posting this since people seem really curious about X’s revenue sharing program.\n\nGenuinely didn’t expect to get seen 100M+ times every 2 weeks!\n\nWould keep doing the same thing tho, even if it were free and I just had a few friends from $RDDT to share ideas with. https://t.co/UikUTLarwV",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068269343033655490",
+    "published_at": "2026-06-20T09:46:52+00:00",
+    "fetched_at": "2026-06-20T14:38:16.352635+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RDDT"
+      ],
+      "direction": "bullish",
+      "summary": "用户提及Reddit（$RDDT）的股票代码，表达对其社区和免费模式的积极看法，暗示其投资价值。",
+      "translation": "我只是发这个帖子，因为人们似乎真的对X的收入共享计划很好奇。真诚地没想到每两周能获得1亿以上的浏览量！不过，即使这是免费的，只有几个来自$RDDT的朋友分享想法，我也会继续做同样的事。",
       "confidence": "high"
     }
   },
