@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2068378594582155428",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wells Fargo Investment Institute raised its 2026 year-end S&amp;P 500 target range to 7,800–8,000, up from its previous forecast of 7,400–7,600.",
+    "tweet_url": "https://x.com/unusual_whales/status/2068378594582155428",
+    "published_at": "2026-06-20T17:01:00+00:00",
+    "fetched_at": "2026-06-20T17:52:24.492127+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "富国银行投资研究所将2026年底标普500指数目标区间从7400-7600上调至7800-8000，显示其看好美国股市中长期表现。",
+      "translation": "富国银行投资研究所将其2026年底标普500指数目标区间从之前的7400-7600上调至7800-8000。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068363495515603124",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "‘AI is going to create a labor shortage,' Jeff Bezos has said.",
+    "tweet_url": "https://x.com/unusual_whales/status/2068363495515603124",
+    "published_at": "2026-06-20T16:01:00+00:00",
+    "fetched_at": "2026-06-20T17:52:27.649007+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "杰夫·贝索斯表示人工智能将导致劳动力短缺。这一观点可能影响对AI行业、自动化及劳动力市场相关投资的判断，但未直接提及具体投资方向或标的。",
+      "translation": "杰夫·贝索斯曾表示：‘人工智能将导致劳动力短缺。’",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2068333296421842968",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
