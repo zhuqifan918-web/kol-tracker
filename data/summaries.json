@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$QURE",
-      "$SPCX",
-      "$NVDA",
-      "$INTC"
+      "SPCX",
+      "MU",
+      "NVDA",
+      "INTC",
+      "AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI与数据中心需求激增",
-      "地缘政治缓和利好能源与航运",
-      "机遇型期权交易与异常资金流",
-      "国防与半导体政策驱动",
-      "高杠杆ETF及特殊目的工具"
+      "地缘政治缓和利好能源和航运",
+      "科技巨头与AI持续推动市场",
+      "杠杆ETF和期权交易活跃度高",
+      "伊朗协议带来市场情绪提振",
+      "美联储政策转向与利率预期"
     ],
-    "recent_shift": "近期明显转向关注宏观经济與聯儲動向、地缘风险消退，相比早期更侧重政策执行与市场流动性",
+    "recent_shift": "最新推文显示出对伊朗协议和油价下跌的乐观情绪增强，与之前对美联储鹰派担忧形成对比。",
     "representative_quotes": [
-      "$MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆",
-      "There's a difference between not telling markets your next move and not telling them how you make decisions at all. Kevin Warsh, at his first meeting as Fed chair, did both",
-      "Oil is flowing and gas prices have begun tumbling down,"
+      "The size that came in behind this never scaled out. Held start to finish in full. ... That’s a +3,758% return.",
+      "Kevin Warsh showed that he’s decisively not Trump’s ‘sock puppet’, and markets didn’t like it.",
+      "Oil is flowing and gas prices have begun tumbling down."
     ],
-    "generated_at": "2026-06-19T20:51:48.664370+00:00"
+    "generated_at": "2026-06-20T00:02:45.384884+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
