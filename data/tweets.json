@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2068180134667182470",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "In terms of personal notes:\n\n1. Priortech owns 21% of $CAMT, ~1.35x their MC, seems more like holding co.\n\n2. Bit Digital people kept shouting, but NAV discount is not clean $WYFI, lot of dilution + not AI parent. \n\n3. Wistron (3231) is the best one I've seen since $SIVE + Ayar + Wiwynn are one of my favorite trio. \n\n~$16.2B MC, Q1 revenue up a ridiculous amount with 144% Y/Y growth. \n\nOwns 35.46% of Wiwynn, which is ~0.66x of MC. I'd expect Wiwynn to keep on growing. \n\n4. Sin-American Silicon 5483 does own 46.64% of GlobalWafers (6488). \n\nMC is $3.5B, stake value is ~$7.9B, but not exactly growing too fast independently, though it's heavily trading heavily discount to NAV. \n\n5. Iljin Holdings owns 42.99% of Iljin Electric, it's ~$0.22B MC vs. ~$1.13B NAV holding. This was transformer/cable DC related. \n\nBut again idk if I trust korean stocks for NAV unlock, probably better for activist investors. \n\n6. Simmtech Holdings was ~$0.17B MC vs. ~$1.0B of parent, which also looks ridiculous. \n\nSo 6x+ NAV. PCB substrate related name. Also another prob don't trust korean governance type name. \n\nI think both $ACMR and WUS have H-Share subsidiary listing soon, and those were the biggest NAV discounts with independent growth. \n\nThen you have a highly successful activist going after WUS so I'd expect some middle ground there. \n\nSo maybe I'll put more concentration into those on top of what I already own Monday, we'll see. And Wistron was growing very fast independently. \n\nI'm still doing research, normally this goes in shower thoughts since I haven't formally made a conclusion, but thought others might be interested.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068180134667182470",
+    "published_at": "2026-06-20T03:52:23+00:00",
+    "fetched_at": "2026-06-20T04:47:57.445022+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CAMT",
+        "WYFI",
+        "SIVE",
+        "ACMR",
+        "WUS"
+      ],
+      "direction": "bullish",
+      "summary": "作者分析了多个折价交易机会，特别是Wistron（3231）增长强劲，并看好ACMR和WUS的H股上市及股东积极行动，倾向于集中投资这些标的。",
+      "translation": "个人笔记：1. Priortech持有CAMT 21%股权，市值约1.35倍，更像控股公司。2. Bit Digital的人一直喊，但NAV折价不清，WYFI稀释多，不是AI母公司。3. Wistron (3231)是我见过最好的，SIVE + Ayar + Wiwynn是我最喜欢的三组合。市值约162亿美元，Q1营收同比增144%。持有Wiwynn 35.46%股权，约市值0.66倍，预计Wiwynn继续增长。4. Sin-American Silicon 5483持有GlobalWafers (6488) 46.64%股权。市值35亿美元，持股市值约79亿美元，但独立增长不快，不过交易折价大。5. Iljin Holdings持有Iljin Electric 42.99%股权，市值2.2亿美元 vs 11.3亿美元NAV，变压器电缆DC相关。但不信任韩国股解锁，更适合积极投资者。6. Simmtech Holdings市值1.7亿美元 vs 母公司10亿美元，6倍以上NAV，PCB基板相关，同样不信任韩国治理。我认为ACMR和WUS都有H股子公司即将上市，是最大的NAV折价且有独立增长的。加上WUS有成功积极投资者介入，期望折价收窄。所以可能在我已持有的基础上再集中这些仓位，周一看。Wistron独立增长很快。仍在研究，通常这是淋浴时的想法，尚未正式结论，但觉得他人可能感兴趣。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068145982995677645",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: There is a big difference between seeing flow and actually understanding it.\n\nIn this video, I go deeper into how I read options flow using @unusual_whales with real examples.\n\nWe go through:\n• Building filters that remove noise\n• Why IV matters\n• Bid vs ask and urgency\n• Volume vs open interest\n• Net premium structure\n• Using the options profit calculator\n• Reading contract quality\n\nThis is about building a process instead of blindly chasing contracts.\n\nWatch here:\nhttps://t.co/wlEGthkhGf\n\nIf you want to try the same @unusual_whales tools and approach, you can save 10% on the annual or monthly subscription here:\nhttps://t.co/xNtvfoxDAN",
+    "tweet_url": "https://x.com/unusual_whales/status/2068145982995677645",
+    "published_at": "2026-06-20T01:36:41+00:00",
+    "fetched_at": "2026-06-20T04:48:35.392365+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文介绍了使用Unusual Whales工具分析期权流的方法，强调建立过滤噪音、理解隐含波动率、买卖盘紧迫性、成交量与未平仓合约对比、净权利金结构等系统化流程，而非盲目跟单。内容偏向教育性，未明确看多或看空具体标的。",
+      "translation": "RT @AnthonySandford: 看到资金流和真正理解它之间有很大区别。\n在这个视频中，我使用@unusual_whales通过真实示例深入讲解如何解读期权流。\n我们涵盖：\n• 构建过滤噪音的筛选器\n• 隐含波动率为何重要\n• 买卖盘与紧迫性\n• 成交量与未平仓合约对比\n• 净权利金结构\n• 使用期权盈亏计算器\n• 解读合约质量\n\n这是关于建立一套流程，而非盲目追逐合约。\n观看地址：https://t.co/wlEGthkhGf\n如果你想尝试同样的@unusual_whales工具和方法，可通过此链接在年订阅或月订阅上节省10%：https://t.co/xNtvfoxDAN",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068053955704488287",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
