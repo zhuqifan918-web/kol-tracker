@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "AAPL",
-      "BRKB",
-      "MU",
-      "QURE"
+      "$SPCX",
+      "$BRKB",
+      "$MU",
+      "$QURE",
+      "$AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "期权大单跟踪与异常流动",
-      "地缘政治缓解（霍尔木兹海峡）",
-      "科技与AI推动市场",
-      "美联储政策与利率预期",
-      "杠杆ETF与新兴资产"
+      "市场看涨情绪高涨",
+      "期权交易异常活跃",
+      "政策与地缘政治影响市场"
     ],
-    "recent_shift": "近期推特更关注具体期权交易案例和地缘政治事件，前期则更多提及宏观政策和市场信心。",
+    "recent_shift": "近期更加关注SpaceX等新标的的期权交易和地缘政治事件对市场的刺激",
     "representative_quotes": [
-      "RT @TheBronxViking: $MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.",
-      "RT @AnthonySandford: One of the absolute best pieces of flow you'll see on @unusual_whales with this $BRKB position being built over a couple session, followed by a big run up in price, and then multiple exits/sizing out over multiple sessions.",
-      "Trump has said: Stocks should go up."
+      "Contracts ran from roughly an average of 4.00 to a high of 19.30 for a max return of 382.50%",
+      "That’s a +3,758% return.🤯🤯🤯🤯 Position value around $2.2B. Total gain around $2.14B.",
+      "Trump has increasingly treated the stock market as a real-time referendum on his presidency"
     ],
-    "generated_at": "2026-06-20T22:01:03.340031+00:00"
+    "generated_at": "2026-06-20T23:13:21.134448+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
