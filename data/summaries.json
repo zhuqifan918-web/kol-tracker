@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$AAPL",
-      "$MU",
-      "$NVDA",
-      "$INTC"
+      "SPCX",
+      "AAPL",
+      "NVDA",
+      "MU",
+      "INTC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "人工智能对劳动力市场的影响及对科技公司的潜在红利",
-      "地缘政治风险解除（伊朗协议、霍尔木兹海峡）推动能源和航运恢复偏好",
-      "期权大型异动交易暗含的内幕交易或超规模收益",
-      "美联储政策不确定性和利率转向预期扰动市场情绪",
-      "科技巨头（Apple、Meta、SpaceX）的资本运作战术分化"
+      "美股新科技与AI驱动的市场动能",
+      "地缘政治风险缓解对能源与整体市场的利好",
+      "SpaceX与突破性公司上市引发的交易狂潮",
+      "美联储政策转向与利率预期对市场的影响",
+      "期权市场异常流动与个股催化剂交易机会"
     ],
-    "recent_shift": "近期转为关注伊朗协议后能源宽松和经济再通胀交易，同时应对美联储鹰派信号和股市高位震荡，对科技股（Apple、Intel & SpaceX）持分化观点。",
+    "recent_shift": "近期明显偏向看涨，尤其在SpaceX上市、伊朗协议推进及美联储前景改善的背景下，前期对通胀和美联储的担忧有所减弱。",
     "representative_quotes": [
-      "Wells Fargo Investment Institute raised its 2026 year-end S&P 500 target range to 7,800–8,000, up from its previous forecast of 7,400–7,600.",
-      "If you tailed this trade you’re up +3,758%. Hands down one of the biggest examples ever of how it can literally pay to follow the flow.",
-      "The Federal Reserve is widely expected to hold interest rates steady at its policy meeting next week, with investors pricing in at least one 25 basis point rate hike by the end of the year."
+      "WELLS FARGO RAISED S&P 500 TARGET TO 7800-8000, UP FROM 7400-7600",
+      "MICRON $MU $400 CALLS WERE ALERTED MARCH 31ST… TOTAL GAIN AROUND $2.14B. THREE MONTHS, MARCH TO JUNE, OVER $2 BILLION IN PROFIT ON ONE SINGLE POSITION.",
+      "TRADERS NOW PRICE IN TWO FED RATE HIKES BY THE END OF 1Q 2027"
     ],
-    "generated_at": "2026-06-20T17:52:53.832952+00:00"
+    "generated_at": "2026-06-20T19:10:43.179440+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

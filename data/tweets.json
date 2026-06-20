@@ -38,6 +38,25 @@
     }
   },
   {
+    "tweet_id": "2068349818238566429",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran closing Strait of Hormuz over Israeli attacks on Lebanon, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2068349818238566429",
+    "published_at": "2026-06-20T15:06:39+00:00",
+    "fetched_at": "2026-06-20T19:10:16.570961+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗关闭霍尔木兹海峡可能引发全球油价飙升，对能源市场及依赖中东石油的行业形成巨大冲击，整体市场情绪偏向负面。",
+      "translation": "突发：据Axios报道，伊朗因以色列对黎巴嫩的袭击而关闭霍尔木兹海峡。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068333296421842968",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
