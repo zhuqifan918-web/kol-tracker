@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2068425817143874006",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: One of the absolute best pieces of flow you'll see on @unusual_whales with this $BRKB position being built over a couple session, followed by a big run up in price, and then multiple exits/sizing out over multiple sessions. All starting June first and the trading ending on expiration on 6/18.\n\nContracts ran from roughly an average of 4.00 to a high of 19.30 for a max return of 382.50%\n\nWhale exited these contracts over multiple sessions at:\n6/12 at 8.66 for 116.50%\n6/12 at 7.99 for 99.75%\n6/16 at 14.6 for 265%\n6/18 at 6.91 for 72.75%\n\nA massive win for this trader. Deep dive video coming on this one tomorrow.",
+    "tweet_url": "https://x.com/unusual_whales/status/2068425817143874006",
+    "published_at": "2026-06-20T20:08:38+00:00",
+    "fetched_at": "2026-06-20T20:48:10.244309+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRKB"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了一位交易者在BRKB期权上的成功操作，从6月1日建仓到6月18日到期，通过分批买入和卖出获得高达382.5%的回报，显示了专业的交易策略。",
+      "translation": "这是@unusual_whales上展示的极佳交易流之一：$BRKB头寸经过几个交易时段建立，随后价格大幅上涨，再经过多个交易时段分批退出/调整规模。全部从6月1日开始，交易于6月18日到期结束。合约从均价约4.00美元涨至高点19.30美元，最大回报382.50%。该大户在多个时段退出这些合约：6月12日以8.66美元退出，回报116.50%；6月12日以7.99美元退出，回报99.75%；6月16日以14.6美元退出，回报265%；6月18日以6.91美元退出，回报72.75%。这位交易者大获全胜。明天将发布此交易的深度解析视频。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068378594582155428",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -179,6 +200,25 @@
       "direction": null,
       "summary": "该推文介绍了使用Unusual Whales工具分析期权流的方法，强调建立过滤噪音、理解隐含波动率、买卖盘紧迫性、成交量与未平仓合约对比、净权利金结构等系统化流程，而非盲目跟单。内容偏向教育性，未明确看多或看空具体标的。",
       "translation": "RT @AnthonySandford: 看到资金流和真正理解它之间有很大区别。\n在这个视频中，我使用@unusual_whales通过真实示例深入讲解如何解读期权流。\n我们涵盖：\n• 构建过滤噪音的筛选器\n• 隐含波动率为何重要\n• 买卖盘与紧迫性\n• 成交量与未平仓合约对比\n• 净权利金结构\n• 使用期权盈亏计算器\n• 解读合约质量\n\n这是关于建立一套流程，而非盲目追逐合约。\n观看地址：https://t.co/wlEGthkhGf\n如果你想尝试同样的@unusual_whales工具和方法，可通过此链接在年订阅或月订阅上节省10%：https://t.co/xNtvfoxDAN",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068121903429255250",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has increasingly treated the stock market as a real-time referendum on his presidency, citing market gains as justification for many consequential decisions.\n\nRead more: https://t.co/RDNSlYTHC1",
+    "tweet_url": "https://x.com/unusual_whales/status/2068121903429255250",
+    "published_at": "2026-06-20T00:01:00+00:00",
+    "fetched_at": "2026-06-20T20:48:24.994108+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普将股市表现与总统政绩挂钩，暗示市场上涨是其决策合理性的标志。这或提振投资者信心，但需注意政治化可能带来的市场波动风险。",
+      "translation": "特朗普越来越将股市视为其总统任期的实时公投，引用市场收益作为许多重要决策的依据。",
       "confidence": "medium"
     }
   },
@@ -682,6 +722,27 @@
       "summary": "该推文报道了美国期权市场创纪录的到期事件，8.3万亿美元期权将于6月18日到期，较2025年12月的纪录增长18%。这可能引发市场波动，但未明确指向特定资产方向。",
       "translation": "突发：美国期权市场有史以来最大规模的到期事件即将发生——8.3万亿美元期权将于6月18日到期，较2025年12月的7.1万亿美元纪录增长了18%。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2067654568956097011",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Some more position unwinding on the $BRKB as the contracts are set to expire at the end of the sessions. Contracts are currently 2% in the money. https://t.co/Mls9PJUj1Z",
+    "tweet_url": "https://x.com/unusual_whales/status/2067654568956097011",
+    "published_at": "2026-06-18T17:03:59+00:00",
+    "fetched_at": "2026-06-20T20:48:12.286018+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRKB"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到伯克希尔B的期权合约即将到期，目前约2%处于价内，存在部分头寸平仓活动。此信息对短线期权交易者具参考意义。",
+      "translation": "更多头寸平仓发生在$BRKB上，因为合约将在收盘时到期。合约目前价内2%。",
+      "confidence": "medium"
     }
   },
   {

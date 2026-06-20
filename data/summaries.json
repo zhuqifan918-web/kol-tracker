@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "AAPL",
-      "NVDA",
+      "BRKB",
       "MU",
-      "INTC"
+      "QURE",
+      "AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "美股新科技与AI驱动的市场动能",
-      "地缘政治风险缓解对能源与整体市场的利好",
-      "SpaceX与突破性公司上市引发的交易狂潮",
-      "美联储政策转向与利率预期对市场的影响",
-      "期权市场异常流动与个股催化剂交易机会"
+      "期权异常流动追踪",
+      "宏观经济与地缘政治对市场的影响",
+      "科技巨头与AI投资机会",
+      "能源与大宗商品价格波动",
+      "政策与监管变化对行业的影响"
     ],
-    "recent_shift": "近期明显偏向看涨，尤其在SpaceX上市、伊朗协议推进及美联储前景改善的背景下，前期对通胀和美联储的担忧有所减弱。",
+    "recent_shift": "近期更关注期权大额交易和地缘政治风险，对市场整体持乐观态度",
     "representative_quotes": [
-      "WELLS FARGO RAISED S&P 500 TARGET TO 7800-8000, UP FROM 7400-7600",
-      "MICRON $MU $400 CALLS WERE ALERTED MARCH 31ST… TOTAL GAIN AROUND $2.14B. THREE MONTHS, MARCH TO JUNE, OVER $2 BILLION IN PROFIT ON ONE SINGLE POSITION.",
-      "TRADERS NOW PRICE IN TWO FED RATE HIKES BY THE END OF 1Q 2027"
+      "“That’s a +3,758% return.🤯🤯🤯🤯”",
+      "“There is a big difference between seeing flow and actually understanding it.”",
+      "“Trump has said the stock market is roaring.”"
     ],
-    "generated_at": "2026-06-20T19:10:43.179440+00:00"
+    "generated_at": "2026-06-20T20:48:37.784725+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
