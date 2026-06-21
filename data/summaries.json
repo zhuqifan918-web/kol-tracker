@@ -25,50 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "BRKB",
-      "MU",
-      "QURE",
-      "AAPL"
+      "$SPCX",
+      "$MU",
+      "$BRKB",
+      "$QURE",
+      "$AAPL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能投资",
-      "地缘政治风险",
-      "期权大额交易",
-      "科技股领涨",
-      "Fed政策预期"
+      "AI技术变革与劳动力影响",
+      "地缘政治紧张中的能源与伊朗协议",
+      "太空探索与SpaceX的金融创新",
+      "美联储货币政策与利率预期",
+      "期权市场异常流动与高回报交易"
     ],
-    "recent_shift": "近期观点从关注降息转向关注Fed可能加息的鹰派信号，同时强调伊朗和解对能源和市场的积极影响。",
+    "recent_shift": "近期明显加强了对SpaceX相关交易和期权流动的报道，同时对地缘政治事件（如伊朗协议）的关注度上升，并开始强调美联储加息预期。",
     "representative_quotes": [
-      "RT @AnthonySandford: One of the absolute best pieces of flow you'll see on @unusual_whales with this $BRKB position being built over a couple session, followed by a big run up in price, and then multiple exits/sizing out over multiple sessions. All starting June first and the trading ending on expiration on 6/18.",
-      "RT @TheBronxViking: $MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆",
-      "BREAKING: Traders now price in two Fed rate hikes by the end of 1Q 2027, per Bloombert"
+      "One of the absolute best pieces of flow you'll see on @unusual_whales with this $BRKB position being built over a couple session, followed by a big run up in price, and then multiple exits/sizing out over multiple sessions.",
+      "Now this is unusual. Just before UniQure, $QURE, announced it was seeking FDA approval for Huntington’s disease gene therapy, there was huge unusual $QURE $35 calls... $QURE went up 78%.",
+      "The S&P500 can hit 9,000 this year, per Evercore."
     ],
-    "generated_at": "2026-06-21T01:46:15.579353+00:00"
+    "generated_at": "2026-06-21T10:26:26.174289+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SK hynix",
-      "$MU",
-      "$SPCX",
-      "$NVDA",
-      "$NOK"
+      "SK하이닉스",
+      "MU",
+      "NVDA",
+      "SPCX",
+      "NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储行业是AI革命的终极正解，长期短缺至2030年",
-      "海力士美股ADR上市将带来价值重估",
-      "马斯克SPCX与诺基亚合作构建太空算力基站",
-      "存储三巨头产能提前售罄，业绩确定性高",
-      "长期持有优于短线交易，强调信仰和耐心"
+      "存储是AI革命的核心和终极答案",
+      "海力士美股ADR将带来重估机会",
+      "长期持有和捏住核心资产",
+      "SPCX和太空算力是未来增长点",
+      "市场恐慌提供抄底机会"
     ],
-    "recent_shift": "近期从广泛看好科技股转向极端聚焦存储（海力士），并强调45天内的确定性机会，同时因市场波动和SPCX IPO抽血，短期看跌情绪有所增加，但长期依然坚定看多。",
+    "recent_shift": "最近观点更集中于海力士未来45天的确定性机会，包括ADR上线、HBM4送样和Q2财报，语气更加强烈，强调仓位集中和坚定持有。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
       "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
-      "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有没比存储这波更稳的生意了。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住AI的俩个蛋蛋。",
+      "牢牢抓紧内存，就是捏住了ai的蛋蛋🥚🥚"
     ],
-    "generated_at": "2026-06-20T10:45:35.653630+00:00"
+    "generated_at": "2026-06-21T10:26:22.315044+00:00"
   }
 }
