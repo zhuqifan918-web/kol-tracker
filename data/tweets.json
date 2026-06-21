@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2068821374605656376",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: Market Tide is one of the @unusual_whales tools I use the most when trying to understand broader market positioning.\n\nThis video is a beginner-friendly walkthrough of what Market Tide is showing and how to read it.\n\nInstead of only looking at price, Market Tide helps show what is happening under the surface.\n\nI break down:\n• Aggregated call premium\n• Aggregated put premium\n• How positioning shifts during the day\n• What premium changes can mean\n• How to customize the dashboard\n• How to use Market Tide with other tools\n\nThis is a good one if you want to understand market sentiment beyond just candles.\n\nIt helps give context to whether options flow is leaning more bullish, bearish, or mixed.\n\nWatch here:\nhttps://t.co/3OtVFD2pa0\n\nIf you want to follow along with the same @unusual_whales data, you can save 10% on the annual or monthly subscription here:\nhttps://t.co/xNtvfox5Lf",
+    "tweet_url": "https://x.com/unusual_whales/status/2068821374605656376",
+    "published_at": "2026-06-21T22:20:27+00:00",
+    "fetched_at": "2026-06-21T23:01:29.161648+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了Unusual Whales工具的Market Tide功能，用于分析市场期权流向和持仓变化，帮助理解市场情绪（看涨、看跌或混合），并提供订阅折扣。未提及具体投资建议或标的。",
+      "translation": "RT @AnthonySandford: Market Tide是我在试图理解更广泛市场持仓时最常用的@unusual_whales工具之一。\n这段视频是一个入门教程，讲解Market Tide显示的内容以及如何解读。\n而不是只看价格，Market Tide帮助展示表面之下发生了什么。\n我分解了：\n• 聚合的看涨期权溢价\n• 聚合的看跌期权溢价\n• 盘中持仓如何变化\n• 溢价变化的含义\n• 如何自定义仪表盘\n• 如何将Market Tide与其他工具结合使用\n如果你想了解价格蜡烛图之外的市场情绪，这个视频值得一看。\n它有助于判断期权流向是更看涨、看跌还是混合。\n观看地址：https://t.co/3OtVFD2pa0\n如果你想使用相同的@unusual_whales数据，可以通过以下链接订阅年付或月付享受10%折扣：https://t.co/xNtvfox5Lf",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068786280893174214",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
