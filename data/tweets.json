@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2068651355422814294",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "That’s a misconception:\n\n$SIVE is the laser supplier for next gen architectures, not just CPO scale up. \n\nPluggable, scale out CPO, scale up CPO, NPO, etc. \n\n- Sivers and $JBL went god-mode and developed 1.6T optical transceivers with CW lasers.\n\nEffectively designing around the EML bottlenecks, and even made things more power efficient. \n\nFrom quotes from Jabil management they created a “relatively dramatic moat”.\n\nSo for the next gen of 1.6T pluggable transceivers, Sivers seems immediately used.\n\nMarkets missed this nuance too: after Jabil’s announcement, other pluggable players reached out, and SIVE is working with them now (prob codevelopment, qualification stage).\n\nThere’s not too many players that build optical transceivers that aren’t vertically integrated like Lumentum (think: Innolight/eoptolink, and maybe others).\n\nSo these are active developments, just not public material yet and could be a new press release anytime.\n\n- for CPO scale out which happens H2 2026 onward like $POET, $SIVE is a laser supplier for those players.\n\n- scale up CPO is h2 2027, from Ayar and Nvidia’a NVLink CPO ecosystem and that’s the main volume ramp across optical players.\n\nBut this is where $SIVE looks like they mog every other player from supply chain mapping.\n\nSince they’ve likely been working + designed in with $MRVL Celestial, Lightmatter, Lightelligence and the others since they were small way back when.\n\nOn top of things like this:\n\nFor foundries like $GFS, $SIVE is the reference laser.\n\nNot even including massive companies like O-Net building ELS with $SIVE, likely for the Asian hyperscalers supply chains.\n\nThis is why $SIVE is by far my favorite laser chokepoint long.\n\nFeels like they’re everywhere in new optical architectures starting beginning of 2027.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068651355422814294",
+    "published_at": "2026-06-21T11:04:51+00:00",
+    "fetched_at": "2026-06-21T12:23:47.963486+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "JBL",
+        "POET",
+        "MRVL",
+        "GFS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好Sivers（$SIVE）在下一代光学架构中的核心地位，认为其不仅是CPO扩展的激光器供应商，还已与Jabil开发1.6T光收发器，并与其他插拔式厂商合作。预计从2027年起，Sivers将成为多个光学架构的关键瓶颈，具有长期投资价值。",
+      "translation": "这是一个误解：$SIVE不仅是CPO规模扩展的激光器供应商，更是下一代架构的激光器供应商。包括可插拔、CPO规模扩展、CPO规模升级、NPO等。Sivers和$JBL已经进入“神级模式”，开发了采用连续波激光器的1.6T光收发器，有效绕过了EML瓶颈，甚至提高了能效。根据Jabil管理层的说法，他们创造了“相对显著的护城河”。因此，对于下一代1.6T可插拔收发器，Sivers似乎立即被采用。市场也忽略了这一点：Jabil公告后，其他可插拔厂商已联系Sivers，目前正在合作（可能处于共同开发、认证阶段）。制造光收发器的厂商不多，且不像Lumentum那样垂直整合（例如Innolight/eoptolink等）。这些都是正在进行的开发，只是尚未公开，可能随时有新的新闻稿。对于CPO规模扩展（2026年下半年开始），如$POET，$SIVE是这些玩家的激光器供应商。CPO规模升级在2027年下半年，来自Ayar和Nvidia的NVLink CPO生态系统，这是光学玩家的主要量增。但在这里，$SIVE似乎从供应链映射上领先其他所有玩家，因为他们很可能早在与$MRVL Celestial、Lightmatter、Lightelligence等合作时就已参与设计。此外，对于$GFS等代工厂，$SIVE是参考激光器。甚至不包括O-Net等大型公司正在与$SIVE共建ELS，可能面向亚洲超大规模数据中心供应链。这就是为什么$SIVE是我最看好的激光瓶颈长期投资标的。感觉从2027年初开始，他们在新的光学架构中无处不在。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068611165832540541",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit 股神，Sivers的DFB激光阵列因为是波分复用，又是多通道，算下来速率好高，只在scale-up才用得上吧? 会不会大规模量产要很久很久？中间可能有各种风险。",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068611165832540541",
+    "published_at": "2026-06-21T08:25:09+00:00",
+    "fetched_at": "2026-06-21T12:23:53.578510+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "用户询问Sivers的DFB激光阵列因采用波分复用和多通道技术，速率高但可能仅适用于规模化部署，担心大规模量产周期长且存在风险，暗示对该技术商业化前景持谨慎态度。",
+      "translation": "@aleabitoreddit 股神，Sivers的DFB激光阵列因为是波分复用，又是多通道，算下来速率好高，只在scale-up才用得上吧? 会不会大规模量产要很久很久？中间可能有各种风险。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068591923288568053",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
