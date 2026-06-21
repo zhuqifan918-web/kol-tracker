@@ -28,24 +28,22 @@
       "$SPCX",
       "$NVDA",
       "$AAPL",
-      "$MU",
-      "$INTC"
+      "$INTC",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与半导体行业主导市场",
-      "地缘政治与能源价格波动",
-      "美联储政策与利率预期",
-      "期权交易与杠杆产品活跃",
-      "市场流动性及机构资金动向"
+      "AI泡沫与半导体主导",
+      "地缘政治与能源危机",
+      "期权鲸鱼交易策略"
     ],
-    "recent_shift": "从关注美联储降息转向加息预期，同时地缘政治紧张局势缓解后市场情绪转暖。",
+    "recent_shift": "近期观点明显转向关注SpaceX IPO及其期权狂热，同时强调美国-伊朗协议对油价的短期利好。",
     "representative_quotes": [
-      "AI-linked stocks now represent a record 45% of the S&P 500",
-      "The S&P500 can hit 9,000 this year, per Evercore.",
+      "The token hit a peak price of $75.35 and has since collapsed to around $2.38, a decline of nearly 97%.",
+      "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
       "There is a big difference between seeing flow and actually understanding it."
     ],
-    "generated_at": "2026-06-21T21:51:13.368560+00:00"
+    "generated_at": "2026-06-21T23:01:44.884073+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
