@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2068591923288568053",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "现在海力士276万韩元，距离390万韩元重估市值还有50%空间，这一段市场重估的钱会在45天内给捏住海力士的人。美股adr上线之日就是重估完成之时，机构不会给散户太多利润空间，就跟他们操作新股ipo一样，吃到极致的估值再卖给散户。\n\nAI不需要折腾太多瞎搞，只需要🤏捏住AI的蛋蛋。\n我现在的仓位一半是海里，另一半是2x海力士，只有1%现金仓位。\n如果算上机动资金则是我预留了额外25%的钱在市场发生动荡的情况下心态能平和游刃应对，经历过今年三月黑天鹅，我改变了以往完全彻底孤注一掷，现在始终给自己一个发生暴跌情况下抄底的机会。",
+    "tweet_url": "https://x.com/xiaomustock/status/2068591923288568053",
+    "published_at": "2026-06-21T07:08:41+00:00",
+    "fetched_at": "2026-06-21T10:25:52.350508+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者看好海力士（SK Hynix）股价，认为当前276万韩元距离390万韩元重估市值有50%空间，美股ADR上线即完成重估，机构不会给散户太多利润。作者仓位一半是海力士，另一半是2倍杠杆海力士，预留25%现金应对暴跌。",
+      "translation": "现在海力士276万韩元，距离390万韩元重估市值还有50%空间，这一段市场重估的钱会在45天内给捏住海力士的人。美股adr上线之日就是重估完成之时，机构不会给散户太多利润空间，就跟他们操作新股ipo一样，吃到极致的估值再卖给散户。\n\nAI不需要折腾太多瞎搞，只需要🤏捏住AI的蛋蛋。\n我现在的仓位一半是海里，另一半是2x海力士，只有1%现金仓位。\n如果算上机动资金则是我预留了额外25%的钱在市场发生动荡的情况下心态能平和游刃应对，经历过今年三月黑天鹅，我改变了以往完全彻底孤注一掷，现在始终给自己一个发生暴跌情况下抄底的机会。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068579389722546529",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -44,6 +63,27 @@
     }
   },
   {
+    "tweet_id": "2068514490128183788",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta's recent reorganization to focus on AI has been met with internal dissatisfaction.\n\nRead more: https://t.co/lOCTQTZkhp",
+    "tweet_url": "https://x.com/unusual_whales/status/2068514490128183788",
+    "published_at": "2026-06-21T02:01:00+00:00",
+    "fetched_at": "2026-06-21T10:26:00.344767+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "内部不满情绪可能影响Meta在AI领域重组后的执行效率和员工士气，对股价构成负面因素。",
+      "translation": "Meta近期为聚焦人工智能而进行的重组引发了内部不满。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068501485546303853",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -61,6 +101,25 @@
       "direction": "bullish",
       "summary": "推文提到NVIDIA推动器官芯片领域爆发式增长，暗示该领域投资机会，但用户需自行研究。",
       "translation": "这是我第一次听到‘器官芯片’这个名词，听起来有点恶心。显然，由于英伟达的生物医学推动，它正经历爆发式增长？看来这周末又要钻研一个领域了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068499390554141093",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The document ends active hostilities, reopens the Strait of Hormuz, and starts a 60-day clock to negotiate a final nuclear deal.\n\nRead more: https://t.co/QhL4ULSsQI",
+    "tweet_url": "https://x.com/unusual_whales/status/2068499390554141093",
+    "published_at": "2026-06-21T01:01:00+00:00",
+    "fetched_at": "2026-06-21T10:26:03.866085+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到结束敌对行动、重开霍尔木兹海峡并启动60天核谈判，暗示地缘政治紧张局势可能缓解，对原油供应和全球市场情绪有潜在影响。投资者应关注该地区相关资产的风险变化。",
+      "translation": "该文件结束了敌对行动，重新开放霍尔木兹海峡，并启动了60天的最后核协议谈判倒计时。",
       "confidence": "medium"
     }
   },
@@ -5412,6 +5471,25 @@
       "summary": "该推文强调，真正理解并坚信自己买入原因的投资者，应在股价下跌时兴奋并加仓，而非割肉。反之，跟风者因缺乏理解而恐慌抛售，不适合炒股。整体传递看多、长期持有的投资理念。",
       "translation": "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。跌了反而不敢买还割肉那说明根本不懂，怀疑自己买入的股票那只是在跟风，不适合炒股。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2048563211813687516",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士韩国开盘爆拉5%\n等市场把存储股从周期股定为成长股，\n海力士股价能翻三倍到390万韩元。 https://t.co/7gPhrCHhZt",
+    "tweet_url": "https://x.com/xiaomustock/status/2048563211813687516",
+    "published_at": "2026-04-27T00:41:44+00:00",
+    "fetched_at": "2026-06-21T10:25:47.835287+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "海力士股价开盘大涨5%，市场可能重新评估存储股从周期股转为成长股，目标股价翻三倍至390万韩元。",
+      "translation": "海力士韩国开盘暴涨5%，等市场把存储股从周期股定为成长股，海力士股价能翻三倍到390万韩元。",
+      "confidence": "medium"
     }
   },
   {
