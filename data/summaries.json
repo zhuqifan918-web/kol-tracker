@@ -3,49 +3,49 @@
     "focus_tickers": [
       "$SIVE",
       "$AAOI",
+      "$LITE",
       "$LPK",
-      "$MU",
-      "$LITE"
+      "$IQE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与CPO供应链瓶颈",
-      "内存超级周期",
-      "美国本土化AI基础设施建设",
-      "Nav折扣与公司治理套利",
-      "上游材料与设备垄断"
+      "光子学（photonics）超级周期",
+      "AI供应链瓶颈（激光、衬底、外延片）",
+      "西方本土化制造（美国优先、欧洲半导体自主）",
+      "内存结构性增长（DRAM/NAND）",
+      "Neocloud与AI基础设施"
     ],
-    "recent_shift": "近两周内，该账号对光子学/光学领域（如$SIVE、$AAOI）的乐观程度显著加强，认为市场尚未充分定价2027年的量产爬坡，且AMD等大厂正在抢购CW激光产能。",
+    "recent_shift": "近期更强调光学和内存仍处早期，激光瓶颈和Co-Packaged Optics（CPO）是2027年后的核心催化剂。",
     "representative_quotes": [
-      "$SIVE is the laser supplier for next gen architectures, not just CPO scale up.",
-      "This is why $SIVE is by far my favorite laser chokepoint long.",
-      "I haven't seen such fast revenue ramp since $NBIS."
+      "$SIVE is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc.",
+      "If you see a bunch of projections on memory names... Might be a good idea to think independently... Probably same thing now with optical names.",
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-21T12:24:58.963060+00:00"
+    "generated_at": "2026-06-21T20:11:05.459034+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "AAPL",
-      "META",
       "NVDA",
+      "AMZN",
+      "AAPL",
+      "INTC",
       "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI与半导体主导市场",
-      "地缘政治缓和与能源流动",
-      "杠杆与期权交易活跃",
-      "宏观经济与利率预期调整",
-      "监管政策变化对行业影响"
+      "AI主导市场",
+      "地缘政治风险与机会",
+      "期权大额交易策略",
+      "科技巨头动向",
+      "货币政策与通胀"
     ],
-    "recent_shift": "近期关注点从地缘冲突转向AI投资和宏观政策，对股市表现愈发乐观，强调大型科技股和期权交易机会。",
+    "recent_shift": "从早期伊朗危机担忧转向近期积极经济数据和政策乐观情绪",
     "representative_quotes": [
       "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
-      "Wells Fargo Investment Institute set its 2027 year-end S&P 500 target range at 8,600–8,800.",
-      "A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever"
+      "Trump says US might 'take over' Strait of Hormuz if Iran deal isn't reached",
+      "There is a big difference between seeing flow and actually understanding it."
     ],
-    "generated_at": "2026-06-21T18:02:51.601515+00:00"
+    "generated_at": "2026-06-21T20:11:08.415687+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
