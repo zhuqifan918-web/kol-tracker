@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2068786280893174214",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$165 billion stock selling could hit markets next week, per JPMorgan",
+    "tweet_url": "https://x.com/unusual_whales/status/2068786280893174214",
+    "published_at": "2026-06-21T20:01:00+00:00",
+    "fetched_at": "2026-06-21T20:10:41.856095+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通警告称，下周市场可能面临1650亿美元的股票抛售压力，这暗示市场可能承压下行。",
+      "translation": "据摩根大通，下周市场可能面临1650亿美元的股票抛售。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068771181725884445",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, CEO Huang has said that the biggest mistake people make about AI is seeing it as a threat",
+    "tweet_url": "https://x.com/unusual_whales/status/2068771181725884445",
+    "published_at": "2026-06-21T19:01:00+00:00",
+    "fetched_at": "2026-06-21T20:10:43.842301+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "黄仁勋认为人们最大的错误是将AI视为威胁，这暗示AI发展前景积极，可能对NVDA股价有正面影响。",
+      "translation": "英伟达CEO黄仁勋表示，人们对AI最大的错误是将其视为威胁。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068761348197232759",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump says US might \"take over\" Strait of Hormuz if Iran deal isn't reached",
+    "tweet_url": "https://x.com/unusual_whales/status/2068761348197232759",
+    "published_at": "2026-06-21T18:21:55+00:00",
+    "fetched_at": "2026-06-21T20:10:46.068277+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普威胁接管霍尔木兹海峡，可能引发中东地缘政治风险，影响全球原油供应和航运安全，对能源板块和风险资产构成利空。",
+      "translation": "特朗普表示，如果伊朗协议未能达成，美国可能会'接管'霍尔木兹海峡。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068740982590587187",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -3466,6 +3525,27 @@
       "summary": "伊朗可能在年底前放弃铀浓缩，地缘风险缓和预期或提振全球市场情绪，对原油等避险资产形成压力，但利好风险资产如股票和加密货币。",
       "translation": "根据Polymarket数据，伊朗在12月31日前同意停止铀浓缩的可能性为60%。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2066718742231343411",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Optoelectronics 138080",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2066718742231343411",
+    "published_at": "2026-06-16T03:05:20+00:00",
+    "fetched_at": "2026-06-21T20:09:58.126904+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "138080"
+      ],
+      "direction": "neutral",
+      "summary": "推特提到了光电子学主题的股票代码138080，但未提供明确的多空方向或详细分析。",
+      "translation": "关于光电子学 138080",
+      "confidence": "low"
     }
   },
   {
