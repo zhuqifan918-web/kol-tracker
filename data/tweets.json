@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2068501485546303853",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "This is the first time I’ve heard the name organ-on-chip and it sounds kinda gross.\n\nApparently this is going through an explosive growth cycle from Nvidia’s biomedical push?\n\nAnother rabbit hole for the weekend I guess. https://t.co/n9NIUUs2qm",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068501485546303853",
+    "published_at": "2026-06-21T01:09:19+00:00",
+    "fetched_at": "2026-06-21T01:45:11.228927+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "推文提到NVIDIA推动器官芯片领域爆发式增长，暗示该领域投资机会，但用户需自行研究。",
+      "translation": "这是我第一次听到‘器官芯片’这个名词，听起来有点恶心。显然，由于英伟达的生物医学推动，它正经历爆发式增长？看来这周末又要钻研一个领域了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068484291072602390",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Interest-rate swaps linked to Fed meetings suggest a growing consensus for two quarter-point increases by March 2027.\n\nRead more: https://t.co/LKucz1uAu2",
+    "tweet_url": "https://x.com/unusual_whales/status/2068484291072602390",
+    "published_at": "2026-06-21T00:01:00+00:00",
+    "fetched_at": "2026-06-21T01:45:55.349269+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "市场预期美联储将在2027年3月前两次加息共50基点，这可能收紧金融条件，对股票和加密货币等风险资产构成压力。",
+      "translation": "与美联储会议相关的利率掉期表明，市场对到2027年3月前两次加息25个基点的共识日益增强。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068454092163481701",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
