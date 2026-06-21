@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2068740982590587187",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AI-linked stocks now represent a record 45% of the S&amp;P 500, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2068740982590587187",
+    "published_at": "2026-06-21T17:01:00+00:00",
+    "fetched_at": "2026-06-21T18:02:34.422458+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出人工智能相关股票在标普500指数中的占比达到创纪录的45%，表明市场对AI板块的关注度极高，隐含看多情绪。",
+      "translation": "据雅虎财经报道，与人工智能相关的股票目前占标普500指数的比例已达到创纪录的45%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068680584856322295",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
