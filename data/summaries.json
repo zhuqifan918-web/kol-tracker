@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$AAPL",
-      "$INTC",
-      "$META",
-      "$MU"
+      "SPCX",
+      "AAPL",
+      "META",
+      "NVDA",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治风险缓和与原油流动恢复",
-      "AI投资热潮与半导体主导地位",
-      "期权大额交易与市场情绪跟踪"
+      "AI与半导体主导市场",
+      "地缘政治缓和与能源流动",
+      "杠杆与期权交易活跃",
+      "宏观经济与利率预期调整",
+      "监管政策变化对行业影响"
     ],
-    "recent_shift": "近期对美联储加息预期和降息推迟的担忧增加，但整体仍看好股市上涨。",
+    "recent_shift": "近期关注点从地缘冲突转向AI投资和宏观政策，对股市表现愈发乐观，强调大型科技股和期权交易机会。",
     "representative_quotes": [
-      "Semiconductor stocks now account for a record 18.8% of the S&P 500’s market cap, per Bloomberg",
-      "Trump has said: Stocks should go up.",
-      "Interest-rate swaps linked to Fed meetings suggest a growing consensus for two quarter-point increases by March 2027."
+      "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
+      "Wells Fargo Investment Institute set its 2027 year-end S&P 500 target range at 8,600–8,800.",
+      "A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever"
     ],
-    "generated_at": "2026-06-21T14:39:38.307241+00:00"
+    "generated_at": "2026-06-21T18:02:51.601515+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
