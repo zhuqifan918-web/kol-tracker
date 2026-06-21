@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2068680584856322295",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Semiconductor stocks now account for a record 18.8% of the S&amp;P 500’s market cap, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2068680584856322295",
+    "published_at": "2026-06-21T13:01:00+00:00",
+    "fetched_at": "2026-06-21T14:39:22.998276+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "半导体股在标普500指数中的市值占比创下18.8%的历史新高，表明该行业市场主导地位增强，可能对相关投资情绪形成支撑。",
+      "translation": "据彭博社报道，半导体股目前占标普500指数市值的18.8%，创下历史新高。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068651355422814294",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

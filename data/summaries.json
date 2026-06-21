@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "$SPCX",
-      "$MU",
-      "$BRKB",
-      "$QURE",
-      "$AAPL"
+      "$AAPL",
+      "$INTC",
+      "$META",
+      "$MU"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI技术变革与劳动力影响",
-      "地缘政治紧张中的能源与伊朗协议",
-      "太空探索与SpaceX的金融创新",
-      "美联储货币政策与利率预期",
-      "期权市场异常流动与高回报交易"
+      "地缘政治风险缓和与原油流动恢复",
+      "AI投资热潮与半导体主导地位",
+      "期权大额交易与市场情绪跟踪"
     ],
-    "recent_shift": "近期明显加强了对SpaceX相关交易和期权流动的报道，同时对地缘政治事件（如伊朗协议）的关注度上升，并开始强调美联储加息预期。",
+    "recent_shift": "近期对美联储加息预期和降息推迟的担忧增加，但整体仍看好股市上涨。",
     "representative_quotes": [
-      "One of the absolute best pieces of flow you'll see on @unusual_whales with this $BRKB position being built over a couple session, followed by a big run up in price, and then multiple exits/sizing out over multiple sessions.",
-      "Now this is unusual. Just before UniQure, $QURE, announced it was seeking FDA approval for Huntington’s disease gene therapy, there was huge unusual $QURE $35 calls... $QURE went up 78%.",
-      "The S&P500 can hit 9,000 this year, per Evercore."
+      "Semiconductor stocks now account for a record 18.8% of the S&P 500’s market cap, per Bloomberg",
+      "Trump has said: Stocks should go up.",
+      "Interest-rate swaps linked to Fed meetings suggest a growing consensus for two quarter-point increases by March 2027."
     ],
-    "generated_at": "2026-06-21T10:26:26.174289+00:00"
+    "generated_at": "2026-06-21T14:39:38.307241+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
