@@ -59,6 +59,25 @@
     }
   },
   {
+    "tweet_id": "2068750262915993808",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump to Fox News: If Iran closes the Strait of Hormuz, Iranian negotiators will not be able to return to their country",
+    "tweet_url": "https://x.com/unusual_whales/status/2068750262915993808",
+    "published_at": "2026-06-21T17:37:52+00:00",
+    "fetched_at": "2026-06-21T21:50:57.547829+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文涉及地缘政治风险，可能对全球原油供应造成冲击，从而推高油价并影响相关市场。投资者需警惕因冲突导致的能源板块波动。",
+      "translation": "特朗普对福克斯新闻表示：如果伊朗关闭霍尔木兹海峡，伊朗谈判代表将无法返回自己的国家。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068740982590587187",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1331,6 +1350,25 @@
       "summary": "该推文嘲讽Jim Cramer（知名财经评论员）的“反向指标”效应，指出连$SPCX这种ETF都难以承受其公开看好的“祝福”，暗示被其提及的标的通常表现不佳，属于市场情绪的反向信号。",
       "translation": "我认为吉姆·克莱默定律应该被载入史册。就连$SPCX也无法承受他的祝福。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2067602758988120464",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran has published the fully executed Memorandum of Understanding with the US, with the agreement now officially in force.",
+    "tweet_url": "https://x.com/unusual_whales/status/2067602758988120464",
+    "published_at": "2026-06-18T13:38:06+00:00",
+    "fetched_at": "2026-06-21T21:51:04.865828+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "伊朗与美国签署谅解备忘录可能影响地缘政治局势，进而间接影响市场情绪和特定资产（如石油、黄金）。建议关注后续进展对能源和避险资产价格的影响。",
+      "translation": "突发：伊朗公布了与美国签署的、已完全执行的谅解备忘录，该协议现已正式生效。",
+      "confidence": "low"
     }
   },
   {
