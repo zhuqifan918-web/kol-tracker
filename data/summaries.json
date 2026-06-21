@@ -5,45 +5,47 @@
       "AAOI",
       "LPK",
       "LITE",
-      "AXTI"
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与硅光供应链",
-      "AI基础设施与内存周期",
-      "欧洲半导体投资机会",
-      "供应链瓶颈与地缘博弈",
-      "美国本土制造与国家安全"
+      "光子学与共封装光学",
+      "记忆体超级周期",
+      "美股NAV折价与资产解锁",
+      "AI供应链瓶颈与主权供应链",
+      "欧洲半导体受益者"
     ],
-    "recent_shift": "从早期小盘光学股（如AAOI、AXTI）的挖掘转向更关注欧洲半导体（如SIVE、XFAB）及供应链瓶颈（如钨、InP衬底）的深度分析。",
+    "recent_shift": "最近更加集中于光学和记忆体主题，强调早期进入和前瞻性定价，同时关注欧洲半导体公司的低估机会。",
     "representative_quotes": [
-      "Sivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.",
-      "I do think AI is the most disruptive technology in human history. To the level of agricultural or industrial revolution.",
-      "Even $POET buys $SIVE lasers and Poet is about the same valuation just off having one $50m purchase agreement."
+      "$SIVE is the next SIVE. Don’t think you’ll find another company that’s qualified and likely primary/sole source with $JBL and other pluggable hyperscaler suppliers Ayar and the $NVDA NVLink CPO ecosystems.",
+      "AI has broken that cycle. With the same 'Made in America' and White House backing like $INTC: Don't overthink things with Micron.",
+      "Photonics is still probably the earliest out of the three. But I can see Nebius end up like AWS one day."
     ],
-    "generated_at": "2026-06-20T12:25:06.257507+00:00"
+    "generated_at": "2026-06-21T01:46:11.952159+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$BRKB",
-      "$MU",
-      "$QURE",
-      "$AAPL"
+      "SPCX",
+      "BRKB",
+      "MU",
+      "QURE",
+      "AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "市场看涨情绪高涨",
-      "期权交易异常活跃",
-      "政策与地缘政治影响市场"
+      "人工智能投资",
+      "地缘政治风险",
+      "期权大额交易",
+      "科技股领涨",
+      "Fed政策预期"
     ],
-    "recent_shift": "近期更加关注SpaceX等新标的的期权交易和地缘政治事件对市场的刺激",
+    "recent_shift": "近期观点从关注降息转向关注Fed可能加息的鹰派信号，同时强调伊朗和解对能源和市场的积极影响。",
     "representative_quotes": [
-      "Contracts ran from roughly an average of 4.00 to a high of 19.30 for a max return of 382.50%",
-      "That’s a +3,758% return.🤯🤯🤯🤯 Position value around $2.2B. Total gain around $2.14B.",
-      "Trump has increasingly treated the stock market as a real-time referendum on his presidency"
+      "RT @AnthonySandford: One of the absolute best pieces of flow you'll see on @unusual_whales with this $BRKB position being built over a couple session, followed by a big run up in price, and then multiple exits/sizing out over multiple sessions. All starting June first and the trading ending on expiration on 6/18.",
+      "RT @TheBronxViking: $MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆",
+      "BREAKING: Traders now price in two Fed rate hikes by the end of 1Q 2027, per Bloombert"
     ],
-    "generated_at": "2026-06-20T23:13:21.134448+00:00"
+    "generated_at": "2026-06-21T01:46:15.579353+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
