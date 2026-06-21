@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "AAOI",
       "LPK",
-      "LITE",
+      "AAOI",
+      "SNDK",
       "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与共封装光学",
-      "记忆体超级周期",
-      "美股NAV折价与资产解锁",
-      "AI供应链瓶颈与主权供应链",
-      "欧洲半导体受益者"
+      "光子学与激光供应链瓶颈",
+      "内存与存储超级周期",
+      "量子计算与半导体设备",
+      "AI基础设施与民族主义供应链",
+      "资产折价与价值解锁"
     ],
-    "recent_shift": "最近更加集中于光学和记忆体主题，强调早期进入和前瞻性定价，同时关注欧洲半导体公司的低估机会。",
+    "recent_shift": "早期更多关注通用AI主题和大型科技公司，现在集中挖掘小众科技垄断性公司和资产折价机会。",
     "representative_quotes": [
-      "$SIVE is the next SIVE. Don’t think you’ll find another company that’s qualified and likely primary/sole source with $JBL and other pluggable hyperscaler suppliers Ayar and the $NVDA NVLink CPO ecosystems.",
-      "AI has broken that cycle. With the same 'Made in America' and White House backing like $INTC: Don't overthink things with Micron.",
-      "Photonics is still probably the earliest out of the three. But I can see Nebius end up like AWS one day."
+      "I think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+      "Just that claim of 80% is staggering and my personal expectation was markets might price it in eventually as they volume ramp.",
+      "By investing in the critical companies to give them more capex spend for FAU capacity / yields... it builds up Western supply chains to make what's technologically challenging, possible."
     ],
-    "generated_at": "2026-06-21T01:46:11.952159+00:00"
+    "generated_at": "2026-06-21T06:44:42.723094+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

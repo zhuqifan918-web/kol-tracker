@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2068579389722546529",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Apparently gym bros are the new hyperscalers.\n\nThey’ve created a new bottleneck with whey protein?\n\nNow there’s $SNDK style price hikes.\n\nMaybe creatine is next with shortages. https://t.co/YY5waMXzKH",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068579389722546529",
+    "published_at": "2026-06-21T06:18:53+00:00",
+    "fetched_at": "2026-06-21T06:43:44.653226+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK"
+      ],
+      "direction": "neutral",
+      "summary": "推文调侃健身族成为新“超大规模使用者”，导致乳清蛋白短缺和类似SanDisk的涨价，并暗示肌酸可能成为下一个短缺品。虽未直接给出投资建议，但指出了蛋白粉和健身补剂市场的供需变化。",
+      "translation": "显然，健身老铁们成了新的“超大规模使用者”。他们制造了乳清蛋白的新瓶颈？现在出现了类似$SNDK的涨价。也许肌酸会是下一个短缺品。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2068537478131118438",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Trump administration is prob realizing now that the key to winning Trade Wars:\n\nIs through frontier supply chains like Quantum, AI, Robotics.\n\nNot cheap Nike sock exports.\n\nWith $ASML, $TOWA, $LPK, Ajinomoto,  \nover in Japan, EU, TW, Korea, and others holding all the cards…\n\nSince each country holds different monopolies and chokepoints needed to make each industry work.\n\nWhich all happens to be OUTSIDE the US.\n\nTariffing all our partners turned out to be not a great idea. \n\nBut not too late imo to repair relations and weaponize global supply chains through partners if Trump wants better trade deals.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068537478131118438",
+    "published_at": "2026-06-21T03:32:21+00:00",
+    "fetched_at": "2026-06-21T06:43:51.845505+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ASML",
+        "TOWA",
+        "LPK"
+      ],
+      "direction": "bearish",
+      "summary": "推文认为美国在贸易战中依赖盟友的尖端供应链（如量子计算、AI、机器人）而非低端出口，且关键垄断在境外，关税策略可能效果不佳。建议修复关系并利用全球供应链争取更好协议。",
+      "translation": "特朗普政府现在可能意识到，赢得贸易战的关键在于前沿供应链，如量子计算、AI、机器人，而不是廉价的耐克袜子出口。ASML、TOWA、LPK、味之素等公司分别在日本、欧盟、台湾、韩国等地持有制造各行业所需的不同垄断和瓶颈环节，而这些均不在美国境内。对合作伙伴加征关税结果并不理想。不过，如果特朗普想达成更好的贸易协议，现在修复关系并利用全球供应链作为武器还为时不晚。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068501485546303853",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
