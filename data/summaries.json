@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AMZN",
-      "AAPL",
-      "INTC",
-      "MU"
+      "$SPCX",
+      "$NVDA",
+      "$AAPL",
+      "$MU",
+      "$INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI主导市场",
-      "地缘政治风险与机会",
-      "期权大额交易策略",
-      "科技巨头动向",
-      "货币政策与通胀"
+      "人工智能与半导体行业主导市场",
+      "地缘政治与能源价格波动",
+      "美联储政策与利率预期",
+      "期权交易与杠杆产品活跃",
+      "市场流动性及机构资金动向"
     ],
-    "recent_shift": "从早期伊朗危机担忧转向近期积极经济数据和政策乐观情绪",
+    "recent_shift": "从关注美联储降息转向加息预期，同时地缘政治紧张局势缓解后市场情绪转暖。",
     "representative_quotes": [
-      "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
-      "Trump says US might 'take over' Strait of Hormuz if Iran deal isn't reached",
+      "AI-linked stocks now represent a record 45% of the S&P 500",
+      "The S&P500 can hit 9,000 this year, per Evercore.",
       "There is a big difference between seeing flow and actually understanding it."
     ],
-    "generated_at": "2026-06-21T20:11:08.415687+00:00"
+    "generated_at": "2026-06-21T21:51:13.368560+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
