@@ -1,5 +1,129 @@
 [
   {
+    "tweet_id": "2069156218707271994",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Micron, $MU, and Anthropic have announced a strategic multi-year agreement linking frontier AI development to underlying infrastructure design",
+    "tweet_url": "https://x.com/unusual_whales/status/2069156218707271994",
+    "published_at": "2026-06-22T20:31:00+00:00",
+    "fetched_at": "2026-06-22T20:52:39.630609+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "美光（MU）与Anthropic达成战略多年协议，将前沿AI开发与基础设施设计挂钩，对MU构成长期利好。",
+      "translation": "美光（MU）和Anthropic宣布了一项战略性的多年协议，将前沿人工智能开发与底层基础设施设计联系起来。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069142628877365313",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, has said that AI's water challenge is largely solved",
+    "tweet_url": "https://x.com/unusual_whales/status/2069142628877365313",
+    "published_at": "2026-06-22T19:37:00+00:00",
+    "fetched_at": "2026-06-22T20:52:42.435716+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达表示AI的用水问题已基本解决，这可能降低运营风险，对股价构成积极信号。",
+      "translation": "英伟达（$NVDA）表示，人工智能的用水挑战已基本解决。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069137595704234468",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Jamie Dimon of JPMorgan has said that the economy is in a bull market that's like a tsunami.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069137595704234468",
+    "published_at": "2026-06-22T19:17:00+00:00",
+    "fetched_at": "2026-06-22T20:52:43.855884+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根大通CEO杰米·戴蒙将当前经济比作牛市中的海啸，暗示强劲且持续的上涨趋势，对市场整体持乐观态度。",
+      "translation": "突发：摩根大通的杰米·戴蒙表示，经济正处于像海啸一样的牛市中。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069132562564370625",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Microsoft, $MSFT, is reportedly exploring major structural changes for its Xbox division, including a spin-off, joint venture, or conversion into a wholly owned subsidiary, as it faces margin pressure and shifts focus toward higher-growth AI and cloud businesses.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069132562564370625",
+    "published_at": "2026-06-22T18:57:00+00:00",
+    "fetched_at": "2026-06-22T20:52:46.025417+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "neutral",
+      "summary": "微软正在探索Xbox部门的重大结构调整，可能涉及分拆、合资或转全资子公司，以应对利润压力并聚焦AI和云业务。这显示微软战略转向，但短期内对微软股价影响不确定，需关注具体方案细节。",
+      "translation": "微软$MSFT正在探索其Xbox部门的重大结构调整，包括可能的分拆、合资或转为全资子公司，因为该部门面临利润压力，而公司正将重心转向高增长的AI和云业务。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069127529449857380",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX, $SPCX, has signed a $6.3 billion compute agreement with Reflection AI, worth $150 million per month from July 2026 through 2029, according to CNBC.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069127529449857380",
+    "published_at": "2026-06-22T18:37:00+00:00",
+    "fetched_at": "2026-06-22T20:52:47.793967+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX签订63亿美元的AI计算协议，从2026年起每月收益1.5亿美元，利好SPCX股价预期。",
+      "translation": "据CNBC报道，SpaceX（$SPCX）已与Reflection AI签署了一项价值63亿美元的计算协议，从2026年7月到2029年，每月价值1.5亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069122496176312420",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX, $SPCX, has announced it more than $100 billion in cash as of June 19",
+    "tweet_url": "https://x.com/unusual_whales/status/2069122496176312420",
+    "published_at": "2026-06-22T18:17:00+00:00",
+    "fetched_at": "2026-06-22T20:52:49.497654+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出SpaceX（$SPCX）宣布持有超过1000亿美元现金，这暗示公司财务实力雄厚，可能是未来增长或上市的积极信号。",
+      "translation": "SpaceX（$SPCX）宣布截至6月19日，其现金储备超过1000亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069117463149576392",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -809,6 +933,25 @@
       "summary": "推文调侃健身族成为新“超大规模使用者”，导致乳清蛋白短缺和类似SanDisk的涨价，并暗示肌酸可能成为下一个短缺品。虽未直接给出投资建议，但指出了蛋白粉和健身补剂市场的供需变化。",
       "translation": "显然，健身老铁们成了新的“超大规模使用者”。他们制造了乳清蛋白的新瓶颈？现在出现了类似$SNDK的涨价。也许肌酸会是下一个短缺品。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2068567767951749467",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Well, looks like prediction markets are about to get a ton of extra regulatory scrutiny.\n\nThey should also investigate how Polymarket pays influencers for undisclosed paid comments to game the X algorithm.\n\nI get offered deals like this all the time as the most subscribed to person on X.\n\nBut as you know, I don’t do paid promotions since I want my research to be without outside influence.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068567767951749467",
+    "published_at": "2026-06-21T05:32:42+00:00",
+    "fetched_at": "2026-06-22T20:52:03.419361+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文对预测市场和Polymarket平台表达负面看法，指出其面临监管加强及付费推广问题，预示该领域可能受挫。",
+      "translation": "看来预测市场即将迎来大量额外的监管审查。他们还应该调查Polymarket如何向有影响力的人支付未公开的评论费用，以操纵X平台的算法。作为X上订阅人数最多的人，我经常收到这样的交易提议。但如你所知，我不做付费推广，因为我不希望我的研究受到外界影响。",
+      "confidence": "medium"
     }
   },
   {

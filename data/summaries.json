@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
-      "SIVE",
-      "LPK",
-      "LITE",
-      "IQE"
+      "$SIVE",
+      "$AAOI",
+      "$LPK",
+      "$AXTI",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学供应链瓶颈",
-      "半导体设备垄断",
-      "AI基础设施建设",
-      "套利与价值解锁",
-      "日本/欧洲半导体"
+      "光子学/光互连",
+      "存储器超级周期",
+      "美国本土供应链建设",
+      "半导体设备瓶颈",
+      "逆向投资"
     ],
-    "recent_shift": "近期更强调光学和CPO供应链的早期性，并增加对WUS TW等套利机会的关注。",
+    "recent_shift": "最近更强调光通信和CPO相关标的的早期性，认为2027-2028才是放量阶段，当前仍处布局期。",
     "representative_quotes": [
-      "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC.",
-      "Sivers is by far my favorite laser chokepoint long.",
-      "I do think LPK is very undervalued based on these discussions."
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+      "Sivers is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.",
+      "InP substrates was one of the main bottlenecks affecting upstream capacity. So if you're able to make more = more revenue."
     ],
-    "generated_at": "2026-06-22T18:01:23.730190+00:00"
+    "generated_at": "2026-06-22T20:53:03.850289+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$MU",
       "$NVDA",
       "$SPCX",
-      "$AAPL",
-      "$MU",
-      "$INTC"
+      "$MSFT",
+      "$AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能和半导体",
-      "能源与地缘政治",
-      "利率与货币政策",
-      "太空探索公司债券",
-      "期权市场流动性"
+      "人工智能与数据中心基础设施投资",
+      "半导体行业主导市场",
+      "美伊关系缓和与能源流动恢复"
     ],
-    "recent_shift": "近期对美联储加息预期从'不太可能'转为'三次加息'，但整体市场情绪仍偏乐观。",
+    "recent_shift": "近期观点从关注宏观经济衰退风险转向积极看好AI驱动市场，并认为地缘政治风险缓解利好市场。",
     "representative_quotes": [
-      "BREAKING: Bank of America says it now expects the Federal Reserve to hike rates three times this year",
-      "BREAKING: Goldman Sachs, $GS, says there is now a 15% chance of a recession. It previously said there was a 25% chance.",
-      "‘AI is going to create a labor shortage,' Jeff Bezos has said."
+      "Micron, $MU, and Anthropic have announced a strategic multi-year agreement linking frontier AI development to underlying infrastructure design",
+      "SpaceX, $SPCX, has signed a $6.3 billion compute agreement with Reflection AI, worth $150 million per month from July 2026 through 2029, according to CNBC.",
+      "BREAKING: Jamie Dimon of JPMorgan has said that the economy is in a bull market that's like a tsunami."
     ],
-    "generated_at": "2026-06-22T18:01:27.341198+00:00"
+    "generated_at": "2026-06-22T20:53:00.642968+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
