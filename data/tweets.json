@@ -1,5 +1,90 @@
 [
   {
+    "tweet_id": "2068866709667406286",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, 3 limit ups in a row with WUS TW. Pretty sad I didn't take larger positions. \n\nWUS TW is 1 my 2 NAV arbitrage + independent growth trades. \n\nIf you want context: WUS TW is a ~$1.12B PCB player with AI DC growth. \n\nTheir stake in WUS Kunshan is $4.79B (11.4% of 42.04 billion)\n\nSo basically they're a $1.1B PCB player growing independently, sitting on ~$4.79B worth of another company that looks to IPOed on Hong Kong markets soon. \n\nAnd a successful activist investor in Palliser (with Ajinomoto and Toto), is pressuring them to trim some holdings along with a few others. \n\nSeems like a pretty insane disconnect, and I think there's a lot of potential here.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068866709667406286",
+    "published_at": "2026-06-22T01:20:35+00:00",
+    "fetched_at": "2026-06-22T01:45:06.414820+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WUS TW"
+      ],
+      "direction": "bullish",
+      "summary": "推文分析WUS TW（台湾PCB公司）的投资价值：公司市值约11.2亿美元，但持有WUS昆山约47.9亿美元的股份，且后者即将在香港IPO。加上激进投资者Palliser施压要求减持，存在明显低估，作者看好其潜力。",
+      "translation": "哇，WUS TW连续三天涨停。真遗憾没有建更大的仓位。WUS TW是我的两个套利+独立增长交易之一。背景：WUS TW是一家约11.2亿美元的PCB公司，拥有AI数据中心增长。其对WUS昆山的持股价值47.9亿美元（占420.4亿的11.4%）。所以基本上，他们是一家11亿美元的PCB公司，独立增长，同时持有约47.9亿美元的另一个即将在香港IPO的公司的股份。而且，成功的激进投资者Palliser（曾投资味之素和东陶）正与其他几家一起施压要求减持部分持股。看起来存在惊人的脱节，我认为这里潜力巨大。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068860355393290703",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Jeez, Japanese markets seem happy.\n\nEverything from Furukawa, Towa, Harmonic Drive, Ibiden, are up today.\n\nProbably after winning the World Cup game 4-0? https://t.co/b64yv9XUD1",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068860355393290703",
+    "published_at": "2026-06-22T00:55:20+00:00",
+    "fetched_at": "2026-06-22T01:45:12.216161+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Furukawa",
+        "Towa",
+        "Harmonic Drive",
+        "Ibiden"
+      ],
+      "direction": "bullish",
+      "summary": "推文提及多个日本股票（Furukawa、Towa、Harmonic Drive、Ibiden）上涨，并戏谑可能与日本世界杯4-0胜利有关，但整体反映出对日本市场情绪乐观。",
+      "translation": "天哪，日本市场看起来很开心。从Furukawa、Towa、Harmonic Drive到Ibiden，今天都在涨。大概是因为世界杯4-0赢了那场比赛吧？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068851864490381689",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士美股adr很接近了，\n机构资金都会提前买，\n配合炸裂的财报，\n要么adr前就翻倍，\n要么adr后再翻倍。\n所以涨跌根本不慌。",
+    "tweet_url": "https://x.com/xiaomustock/status/2068851864490381689",
+    "published_at": "2026-06-22T00:21:36+00:00",
+    "fetched_at": "2026-06-22T01:46:00.047140+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者认为海力士美股ADR即将发布炸裂财报，机构资金会提前买入，无论财报发布前后股价都会翻倍，因此对涨跌不慌，整体看涨。",
+      "translation": "海力士美股ADR很接近了，机构资金都会提前买，配合炸裂的财报，要么ADR前就翻倍，要么ADR后再翻倍。所以涨跌根本不慌。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068831579510902860",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "TD tells some employees it will use software to monitor their work in an effort to increase productivity, per the Globe",
+    "tweet_url": "https://x.com/unusual_whales/status/2068831579510902860",
+    "published_at": "2026-06-21T23:01:00+00:00",
+    "fetched_at": "2026-06-22T01:46:10.618365+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TD"
+      ],
+      "direction": "bearish",
+      "summary": "TD银行使用监控软件提升工作效率，可能成本增加或员工抵触，对短期盈利预期有负面影响。",
+      "translation": "据《环球邮报》报道，TD银行告知部分员工将使用软件监控工作，以提高生产力。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068821374605656376",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -5671,6 +5756,27 @@
       "summary": "用户认为英特尔应彻底放弃CPU业务，全力转向代工，这样市值有望飙升至1.5万亿美元以上并实现盈利。目前英特尔坚持CPU业务导致产能不足问题突出，而存储厂商已预警2027年产能缺口很大。",
       "translation": "海力士除了与台积电代工合作，正在寻求英特尔来解决产能不足的问题，存储厂商都称27年产能缺口很大。对于英特尔业务线的唯一正解，彻底放弃自己的cpu业务，孤注一掷转向代工业务，那么英特尔市值至少能飙升到1.5万亿美金以上，业务能立马实现盈利。可惜英特尔还在硬捣鼓他们那个已经落后了的cpu芯片。就看以后英特尔会不会这样干。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2054722172728520886",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Imo harmonic drive (6324) one of the better humanoid exposure names at $4B valuation listed in GS research report.\n\nPersonally I picked some up for exposure.\n\nChinese competitors might be used for mass production.\n\nBut personal preference in investing in Western supply chains + build them up.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2054722172728520886",
+    "published_at": "2026-05-14T00:35:15+00:00",
+    "fetched_at": "2026-06-22T01:45:17.383105+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "6324"
+      ],
+      "direction": "bullish",
+      "summary": "推文认为谐波驱动（6324）是人形机器人领域较好的投资标的，市值40亿美元，被高盛研报提及。作者已买入，偏好西方供应链但承认中国竞争对手可能用于量产。",
+      "translation": "我认为谐波驱动（6324）是人形机器人领域较好的投资标的之一，市值40亿美元，在高盛的研究报告中有提及。我个人买入了一些作为敞口。中国竞争对手可能用于量产，但我个人偏好投资西方供应链并扶持它们。",
+      "confidence": "high"
     }
   },
   {
