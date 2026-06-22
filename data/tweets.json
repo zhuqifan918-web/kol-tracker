@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2068953473387728938",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2068953473387728938",
+    "published_at": "2026-06-22T07:05:22+00:00",
+    "fetched_at": "2026-06-22T07:12:35.281815+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国和伊朗达成协议框架并计划结束黎巴嫩军事行动，可能降低地缘政治风险，对全球市场构成利好，尤其利好能源和军工板块以外的资产。",
+      "translation": "突发：据CNBC报道，美国和伊朗已就最终协议达成路线图，并计划结束在黎巴嫩的军事行动。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068917397919252939",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2068917397919252939",
+    "published_at": "2026-06-22T04:42:00+00:00",
+    "fetched_at": "2026-06-22T07:12:37.330776+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中美贸易摩擦升级，中国对美企实施报复性限制，可能加剧市场不确定性，对相关跨国公司和供应链构成风险。",
+      "translation": "据CNBC报道，中国针对美国国防部黑名单对数十家美国公司实施贸易限制，作为报复措施。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068892017506316591",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: Did you know there is a difference between the live Flow Feed and the Flow Alerts dashboard on @unusual_whales?\n\nBrand new educational video is live, and I break that down step by step.\n\nThis one is focused on how to stop staring at random options flow and start filtering the tape with a cleaner process.\n\nIn the video, I walk through:\n• What the live Flow Feed shows\n• How Flow Alerts narrow down the tape\n• Building ask-side Flow Alerts filters\n• Building bid-side Flow Alerts filters\n• Repeated hits\n• Ascending and descending fills\n• Premium, DTE, volume, and open interest filters\n• Saving custom filters\n• Customizing columns\n\nThe biggest lesson is that not all flow is worth tracking.\n\nThis video is about learning how to use @unusual_whales to reduce noise, organize the tape, and find better flow to study.\n\nWatch here:\nhttps://t.co/wyy8oqxnFT\n\nIf you want to use the same @unusual_whales tools from this video, you can save 10% on the annual or monthly subscription here:\nhttps://t.co/xNtvfox5Lf",
+    "tweet_url": "https://x.com/unusual_whales/status/2068892017506316591",
+    "published_at": "2026-06-22T03:01:09+00:00",
+    "fetched_at": "2026-06-22T07:12:41.567994+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广了Unusual Whales平台的教育视频，介绍了如何通过过滤期权流来减少噪音、提高交易效率。虽然未提及具体标的，但对期权交易者有工具使用参考价值。",
+      "translation": "RT @AnthonySandford: 你知道Unusual Whales的实时流量信息流和流量警报仪表板之间的区别吗？全新的教育视频已上线，我逐步拆解了这些内容。这一部分重点是教你如何停止盯着随机期权流，开始用更清晰的过程筛选行情。在视频中，我讲解了：• 实时流量信息流显示什么• 流量警报如何缩小行情范围• 构建买方流量警报过滤器• 构建卖方流量警报过滤器• 重复命中• 升序和降序填充• 溢价、到期天数、成交量和未平仓量过滤器• 保存自定义过滤器• 自定义列。最大的教训是并非所有流量都值得追踪。本视频旨在学习如何使用Unusual Whales减少噪音、整理行情并找到更好的流量进行研究。观看链接：https://t.co/wyy8oqxnFT 如果你想使用视频中的相同Unusual Whales工具，可以在此处节省年费或月费的10%：https://t.co/xNtvfox5Lf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2068880324202008964",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I expect Japan to mog Sweden in the World Cup tomorrow. \n\nProbably another 4-0 after Japan's soccer players saw how Swedish media treated $SIVE. https://t.co/YwSdlYZpxZ",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068880324202008964",
+    "published_at": "2026-06-22T02:14:41+00:00",
+    "fetched_at": "2026-06-22T07:11:47.255546+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bearish",
+      "summary": "推文暗示瑞典媒体对$SIVE的负面报道可能导致其在世界杯上失利，反映了投资情绪的负面影响。",
+      "translation": "我预测日本明天会在世界杯上碾压瑞典。很可能又是4-0，因为日本足球队员看到了瑞典媒体是如何对待$SIVE的。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2068866709667406286",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

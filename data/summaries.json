@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$NVDA",
-      "$AAPL",
-      "$INTC",
-      "$MU"
+      "SPCX",
+      "NVDA",
+      "MU",
+      "BRKB",
+      "AAPL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI与科技股主导市场",
-      "地缘政治事件驱动市场波动",
-      "期权市场异动交易机会"
+      "地缘政治缓和与原油流动恢复",
+      "AI概念股主导市场",
+      "期权大单跟踪与高回报案例",
+      "美联储政策预期与利率走势",
+      "科技巨头内部重组与员工情绪"
     ],
-    "recent_shift": "近期从关注宏观风险转向强调AI结构性机遇和期权异常回报。",
+    "recent_shift": "近期态度从关注地缘风险转向更积极看待降息和新能源流动，并强调期权交易机会。",
     "representative_quotes": [
-      "Nvidia, $NVDA, CEO Huang has said that the biggest mistake people make about AI is seeing it as a threat",
-      "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever and surpassing the previous $7.1 trillion record from December 2025 by 18%.",
-      "RT @TheBronxViking: $MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆"
+      "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
+      "The biggest lesson is that not all flow is worth tracking.",
+      "Three months, March to June, OVER $2 BILLION in profit on one single position."
     ],
-    "generated_at": "2026-06-22T01:46:31.664047+00:00"
+    "generated_at": "2026-06-22T07:13:02.125225+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
