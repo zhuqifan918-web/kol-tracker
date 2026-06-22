@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "AAOI",
       "SIVE",
       "LPK",
-      "AAOI",
-      "AEHR",
-      "WUS"
+      "LITE",
+      "IQE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与CPO供应链瓶颈",
-      "记忆体及内存超级周期",
-      "玻璃基板先进封装",
-      "NAV折价与子公司上市套利",
-      "AI上游设备及材料垄断"
+      "光子学供应链瓶颈",
+      "半导体设备垄断",
+      "AI基础设施建设",
+      "套利与价值解锁",
+      "日本/欧洲半导体"
     ],
-    "recent_shift": "近期更强调光学和玻璃基板标的的早期性，并从单纯分享过渡到实盘持有LPK、AEHR等，同时积极挖掘韩国和台湾的NAV折价机会。",
+    "recent_shift": "近期更强调光学和CPO供应链的早期性，并增加对WUS TW等套利机会的关注。",
     "representative_quotes": [
-      "Etron was the most interesting so far. (DRAM, DDR4, KGD/KGDM, networking memory). 605.5% Y/Y growth is just staggering . Annualized net income, roughly 12.5x P/E.",
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
-      "Sivers is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc."
+      "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC.",
+      "Sivers is by far my favorite laser chokepoint long.",
+      "I do think LPK is very undervalued based on these discussions."
     ],
-    "generated_at": "2026-06-22T13:10:35.619680+00:00"
+    "generated_at": "2026-06-22T18:01:23.730190+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "NVDA",
-      "AAPL",
-      "AMD",
-      "MU"
+      "$NVDA",
+      "$SPCX",
+      "$AAPL",
+      "$MU",
+      "$INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "期权流分析与交易工具",
-      "人工智能与科技股主导地位",
-      "地缘政治对市场的影响（伊朗、海峡）",
-      "宏观经济预期（软着陆、加息）",
-      "SpaceX与新兴资产"
+      "人工智能和半导体",
+      "能源与地缘政治",
+      "利率与货币政策",
+      "太空探索公司债券",
+      "期权市场流动性"
     ],
-    "recent_shift": "近期更强调地缘政治事件和市场波动，但对AI和科技股的长期看涨立场未变。",
+    "recent_shift": "近期对美联储加息预期从'不太可能'转为'三次加息'，但整体市场情绪仍偏乐观。",
     "representative_quotes": [
-      "Nvidia, $NVDA, CEO Huang has said that the biggest mistake people make about AI is seeing it as a threat",
-      "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
-      "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever"
+      "BREAKING: Bank of America says it now expects the Federal Reserve to hike rates three times this year",
+      "BREAKING: Goldman Sachs, $GS, says there is now a 15% chance of a recession. It previously said there was a 25% chance.",
+      "‘AI is going to create a labor shortage,' Jeff Bezos has said."
     ],
-    "generated_at": "2026-06-22T13:10:31.725904+00:00"
+    "generated_at": "2026-06-22T18:01:27.341198+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

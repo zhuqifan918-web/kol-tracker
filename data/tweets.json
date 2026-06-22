@@ -1,5 +1,274 @@
 [
   {
+    "tweet_id": "2069117463149576392",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Senate to advance housing bill to limit private equity purchases of single-family homes, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2069117463149576392",
+    "published_at": "2026-06-22T17:57:00+00:00",
+    "fetched_at": "2026-06-22T18:00:47.829482+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国参议院推进限制私募基金购买独栋住宅的法案，可能抑制房地产投资需求，对房地产及相关金融产品构成利空。",
+      "translation": "突发：据CNBC报道，美国参议院将推进一项限制私募股权购买独栋住宅的住房法案。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069107396765749507",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Chevron, $CVX, signed a 20-year deal with Microsoft, $MSFT, to provide natural-gas fired power for a proposed West Texas data center",
+    "tweet_url": "https://x.com/unusual_whales/status/2069107396765749507",
+    "published_at": "2026-06-22T17:17:00+00:00",
+    "fetched_at": "2026-06-22T18:00:51.533580+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CVX",
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "雪佛龙与微软签署20年天然气供电协议，为西得州数据中心供电。这对双方均为利好：雪佛龙获得稳定长期需求，微软保障清洁能源供应。投资者可关注能源与科技板块的协同效应。",
+      "translation": "突发：雪佛龙（$CVX）与微软（$MSFT）签署了一项为期20年的协议，为拟建的西得州数据中心提供天然气发电。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069102363445764183",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"South Korean authorities are weighing measures to curb risks from leveraged single-stock ETFs tracking Samsung and SK Hynix,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2069102363445764183",
+    "published_at": "2026-06-22T16:57:00+00:00",
+    "fetched_at": "2026-06-22T18:00:53.345411+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "direction": "bearish",
+      "summary": "韩国当局正考虑采取措施限制杠杆单一股票ETF的风险，涉及三星电子和SK海力士。这可能对相关ETF和股票构成短期压力。",
+      "translation": "据彭博社报道，韩国当局正在考虑采取措施，以遏制跟踪三星电子和SK海力士的杠杆单一股票ETF带来的风险。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069097330540716077",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SK Hynix overtook Samsung Electronics to become South Korea's most valuable listed company, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2069097330540716077",
+    "published_at": "2026-06-22T16:37:00+00:00",
+    "fetched_at": "2026-06-22T18:00:55.554394+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "000660.KS",
+        "005930.KS"
+      ],
+      "direction": "bullish",
+      "summary": "SK海力士超越三星电子，成为韩国市值最高的上市公司，这反映出市场对SK海力士在半导体领域，特别是高带宽存储器（HBM）业务上的强劲前景持乐观态度，对该公司是利好信号。",
+      "translation": "据路透社报道，SK海力士超越三星电子，成为韩国市值最高的上市公司。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069087012401844711",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Bank of America says it now expects the Federal Reserve to hike rates three times this year",
+    "tweet_url": "https://x.com/unusual_whales/status/2069087012401844711",
+    "published_at": "2026-06-22T15:56:00+00:00",
+    "fetched_at": "2026-06-22T18:01:01.572124+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国银行预测美联储今年将加息三次，这通常对股市构成压力，因为加息会增加借贷成本，抑制经济活动和市场流动性。",
+      "translation": "突发：美国银行表示，预计美联储今年将加息三次。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069082231994282184",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: AMC Theatres, $AMC, announces it had its busiest weekend in 2026.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069082231994282184",
+    "published_at": "2026-06-22T15:37:00+00:00",
+    "fetched_at": "2026-06-22T18:01:03.374724+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMC"
+      ],
+      "direction": "bullish",
+      "summary": "AMC影院宣布2026年最繁忙周末，显示票房强劲复苏，对股价有正面影响。",
+      "translation": "突发：AMC影院，股票代码$AMC，宣布其迎来了2026年最繁忙的周末。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069072164926496980",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Goldman Sachs, $GS, says there is now a 15% chance of a recession.\n\nIt previously said there was a 25% chance.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069072164926496980",
+    "published_at": "2026-06-22T14:57:00+00:00",
+    "fetched_at": "2026-06-22T18:01:06.739588+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GS"
+      ],
+      "direction": "bullish",
+      "summary": "高盛将衰退概率从25%下调至15%，表明对经济前景看法改善，这可能对市场情绪和投资环境产生积极影响。",
+      "translation": "突发：高盛（$GS）表示，现在经济衰退的概率为15%。此前他们曾表示概率为25%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069068801329774691",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, $SPCX is now down over $583B in MC...\n\nSince Jim Cramer gave a bullish call at $210. Pretty amazing to witness tbh. \n\nInverse Cramer would have returned ~21% in 3 trading days, outperforming a year in your largest indexes? https://t.co/IhNtFAH99s",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069068801329774691",
+    "published_at": "2026-06-22T14:43:38+00:00",
+    "fetched_at": "2026-06-22T17:59:49.152917+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出SPCX市值暴跌5830亿美元，并讽刺Jim Cramer的看涨预测，同时强调反向操作策略（Inverse Cramer）在3个交易日内获得21%的回报，远超主要指数。",
+      "translation": "哇，$SPCX 市值已下跌超过5830亿美元...自从Jim Cramer在210美元给出看涨建议以来。真是令人惊叹。反向Cramer策略在3个交易日内可获约21%的回报，超过您主要指数一整年的表现？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069067131455713375",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX, $SPCX, officially launched its inaugural offering of senior unsecured notes on June 22, 2026, aiming to raise at least $20 billion.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069067131455713375",
+    "published_at": "2026-06-22T14:37:00+00:00",
+    "fetched_at": "2026-06-22T18:01:08.700347+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "SpaceX发行高级无担保票据筹资至少200亿美元，涉及债券市场操作，对股价无直接利好或利空。",
+      "translation": "SpaceX ($SPCX) 于2026年6月22日正式发行其首批高级无担保票据，目标筹集至少200亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069062745308254434",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "That’s for you to decide.\n\nBut just throwing this out there:\n\nIf $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC.\n\nMy guess is that the $471m/month will keep going up as demand seems to scale exponentially into 2028.\n\nI’d expect ASP/margins to go up across the board as well. Especially as the industry is bottlenecked and $AMD + CSPs are going around hunting for LTAs.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069062745308254434",
+    "published_at": "2026-06-22T14:19:34+00:00",
+    "fetched_at": "2026-06-22T17:59:55.593807+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好AAOI，认为其营收将因AI需求激增而高速增长，年化营收可达56亿美元，同时指出行业瓶颈和AMD及云服务商（CSPs）积极寻求长期协议（LTAs）将推高ASP和利润率。",
+      "translation": "这由你决定。不过提一下：如果$AAOI达到预期，那将是超过800%的同比增长，基于128亿美元市值年化营收56亿美元。我猜测每月4.71亿美元的收入将持续上升，因为需求似乎呈指数级增长到2028年。此外，预计整个行业的平均售价和利润率都会上升，尤其是在行业出现瓶颈，$AMD和云服务商正在四处寻找长期协议的情况下。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069062098374545626",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, has launched Halos for Robotics, a full-stack safety system to help humanoid and industrial robots operate safely alongside humans.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069062098374545626",
+    "published_at": "2026-06-22T14:17:00+00:00",
+    "fetched_at": "2026-06-22T18:01:10.773157+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达发布Halos for Robotics安全系统，利好机器人业务，推动股价上行。",
+      "translation": "英伟达（$NVDA）推出了Halos for Robotics，这是一套全栈安全系统，帮助人形机器人和工业机器人与人类安全协作。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069055242969268442",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The U.S. Treasury Department has issued a general license for Iran, authorizing the production, delivery and sale of crude oil",
+    "tweet_url": "https://x.com/unusual_whales/status/2069055242969268442",
+    "published_at": "2026-06-22T13:49:45+00:00",
+    "fetched_at": "2026-06-22T18:01:14.130859+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国财政部颁发伊朗原油生产、运输和销售的一般许可证，可能增加全球原油供应，对油价构成下行压力，但具体投资机会需结合市场供需和地缘政治因素综合评估。",
+      "translation": "美国财政部已为伊朗颁发一般许可证，授权其原油的生产、运输和销售。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069046998771306726",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citi Bank now says its S&amp;P 500 target is 8,100 this year",
+    "tweet_url": "https://x.com/unusual_whales/status/2069046998771306726",
+    "published_at": "2026-06-22T13:17:00+00:00",
+    "fetched_at": "2026-06-22T18:01:15.919363+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "花旗银行将标普500指数目标上调至8100点，显示对美股市场前景的积极预期，可能提振投资者信心。",
+      "translation": "花旗银行现在表示其标普500指数目标为今年8100点。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069044803480801763",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -57,6 +326,25 @@
     }
   },
   {
+    "tweet_id": "2069036932886077626",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The level of investment into data centers globally may soon make it necessary for insurers involved to begin selling securitization products to spread the risk among a broader pool of investors, according to Zurich Insurance Group AG.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069036932886077626",
+    "published_at": "2026-06-22T12:37:00+00:00",
+    "fetched_at": "2026-06-22T18:01:18.063962+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "数据中心投资激增可能导致保险公司出售证券化产品以分散风险，这可能对基础设施和保险相关领域产生投资影响。",
+      "translation": "据苏黎世保险集团，全球数据中心投资水平可能很快使得相关保险公司必须开始出售证券化产品，以将风险分散到更广泛的投资者群体中。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2069031899754881228",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -73,6 +361,27 @@
       "summary": "美国战略石油储备降至1983年以来最低水平，可能推高油价并影响通胀预期，相关能源股或承压。",
       "translation": "美国战略石油储备已降至1983年以来的最低水平，根据金融时报报道。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069024768838517092",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit What price do you think is appropriate to buy $AAOI?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069024768838517092",
+    "published_at": "2026-06-22T11:48:40+00:00",
+    "fetched_at": "2026-06-22T17:59:59.906764+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI"
+      ],
+      "direction": null,
+      "summary": "该推文询问AAOI股票的合适买入价格，但未给出明确的多空观点。",
+      "translation": "@aleabitoreddit 你认为买入$AAOI的合适价格是多少？",
+      "confidence": "low"
     }
   },
   {
