@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LITE",
-      "$LPK",
-      "$IQE"
+      "SIVE",
+      "LPK",
+      "AAOI",
+      "WUS",
+      "AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学（photonics）超级周期",
-      "AI供应链瓶颈（激光、衬底、外延片）",
-      "西方本土化制造（美国优先、欧洲半导体自主）",
-      "内存结构性增长（DRAM/NAND）",
-      "Neocloud与AI基础设施"
+      "光子学与光学瓶颈",
+      "AI供应链上游",
+      "内存超级周期",
+      "NAV折价套利",
+      "欧洲半导体企业"
     ],
-    "recent_shift": "近期更强调光学和内存仍处早期，激光瓶颈和Co-Packaged Optics（CPO）是2027年后的核心催化剂。",
+    "recent_shift": "近期更关注NAV折价与独立增长资产，如WUS TW，同时对光学和内存主题的信心增强。",
     "representative_quotes": [
-      "$SIVE is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc.",
-      "If you see a bunch of projections on memory names... Might be a good idea to think independently... Probably same thing now with optical names.",
+      "This is why $SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.",
+      "WUS TW management should really reconsider. The NAV disconnect is insanity.",
       "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-21T20:11:05.459034+00:00"
+    "generated_at": "2026-06-22T01:46:25.757853+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -33,21 +33,21 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI泡沫与半导体主导",
-      "地缘政治与能源危机",
-      "期权鲸鱼交易策略"
+      "AI与科技股主导市场",
+      "地缘政治事件驱动市场波动",
+      "期权市场异动交易机会"
     ],
-    "recent_shift": "近期观点明显转向关注SpaceX IPO及其期权狂热，同时强调美国-伊朗协议对油价的短期利好。",
+    "recent_shift": "近期从关注宏观风险转向强调AI结构性机遇和期权异常回报。",
     "representative_quotes": [
-      "The token hit a peak price of $75.35 and has since collapsed to around $2.38, a decline of nearly 97%.",
-      "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
-      "There is a big difference between seeing flow and actually understanding it."
+      "Nvidia, $NVDA, CEO Huang has said that the biggest mistake people make about AI is seeing it as a threat",
+      "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever and surpassing the previous $7.1 trillion record from December 2025 by 18%.",
+      "RT @TheBronxViking: $MU $400 calls that were alerted March 31st expired today and were hands down a top five, if not the single most unusual trade I have ever seen.🏆"
     ],
-    "generated_at": "2026-06-21T23:01:44.884073+00:00"
+    "generated_at": "2026-06-22T01:46:31.664047+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK하이닉스",
+      "SK Hynix",
       "MU",
       "NVDA",
       "SPCX",
@@ -55,18 +55,17 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储是AI革命的核心和终极答案",
-      "海力士美股ADR将带来重估机会",
-      "长期持有和捏住核心资产",
-      "SPCX和太空算力是未来增长点",
-      "市场恐慌提供抄底机会"
+      "存储是AI革命核心",
+      "海力士ADR和财报催化",
+      "长期持有坚定信心",
+      "机构提前布局"
     ],
-    "recent_shift": "最近观点更集中于海力士未来45天的确定性机会，包括ADR上线、HBM4送样和Q2财报，语气更加强烈，强调仓位集中和坚定持有。",
+    "recent_shift": "近期从关注美光、英伟达等转向重点押注海力士，强调45天内多重利好集中兑现。",
     "representative_quotes": [
-      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住AI的俩个蛋蛋。",
-      "牢牢抓紧内存，就是捏住了ai的蛋蛋🥚🥚"
+      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。",
+      "拿住一个股票不动的时候最无聊，只能被无穷无尽的上涨暴击幼小的心灵。",
+      "美股今晚肯定大暴涨，因为spcx募资而锁定的几千亿美金才是大头。"
     ],
-    "generated_at": "2026-06-21T10:26:22.315044+00:00"
+    "generated_at": "2026-06-22T01:46:28.609833+00:00"
   }
 }
