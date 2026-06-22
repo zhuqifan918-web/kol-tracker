@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2069188398825566318",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, $TSEM up 10%+ today.\n\nGood times, should have made this one of my largest positions in hindsight back in March.\n\nFoundries like $GFS and $INTC have been going brrr lately. https://t.co/m5KVJ8vOAS",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069188398825566318",
+    "published_at": "2026-06-22T22:38:52+00:00",
+    "fetched_at": "2026-06-22T22:42:23.451135+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSEM",
+        "GFS",
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "推文提到TSEM大涨10%以上，并后悔未在三月重仓。同时指出晶圆代工板块（GFS、INTC）近期表现强劲，整体看好半导体制造类股票。",
+      "translation": "哇，$TSEM今天涨了10%以上。好日子，后悔三月份没把这支股票作为我的重仓股之一。像$GFS和$INTC这样的晶圆代工厂最近涨得很猛。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069171318046568830",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Google, $GOOGL, is investing around $75 million in independent movie studio A24 as part of a new artificial-intelligence research partnership.\n\nGoogle’s DeepMind AI unit and A24 are aiming to create new tools for movie production and distribution",
+    "tweet_url": "https://x.com/unusual_whales/status/2069171318046568830",
+    "published_at": "2026-06-22T21:31:00+00:00",
+    "fetched_at": "2026-06-22T22:43:16.332873+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "谷歌通过其DeepMind AI部门向独立电影工作室A24投资约7500万美元，旨在开发电影制作与发行的AI工具。此举显示谷歌在AI应用领域的多元化布局，可能提升其长期竞争力，对GOOGL构成利好。",
+      "translation": "谷歌（$GOOGL）正投资约7500万美元于独立电影工作室A24，作为新的人工智能研究合作的一部分。谷歌的DeepMind AI部门与A24旨在为电影制作和发行创造新工具。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069156218707271994",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -6618,6 +6662,29 @@
       "summary": "该推文认为SIVE是一家小型激光器供应商，有望成为CPO/硅光子学领域的下一代LITE，当前市值仅1.4亿美元，存在估值错位。作者看好其与POET等公司的合作，认为其可能成为Marvell Celestial等产品的激光器供应商，但提醒注意LITE和COHR也在竞争。",
       "translation": "新仓位TLDR：\n\n$SIVE 市值1.4亿美元。\n是即将兴起的CPO/硅光子学公司的激光器供应商。\n类似Innolight从$LITE采购当前光收发器的方式。\n对于CPO/硅光子学，它是下一个$LITE，为像$POET/$AYAR这样的公司供货。\n如果我要简单化。\n$LITE -> 用于当前光瓶颈的EML激光器。\n$SIVE -> 为Ayar/Poet等CPO公司定制的InP CW DFB激光器。\n估值错位似乎很有吸引力。然而，$LITE/$COHR也在开发用于CPO的CW激光器。\n感觉$SIVE与$POET等公司合作已久，因此他们作为$MRVL Celestial等产品的激光器供应商有后路。\n基本上，论点是下一个可能的小型$LITE，作为即将到来的CPO/硅光子学的激光器供应商。\n当然，请自行研究。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2031820871170736570",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'm long $TSEM, the $TSM of photonics. \n\nMy top two picks for CPO are $SOI and Tower Semi. \n\nGiven the $NVDA GTC catalyst on new photonic related architecture next week:\n\nI expect Tower Semi to get a huge catalyst. \n\nNvidia laready directly collaborated with Tower to scale 1.6T silicon photonics last month (hint hint for GTC), likely pushing the downstream players to use it. \n\nAnd now, Tower is the leading supplier of 1.6T SiPh PICs and the primary foundry for scale-up CPO architectures. (the other being global foundries)\n\nFrom my forward est:\n2028 Forward P/E: ~16.8x to ~18.1x\n\n(Tower set a target $2.84B revenue by 2028, with ~31.7% operating margin, ~$750M in net profit) \n\nThe thing to note is over 70% of their planned SiPh capacity is already reserved through 2028. And photonics haven't even ramped up yet. \n\nSo, I expect them to strongly beat earning projections due to extreme photonics scaling + allocations price hikes that's not modeled into projections. \n\nAlso, $TSEM is heavily de-risked by 70% of capacity already being reserved. MC is likely due to $TSEM being a very obscure upstream player in the photonics supply chain. \n\nBut I expect the $NVDA GTC conference to be that catalyst that brings it to premium valuations.\n\nI'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2031820871170736570",
+    "published_at": "2026-03-11T19:53:39+00:00",
+    "fetched_at": "2026-06-22T22:42:31.252876+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSEM",
+        "SOI",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "推文看好Tower Semiconductor（TSEM），认为其是光子学领域的台积电。作者指出，英伟达（NVDA）与Tower合作开发1.6T硅光子技术，且Tower的硅光子产能70%已被预订，将受益于GTC大会催化，预计2028年每股收益和营收将超过当前预测。作者持有TSEM多头仓位。",
+      "translation": "我长期看好$TSEM，它是光子学领域的$TSM。对于共封装光学（CPO），我的首选是$SOI和Tower Semiconductor。鉴于下周二$NVDA GTC大会将发布新的光子相关架构：我预计Tower Semiconductor将获得巨大催化剂。英伟达上个月已直接与Tower合作，以量产1.6T硅光子（暗示GTC上有大事），这可能会推动下游厂商采用其技术。现在，Tower是1.6T硅光子PIC的领先供应商，也是CPO架构扩展的主要代工厂（另一家是Global Foundries）。根据我的远期预测：2028年预期市盈率约16.8倍至18.1倍（Tower设定2028年营收目标28.4亿美元，营业利润率约31.7%，净利润约7.5亿美元）。需要注意的是，他们计划中的硅光子产能已有70%以上被预订到2028年，而光子学业务尚未大规模启动。因此，我预计他们将大幅超出盈利预测，原因在于极端的光子学扩张以及未计入模型的配额提价。此外，$TSEM已经通过70%的产能预订大幅降低了风险，其市值较低可能是因为它是光子学供应链中一个非常不知名的上游参与者。但我预计$NVDA GTC大会将成为催化剂，使其估值达到溢价水平。我持有$TSEM多头仓位，看好上游光子学代工层的非对称上行潜力。",
+      "confidence": "high"
     }
   },
   {
