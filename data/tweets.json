@@ -1,5 +1,105 @@
 [
   {
+    "tweet_id": "2069044803480801763",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Long weekend over, and WhaleWatch is live!\n\nCome join us for pre-market prep, and live options and futures trading using Unusual Whales tools\n\nJoin below: https://t.co/9eaWvjuEYO",
+    "tweet_url": "https://x.com/unusual_whales/status/2069044803480801763",
+    "published_at": "2026-06-22T13:08:16+00:00",
+    "fetched_at": "2026-06-22T13:10:10.787903+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": null,
+      "translation": null,
+      "confidence": null
+    }
+  },
+  {
+    "tweet_id": "2069044528435318979",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just found this interesting around top 10 fastest growth TW IC companies if anyone wanted to take a deeper look. \n\nEtron was the most interesting so far. (DRAM, DDR4, KGD/KGDM, networking memory).\n\n605.5% Y/Y growth is just staggering . Annualized net income, roughly 12.5x P/E. \n\nNo positions in any of these so far, just wanted to share.\n\n(Phison was an older one, AP memory should be a very promising long that was qualified in Intel's EMIB supply chains earlier).",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069044528435318979",
+    "published_at": "2026-06-22T13:07:11+00:00",
+    "fetched_at": "2026-06-22T13:09:15.299140+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文提到台湾IC设计公司如Etron（DRAM、DDR4、网络内存）年增605.5%，年化净利润对应12.5倍市盈率，认为AP memory（曾被Intel EMIB供应链认证）长期看好。整体偏向积极。",
+      "translation": "刚发现一个关于台湾IC设计公司增长最快的十大排行榜，如果有人想深入看看的话。Etron最吸引人（DRAM、DDR4、KGD/KGDM、网络内存）。年增605.5%令人震惊。年化净利润对应大约12.5倍市盈率。目前没有持仓，只是想分享。（Phison是较早的，AP memory应该是一个非常有前途的长期标的，此前已通过Intel EMIB供应链认证）。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069041965664960762",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "47% of global fund managers expect a “soft landing,\" with no recession, per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2069041965664960762",
+    "published_at": "2026-06-22T12:57:00+00:00",
+    "fetched_at": "2026-06-22T13:10:12.605869+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美银调查显示47%的全球基金经理预期经济软着陆，不会出现衰退，这反映了市场对宏观前景的乐观情绪，但未指定具体投资标的或策略。",
+      "translation": "47%的全球基金经理预期经济软着陆，不会出现衰退，据美银调查",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069031899754881228",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US strategic oil reserve has hit the lowest level since 1983, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2069031899754881228",
+    "published_at": "2026-06-22T12:17:00+00:00",
+    "fetched_at": "2026-06-22T13:10:15.724386+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国战略石油储备降至1983年以来最低水平，可能推高油价并影响通胀预期，相关能源股或承压。",
+      "translation": "美国战略石油储备已降至1983年以来的最低水平，根据金融时报报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069005921318281566",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had to guess. \n\nFeels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates. \n\nSmall machine supplier chokepoints usually cap out from TAM though and don't go to $20B+ unless you're ASML or hold many chokepoints like KLAC. \n\nNot many dominant \"monopolies\" like these out there right before volume ramp this small: \n\nMaybe you have stuff like: \n- Aixtron (MOCVD) ~$8B\n- Towa (compression bonding) ~$2B \n- Techwing (memory handler/cube probes) ~$1.5B\n- MSScorps (CPO inspection), but pre-ramp. $850M\n- Riber (quantum MBE), very pre-ramp ~$350M \n\nThen LPK Laser for glass core substrates (about to ramp) at ~$730M, which thematically should have more premiums than memory. (eg. major advanced packaging shift, CPO adjacent, etc). \n\nLot of obscure chemical monopolies I know of, but those don't get as much attention cause BOM is much lower than equipment. \n\nBut for lpk you have:\n\neg. “80% of customers among major global players have selected LPKF equipment”.  \n\n70% of LIDE market share target for TGV in the glass-core ramp, should be very material. (disclosure: own, the listed names above aside from techwing/aixtron, NFI).\n\nJust kinda the path they go if you follow $AEHR at ~$3.5B now:\n\n- <$500m: \"Oh they have no customers!\" \n---> (probably somewhere in the middle here).\n- < $1.5B: \"Maybe volume comes soon!\" \n- $3B+ onward: \"Looks like they're starting to volume ramp. \n\nJust a lesson for the cycle of the chokepoint machine suppliers from my personal experiences.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069005921318281566",
+    "published_at": "2026-06-22T10:33:46+00:00",
+    "fetched_at": "2026-06-22T13:09:24.324422+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK",
+        "ASML",
+        "KLAC",
+        "AEHR"
+      ],
+      "direction": "bullish",
+      "summary": "作者看好LPK作为玻璃基板光刻设备的潜在垄断供应商，认为其当前市值（约7.3亿美元）被低估，随着量产启动，市值有望达到30-50亿美元。对比类似设备垄断公司（如Aixtron、Towa）的市值增长路径，并引用客户占有率数据支撑观点。",
+      "translation": "关于$LPK：如果全面量产，我猜测合理市值可能在30亿到50亿美元之间。我个人感觉它的风险回报更不对称，因为只需要等待，而且他们已经有玻璃基板的客户。小型设备供应商通常受限于总可寻址市场，市值难以突破200亿美元，除非你是ASML或像KLAC那样拥有多个瓶颈环节。像这样在量产前夕、市值如此小的潜在垄断公司并不多：例如，Aixtron（MOCVD）约80亿美元，Towa（压缩键合）约20亿美元，Techwing（内存处理器/立方体探针）约15亿美元，MSScorps（CPO检测）但尚未量产，市值8.5亿美元，Riber（量子MBE），非常早期，约3.5亿美元。而LPK激光用于玻璃基板（即将量产），市值仅7.3亿美元，主题上应该比存储器有更高溢价（例如，重大先进封装转型、CPO相关等）。我还知道很多小众化学垄断企业，但它们不太受关注，因为材料成本远低于设备。例如，LPK：'全球主要客户中有80%选择了LPKF设备'。玻璃基板量产中，TGV的LIDE市场份额目标为70%，这将非常可观。（披露：持有LPK，以及上述除Techwing/Aixtron外的公司，非投资建议）。这有点像他们走的路，可以参考$AEHR当前约35亿美元市值：低于5亿美元时：'哦，他们没客户！' ——>（可能我们现在就处于中间某处）。低于15亿美元时：'也许量产快到了！' 超过30亿美元后：'看起来他们开始量产了。' 这是我个人经历中关于瓶颈设备供应商市值周期的一个教训。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2068953473387728938",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -295,6 +395,27 @@
       "summary": "半导体股在标普500指数中的市值占比创下18.8%的历史新高，表明该行业市场主导地位增强，可能对相关投资情绪形成支撑。",
       "translation": "据彭博社报道，半导体股目前占标普500指数市值的18.8%，创下历史新高。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068658723027886195",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @jeongpark0509 And for $LPK?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068658723027886195",
+    "published_at": "2026-06-21T11:34:08+00:00",
+    "fetched_at": "2026-06-22T13:09:28.586871+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK"
+      ],
+      "direction": "neutral",
+      "summary": "该推文询问关于$LPK股票的看法，未明确表达看多或看空，仅提及股票代码。",
+      "translation": "@aleabitoreddit @jeongpark0509 那$LPK呢？",
+      "confidence": "low"
     }
   },
   {

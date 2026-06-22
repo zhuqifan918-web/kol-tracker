@@ -4,48 +4,48 @@
       "SIVE",
       "LPK",
       "AAOI",
-      "WUS",
-      "AXTI"
+      "AEHR",
+      "WUS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与光学瓶颈",
-      "AI供应链上游",
-      "内存超级周期",
-      "NAV折价套利",
-      "欧洲半导体企业"
+      "光子学与CPO供应链瓶颈",
+      "记忆体及内存超级周期",
+      "玻璃基板先进封装",
+      "NAV折价与子公司上市套利",
+      "AI上游设备及材料垄断"
     ],
-    "recent_shift": "近期更关注NAV折价与独立增长资产，如WUS TW，同时对光学和内存主题的信心增强。",
+    "recent_shift": "近期更强调光学和玻璃基板标的的早期性，并从单纯分享过渡到实盘持有LPK、AEHR等，同时积极挖掘韩国和台湾的NAV折价机会。",
     "representative_quotes": [
-      "This is why $SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.",
-      "WUS TW management should really reconsider. The NAV disconnect is insanity.",
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
+      "Etron was the most interesting so far. (DRAM, DDR4, KGD/KGDM, networking memory). 605.5% Y/Y growth is just staggering . Annualized net income, roughly 12.5x P/E.",
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+      "Sivers is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc."
     ],
-    "generated_at": "2026-06-22T01:46:25.757853+00:00"
+    "generated_at": "2026-06-22T13:10:35.619680+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
       "NVDA",
-      "MU",
-      "BRKB",
-      "AAPL"
+      "AAPL",
+      "AMD",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治缓和与原油流动恢复",
-      "AI概念股主导市场",
-      "期权大单跟踪与高回报案例",
-      "美联储政策预期与利率走势",
-      "科技巨头内部重组与员工情绪"
+      "期权流分析与交易工具",
+      "人工智能与科技股主导地位",
+      "地缘政治对市场的影响（伊朗、海峡）",
+      "宏观经济预期（软着陆、加息）",
+      "SpaceX与新兴资产"
     ],
-    "recent_shift": "近期态度从关注地缘风险转向更积极看待降息和新能源流动，并强调期权交易机会。",
+    "recent_shift": "近期更强调地缘政治事件和市场波动，但对AI和科技股的长期看涨立场未变。",
     "representative_quotes": [
+      "Nvidia, $NVDA, CEO Huang has said that the biggest mistake people make about AI is seeing it as a threat",
       "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
-      "The biggest lesson is that not all flow is worth tracking.",
-      "Three months, March to June, OVER $2 BILLION in profit on one single position."
+      "BREAKING: A record $8.3 trillion in U.S. options exposure is set to expire on June 18, marking the largest options expiration event ever"
     ],
-    "generated_at": "2026-06-22T07:13:02.125225+00:00"
+    "generated_at": "2026-06-22T13:10:31.725904+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
