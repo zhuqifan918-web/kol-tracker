@@ -1,5 +1,226 @@
 [
   {
+    "tweet_id": "2069454685157912775",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Oracle, $ORCL, workforce shrinks by about 21,000 employees amid AI adoption, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2069454685157912775",
+    "published_at": "2026-06-23T16:17:00+00:00",
+    "fetched_at": "2026-06-23T16:22:09.053921+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ORCL"
+      ],
+      "direction": "bearish",
+      "summary": "甲骨文因AI应用裁员2.1万人，可能表明在优化成本结构以提高效率，但大规模裁员短期对员工士气和股价构成压力。",
+      "translation": "据路透社，甲骨文$ORCL因采用AI技术而裁减约2.1万名员工。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069449652043473132",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: I have agreed to allow the Strait of Hormuz to remain open.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069449652043473132",
+    "published_at": "2026-06-23T15:57:00+00:00",
+    "fetched_at": "2026-06-23T16:22:10.500938+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普承诺霍尔木兹海峡保持开放，有利于全球石油供应稳定，可能缓解短期油价波动风险，但无明确投资建议。",
+      "translation": "特朗普：我已同意霍尔木兹海峡保持开放。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2069445918114697463",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Curious if anyone's portfolio is green after today's fun day.  \n\n$KORU: -32.06%\n$SOXL: -22.98%\n$IQE: -13.58%\n$DRAM: -12.6%\n$AXTI: -12.57%\n$FLNC: -12.5%\n$AAOI: -11.2%\n$SIVE: -11.7%\n$TSEM: -10.24%\n$SNDK: -12.5%\n$MU: -11.8%\nSk Hynix: -12.35%\nSamsung: -9.6%\n$MRVL: -8.3%\n$LITE: -7.6%\n$SOI -7.15%\n$TSM: -6.1%\n$AMD: -6.04%\n\nFeels like anything high-beta or semis had a steep drop.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069445918114697463",
+    "published_at": "2026-06-23T15:42:09+00:00",
+    "fetched_at": "2026-06-23T16:21:00.781639+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KORU",
+        "SOXL",
+        "IQE",
+        "DRAM",
+        "AXTI",
+        "FLNC",
+        "AAOI",
+        "SIVE",
+        "TSEM",
+        "SNDK",
+        "MU",
+        "MRVL",
+        "LITE",
+        "SOI",
+        "TSM",
+        "AMD"
+      ],
+      "direction": "bearish",
+      "summary": "该推文描述了半导体和高贝塔股票在一天内大幅下跌的情况，显示出市场恐慌或大规模抛售。$SOXL和$KORU等股票跌幅超过20%，投资者应警惕短期风险。",
+      "translation": "好奇今天在这么有趣的一天之后，有人的投资组合还是绿色的吗？$KORU: -32.06% $SOXL: -22.98% $IQE: -13.58% $DRAM: -12.6% $AXTI: -12.57% $FLNC: -12.5% $AAOI: -11.2% $SIVE: -11.7% $TSEM: -10.24% $SNDK: -12.5% $MU: -11.8% SK海力士: -12.35% 三星: -9.6% $MRVL: -8.3% $LITE: -7.6% $SOI: -7.15% $TSM: -6.1% $AMD: -6.04% 感觉所有高贝塔值或半导体股票都经历了大幅下跌。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069434552515543405",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: AMC, $AMC, has announced the pricing of a $200 million stock offering.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069434552515543405",
+    "published_at": "2026-06-23T14:57:00+00:00",
+    "fetched_at": "2026-06-23T16:22:14.376723+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMC"
+      ],
+      "direction": "bearish",
+      "summary": "AMC宣布2亿美元股票发行定价，通常意味着现有股东权益被稀释，股价可能承压，属于利空消息。",
+      "translation": "突发：AMC（$AMC）宣布了2亿美元股票发行的定价。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069430169300070612",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry. \n\n\"The «Fab4Micro» in Erfurt is a key project for the technological sovereignty of Germany and Europe, explained Thuringia’s head of government.\"\n\nThe production start is planned in 2028 (finanzen). \n\nWith Europe's new CHIPS ACT 2 as a concurrent fundamental tailwind.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069430169300070612",
+    "published_at": "2026-06-23T14:39:35+00:00",
+    "fetched_at": "2026-06-23T16:21:06.918612+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "bullish",
+      "summary": "赛微电子（X-FAB）获得欧盟芯片法案1.274亿欧元资助，用于建设MEMS代工厂Fab4Micro，计划2028年投产。此重大利好表明欧洲芯片自主战略对X-FAB的强力支持，长期增长前景看好。",
+      "translation": "今天，市值12.3亿美元的赛微电子（$XFAB）从欧盟芯片法案中获得1.274亿欧元，用于其MEMS代工厂。图林根州政府首脑表示：“位于爱尔福特的‘Fab4Micro’是德国和欧洲技术主权的关键项目。”投产计划于2028年（据finanzen报道）。而欧洲新芯片法案2.0则作为同步的长期利好因素。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069429519375864014",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Trump administration is offering $17.5 billion in low-cost loans to help finance the construction of 10 new Westinghouse AP1000 nuclear reactors across the U.S.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069429519375864014",
+    "published_at": "2026-06-23T14:37:00+00:00",
+    "fetched_at": "2026-06-23T16:22:16.505784+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普政府提供175亿美元低息贷款建设10座西屋AP1000核反应堆，该政策对核电及清洁能源板块构成明确利好，尤其利好涉及核能设备及工程服务的相关个股。投资者可关注核能ETF及主要供应商股票。",
+      "translation": "突发：特朗普政府正提供175亿美元低息贷款，用于资助在美国建设10座新的西屋AP1000核反应堆。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069425706694774806",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这下子真踏空了看来😂",
+    "tweet_url": "https://x.com/xiaomustock/status/2069425706694774806",
+    "published_at": "2026-06-23T14:21:51+00:00",
+    "fetched_at": "2026-06-23T16:21:57.260978+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "null",
+      "summary": "Tweet表达了对踏空（错过市场上涨行情）的悔恨情绪，暗示作者可能观察或参与了投资市场，但未给出具体方向或标的。",
+      "translation": "这下子真的踏空了，看来😂",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2069423062252970059",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "X-Fab ontvangt €127 miljoen Chips Act-steun voor uitbreiding v MEMS en fotonica productie in Erfurt \n\n= ruim 10% van de beurswaarde\n\n$XFAB",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069423062252970059",
+    "published_at": "2026-06-23T14:11:20+00:00",
+    "fetched_at": "2026-06-23T16:21:11.304527+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "bullish",
+      "summary": "X-Fab获得1.27亿欧元芯片法案资助，用于扩展MEMS和光子学生产，金额超过其市值的10%，对股票构成重大利好。",
+      "translation": "X-Fab获得1.27亿欧元芯片法案资助，用于在埃尔福特扩展MEMS和光子学生产，超过其市值的10%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069422448345518346",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM. \n\nSince we got a massive drop off BS narratives like 3 rate hikes off no newly material macroeconomic data (which comes out Thursday). \n\nIf institutions really believed 3 rate hike sellside garbage that BofA put out:\n\nThey would profit off it with CME/prediction markets. \n\nWhich are still projecting 74% no rate hike in July. But they don't. \n\nSo they're feeding retail investors garbage.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069422448345518346",
+    "published_at": "2026-06-23T14:08:54+00:00",
+    "fetched_at": "2026-06-23T16:21:17.051965+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "INTC",
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为当前下跌是由错误叙事（如无新数据支持的加息预测）导致的买入机会，并指出机构通过看空言论误导散户，而实际市场预测7月不加息概率高达74%。",
+      "translation": "这波下跌对我来说个人而言是个明显的买入机会，涉及$MU、$INTC和$TSM。因为我们在没有任何新的宏观经济数据（周四才公布）的情况下，由于诸如3次加息的垃圾叙事而出现了大幅下跌。如果机构真的相信美国银行抛出的‘3次加息’的卖方垃圾，他们就会在CME/预测市场上获利。而这些市场仍然预测7月不加息的概率为74%。但他们没有这么做。所以，他们正在向散户投资者灌输垃圾信息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069419452916289981",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Barclays says its S&amp;P500 target is no 8800 in 2027",
+    "tweet_url": "https://x.com/unusual_whales/status/2069419452916289981",
+    "published_at": "2026-06-23T13:57:00+00:00",
+    "fetched_at": "2026-06-23T16:22:19.403294+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPX"
+      ],
+      "direction": "bullish",
+      "summary": "巴克莱银行将标普500指数2027年目标价上调至8800点，暗示长期看涨股市。",
+      "translation": "最新消息：巴克莱银行表示其标普500指数2027年目标价为8800点。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069409386972221604",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -39,6 +260,25 @@
       "summary": "该推文指出台湾当地投资者大量借贷炒作台积电带动的AI股票，引发泡沫担忧，暗示市场过热风险。",
       "translation": "台湾当地居民大量借贷投资于台积电推动的AI股票热潮，引发泡沫担忧，据彭博社报道。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069401582815391917",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit BofA paid by PGIM to spread 3 rate hikes fear? \n\nBloomberg released an article on 15th June, with PGIM expecting 3 rate hikes this year. \n\nNow BofA pushing the same narrative.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069401582815391917",
+    "published_at": "2026-06-23T12:45:59+00:00",
+    "fetched_at": "2026-06-23T16:21:22.105480+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文质疑美国银行（BofA）被PGIM付费推动三次加息恐慌，暗示利率上升可能对市场产生负面影响。投资者需警惕加息预期带来的债券收益率上升和股市波动。",
+      "translation": "@aleabitoreddit 美国银行被PGIM付费来散布三次加息恐慌？彭博社6月15日发布文章称，PGIM预计今年将加息三次。现在美国银行也在推动同样的说法。",
+      "confidence": "medium"
     }
   },
   {
@@ -1517,6 +1757,33 @@
       "summary": "用户询问Sivers的DFB激光阵列因采用波分复用和多通道技术，速率高但可能仅适用于规模化部署，担心大规模量产周期长且存在风险，暗示对该技术商业化前景持谨慎态度。",
       "translation": "@aleabitoreddit 股神，Sivers的DFB激光阵列因为是波分复用，又是多通道，算下来速率好高，只在scale-up才用得上吧? 会不会大规模量产要很久很久？中间可能有各种风险。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068603148311404902",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I've been getting a lot of questions about OE Solutions (138080) recently. \n\nHere's my research/thoughts so far on it: \n\nThey're a small Korean optical transceiver company, similar to $AAOI. \n\nAnd they've become one the few EML players in the world (eg. $COHR, $LITE, Mitsubishi, Source, Sumitomo), with scarce 100G EML laser capacity for 800G/1.6T. \n\nOE appears to be trying to make the full transceiver, not just the EML. They also have finished ELSFP CPO products, with UHP  CW lasers, which is sampling Q3. \n\nLikewise, OE also seems to be building out the full ELSFP, rather than selling CW laser dies, so that's more market share. \n\nSo you can think of it as Korean AAOI but EML instead of CW, and less capacity/qualifications. And playing catch-up to the rest of the world. \n\nHowever in terms of timelines:\n\n1. 23dBm cooled ELSFP samples start in Q3 2026\n2. Sales base for 800G, and 2027 1.6T \"full force\"\n3. Late H2 2027, H1 2028 onward probably their ELSFP enters the volume production. \n\nAnd it seems they're working on 200G EML capability from their investor snipper 2025 OE IR snippet referenced “100GBaud EML / 200G PAM\". This seems promising given their IP/demos.\n\nELS has just been unveiled recently, sampling starts Q3. 800G/1.6T Optical transceivers are also likely 2027.\n\nSo this is basically Korea's sovereign photonics player, playing catchup to $LITE, $AAOI, and the bigger players.\n\n(Disclosure: I have positions in OE Solutions (138080). This is fundamental research for informational purposes, not financial advice).\n\nAs for OE solution valuations: \n\n1.  Doesn't seem like there's confirmed customers yet for these growth verticals. \n2. Probably not many people understood what they're building toward yet. \n3. Yields data kinda uncertain\n\n1. Customers: We're actually in a major EML/CW laser shortage, so any independent capacity will be sought after. I personally don't think they'll have a hard time finding customers here. I would assume anything they make might get bought out and would get extra support from Korea. \n\n2. Institutional support: Probably not much since it doesn't meet threshold for many US institution given MC size + KR listing. I also don't think many people understood what they're building yet. \n\n3. Yields/Capacity: OE's disclosed wafer/module utilization is low (i remember was around 31% underutilized off the top of my head), so there's enough material revenue they can generate before they need to spend on capex. \n\nI'm also not sure about EML/CW and other yields. Probably need to go ask the company. \n\nIs this some random crap co? No. It's been doing optical transceivers stuff for more than 20Y, has R&D in the U.S. and Netherlands. \n\nBut their entire AI growth vertical seems to happen next year, and hinges mainly around capacity/yields.\n\nAnd I personally think the EML/CW tech is probably worth a lot more than their current MC, if it were an acquisition target. \n\nEspecially from  a larger player that wanted to vertically integrate EML for pluggables and CW lasers for CPO. \n\nMarkets are probably waiting on more certainty around qualifications after Q3 sampling or earnings projections announcements.  \n\nTLDR on thoughts:\n\nSome of my friends discussed this last year, was probably way too early. Saw it got many comments 2 months ago, still too early. \n\nI still think now is early, but later in Q3-Q4 might be more interesting. I personally think it's a lot higher risk than a major CPO player like $SIVE, that's embedded in Ayar, $JBL, $GFS, and many other hyperscaler suppliers. Which also has Win Semi and others de-risking volume ramp. \n\nAs OE Solutions looks like a new player trying to build out an $AAOI for the optical transceivers but sovereign EML and CW laser production for CPO products. \n\nAnd there's a lot of answered questions around customers + volume ramp, which presents material risk. \n\nBut if you believe Korea can build out an 800G/1.6T transceiver EML supply chain and ELSFP with CW lasers. \n\nWith OE Solutions, it might be worth taking a look into. Still researching the company tho, just initial thoughts.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068603148311404902",
+    "published_at": "2026-06-21T07:53:18+00:00",
+    "fetched_at": "2026-06-23T16:21:32.227025+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "138080",
+        "AAOI",
+        "COHR",
+        "LITE",
+        "SIVE",
+        "JBL",
+        "GFS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了韩国光收发器公司OE Solutions，认为其拥有稀缺的100G EML激光器产能，有望受益于800G/1.6T光模块需求增长，但短期风险较高，客户/产能不确定性大，建议关注Q3-Q4的催化剂。作者对其长期技术价值持乐观态度。",
+      "translation": "我最近收到很多关于OE Solutions（138080）的问题。以下是我目前的研究/想法：这是一家韩国小型光收发器公司，类似$AAOI。它已成为全球少数EML厂商之一（如$COHR、$LITE、三菱、源杰、住友），拥有稀缺的800G/1.6T所需100G EML激光器产能。OE似乎正试图制造完整的收发器，而不仅仅是EML。他们也有完成ELSFP CPO产品，配备UHP CW激光器，将于Q3送样。同样，OE似乎也在构建完整的ELSFP，而不是只卖CW激光器晶圆，所以市场份额更大。你可以把它看作是韩国版的AAOI，只不过用EML替代CW，产能和认证较少，正在追赶世界其他厂商。时间线上：1. 23dBm冷却ELSFP样品于2026年Q3开始送样；2. 2027年800G和1.6T“全面发力”；3. 2027年下半年至2028年上半年ELSFP可能进入量产。他们还在研发200G EML能力。这基本上是韩国的自主光子学玩家，正在追赶$LITE、$AAOI等大厂。（披露：我持有OE Solutions头寸。这是仅供参考的基础研究，不构成投资建议。）关于估值：客户尚未确认、机构支持有限、良率数据不确定。但我认为EML/CW技术可能比当前市值有价值得多，如果是收购目标的话。市场可能在等待Q3送样后的认证或盈利预期。TLDR：现在可能还早，但Q3-Q4可能更有趣。个人认为风险高于SIVE等主要CPO玩家。如果你相信韩国能构建800G/1.6T收发器EML供应链，OE Solutions值得关注。仍在研究，仅为初步想法。",
+      "confidence": "medium"
     }
   },
   {
