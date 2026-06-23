@@ -25,26 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$SPCX",
-      "$ORCL",
-      "$AMC",
-      "$META"
+      "MU",
+      "NVDA",
+      "AMC",
+      "SPCX",
+      "META"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与算力基建",
-      "地缘政治与能源安全",
-      "企业裁员与劳动力市场",
-      "美联储利率预期与市场波动"
+      "半导体板块波动剧烈",
+      "地缘政治风险（霍尔木兹海峡）",
+      "AI基础设施与数据中心的投资热潮",
+      "劳动力市场与制造业裁员"
     ],
-    "recent_shift": "近期观点从关注股市乐观情绪转向强调地缘冲突、高额期权到期和利率上调风险。",
+    "recent_shift": "近期观点没有明显变化，仍聚焦于宏观风险与个别事件驱动机会。",
     "representative_quotes": [
-      "Nvidia, $NVDA, has announced a warm-water cooling system that it says can dramatically reduce the amount of water a data center uses...",
-      "Trump: stock buybacks are fake way to raise a price",
-      "AI-linked stocks now represent a record 45% of the S&P 500, per YF"
+      "A bloody day for semiconductors.",
+      "The implied move is ~±11%. IV rank is pinned at 100. The expiry that catches the report is pricing implied vol near 177%, the back months sit closer to 95%.",
+      "Trump: The US could become the “Guardian Angel” of the Strait of Hormuz and take 20% of the oil."
     ],
-    "generated_at": "2026-06-23T18:19:07.015512+00:00"
+    "generated_at": "2026-06-23T20:30:51.195194+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

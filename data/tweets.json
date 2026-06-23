@@ -1,5 +1,131 @@
 [
   {
+    "tweet_id": "2069513002798485982",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "FedEx, $FDX, earnings:\n\n- EPS: $6.3, est: $5.95\n- Revenue: $25 billion, est: $24 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2069513002798485982",
+    "published_at": "2026-06-23T20:08:44+00:00",
+    "fetched_at": "2026-06-23T20:30:28.250639+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "FDX"
+      ],
+      "direction": "bullish",
+      "summary": "联邦快递财报超预期，每股收益和营收均高于市场预估，显示出公司盈利能力和业务表现强劲，投资前景看好。",
+      "translation": "联邦快递，$FDX，财报：每股收益6.3美元，预估5.95美元；营收250亿美元，预估240亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069505520159895995",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "South Korea's KOSPI fell 9.99% yesterday, losing $474 billion in market cap, its biggest one-day drop in history.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069505520159895995",
+    "published_at": "2026-06-23T19:39:00+00:00",
+    "fetched_at": "2026-06-23T20:30:31.082472+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KOSPI"
+      ],
+      "direction": "bearish",
+      "summary": "韩国KOSPI指数单日暴跌9.99%，市值蒸发4740亿美元，创历史最大单日跌幅，显示市场恐慌情绪，短期内可能继续承压。",
+      "translation": "韩国KOSPI指数昨日下跌9.99%，市值蒸发4740亿美元，创历史最大单日跌幅。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069501226002354444",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$MU reports tomorrow after the close and volatility is at 52 week highs. Let me break it down for you in long form:\n\nThe implied move is ~±11%. IV rank is pinned at 100. The expiry that catches the report is pricing implied vol near 177%, the back months sit closer to 95%.\n\n  The internals are wild:\n  • IV at 108% (30d) is a fresh 52-week high, the low was ~38%.\n  • Realized vol is even higher, 128%, also a 52-week high, up from ~28%.\n  • RV is running above IV, so the stock is moving more than the options price. That's often a negative variance risk premium, sitting at the bottom of its range. Into a print, that's unusual and worth respecting.\n\nHurst value around ~0.55, AR(1) ~0.98, mean-reversion half-life around 37 days. MU's vol is sticky. It clusters and fades slowly, so even after tomorrow's crush, realized likely stays hot for weeks.\n\nOn the earnings expiry, ATM IV sits around 177% and climbs as you move down in strike, so puts carry a premium over calls. 25-delta risk reversals are negative across the curve (about -1.7 vol points on the earnings expiry, steepening to roughly -5 by late July), and the deep tails balloon further. The tape is paying up for crash protection atm. With $MU's current 12% drop today, some call buyers are hitting OTM moves despite high vol.\n\nLast seven reactions:  \n• Mar '26: -4%\n  • Dec '25: +10% (priced ~8%)\n  • Sep '25: -3%\n  • Jun '25: -1%\n  • Mar '25: -8%\n  • Dec '24: -16% (priced ~11%)\n  • Sep '24: +15% (priced ~9%)\n\n  Three of seven blew through the implied move, the rest did not.\n\n  Bottom line into the print: IV and RV both at 52-week highs, RV above IV, vol that stays persistent with a vol smile tilted toward downside protection. Long premium needs a real move just to beat the crush. Short premium banks the rich IV but is short the gap that's torched sellers before.\n\n  Full smile, term structure, skew, past straddles and every prior reaction:\n  https://t.co/qgejDMLOUa\n  https://t.co/PttlZVRUoa",
+    "tweet_url": "https://x.com/unusual_whales/status/2069501226002354444",
+    "published_at": "2026-06-23T19:21:56+00:00",
+    "fetched_at": "2026-06-23T20:30:37.005807+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bearish",
+      "summary": "该推文分析了美光科技（MU）财报前的期权市场数据，指出隐含波动率创52周新高，实际波动率高于隐含波动率，且偏斜显示市场倾向于买入看跌期权进行下行保护，历史数据显示7次财报中有3次突破隐含波动率，整体偏空。",
+      "translation": "$MU明天收盘后发布财报，波动率处于52周高点。让我详细分析：隐含波动约为±11%，IV排名100。财报周期的隐含波动率约177%，远月约95%。内部数据异常：30天IV为108%（52周新高，低点约38%），实际波动率128%（也创新高，低点约28%），RV高于IV，表明股票波动超过期权定价，负方差风险溢价处于底部，财报前不常见。Hurst值约0.55，AR(1)约0.98，均值回归半衰期约37天，MU的波动率有粘性，缓慢衰减，即使财报后下降，实际波动率可能持续数周。财报到期日的ATM IV约177%，向下行权价攀升，看跌期权溢价高于看涨。25-delta风险逆转在曲线内为负（财报周期约-1.7个波动率点，到7月下旬加深至约-5），远端尾部进一步扩大，市场正在为崩盘保护支付溢价。MU今日下跌12%，一些看涨期权买家仍在高波动下买入OTM期权。过去7次财报反应：2026年3月-4%，2025年12月+10%（隐含约8%），2025年9月-3%，2025年6月-1%，2025年3月-8%，2024年12月-16%（隐含约11%），2024年9月+15%（隐含约9%）。7次中有3次突破隐含波动，其余未突破。结论：IV和RV均处于52周高点，RV高于IV，波动率持久，偏斜向下行保护倾斜。买入溢价需要大幅波动才能对冲降波；卖出溢价获得高波动率收益，但面临过去多次爆仓的风险。完整微笑曲线、期限结构、偏斜、过往跨式策略及每次反应见链接。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069494714793963551",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$MU set to report earnings tomorrow... as expected $MU with as high of an IVR (100) as you can have going into the earnings print. Many recent sessions with an IVR of 100, which tells the story of the recent volatility.\n\nCertainly a $MU earnings print to watch, as the options market has priced in the largest move we've seen in 16 quarters.\n\nhttps://t.co/hvDqPaUuyP",
+    "tweet_url": "https://x.com/unusual_whales/status/2069494714793963551",
+    "published_at": "2026-06-23T18:56:04+00:00",
+    "fetched_at": "2026-06-23T20:30:40.729523+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "neutral",
+      "summary": "美光科技（MU）即将发布财报，期权市场隐含波动率（IVR）达到100，显示近期波动剧烈，且定价了16个季度以来最大的预期波动。投资者需重点关注此次财报，因其隐含波动极高。",
+      "translation": "$MU 明天将发布财报... 正如预期，$MU 的隐含波动率（IVR）达到了最高值100。最近多个交易日的IVR均为100，这反映了近期的波动情况。本次$MU财报无疑值得关注，因为期权市场已经定价了16个季度以来最大的预期波动。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069489917336637600",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Zuckerberg directed Meta, $META, to create prediction markets app, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2069489917336637600",
+    "published_at": "2026-06-23T18:37:00+00:00",
+    "fetched_at": "2026-06-23T20:30:42.199759+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "扎克伯格指示Meta开发预测市场应用，该消息可能影响META股价，但方向不明确，需关注后续进展。",
+      "translation": "据纽约时报报道，扎克伯格指示Meta（$META）创建预测市场应用。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069485918688522381",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX, $SPCX, is up 3.5%.\n\nIt is down 20% since peak. https://t.co/UNpbfVCAqp",
+    "tweet_url": "https://x.com/unusual_whales/status/2069485918688522381",
+    "published_at": "2026-06-23T18:21:06+00:00",
+    "fetched_at": "2026-06-23T20:30:43.764547+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bearish",
+      "summary": "推文指出SpaceX（$SPCX）当前上涨3.5%，但自高点已下跌20%，暗示近期表现疲软，可能意味着投资风险或回调。",
+      "translation": "SpaceX，$SPCX，上涨了3.5%。自高点以来已下跌20%。https://t.co/UNpbfVCAqp",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069479850822230283",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
