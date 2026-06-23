@@ -4,71 +4,70 @@
       "$SIVE",
       "$AAOI",
       "$LPK",
-      "$IQE",
-      "$MU"
+      "$MU",
+      "$XFAB"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "光子学与CW激光瓶颈",
-      "内存超级周期（存储器）",
-      "玻璃基板先进封装",
-      "美国AI供应链自主（再工业化）",
-      "Nav折扣与资产解锁"
+      "存储器超级周期",
+      "半导体设备与材料垄断",
+      "AI数据中心基建",
+      "欧洲半导体主权"
     ],
-    "recent_shift": "近期更强调CW激光瓶颈和玻璃基板主题，对内存主题的看好有所延续，但新增对WUS等Nav折扣标的的关注。",
+    "recent_shift": "近期偏重光通信和激光公司，从存储器转向光模块和光子学上游瓶颈",
     "representative_quotes": [
-      "I think photonics theme + CW laser chokepoint is goated.",
-      "Just a reminder: 99% of X was bearish on memory 3 months ago... Since then: $MU $380 -> $1122 (+195.26%)",
-      "LPK Laser for glass core substrates (about to ramp) at ~$730M, which thematically should have more premiums than memory."
+      "IO photonics theme + CW laser chokepoint is goated.",
+      "Best time to long CXL for memory pooling was 4 months ago.",
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-23T07:40:29.020703+00:00"
+    "generated_at": "2026-06-23T16:22:37.202858+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
       "$SPCX",
       "$NVDA",
-      "$MU",
-      "$GOOGL"
+      "$AMC",
+      "$META",
+      "$MSFT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI与半导体产业链持续主导",
-      "地缘政治风险推升能源与通胀",
-      "劳动力市场强劲与美联储政策转向",
-      "数据中心的资本支出与能源需求",
-      "期权与杠杆交易活跃度创新高"
+      "人工智能与自动化",
+      "伊朗地缘政治与能源安全",
+      "芯片与半导体投资热潮",
+      "美联储加息预期与市场风险",
+      "杠杆ETF与期权投机"
     ],
-    "recent_shift": "近期转向更加乐观，认为市场受AI主题和盈利增长驱动，而非投机，同时将伊朗地缘风险视为催化剂而非系统性威胁。",
+    "recent_shift": "从强调地缘政治风险转向聚焦AI推动的劳动力市场变化和科技行业增长。",
     "representative_quotes": [
-      "Almost the entire upgrade comes from higher expected profits, not investors getting more excited and paying up for the same stocks.",
-      "AI-linked stocks now represent a record 45% of the S&P 500, per YF",
-      "JPMorgan calculates that U.S. defined benefit pension funds, which manage approximately $9.6 trillion in assets, could account for around $55 billion in equity selling."
+      "AI is going to create a labor shortage... Jeff Bezos has said.",
+      "Trump: stock buybacks are fake way to raise a price",
+      "JUST IN: Barclays says its S&P500 target is no 8800 in 2027"
     ],
-    "generated_at": "2026-06-23T13:38:11.285153+00:00"
+    "generated_at": "2026-06-23T16:22:33.757035+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SK하이닉스",
-      "$MU",
-      "$SPCX",
-      "$NOK",
-      "$DRAM"
+      "MU",
+      "SPCX",
+      "DRAM",
+      "NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心，特别是海力士和美光",
-      "海力士美股ADR上线将驱动重估和涨价",
-      "SPCX太空算力概念长期看好但需合同落地",
-      "市场波动中坚持长期持有优质存储股",
-      "AI推动存储需求结构性增长，产能持续紧张"
+      "存储芯片是AI革命的终极正解，捏住AI的蛋蛋",
+      "海力士ADR美股上线在即，45天强势期确定性高",
+      "股价下跌不改长期信仰，暴跌是机会",
+      "SPCX和诺基亚太空算力布局备受关注"
     ],
-    "recent_shift": "近期更加强调海力士ADR和财报催化的确定性，从早期分散关注存储和SPCX转向重仓海力士及2x杠杆ETF",
+    "recent_shift": "早期极度乐观存储和SPCX，近期因韩国熔断和美股波动出现短暂焦虑，但核心观点未变",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "海力士q2利润保守预估1100亿美金纯现金...接下来45天是海力士的强势期，到时候q2的利润绝对吓死绝大多数人。",
-      "假如马斯克的擎天柱机器人量产，马斯克需要海量的记忆体。...一个能支持长期工作，有记忆能力的机器人需要多大容量的存储？"
+      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
+      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！",
+      "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。"
     ],
-    "generated_at": "2026-06-23T13:38:19.364959+00:00"
+    "generated_at": "2026-06-23T16:22:30.783132+00:00"
   }
 }
