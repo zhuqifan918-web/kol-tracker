@@ -1,5 +1,173 @@
 [
   {
+    "tweet_id": "2069261915071586414",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump said he spoke with the Iranians overnight, warning that if Iran closes the Strait of Hormuz, the U.S. will “blow the s— out of them.\"\n\nRead more: https://t.co/fXH9fuCVq9",
+    "tweet_url": "https://x.com/unusual_whales/status/2069261915071586414",
+    "published_at": "2026-06-23T03:31:00+00:00",
+    "fetched_at": "2026-06-23T03:55:43.323631+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普威胁若伊朗封锁霍尔木兹海峡将采取军事行动，这增加了中东地缘政治风险，可能推高油价并冲击全球市场。投资者需警惕能源板块波动及避险情绪升温。",
+      "translation": "特朗普表示昨晚与伊朗方面进行了沟通，警告称如果伊朗封锁霍尔木兹海峡，美国将‘彻底打击他们’。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069258326505140653",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "IMO photonics theme + CW laser chokepoint is goated. \n\nIt's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.\n\nBecause $NVDA caused EML bottlenecks, and forced architectural changes. \n\nWe're literally seeing the same thing today with CW lasers + 1.6T/CPO shifts with Nvidia signing LTAs everywhere.\n\nNow, $AMD + other CSPs are hunting for remaining scraps with large LTAs for CW lasers + optical components. \n\nGS Research's ~9-10x $154B optical TAM in 2028 and near $0 -> $91B CPO TAM in just 2 1/2 years.\n\nDon't just magically disappear from a month of trading volatility. \n\n$AAOI sitting at ~$13B, $SIVE sitting at ~$3B, and other CW laser players look strategically very valuable. \n\nAnd next year I think we'll look back and say \"Why didn't I learn my lesson the first time with EML from Nvidia and pick up CW laser adjacent names!\" \n\nThen there's likely gonna be some new mini trend 1-2 years from now like microled or quantum dot and we're gonna see the same thing repeat. \n\nThink Sumitomo's projections with CW laser share + silicon photonics being majority / dominant architecture should be correct. \n\nI'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+    "published_at": "2026-06-23T03:16:44+00:00",
+    "fetched_at": "2026-06-23T03:54:44.102453+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE",
+        "NVDA",
+        "AMD",
+        "AAOI",
+        "SIVE",
+        "SOI",
+        "TSEM"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好光子学主题，特别是连续波激光器领域的瓶颈机会，认为当前市场低估了相关股票（如AAOI、SIVE等），并类比此前NVDA推动EML带来的暴涨，预测连续波激光器和硅光子学将主导未来架构，建议投资者抓住类似机会。",
+      "translation": "我认为光子学主题加上连续波激光器的瓶颈非常看好。市场就像有短时记忆，忘记了$LITE在2024年到现在的市值从30亿涨到650亿以上。因为$NVDA导致EML瓶颈，迫使架构改变。如今我们同样看到连续波激光器和1.6T/CPO的转变，Nvidia到处签署长期协议。现在$AMD和其他云服务商也在争抢剩余资源，为连续波激光器和光学组件签署大型长期协议。高盛研究预测2028年光学TAM约1540亿美元，增长9-10倍，而CPO TAM在两年半内从近0到910亿美元。不要因为一个月的交易波动就消失。$AAOI约130亿市值，$SIVE约30亿市值，其他连续波激光器玩家看起来战略价值很高。明年我们可能会回望并说'为什么我没从上次NVDA的EML教训中学到，而提前布局连续波激光器相关标的？'然后一两年后可能又会出现新的微型趋势，如microled或量子点，类似情况会重演。我认为住友关于连续波激光器份额和硅光子学成为主导架构的预测应该正确。我个人专注于那个瓶颈，正如你们看到的$SOI、$TSEM、$SIVE等。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069251902978830773",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩国人极端呐，真几把又跌熔断 https://t.co/my97wIZbRo",
+    "tweet_url": "https://x.com/xiaomustock/status/2069251902978830773",
+    "published_at": "2026-06-23T02:51:13+00:00",
+    "fetched_at": "2026-06-23T03:55:33.221955+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "韩国股市出现熔断，市场极端波动，对投资情绪偏空。",
+      "translation": "韩国人真极端，又跌到熔断了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069246038935065076",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Best time to long CXL for memory pooling was 4 months ago.\n\n$ALAB up 276% from $117 -&gt; $440\n\n$MRVL up 291% from $79 -&gt; $309 https://t.co/7XmXHyXgb1",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069246038935065076",
+    "published_at": "2026-06-23T02:27:55+00:00",
+    "fetched_at": "2026-06-23T03:54:50.260179+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ALAB",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出当前并非买入内存池概念股CXL的最佳时机，但展示了ALAB和MRVL过去几个月的大幅上涨，暗示投资者应关注该领域但已错过最佳入场点。",
+      "translation": "做多CXL内存池的最佳时机是4个月前。$ALAB从117美元涨至440美元，涨幅276%。$MRVL从79美元涨至309美元，涨幅291%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069238712811282693",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这个信号挺危险，说明美版云厂和AI公司巨额的投入没有带来AI消费端产品明显的代际差异。等韩国熔断我再回来，很多天没熔断了。 https://t.co/cfBzZMGV3e",
+    "tweet_url": "https://x.com/xiaomustock/status/2069238712811282693",
+    "published_at": "2026-06-23T01:58:48+00:00",
+    "fetched_at": "2026-06-23T03:55:34.922527+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出美版云厂商和AI公司的巨额投入未能带来消费端产品的明显代际差异，暗示AI投资回报不及预期，市场存在风险。作者表示等韩国熔断再回来，反映对市场短期走势的悲观预期。",
+      "translation": "这个信号挺危险，说明美版云厂和AI公司巨额的投入没有带来AI消费端产品明显的代际差异。等韩国熔断我再回来，很多天没熔断了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069238510758904247",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "April NFP was also revised upward from 115K to 179K, reinforcing the picture of a labor market that is still running hot rather than cooling.\n\nRead more: https://t.co/UjMznePzM1",
+    "tweet_url": "https://x.com/unusual_whales/status/2069238510758904247",
+    "published_at": "2026-06-23T01:58:00+00:00",
+    "fetched_at": "2026-06-23T03:55:48.887236+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到4月非农就业数据上修至17.9万，表明劳动力市场依然强劲而非降温，这对经济基本面和市场情绪构成支撑，可能利好股市整体表现。",
+      "translation": "4月非农就业数据也从11.5万上修至17.9万，进一步强化了劳动力市场依然过热而非降温的图景。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069230221388333366",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I actually think OE Solutions ($138080.KQ\n) makes the most sense as an acquisition target by a large downstream player.\n\nSince it’s now trading at a stupid ~$215M MC for scarce EML/CW laser IP.\n\nA Source Photonics / Suzhou Dongshan Precision type acquisition might add a lot more value to another company that wants to vertically integrate. \n\nGiven there’s a lot of expensive R&D and capex required to scale their fabs and buildout ahead + it’s a small optical player. (Disclosure: I do own positions)\n\nJust floating the idea out there to other companies.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069230221388333366",
+    "published_at": "2026-06-23T01:25:03+00:00",
+    "fetched_at": "2026-06-23T03:55:02.110203+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "138080.KQ"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为OE解决方案（138080.KQ）作为下游大型企业的收购目标非常合理，尽管市值仅约2.15亿美元，但其稀缺的EML/CW激光IP价值被低估。类似Source Photonics或东山精密的收购案例可能为希望垂直整合的公司带来更大价值。由于该小型光通信企业需要大量研发和资本支出以扩建晶圆厂，作者提出这一想法供其他公司参考（作者持有仓位）。",
+      "translation": "我实际上认为OE解决方案（138080.KQ）作为下游大型企业的收购目标最合理。该股目前以约2.15亿美元的愚蠢市值交易，却拥有稀缺的EML/CW激光IP。类似Source Photonics或苏州东山精密的收购类型，可能为希望垂直整合的其他公司增加更多价值。考虑到扩大其晶圆厂和前期建设需要大量昂贵的研发和资本支出，且它是一家小型光通信企业。（披露：我持有仓位）只是把这个想法提出来供其他公司参考。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069214132415652048",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I wonder how it feels to miss out on the AI supercycle run…\n\nWith photonics, memory,\nand even Neoclouds like $NBIS.\n\nBecause you’re busy bagholding into the endless $6,000,000,000 active ATMs with $IREN. https://t.co/AFEr84Dezd",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069214132415652048",
+    "published_at": "2026-06-23T00:21:07+00:00",
+    "fetched_at": "2026-06-23T03:55:11.783508+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS",
+        "IREN"
+      ],
+      "direction": "bearish",
+      "summary": "该推文讽刺那些因持有IREN（并提及6亿美元活跃做市商）而错过AI超级周期（如NBIS等）的投资者，明确看空IREN并看好AI相关投资。",
+      "translation": "我想知道那些因为忙于持有拥有60亿美元活跃做市商的IREN，而错过AI超级周期（包括光子学、内存以及像NBIS这样的Neoclouds）的人是什么感受。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069208311816147318",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -980,6 +1148,27 @@
       "summary": "该推文看好Sivers（$SIVE）在下一代光学架构中的核心地位，认为其不仅是CPO扩展的激光器供应商，还已与Jabil开发1.6T光收发器，并与其他插拔式厂商合作。预计从2027年起，Sivers将成为多个光学架构的关键瓶颈，具有长期投资价值。",
       "translation": "这是一个误解：$SIVE不仅是CPO规模扩展的激光器供应商，更是下一代架构的激光器供应商。包括可插拔、CPO规模扩展、CPO规模升级、NPO等。Sivers和$JBL已经进入“神级模式”，开发了采用连续波激光器的1.6T光收发器，有效绕过了EML瓶颈，甚至提高了能效。根据Jabil管理层的说法，他们创造了“相对显著的护城河”。因此，对于下一代1.6T可插拔收发器，Sivers似乎立即被采用。市场也忽略了这一点：Jabil公告后，其他可插拔厂商已联系Sivers，目前正在合作（可能处于共同开发、认证阶段）。制造光收发器的厂商不多，且不像Lumentum那样垂直整合（例如Innolight/eoptolink等）。这些都是正在进行的开发，只是尚未公开，可能随时有新的新闻稿。对于CPO规模扩展（2026年下半年开始），如$POET，$SIVE是这些玩家的激光器供应商。CPO规模升级在2027年下半年，来自Ayar和Nvidia的NVLink CPO生态系统，这是光学玩家的主要量增。但在这里，$SIVE似乎从供应链映射上领先其他所有玩家，因为他们很可能早在与$MRVL Celestial、Lightmatter、Lightelligence等合作时就已参与设计。此外，对于$GFS等代工厂，$SIVE是参考激光器。甚至不包括O-Net等大型公司正在与$SIVE共建ELS，可能面向亚洲超大规模数据中心供应链。这就是为什么$SIVE是我最看好的激光瓶颈长期投资标的。感觉从2027年初开始，他们在新的光学架构中无处不在。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2068612545544704006",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit To provide additional information about OE, we are jointly developing an ELSFP module with global big tech companies.\n\nhttps://t.co/uSIoAG2KaG",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2068612545544704006",
+    "published_at": "2026-06-21T08:30:38+00:00",
+    "fetched_at": "2026-06-23T03:55:06.691012+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "OE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到与全球大型科技公司共同开发ELSFP模块，可能对OE公司构成利好，暗示合作进展和未来增长潜力。",
+      "translation": "提供关于OE的额外信息：我们正在与全球大型科技公司共同开发ELSFP模块。",
+      "confidence": "medium"
     }
   },
   {
@@ -6837,6 +7026,29 @@
       "summary": "推文基于宏观分析认为AI导致的失业将在2028年引发大通缩，并据此建议普通人股民全力做多相关ETF和个股，包括中韩半导体ETF、美股EWY及港股两倍做多海力士，整体方向看多。",
       "translation": "Citrini的这篇宏观分析《认为AI带来的大失业会在2028年最终导致大通缩（萧条）》这一篇文章普通人股民的唯一正解：a股：梭哈中韩半导体ETF；美股：梭哈EWY；港股：梭哈两倍做多海力士；韩国佬：梭哈海力士SK。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2023600495353622546",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "If you're bullish on DeepSeek LLMs with Engram (v4), going long on CXL seems like a idea. \n \n- $ALAB (Leo)\n- $AVGO\n- $MRVL are your big three in the US.\n\nEspecially Astera.\n\nIf it becomes a new architectural paradigm, companies like Astera maybe would sell millions of net-new CXL controllers to manage the external memory pools. \n\nThat being said, lot of reports are usually sensational around DeepSeek (internal benchmarks perform different than IRL), and might just be relegated to offline batch processing\n\nRecent drop across the board presents a good opportunity for these three.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2023600495353622546",
+    "published_at": "2026-02-17T03:28:49+00:00",
+    "fetched_at": "2026-06-23T03:54:56.106531+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ALAB",
+        "AVGO",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "该推特认为DeepSeek LLMs与Engram(v4)可能推动CXL新架构，看好美国三大股ALAB、AVGO、MRVL，尤其是Astera Labs，认为近期股价回调提供了入场机会，但也提醒DeepSeek实际表现可能不如基准测试。",
+      "translation": "如果你看好采用Engram（v4）的DeepSeek大语言模型，那么做多CXL似乎是个好主意。\n-$ALAB（Leo）\n-$AVGO\n-$MRVL 是美国三大相关股票。\n尤其是Astera。\n如果这成为一种新的架构范式，像Astera这样的公司可能会销售数百万个全新的CXL控制器来管理外部内存池。\n话虽如此，关于DeepSeek的大部分报道通常都是耸人听闻的（内部基准测试结果与实际表现不同），并且可能只局限于离线批处理。\n近期各股的全面下跌为这三只股票提供了很好的机会。",
+      "confidence": "medium"
     }
   },
   {
