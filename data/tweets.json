@@ -1,5 +1,213 @@
 [
   {
+    "tweet_id": "2069409386972221604",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, has suspended its \"Model Capability Initiative\" (MCI), an internal AI training program that tracked US employees' keystrokes, clicks, and mouse movements, after an internal security issue exposed sensitive employee data across the entire organization, per BI",
+    "tweet_url": "https://x.com/unusual_whales/status/2069409386972221604",
+    "published_at": "2026-06-23T13:17:00+00:00",
+    "fetched_at": "2026-06-23T13:37:48.277535+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "Meta因内部安全问题暂停了一项追踪员工行为数据的AI培训计划，该事件可能引发投资者对META数据安全与内部管理风险的关注，但未直接影响业务或财务表现。",
+      "translation": "Meta公司，$META，已暂停其“模型能力计划”（MCI），这是一项内部AI培训项目，曾追踪美国员工的键盘敲击、点击和鼠标移动情况，原因是在一次内部安全事件中，敏感的员工数据在整个组织内被泄露（据BI报道）。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069404353564152111",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Taiwan's locals are borrowing so much to invest in the TSMC-fueled AI stock frenzy it's raising fears of a bubble, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2069404353564152111",
+    "published_at": "2026-06-23T12:57:00+00:00",
+    "fetched_at": "2026-06-23T13:37:50.067492+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSMC"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出台湾当地投资者大量借贷炒作台积电带动的AI股票，引发泡沫担忧，暗示市场过热风险。",
+      "translation": "台湾当地居民大量借贷投资于台积电推动的AI股票热潮，引发泡沫担忧，据彭博社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069400924800586164",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "现在都知道 $SPCX 的业务了吧，\n可回收火箭，\n发射出去还能收回来，\n不炸的话还能再发射出去。 https://t.co/fTZm2ECr7l",
+    "tweet_url": "https://x.com/xiaomustock/status/2069400924800586164",
+    "published_at": "2026-06-23T12:43:22+00:00",
+    "fetched_at": "2026-06-23T13:37:36.960094+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "推文介绍了$SPCX的业务模式——可回收火箭，突出其重复使用降低成本的优势，暗示积极前景。",
+      "translation": "现在大家都知道$SPCX的业务了吧，可回收火箭，发射出去还能收回来，不炸的话还能再发射出去。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069399639154213281",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nothing is more stupid than Bloomberg copying BofA playbook with KOSPI back in March.\n\nAnd framing Taiwan’s $TSM ~23.6x forward p/e and $NVDA upstream supply chain as a “bubble”.\n\nThen using the words going into “debt” instead of “margin” + comparing Taiwan’s market to the .com bubble. \n\nCrap like this is why retail trust in media has dropped off a cliff in the past few years.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069399639154213281",
+    "published_at": "2026-06-23T12:38:16+00:00",
+    "fetched_at": "2026-06-23T13:36:39.194379+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文批评彭博社将台积电和英伟达上游供应链比作泡沫，认为这是愚蠢的分析，暗示这些资产被低估或市场过度悲观。推文维护韩国KOSPI指数，并指责媒体使用误导性词汇（如“债务”代替“保证金”）削弱了零售投资者的信任。整体上，推文对相关科技股持看涨态度。",
+      "translation": "没有什么比彭博社照搬美国银行在3月份对韩国KOSPI指数的做法更愚蠢的了。\n将台湾的台积电（约23.6倍远期市盈率）和英伟达上游供应链定性为“泡沫”。\n然后使用“债务”而不是“保证金”这个词，并将台湾市场与互联网泡沫进行比较。\n这种垃圾内容正是过去几年零售投资者对媒体信任度暴跌的原因。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069399320856613213",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SoftBank Group founder Masayoshi Son said there’s little merit to building data centers in space",
+    "tweet_url": "https://x.com/unusual_whales/status/2069399320856613213",
+    "published_at": "2026-06-23T12:37:00+00:00",
+    "fetched_at": "2026-06-23T13:37:51.806490+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "孙正义对太空数据中心建设持否定态度，可能影响相关太空投资概念，但对大盘无直接指向。",
+      "translation": "软银集团创始人孙正义表示，在太空建设数据中心没有什么价值。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069394287171907895",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: stock buybacks are fake way to raise a price",
+    "tweet_url": "https://x.com/unusual_whales/status/2069394287171907895",
+    "published_at": "2026-06-23T12:17:00+00:00",
+    "fetched_at": "2026-06-23T13:37:53.466896+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普批评股票回购是一种人为抬高股价的虚假手段，暗示市场存在泡沫或操纵，对股市整体持负面看法。",
+      "translation": "特朗普：股票回购是抬高股价的虚假方式。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069388279355756826",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE + Aeva likely coded from the new PR today and SIVE + Apple.\n\nFor Sivers lasers powering robotics / physical AI.\n\n-> Sivers lasers powering Boston Dynamics Atlas via. LG Innotek for robotics\n-> Nvidia Hyperion ecosystem w/ Sivers lasers for physical AI. \n\nAre possible paths with Aeva.\n\nApple likely using Sivers also reiterated from the newer webpage￼:\n\n“Optical sensing modules for wearables” from biometric and health monitoring.\n\nThey just can’t namedrop partners due to confidentiality, but consumer sensing is probably the biggest tell.\n\nPhysical AI and mass consumer production with Apple would be very material to revenue.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069388279355756826",
+    "published_at": "2026-06-23T11:53:07+00:00",
+    "fetched_at": "2026-06-23T13:36:45.413875+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "AEVA",
+        "NVDA",
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为Sivers激光器在机器人和物理AI领域（通过LG Innotek与波士顿动力Atlas合作，以及Nvidia Hyperion生态系统）有重要路径，同时与Apple在消费传感（可穿戴设备生物识别与健康监测）方面的合作可能带来重大营收，整体观点积极。",
+      "translation": "$SIVE + Aeva可能由今天的新新闻稿和SIVE + Apple共同编写。Sivers激光器为机器人/物理AI提供动力。-> Sivers激光器通过LG Innotek为波士顿动力Atlas提供动力，用于机器人技术。-> Nvidia Hyperion生态系统与Sivers激光器用于物理AI。这些是Aeva可能的路径。Apple也可能使用Sivers，从更新的网页中重申：“用于可穿戴设备的光学传感模块”，用于生物识别与健康监测。他们由于保密协议不能点名合作伙伴，但消费传感可能是最大的暗示。物理AI和与Apple的大规模消费生产对营收来说非常重要。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069384221081141527",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Iran-related energy crisis will drive global electrification, as countries look to improve domestic energy security and protect themselves, IEA has said.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069384221081141527",
+    "published_at": "2026-06-23T11:37:00+00:00",
+    "fetched_at": "2026-06-23T13:37:56.335497+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "国际能源署指出伊朗相关能源危机将推动全球电气化，各国为保障能源安全加速转型，利好可再生能源、电网和储能等投资领域。",
+      "translation": "国际能源署表示，伊朗相关的能源危机将推动全球电气化，因为各国希望提高国内能源安全并保护自己。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069373894398743000",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$XFAB upgraded to outperform with a PT of €12.8 by Bernstein, up from €5.\n\nOkay I forgive you Bernstein for Kioxia and Intel.\n\nI still think that’s just reactive PTs off automotive recovery, SiC/power semi ramp up.\n\nAnd undershooting potential a lot… If markets price in the possibility of xfab moving to HVM.\n\nOn their silicon photonics foundry w/ photonixfab / Nvidia + LIGENTEC for TFLN on SOI.\n\nRegardless I’m bullish too on XFAB and curious where it heads.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069373894398743000",
+    "published_at": "2026-06-23T10:55:58+00:00",
+    "fetched_at": "2026-06-23T13:36:54.756013+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论XFAB被Bernstein上调评级至跑赢大盘，目标价从€5上调至€12.8，作者认为这反应了汽车复苏和SiC/功率半导体增长，但低估了硅光电子代工业务的潜力，对XFAB持看好态度。",
+      "translation": "推特：$XFAB被Bernstein上调至跑赢大盘，目标价从€5升至€12.8。好吧我原谅你在Kioxia和Intel上的失误。我仍然认为这只是对汽车复苏、SiC/功率半导体爬坡的反应性目标价。而且低估了很多潜力……如果市场定价了XFAB转向HVM的可能性。关于他们的硅光电子代工，与PhotonixFab / Nvidia + LIGENTEC合作TFLN on SOI。不管怎样，我也看好XFAB，好奇它会走向何方。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069340861754728894",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit thoughts on $XFAB  Bernstein outperform rating?\nhttps://t.co/PU7zroWrJz",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069340861754728894",
+    "published_at": "2026-06-23T08:44:42+00:00",
+    "fetched_at": "2026-06-23T13:36:58.770969+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "bullish",
+      "summary": "该推文关注$XFAB获得Bernstein outperform评级，暗示分析师看好该股票，可能带来投资机会。",
+      "translation": "@aleabitoreddit 对$XFAB Bernstein的跑赢评级有什么看法？",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069302402147360946",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -582,6 +790,25 @@
       "summary": "SK海力士超越三星电子，成为韩国市值最高的上市公司，这反映出市场对SK海力士在半导体领域，特别是高带宽存储器（HBM）业务上的强劲前景持乐观态度，对该公司是利好信号。",
       "translation": "据路透社报道，SK海力士超越三星电子，成为韩国市值最高的上市公司。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069089871075905545",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Autonomous systems need both accurate sensing and reliable connectivity. \n\n#FMCW #LiDAR delivers precise motion and distance data, while high-frequency #wireless enables real-time communication and response.\n\nSee how Sivers Semiconductors is powering next-generation sensing and connectivity: https://t.co/IWBTZaUd6j\n\n#AutonomousSystems #Robotics #EdgeAI",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069089871075905545",
+    "published_at": "2026-06-22T16:07:21+00:00",
+    "fetched_at": "2026-06-23T13:36:49.827287+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文由Sivers Semiconductors发布，强调自研FMCW LiDAR和无线技术对自动驾驶与机器人的重要性，暗示公司技术优势，属于对该公司产品和前景的正面宣传。",
+      "translation": "自主系统需要精确的感知和可靠的连接。FMCW LiDAR提供精确的运动和距离数据，高频无线技术实现实时通信和响应。了解Sivers Semiconductors如何推动下一代感知和连接技术。",
+      "confidence": "medium"
     }
   },
   {
