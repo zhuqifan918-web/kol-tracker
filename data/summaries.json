@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
       "$NVDA",
+      "$SPCX",
+      "$ORCL",
       "$AMC",
-      "$META",
-      "$MSFT"
+      "$META"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与自动化",
-      "伊朗地缘政治与能源安全",
-      "芯片与半导体投资热潮",
-      "美联储加息预期与市场风险",
-      "杠杆ETF与期权投机"
+      "人工智能与算力基建",
+      "地缘政治与能源安全",
+      "企业裁员与劳动力市场",
+      "美联储利率预期与市场波动"
     ],
-    "recent_shift": "从强调地缘政治风险转向聚焦AI推动的劳动力市场变化和科技行业增长。",
+    "recent_shift": "近期观点从关注股市乐观情绪转向强调地缘冲突、高额期权到期和利率上调风险。",
     "representative_quotes": [
-      "AI is going to create a labor shortage... Jeff Bezos has said.",
+      "Nvidia, $NVDA, has announced a warm-water cooling system that it says can dramatically reduce the amount of water a data center uses...",
       "Trump: stock buybacks are fake way to raise a price",
-      "JUST IN: Barclays says its S&P500 target is no 8800 in 2027"
+      "AI-linked stocks now represent a record 45% of the S&P 500, per YF"
     ],
-    "generated_at": "2026-06-23T16:22:33.757035+00:00"
+    "generated_at": "2026-06-23T18:19:07.015512+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

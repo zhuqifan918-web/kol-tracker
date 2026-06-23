@@ -1,5 +1,107 @@
 [
   {
+    "tweet_id": "2069479850822230283",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A bloody day for semiconductors. https://t.co/KcSzntxFi1",
+    "tweet_url": "https://x.com/unusual_whales/status/2069479850822230283",
+    "published_at": "2026-06-23T17:57:00+00:00",
+    "fetched_at": "2026-06-23T18:18:48.357532+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文提到半导体板块经历惨烈下跌，暗示市场走弱或投资者恐慌，对相关投资构成利空。",
+      "translation": "对半导体来说是血洗的一天。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069474817871609865",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Oracle's, $ORCL, total workforce declined 13% in 2026, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2069474817871609865",
+    "published_at": "2026-06-23T17:37:00+00:00",
+    "fetched_at": "2026-06-23T18:18:50.230009+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ORCL"
+      ],
+      "direction": "bearish",
+      "summary": "Oracle员工总数减少13%可能表明公司面临成本削减或业务收缩，这对投资者而言是负面信号。",
+      "translation": "Oracle，$ORCL，据路透社报道，2026年员工总数减少13%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069469784593592645",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Job cuts at U.S. factories ran near their highest levels since the end of the global financial crisis in 2009 and the Covid-19 pandemic, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2069469784593592645",
+    "published_at": "2026-06-23T17:17:00+00:00",
+    "fetched_at": "2026-06-23T18:18:52.032861+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国工厂裁员人数接近2009年金融危机和2020年新冠疫情以来最高水平，表明制造业经济疲软，可能对股市和经济前景造成负面影响。",
+      "translation": "突发：根据CNBC报道，美国工厂裁员人数接近全球金融危机（2009年）和新冠疫情以来的最高水平。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069464751424594052",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Cathie Wood's Ark Invest, $ARKK, bought 210,121 shares in Elon Musk's SpaceX after it fell more than 16%.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069464751424594052",
+    "published_at": "2026-06-23T16:57:00+00:00",
+    "fetched_at": "2026-06-23T18:18:53.781329+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ARKK",
+        "SPACE X"
+      ],
+      "direction": "bullish",
+      "summary": "Cathie Wood的ARK Invest在SpaceX下跌超过16%后买入210,121股，显示机构逢低买入的看涨信号。",
+      "translation": "凯西·伍德的ARK Invest，$ARKK，在埃隆·马斯克的SpaceX下跌超过16%后，买入了210,121股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069459718402396617",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, has announced a warm-water cooling system that it says can dramatically reduce the amount of water a data center uses, eliminating “pretty much all water usage” inside the data center.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069459718402396617",
+    "published_at": "2026-06-23T16:37:00+00:00",
+    "fetched_at": "2026-06-23T18:18:55.925814+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达宣布推出温水冷却系统，可大幅减少数据中心用水量，甚至实现零水消耗。这体现了公司在节能技术上的创新，有望降低运营成本并增强ESG形象，对长期股价构成利好。",
+      "translation": "英伟达（$NVDA）宣布推出一种温水冷却系统，据称可以大幅减少数据中心的用水量，甚至“几乎完全消除”数据中心内部的用水。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069454685157912775",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
