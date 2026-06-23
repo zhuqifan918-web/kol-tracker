@@ -4,70 +4,69 @@
       "$SIVE",
       "$AAOI",
       "$LPK",
-      "$AXTI",
-      "$MU"
+      "$NVDA",
+      "$AMD"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与光电激光瓶颈",
-      "内存半导体超级周期",
-      "先进封装与玻璃基板",
-      "供应链地缘政治与出口管制",
-      "AI基础设施与电力架构升级"
+      "光子学与CW激光器瓶颈",
+      "AI超周期中的光模块/存储器",
+      "美国政府支持西部供应链",
+      "集装箱/玻璃基板等先进封装",
+      "寻找低估的NAV折扣股"
     ],
-    "recent_shift": "近期更加关注激光光源、玻璃基板等上游瓶颈领域，并强调2027-2028年的爬坡节奏，相比早期更注重具体公司垄断地位和NAV折价机会。",
+    "recent_shift": "近期关注点从广义AI概念转向具体光通信瓶颈和制造设备垄断，强调CW激光器比EML更具弹性，并聚焦于小市值但拥有稀缺产能的公司。",
     "representative_quotes": [
-      "Foundries like $GFS and $INTC have been going brrr lately.",
-      "I think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
-      "They have scarce laser capacity that $AMD and other hyperscalers are looking for."
+      "IMO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
+      "$SIVE is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc.",
+      "If $AAOI hits projections, that's over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC."
     ],
-    "generated_at": "2026-06-22T22:43:30.747607+00:00"
+    "generated_at": "2026-06-23T03:56:04.727973+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
       "$NVDA",
+      "$SPCX",
       "$MU",
       "$AAPL",
       "$MSFT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与算力基础设施",
-      "能源转型与数据中心需求",
-      "地缘政治与伊朗局势",
-      "股票回购限制与军工",
-      "杠杆ETF与期权交易"
+      "AI投资与基础设施",
+      "能源与地缘政治",
+      "科技巨头动向"
     ],
-    "recent_shift": "近期对美联储加息和衰退风险的关注度下降，更多转向对AI应用和基础设施的乐观态度。",
+    "recent_shift": "近期偏向于关注AI和科技股的具体利好，而非宏观风险，但整体仍看好市场。",
     "representative_quotes": [
-      "SpaceX, $SPCX, has signed a $6.3 billion compute agreement with Reflection AI",
-      "AI-linked stocks now represent a record 45% of the S&P 500",
-      "JPMorgan calculates that U.S. defined benefit pension funds... could account for around $55 billion in equity selling."
+      "AI is going to create a labor shortage, Jeff Bezos has said.",
+      "Nvidia, $NVDA, has said that AI's water challenge is largely solved",
+      "Trump has said the stock market is roaring."
     ],
-    "generated_at": "2026-06-23T00:01:33.871696+00:00"
+    "generated_at": "2026-06-23T03:56:09.934881+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK Hynix",
+      "SK하이닉스",
       "MU",
-      "NVDA",
       "SPCX",
-      "NOK"
+      "NOK",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储是AI革命核心",
-      "海力士ADR和财报催化",
-      "长期持有坚定信心",
-      "机构提前布局"
+      "存储芯片是AI革命的核心",
+      "海力士ADR上市及业绩爆发",
+      "SPCX太空算力与诺基亚合作",
+      "长期持有强于短线交易",
+      "技术创新与地缘政治风险"
     ],
-    "recent_shift": "近期从关注美光、英伟达等转向重点押注海力士，强调45天内多重利好集中兑现。",
+    "recent_shift": "近期观点无显著转变，依然强烈看多存储，并提及韩国熔断风险但整体乐观。",
     "representative_quotes": [
-      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。",
-      "拿住一个股票不动的时候最无聊，只能被无穷无尽的上涨暴击幼小的心灵。",
-      "美股今晚肯定大暴涨，因为spcx募资而锁定的几千亿美金才是大头。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "捏住海力士躺平就够了。",
+      "SPCX是人类有史以来最伟大最有想象力的公司。"
     ],
-    "generated_at": "2026-06-22T01:46:28.609833+00:00"
+    "generated_at": "2026-06-23T03:56:07.552614+00:00"
   }
 }
