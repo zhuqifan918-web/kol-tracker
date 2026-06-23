@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2069208311816147318",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan calculates that U.S. defined benefit pension funds, which manage approximately $9.6 trillion in assets, could account for around $55 billion in equity selling.\n\nRead more: https://t.co/jdZr41R2SI",
+    "tweet_url": "https://x.com/unusual_whales/status/2069208311816147318",
+    "published_at": "2026-06-22T23:58:00+00:00",
+    "fetched_at": "2026-06-23T00:01:14.222771+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通测算美国固定收益养老金计划可能带来约550亿美元的股票抛售，这可能对市场产生短期下行压力。",
+      "translation": "摩根大通计算，美国固定收益养老金计划管理约9.6万亿美元资产，可能带来约550亿美元的股票抛售。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069195078586020237",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump on $IBM: “I used to have that stock when it was much lower. I brilliantly sold it when I became president. That was not a good move.”",
+    "tweet_url": "https://x.com/unusual_whales/status/2069195078586020237",
+    "published_at": "2026-06-22T23:05:25+00:00",
+    "fetched_at": "2026-06-23T00:01:16.512940+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IBM"
+      ],
+      "direction": "bearish",
+      "summary": "特朗普提及自己曾持有IBM股票，并在高位卖出，暗示当前股价可能过高，表达了对IBM未来表现的负面看法。",
+      "translation": "特朗普对$IBM：'我以前持有那只股票，价格比现在低得多。我当总统时明智地卖掉了它。那不是个好主意。'",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069193212267581617",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "You've heard of the 1000% gains, but do you know the history?\n\nUnusual Whales focuses on options.\n\nBut how does it work with stocks like SpaceX, $SPCX, and GameStop, $GME?\n\nTake a listen. https://t.co/O3UJuGBo0w",
+    "tweet_url": "https://x.com/unusual_whales/status/2069193212267581617",
+    "published_at": "2026-06-22T22:58:00+00:00",
+    "fetched_at": "2026-06-23T00:01:19.043499+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX",
+        "GME"
+      ],
+      "direction": "neutral",
+      "summary": "推文提及SpaceX（$SPCX）和GameStop（$GME）股票，以及Unusual Whales的期权交易策略，并邀请收听相关讨论，但未明确表达看涨或看跌观点。",
+      "translation": "你听说过1000%的涨幅，但你知道它的历史吗？\n\nUnusual Whales专注于期权。\n\n但它如何应用于像SpaceX（$SPCX）和GameStop（$GME）这样的股票呢？\n\n听一下。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069188398825566318",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
