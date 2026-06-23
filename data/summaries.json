@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
-      "NVDA",
-      "AMC",
-      "SPCX",
-      "META"
+      "$MU",
+      "$SPCX",
+      "$NVDA",
+      "$GOOGL",
+      "$GME"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "半导体板块波动剧烈",
-      "地缘政治风险（霍尔木兹海峡）",
-      "AI基础设施与数据中心的投资热潮",
-      "劳动力市场与制造业裁员"
+      "科技股与半导体高波动",
+      "AI投资与数据中心扩张",
+      "地缘政治与能源危机",
+      "期权交易与市场操纵",
+      "货币政策与股市估值"
     ],
-    "recent_shift": "近期观点没有明显变化，仍聚焦于宏观风险与个别事件驱动机会。",
+    "recent_shift": "从早期关注期权交易策略和个别公司新闻，转向更广泛的地缘政治风险、宏观经济紧缩预期和整体市场流动性警告。",
     "representative_quotes": [
-      "A bloody day for semiconductors.",
-      "The implied move is ~±11%. IV rank is pinned at 100. The expiry that catches the report is pricing implied vol near 177%, the back months sit closer to 95%.",
-      "Trump: The US could become the “Guardian Angel” of the Strait of Hormuz and take 20% of the oil."
+      "A bloodbath in semiconductors today.",
+      "BREAKING: GameStop, $GME, CEO Ryan Cohen has withdrawn a bonus package that could have paid him up to $35 billion, saying the company should remain fully focused on its operating performance and proposed acquisition of eBay",
+      "The US strategic oil reserve has hit the lowest level since 1983"
     ],
-    "generated_at": "2026-06-23T20:30:51.195194+00:00"
+    "generated_at": "2026-06-23T21:58:23.364838+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

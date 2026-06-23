@@ -1,5 +1,107 @@
 [
   {
+    "tweet_id": "2069540500558971387",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Alibaba, $BABA, has sued US for removal from China military blacklist.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069540500558971387",
+    "published_at": "2026-06-23T21:58:00+00:00",
+    "fetched_at": "2026-06-23T21:58:05.420312+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BABA"
+      ],
+      "direction": "neutral",
+      "summary": "阿里巴巴正式起诉美国政府，要求将公司从中国军事黑名单中移除，可能对股价造成波动，但法律结果存在不确定性，暂时不宜做出明确的多空判断。",
+      "translation": "阿里巴巴（$BABA）已起诉美国政府，要求将其从中国军事黑名单中移除。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069538479059677233",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Google, $GOOGL, is being added to the Dow Jones, replacing Verizon, $VZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2069538479059677233",
+    "published_at": "2026-06-23T21:49:58+00:00",
+    "fetched_at": "2026-06-23T21:58:07.394973+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "VZ"
+      ],
+      "direction": "bullish",
+      "summary": "谷歌被加入道琼斯工业平均指数，替换威瑞森，这对谷歌是积极信号，可能推动股价上涨，而威瑞森则可能面临压力。",
+      "translation": "突发：谷歌（$GOOGL）将被纳入道琼斯指数，取代威瑞森（$VZ）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069533705874583709",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A bloodbath in semiconductors today. https://t.co/rbyKLda1Yc",
+    "tweet_url": "https://x.com/unusual_whales/status/2069533705874583709",
+    "published_at": "2026-06-23T21:31:00+00:00",
+    "fetched_at": "2026-06-23T21:58:09.138009+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文指出半导体板块今日遭遇大幅下跌，市场表现惨烈，整体情绪偏空。",
+      "translation": "今天半导体板块遭遇了一场血洗。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069527414309535882",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: GameStop, $GME, CEO Ryan Cohen has withdrawn a bonus package that could have paid him up to $35 billion, saying the company should remain fully focused on its operating performance and proposed acquisition of eBay, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2069527414309535882",
+    "published_at": "2026-06-23T21:06:00+00:00",
+    "fetched_at": "2026-06-23T21:58:11.388531+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GME"
+      ],
+      "direction": "bullish",
+      "summary": "GameStop CEO Ryan Cohen放弃高达350亿美元的奖金方案，表明公司专注于运营业绩和收购eBay，这可能提升投资者信心，提振股价。",
+      "translation": "突发：GameStop（$GME）CEO Ryan Cohen已撤回一项可能支付给他最多350亿美元的奖金方案，称公司应完全专注于运营业绩和拟议收购eBay（据《华尔街日报》）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069525401123102834",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A real quote from Bloomberg's \"FOMO really got me: Traders lever up in stock-crazed Taiwan\": https://t.co/vdr2yCl2D0",
+    "tweet_url": "https://x.com/unusual_whales/status/2069525401123102834",
+    "published_at": "2026-06-23T20:58:00+00:00",
+    "fetched_at": "2026-06-23T21:58:13.648176+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用彭博社报道，指出台湾股市因投资者恐慌性买入（FOMO）而出现杠杆交易热潮，暗示市场情绪过热，可能存在回调风险。",
+      "translation": "彭博社的真实引用：“‘害怕错过’真的让我着迷：交易者在股票狂热的台湾加杠杆。”",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069513002798485982",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
