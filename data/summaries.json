@@ -4,46 +4,48 @@
       "$SIVE",
       "$AAOI",
       "$LPK",
-      "$NVDA",
-      "$AMD"
+      "$IQE",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与CW激光器瓶颈",
-      "AI超周期中的光模块/存储器",
-      "美国政府支持西部供应链",
-      "集装箱/玻璃基板等先进封装",
-      "寻找低估的NAV折扣股"
+      "光子学与CW激光瓶颈",
+      "内存超级周期（存储器）",
+      "玻璃基板先进封装",
+      "美国AI供应链自主（再工业化）",
+      "Nav折扣与资产解锁"
     ],
-    "recent_shift": "近期关注点从广义AI概念转向具体光通信瓶颈和制造设备垄断，强调CW激光器比EML更具弹性，并聚焦于小市值但拥有稀缺产能的公司。",
+    "recent_shift": "近期更强调CW激光瓶颈和玻璃基板主题，对内存主题的看好有所延续，但新增对WUS等Nav折扣标的的关注。",
     "representative_quotes": [
-      "IMO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
-      "$SIVE is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc.",
-      "If $AAOI hits projections, that's over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC."
+      "I think photonics theme + CW laser chokepoint is goated.",
+      "Just a reminder: 99% of X was bearish on memory 3 months ago... Since then: $MU $380 -> $1122 (+195.26%)",
+      "LPK Laser for glass core substrates (about to ramp) at ~$730M, which thematically should have more premiums than memory."
     ],
-    "generated_at": "2026-06-23T03:56:04.727973+00:00"
+    "generated_at": "2026-06-23T07:40:29.020703+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
       "$SPCX",
+      "$NVDA",
       "$MU",
       "$AAPL",
       "$MSFT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI投资与基础设施",
-      "能源与地缘政治",
-      "科技巨头动向"
+      "美股市场整体看涨，盈利驱动上涨",
+      "AI相关股票和基础设施投资持续增长",
+      "地缘政治风险（伊朗、海峡局势）影响油价和市场情绪",
+      "美联储利率政策转向鹰派，市场预期多次加息",
+      "期权市场活跃，大额交易引发关注"
     ],
-    "recent_shift": "近期偏向于关注AI和科技股的具体利好，而非宏观风险，但整体仍看好市场。",
+    "recent_shift": "近期观点从关注劳工市场降温转向强调劳工市场仍然过热，并且对美联储加息预期的态度从低概率变为高概率多次加息。",
     "representative_quotes": [
-      "AI is going to create a labor shortage, Jeff Bezos has said.",
-      "Nvidia, $NVDA, has said that AI's water challenge is largely solved",
-      "Trump has said the stock market is roaring."
+      "Almost the entire upgrade comes from higher expected profits, not investors getting more excited and paying up for the same stocks.",
+      "47% of global fund managers expect a “soft landing,” with no recession, per Bank of America",
+      "BREAKING: Goldman Sachs, $GS, says there is now a 15% chance of a recession. It previously said there was a 25% chance."
     ],
-    "generated_at": "2026-06-23T03:56:09.934881+00:00"
+    "generated_at": "2026-06-23T07:40:32.115959+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

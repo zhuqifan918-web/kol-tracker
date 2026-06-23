@@ -1,5 +1,69 @@
 [
   {
+    "tweet_id": "2069302402147360946",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There’s nothing like BoFA giving BS extreme bear predictions.\n\nTo clear all the Korean leveraged traders a 2nd time this year.\n\nKorean markets are less resilient when it’s built on Aespa, Salmon skincare, and SK Hynix/Samsung memory names ig. https://t.co/84FpyHX0kC",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069302402147360946",
+    "published_at": "2026-06-23T06:11:53+00:00",
+    "fetched_at": "2026-06-23T07:39:40.199774+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SK Hynix",
+        "Samsung"
+      ],
+      "direction": "bearish",
+      "summary": "该推文认为美国银行发布极端看空预测，意在清理韩国杠杆交易者，并指出韩国市场因依赖特定股票（SK海力士、三星）和非核心产业而缺乏韧性。",
+      "translation": "没有什么比美国银行发布荒谬的极端看空预测更能再次清理韩国杠杆交易者了。当韩国市场建立在Aespa、三文鱼护肤品以及SK海力士/三星内存等名字上时，它的韧性较差。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069271973402931511",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Bank of America looks like the malicious equivalent of Bernstein/Jim Cramer to retail.\n\n- said $KOSPI / $EWY was an extreme bubble, compared it to Silver crash back in March, causing retail to sell positions.\n\nThe index proceeded to close to double and hit ATHs since that call.\n\n- saying “BoA expects 3 rate hikes in 2026”,\n\nClose to 0% chance on derivative markets and causes retail panic. While Trump administration calling for rate cuts.\n\nAbsolutely harmful behavior from a US bank publishing this garbage to retail investors.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069271973402931511",
+    "published_at": "2026-06-23T04:10:58+00:00",
+    "fetched_at": "2026-06-23T07:39:46.364994+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KOSPI",
+        "EWY",
+        "BAC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文批评美国银行发布误导零售投资者的市场分析，指出其曾误判KOSPI/EWY泡沫并导致散户抛售，后又发布不实加息预期引发恐慌。推文对银行行为持负面态度，但未明确给出投资建议。",
+      "translation": "美国银行看起来就像是零售投资者眼中的伯恩斯坦/吉姆·克莱默的恶意版本。\n- 曾称$KOSPI/$EWY是极端泡沫，并与3月白银崩盘相比，导致散户抛售。该指数此后几乎翻倍并创下历史新高。\n- 称“美国银行预计2026年加息3次”，衍生品市场显示概率接近0%，引发散户恐慌，而特朗普政府呼吁降息。\n一家美国银行向零售投资者发布这种垃圾信息，绝对是有害行为。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069268709773091147",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Almost the entire upgrade comes from higher expected profits, not investors getting more excited and paying up for the same stocks.\n\nRead more: https://t.co/v3XuMoa9jh",
+    "tweet_url": "https://x.com/unusual_whales/status/2069268709773091147",
+    "published_at": "2026-06-23T03:58:00+00:00",
+    "fetched_at": "2026-06-23T07:40:08.716661+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出市场上涨主要源于盈利预期提高，而非投资者情绪驱动的估值扩张，暗示基本面改善带来健康上涨。",
+      "translation": "几乎全部涨幅来自更高的预期利润，而非投资者变得更加兴奋并愿意为同样的股票支付更高价格。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069261915071586414",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -43,6 +107,25 @@
       "summary": "该推文看好光子学主题，特别是连续波激光器领域的瓶颈机会，认为当前市场低估了相关股票（如AAOI、SIVE等），并类比此前NVDA推动EML带来的暴涨，预测连续波激光器和硅光子学将主导未来架构，建议投资者抓住类似机会。",
       "translation": "我认为光子学主题加上连续波激光器的瓶颈非常看好。市场就像有短时记忆，忘记了$LITE在2024年到现在的市值从30亿涨到650亿以上。因为$NVDA导致EML瓶颈，迫使架构改变。如今我们同样看到连续波激光器和1.6T/CPO的转变，Nvidia到处签署长期协议。现在$AMD和其他云服务商也在争抢剩余资源，为连续波激光器和光学组件签署大型长期协议。高盛研究预测2028年光学TAM约1540亿美元，增长9-10倍，而CPO TAM在两年半内从近0到910亿美元。不要因为一个月的交易波动就消失。$AAOI约130亿市值，$SIVE约30亿市值，其他连续波激光器玩家看起来战略价值很高。明年我们可能会回望并说'为什么我没从上次NVDA的EML教训中学到，而提前布局连续波激光器相关标的？'然后一两年后可能又会出现新的微型趋势，如microled或量子点，类似情况会重演。我认为住友关于连续波激光器份额和硅光子学成为主导架构的预测应该正确。我个人专注于那个瓶颈，正如你们看到的$SOI、$TSEM、$SIVE等。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069253610395832510",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Speaking to Fox News, Trump said the US could become the “Guardian Angel” of the Strait of Hormuz and take 20% of the oil.\n\nRead more: https://t.co/q6PWqs4gWQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2069253610395832510",
+    "published_at": "2026-06-23T02:58:00+00:00",
+    "fetched_at": "2026-06-23T07:40:10.474075+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普关于控制霍尔木兹海峡石油运输的言论可能影响全球油价和能源市场，但未提及具体投资标的。投资者需关注地缘政治风险对原油价格的潜在影响。",
+      "translation": "特朗普对福克斯新闻表示，美国可以成为霍尔木兹海峡的“守护天使”，并拿走20%的石油。",
+      "confidence": "medium"
     }
   },
   {
@@ -250,6 +333,25 @@
       "summary": "推文提到TSEM大涨10%以上，并后悔未在三月重仓。同时指出晶圆代工板块（GFS、INTC）近期表现强劲，整体看好半导体制造类股票。",
       "translation": "哇，$TSEM今天涨了10%以上。好日子，后悔三月份没把这支股票作为我的重仓股之一。像$GFS和$INTC这样的晶圆代工厂最近涨得很猛。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069179490404884850",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Trump signs executive orders on quantum, supercharging a national effort in innovation in quantum technologies",
+    "tweet_url": "https://x.com/unusual_whales/status/2069179490404884850",
+    "published_at": "2026-06-22T22:03:28+00:00",
+    "fetched_at": "2026-06-23T07:40:19.603946+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普签署量子技术行政令，利好量子计算概念股，建议关注相关ETF及个股如IONQ、RGTI等。",
+      "translation": "突发：特朗普签署关于量子技术的行政命令，加速推进国家量子技术创新。",
+      "confidence": "medium"
     }
   },
   {
