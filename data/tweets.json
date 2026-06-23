@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2069555600036663684",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The increase follows a 546% rally in the SOX semiconductor index.\n\nRead more: https://t.co/FsWtFLekUC",
+    "tweet_url": "https://x.com/unusual_whales/status/2069555600036663684",
+    "published_at": "2026-06-23T22:58:00+00:00",
+    "fetched_at": "2026-06-23T23:06:42.997975+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出SOX半导体指数已暴涨546%，暗示市场对半导体行业持续看好，可能带来投资机会。",
+      "translation": "此次上涨紧随SOX半导体指数546%的涨幅之后。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069540500558971387",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
