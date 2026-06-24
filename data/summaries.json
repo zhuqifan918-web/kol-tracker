@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
-      "SPCX",
-      "NVDA",
-      "AMC",
-      "GOOGL"
+      "$MU",
+      "$SPCX",
+      "$NVDA",
+      "$AMC",
+      "$GOOGL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与半导体主导市场",
-      "地缘政治与伊朗冲突影响能源和通胀",
-      "美联储加息预期持续"
+      "半导体行业波动与财报预期",
+      "地缘政治风险（伊朗、中国）与能源影响",
+      "AI与数据中心投资热潮",
+      "机构持仓与市场流动性变化",
+      "政策监管（住房、金融）与利率预期"
     ],
-    "recent_shift": "近期从对半导体板块的看空转向关注MU财报和避险套利机会",
+    "recent_shift": "近期明显增加对半导体财报风险和地缘政治事件的关注，同时指出市场情绪从极度贪婪转向谨慎。",
     "representative_quotes": [
-      "BREAKING: Jamie Dimon of JPMorgan has said: We’re in a bull market.",
-      "A bloodbath in semiconductors today. https://t.co/rbyKLda1Yc",
-      "JPMorgan says its S&P500 year end price target is 7,800."
+      "A bloodbath in semiconductors today.",
+      "The Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody’s.",
+      "JPMorgan calculates that U.S. defined benefit pension funds ... could account for around $55 billion in equity selling."
     ],
-    "generated_at": "2026-06-24T16:38:09.317355+00:00"
+    "generated_at": "2026-06-24T18:28:14.967692+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
