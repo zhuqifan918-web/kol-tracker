@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2069842238771696120",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Barclays has said its 2026 year-end target for the S&amp;P 500 index is 7,800 from 7,650",
+    "tweet_url": "https://x.com/unusual_whales/status/2069842238771696120",
+    "published_at": "2026-06-24T17:57:00+00:00",
+    "fetched_at": "2026-06-24T18:27:43.315923+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPY"
+      ],
+      "direction": "bullish",
+      "summary": "巴克莱银行将标普500指数2026年底目标从7650点上调至7800点，暗示对美股未来走势持乐观态度。",
+      "translation": "巴克莱银行表示，其标普500指数2026年底目标从7650点上调至7800点。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069837205648891996",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A $7 billion private credit fund run by Morgan Stanley is capping investor withdrawals at 5%, allowing less than half of the redemptions shareholders requested in the second quarter.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069837205648891996",
+    "published_at": "2026-06-24T17:37:00+00:00",
+    "fetched_at": "2026-06-24T18:27:45.516748+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根士丹利旗下70亿美元私人信贷基金将投资者赎回上限设为5%，二季度仅满足不到一半的赎回请求，反映出私人信贷市场的流动性压力，可能引发对该类资产风险的担忧。",
+      "translation": "摩根士丹利旗下一只70亿美元的私人信贷基金将投资者赎回上限设定为5%，允许的赎回金额不到股东在第二季度申请赎回的一半。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069832172471718215",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Amazon, $AMZN, Prime Day household spending is down 16%, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069832172471718215",
+    "published_at": "2026-06-24T17:17:00+00:00",
+    "fetched_at": "2026-06-24T18:27:47.234181+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bearish",
+      "summary": "彭博数据显示亚马逊Prime Day家庭支出同比下降16%，暗示消费疲软，对AMZN股价构成负面信号。",
+      "translation": "亚马逊，$AMZN，根据彭博社数据，Prime Day家庭支出下降了16%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069827139235463251",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Israel's Defence Minister: Israel will not withdraw from South Lebanon, even if the US demands it",
+    "tweet_url": "https://x.com/unusual_whales/status/2069827139235463251",
+    "published_at": "2026-06-24T16:57:00+00:00",
+    "fetched_at": "2026-06-24T18:27:48.795050+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "以色列国防部长表示即使美国要求也不会从南黎巴嫩撤军，这表明中东地缘政治紧张局势可能加剧，投资者应关注市场波动性和避险资产（如黄金）的表现。",
+      "translation": "刚刚：以色列国防部长：以色列不会从南黎巴嫩撤军，即使美国要求这样做。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069822106179883258",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -39,6 +119,25 @@
       "direction": "bullish",
       "summary": "特朗普表示将释放约5亿美元伊朗资金，用于购买美国农产品（小麦、玉米、大豆等）。此消息可能利好美国农产品相关ETF（如DBA、CORN、WEAT、SOYB）以及农业类股票。",
       "translation": "特朗普表示对伊朗的初步经济救助将涉及大约5亿美元的美国商品。根据谈判框架，美国将释放部分伊朗资金给美国农民和牧场主，用于购买小麦、玉米、大豆和其他食品，这些食品将仅运往伊朗。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069809386042925420",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has said he will sign the bill to limit private equity and corporate home ownership",
+    "tweet_url": "https://x.com/unusual_whales/status/2069809386042925420",
+    "published_at": "2026-06-24T15:46:27+00:00",
+    "fetched_at": "2026-06-24T18:27:51.362189+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普签署限制私募股权和企业购房法案，可能导致房地产投资需求下降，对房价和房地产相关股票构成利空。",
+      "translation": "突发：特朗普表示他将签署限制私募股权和企业购房的法案。",
       "confidence": "medium"
     }
   },
@@ -145,6 +244,27 @@
     }
   },
   {
+    "tweet_id": "2069791907128189150",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Scott Bessent: We are doing the right things to keep the US dollar strong.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069791907128189150",
+    "published_at": "2026-06-24T14:37:00+00:00",
+    "fetched_at": "2026-06-24T18:27:54.277485+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USD"
+      ],
+      "direction": "bullish",
+      "summary": "此推文表明政策制定者致力于维持美元强势，这对美元相关投资（如美元指数基金或外汇交易）可能构成利好。",
+      "translation": "斯科特·贝森特：我们正在采取正确措施以保持美元强势。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069786874076676390",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -230,6 +350,25 @@
     }
   },
   {
+    "tweet_id": "2069771774544564592",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Chinese supercomputer tops all US machines in speed for first time since 2017, per FOX",
+    "tweet_url": "https://x.com/unusual_whales/status/2069771774544564592",
+    "published_at": "2026-06-24T13:17:00+00:00",
+    "fetched_at": "2026-06-24T18:27:58.448319+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息报道了中国超级计算机自2017年以来首次在速度上超越美国所有机器，可能对高科技和半导体行业产生长期影响，但未提及具体投资标的或市场建议。",
+      "translation": "突发新闻：中国超级计算机自2017年以来首次在速度上超越美国所有机器，据福克斯新闻。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069766741404844484",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -266,6 +405,25 @@
       "direction": "bearish",
       "summary": "苹果关闭首家工会化门店，可能暗示劳资关系紧张或成本上升，对股价构成负面情绪影响。",
       "translation": "苹果，$AAPL，已关闭其首家工会化的美国门店，据MorePerfectUnion报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069761708298731686",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The FDA has been in turmoil for months,\" per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069761708298731686",
+    "published_at": "2026-06-24T12:37:00+00:00",
+    "fetched_at": "2026-06-24T18:27:59.780737+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "FDA动荡可能影响医药审批流程，对医药板块及相关ETF构成潜在利空，建议关注监管不确定性带来的风险。",
+      "translation": "据彭博社报道，“FDA已经动荡数月。”",
       "confidence": "medium"
     }
   },
