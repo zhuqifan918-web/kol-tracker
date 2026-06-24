@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2069896093811474928",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citigroup says its 6-12 month price target for Gold is $5000/oz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069896093811474928",
+    "published_at": "2026-06-24T21:31:00+00:00",
+    "fetched_at": "2026-06-24T21:52:26.283014+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD"
+      ],
+      "direction": "bullish",
+      "summary": "花旗银行将黄金的6-12个月目标价上调至5000美元/盎司，显示对黄金的强烈看涨预期，可能推动贵金属相关投资需求。",
+      "translation": "花旗银行表示，其6-12个月黄金目标价为每盎司5000美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069892511406100716",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Always amazing looking at $MU earnings: \n\nRevenue: $41.46B vs. $35.8B est.\nEPS: $25.11 vs. $20.78 est.\n\nForecasts:\n\nRevenue: $49B to $51B, vs $43.24B est \nEPS: $30.00 to $32.00, vs. $25.31.\n\n“Micron said on Wednesday that it has signed 16 long-term agreements”\n\n\"When completed, we expect approximately half or more of our company revenue to be under these\"\n\nLooks like memory demand has become structural…\n\nBut great earnings to show up the AI trade is continuing to ramp up.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069892511406100716",
+    "published_at": "2026-06-24T21:16:46+00:00",
+    "fetched_at": "2026-06-24T21:51:58.180629+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "美光科技财报大幅超预期，营收和EPS均明显高于预估，且未来营收和EPS指引也远超市场预期。公司已签署多项长期协议，预计未来超半数营收来自这些协议，表明内存需求呈现结构性增长，AI行情仍在持续。",
+      "translation": "看$MU的财报总是令人惊叹：营收：414.6亿美元，预期358亿；每股收益：25.11美元，预期20.78美元。预测：营收490亿至510亿美元，预期432.4亿；每股收益30.00至32.00美元，预期25.31。“美光周三表示已签署16项长期协议。”“完成后，我们预计公司约一半或更多营收将来自这些协议。”看来内存需求已变得具有结构性……但出色的财报表明AI交易仍在继续增长。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069887788842119183",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Investors are turning less bearish on the USD,\" per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2069887788842119183",
+    "published_at": "2026-06-24T20:58:00+00:00",
+    "fetched_at": "2026-06-24T21:52:28.027164+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "根据美国银行的分析，投资者对美元看跌情绪减弱，表明市场对美元前景的悲观情绪正在缓解。",
+      "translation": "美国银行表示，投资者对美元的看跌情绪正在减弱。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069880994212262007",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "40% of investors predict a no landing scenario, per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2069880994212262007",
+    "published_at": "2026-06-24T20:31:00+00:00",
+    "fetched_at": "2026-06-24T21:52:30.123696+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国银行调查显示40%的投资者预期经济将出现“不着陆”情景，即经济持续增长且通胀未完全回落，这可能影响美联储政策路径和资产配置。该数据反映市场对宏观环境的看法分歧，为投资决策提供参考。",
+      "translation": "根据美国银行的数据，40%的投资者预测会出现“不着陆”情景。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069874575450702076",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -37,6 +117,27 @@
       "summary": "高盛预测美联储2026年不会降息，而是推迟到2027年6月，这可能影响市场对利率走势的预期和资产定价。",
       "translation": "高盛预计美联储在2026年不会降息，而是会在2027年6月降息。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069862371527365065",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Home prices are picking up again,\" per Redfin",
+    "tweet_url": "https://x.com/unusual_whales/status/2069862371527365065",
+    "published_at": "2026-06-24T19:17:00+00:00",
+    "fetched_at": "2026-06-24T21:52:33.462213+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "REDF"
+      ],
+      "direction": "bullish",
+      "summary": "Redfin报告称房价再次上涨，这可能对房地产市场及相关股票（如REDF）构成利好消息，投资者可关注房地产板块的潜在机会。",
+      "translation": "Redfin报道：“房价又开始上涨了。”",
+      "confidence": "medium"
     }
   },
   {
