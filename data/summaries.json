@@ -29,21 +29,22 @@
       "SPCX",
       "NVDA",
       "AMC",
-      "GOOGL"
+      "GME"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "半导体行业波动与机会",
-      "宏观政策与地缘政治风险",
-      "人工智能基础设施建设"
+      "半导体血洗与高波动",
+      "AI相关股票泡沫担忧",
+      "地缘政治风险与能源危机",
+      "美联储加息预期升温"
     ],
-    "recent_shift": "相较于早期关注宏观经济和通胀，近几天的推文更偏向地缘政治矛盾（如伊朗封锁霍尔木兹海峡）和科技股的极端波动",
+    "recent_shift": "近期观点从相对中立转向偏负面，强调市场波动加剧、地缘政治紧张和半导体板块的剧烈下跌。",
     "representative_quotes": [
-      "A real quote from Bloomberg's \"FOMO really got me: Traders lever up in stock-crazed Taiwan\"",
-      "The US strategic oil reserve has hit the lowest level since 1983",
-      "AI-linked stocks now represent a record 45% of the S&P 500"
+      "A bloodbath in semiconductors today.",
+      "South Korea's KOSPI fell 9.99% yesterday, losing $474 billion in market cap, its biggest one-day drop in history.",
+      "Trump: stock buybacks are fake way to raise a price"
     ],
-    "generated_at": "2026-06-24T05:15:39.979799+00:00"
+    "generated_at": "2026-06-24T11:39:25.668164+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

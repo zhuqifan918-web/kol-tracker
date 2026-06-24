@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2069736542268956952",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX has raised $25 billion in debt sale less than two weeks after IPO, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2069736542268956952",
+    "published_at": "2026-06-24T10:57:00+00:00",
+    "fetched_at": "2026-06-24T11:39:05.500313+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPACE"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX在IPO后不到两周通过债务融资250亿美元，显示市场对该公司信心强劲，可能推动其估值进一步上升。",
+      "translation": "据CNBC报道，SpaceX在IPO后不到两周内通过债务销售筹集了250亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069675057300082728",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
