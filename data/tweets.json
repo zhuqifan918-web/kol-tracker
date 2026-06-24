@@ -1,5 +1,65 @@
 [
   {
+    "tweet_id": "2069585799025135863",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Oil prices have responded to the news, with Brent crude falling over 2% to around $81 per barrel.\n\nRead more: https://t.co/I72R1RveiZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2069585799025135863",
+    "published_at": "2026-06-24T00:58:00+00:00",
+    "fetched_at": "2026-06-24T01:22:57.156322+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "油价因新闻影响下跌，布伦特原油跌幅超2%至每桶81美元左右，显示市场对原油价格持看空态度。",
+      "translation": "油价对新闻做出反应，布伦特原油下跌超过2%至每桶81美元左右。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069580028539699652",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Senate has passed a bill to limit the number of single-family homes institutional investors can buy",
+    "tweet_url": "https://x.com/unusual_whales/status/2069580028539699652",
+    "published_at": "2026-06-24T00:35:04+00:00",
+    "fetched_at": "2026-06-24T01:22:58.819194+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该法案限制机构投资者购买独栋住宅，可能导致相关房地产投资信托基金（REITs）和住房市场相关股票承压。对住宅建筑商和抵押贷款机构可能产生负面影响。",
+      "translation": "突发：参议院通过了一项法案，限制机构投资者购买独栋住宅的数量",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069563905001587084",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Major defense contractors such as Boeing and Raytheon are among those affected by China's new trade curbs.\n\nRead more: https://t.co/HgMzFENsot",
+    "tweet_url": "https://x.com/unusual_whales/status/2069563905001587084",
+    "published_at": "2026-06-23T23:31:00+00:00",
+    "fetched_at": "2026-06-24T01:23:03.554047+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BA",
+        "RTX"
+      ],
+      "direction": "bearish",
+      "summary": "中国新贸易限制对波音、雷神等主要国防承包商构成利空，可能影响其股价和营收。",
+      "translation": "主要国防承包商如波音和雷神受到了中国新贸易限制的影响。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069555600036663684",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
