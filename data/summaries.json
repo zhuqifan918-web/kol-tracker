@@ -3,49 +3,49 @@
     "focus_tickers": [
       "$SIVE",
       "$AAOI",
-      "$TSM",
       "$MU",
-      "$LPK"
+      "$LPK",
+      "$INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与激光瓶颈",
-      "AI基础设施建设",
-      "内存与半导体超级周期",
-      "供应链瓶颈与地缘政治",
-      "NAV折价与资产解锁"
+      "光子学/激光器瓶颈",
+      "内存结构性需求",
+      "AI基础设施持续扩张",
+      "光学互联和CPO封装",
+      "设备供应链垄断型投资"
     ],
-    "recent_shift": "近两日观点未发生明显转变，依然看多光子学、内存和AI供应链，并持续强调激光瓶颈和资本支出可持续性。",
+    "recent_shift": "近几天明显更强调CW激光器瓶颈加剧，以及AMD等超大规模客户争抢供应，同时强调光学板块仍处于早期阶段而非过热。",
     "representative_quotes": [
-      "Don’t think there’s much spare independent CW laser capacity left other than $SIVE or $AAOI.",
-      "I haven’t seen such fast revenue ramp since $NBIS.",
-      "Photonics is still probably the earliest out of the three."
+      "Looks like memory demand has become structural… But great earnings to show up the AI trade is continuing to ramp up.",
+      "Photonics is still probably the earliest out of the three. But I can see Nebius end up like AWS one day.",
+      "The amount of economic impact can't be measured if AI helps find cures for cancer or accelerates discovery for Quantum Computing."
     ],
-    "generated_at": "2026-06-24T16:38:13.460289+00:00"
+    "generated_at": "2026-06-24T21:52:45.602044+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MU",
       "SPCX",
-      "NVDA",
       "AMC",
+      "NVDA",
       "GOOGL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "美联储政策与加息预期",
-      "半导体行业波动与财报",
-      "地缘政治风险（伊朗/中东）",
-      "AI与数据中心投资热潮",
-      "大宗商品与能源价格"
+      "地缘政治风险",
+      "美联储政策转向",
+      "人工智能投资热潮",
+      "半导体行业波动",
+      "住房市场调控"
     ],
-    "recent_shift": "近期从偏多转向中性，因半导体板块暴跌及加息预期强化，但财报亮点和AI主题仍提供支撑。",
+    "recent_shift": "前期对半导体和地缘政治的恐慌情绪有所缓和，但美联储加息预期增强。",
     "representative_quotes": [
-      "To get updates on stocks like $MU, you can subscribe directly to Unusual Whales.",
-      "Spot gold has fallen below $4,000/oz.",
-      "Nvidia, $NVDA, has launched Halos for Robotics, a full-stack safety system to help humanoid and industrial robots operate safely alongside humans."
+      "Citigroup says its 6-12 month price target for Gold is $5000/oz.",
+      "40% of investors predict a no landing scenario, per Bank of America",
+      "Jamie Dimon of JPMorgan has said: We’re in a bull market."
     ],
-    "generated_at": "2026-06-24T20:17:22.118433+00:00"
+    "generated_at": "2026-06-24T21:52:41.775798+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
