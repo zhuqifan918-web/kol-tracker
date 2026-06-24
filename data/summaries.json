@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
       "SPCX",
       "NVDA",
-      "META",
-      "GOOGL"
+      "MU",
+      "GOOGL",
+      "AMC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
       "地缘政治风险与能源危机",
-      "AI与半导体行业主导",
-      "政府政策与监管"
+      "半导体行业波动加剧",
+      "AI投资热潮与泡沫担忧",
+      "机构投资者仓位调整",
+      "劳动力市场与经济前景不确定性"
     ],
-    "recent_shift": "近期观点无明显变化，整体保持对市场波动的客观记录与分析。",
+    "recent_shift": "近期观点从早前对AI和半导体的乐观转向警惕，强调了地缘政治紧张、市场波动和潜在风险。",
     "representative_quotes": [
       "A bloodbath in semiconductors today.",
-      "The increase follows a 546% rally in the SOX semiconductor index.",
-      "AI is going to create a labor shortage, Jeff Bezos has said."
+      "South Korea's KOSPI fell 9.99% yesterday, losing $474 billion in market cap, its biggest one-day drop in history.",
+      "Iran closing Strait of Hormuz over Israeli attacks on Lebanon, per Axios"
     ],
-    "generated_at": "2026-06-23T23:06:54.123429+00:00"
+    "generated_at": "2026-06-24T01:23:13.193528+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
