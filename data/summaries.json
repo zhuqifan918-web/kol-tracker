@@ -1,27 +1,25 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$XFAB",
-      "$LPK",
-      "$IQE"
+      "SIVE",
+      "AAOI",
+      "LPK",
+      "LITE",
+      "XFAB"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/硅光子学供应链瓶颈与机遇",
-      "记忆体超级周期",
-      "激光器（CW/EML）投资价值",
-      "欧洲半导体（CHIPS法案）与主权AI建设",
-      "先进封装玻璃基板"
+      "光子学与激光瓶颈",
+      "AI基础设施与资本支出",
+      "半导体供应链自主与垄断"
     ],
-    "recent_shift": "近期偏重强调CW激光器瓶颈加剧，并关注AMD等客户积极锁定产能，同时警惕CPO相关回调被市场误解。",
+    "recent_shift": "近期强调CW激光器瓶颈和光子学主题的早期性，认为市场仍未充分定价2027年的营收放量。",
     "representative_quotes": [
-      "I think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
-      "$SIVE is the next SIVE. Don’t think you’ll find another company… qualified and likely primary/sole source with $JBL and Ayar ecosystems.",
+      "I think photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
+      "Don't think you'll find another company that's qualified and likely primary/sole source with JBL, Ayar, NVLink CPO ecosystems, and GFS reference laser, at current valuations.",
       "I haven't seen such fast revenue ramp since $NBIS."
     ],
-    "generated_at": "2026-06-24T08:39:31.706660+00:00"
+    "generated_at": "2026-06-24T14:07:41.863903+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -29,22 +27,21 @@
       "SPCX",
       "NVDA",
       "AMC",
-      "GME"
+      "AAPL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "半导体血洗与高波动",
-      "AI相关股票泡沫担忧",
-      "地缘政治风险与能源危机",
-      "美联储加息预期升温"
+      "地缘政治风险与能源安全",
+      "半导体板块剧烈波动与期权交易机会",
+      "AI与科技巨头扩张及监管"
     ],
-    "recent_shift": "近期观点从相对中立转向偏负面，强调市场波动加剧、地缘政治紧张和半导体板块的剧烈下跌。",
+    "recent_shift": "近期强调地缘政治和宏观风险加剧，同时关注财报季个股期权机会，整体偏谨慎。",
     "representative_quotes": [
-      "A bloodbath in semiconductors today.",
-      "South Korea's KOSPI fell 9.99% yesterday, losing $474 billion in market cap, its biggest one-day drop in history.",
-      "Trump: stock buybacks are fake way to raise a price"
+      "BREAKING: Nancy Pelosi literally is buying leveraged products on companies she legislates. She bought Intel, $INTC, 200 call options with a strike price of $50 and expiring 03/19/2027, on 05/29/2026. She also bought $UBER call options. Unusual.",
+      "BREAKING: Trump says: gas prices must start dropping more quickly than what he is seeing https://t.co/F9PrOoUMmm",
+      "A bloodbath in semiconductors today. https://t.co/rbyKLda1Yc"
     ],
-    "generated_at": "2026-06-24T11:39:25.668164+00:00"
+    "generated_at": "2026-06-24T14:07:38.125384+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
