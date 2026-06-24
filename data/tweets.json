@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2069874575450702076",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Micron, $MU, earnings:\n\n- EPS: $25.11, est: $20\n- Revenue: $41 billion, est: $35 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2069874575450702076",
+    "published_at": "2026-06-24T20:05:29+00:00",
+    "fetched_at": "2026-06-24T20:17:05.822356+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "美光财报大幅超预期，每股收益25.11美元远超预估的20美元，营收410亿美元也显著高于预期的350亿美元，这显示出公司强劲的财务表现，属于积极利好信号。",
+      "translation": "突发：美光（$MU）财报：每股收益25.11美元，预期20美元；营收410亿美元，预期350亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069867404612792810",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Goldman Sachs expects the Fed to not cut in 2026, and instead cut in June 2027",
+    "tweet_url": "https://x.com/unusual_whales/status/2069867404612792810",
+    "published_at": "2026-06-24T19:37:00+00:00",
+    "fetched_at": "2026-06-24T20:17:08.741974+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "高盛预测美联储2026年不会降息，而是推迟到2027年6月，这可能影响市场对利率走势的预期和资产定价。",
+      "translation": "高盛预计美联储在2026年不会降息，而是会在2027年6月降息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069857338291261603",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "40% of investors are now expecting a Fed hike in the next year, versus 28% expecting cuts, per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2069857338291261603",
+    "published_at": "2026-06-24T18:57:00+00:00",
+    "fetched_at": "2026-06-24T20:17:11.869643+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国银行调查显示，40%的投资者预期美联储将在未来一年加息，而28%预期降息。这反映了市场对货币政策方向的分歧，可能影响股市和债市波动，投资者需关注利率预期变化带来的风险与机会。",
+      "translation": "根据美国银行的数据，40%的投资者现在预期美联储将在未来一年加息，而28%的投资者预期降息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069847271873884610",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get updates on stocks like $MU, you can subscribe directly to Unusual Whales.\n\nSee more: https://t.co/AcdfM3jPGw",
+    "tweet_url": "https://x.com/unusual_whales/status/2069847271873884610",
+    "published_at": "2026-06-24T18:17:00+00:00",
+    "fetched_at": "2026-06-24T20:17:14.894807+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "neutral",
+      "summary": "该推文推广订阅Unusual Whales服务以获取$MU等股票更新，未提供具体投资观点。",
+      "translation": "要获取$MU等股票的更新，您可以直接订阅Unusual Whales。查看更多：https://t.co/AcdfM3jPGw",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2069842238771696120",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
