@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
-      "SPCX",
-      "AMC",
-      "NVDA",
-      "GOOGL"
+      "$MU",
+      "$SPCX",
+      "$NVDA",
+      "$AMC",
+      "$GME"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险",
-      "美联储政策转向",
-      "人工智能投资热潮",
-      "半导体行业波动",
-      "住房市场调控"
+      "半导体行业波动加剧，MU财报前隐含波动率创52周新高",
+      "地缘政治风险升温，伊朗冲突影响油价与通胀",
+      "宏观经济分歧：部分投行预期加息，部分预期软着陆",
+      "市场流动性风险：私募信贷限赎、企业债发行潮",
+      "科技巨头分化：AI投资持续，但部分公司裁员和业绩承压"
     ],
-    "recent_shift": "前期对半导体和地缘政治的恐慌情绪有所缓和，但美联储加息预期增强。",
+    "recent_shift": "从前期相对平衡的宏观讨论转向明确看空半导体板块，并强调伊朗冲突和加息预期对市场的负面冲击。",
     "representative_quotes": [
-      "Citigroup says its 6-12 month price target for Gold is $5000/oz.",
-      "40% of investors predict a no landing scenario, per Bank of America",
-      "Jamie Dimon of JPMorgan has said: We’re in a bull market."
+      "A bloodbath in semiconductors today.",
+      "40% of investors are now expecting a Fed hike in the next year, versus 28% expecting cuts, per Bank of America",
+      "Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody’s"
     ],
-    "generated_at": "2026-06-24T21:52:41.775798+00:00"
+    "generated_at": "2026-06-24T22:59:35.632901+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
