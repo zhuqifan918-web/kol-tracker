@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LPK",
-      "MU",
-      "XFAB"
+      "$SIVE",
+      "$AAOI",
+      "$XFAB",
+      "$LPK",
+      "$IQE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与激光瓶颈",
-      "存储芯片超级周期",
-      "欧洲供应链主权与半导体制造",
-      "AI基建上游设备稀缺",
-      "ETF套利与公司治理价值释放"
+      "光子学/硅光子学供应链瓶颈与机遇",
+      "记忆体超级周期",
+      "激光器（CW/EML）投资价值",
+      "欧洲半导体（CHIPS法案）与主权AI建设",
+      "先进封装玻璃基板"
     ],
-    "recent_shift": "最近观点更聚焦于激光瓶颈和欧洲半导体制造，同时强调宏观经济噪音下的买入机会。",
+    "recent_shift": "近期偏重强调CW激光器瓶颈加剧，并关注AMD等客户积极锁定产能，同时警惕CPO相关回调被市场误解。",
     "representative_quotes": [
-      "There’s nothing like BoFA giving BS extreme bear predictions. To clear all the Korean leveraged traders a 2nd time this year.",
-      "IMHO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
+      "I think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+      "$SIVE is the next SIVE. Don’t think you’ll find another company… qualified and likely primary/sole source with $JBL and Ayar ecosystems.",
       "I haven't seen such fast revenue ramp since $NBIS."
     ],
-    "generated_at": "2026-06-24T05:15:43.678584+00:00"
+    "generated_at": "2026-06-24T08:39:31.706660+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

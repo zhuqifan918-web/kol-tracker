@@ -1,5 +1,55 @@
 [
   {
+    "tweet_id": "2069675057300082728",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "OpenLight (private) seems to get bigger and bigger every time I look at it.\n\nIf you’re curious about their public ecosystem outside of Advantest:\n\n$JBL ( $SIVE partner ) for scaling PICs\n$MRVL and $MXL for DSPs\n$TSEM for the foundry.\n$300394.SZ / TFC Optical (OSAT/subassembly)\n\nCan often get exposure into private growth through public equities if you’re not an accredited investor.\n\nSince optical players look very interconnected.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069675057300082728",
+    "published_at": "2026-06-24T06:52:41+00:00",
+    "fetched_at": "2026-06-24T08:38:13.411589+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JBL",
+        "MRVL",
+        "MXL",
+        "TSEM",
+        "300394.SZ"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出OpenLight（私人公司）规模持续增长，并通过分析其公开生态系统（如JBL、MRVL、MXL、TSEM及TFC Optical等）提供了投资机会。认为光学领域互联性强，非认可投资者可通过相关上市股票间接参与私人公司的成长。整体看多光学产业链。",
+      "translation": "OpenLight（私人公司）每次我看它，似乎都变得越来越大。如果你对Advantest之外的公开生态系统感到好奇：$JBL（$SIVE的合作伙伴）用于扩大PIC生产，$MRVL和$MXL用于DSP，$TSEM用于代工厂。$300394.SZ / TFC Optical（OSAT/子组件）。如果你不是合格投资者，通常可以通过公开股票来获得私人公司的增长机会。因为光学玩家看起来非常互联。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069655980456149142",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ~1.57M. If the capex goes into automating their workforce with LLMs.\n\nThen transitioning into physical AI:\n\n- things from self driving (deliveries)\n- robotics (Amazon warehouses, shipping automation).\n\n+ revenue increase from building out AWS compute with Trainium and possibly selling chips too with the Neocloud strat.\n\nIt’s probably the clearest path forward compared to every hyperscaler out there. \n\n$TSLA optimus use case targets is extremely broad as a pitch, but Amazon already has a specific reason to scale robotics for internal opex optimization.\n\nAs for $GOOGL, probably 2nd right now, AI capex was necessary for defending its Google Search moat Gemini from ChatGPT\n\nThey also have Google Cloud revenue with efficient TPUs + can sell TPUs like Nvidia GPUs.\n\nGemini user volumes keep going up (despite the lack of contention in frontier benchmarks); and AI strategy to be working for ad optimization too.\n\nBut there’s less clear paths with physical AI stuff ig?\n\nMicrosoft and Meta are still trying to convince the market why capex is necessary, (we’re kinda seeing that in effect with Meta’s 30%+ Y/Y revenue growth), but doesn’t look like they’re convinced. \n\nAs for market narratives, Microsoft Maia seems to be behind, their AI development was stunted from OpenAi investments, so sentiment is kinda in the ground. \n\nBut think that will change down the road like the 180 with Google.\n\nI’m sure all the hyperscalers are seeing the leader effect right now:\n\nIf you have the leading LLM, people will keep using it. That LLM gets smarter from all the training data; and that gap might be structural.\n\nWhich is why everyone is kinda rushing the buildout right now, but for some the immediate incentives seem obvious.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069655980456149142",
+    "published_at": "2026-06-24T05:36:52+00:00",
+    "fetched_at": "2026-06-24T08:38:28.993281+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN",
+        "TSLA",
+        "GOOGL",
+        "META",
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为亚马逊通过资本支出（尤其是AI和机器人自动化）有最清晰的增长路径，包括降低运营成本和增加AWS收入。特斯拉和谷歌次之，微软和Meta面临市场质疑。整体看多超大规模云服务商，但认为亚马逊前景最明确。",
+      "translation": "不太认为“抽走”是正确的说法。这是为了未来大规模收入增长或利润率提升的资本支出。$AMZN目前是我最喜欢的超大规模云服务商和例子。亚马逊的员工数量很惊人，大约157万。如果资本支出用于通过大型语言模型实现员工队伍自动化，然后过渡到物理AI：包括自动驾驶（配送）、机器人（亚马逊仓库、运输自动化）。再加上通过Trainium构建AWS计算能力，并可能通过Neocloud战略销售芯片带来的收入增长。与其他超大规模云服务商相比，这可能是最清晰的前进路径。$TSLA的Optimus使用场景作为概念非常广泛，但亚马逊已经有了明确的规模化机器人内部运营优化需求。至于$GOOGL，可能排在第二位，AI资本支出对于从ChatGPT手中捍卫Google搜索护城河Gemini是必要的。他们还有Google Cloud的收入，使用高效的TPU，并且可以像Nvidia GPU一样销售TPU。Gemini用户量持续增长（尽管在前沿基准上缺乏竞争力）；AI策略也正在为广告优化起作用。但在物理AI方面路径似乎不太清晰？微软和Meta仍在努力说服市场为什么资本支出是必要的（我们实际上看到Meta的营收同比增长超过30%），但看起来市场并未被说服。关于市场叙事，微软的Maia似乎落后，他们AI发展因OpenAI投资而受阻，所以情绪差不多跌到谷底。但我认为这将像谷歌180度转变一样在未来发生改变。我相信所有超大规模云服务商现在都看到了领导者效应：如果你拥有领先的大语言模型，人们会持续使用它。这个大语言模型会因所有训练数据而变得更智能；这种差距可能是结构性的。这就是为什么每个人都在匆忙建设，但对某些公司而言，直接激励是显而易见的。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2069647574131454086",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -876,6 +926,28 @@
     }
   },
   {
+    "tweet_id": "2069390514278015074",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Advantest (TSE: 6857 / $ATEYY) × OpenLight: Silicon Photonics HVM Test Partnership\n\nAdvantest and OpenLight have announced a partnership to co-develop scalable, high-volume manufacturing (HVM) test solutions for silicon photonics (SiPh) devices. The demand logic runs cleanly through the release: expanding AI/HPC workloads drive data-center adoption of SiPh and co-packaged optics (CPO), which in turn surfaces a production-stage test bottleneck. That bottleneck is the high-volume testing of electro-optical (EO) devices, specifically the Optical Engine. SiPh devices demand simultaneous electrical measurement and optical coupling/alignment, so conventional electrical ATE infrastructure alone cannot deliver the throughput needed to scale. The two companies target an end-to-end test framework spanning wafer sort through final test, with OpenLight contributing its III-V heterogeneous integration PASIC (Photonic ASIC) and PDK, and the release citing a recent $50M Series A-1 round (total funding $84M) as evidence of commercial momentum.\n\nAdvantest enters SiPh test directly, sharpening the ATE duopoly contest. This move puts Advantest in head-to-head positioning against Teradyne's Photon 100 in the EO/tester layer, with both incumbents now moving to absorb production-test demand from fabless PIC design houses like OpenLight.\n\nThe constraint is structural, not incremental. Combining electrical test with optical alignment at volume is the hard part; framing it as \"end-to-end, wafer sort to final test\" signals the partners are targeting the full insertion chain rather than a single station, which is where throughput economics actually break.\n\nRead against the \"Three Pillars\" frame, this is an ATE-side consolidation signal. It complements rather than displaces the AEHR/FORM/KEYS wafer-test framework (https://t.co/XvOhml7Zok), but the specific division of labor (optical alignment method, WLBI applicability, insertion architecture) is unstated and rests on a promotional first-party release, so it warrants cross-checking against later conference disclosures.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069390514278015074",
+    "published_at": "2026-06-23T12:02:00+00:00",
+    "fetched_at": "2026-06-24T08:38:20.386490+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "6857.T",
+        "ATEYY"
+      ],
+      "direction": "bullish",
+      "summary": "爱德万测试与OpenLight合作开发硅光子大规模测试方案，解决AI/HPC驱动下的光电测试瓶颈，强化ATE双头垄断格局，利好爱德万测试。",
+      "translation": "爱德万测试（TSE: 6857 / $ATEYY）宣布与OpenLight合作，共同开发用于硅光器件的高量产测试解决方案。随着AI/HPC负载扩张，数据中心采用硅光子和共封装光学，生产阶段的光电测试瓶颈凸显。该合作瞄准电光器件（尤其是光学引擎）的高产测需求，提供从晶圆分选到最终测试的端到端框架。OpenLight贡献其III-V异质集成PASIC和PDK，近期5000万美元A-1轮融资显示商业动能。此举使爱德万测试与泰瑞达在电光测试层直接竞争，两家巨头正吸收来自OpenLight等无晶圆PIC设计公司的产测需求。该约束是结构性的，而非增量式。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069388279355756826",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -1187,6 +1259,25 @@
       "summary": "作者认为OE解决方案（138080.KQ）作为下游大型企业的收购目标非常合理，尽管市值仅约2.15亿美元，但其稀缺的EML/CW激光IP价值被低估。类似Source Photonics或东山精密的收购案例可能为希望垂直整合的公司带来更大价值。由于该小型光通信企业需要大量研发和资本支出以扩建晶圆厂，作者提出这一想法供其他公司参考（作者持有仓位）。",
       "translation": "我实际上认为OE解决方案（138080.KQ）作为下游大型企业的收购目标最合理。该股目前以约2.15亿美元的愚蠢市值交易，却拥有稀缺的EML/CW激光IP。类似Source Photonics或苏州东山精密的收购类型，可能为希望垂直整合的其他公司增加更多价值。考虑到扩大其晶圆厂和前期建设需要大量昂贵的研发和资本支出，且它是一家小型光通信企业。（披露：我持有仓位）只是把这个想法提出来供其他公司参考。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069219882982678632",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit 你说的这些AI股涨的前提是Google/Microsoft/Amazon这种hyperscaler继续加大投资，但是当他们的利润全都被半导体公司赚走的时候还有会动力加大资本支出吗？现在这个趋势其实对后续股市非常危险，当hyperscaler不再愿意无限扩大支出，又或者anthropic营收涨幅不及预期的话股市很容易一夜崩盘。",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069219882982678632",
+    "published_at": "2026-06-23T00:43:59+00:00",
+    "fetched_at": "2026-06-24T08:38:33.623988+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文指出AI股上涨依赖超大规模企业持续投资，但如果利润被半导体公司赚走，这些企业可能失去扩大资本支出的动力，导致市场风险增加。一旦超大规模企业停止投资或AI公司营收不及预期，股市可能崩盘。",
+      "translation": "你提到的这些AI股上涨的前提是Google、Microsoft、Amazon这类超大规模企业继续加大投资，但是当它们的利润全都被半导体公司赚走的时候，还会有动力增加资本支出吗？现在的趋势对后续股市非常危险，当超大规模企业不再愿意无限扩大支出，或者anthropic营收涨幅不及预期时，股市很容易一夜崩盘。",
+      "confidence": "medium"
     }
   },
   {
