@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LPK",
-      "$MU",
-      "$XFAB"
+      "SIVE",
+      "AAOI",
+      "LPK",
+      "MU",
+      "XFAB"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与CW激光瓶颈",
-      "存储器超级周期",
-      "半导体设备与材料垄断",
-      "AI数据中心基建",
-      "欧洲半导体主权"
+      "光子学与激光瓶颈",
+      "存储芯片超级周期",
+      "欧洲供应链主权与半导体制造",
+      "AI基建上游设备稀缺",
+      "ETF套利与公司治理价值释放"
     ],
-    "recent_shift": "近期偏重光通信和激光公司，从存储器转向光模块和光子学上游瓶颈",
+    "recent_shift": "最近观点更聚焦于激光瓶颈和欧洲半导体制造，同时强调宏观经济噪音下的买入机会。",
     "representative_quotes": [
-      "IO photonics theme + CW laser chokepoint is goated.",
-      "Best time to long CXL for memory pooling was 4 months ago.",
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
+      "There’s nothing like BoFA giving BS extreme bear predictions. To clear all the Korean leveraged traders a 2nd time this year.",
+      "IMHO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
+      "I haven't seen such fast revenue ramp since $NBIS."
     ],
-    "generated_at": "2026-06-23T16:22:37.202858+00:00"
+    "generated_at": "2026-06-24T05:15:43.678584+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "MU",
       "SPCX",
       "NVDA",
-      "MU",
-      "GOOGL",
-      "AMC"
+      "AMC",
+      "GOOGL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与能源危机",
-      "半导体行业波动加剧",
-      "AI投资热潮与泡沫担忧",
-      "机构投资者仓位调整",
-      "劳动力市场与经济前景不确定性"
+      "半导体行业波动与机会",
+      "宏观政策与地缘政治风险",
+      "人工智能基础设施建设"
     ],
-    "recent_shift": "近期观点从早前对AI和半导体的乐观转向警惕，强调了地缘政治紧张、市场波动和潜在风险。",
+    "recent_shift": "相较于早期关注宏观经济和通胀，近几天的推文更偏向地缘政治矛盾（如伊朗封锁霍尔木兹海峡）和科技股的极端波动",
     "representative_quotes": [
-      "A bloodbath in semiconductors today.",
-      "South Korea's KOSPI fell 9.99% yesterday, losing $474 billion in market cap, its biggest one-day drop in history.",
-      "Iran closing Strait of Hormuz over Israeli attacks on Lebanon, per Axios"
+      "A real quote from Bloomberg's \"FOMO really got me: Traders lever up in stock-crazed Taiwan\"",
+      "The US strategic oil reserve has hit the lowest level since 1983",
+      "AI-linked stocks now represent a record 45% of the S&P 500"
     ],
-    "generated_at": "2026-06-24T01:23:13.193528+00:00"
+    "generated_at": "2026-06-24T05:15:39.979799+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
