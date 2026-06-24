@@ -1,5 +1,169 @@
 [
   {
+    "tweet_id": "2069822106179883258",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US Treasury Secretary Bessent: Need to have an open mind on the inflation impact of the Iran conflict",
+    "tweet_url": "https://x.com/unusual_whales/status/2069822106179883258",
+    "published_at": "2026-06-24T16:37:00+00:00",
+    "fetched_at": "2026-06-24T16:37:25.453107+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国财长贝森特暗示伊朗冲突可能对通胀产生影响，投资者需保持开放心态，关注相关风险。目前暂无明确方向性指引。",
+      "translation": "美国财政部长贝森特：需要对伊朗冲突的通胀影响保持开放心态。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2069817073551745104",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said that initial financial relief for Iran will involve approximately $500 million in American goods. \n\nUnder the negotiated framework, the United States will release some of Iran's funds to American farmers and ranchers for the purchase of wheat, corn, soybeans, and other food to be sent exclusively to Iran",
+    "tweet_url": "https://x.com/unusual_whales/status/2069817073551745104",
+    "published_at": "2026-06-24T16:17:00+00:00",
+    "fetched_at": "2026-06-24T16:37:27.760022+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DBA",
+        "CORN",
+        "WEAT",
+        "SOYB"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普表示将释放约5亿美元伊朗资金，用于购买美国农产品（小麦、玉米、大豆等）。此消息可能利好美国农产品相关ETF（如DBA、CORN、WEAT、SOYB）以及农业类股票。",
+      "translation": "特朗普表示对伊朗的初步经济救助将涉及大约5亿美元的美国商品。根据谈判框架，美国将释放部分伊朗资金给美国农民和牧场主，用于购买小麦、玉米、大豆和其他食品，这些食品将仅运往伊朗。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069801973734371485",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan says its S&amp;P500 year end price target is 7,800.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069801973734371485",
+    "published_at": "2026-06-24T15:17:00+00:00",
+    "fetched_at": "2026-06-24T16:37:32.954345+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SP500"
+      ],
+      "direction": "bullish",
+      "summary": "摩根大通设定标普500年底目标价7800点，显示对市场前景的乐观预期。",
+      "translation": "摩根大通表示其标普500年底目标价为7800点。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069801539699700111",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这节骨眼买股票真要勇气，刚买完立马亏。\nAI说美元指数上涨有加息预期。 https://t.co/yb0OFfiHmS",
+    "tweet_url": "https://x.com/xiaomustock/status/2069801539699700111",
+    "published_at": "2026-06-24T15:15:16+00:00",
+    "fetched_at": "2026-06-24T16:37:12.000981+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "提到当前买股票需要勇气，因买入后立即亏损，并引用AI分析称美元指数上涨有加息预期，暗示市场环境不利。",
+      "translation": "在这个节骨眼上买股票真的需要勇气，刚买完立刻就亏了。AI说美元指数上涨有加息预期。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069799662413115734",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "小仓位1/7追了一下日月光半导体 $ASX 和康宁 $GLW \n日月光是市占率最高的封测厂最近又提价。\n康宁是玻璃基板和光纤俩个炒作概念的龙头，之所以买这俩是因为日月光营收利润增速跟康宁一样，市值日月光是康宁的一半，我想看看拿一段时间在业绩增速一样的情况下到底哪个会更强。\n市值差异也可能跟康宁没啥竞争对手，康宁的市值包含了一部分“技术溢价”和“垄断性护城河溢价”，市场愿意为这种可预期的、低竞争性的增长支付更高倍数。",
+    "tweet_url": "https://x.com/xiaomustock/status/2069799662413115734",
+    "published_at": "2026-06-24T15:07:49+00:00",
+    "fetched_at": "2026-06-24T16:37:15.108233+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ASX",
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "用户以1/7仓位追入日月光半导体和康宁，认为两者业绩增速相似但市值悬殊，康宁因技术垄断享有更高估值溢价，旨在对比两者后续表现。",
+      "translation": "小仓位1/7追了一下日月光半导体 $ASX 和康宁 $GLW。日月光是市占率最高的封测厂，最近又提价。康宁是玻璃基板和光纤两个炒作概念的龙头。之所以买这两个，是因为日月光营收利润增速与康宁一样，市值却只有康宁的一半。我想看看拿一段时间，在业绩增速一样的情况下，到底哪个会更强。市值差异也可能是因为康宁没啥竞争对手，其市值包含了一部分“技术溢价”和“垄断性护城河溢价”，市场愿意为这种可预期的、低竞争性的增长支付更高倍数。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069796940473106741",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: Iran has said there are no tolls to be on the Strait of Hormuz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069796940473106741",
+    "published_at": "2026-06-24T14:57:00+00:00",
+    "fetched_at": "2026-06-24T16:37:34.664713+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普引用伊朗言论确认霍尔木兹海峡无通行费，暗示地缘政治风险降低，对全球油轮运输和油价影响偏中性，投资者需关注后续实际执行情况。",
+      "translation": "特朗普：伊朗表示，在霍尔木兹海峡上没有通行费。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069793311427363035",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "英伟达投资的玻璃基板和光纤双龙头的康宁 $GLW 盘中爆拉10%到213美金。 https://t.co/IzfmOA3Ea5",
+    "tweet_url": "https://x.com/xiaomustock/status/2069793311427363035",
+    "published_at": "2026-06-24T14:42:35+00:00",
+    "fetched_at": "2026-06-24T16:37:17.133491+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达投资的康宁（GLW）盘中暴涨10%至213美元，涉及玻璃基板和光纤双龙头业务，显示市场对该股的积极反应和投资价值。",
+      "translation": "英伟达投资的玻璃基板和光纤双龙头的康宁 $GLW 盘中爆拉10%到213美金。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069786874076676390",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Spot gold has fallen below $4,000/oz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069786874076676390",
+    "published_at": "2026-06-24T14:17:00+00:00",
+    "fetched_at": "2026-06-24T16:37:37.358900+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "现货黄金跌破每盎司4000美元，表明市场情绪偏空，可能继续下行。",
+      "translation": "现货黄金已跌破每盎司4000美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069780882018459851",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -62,6 +226,25 @@
       "direction": "bullish",
       "summary": "推文指出POET和SIVE可能为三大云巨头之一供应光通信产品，基于CEO透露的线索，看好这两家公司前景。作者已持仓SIVE。",
       "translation": "Poet OSINT社区发现有趣的新信息：POET/SIVE似乎将服务于排名前三的云服务商（可能是亚马逊、微软、谷歌）。依据Lumilens CEO Ankur Singla的LinkedIn更新，他们的客户是前三云服务商之一，重点在CPO/NPO。据此线索，更可能是Sivers的CW DFB光源路径，而非其他EML供应商，因为涉及CPO扩展/NPO。如果没记错，Sivers是POET的激光器供应商，且POET与Lumilens有采购协议。在官方确认前发现这些重大线索总是很有趣。（声明：本人做多SIVE）",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069766741404844484",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody’s",
+    "tweet_url": "https://x.com/unusual_whales/status/2069766741404844484",
+    "published_at": "2026-06-24T12:57:00+00:00",
+    "fetched_at": "2026-06-24T16:37:43.228206+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文提到伊朗战争导致美国家庭因军费增加和油价上涨而损失1000亿美元，这对消费者支出和整体经济构成压力，可能抑制股市表现。投资者需关注地缘政治风险对能源成本及国防开支的长期影响。",
+      "translation": "根据穆迪的数据，伊朗战争已通过增加军事开支和抬高油价使美国家庭损失了1000亿美元。",
       "confidence": "high"
     }
   },
@@ -163,6 +346,25 @@
       "direction": "neutral",
       "summary": "Cboe推出首个预测市场产品，可能对其业务和股价产生中性影响，需关注后续市场反应。",
       "translation": "刚刚：全球市场运营商Cboe已推出其首个预测市场产品，据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069721443013652916",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "California threatens to sue Trump administration over offshore wind cancellation, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2069721443013652916",
+    "published_at": "2026-06-24T09:57:00+00:00",
+    "fetched_at": "2026-06-24T16:37:51.219634+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "加州威胁起诉特朗普政府取消海上风电项目，可能对可再生能源板块产生政策不确定性影响。",
+      "translation": "加州威胁要起诉特朗普政府取消海上风电项目。",
       "confidence": "medium"
     }
   },
@@ -624,6 +826,42 @@
       "direction": "bearish",
       "summary": "推文指出SpaceX（$SPCX）当前上涨3.5%，但自高点已下跌20%，暗示近期表现疲软，可能意味着投资风险或回调。",
       "translation": "SpaceX，$SPCX，上涨了3.5%。自高点以来已下跌20%。https://t.co/UNpbfVCAqp",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069483291158385112",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Swing/recovery trading is always a fun side hobby. If I had to make a \"beaten down\" shower thought list in the US rn:\n\n- $CRCL $78: Rate hikes actually benefit this name, down from $132 -> $78.\n- $NFLX $71 - Down 41.6% over the past year. Probably just no banger shows like Squid Games, but keeps growing. \n- $ETHA / $IBIT $1.65k / $62k- Always a fan of Ethereum in the $1500-$1700 range. Also like Bitcoin around here. \n- $ASTS $75- just from a swing trading perspective always seems to recover from $70, just a matter of time\n- $META / $MSFT $566 / $372 - two of the mag7 beaten down a lot from capex, but both growing remarkably fast. \n- $UPWK $8 - might be time to revisit this name, P/E ratios are extremely low, and I still think people will need to hire... which makes the economy go round\n- $RDDT - probably CSP around $150 might be ideal when it's $170 now\n\nWould probably be the ones I like. AI buildout is just going to keep rising into 2028, so I'm still bottleneck/chokepoint investing, but just throwing out more normal ideas. \n\nFor US AI names I'd personally buy at current levels maybe,\n\n$AAOI at $150 is super compelling to me personally. \n$JBL at $370 ($39B) is also very compelling. \n\nmaybe $TSM is a sleeper at $1.9T if they're price hiking now. There's been reports around 2% margin increases or so from 10%? price hikes.\n\nWill need to look more into $AXTI new float mechanics before I talk about it more. Lot of my older ideas like $TSEM, $VPG, $COHR, $LITE, $AEHR, $VPG, $NBIS already got re-rated hundreds of percent so it's not quite clearly undervalued compared to before but still upside. \n\nI'm still holding onto $EWY and memory exposure, but personally not adding more. \n\nSome of the others I'd personally sell CSP on since $INTC, $MRVL, and others seem priced about right now given premiums if i had no positions? and IV is extremely high across the board.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069483291158385112",
+    "published_at": "2026-06-23T18:10:40+00:00",
+    "fetched_at": "2026-06-24T16:36:50.613452+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CRCL",
+        "NFLX",
+        "ETHA",
+        "IBIT",
+        "ASTS",
+        "META",
+        "MSFT",
+        "UPWK",
+        "RDDT",
+        "AAOI",
+        "JBL",
+        "TSM",
+        "AXTI",
+        "EWY",
+        "INTC",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为当前美股部分股票和加密货币处于超卖或低估状态，列举了多个看好的标的，包括受益于加息的公司、大型科技股、加密货币和AI相关个股，整体立场偏向看涨。",
+      "translation": "波动/复苏交易一直是个有趣的副业。如果让我现在在美国列一个“被打压”的沉思清单：$CRCL $78：加息实际上对该股有利，从$132跌至$78。$NFLX $71 - 过去一年下跌41.6%。可能只是没有像鱿鱼游戏那样的火爆节目，但仍在增长。$ETHA / $IBIT $1.65k / $62k - 一直看好以太坊在$1500-$1700区间。也喜欢现在价位的比特币。$ASTS $75 - 仅从波段交易角度看，似乎总能从$70反弹，只是时间问题。$META / $MSFT $566 / $372 - 两只因资本开支而大幅下跌的M7股票，但两者都增长非常快。$UPWK $8 - 可能是时候重新关注了，市盈率极低，我仍然认为人们需要雇佣……这让经济运转。$RDDT - 可能当价格在$170时，行权价$150的现金担保看跌期权是理想的。这些可能是我喜欢的。AI建设将持续增长到2028年，所以我仍在瓶颈/咽喉点投资，但只是提出更多常规想法。对于美国AI股票，我个人会在当前水平买入的或许是$AAOI $150对我来说非常有吸引力。$JBL $370（$390亿）也很有吸引力。也许$TSM是$1.9万亿的黑马，如果现在他们在提价。有报道说利润率可能从10%提高约2个百分点。需要更多了解$AXTI的新的流通机制后再详细讨论。我很多旧想法如$TSEM、$VPG、$COHR、$LITE、$AEHR、$VPG、$NBIS已经被重估了几百个百分点，所以不像以前那样明显低估，但仍有上涨空间。我仍然持有$EWY和内存相关头寸，但个人不会增加。其他一些我倾向于卖现金担保看跌期权的包括$INTC、$MRVL等，如果我没有头寸的话，现在看起来定价合理？而且隐含波动率普遍极高。",
       "confidence": "high"
     }
   },

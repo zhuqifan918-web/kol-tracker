@@ -1,25 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LPK",
-      "LITE",
-      "XFAB"
+      "$SIVE",
+      "$AAOI",
+      "$TSM",
+      "$MU",
+      "$LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "光子学与激光瓶颈",
-      "AI基础设施与资本支出",
-      "半导体供应链自主与垄断"
+      "AI基础设施建设",
+      "内存与半导体超级周期",
+      "供应链瓶颈与地缘政治",
+      "NAV折价与资产解锁"
     ],
-    "recent_shift": "近期强调CW激光器瓶颈和光子学主题的早期性，认为市场仍未充分定价2027年的营收放量。",
+    "recent_shift": "近两日观点未发生明显转变，依然看多光子学、内存和AI供应链，并持续强调激光瓶颈和资本支出可持续性。",
     "representative_quotes": [
-      "I think photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
-      "Don't think you'll find another company that's qualified and likely primary/sole source with JBL, Ayar, NVLink CPO ecosystems, and GFS reference laser, at current valuations.",
-      "I haven't seen such fast revenue ramp since $NBIS."
+      "Don’t think there’s much spare independent CW laser capacity left other than $SIVE or $AAOI.",
+      "I haven’t seen such fast revenue ramp since $NBIS.",
+      "Photonics is still probably the earliest out of the three."
     ],
-    "generated_at": "2026-06-24T14:07:41.863903+00:00"
+    "generated_at": "2026-06-24T16:38:13.460289+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -27,43 +29,43 @@
       "SPCX",
       "NVDA",
       "AMC",
-      "AAPL"
-    ],
-    "overall_bias": "neutral",
-    "key_themes": [
-      "地缘政治风险与能源安全",
-      "半导体板块剧烈波动与期权交易机会",
-      "AI与科技巨头扩张及监管"
-    ],
-    "recent_shift": "近期强调地缘政治和宏观风险加剧，同时关注财报季个股期权机会，整体偏谨慎。",
-    "representative_quotes": [
-      "BREAKING: Nancy Pelosi literally is buying leveraged products on companies she legislates. She bought Intel, $INTC, 200 call options with a strike price of $50 and expiring 03/19/2027, on 05/29/2026. She also bought $UBER call options. Unusual.",
-      "BREAKING: Trump says: gas prices must start dropping more quickly than what he is seeing https://t.co/F9PrOoUMmm",
-      "A bloodbath in semiconductors today. https://t.co/rbyKLda1Yc"
-    ],
-    "generated_at": "2026-06-24T14:07:38.125384+00:00"
-  },
-  "xiaomustock": {
-    "focus_tickers": [
-      "SK하이닉스",
-      "MU",
-      "SPCX",
-      "DRAM",
-      "NOK"
+      "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的终极正解，捏住AI的蛋蛋",
-      "海力士ADR美股上线在即，45天强势期确定性高",
-      "股价下跌不改长期信仰，暴跌是机会",
-      "SPCX和诺基亚太空算力布局备受关注"
+      "人工智能与半导体主导市场",
+      "地缘政治与伊朗冲突影响能源和通胀",
+      "美联储加息预期持续"
     ],
-    "recent_shift": "早期极度乐观存储和SPCX，近期因韩国熔断和美股波动出现短暂焦虑，但核心观点未变",
+    "recent_shift": "近期从对半导体板块的看空转向关注MU财报和避险套利机会",
     "representative_quotes": [
-      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
-      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！",
+      "BREAKING: Jamie Dimon of JPMorgan has said: We’re in a bull market.",
+      "A bloodbath in semiconductors today. https://t.co/rbyKLda1Yc",
+      "JPMorgan says its S&P500 year end price target is 7,800."
+    ],
+    "generated_at": "2026-06-24T16:38:09.317355+00:00"
+  },
+  "xiaomustock": {
+    "focus_tickers": [
+      "SKHynix",
+      "MU",
+      "GLW",
+      "SPCX",
+      "NVDA"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "存储芯片是AI革命的核心，需求持续至2030年",
+      "SK海力士是存储王者，美股ADR、业绩、产能等利好密集",
+      "SPCX太空算力与诺基亚基站合作的长远愿景",
+      "利用恐惧情绪逆势抄底，长期持有高确定性的存储龙头"
+    ],
+    "recent_shift": "近期从整体重仓存储转向更集中持有SK海力士，同时强调SPCX和康宁等概念股，但核心仍是存储，未有根本性改变。",
+    "representative_quotes": [
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "海力士这一段的确定性非常高，45天内这些利好都要发生。准备大仓位捏45天。",
       "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。"
     ],
-    "generated_at": "2026-06-23T16:22:30.783132+00:00"
+    "generated_at": "2026-06-24T16:38:17.527021+00:00"
   }
 }
