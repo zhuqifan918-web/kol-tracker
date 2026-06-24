@@ -1,5 +1,130 @@
 [
   {
+    "tweet_id": "2069780882018459851",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nancy Pelosi just disclosed: \n\n- $1 million - $5 million of $INTC March 2027 calls\n- 200 $UBER March 19, 2027 call option contracts with a $50 strike price\n\nThis was done last month May 29th. (her husband is the active trader executing this). Just for the people who like following along Pelosi family trades.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069780882018459851",
+    "published_at": "2026-06-24T13:53:11+00:00",
+    "fetched_at": "2026-06-24T14:06:29.386861+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC",
+        "UBER"
+      ],
+      "direction": "bullish",
+      "summary": "该推文披露了南希·佩洛西及其丈夫在5月29日进行的重大看涨期权交易：买入100万至500万美元的英特尔（INTC）2027年3月看涨期权，以及200份优步（UBER）2027年3月19日到期、行权价50美元的看涨期权。这表明他们强烈看好这两只股票的长期前景。",
+      "translation": "南希·佩洛西刚刚披露：\n- 100万至500万美元的英特尔（INTC）2027年3月看涨期权\n- 200份优步（UBER）2027年3月19日到期、行权价50美元的看涨期权合约\n\n这笔交易是上月5月29日进行的。（她的丈夫是执行这些交易的活跃交易者）。仅供喜欢关注佩洛西家族交易的人参考。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069777320588750896",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nNancy Pelosi literally is buying leveraged products on companies she legislates.\n\nShe bought Intel, $INTC, 200 call options with a strike price of $50 and expiring 03/19/2027, on 05/29/2026.\n\nShe also bought $UBER call options.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069777320588750896",
+    "published_at": "2026-06-24T13:39:02+00:00",
+    "fetched_at": "2026-06-24T14:07:12.853631+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC",
+        "UBER"
+      ],
+      "direction": "bullish",
+      "summary": "南希·佩洛西购买了她所监管公司的杠杆产品，包括英特尔和优步的看涨期权，显示她对这两只股票的强烈看涨立场。",
+      "translation": "突发新闻：看这个。南希·佩洛西实际上在购买她所监管的公司的杠杆产品。她于2026年5月29日购买了英特尔（$INTC）的200份看涨期权，执行价为50美元，到期日为2027年3月19日。她还购买了$UBER的看涨期权。不寻常。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069775271562289299",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Fun new information discovery from Poet OSINT community:\n\nSeems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google). \n\nGiven a Linkedin update from Ankur Singla (CEO of Lumilens). \n\nWho stated their customer is one of the top 3 hyperscalers with their post focusing on CPO/NPO. \n\nWith that clue, seems more likely the Sivers CW DFB light source path over other EML suppliers given it's CPO Scale Out/NPO. \n\nIf you don't remember, Sivers is the laser supplier to Poet. And Poet has purchase agreements with Lumilens.\n\nAlways fun to find major potential breadcrumbs in the wild before they're officially confirmed. (Disclosure, long Sive)",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069775271562289299",
+    "published_at": "2026-06-24T13:30:53+00:00",
+    "fetched_at": "2026-06-24T14:06:35.440808+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "POET",
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出POET和SIVE可能为三大云巨头之一供应光通信产品，基于CEO透露的线索，看好这两家公司前景。作者已持仓SIVE。",
+      "translation": "Poet OSINT社区发现有趣的新信息：POET/SIVE似乎将服务于排名前三的云服务商（可能是亚马逊、微软、谷歌）。依据Lumilens CEO Ankur Singla的LinkedIn更新，他们的客户是前三云服务商之一，重点在CPO/NPO。据此线索，更可能是Sivers的CW DFB光源路径，而非其他EML供应商，因为涉及CPO扩展/NPO。如果没记错，Sivers是POET的激光器供应商，且POET与Lumilens有采购协议。在官方确认前发现这些重大线索总是很有趣。（声明：本人做多SIVE）",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069766741287407658",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, has closed down the first of its US stores to unionize, per MorePerfectUnion",
+    "tweet_url": "https://x.com/unusual_whales/status/2069766741287407658",
+    "published_at": "2026-06-24T12:57:00+00:00",
+    "fetched_at": "2026-06-24T14:07:18.061056+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果关闭首家工会化门店，可能暗示劳资关系紧张或成本上升，对股价构成负面情绪影响。",
+      "translation": "苹果，$AAPL，已关闭其首家工会化的美国门店，据MorePerfectUnion报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069751641906295277",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Jamie Dimon of JPMorgan has said: We’re in a bull market.",
+    "tweet_url": "https://x.com/unusual_whales/status/2069751641906295277",
+    "published_at": "2026-06-24T11:57:00+00:00",
+    "fetched_at": "2026-06-24T14:07:23.438070+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根大通CEO杰米·戴蒙表示当前处于牛市，这提振了市场信心，暗示股市可能继续上涨。",
+      "translation": "突发：摩根大通的杰米·戴蒙表示：我们处于牛市中。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069741575601865035",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "President Trump: Iran's unfrozen assets will be used to buy food from US farmers",
+    "tweet_url": "https://x.com/unusual_whales/status/2069741575601865035",
+    "published_at": "2026-06-24T11:17:00+00:00",
+    "fetched_at": "2026-06-24T14:07:26.099131+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文暗示伊朗解冻资金将用于购买美国农产品，可能利好美国农业股及相关ETF。",
+      "translation": "总统特朗普：伊朗解冻的资金将用于从美国农民那里购买粮食。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069736542268956952",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -17,6 +142,27 @@
       "direction": "bullish",
       "summary": "SpaceX在IPO后不到两周通过债务融资250亿美元，显示市场对该公司信心强劲，可能推动其估值进一步上升。",
       "translation": "据CNBC报道，SpaceX在IPO后不到两周内通过债务销售筹集了250亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069731509246771697",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Global markets operator Cboe has launched its first predictions markets product, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2069731509246771697",
+    "published_at": "2026-06-24T10:37:00+00:00",
+    "fetched_at": "2026-06-24T14:07:27.805042+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CBOE"
+      ],
+      "direction": "neutral",
+      "summary": "Cboe推出首个预测市场产品，可能对其业务和股价产生中性影响，需关注后续市场反应。",
+      "translation": "刚刚：全球市场运营商Cboe已推出其首个预测市场产品，据CNBC报道。",
       "confidence": "medium"
     }
   },
