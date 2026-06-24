@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2069911193251467473",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get $GME news, subscribe to Unusual Whales.\n\nYou can see how options are moving right on site.\n\nSee more: https://t.co/8KdLqMc8Id",
+    "tweet_url": "https://x.com/unusual_whales/status/2069911193251467473",
+    "published_at": "2026-06-24T22:31:00+00:00",
+    "fetched_at": "2026-06-24T22:59:25.621932+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GME"
+      ],
+      "direction": "bullish",
+      "summary": "推文推荐订阅Unusual Whales以获取GME新闻，并显示可通过该网站查看期权动态，暗示对GME的积极关注。",
+      "translation": "要获取$GME新闻，请订阅Unusual Whales。您可以直接在网站上查看期权动态。了解更多：https://t.co/8KdLqMc8Id",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069896093811474928",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
