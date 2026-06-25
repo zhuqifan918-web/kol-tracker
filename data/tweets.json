@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2070258481802973437",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Supreme Court on June 25 blocked thousands of lawsuits over the weed killer Roundup, ruling the manufacturer can’t be sued for failing to warn people that the popular product might cause cancer.\n\nThe Environmental Protection Agency, which regulates pesticides, has not determined that Roundup poses a cancer risk and does not require a label saying it does.\n\nIn a 7-2 decision, the justices said that means Roundup users who have developed cancer cannot sue by claiming the weed killer violates state laws about dangerous products.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070258481802973437",
+    "published_at": "2026-06-25T21:31:00+00:00",
+    "fetched_at": "2026-06-25T22:16:13.547111+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国最高法院阻止了数千起针对除草剂Roundup的诉讼，裁定制造商无需因未警告致癌风险而被起诉。EPA未认定该产品致癌，这降低了制造商的诉讼风险和法律成本，对相关公司（如拜耳/孟山都）可能构成利好。",
+      "translation": "美国最高法院于6月25日阻止了数千起关于除草剂Roundup的诉讼，裁定制造商不能因未能警告人们该热门产品可能致癌而被起诉。环境保护署（EPA）管理农药，尚未认定Roundup存在致癌风险，且不要求标签注明。在7比2的裁决中，大法官表示，这意味着已患癌的Roundup用户不能以该除草剂违反州危险产品法律为由提起诉讼。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070250176988463479",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Microsoft, $MSFT, to raise Xbox prices starting August 1.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070250176988463479",
+    "published_at": "2026-06-25T20:58:00+00:00",
+    "fetched_at": "2026-06-25T22:16:15.283856+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "neutral",
+      "summary": "微软计划从8月1日起提高Xbox售价，这可能影响短期营收和利润率，但需结合具体涨幅和销量变化进一步分析。",
+      "translation": "微软，$MSFT，计划从8月1日起提高Xbox价格。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070243382069527005",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -211,6 +251,25 @@
       "summary": "该推文强烈看涨$SIVE，认为其是激光器瓶颈环节，受益于多家超大规模供应商，毛利率高达60%，并看好即将在纳斯达克上市，对比$AAOI和$NBIS的走势，认为当前下跌是买入机会。",
       "translation": "哦，我想你误解了……实际上，随着价格下跌，我比以往更加看涨。\n\n$SIVE 市值约19亿美元，拥有：\n- $GFS参考激光器\n- 为Ayar和其他公司提供激光器，用于$NVDA NVLink生态系统中的CPO扩展\n- $POET和其他公司用于CPO扩展\n- $JBL和其他公司用于1.6T+可插拔光收发器\n- O-Net用于ELS大规模生产\n\n所以，所有这些超大规模供应商都试图尽可能多地生产，而Sivers是激光器的瓶颈……\n\n问题只在于Win Semi和其他合作伙伴能生产多少，而$SIVE 获得约60%的毛利率，并有向下扩展TAM的选择权。\n\n最近15%的股份扩张（瑞典媒体一直看空报道）是为了纳斯达克上市流动性和并购（并且是授权）。\n\n你只是遇到了潜在的做空者运营非法的机器人农场，瑞典媒体看空一家在瑞典交易所上市的公司，再加上宏观市场下跌。\n\n大约1.4亿美元的可转换债券是真实的，但对美国机构来说只是小钱。当数据公布时，我们很可能会看到更多的机构持股。\n\n但这也是为什么$SIVE 优先考虑纳斯达克上市是好的，这样他们就不需要处理这些噪音和本地媒体。\n\n$AAOI 市值100亿美元，拥有：\n- 一家端到端的美国激光器/设计/组装公司，预计在2027年上半年前进入下半年时，月收入达到4.71亿美元。\n- 其他超大规模厂商如$AMD 似乎正在讨论长期协议。\n\n而且他们可能拥有大量现金，因为通过ATM融资了约14亿美元（4亿+4亿+6亿）。\n\n考虑到这些疯狂的营收预测，只要管理层不胡说，这就说明了一切。\n\n这让我想起去年$NBIS 跌至70美元，尽管预计年化收入70-90亿美元，随着时间临近，它又回升到250美元以上。感觉似曾相识。\n\n我就是在等待两个量产的到来。光子学通常比其他行业波动更大。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070174427958886579",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Rubio: there is zero support from gulf countries for tolls or fees on Strait of Hormuz",
+    "tweet_url": "https://x.com/unusual_whales/status/2070174427958886579",
+    "published_at": "2026-06-25T15:57:00+00:00",
+    "fetched_at": "2026-06-25T22:16:23.801105+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到鲁比奥称海湾国家不支持对霍尔木兹海峡征收通行费或费用，这降低了该地区石油运输中断的风险，对全球油价和能源市场有潜在稳定作用。投资者可关注油价波动减弱带来的机会。",
+      "translation": "鲁比奥：海湾国家对于霍尔木兹海峡的通行费或费用没有任何支持。",
+      "confidence": "medium"
     }
   },
   {
