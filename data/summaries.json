@@ -25,25 +25,24 @@
     "focus_tickers": [
       "MU",
       "AAPL",
-      "SPCX",
-      "GME",
-      "AMZN"
+      "QCOM",
+      "PLTR",
+      "DELL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "通胀高企与美联储政策收紧",
-      "地缘政治风险与供应链冲击",
-      "AI泡沫与半导体波动",
-      "消费者信心下滑与零售疲软",
-      "机构与企业财报不佳"
+      "通胀压力与美联储政策",
+      "地缘政治对市场影响",
+      "科技行业业绩分化",
+      "投资者情绪与市场波动"
     ],
-    "recent_shift": "近期观点转向更悲观，强调高通胀、高利率及地缘冲突导致市场风险加剧，而此前曾提示半导体机会但实际表现不佳。",
+    "recent_shift": "从早前对半导体行业相对积极转向对通胀和地缘风险的担忧",
     "representative_quotes": [
-      "U.S. inflation climbed to 4.1% in May",
-      "Only 25% of Americans believe it's a good time to invest",
-      "SpaceX's bond offering is a sign markets in 'bubble territory'"
+      "Fed's Goolsbee: Core inflation is still well too high, and is trending the wrong way.",
+      "It’s not a recession. But Goldman says your paycheck is acting like it.",
+      "A bloodbath in semiconductors today."
     ],
-    "generated_at": "2026-06-25T22:16:28.791851+00:00"
+    "generated_at": "2026-06-25T23:50:18.686140+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
