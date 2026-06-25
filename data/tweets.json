@@ -1,5 +1,277 @@
 [
   {
+    "tweet_id": "2069994083666518412",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我喜欢玩这些千亿万亿美金的大市值股票。股价很难被操纵，\n这种股票全市场都没有多少人能影响其价格走势，\n完全按照业绩和市场预期在驱动。\n普通人更不可能操纵和影响他们的价格。\n拿着睡觉踏实。",
+    "tweet_url": "https://x.com/xiaomustock/status/2069994083666518412",
+    "published_at": "2026-06-25T04:00:22+00:00",
+    "fetched_at": "2026-06-25T04:40:52.359957+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者对市值数千亿至数万亿美元的大盘股持看涨态度，认为其价格难以被操纵，主要由业绩和市场预期驱动，适合长期安心持有。",
+      "translation": "我喜欢玩这些千亿万亿美金的大市值股票。股价很难被操纵，这种股票全市场都没有多少人能影响其价格走势，完全按照业绩和市场预期在驱动。普通人更不可能操纵和影响他们的价格。拿着睡觉踏实。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069993485374226514",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "No decision is believed to be imminent, but the possibilities are actively on the table and have not been ruled out by CEO Satya Nadella or CFO Amy Hood.\n\nRead more: https://t.co/9rau2vsIfK",
+    "tweet_url": "https://x.com/unusual_whales/status/2069993485374226514",
+    "published_at": "2026-06-25T03:58:00+00:00",
+    "fetched_at": "2026-06-25T04:41:09.708553+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该报道提及微软CEO和CFO并未排除某些可能性，但尚未做出决定，暗示潜在的行情波动或战略变化，但目前无明确方向。",
+      "translation": "据信不会立即做出决定，但CEO萨提亚·纳德拉和CFO艾米·胡德未排除这些可能性，且正积极考虑。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069990311296975133",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that demand wave is set to begin before the decade is out.\"\n\nSomething as well as was \"Over time, we expect the value of on-device AI combined with pent-up unit replacement demand to drive memory demand growth\"\n\nWhich is also another trend (Apple Intelligence is currently dog, but I'm sure we'll see innovations with localized/edge AI). \n\nFeels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next. \n\nI wonder if the world is going to have enough memory. Or if we'll see enough breakthroughs to shrink memory usage.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+    "published_at": "2026-06-25T03:45:23+00:00",
+    "fetched_at": "2026-06-25T04:40:11.182107+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "TSM",
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "推文引用多家行业领袖对类人机器人将带动长期内存需求激增的预测，认为物理AI是下一个大趋势，对MU等内存及芯片股构成利好。",
+      "translation": "今天有个很有意思的声明：$MU CEO预测未来将出现一个由类人机器人驱动的长达数十年的内存需求周期。他说，类人机器人所需的内存量大约是今天L2+级自动驾驶汽车的十倍。而且这股需求浪潮将在本十年结束前到来。他还提到，我们预期设备端AI的价值加上积压的换机需求将驱动内存需求增长，这是另一个趋势（目前Apple Intelligence表现不佳，但我相信本地化/边缘AI会有创新）。感觉从$TSM董事长、$TSLA马斯克到$MU CEO，所有行业领袖都认为类人机器人将是下一个重要趋势，所以物理AI可能成为下一波浪潮。我在想全球是否有足够的内存，或者我们能否看到足够的技术突破来缩小内存消耗。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069987400097620124",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "刚继续加仓了康宁 $GLW 和日月光 $AXS\n台积电，三星，英特尔三家都开始密集提到玻璃基板，康宁在光纤和玻璃基板都有垄断优势。\n日月光近期提价，今天盘后暴涨夜盘暴跌，买的还能更便宜点了。\n各搞了一样多，就看以后哪个能更赚钱点。\n相当于把2x海力士的钱换成了康宁和日月光，留了正股海力士。",
+    "tweet_url": "https://x.com/xiaomustock/status/2069987400097620124",
+    "published_at": "2026-06-25T03:33:49+00:00",
+    "fetched_at": "2026-06-25T04:40:54.931548+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "AXS",
+        "SK Hynix",
+        "TSM",
+        "SSNLF",
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "用户将2倍杠杆海力士的仓位换成了康宁和日月光，看好康宁在玻璃基板领域的垄断优势及日月光提价后的低价买入机会，对两者均持看涨态度。",
+      "translation": "刚才继续加仓了康宁 $GLW 和日月光 $AXS。台积电、三星、英特尔三家都开始密集提到玻璃基板，康宁在光纤和玻璃基板都有垄断优势。日月光近期提价，今天盘后暴涨夜盘暴跌，买的还能更便宜点了。各搞了一样多，就看以后哪个能更赚钱点。相当于把2倍海力士的钱换成了康宁和日月光，留了正股海力士。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069981005033984070",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这波太菜了，2x海力士踏空了，正股没踏空，\n正股284万韩元接回来了\n本来想美光业绩不及预期跌个大的，\n这下搞的2x不敢买了，这次给机会低价20%没中用。太贪心了想跌更多。",
+    "tweet_url": "https://x.com/xiaomustock/status/2069981005033984070",
+    "published_at": "2026-06-25T03:08:24+00:00",
+    "fetched_at": "2026-06-25T04:40:57.478086+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "用户讨论SK海力士的正股和2倍杠杆ETF操作，因贪心未能把握20%低价机会，虽正股踏空但已接回，对海力士长期看好。",
+      "translation": "This wave was too weak. I missed the 2x Hynix, but didn't miss the stock itself. I bought back the stock at 2.84 million Korean won. I originally thought Micron's earnings miss would cause a big drop, but now I dare not buy the 2x. This time I missed the opportunity for a 20% low price. Too greedy, wanted it to drop more.",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069971817817948532",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "按照美光财报利润280亿算，\n海力士q2利润=280*2+740=1300亿美金\n海力士二季度经营利润560亿美金，\n财报利润1300亿美金，\n这他娘的美光财报太好了，踏空了 https://t.co/iOlo5i0T2i",
+    "tweet_url": "https://x.com/xiaomustock/status/2069971817817948532",
+    "published_at": "2026-06-25T02:31:54+00:00",
+    "fetched_at": "2026-06-25T04:40:59.714815+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "作者基于美光财报利润280亿计算，认为海力士Q2利润可达1300亿美金，远超经营利润560亿美金，从而判断美光财报超预期，自己踏空行情。",
+      "translation": "按照美光财报利润280亿算，海力士Q2利润=280*2+740=1300亿美金。海力士二季度经营利润560亿美金，财报利润1300亿美金。这他娘的美光财报太好了，踏空了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069971591145181363",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "On 7 January 2025, President Trump issued an executive order aimed at limiting and preventing certain large defense contractors from conducting stock buybacks, issuing dividends, and awarding executive compensation.\n\nRead more: https://t.co/5mgIUuWWfw",
+    "tweet_url": "https://x.com/unusual_whales/status/2069971591145181363",
+    "published_at": "2026-06-25T02:31:00+00:00",
+    "fetched_at": "2026-06-25T04:41:14.893302+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "此行政命令限制大型国防承包商的股票回购、分红及高管薪酬，可能对其股价和股东回报产生负面影响，投资者需关注相关行业的短期压力。",
+      "translation": "2025年1月7日，特朗普总统发布了一项行政命令，旨在限制和阻止某些大型国防承包商进行股票回购、发放股息以及提供高管薪酬。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069968830407852252",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit I’m curious how you think about timing of entry and allocation relative to timing. For example with CPO being expected to ramp mid 2027 is it best to hold smaller allocation in the meantime or when do you go heavy on the theme?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069968830407852252",
+    "published_at": "2026-06-25T02:20:01+00:00",
+    "fetched_at": "2026-06-25T04:40:22.137112+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CPO"
+      ],
+      "direction": "neutral",
+      "summary": "讨论关于CPO的投资时机与仓位分配策略，建议在2027年中产能爬坡前保持较小仓位，之后考虑重仓。",
+      "translation": "我很好奇你如何看待入场时机以及与之相关的仓位分配。例如，鉴于CPO预计在2027年中开始产能爬坡，是应该在期间保持较小仓位，还是何时对该主题重仓？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069967746377662587",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Think so. But in the meantime, I call my strategy: Diversified Losses.\n\nWith $AXTI, $SOI, $AAOI, and many others.\n\nHad a massive drawdown recently, \nCPO exposure was hit the hardest (Foci, Msscorp, etc) and adjacent names, feels bad.\n\nProbably lesson personally, I had too much concentration in photonics vs. memory/other sectors without weighting/hedging properly.\n\nWith Soitec, there's been a few negative institutional reports that I'd disagree with. \n\nThink AXT was hit harder in specific just because of float expansion/dilution concerns. AAOI, probably just brought down with the theme.\n\nI can't give advice on buying, so completely up to you to make for cost averaging or entering positions.\n\nBut I do think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up.\n\nIf my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028.\n\nMarkets don't typically wait to price things in advance, but some ideas might be a tad early or in the buildout given it's H2 2026 now.\n\nWhich is why it's important to build your own conviction.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069967746377662587",
+    "published_at": "2026-06-25T02:15:43+00:00",
+    "fetched_at": "2026-06-25T04:40:28.084298+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "SOI",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为光子学仍处于超级周期早期，尽管近期遭遇大幅回撤和集中持仓损失，但看好2027年中至2028年的转折点，建议自行判断是否逢低买入。",
+      "translation": "我也这么认为。但与此同时，我把我的策略称为：分散亏损。\n\n涉及$AXTI，$SOI，$AAOI等多只股票。\n\n最近遭遇了大规模回撤，\nCPO敞口打击最大（Foci、Msscorp等），以及相关股票，感觉糟糕。\n\n可能个人教训是，我在光子学上的仓位过于集中，相对于存储/其他板块没有做好权重或对冲。\n\n关于Soitec，有一些负面的机构报告，但我不同意。\n\n我觉得AXTI跌幅更大，主要是因为流通股扩大/稀释担忧。AAOI可能只是被板块主题拖累。\n\n我不能提供买入建议，所以是否逢低建仓完全取决于你。\n\n但我仍认为我们处于光子学超级周期的早期，上涨过程中必然会有调整/崩溃。\n\n如果我的个人判断正确，许多股票将在2027年中至2028年迎来重大转折点。\n\n市场通常不会提前太久定价，但考虑到现在是2026年下半年，部分想法可能略早或处于建设阶段。\n\n这就是为什么建立自己的信念很重要。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069963286368448797",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Department of Energy is offering these loans to finance long-lead nuclear components, not full construction costs.\n\nRead more: https://t.co/ivMaLVE8tk",
+    "tweet_url": "https://x.com/unusual_whales/status/2069963286368448797",
+    "published_at": "2026-06-25T01:58:00+00:00",
+    "fetched_at": "2026-06-25T04:41:16.962388+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及美国能源部提供贷款用于资助核能长期组件，而非全部建设成本，这可能对核能相关企业（如组件制造商）有中性偏积极的影响，但未直接点名具体公司或提供明确交易信号。",
+      "translation": "能源部正在提供这些贷款，用于资助核能长期组件，而非全部建设成本。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069956491763990594",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "After paying a 5.5% placement fee and other costs, AMC estimates net proceeds of about $189 million, which will be used for debt redemption and corporate purposes.\n\nRead more: https://t.co/HdN4KK6iQB",
+    "tweet_url": "https://x.com/unusual_whales/status/2069956491763990594",
+    "published_at": "2026-06-25T01:31:00+00:00",
+    "fetched_at": "2026-06-25T04:41:18.852130+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMC"
+      ],
+      "direction": "neutral",
+      "summary": "AMC通过支付5.5%的配售费及其他成本，预计净募资约1.89亿美元，用于偿还债务和公司用途。这有助于改善公司财务状况，但会稀释股权。",
+      "translation": "在支付5.5%的配售费和其他成本后，AMC估计净收益约为1.89亿美元，将用于债务偿还和公司用途。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069941392164409494",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The S&amp;P manufacturing flash reading for its purchase managers index came in at 55.7, up narrowly from May and better than the Dow Jones consensus estimate for 54.8.\n\nRead more: https://t.co/hYFhIPdiHA",
+    "tweet_url": "https://x.com/unusual_whales/status/2069941392164409494",
+    "published_at": "2026-06-25T00:31:00+00:00",
+    "fetched_at": "2026-06-25T04:41:21.682680+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国制造业PMI数据超预期，显示经济扩张加速，对市场构成利好。",
+      "translation": "标普制造业采购经理人指数初值为55.7，较5月小幅上升，且高于道琼斯共识预期的54.8。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069938631817699588",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Today, Anthropic has directly accused the $BABA Qwen AI lab of distilling its frontier AI models.\n\nBy creating thousands of fake accounts and over 28.8 million exchanges. \n\nFeels like this is kind of known by now... but there's been no real penalties enforced yet. \n\nWe'll see what happens.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069938631817699588",
+    "published_at": "2026-06-25T00:20:02+00:00",
+    "fetched_at": "2026-06-25T04:40:36.376119+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BABA"
+      ],
+      "direction": "bearish",
+      "summary": "推文指出阿里巴巴的Qwen AI实验室被指控蒸馏Anthropic的AI模型，涉及大量虚假账户和数据交换，但尚未受到实际处罚，这可能对阿里巴巴的声誉和AI业务前景构成负面影响。",
+      "translation": "今天，Anthropic直接指控$BABA Qwen AI实验室蒸馏其前沿AI模型。通过创建数千个虚假账户和超过2880万次交换。感觉这已经是众所周知的事情了...但至今没有实际处罚。我们拭目以待。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2069911193251467473",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -158,6 +430,28 @@
       "direction": "bullish",
       "summary": "Redfin报告称房价再次上涨，这可能对房地产市场及相关股票（如REDF）构成利好消息，投资者可关注房地产板块的潜在机会。",
       "translation": "Redfin报道：“房价又开始上涨了。”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2069858506690183252",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Do you think there's a possibility for $AXTI and $AAOI going rippy mode again soon? Super heavy losses this month",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2069858506690183252",
+    "published_at": "2026-06-24T19:01:38+00:00",
+    "fetched_at": "2026-06-25T04:40:32.103572+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "推文询问AXTI和AAOI是否可能很快再次大幅上涨，暗示尽管本月损失惨重，仍抱有看涨期待。",
+      "translation": "@aleabitoreddit 你觉得$AXTI和$AAOI有没有可能很快再次飙升？这个月损失惨重。",
       "confidence": "medium"
     }
   },
