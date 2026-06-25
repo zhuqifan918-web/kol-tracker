@@ -1,5 +1,68 @@
 [
   {
+    "tweet_id": "2070243382069527005",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry says he is no longer short Palantir, $PLTR, having covered his position.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070243382069527005",
+    "published_at": "2026-06-25T20:31:00+00:00",
+    "fetched_at": "2026-06-25T20:32:06.656410+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PLTR"
+      ],
+      "direction": "bullish",
+      "summary": "迈克尔·伯里表示已不再做空Palantir（$PLTR），并平掉了空头仓位，这通常被解读为对该股的看多信号。",
+      "translation": "迈克尔·伯里说他不再做空Palantir（$PLTR），已经平掉了空头仓位。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070226520849711264",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Dell, $DELL, is changing its legal home to Texas.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070226520849711264",
+    "published_at": "2026-06-25T19:24:00+00:00",
+    "fetched_at": "2026-06-25T20:32:10.477079+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DELL"
+      ],
+      "direction": "neutral",
+      "summary": "戴尔宣布将其法定所在地迁至得克萨斯州，这对其投资价值影响尚不明确，需关注后续市场反应及公司战略调整。",
+      "translation": "突发新闻：戴尔（$DELL）将其法定所在地迁至得克萨斯州。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2070222242668310700",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nQualcomm, $QCOM, is up nearly 6% today.\n\nThis is after it forecasted $15 billion data centre chip sales by 2029. https://t.co/sSgrEn1rA9",
+    "tweet_url": "https://x.com/unusual_whales/status/2070222242668310700",
+    "published_at": "2026-06-25T19:07:00+00:00",
+    "fetched_at": "2026-06-25T20:32:12.463808+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "QCOM"
+      ],
+      "direction": "bullish",
+      "summary": "高通股价因2029年数据中心芯片销售预测达150亿美元而上涨近6%，显示市场对其长期增长前景持乐观态度。",
+      "translation": "看这个。高通（$QCOM）今天上涨近6%。此前该公司预测到2029年数据中心芯片销售额将达到150亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070204844556923352",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -102,6 +165,25 @@
       "summary": "中国主要银行暂停贵金属零售交易服务，显示监管收紧，对贵金属投资需求构成利空。",
       "translation": "据彭博社报道，一些中国主要银行正在关闭协助零售交易贵金属的服务。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070179461350244711",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Representative Alexandria Ocasio-Cortez (D-NY) and Senator Bernie Sanders have introduced the Artificial Intelligence Data Center Moratorium Act. \n\nThe legislation aims to pause the construction of new large-scale AI data centers until stringent federal environmental, grid-capacity, and consumer-protection regulations are established.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070179461350244711",
+    "published_at": "2026-06-25T16:17:00+00:00",
+    "fetched_at": "2026-06-25T20:32:21.520886+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该法案提议暂停建设大型AI数据中心，可能对AI基础设施相关股票（如数据中心运营商、电力及冷却设备供应商）构成短期利空，因监管不确定性增加。长期影响取决于后续法规内容，但短期内市场情绪或偏负面。",
+      "translation": "众议员亚历山大·奥卡西奥-科尔特斯（纽约州民主党）和参议员伯尼·桑德斯提出了《人工智能数据中心暂停法案》。该法案旨在暂停新建大型AI数据中心，直到建立严格的联邦环境、电网容量和消费者保护法规。",
+      "confidence": "medium"
     }
   },
   {
