@@ -27,25 +27,25 @@
     "focus_tickers": [
       "$MU",
       "$SPCX",
-      "$NVDA",
       "$AMC",
-      "$GME"
+      "$GME",
+      "$NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "半导体行业波动",
-      "美联储政策预期与通胀",
-      "地缘政治与能源安全",
-      "AI与数据中心投资",
-      "企业资本运作与监管"
+      "地缘政治风险与石油市场动荡",
+      "半导体行业高波动与盈利预期",
+      "AI与科技巨头战略扩张",
+      "住房与机构投资限制政策",
+      "美联储利率预期转向鹰派"
     ],
-    "recent_shift": "近期从关注半导体及AI的投资机会转向更强调地缘政治风险和美联储加息预期的宏观不确定性。",
+    "recent_shift": "近期从关注宏观衰退风险和油价冲击，转向更聚焦半导体个股高波动和美联储加息预期。",
     "representative_quotes": [
-      "BREAKING: Micron, $MU, earnings: EPS: $25.11, est: $20; Revenue: $41 billion, est: $35 billion",
-      "40% of investors are now expecting a Fed hike in the next year, versus 28% expecting cuts, per Bank of America",
-      "Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody's"
+      "A bloodbath in semiconductors today.",
+      "Real wages are decreasing in some developed countries.",
+      "Trump: stock buybacks are fake way to raise a price"
     ],
-    "generated_at": "2026-06-25T08:18:29.769600+00:00"
+    "generated_at": "2026-06-25T13:33:32.620869+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
