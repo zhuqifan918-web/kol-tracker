@@ -9,43 +9,41 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学（Photonics）和激光瓶颈投资",
-      "AI基础设施和上游资本支出受益者",
-      "内存超级周期（Memory Supercycle）",
-      "欧洲半导体和制造设备垄断",
-      "CPO（共封装光学）和下一代光互连"
+      "光子学瓶颈 - CW 激光器、硅光子和共封装光学",
+      "内存超级周期 - DRAM 和 NAND 的结构性需求",
+      "AI 建设上游 - 资本支出受益者如代工厂和制造设备"
     ],
-    "recent_shift": "最近更强调CW激光在CPO和1.6T可插拔中的核心瓶颈地位，并认为光子学主题仍处于非常早期阶段，2027年才是营收爬坡的关键节点。",
+    "recent_shift": "近期更强调光子学领域的早期阶段和2027年营收拐点，并淡化短期波动，同时重申对激光瓶颈的看涨信念。",
     "representative_quotes": [
-      "oh i think u misunderstand... I'm actually more bullish than ever as prices go down.",
-      "Don't think there's any new news from $XFAB. Their company needs to do a better job with marketing materials though.",
-      "Photonics is still probably the earliest out of the three."
+      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028.",
+      "I'm actually more bullish than ever as prices go down.",
+      "Kinda all that needs to be said with those insane revenue projections as long as management doesn't BS."
     ],
-    "generated_at": "2026-06-25T16:17:27.416164+00:00"
+    "generated_at": "2026-06-25T18:30:54.917428+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$SPCX",
-      "$NVDA",
-      "$GME",
-      "$AAPL"
+      "MU",
+      "AAPL",
+      "AMC",
+      "SPCX",
+      "GME"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场泡沫与估值担忧",
-      "通胀与利率政策不确定性",
-      "地缘政治风险加剧",
-      "科技行业分化与半导体波动",
-      "散户去杠杆与机构调仓"
+      "科技股波动加剧",
+      "地缘政治风险",
+      "通胀与利率不确定性",
+      "市场杠杆与泡沫担忧",
+      "消费与经济增长放缓"
     ],
-    "recent_shift": "从早前的乐观情绪转向警惕泡沫和宏观风险，强调散户杠杆下降和央行鹰派预期。",
+    "recent_shift": "最初对半导体和科技股表现乐观，但最新推文强调市场风险、通胀压力和地缘冲突，转向谨慎甚至看跌。",
     "representative_quotes": [
-      "SpaceX's bond offering is a sign markets are in \"bubble territory,\" according to Allianz's CIO.",
-      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz.",
-      "Goldman Sachs expects the Fed to not cut in 2026, and instead cut in June 2027"
+      "Wow. Apple... announced price increases... Today, $AAPL is down more than 5%, losing billions in marketcap.",
+      "A bloodbath in semiconductors today.",
+      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter."
     ],
-    "generated_at": "2026-06-25T16:17:20.394030+00:00"
+    "generated_at": "2026-06-25T18:30:51.626065+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
