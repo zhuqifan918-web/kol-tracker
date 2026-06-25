@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2070119063699763592",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Real wages are decreasing in some developed countries,\" per FT: https://t.co/GgK87itxk9",
+    "tweet_url": "https://x.com/unusual_whales/status/2070119063699763592",
+    "published_at": "2026-06-25T12:17:00+00:00",
+    "fetched_at": "2026-06-25T13:33:13.572316+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用《金融时报》报道称部分发达国家实际工资正在下降，暗示消费能力减弱，可能对经济及股市产生负面影响，属于宏观利空信息。",
+      "translation": "根据《金融时报》报道，一些发达国家的实际工资正在下降。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2070114029629255850",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citi says its S&amp;P 500 2026 target is 8,100, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2070114029629255850",
+    "published_at": "2026-06-25T11:57:00+00:00",
+    "fetched_at": "2026-06-25T13:33:15.440249+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "花旗银行将其标普500指数2026年目标价上调至8100点，显示对美股中长期走势持乐观态度。",
+      "translation": "花旗银行表示，其标普500指数2026年目标价为8100点，据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070108996673937482",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Oil tankers are being lured back into the Strait of Hormuz by big payouts,\" per MW",
+    "tweet_url": "https://x.com/unusual_whales/status/2070108996673937482",
+    "published_at": "2026-06-25T11:37:00+00:00",
+    "fetched_at": "2026-06-25T13:33:17.669846+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文暗示由于高额报酬，油轮正重新进入霍尔木兹海峡，这可能缓解石油供应中断风险，对油价产生短期负面影响，但整体航运和石油市场活动增加，利好相关行业。",
+      "translation": "据市场观察报道，油轮正因高额报酬被引诱回霍尔木兹海峡。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070050580547154071",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -126,6 +183,25 @@
       "summary": "作者对海力士股价创新高感到后悔没有买入，表达看涨情绪。",
       "translation": "海力士又创新高了，悔恨的泪水夺眶而出😭",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070016889666076726",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The bill prohibits institutional investors from owning more than 350 single-family homes.\n\nRead more: https://t.co/An1GAZYwBo",
+    "tweet_url": "https://x.com/unusual_whales/status/2070016889666076726",
+    "published_at": "2026-06-25T05:31:00+00:00",
+    "fetched_at": "2026-06-25T13:33:20.832599+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该法案限制机构投资者拥有超过350套单户住宅，可能对房地产投资信托（REITs）和大型房东构成利空，抑制机构购房需求，增加住房供应，对个人购房者有利。",
+      "translation": "该法案禁止机构投资者拥有超过350套单户住宅。",
+      "confidence": "high"
     }
   },
   {
