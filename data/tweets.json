@@ -1,5 +1,110 @@
 [
   {
+    "tweet_id": "2070204844556923352",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wow.\n\nApple, $AAPL, announced price increases to iPad and Macs.\n\nToday, $AAPL is down more than 5%, losing billions in marketcap. https://t.co/9uNBxy4Khe",
+    "tweet_url": "https://x.com/unusual_whales/status/2070204844556923352",
+    "published_at": "2026-06-25T17:57:52+00:00",
+    "fetched_at": "2026-06-25T18:30:31.182362+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果公司宣布iPad和Mac产品涨价，导致股价当日下跌超过5%，市值蒸发数十亿美元，市场对此反应负面。",
+      "translation": "哇。苹果公司宣布iPad和Mac产品涨价。今天，$AAPL下跌超过5%，市值蒸发数十亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070198969976943015",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Micron, $MU, is up 16% after earnings.\n\nHow high will it go? https://t.co/11VGQwbsbY",
+    "tweet_url": "https://x.com/unusual_whales/status/2070198969976943015",
+    "published_at": "2026-06-25T17:34:31+00:00",
+    "fetched_at": "2026-06-25T18:30:32.876250+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到美光科技（MU）财报后股价上涨16%，并对其未来走势持乐观态度。",
+      "translation": "美光科技（$MU）财报后上涨了16%。它能涨到多高？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070189527197429808",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Anthropic accused Alibaba, $BABA, of illegally extracting the capabilities of its Claude AI model in what it says was its largest known attack, per Reuters.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070189527197429808",
+    "published_at": "2026-06-25T16:57:00+00:00",
+    "fetched_at": "2026-06-25T18:30:36.002072+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BABA"
+      ],
+      "direction": "bearish",
+      "summary": "阿里巴巴被指非法提取Claude模型能力，可能面临法律与声誉风险，短期对股价构成利空。",
+      "translation": "Anthropic指控阿里巴巴（$BABA）非法提取其Claude AI模型的能力，据路透社报道，这被认为是其已知的最大规模攻击。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070189253573890167",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nah, gonna fill out the job application for $WEN and set up camp behind the dumpsters. \n\nEven $MU and $SNDK ridiculous performance today couldn't save my port.\n\nCheering on Japan though, hoping Sweden gets mogged with a 2-0 to represent the 20% drop.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070189253573890167",
+    "published_at": "2026-06-25T16:55:54+00:00",
+    "fetched_at": "2026-06-25T18:30:01.421108+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WEN",
+        "MU",
+        "SNDK"
+      ],
+      "direction": "bearish",
+      "summary": "作者认为市场表现极差，提及WEN、MU和SNDK等股票，并自嘲要申请WEN工作、露宿垃圾箱旁，同时用日本对瑞典的体育赛事比喻20%的跌幅，整体情绪悲观。",
+      "translation": "不会吧，我要去填$WEN的职位申请表，然后在垃圾箱后面扎营。即便$MU和$SNDK今天表现惊人，也没能拯救我的投资组合。不过还是支持日本，希望瑞典以2-0被击败，代表20%的跌幅。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070184494112674156",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Some major Chinese banks are shutting down services that aid retail trading in precious metals,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2070184494112674156",
+    "published_at": "2026-06-25T16:37:00+00:00",
+    "fetched_at": "2026-06-25T18:30:37.800019+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中国主要银行暂停贵金属零售交易服务，显示监管收紧，对贵金属投资需求构成利空。",
+      "translation": "据彭博社报道，一些中国主要银行正在关闭协助零售交易贵金属的服务。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070179074048409662",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
