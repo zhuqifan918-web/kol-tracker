@@ -1,72 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AAOI",
       "$SIVE",
+      "$AAOI",
       "$MU",
-      "$TSM",
+      "$AXTI",
       "$LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施的硬件瓶颈（光子学、存储器）",
-      "CPO（共封装光学）与CW激光器的结构性短缺",
-      "主权半导体自主（欧洲、韩国、日本）",
-      "存储器周期结构性增长，受机器人需求驱动",
-      "光学领域的小市值垄断企业被低估"
+      "光子学（Photonics）和激光瓶颈投资",
+      "AI基础设施和上游资本支出受益者",
+      "内存超级周期（Memory Supercycle）",
+      "欧洲半导体和制造设备垄断",
+      "CPO（共封装光学）和下一代光互连"
     ],
-    "recent_shift": "早期极度看好光子学和存储器，近期更强调CPO和CW激光器的紧缺性，并增加对玻璃基板（LPK）和韩国光学公司（OE Solutions）的关注。",
+    "recent_shift": "最近更强调CW激光在CPO和1.6T可插拔中的核心瓶颈地位，并认为光子学主题仍处于非常早期阶段，2027年才是营收爬坡的关键节点。",
     "representative_quotes": [
-      "Feels bad to be sidelined and see my AI memory/optical portfolio perform worse than a $RDDT memestock tho.",
-      "There’s not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom.",
-      "If you see a bunch of projections on memory names like Samsung becoming the most profitable company in the world in 2028. Might be a good idea to think independently outside of the narratives at the time like 'Oil, LNG, Helium, Iran, etc.'"
+      "oh i think u misunderstand... I'm actually more bullish than ever as prices go down.",
+      "Don't think there's any new news from $XFAB. Their company needs to do a better job with marketing materials though.",
+      "Photonics is still probably the earliest out of the three."
     ],
-    "generated_at": "2026-06-25T08:18:26.656421+00:00"
+    "generated_at": "2026-06-25T16:17:27.416164+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$MU",
       "$SPCX",
-      "$AMC",
+      "$NVDA",
       "$GME",
-      "$NVDA"
+      "$AAPL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与石油市场动荡",
-      "半导体行业高波动与盈利预期",
-      "AI与科技巨头战略扩张",
-      "住房与机构投资限制政策",
-      "美联储利率预期转向鹰派"
+      "市场泡沫与估值担忧",
+      "通胀与利率政策不确定性",
+      "地缘政治风险加剧",
+      "科技行业分化与半导体波动",
+      "散户去杠杆与机构调仓"
     ],
-    "recent_shift": "近期从关注宏观衰退风险和油价冲击，转向更聚焦半导体个股高波动和美联储加息预期。",
+    "recent_shift": "从早前的乐观情绪转向警惕泡沫和宏观风险，强调散户杠杆下降和央行鹰派预期。",
     "representative_quotes": [
-      "A bloodbath in semiconductors today.",
-      "Real wages are decreasing in some developed countries.",
-      "Trump: stock buybacks are fake way to raise a price"
+      "SpaceX's bond offering is a sign markets are in \"bubble territory,\" according to Allianz's CIO.",
+      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz.",
+      "Goldman Sachs expects the Fed to not cut in 2026, and instead cut in June 2027"
     ],
-    "generated_at": "2026-06-25T13:33:32.620869+00:00"
+    "generated_at": "2026-06-25T16:17:20.394030+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$ASX",
-      "$GLW",
-      "$TSM",
-      "$MU",
-      "$NOK"
+      "GLW",
+      "ASX",
+      "TSM",
+      "NVDA",
+      "NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力需求驱动半导体存储与材料革命",
-      "玻璃基板、光纤等新型材料技术垄断价值",
-      "存储三巨头（海力士、美光）产能紧张与业绩爆发"
+      "存储（HBM、DRAM）是AI革命的核心利润来源",
+      "康宁在玻璃基板和光纤领域的垄断优势",
+      "海力士美股ADR带来的重估机会",
+      "英伟达、台积电等大厂背书推动技术需求",
+      "长期持有策略优于短线交易"
     ],
-    "recent_shift": "近期从重仓海力士正股及2x杠杆转向加仓康宁和日月光，认为二者在玻璃基板、封测领域更具弹性。",
+    "recent_shift": "近期从海力士正股和2x杠杆转向增持康宁和日月光，但仍保留海力士大头仓位",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "康宁 $GLW 在玻璃这一块有无与伦比的话语权。",
-      "海力士q2利润保守预估1100亿美金纯现金，今日海力士市值11200亿美金。接下来45天是海力士的强势期。"
+      "康宁简直是下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住AI的俩个蛋蛋。",
+      "高频短线交易则是停留在打工人思维…而长期持有只在特定情况调仓是老板思维，如果你的眼光和认知配得上你的财富，拥有足够远见，则早晚必定发财。"
     ],
-    "generated_at": "2026-06-25T08:18:22.429769+00:00"
+    "generated_at": "2026-06-25T16:17:24.094273+00:00"
   }
 }
