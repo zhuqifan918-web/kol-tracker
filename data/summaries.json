@@ -4,70 +4,69 @@
       "$SIVE",
       "$AAOI",
       "$MU",
-      "$LPK",
-      "$INTC"
+      "$TSM",
+      "$LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/激光器瓶颈",
-      "内存结构性需求",
-      "AI基础设施持续扩张",
-      "光学互联和CPO封装",
-      "设备供应链垄断型投资"
+      "AI基础设施建设",
+      "光子学/光学瓶颈",
+      "存储芯片超级周期",
+      "人形机器人驱动内存需求",
+      "供应链去风险化"
     ],
-    "recent_shift": "近几天明显更强调CW激光器瓶颈加剧，以及AMD等超大规模客户争抢供应，同时强调光学板块仍处于早期阶段而非过热。",
+    "recent_shift": "近期从纯AI基建转向更聚焦物理AI（人形机器人）和光学/存储瓶颈，同时强调市场回调为买入机会。",
     "representative_quotes": [
-      "Looks like memory demand has become structural… But great earnings to show up the AI trade is continuing to ramp up.",
-      "Photonics is still probably the earliest out of the three. But I can see Nebius end up like AWS one day.",
-      "The amount of economic impact can't be measured if AI helps find cures for cancer or accelerates discovery for Quantum Computing."
+      "Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.",
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
+      "IMO photonics theme + CW laser chokepoint is goated."
     ],
-    "generated_at": "2026-06-24T21:52:45.602044+00:00"
+    "generated_at": "2026-06-25T04:41:42.094805+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$SPCX",
-      "$NVDA",
-      "$AMC",
-      "$GME"
-    ],
-    "overall_bias": "bearish",
-    "key_themes": [
-      "半导体行业波动加剧，MU财报前隐含波动率创52周新高",
-      "地缘政治风险升温，伊朗冲突影响油价与通胀",
-      "宏观经济分歧：部分投行预期加息，部分预期软着陆",
-      "市场流动性风险：私募信贷限赎、企业债发行潮",
-      "科技巨头分化：AI投资持续，但部分公司裁员和业绩承压"
-    ],
-    "recent_shift": "从前期相对平衡的宏观讨论转向明确看空半导体板块，并强调伊朗冲突和加息预期对市场的负面冲击。",
-    "representative_quotes": [
-      "A bloodbath in semiconductors today.",
-      "40% of investors are now expecting a Fed hike in the next year, versus 28% expecting cuts, per Bank of America",
-      "Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody’s"
-    ],
-    "generated_at": "2026-06-24T22:59:35.632901+00:00"
-  },
-  "xiaomustock": {
-    "focus_tickers": [
-      "SKHynix",
       "MU",
-      "GLW",
       "SPCX",
+      "AMC",
+      "GME",
       "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心，需求持续至2030年",
-      "SK海力士是存储王者，美股ADR、业绩、产能等利好密集",
-      "SPCX太空算力与诺基亚基站合作的长远愿景",
-      "利用恐惧情绪逆势抄底，长期持有高确定性的存储龙头"
+      "半导体行业波动与机遇",
+      "地缘政治风险与能源冲击",
+      "人工智能基础设施投资",
+      "市场资金流向与杠杆交易",
+      "美联储政策预期变化"
     ],
-    "recent_shift": "近期从整体重仓存储转向更集中持有SK海力士，同时强调SPCX和康宁等概念股，但核心仍是存储，未有根本性改变。",
+    "recent_shift": "近期从关注美联储降息预期转向对加息和预防衰退的讨论增多，同时半导体板块的极端波动和伊朗局势的缓和成为新焦点。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "海力士这一段的确定性非常高，45天内这些利好都要发生。准备大仓位捏45天。",
-      "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。"
+      "Citigroup says its 6-12 month price target for Gold is $5000/oz.",
+      "JPMorgan calculates that U.S. defined benefit pension funds... could account for around $55 billion in equity selling.",
+      "A bloodbath in semiconductors today."
     ],
-    "generated_at": "2026-06-24T16:38:17.527021+00:00"
+    "generated_at": "2026-06-25T04:41:38.883278+00:00"
+  },
+  "xiaomustock": {
+    "focus_tickers": [
+      "SK하이닉스",
+      "MU",
+      "GLW",
+      "ASX",
+      "SPCX"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "存储（存储器）是AI革命的核心，尤其海力士和美光",
+      "海力士ADR美股上市将引发价值重估",
+      "玻璃基板和光纤概念股（康宁）受追捧"
+    ],
+    "recent_shift": "近期从极度看好海力士和存储，开始分散仓位到康宁和日月光，但因加仓后下跌和踏空2x海力士而情绪波动。",
+    "representative_quotes": [
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。准备大仓位捏45天。",
+      "我喜欢玩这些千亿万亿美金的大市值股票。股价很难被操纵…拿着睡觉踏实。"
+    ],
+    "generated_at": "2026-06-25T04:41:36.263364+00:00"
   }
 }
