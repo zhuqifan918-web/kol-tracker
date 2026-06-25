@@ -25,25 +25,23 @@
     "focus_tickers": [
       "MU",
       "AAPL",
-      "AMC",
       "SPCX",
-      "GME"
+      "GOOGL",
+      "BABA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "科技股波动加剧",
-      "地缘政治风险",
-      "通胀与利率不确定性",
-      "市场杠杆与泡沫担忧",
-      "消费与经济增长放缓"
+      "AI基建与芯片需求",
+      "地缘政治与能源风险",
+      "市场泡沫担忧与杠杆收紧"
     ],
-    "recent_shift": "最初对半导体和科技股表现乐观，但最新推文强调市场风险、通胀压力和地缘冲突，转向谨慎甚至看跌。",
+    "recent_shift": "从前期对半导体板块的乐观转向关注高波动风险，并提及多个利空信号。",
     "representative_quotes": [
-      "Wow. Apple... announced price increases... Today, $AAPL is down more than 5%, losing billions in marketcap.",
-      "A bloodbath in semiconductors today.",
-      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter."
+      "Micron, $MU, is up 16% after earnings. How high will it go?",
+      "Apple, $AAPL, announced price increases to iPad and Macs. Today, $AAPL is down more than 5%, losing billions in marketcap.",
+      "SpaceX's bond offering is a sign markets are in 'bubble territory,' according to Allianz's CIO."
     ],
-    "generated_at": "2026-06-25T18:30:51.626065+00:00"
+    "generated_at": "2026-06-25T20:32:28.506680+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
