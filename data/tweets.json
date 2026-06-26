@@ -1,5 +1,169 @@
 [
   {
+    "tweet_id": "2070546881844011013",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran's Deputy Foreign Minister: Safe passage through the Strait of Hormuz without consideration of Iran's sovereignty is 'not guaranteed'",
+    "tweet_url": "https://x.com/unusual_whales/status/2070546881844011013",
+    "published_at": "2026-06-26T16:37:00+00:00",
+    "fetched_at": "2026-06-26T17:13:49.524752+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗威胁封锁霍尔木兹海峡，可能引发全球油价飙升和能源市场动荡，对依赖该海峡的能源进口国和航运业构成负面冲击。",
+      "translation": "伊朗副外长表示：在未考虑伊朗主权的情况下，通过霍尔木兹海峡的安全通行‘无法得到保障’。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070541849006166520",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Amazon, $AMZN, AWS is reportedly raising prices on its EC2 Capacity Block reservations for machine-learning GPU instances by approximately 20% effective July 1, 2026, per Investing. com.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070541849006166520",
+    "published_at": "2026-06-26T16:17:00+00:00",
+    "fetched_at": "2026-06-26T17:13:51.505651+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bearish",
+      "summary": "亚马逊旗下AWS计划自2026年7月1日起将机器学习GPU实例的EC2容量块预订价格提高约20%，这可能增加AWS客户的成本并影响AMZN的营收增长预期，短期内对股价构成利空。",
+      "translation": "根据Investing.com报道，亚马逊（$AMZN）旗下AWS据悉将从2026年7月1日起，将其用于机器学习GPU实例的EC2容量块预订价格提高约20%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070536815866462340",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2070536815866462340",
+    "published_at": "2026-06-26T15:57:00+00:00",
+    "fetched_at": "2026-06-26T17:13:52.941224+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "经济学家预测美联储将加息而非降息，这可能导致市场流动性收紧，对股市构成压力。",
+      "translation": "突发：自2023年以来，首次有更多经济学家预测美联储将加息而非降息，据路透社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070536700519178493",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Morgan Stanley: Retained its forecast for the Federal Reserve to hold interest rates through year-end (no rate hikes). \n\nMichael Gapen said incoming data since the June FOMC meeting has made it \"marginally more comfortable\" in its no-hike baseline. https://t.co/9OL7od94JP",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070536700519178493",
+    "published_at": "2026-06-26T15:56:32+00:00",
+    "fetched_at": "2026-06-26T17:13:11.955051+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "摩根士丹利维持美联储年内不加息的预测，认为近期数据支持其观点。这暗示利率环境稳定，对市场整体中性偏积极。",
+      "translation": "摩根士丹利维持其对美联储年内维持利率不变（不加息）的预测。迈克尔·加彭表示，自6月FOMC会议以来公布的数据使其“略微更安心”于不加息的基本预期。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070531782777184589",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bumble App is reporting exploring a sale, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2070531782777184589",
+    "published_at": "2026-06-26T15:37:00+00:00",
+    "fetched_at": "2026-06-26T17:13:54.434910+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BMBL"
+      ],
+      "direction": "neutral",
+      "summary": "Bumble考虑出售的消息可能影响其股价走势，目前方向不明，需关注后续进展。",
+      "translation": "Bumble App据路透社报道正在考虑出售。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070526749566529593",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry bought Microsoft, $MSFT, 2028 LEAPS with strikes in the low seven hundreds, per YF.\n\nHe added JD, Adobe and Fiserv, while also selling Alibaba for tax-loss reasons.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070526749566529593",
+    "published_at": "2026-06-26T15:17:00+00:00",
+    "fetched_at": "2026-06-26T17:13:56.839665+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT",
+        "JD",
+        "ADBE",
+        "FISV",
+        "BABA"
+      ],
+      "direction": "bullish",
+      "summary": "迈克尔·伯里通过购买微软2028年深度虚值看涨期权及增持京东、Adobe和Fiserv，同时为了税收亏损而出售阿里巴巴，展现出对科技和金融科技板块的看涨信心。",
+      "translation": "迈克尔·伯里购买了微软2028年到期的行权价在700多美元的长期期权（LEAPS），此外他还增持了京东、Adobe和Fiserv，同时出于税收亏损原因卖出了阿里巴巴。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070525636251468136",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "马斯克也说产量和需求之间有巨大鸿沟，\n马斯克的规划要非常庞大的存储量，除非马斯克上手自己造存储芯片，不然它的几个业务都不挣钱买不起海量的存储。",
+    "tweet_url": "https://x.com/xiaomustock/status/2070525636251468136",
+    "published_at": "2026-06-26T15:12:34+00:00",
+    "fetched_at": "2026-06-26T17:13:37.195628+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文指出马斯克提到产量与需求之间存在巨大鸿沟，并认为其业务需要海量存储，暗示存储成本可能拖累盈利能力，需关注特斯拉在存储方面的战略动向。",
+      "translation": "马斯克也说产量和需求之间有巨大鸿沟，马斯克的规划要非常庞大的存储量，除非马斯克上手自己造存储芯片，不然它的几个业务都不挣钱买不起海量的存储。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070521716829245953",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran's Press TV: A communication line between the US and Iran in the Strait of Hormuz has been established.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070521716829245953",
+    "published_at": "2026-06-26T14:57:00+00:00",
+    "fetched_at": "2026-06-26T17:13:58.414388+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国和伊朗在霍尔木兹海峡建立通信线路，可能降低该地区军事冲突风险，对全球石油运输和能源市场构成短期稳定因素，但长期仍需观察双方实际互动。",
+      "translation": "伊朗Press TV：美国和伊朗在霍尔木兹海峡之间已建立了一条通信线路。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070516683106844837",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -4346,6 +4510,25 @@
       "summary": "该推文询问AAOI股票的合适买入价格，但未给出明确的多空观点。",
       "translation": "@aleabitoreddit 你认为买入$AAOI的合适价格是多少？",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2069021832993489050",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran hails ‘major progress’ to end Lebanon war, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2069021832993489050",
+    "published_at": "2026-06-22T11:37:00+00:00",
+    "fetched_at": "2026-06-26T17:14:20.173847+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "伊朗宣布在结束黎巴嫩战争方面取得重大进展，可能对中东地区的地缘政治风险产生影响，进而影响全球能源市场和避险资产。",
+      "translation": "伊朗称在结束黎巴嫩战争方面取得‘重大进展’，据FT报道。",
+      "confidence": "medium"
     }
   },
   {

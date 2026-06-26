@@ -9,65 +9,64 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资主线",
-      "光子学及光通信瓶颈",
-      "内存结构性需求周期",
-      "半导体设备及材料垄断",
-      "中美半导体供应链自主化"
+      "AI基础设施投资中的光子学与内存瓶颈",
+      "激光供应短缺推动结构性增长",
+      "半导体供应链中的产业链瓶颈与市场过度调整"
     ],
-    "recent_shift": "近期更强调光子学主题的长期确定性，并指出当前回调是买入机会，同时明确看多光学相关标的的2027年放量前景。",
+    "recent_shift": "近期已从对光子学和内存的过度集中仓位转向更广泛分散配置，以应对市场大幅回调。",
     "representative_quotes": [
-      "Not sure if people realize this: but I'm only here to share my thoughts/ideas.",
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
-      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028."
+      "Mizuho Research: No delays on CPO or 800v dc. Revised up optical engine projections from $NVDA demand ramp.",
+      "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... Industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend.",
+      "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
     ],
-    "generated_at": "2026-06-26T15:12:17.288691+00:00"
+    "generated_at": "2026-06-26T17:14:31.801507+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$AAPL",
-      "$AMZN",
-      "$NVDA",
-      "$MSFT"
+      "MU",
+      "AAPL",
+      "AMZN",
+      "MSFT",
+      "QCOM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "经济放缓与通胀风险",
-      "制造业与半导体波动",
-      "地缘政治与市场不确定性",
-      "科技企业转型与裁员"
+      "美联储政策不确定性",
+      "地缘政治风险（霍尔木兹海峡）",
+      "通胀与工资压力",
+      "AI与半导体产业动态",
+      "机构投资与市场泡沫"
     ],
-    "recent_shift": "近期观点更偏悲观，强调通胀反弹和美联储可能加息，与之前对降息的预期形成对比。",
+    "recent_shift": "近期从关注具体公司业绩转向强调宏观风险和市场泡沫，对美联储加息预期和通胀担忧加剧。",
     "representative_quotes": [
-      "U.S. inflation climbed to 4.1% in May, per Bloomberg.",
-      "BREAKING: Volkswagen is reportedly planning to cut 100,000 jobs and end production at four German plants over the coming years",
-      "Jamie Dimon of JPMorgan has said: We’re in a bull market."
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
+      "The market is almost always wrong about what the Fed will do, per Apollo",
+      "SpaceX's bond offering is a sign markets are in 'bubble territory,' according to Allianz's CIO."
     ],
-    "generated_at": "2026-06-26T15:12:14.458829+00:00"
+    "generated_at": "2026-06-26T17:14:34.275655+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "海力士",
-      "$GLW",
-      "$ASX",
-      "$MU",
-      "$NVDA"
+      "SK HYNIX",
+      "GLW",
+      "ASX",
+      "MU",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储是AI革命核心，长期短缺至2030年",
-      "康宁在玻璃基板和光纤的垄断地位",
-      "AI泡沫未破，AGI前长期看好",
-      "海力士因ADR、HBM4e和财报即将迎来重估",
-      "英伟达投资扩产带动供应链机会"
+      "存储是AI革命的核心瓶颈和印钞机",
+      "AI算力基建（玻璃基板、光纤、封测）的确定性机会",
+      "抱紧龙头躺赢，减少操作",
+      "AGI到来前的泡沫不会破裂，业绩持续驱动",
+      "海力士ADR上市和财报将引爆重估"
     ],
-    "recent_shift": "近期从重仓海力士正股和2x杠杆，转为分散至康宁和日月光，但仍保持对存储的长期看好。",
+    "recent_shift": "近期从只重仓海力士转向分散配置康宁和日月光，但仍围绕AI存储和算力基础设施。",
     "representative_quotes": [
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。",
-      "康宁简直是下一代AI算力的底座，中了狗屎运。",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "英伟达机柜这里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润，其他都是虚头巴脑的，就存储是真的。",
       "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-06-26T12:30:18.899291+00:00"
+    "generated_at": "2026-06-26T17:14:28.131881+00:00"
   }
 }
