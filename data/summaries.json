@@ -9,64 +9,62 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学和CW激光器是AI算力超周期中的关键瓶颈",
-      "内存需求将从人形机器人等物理AI得到结构性增长",
-      "CPO（共封装光学）和1.6T可插拔光模块的规模量产投资主题"
+      "光子学与激光瓶颈",
+      "AI硬件与数据中心基建",
+      "半导体与存储芯片超级周期",
+      "资金流向与宏观修正",
+      "供应链地缘政治与政策影响"
     ],
-    "recent_shift": "从早期更广泛的半导体关注转向更聚焦光电子和CPO供应链，特别是激光器和衬底环节。",
+    "recent_shift": "近期情绪从极度积极转向短期承压，但长期看多逻辑未变，强调修正中仍有买入机会。",
     "representative_quotes": [
-      "I think photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
-      "I predicted this last year and said hyperscalers should go more upstream to secure capacity... at laser levels, epiwafer levels, or even inp substrate levels. To not get bottlenecked by Nvidia.",
-      "I still think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
+      "I'm actually more bullish than ever as prices go down.",
+      "Photonics theme + CW laser chokepoint is goated.",
+      "From personal experience, high beta stocks get hit a lot harder, but usually frontrun index drops."
     ],
-    "generated_at": "2026-06-26T02:29:22.652048+00:00"
+    "generated_at": "2026-06-26T06:35:58.817182+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MU",
-      "NVDA",
       "AAPL",
       "QCOM",
-      "DELL"
+      "DELL",
+      "PLTR"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "半导体行业波动加剧",
-      "人工智能投资与监管并进",
-      "地缘政治影响能源与市场",
-      "美股利好与风险并存",
-      "零售投资者情绪分化"
+      "半导体板块波动加剧",
+      "通胀压力与加息预期",
+      "地缘政治风险影响市场"
     ],
-    "recent_shift": "近期对半导体行业从看涨转向看跌，但强调期权市场隐含波动极高，需警惕风险。",
+    "recent_shift": "近期更强调通胀持续偏高和加息预期，同时指出半导体板块出现剧烈回调",
     "representative_quotes": [
-      "A bloodbath in semiconductors today.",
-      "Micron, $MU, is up 16% after earnings. How high will it go?",
-      "JPMorgan says its S&P 500 year end price target is 7,800."
+      "There is zero support from gulf countries for tolls or fees on Strait of Hormuz",
+      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz",
+      "A bloodbath in semiconductors today."
     ],
-    "generated_at": "2026-06-26T02:29:18.852438+00:00"
+    "generated_at": "2026-06-26T06:36:04.808872+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "GLW",
       "ASX",
-      "TSM",
-      "NVDA",
-      "NOK"
+      "MU",
+      "SK海力士",
+      "SPCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储（HBM、DRAM）是AI革命的核心利润来源",
-      "康宁在玻璃基板和光纤领域的垄断优势",
-      "海力士美股ADR带来的重估机会",
-      "英伟达、台积电等大厂背书推动技术需求",
-      "长期持有策略优于短线交易"
+      "存储是AI革命的终极正解",
+      "玻璃基板和光纤是下一代算力底座",
+      "海力士ADR和Q2财报驱动股价重估"
     ],
-    "recent_shift": "近期从海力士正股和2x杠杆转向增持康宁和日月光，但仍保留海力士大头仓位",
+    "recent_shift": "近期从重仓海力士转向分散配置至康宁和日月光，但仍保持强烈看涨存储和AI硬件领域。",
     "representative_quotes": [
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。",
       "康宁简直是下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住AI的俩个蛋蛋。",
-      "高频短线交易则是停留在打工人思维…而长期持有只在特定情况调仓是老板思维，如果你的眼光和认知配得上你的财富，拥有足够远见，则早晚必定发财。"
+      "海力士正股占1/2，glw和asx各占1/4，别的没了。"
     ],
-    "generated_at": "2026-06-25T16:17:24.094273+00:00"
+    "generated_at": "2026-06-26T06:36:02.053919+00:00"
   }
 }

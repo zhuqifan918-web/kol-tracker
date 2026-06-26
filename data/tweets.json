@@ -1,5 +1,68 @@
 [
   {
+    "tweet_id": "2070373235452162540",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "“What matters is not the eggs, it is the Goose itself”\n\nSoftBank probably down -13.5% today\nafter markets saw this investor presentation today.\n\nAlso the OpenAI IPO possible 2027 delay cause Altman wanted a $1T valuation might have been a small cause… https://t.co/q3edagxCBd",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070373235452162540",
+    "published_at": "2026-06-26T05:06:59+00:00",
+    "fetched_at": "2026-06-26T06:35:01.040620+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文暗示软银可能因投资者演示导致股价大跌13.5%，同时提及OpenAI的IPO可能因Altman寻求1万亿美元估值而推迟至2027年，整体情绪偏空。",
+      "translation": "重要的不是鸡蛋，而是鹅本身。软银今天可能下跌13.5%，因为市场看到了今天的投资者演示。此外，OpenAI的IPO可能推迟到2027年，原因是Altman想要1万亿美元的估值——这可能是一个小原因...",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070354308965728519",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There's a global correction right now, no clue when it stops. \n\nKospi is down -8.18% (Sk hynix/Samsung)\nNikkei is down -4.8%\nTWSE Index is down -3.82%\n\nAs you've seen with $SOI or $RKLB dropping 30-40%. \n\nFrom personal experience, high beta stocks get hit a lot harder, but usually frontrun index drops. \n\nAnd they typically recover earlier? \n\nAside from Korea which is typically volatile, when major indexes start correcting 3-4% a day, usually not a fun time.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070354308965728519",
+    "published_at": "2026-06-26T03:51:47+00:00",
+    "fetched_at": "2026-06-26T06:35:07.478087+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOI",
+        "RKLB"
+      ],
+      "direction": "bearish",
+      "summary": "作者指出全球主要股指大幅下跌（Kospi跌8.18%、日经跌4.8%、台指跌3.82%），高贝塔股票跌幅更大但通常提前反弹，整体市场情绪消极。",
+      "translation": "目前全球正在调整，不知道何时停止。韩国KOSPI指数下跌8.18%（受SK海力士/三星影响），日经指数下跌4.8%，台湾加权指数下跌3.82%。正如你看到的$SOI或$RKLB下跌30-40%。根据个人经验，高贝塔股票受到的冲击更大，但通常领先于指数下跌。而且它们通常更早反弹？除了韩国通常波动较大外，当主要指数开始每日下跌3-4%时，通常不是好时光。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070341887903555663",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "又全崩了，康宁 $GLW 和日月光 $ASX 硬气，海力士正股跌的有点麻。\n市场现在慌得一逼，\n涨了慌，跌了也慌，\n我也慌。 https://t.co/SdeqR5T2Pb",
+    "tweet_url": "https://x.com/xiaomustock/status/2070341887903555663",
+    "published_at": "2026-06-26T03:02:25+00:00",
+    "fetched_at": "2026-06-26T06:35:30.282472+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "ASX"
+      ],
+      "direction": "bearish",
+      "summary": "市场整体下跌，但康宁和日月光表现坚挺，而海力士正股跌幅较大。作者表达了对市场波动的焦虑情绪。",
+      "translation": "市场全面崩盘，康宁$GLW和日月光$ASX表现强硬，海力士正股跌得有点惨。市场现在恐慌至极，涨也慌跌也慌，我也慌。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070331124400963653",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -19,6 +82,44 @@
       "summary": "三星电子和SK海力士宣布数百亿美元的新投资计划，表明半导体行业持续扩张，利好相关产业链股票。",
       "translation": "据彭博社报道，三星电子和SK海力士正在准备宣布价值数百亿美元的新投资。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070308973274947854",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "X is releasing X Money to a subset of US Premium+ users",
+    "tweet_url": "https://x.com/unusual_whales/status/2070308973274947854",
+    "published_at": "2026-06-26T00:51:38+00:00",
+    "fetched_at": "2026-06-26T06:35:46.381067+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "X公司推出X Money支付功能，可能利好其加密货币或支付相关业务，但未提及具体投资标的。",
+      "translation": "X正在向部分美国Premium+用户推出X Money。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070307143882780987",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit when do you think these ai bottlenecks will stop this correction?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070307143882780987",
+    "published_at": "2026-06-26T00:44:22+00:00",
+    "fetched_at": "2026-06-26T06:35:12.060160+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文询问AI瓶颈何时会停止当前的市场回调，涉及对AI相关市场趋势的讨论，但未给出具体投资建议或方向。",
+      "translation": "@aleabitoreddit 你认为这些AI瓶颈何时会停止这次回调？",
+      "confidence": "medium"
     }
   },
   {
