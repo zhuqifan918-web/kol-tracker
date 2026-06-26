@@ -1,5 +1,168 @@
 [
   {
+    "tweet_id": "2070481451280224306",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "UBS says that rising use of GLP-1 weight-loss drugs could weigh on restaurant sales as consumers eat fewer calories and dine out less often",
+    "tweet_url": "https://x.com/unusual_whales/status/2070481451280224306",
+    "published_at": "2026-06-26T12:17:00+00:00",
+    "fetched_at": "2026-06-26T12:29:58.089943+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "UBS"
+      ],
+      "direction": "bearish",
+      "summary": "瑞银指出，GLP-1减肥药使用增加可能抑制餐厅销售，因消费者减少热量摄入和外出就餐。这意味着餐饮股可能面临压力。",
+      "translation": "瑞银表示，GLP-1减肥药使用量的上升可能会抑制餐厅销售，因为消费者摄入的热量减少，外出用餐的次数也减少了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070475253793652956",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连网那种是个程序员都能干的。\n你会敲个代码，能买个域名，自己就能捣鼓个网站干互联网产业。\nAI你没有千亿万亿资金，什么也做不出来，\n而拥有这个水平资金玩得起AI的，全球合起来都没多少家。\n真正意义上的玩家俩只手数得过来。\n所以赢家的范围非常小。",
+    "tweet_url": "https://x.com/xiaomustock/status/2070475253793652956",
+    "published_at": "2026-06-26T11:52:22+00:00",
+    "fetched_at": "2026-06-26T12:29:31.624732+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出AI行业门槛极高，需要千亿万亿资金，全球能参与的玩家极少，因此投资AI领域的机会集中在少数巨头，普通投资者难以涉足。",
+      "translation": "AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连网那种是个程序员都能干的。你会敲个代码，能买个域名，自己就能捣鼓个网站干互联网产业。AI你没有千亿万亿资金，什么也做不出来，而拥有这个水平资金玩得起AI的，全球合起来都没多少家。真正意义上的玩家俩只手数得过来。所以赢家的范围非常小。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070473181593473436",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "而且即使一旦发生AGI时刻，这些大厂原有购买到的存储卡算力卡也都会瞬间变成恐怖的印钞机。\n人们觉得泡沫觉得要到头了，\n是因为AI发展俩仨年了，人们还没有见过真正意义上能取代他们生活工作的超强AI，只觉得依照这种目前的Ai状态只能停留在手机电脑的聊天框里，他们似乎没有多大的价值。\n这是对AI太弱小的嘲讽。",
+    "tweet_url": "https://x.com/xiaomustock/status/2070473181593473436",
+    "published_at": "2026-06-26T11:44:08+00:00",
+    "fetched_at": "2026-06-26T12:29:35.870010+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "此推文认为，尽管目前AI应用看似局限于聊天框，但一旦AGI实现，大厂积累的算力卡将变成印钞机，暗示相关投资具有长期潜力，当前市场低估了AI的价值。",
+      "translation": "而且即使一旦发生AGI时刻，这些大厂原有购买到的存储卡算力卡也都会瞬间变成恐怖的印钞机。人们觉得泡沫觉得要到头了，是因为AI发展俩仨年了，人们还没有见过真正意义上能取代他们生活工作的超强AI，只觉得依照这种目前的AI状态只能停留在手机电脑的聊天框里，他们似乎没有多大的价值。这是对AI太弱小的嘲讽。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070471746512429241",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "现在确实是AI非常早期的阶段，\n大厂之所以巨额投入，\n就是想通过自己海量的算力，海量的存储，\n抢先干出AGI时刻，\n那就是赢家通吃的时刻，\nAI瞬间席卷摧毁变革所有行业，\n赢家会成为人类有史以来市值最庞大的公司\n\n你不投入不卷算力卷内存卷人才，那么你最终突破的几率就比别人少一点，\n一旦突破的不是你，\n那市场最终只有1和0。\n\n为啥国内的智驾汽车卖不到美国，\n跟特斯拉满血fsd比它就是1，其他就是0。\n即使有人买也是美国底层傻逼实在是太多，智力分层严重。\n\n我们此刻的恐惧，担忧，都受限于我们的想象力。老黄让康宁扩产10倍，总不能还没扩产AI没了，你聪明还是老黄聪明，你有远见还是老黄有远见。\n他之所以提前让康宁扩大10倍的产能就是不想再未来下个阶段的产品重蹈存储三巨头的覆辙。康宁在英伟达下个阶段产品中对老黄太重要了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2070471746512429241",
+    "published_at": "2026-06-26T11:38:26+00:00",
+    "fetched_at": "2026-06-26T12:29:38.853905+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "认为AI处于早期阶段，大厂巨额投入争夺AGI领先地位，赢家通吃。特别强调英伟达（老黄）与康宁扩产的战略前瞻性，对英伟达未来产品前景持乐观态度。",
+      "translation": "现在确实是AI非常早期的阶段，大厂之所以巨额投入，就是想通过自己海量的算力，海量的存储，抢先干出AGI时刻，那就是赢家通吃的时刻，AI瞬间席卷摧毁变革所有行业，赢家会成为人类有史以来市值最庞大的公司。你不投入不卷算力卷内存卷人才，那么你最终突破的几率就比别人少一点，一旦突破的不是你，那市场最终只有1和0。为啥国内的智驾汽车卖不到美国，跟特斯拉满血fsd比它就是1，其他就是0。即使有人买也是美国底层傻逼实在是太多，智力分层严重。我们此刻的恐惧，担忧，都受限于我们的想象力。老黄让康宁扩产10倍，总不能还没扩产AI没了，你聪明还是老黄聪明，你有远见还是老黄有远见。他之所以提前让康宁扩大10倍的产能就是不想再未来下个阶段的产品重蹈存储三巨头的覆辙。康宁在英伟达下个阶段产品中对老黄太重要了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070469317490253872",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "@xiaomustock 可是互联网泡沫破的时候 互联网也没有普及到每个人的生活中啊",
+    "tweet_url": "https://x.com/xiaomustock/status/2070469317490253872",
+    "published_at": "2026-06-26T11:28:47+00:00",
+    "fetched_at": "2026-06-26T12:29:33.468220+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XIAOMI"
+      ],
+      "direction": "neutral",
+      "summary": "推文通过类比互联网泡沫时期互联网并未普及到每个人，暗示当前市场对某公司或行业的估值可能过于乐观或存在泡沫，提醒投资者谨慎看待。",
+      "translation": "但互联网泡沫破裂的时候，互联网也没有普及到每个人的生活中啊。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070469129996324930",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。\n所有的脏活累活AI机器人干，\n所有复杂耗时的脑力活动AI干，\n现在的agent还很弱智。\n现在的AI也没有普及进入每个人的生活，\n你们现在所从事的工作没有被AI取代，\n说明AI的泡沫破灭还路途遥远，\nAI都还没理解物理世界，\n只在文字层面和虚拟空间挣扎，\n跌一跌的很正常，\n真到哪头满大街的机器人外卖员，\n机器人服务员，机器人厨师，\n所有的科技创新，创意，AI最终都会比人类干的更好，但现在远远没有，\n等吧，泡沫最起码也是agi来临后。",
+    "tweet_url": "https://x.com/xiaomustock/status/2070469129996324930",
+    "published_at": "2026-06-26T11:28:02+00:00",
+    "fetched_at": "2026-06-26T12:29:41.528665+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文认为AI存在泡沫，但泡沫破灭需等到AGI真正实现且全面渗透各个行业，当前AI远未取代白领工作，因此泡沫短期内不会破裂。对于投资者而言，AI相关的投资可能仍有上涨空间，但需警惕长期回调风险。",
+      "translation": "AI有泡沫，但AI在没有丝滑地取代所有白领工作之前就不可能破灭。路途遥远。所有的脏活累活由AI机器人干，所有复杂耗时的脑力活动由AI干。现在的agent还很弱智，现在的AI也没有普及进入每个人的生活。你们现在所从事的工作没有被AI取代，说明AI的泡沫破灭还路途遥远。AI都还没理解物理世界，只在文字层面和虚拟空间挣扎。跌一跌很正常，真正到满大街的机器人外卖员、机器人服务员、机器人厨师，所有的科技创新、创意，AI最终都会比人类干得更好。但现在远远没有，等吧，泡沫最起码也是AGI来临后。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070458526225563910",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "在未来某个时刻存储降价开启的时刻，可以第一时间梭哈苹果，因为售价不变利润率飙升，预期财报利润暴涨。\n对英伟达刚开始利空，长期也是利好，因为现在的英伟达是存储的搬运工，存储降价的时候，英伟达的产品不一定降价，利润也会暴涨，这也是这一年多英伟达不涨的原因。",
+    "tweet_url": "https://x.com/xiaomustock/status/2070458526225563910",
+    "published_at": "2026-06-26T10:45:54+00:00",
+    "fetched_at": "2026-06-26T12:29:43.886658+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论存储降价对苹果和英伟达的影响：苹果因售价不变利润率飙升，利好；英伟达短期利空但长期利好，因其作为存储搬运工，降价期间产品售价不变将推动利润暴涨。",
+      "translation": "在未来某个时刻存储降价开启的时刻，可以第一时间梭哈苹果，因为售价不变利润率飙升，预期财报利润暴涨。对英伟达刚开始利空，长期也是利好，因为现在的英伟达是存储的搬运工，存储降价的时候，英伟达的产品不一定降价，利润也会暴涨，这也是这一年多英伟达不涨的原因。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070457449300348980",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "存储三家海力士三星美光合起来市值应该要比英伟达值钱。\n\n三家可以不造hbm直接卖dram，\n但英伟达不买hbm，营收就归零了。\n话语权更大的一方应该享受更大的市值。",
+    "tweet_url": "https://x.com/xiaomustock/status/2070457449300348980",
+    "published_at": "2026-06-26T10:41:37+00:00",
+    "fetched_at": "2026-06-26T12:29:45.799982+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为存储芯片厂商（海力士、三星、美光）的总市值应超过英伟达，因为英伟达依赖HBM，而存储厂商可以独立销售DRAM。作者看好存储厂商的议价能力和投资价值。",
+      "translation": "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造HBM直接卖DRAM，但英伟达不买HBM，营收就归零了。话语权更大的一方应该享受更大的市值。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070444675337503166",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -994,6 +1157,25 @@
       "direction": "neutral",
       "summary": "推文提到SK海力士正股价格为296万韩元，剩余5000股，并表示再卖就剁手，暗示可能因股价较高或持仓风险而考虑停止卖出。",
       "translation": "海力士正股296万韩元，还剩5000股，再卖就剁手了。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2070009036607832372",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "昨天开心是因为没在车上，\n今天难过也是因为没在车上。😂\n本来想睡个好觉最重要，\n今天又想着昨晚4点钟财报发的时候没睡觉多好😂",
+    "tweet_url": "https://x.com/xiaomustock/status/2070009036607832372",
+    "published_at": "2026-06-25T04:59:47+00:00",
+    "fetched_at": "2026-06-26T12:29:48.334991+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "用户后悔没有在财报发布时熬夜关注，暗示财报发布对市场有重要影响。",
+      "translation": "昨天开心是因为没在车上，今天难过也是因为没在车上。😂本来想睡个好觉最重要，今天又想着昨晚4点钟财报发的时候没睡觉多好😂",
       "confidence": "low"
     }
   },
