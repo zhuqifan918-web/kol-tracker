@@ -4,48 +4,47 @@
       "$SIVE",
       "$AAOI",
       "$MU",
-      "$AXTI",
-      "$LPK"
+      "$LPK",
+      "$AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光纤通信与CPO激光瓶颈",
-      "人工智能超循环与上游资本支出",
-      "内存结构性需求（如MU、SK Hynix）",
-      "半导体光子学与机器人物联网",
-      "小盘股NAV折扣与潜在并购机会"
+      "AI基础设施投资主线",
+      "光子学及光通信瓶颈",
+      "内存结构性需求周期",
+      "半导体设备及材料垄断",
+      "中美半导体供应链自主化"
     ],
-    "recent_shift": "近期虽然宏观调整导致多数持股大跌，但用户更坚定看好光子学和内存主题，认为调整是加仓机会，并认为2027年后的量增才是真正拐点。",
+    "recent_shift": "近期更强调光子学主题的长期确定性，并指出当前回调是买入机会，同时明确看多光学相关标的的2027年放量前景。",
     "representative_quotes": [
-      "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position.",
-      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028...",
-      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next."
+      "Not sure if people realize this: but I'm only here to share my thoughts/ideas.",
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028."
     ],
-    "generated_at": "2026-06-26T10:15:27.791586+00:00"
+    "generated_at": "2026-06-26T15:12:17.288691+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$MU",
       "$AAPL",
-      "$NVDA",
       "$AMZN",
-      "$TSLA"
+      "$NVDA",
+      "$MSFT"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "通胀高企与加息预期",
-      "科技股估值泡沫与波动",
-      "地缘政治风险（伊朗海峡、中美关系）",
-      "消费品需求疲软（GLP-1药物、Prime Day下降）",
-      "市场投资情绪降温（杠杆减少、信心下降）"
+      "经济放缓与通胀风险",
+      "制造业与半导体波动",
+      "地缘政治与市场不确定性",
+      "科技企业转型与裁员"
     ],
-    "recent_shift": "近期观点从关注结构性机会转向强调通胀压力和流动性收紧风险，尤其通过半导体波动和消费品数据凸显市场脆弱性。",
+    "recent_shift": "近期观点更偏悲观，强调通胀反弹和美联储可能加息，与之前对降息的预期形成对比。",
     "representative_quotes": [
-      "UBS says that rising use of GLP-1 weight-loss drugs could weigh on restaurant sales as consumers eat fewer calories and dine out less often",
-      "Fed's Goolsbee: Core inflation is still well too high, and is trending the wrong way.",
-      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz."
+      "U.S. inflation climbed to 4.1% in May, per Bloomberg.",
+      "BREAKING: Volkswagen is reportedly planning to cut 100,000 jobs and end production at four German plants over the coming years",
+      "Jamie Dimon of JPMorgan has said: We’re in a bull market."
     ],
-    "generated_at": "2026-06-26T12:30:21.915794+00:00"
+    "generated_at": "2026-06-26T15:12:14.458829+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

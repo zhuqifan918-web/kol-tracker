@@ -1,5 +1,102 @@
 [
   {
+    "tweet_id": "2070516683106844837",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Volkswagen is reportedly planning to cut 100,000 jobs and end production at four German plants over the coming years",
+    "tweet_url": "https://x.com/unusual_whales/status/2070516683106844837",
+    "published_at": "2026-06-26T14:37:00+00:00",
+    "fetched_at": "2026-06-26T15:11:37.683518+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "VWAGY"
+      ],
+      "direction": "bearish",
+      "summary": "大众汽车计划裁员10万并关闭四家德国工厂，反映欧洲汽车行业面临严峻挑战，可能导致股价承压，投资风险上升。",
+      "translation": "突发新闻：据报道，大众汽车计划在未来几年内裁员10万人，并停止四家德国工厂的生产。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070506616588505286",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley says the Fed will hold rates this year,",
+    "tweet_url": "https://x.com/unusual_whales/status/2070506616588505286",
+    "published_at": "2026-06-26T13:57:00+00:00",
+    "fetched_at": "2026-06-26T15:11:42.739346+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "摩根士丹利预计美联储今年将维持利率不变，这暗示货币政策保持稳定，对市场不构成重大影响。",
+      "translation": "摩根士丹利表示美联储今年将维持利率不变。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070496550351245321",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "55% of U.S. home sales are closing below the initial list price, per Redfin",
+    "tweet_url": "https://x.com/unusual_whales/status/2070496550351245321",
+    "published_at": "2026-06-26T13:17:00+00:00",
+    "fetched_at": "2026-06-26T15:11:45.561829+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到美国55%的房屋销售成交价低于挂牌价，反映出房地产市场降温迹象，可能影响房地产相关投资或经济预期。",
+      "translation": "据Redfin数据，美国55%的房屋销售成交价低于初始挂牌价。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070491517102456938",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The market is almost always wrong about what the Fed will do, per Apollo: https://t.co/yluOOKYynD",
+    "tweet_url": "https://x.com/unusual_whales/status/2070491517102456938",
+    "published_at": "2026-06-26T12:57:00+00:00",
+    "fetched_at": "2026-06-26T15:11:47.333058+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文引用Apollo的观点，指出市场对美联储政策走向的判断几乎总是错误的，暗示投资者应警惕市场共识的偏差。",
+      "translation": "根据Apollo的观点，市场对美联储将采取的行动几乎总是错误的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070486484185194703",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Stifel has said that its 2026 year-end target for the S&amp;P 500 index is 7,800",
+    "tweet_url": "https://x.com/unusual_whales/status/2070486484185194703",
+    "published_at": "2026-06-26T12:37:00+00:00",
+    "fetched_at": "2026-06-26T15:11:48.862481+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "Stifel 将标普500指数2026年底目标价设定为7800点，表明对美股长期走势持乐观态度，预示未来数年可能呈现上涨趋势。",
+      "translation": "Stifel 表示其对标普500指数2026年底的目标位是7800点。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070481451280224306",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -10522,6 +10619,28 @@
       "summary": "推文基于宏观分析认为AI导致的失业将在2028年引发大通缩，并据此建议普通人股民全力做多相关ETF和个股，包括中韩半导体ETF、美股EWY及港股两倍做多海力士，整体方向看多。",
       "translation": "Citrini的这篇宏观分析《认为AI带来的大失业会在2028年最终导致大通缩（萧条）》这一篇文章普通人股民的唯一正解：a股：梭哈中韩半导体ETF；美股：梭哈EWY；港股：梭哈两倍做多海力士；韩国佬：梭哈海力士SK。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2026012416841334975",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Today, Anthropic called out DeepSeek, Moonshot, and Minimax for distillation.  \n\nOpenAI has also faced the same issues with Chinese labs. \n\nThe most braindead fix nobody is doing: \n\nKYC verification. \n\nEvery financial institution from $HOOD to $IBKR does this to track flow of funds (eg. Persona selfie / ID)\n\nSame should apply to token flows. \n\nAmerican Frontier Labs should start doing this soon for their latest models. \n\nI'm sure they care about frictionless growth, but this is national security at risk and people/enterprises only need to go through this process once. \n\nThis is by far the easiest fix that can be done in a day. \n\nChinese labs will continue to find bypasses if this is not done.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2026012416841334975",
+    "published_at": "2026-02-23T19:12:56+00:00",
+    "fetched_at": "2026-06-26T15:11:07.162937+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "HOOD",
+        "IBKR"
+      ],
+      "direction": "neutral",
+      "summary": "推特讨论美国前沿实验室应对中国AI实验室蒸馏问题，提出KYC验证方案，提及HOOD和IBKR等金融机构已有类似做法。该建议可能影响AI模型安全与合规，但未明确指向具体投资机会或市场方向。",
+      "translation": "今天，Anthropic点名批评DeepSeek、Moonshot和Minimax进行蒸馏。OpenAI也曾面临来自中国实验室的相同问题。最没人采用的简单修复方案：KYC验证。每个金融机构（从HOOD到IBKR）都通过这种方式追踪资金流向（例如Persona自拍/身份证）。同样的做法应适用于代币流向。美国前沿实验室应尽快为其最新模型实施这一方案。我相信他们关心无摩擦增长，但这是国家安全风险，用户和企业只需经历一次此流程。这是最简单的修复方案，一天之内就能完成。如果不这样做，中国实验室将继续寻找绕过方法。",
+      "confidence": "medium"
     }
   },
   {
