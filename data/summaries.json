@@ -25,46 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
-      "AAPL",
-      "QCOM",
-      "DELL",
-      "PLTR"
+      "$MU",
+      "$AAPL",
+      "$NVDA",
+      "$AMZN",
+      "$TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "半导体板块波动加剧",
-      "通胀压力与加息预期",
-      "地缘政治风险影响市场"
+      "通胀高企与加息预期",
+      "科技股估值泡沫与波动",
+      "地缘政治风险（伊朗海峡、中美关系）",
+      "消费品需求疲软（GLP-1药物、Prime Day下降）",
+      "市场投资情绪降温（杠杆减少、信心下降）"
     ],
-    "recent_shift": "近期更强调通胀持续偏高和加息预期，同时指出半导体板块出现剧烈回调",
+    "recent_shift": "近期观点从关注结构性机会转向强调通胀压力和流动性收紧风险，尤其通过半导体波动和消费品数据凸显市场脆弱性。",
     "representative_quotes": [
-      "There is zero support from gulf countries for tolls or fees on Strait of Hormuz",
-      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz",
-      "A bloodbath in semiconductors today."
+      "UBS says that rising use of GLP-1 weight-loss drugs could weigh on restaurant sales as consumers eat fewer calories and dine out less often",
+      "Fed's Goolsbee: Core inflation is still well too high, and is trending the wrong way.",
+      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz."
     ],
-    "generated_at": "2026-06-26T06:36:04.808872+00:00"
+    "generated_at": "2026-06-26T12:30:21.915794+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "GLW",
-      "ASX",
-      "MU",
-      "SK海力士",
-      "SPCX"
+      "海力士",
+      "$GLW",
+      "$ASX",
+      "$MU",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储是AI革命的终极正解",
-      "玻璃基板和光纤是下一代算力底座",
-      "海力士ADR和Q2财报驱动股价重估"
+      "存储是AI革命核心，长期短缺至2030年",
+      "康宁在玻璃基板和光纤的垄断地位",
+      "AI泡沫未破，AGI前长期看好",
+      "海力士因ADR、HBM4e和财报即将迎来重估",
+      "英伟达投资扩产带动供应链机会"
     ],
-    "recent_shift": "近期从重仓海力士转向分散配置至康宁和日月光，但仍保持强烈看涨存储和AI硬件领域。",
+    "recent_shift": "近期从重仓海力士正股和2x杠杆，转为分散至康宁和日月光，但仍保持对存储的长期看好。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。",
-      "康宁简直是下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
-      "海力士正股占1/2，glw和asx各占1/4，别的没了。"
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。",
+      "康宁简直是下一代AI算力的底座，中了狗屎运。",
+      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-06-26T06:36:02.053919+00:00"
+    "generated_at": "2026-06-26T12:30:18.899291+00:00"
   }
 }
