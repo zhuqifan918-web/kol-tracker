@@ -1,5 +1,89 @@
 [
   {
+    "tweet_id": "2070582113964093665",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "OpenAI and Microsoft are facing a lawsuit from owners of 400 local newspapers nationwide over alleged mass copyright infringement.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070582113964093665",
+    "published_at": "2026-06-26T18:57:00+00:00",
+    "fetched_at": "2026-06-26T19:14:57.064143+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bearish",
+      "summary": "OpenAI和微软因涉嫌大规模版权侵权被400家地方报纸起诉，这可能对微软股价产生负面影响，增加其法律风险和声誉成本。",
+      "translation": "OpenAI和微软正面临来自全国400家地方报纸所有者的诉讼，指控其大规模侵犯版权。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070577838080819368",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Could this be Burry's position?\n\nIn a now deleted post yesterday Michael Burry announced he closed his $BABA position in favor of more $JD.   \n\nHe also mentioned buying $MSFT 2028 December LEAPs in the low 700 strike range  Looking at the Dec 2028 options activity...  there is a fairly good chance that his position is the 705 strike calls, which saw 386 contracts traded yesterday (with the corresponding increase in OI) as well as another 513 traded this morning.  \n\nWhy the other strikes are not likely to be his position: \n700c: less OI than yesterday (which doesn't necessarily mean that no one could have bought any but we can rule this out) \n710: 75 volume yesterday in a single candle, and OI only increased by 2. Unlikely. \n715: 11 volume yesterday spread out. No change in OI. \n720: 12 volume yesterday, spread out. +2 OI. Unlikely. \n725: 705 volume yesterday but was part of a position being rolled. \n730: the 2nd most likely contract I suppose, but 730 is the highest strike and he alludes to a low 700 strike",
+    "tweet_url": "https://x.com/unusual_whales/status/2070577838080819368",
+    "published_at": "2026-06-26T18:40:00+00:00",
+    "fetched_at": "2026-06-26T19:15:00.820124+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BABA",
+        "JD",
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "推文分析了Michael Burry的投资仓位变化，认为他卖出了BABA并增持JD，同时买入了MSFT 2028年12月705行权价看涨期权，暗示对MSFT长期看涨。",
+      "translation": "突发：这可能是Burry的仓位吗？在昨天一个现已删除的帖子中，Michael Burry宣布他平掉了$BABA仓位，转而增加$JD。他还提到购买了$MSFT 2028年12月长期期权，行权价在700附近。查看2028年12月期权活动...很有可能是705行权看涨期权，昨日成交386张（持仓量相应增加），今早又成交513张。为什么其他行权价不太可能是他的仓位：700c：昨日持仓量减少（虽然不一定代表无人买入，但可以排除）；710：昨日仅75张成交量，单根K线，持仓量仅增2张，不太可能；715：昨日成交量11张分散分布，持仓量无变化；720：昨日成交量12张分散分布，持仓量+2，不太可能；725：昨日成交量705张，但属于转仓交易；730：第二可能合约，但730是最高行权价，而他提到的是700附近。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070566545139683434",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "跟AI聊了一会，对康宁 $GLW 的未来越来越有信心。\n相当于康宁未来的市值=现在abf载板市值+cohr/lite这些cpo市值总和。\n正儿八经三年后的万亿美元公司，康宁把光互连直接做到自己精通领域的玻璃板里面了，之前其他企业的光互连方案还在abf板上努力，但下一代芯片基板已经变了，降维打击。 https://t.co/ykYIcglOCu",
+    "tweet_url": "https://x.com/xiaomustock/status/2070566545139683434",
+    "published_at": "2026-06-26T17:55:08+00:00",
+    "fetched_at": "2026-06-26T19:14:46.986320+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为康宁将光互连技术集成到玻璃基板中，对ABF载板和CPO方案形成降维打击，预测三年后市值可达万亿美元，强烈看涨。",
+      "translation": "跟AI聊了一会，对康宁 $GLW 的未来越来越有信心。相当于康宁未来的市值=现在abf载板市值+cohr/lite这些cpo市值总和。正儿八经三年后的万亿美元公司，康宁把光互连直接做到自己精通领域的玻璃板里面了，之前其他企业的光互连方案还在abf板上努力，但下一代芯片基板已经变了，降维打击。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070552241124024720",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says Iran violated the ceasefire agreement by attacking a ship in the Strait of Hormuz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070552241124024720",
+    "published_at": "2026-06-26T16:58:17+00:00",
+    "fetched_at": "2026-06-26T19:15:09.692451+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普指责伊朗违反停火协议在霍尔木兹海峡袭击船只，加剧地缘政治紧张局势，可能推高油价并打压股市。",
+      "translation": "突发：特朗普称伊朗违反停火协议，在霍尔木兹海峡袭击了一艘船只。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070546881844011013",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -220,6 +304,25 @@
       "summary": "该推文提到美国55%的房屋销售成交价低于挂牌价，反映出房地产市场降温迹象，可能影响房地产相关投资或经济预期。",
       "translation": "据Redfin数据，美国55%的房屋销售成交价低于初始挂牌价。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070494878442676662",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Unusual Whales live trading show WhaleWatch is live now!\n\nPre-market prep, and live trading using our tools.\n\nWhat flow are you watching? https://t.co/rsRCAGhsUr",
+    "tweet_url": "https://x.com/unusual_whales/status/2070494878442676662",
+    "published_at": "2026-06-26T13:10:21+00:00",
+    "fetched_at": "2026-06-26T19:15:11.594078+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "推文宣传了Unusual Whales的直播节目WhaleWatch，提供盘前准备和实时交易工具，但未给出具体投资方向或建议。",
+      "translation": "Unusual Whales的实时交易节目WhaleWatch现已上线！使用我们的工具进行盘前准备和实时交易。你在关注哪些资金流向？https://t.co/rsRCAGhsUr",
+      "confidence": "low"
     }
   },
   {
