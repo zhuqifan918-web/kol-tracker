@@ -24,49 +24,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
-      "MSFT",
       "AAPL",
+      "MSFT",
+      "MU",
       "BABA",
-      "AMZN"
+      "JD"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "通胀与美联储加息预期",
-      "地缘政治风险（伊朗、中东）",
-      "科技巨头财报与价格调整",
-      "消费者信心与房地产降温",
-      "市场波动与期权对冲"
+      "宏观不确定性",
+      "科技行业动态",
+      "地缘政治风险",
+      "美联储政策预期"
     ],
-    "recent_shift": "近期基调从之前的谨慎转向更悲观，强调加息预期和地缘冲突对市场的拖累。",
+    "recent_shift": "近期观点趋于谨慎，强调通胀和利率风险，同时关注科技巨头和地缘政治事件。",
     "representative_quotes": [
-      "40% of investors are now expecting a Fed hike in the next year, versus 28% expecting cuts, per Bank of America",
-      "The market is almost always wrong about what the Fed will do, per Apollo",
-      "BREAKING: Trump says Iran violated the ceasefire agreement by attacking a ship in the Strait of Hormuz."
+      "BREAKING: Could this be Burry's position? In a now deleted post yesterday Michael Burry announced he closed his $BABA position in favor of more $JD.",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
+      "The U.S. goods trade deficit widened to $105.8 billion in May, significantly above expectations of $85 billion."
     ],
-    "generated_at": "2026-06-26T21:03:44.604889+00:00"
+    "generated_at": "2026-06-26T22:42:22.339229+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
+      "$SK하이닉스",
       "$ASX",
-      "$MU",
       "$SPCX",
-      "$NOK"
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储（HBM/DRAM）是AI革命的核心，海力士、美光等存储厂商垄断性利润，产能短缺持续至2030年",
-      "康宁（GLW）在玻璃基板、光纤和光互连领域具有垄断优势，被视为下一代AI算力底座",
-      "AI泡沫短期内不会破裂，只有AGI全面取代白领工作后才可能破灭，目前仍是早期阶段",
-      "SPCX（太空算力）和诺基亚（边缘计算基站）是未来布局方向，但短期风险较高"
+      "存储芯片是AI革命核心，海力士因HBM和产能垄断成为最大受益者",
+      "康宁$GLW凭借玻璃基板、光纤和光互连成为下一代AI算力底座",
+      "AI泡沫远未破裂，AGI到来前所有调整都是机会",
+      "存储三巨头（海力士、美光、三星）市值应高于英伟达，因其掌握供应链话语权",
+      "马斯克$SPCX太空算力计划依赖诺基亚基站和康宁光纤"
     ],
-    "recent_shift": "近期从重仓海力士和2x海力士转向增持康宁和日月光，认为后两者具有类似的业绩增速但市值更低，同时海力士正股仍持有但减少2x杠杆仓位",
+    "recent_shift": "近期从集中押注海力士转向多元配置，新增康宁和日月光，同时仍坚定看多存储长期逻辑",
     "representative_quotes": [
       "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "康宁简直是下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
+      "康宁把光互连直接做到自己精通领域的玻璃板里面了，之前其他企业的光互连方案还在abf板上努力，但下一代芯片基板已经变了，降维打击。",
       "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-06-26T19:15:25.330286+00:00"
+    "generated_at": "2026-06-26T22:42:27.121387+00:00"
   }
 }

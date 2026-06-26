@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2070635968999149911",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Snapchat, $SNAP, CEO Evan Spiegel and his wife, Miranda Kerr, have partnered with the nonprofit Undue Medical Debt to erase $550 million in medical bills for more than 261,000 Californians.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070635968999149911",
+    "published_at": "2026-06-26T22:31:00+00:00",
+    "fetched_at": "2026-06-26T22:42:00.553489+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNAP"
+      ],
+      "direction": "neutral",
+      "summary": "此消息虽不直接涉及SNAP的财务数据或市场预期，但CEO参与慈善捐赠可能对品牌形象有正面影响，投资者可关注市场情绪变化。",
+      "translation": "Snapchat（$SNAP）CEO埃文·斯皮格与其妻米兰达·可尔与非营利组织Undue Medical Debt合作，免除超过261,000名加州人共计5.5亿美元的医疗债务。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2070627664239739173",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "I want you to understand how unusual this is.\n\nThese are leveraged options, bets on the companies accordingly.\n\nYou can see all positions here: https://t.co/e9bnW7BdAt",
+    "tweet_url": "https://x.com/unusual_whales/status/2070627664239739173",
+    "published_at": "2026-06-26T21:58:00+00:00",
+    "fetched_at": "2026-06-26T22:42:04.608787+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "推文强调某些杠杆期权交易异常，但未指明具体方向、标的或投资建议。",
+      "translation": "我想让你明白这有多不寻常。这些是杠杆期权，是对相应公司的押注。你可以在这里看到所有头寸：https://t.co/e9bnW7BdAt",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2070620869664317645",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Scott Bessent: \"The stock market can do great, but it is time for Main Street to do better.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2070620869664317645",
+    "published_at": "2026-06-26T21:31:00+00:00",
+    "fetched_at": "2026-06-26T22:42:06.927169+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文表达了对Main Street（实体经济/中小企业）的乐观态度，暗示政策可能转向支持实体经济，这对整体市场情绪有正面影响。作为金融分析助理，可解读为对经济基本面改善的预期，间接利好股市。",
+      "translation": "股票市场可以表现不错，但现在是Main Street（实体经济/中小企业）需要做得更好的时候了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070605770027114664",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -83,6 +142,25 @@
       "summary": "推文分析了Michael Burry的投资仓位变化，认为他卖出了BABA并增持JD，同时买入了MSFT 2028年12月705行权价看涨期权，暗示对MSFT长期看涨。",
       "translation": "突发：这可能是Burry的仓位吗？在昨天一个现已删除的帖子中，Michael Burry宣布他平掉了$BABA仓位，转而增加$JD。他还提到购买了$MSFT 2028年12月长期期权，行权价在700附近。查看2028年12月期权活动...很有可能是705行权看涨期权，昨日成交386张（持仓量相应增加），今早又成交513张。为什么其他行权价不太可能是他的仓位：700c：昨日持仓量减少（虽然不一定代表无人买入，但可以排除）；710：昨日仅75张成交量，单根K线，持仓量仅增2张，不太可能；715：昨日成交量11张分散分布，持仓量无变化；720：昨日成交量12张分散分布，持仓量+2，不太可能；725：昨日成交量705张，但属于转仓交易；730：第二可能合约，但730是最高行权价，而他提到的是700附近。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070572047709909379",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The U.S. goods trade deficit widened to $105.8 billion in May, significantly above expectations of $85 billion.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070572047709909379",
+    "published_at": "2026-06-26T18:17:00+00:00",
+    "fetched_at": "2026-06-26T22:42:15.178477+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国商品贸易逆差在5月扩大至1058亿美元，远超预期的850亿美元，这可能暗示美国经济活动放缓，对股市特别是出口导向型企业不利。贸易逆差扩大通常被视为经济增长的负面信号，可能影响投资者信心。",
+      "translation": "美国商品贸易逆差在5月扩大至1058亿美元，显著高于预期的850亿美元。",
+      "confidence": "high"
     }
   },
   {
@@ -896,6 +974,25 @@
       "summary": "美国最高法院阻止了数千起针对除草剂Roundup的诉讼，裁定制造商无需因未警告致癌风险而被起诉。EPA未认定该产品致癌，这降低了制造商的诉讼风险和法律成本，对相关公司（如拜耳/孟山都）可能构成利好。",
       "translation": "美国最高法院于6月25日阻止了数千起关于除草剂Roundup的诉讼，裁定制造商不能因未能警告人们该热门产品可能致癌而被起诉。环境保护署（EPA）管理农药，尚未认定Roundup存在致癌风险，且不要求标签注明。在7比2的裁决中，大法官表示，这意味着已患癌的Roundup用户不能以该除草剂违反州危险产品法律为由提起诉讼。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070252994017300636",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "@wholemars @TovikkaX The production shortfall relative to demand is insane. MUCH higher production is needed.",
+    "tweet_url": "https://x.com/xiaomustock/status/2070252994017300636",
+    "published_at": "2026-06-25T21:09:11+00:00",
+    "fetched_at": "2026-06-26T22:41:51.339044+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文指出生产短缺相对于需求极其严重，强调需要大幅提高产量，暗示相关行业或公司有投资机会。",
+      "translation": "@wholemars @TovikkaX 生产短缺相对于需求来说极其严重。需要高得多的产量。",
+      "confidence": "medium"
     }
   },
   {
