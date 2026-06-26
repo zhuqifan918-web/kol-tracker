@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2070642763721568526",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citi suggests that if the economy weakens sharply or inflation reignites, gold prices could rise above $4,000 over the summer.\n\nRead more: https://t.co/C009IlJD3t",
+    "tweet_url": "https://x.com/unusual_whales/status/2070642763721568526",
+    "published_at": "2026-06-26T22:58:00+00:00",
+    "fetched_at": "2026-06-26T23:55:33.939493+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XAU/USD"
+      ],
+      "direction": "bullish",
+      "summary": "花旗认为，如果经济大幅走弱或通胀再次抬头，黄金价格可能在夏季突破4000美元。",
+      "translation": "花旗建议，如果经济大幅走弱或通胀再次抬头，黄金价格可能在夏季突破4000美元。阅读更多：https://t.co/C009IlJD3t",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070635968999149911",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

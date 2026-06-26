@@ -28,22 +28,23 @@
       "MSFT",
       "MU",
       "BABA",
-      "JD"
+      "AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "宏观不确定性",
-      "科技行业动态",
-      "地缘政治风险",
-      "美联储政策预期"
+      "通胀与利率不确定性",
+      "地缘政治风险加剧",
+      "科技巨头与半导体波动",
+      "消费与住房市场疲软",
+      "市场情绪与投资者信心下滑"
     ],
-    "recent_shift": "近期观点趋于谨慎，强调通胀和利率风险，同时关注科技巨头和地缘政治事件。",
+    "recent_shift": "更关注通胀顽固和利率上调预期，同时对地缘冲突和贸易风险表达担忧",
     "representative_quotes": [
-      "BREAKING: Could this be Burry's position? In a now deleted post yesterday Michael Burry announced he closed his $BABA position in favor of more $JD.",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
-      "The U.S. goods trade deficit widened to $105.8 billion in May, significantly above expectations of $85 billion."
+      "BREAKING: Michael Burry announced he closed his $BABA position in favor of more $JD. He also mentioned buying $MSFT 2028 December LEAPs in the low 700 strike range",
+      "The market is almost always wrong about what the Fed will do, per Apollo",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
     ],
-    "generated_at": "2026-06-26T22:42:22.339229+00:00"
+    "generated_at": "2026-06-26T23:55:48.204360+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
