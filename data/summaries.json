@@ -1,48 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$MU",
-      "$AXTI",
-      "$LPK"
+      "SIVE",
+      "AAOI",
+      "MU",
+      "LPK",
+      "AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈 - CW 激光器、硅光子和共封装光学",
-      "内存超级周期 - DRAM 和 NAND 的结构性需求",
-      "AI 建设上游 - 资本支出受益者如代工厂和制造设备"
+      "光子学和CW激光器是AI算力超周期中的关键瓶颈",
+      "内存需求将从人形机器人等物理AI得到结构性增长",
+      "CPO（共封装光学）和1.6T可插拔光模块的规模量产投资主题"
     ],
-    "recent_shift": "近期更强调光子学领域的早期阶段和2027年营收拐点，并淡化短期波动，同时重申对激光瓶颈的看涨信念。",
+    "recent_shift": "从早期更广泛的半导体关注转向更聚焦光电子和CPO供应链，特别是激光器和衬底环节。",
     "representative_quotes": [
-      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028.",
-      "I'm actually more bullish than ever as prices go down.",
-      "Kinda all that needs to be said with those insane revenue projections as long as management doesn't BS."
+      "I think photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
+      "I predicted this last year and said hyperscalers should go more upstream to secure capacity... at laser levels, epiwafer levels, or even inp substrate levels. To not get bottlenecked by Nvidia.",
+      "I still think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-25T18:30:54.917428+00:00"
+    "generated_at": "2026-06-26T02:29:22.652048+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MU",
+      "NVDA",
       "AAPL",
       "QCOM",
-      "PLTR",
       "DELL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "通胀压力与美联储政策",
-      "地缘政治对市场影响",
-      "科技行业业绩分化",
-      "投资者情绪与市场波动"
+      "半导体行业波动加剧",
+      "人工智能投资与监管并进",
+      "地缘政治影响能源与市场",
+      "美股利好与风险并存",
+      "零售投资者情绪分化"
     ],
-    "recent_shift": "从早前对半导体行业相对积极转向对通胀和地缘风险的担忧",
+    "recent_shift": "近期对半导体行业从看涨转向看跌，但强调期权市场隐含波动极高，需警惕风险。",
     "representative_quotes": [
-      "Fed's Goolsbee: Core inflation is still well too high, and is trending the wrong way.",
-      "It’s not a recession. But Goldman says your paycheck is acting like it.",
-      "A bloodbath in semiconductors today."
+      "A bloodbath in semiconductors today.",
+      "Micron, $MU, is up 16% after earnings. How high will it go?",
+      "JPMorgan says its S&P 500 year end price target is 7,800."
     ],
-    "generated_at": "2026-06-25T23:50:18.686140+00:00"
+    "generated_at": "2026-06-26T02:29:18.852438+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
