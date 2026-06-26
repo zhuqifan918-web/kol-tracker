@@ -23,50 +23,47 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
-      "AAPL",
-      "AMZN",
-      "MSFT",
-      "QCOM"
+      "$MU",
+      "$MSFT",
+      "$AAPL",
+      "$BABA",
+      "$AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "美联储政策不确定性",
-      "地缘政治风险（霍尔木兹海峡）",
-      "通胀与工资压力",
-      "AI与半导体产业动态",
-      "机构投资与市场泡沫"
+      "市场波动与利率预期分歧",
+      "科技巨头面临监管与成本压力",
+      "地缘政治风险（伊朗局势）"
     ],
-    "recent_shift": "近期从关注具体公司业绩转向强调宏观风险和市场泡沫，对美联储加息预期和通胀担忧加剧。",
+    "recent_shift": "近期更关注宏观风险（通胀、美联储可能加息）和科技股利空，而早期则强调特定个股的看涨信号。",
     "representative_quotes": [
       "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
-      "The market is almost always wrong about what the Fed will do, per Apollo",
-      "SpaceX's bond offering is a sign markets are in 'bubble territory,' according to Allianz's CIO."
+      "BREAKING: Trump says Iran violated the ceasefire agreement by attacking a ship in the Strait of Hormuz.",
+      "BREAKING: Michael Burry bought Microsoft, $MSFT, 2028 LEAPS with strikes in the low seven hundreds, per YF."
     ],
-    "generated_at": "2026-06-26T17:14:34.275655+00:00"
+    "generated_at": "2026-06-26T19:15:20.774562+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK HYNIX",
-      "GLW",
-      "ASX",
-      "MU",
-      "NVDA"
+      "$GLW",
+      "$ASX",
+      "$MU",
+      "$SPCX",
+      "$NOK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储是AI革命的核心瓶颈和印钞机",
-      "AI算力基建（玻璃基板、光纤、封测）的确定性机会",
-      "抱紧龙头躺赢，减少操作",
-      "AGI到来前的泡沫不会破裂，业绩持续驱动",
-      "海力士ADR上市和财报将引爆重估"
+      "存储（HBM/DRAM）是AI革命的核心，海力士、美光等存储厂商垄断性利润，产能短缺持续至2030年",
+      "康宁（GLW）在玻璃基板、光纤和光互连领域具有垄断优势，被视为下一代AI算力底座",
+      "AI泡沫短期内不会破裂，只有AGI全面取代白领工作后才可能破灭，目前仍是早期阶段",
+      "SPCX（太空算力）和诺基亚（边缘计算基站）是未来布局方向，但短期风险较高"
     ],
-    "recent_shift": "近期从只重仓海力士转向分散配置康宁和日月光，但仍围绕AI存储和算力基础设施。",
+    "recent_shift": "近期从重仓海力士和2x海力士转向增持康宁和日月光，认为后两者具有类似的业绩增速但市值更低，同时海力士正股仍持有但减少2x杠杆仓位",
     "representative_quotes": [
       "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "英伟达机柜这里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润，其他都是虚头巴脑的，就存储是真的。",
+      "康宁简直是下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
       "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-06-26T17:14:28.131881+00:00"
+    "generated_at": "2026-06-26T19:15:25.330286+00:00"
   }
 }
