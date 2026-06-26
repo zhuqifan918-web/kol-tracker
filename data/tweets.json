@@ -1,5 +1,74 @@
 [
   {
+    "tweet_id": "2070444675337503166",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. \n\nAnd yes, I still have my million+ share position.\n\nNot sure if people realize this: but I'm only here to share my thoughts/ideas.\n\nI don't control market volatility, what decisions you all make, or how markets react to new information synthesis. \n\nIt's much safer for analysts to just reactively tag along Morgan Stanley/JP Morgan/Goldman Sachs research whenever it's created and just summarize. \n\nRather than coming up with new ideas from OSINT mapping and waiting them get validated. \n\nBecause when you discover a new angle:\n\nEveryone keeps heatedly debating topics of 4-6 inch InP fabs, employee count, who their hyperscaler customers are, volume ramp timelines, etc to try and play devils advocate with a thesis. \n\nThen actively monitoring every single 5-20% price movement.\n\nI'm forced to stay on this topic more since it's less validated + there's always heated discussions. Just like $EWY in Feb, which I did memory projections on + Helium/LNG/Oil analysis. \n\nBut months later everyone sees memory looks structural with Micron's 16+ LTAs and LNG isn't taking down SK Hynix margins. \n\nOr $NBIS from last year in terms of sum-of-parts / dilution structures vs $IREN.\n\nAnd now it's close to ATHs and listed on $QQQ. \n\nI'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts. \n\nSo they can walk down the same path as $LITE when they scaled from $3B to $60B+.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070444675337503166",
+    "published_at": "2026-06-26T09:50:52+00:00",
+    "fetched_at": "2026-06-26T10:14:32.002622+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "EWY",
+        "NBIS",
+        "IREN",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "作者坚定看多SIVE（Sivers Semiconductors），基于其超大规模数据中心映射研究，并认为其将重复LITE从30亿到600亿的路径。同时回顾了之前对EWY（韩国ETF）存储器需求和NBIS的准确判断，暗示对SIVE的长期看涨信心。",
+      "translation": "我当然知道。但我个人睡得很安稳，因为我对基于$SIVE的超大规模数据中心映射研究有信念。\n\n是的，我仍然持有超过一百万股的头寸。\n\n不知道大家是否意识到：我只是在这里分享我的想法/观点。\n\n我不控制市场波动、你们做出的决定或市场对新信息综合的反应。\n\n对于分析师来说，仅仅被动地跟风摩根士丹利/摩根大通/高盛的研究报告并总结，要安全得多。\n\n而不是从OSINT映射中提出新想法并等待它们被验证。\n\n因为当你发现一个新角度时：\n\n每个人都在激烈争论4-6英寸InP晶圆厂、员工人数、他们的超大规模客户是谁、产量爬坡时间线等话题，试图与一个论点唱反调。\n\n然后积极监控每一个5-20%的价格波动。\n\n我被迫在这个话题上花更多时间，因为它尚未被充分验证，而且总会有激烈的讨论。就像2月份时的$EWY，我对其做了内存预测以及氦气/液化天然气/石油分析。\n\n但几个月后，大家都看到内存看起来具有结构性（美光的16+长期协议），而液化天然气并没有打击SK海力士的利润率。\n\n或者去年的$NBIS，在部分总和/稀释结构上与$IREN相比。\n\n而现在它接近历史高点，并已列入$QQQ。\n\n我个人只是在等待Sivers在2027年实现产量爬坡，并在纳斯达克上市以支持其并购努力。\n\n这样他们就可以走上与$LITE相同的道路——从30亿美元增长到600亿美元以上。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070428445645955086",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Your boy $SIVE is getting murdered rn",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070428445645955086",
+    "published_at": "2026-06-26T08:46:22+00:00",
+    "fetched_at": "2026-06-26T10:14:36.761016+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bearish",
+      "summary": "推特用户表示其持有的SIVE股票正在大幅下跌，表达了对该股看空或亏损的担忧。",
+      "translation": "你的股票$SIVE现在被狠狠打压。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070413682996347069",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just Elon Musk casually sounding the alarm.\n\nOn the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply.\n\nHe probably has higher visibility into the memory bottleneck than others… https://t.co/iszX0YJHuS",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070413682996347069",
+    "published_at": "2026-06-26T07:47:43+00:00",
+    "fetched_at": "2026-06-26T10:14:40.890213+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "SK Hynix",
+        "Samsung"
+      ],
+      "direction": "bullish",
+      "summary": "马斯克对内存供应瓶颈发出警报，暗示需求大增和价格飙升。看好MU、SK海力士和三星等内存股前景。",
+      "translation": "埃隆·马斯克不经意地敲响了警钟。关于MU、SK海力士和三星内存相对供应的巨大需求和价格上涨。他可能比其他人都更了解内存瓶颈的情况……",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070373235452162540",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

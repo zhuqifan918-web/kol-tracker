@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "MU",
-      "LPK",
-      "AXTI"
+      "$SIVE",
+      "$AAOI",
+      "$MU",
+      "$AXTI",
+      "$LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与激光瓶颈",
-      "AI硬件与数据中心基建",
-      "半导体与存储芯片超级周期",
-      "资金流向与宏观修正",
-      "供应链地缘政治与政策影响"
+      "光纤通信与CPO激光瓶颈",
+      "人工智能超循环与上游资本支出",
+      "内存结构性需求（如MU、SK Hynix）",
+      "半导体光子学与机器人物联网",
+      "小盘股NAV折扣与潜在并购机会"
     ],
-    "recent_shift": "近期情绪从极度积极转向短期承压，但长期看多逻辑未变，强调修正中仍有买入机会。",
+    "recent_shift": "近期虽然宏观调整导致多数持股大跌，但用户更坚定看好光子学和内存主题，认为调整是加仓机会，并认为2027年后的量增才是真正拐点。",
     "representative_quotes": [
-      "I'm actually more bullish than ever as prices go down.",
-      "Photonics theme + CW laser chokepoint is goated.",
-      "From personal experience, high beta stocks get hit a lot harder, but usually frontrun index drops."
+      "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position.",
+      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028...",
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next."
     ],
-    "generated_at": "2026-06-26T06:35:58.817182+00:00"
+    "generated_at": "2026-06-26T10:15:27.791586+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
