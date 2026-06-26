@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2070605770027114664",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nintendo president Shuntaro Furukawa has stated to shareholders that the Kyoto-based company has now raised its base salary for employees by 10%",
+    "tweet_url": "https://x.com/unusual_whales/status/2070605770027114664",
+    "published_at": "2026-06-26T20:31:00+00:00",
+    "fetched_at": "2026-06-26T21:03:27.216813+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NTDOY"
+      ],
+      "direction": "bullish",
+      "summary": "任天堂宣布为员工加薪10%，显示公司财务状况健康且重视人才，有利于提升员工士气与生产力，对公司长期发展及股价构成正面影响。",
+      "translation": "任天堂社长古川俊太郎向股东表示，这家京都公司已将员工基本工资提高了10%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070592180239118545",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, is reportedly set to launch its first-ever touchscreen MacBook Pro later this year, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070592180239118545",
+    "published_at": "2026-06-26T19:37:00+00:00",
+    "fetched_at": "2026-06-26T21:03:29.910377+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "苹果公司据称将于今年晚些时候推出首款触摸屏MacBook Pro，这一创新可能推动股价上涨，对投资者是积极信号。",
+      "translation": "据报道，苹果公司，$AAPL，将于今年晚些时候推出其首款触摸屏MacBook Pro，消息来自彭博社。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070582113964093665",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -323,6 +365,25 @@
       "summary": "推文宣传了Unusual Whales的直播节目WhaleWatch，提供盘前准备和实时交易工具，但未给出具体投资方向或建议。",
       "translation": "Unusual Whales的实时交易节目WhaleWatch现已上线！使用我们的工具进行盘前准备和实时交易。你在关注哪些资金流向？https://t.co/rsRCAGhsUr",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2070493783804813451",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "just throwing out a random thought, the UBS report is anecdotally true + and it's interesting there's more Chinese reports on Anthropic distillation.  \n\nMany US startups/companies using AI:\n\nAre using Chinese models like DeepSeek since they’re much cheaper than Gemini/OpenAI/Anthropic reasoning models for cost per task.\n\nKinda a catch 22 when US is built on capitalism and everyone goes for the cheaper options.\n\nI think the US just has to get good and out innovate here:\n\n- both with heavy KYC-auth frontier models for US only like Mythos given those are being distilled by competitors. and amybe staggered tiers for allied partners so US is always ahead\n\nMaybe something like dedicated AI Google auth like FaceID + Persona would do the trick before access/key creation for the newer models, then short lived scopes.\n\nAt least addressing those simpler fake/stolen account + pool allegations, requiring biometrics before use.\n\nThen US Gov drafting new regulations making it illegal for sharing access similar to identity forgery with bank accounts.\n\n- then the most obvious one is just heavily optimized reasoning models that mogs DeepSeek and others.\n\nKinda good Trump admin paused Fable/Mythos access, imo not quite sure why a trillion dollar company keeps letting itself get distilled over and over again.\n\nThere should be friction added if you’re accessing something close to ASI.\n\nTLDR: US just needs to good at cheap inference and add bank-grade authentication to AI model access. Easier said than done tho.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070493783804813451",
+    "published_at": "2026-06-26T13:06:00+00:00",
+    "fetched_at": "2026-06-26T21:02:57.474506+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了美国AI公司面临的中国模型蒸馏竞争问题，主张通过加强认证和优化推理成本保持领先，未直接推荐具体投资标的。",
+      "translation": "随意吐个槽，瑞银的报告在坊间是真实的，而且有意思的是中国关于Anthropic蒸馏的报道变多了。许多美国AI初创公司/企业正在使用DeepSeek等中国模型，因为它们比Gemini/OpenAI/Anthropic的推理模型在每次任务成本上便宜得多。这有点像一个困境，当美国建立在资本主义上，每个人都选择更便宜的选项。我认为美国必须做好并超越创新：- 既要有像Mythos这样的针对美国的高KYC认证前沿模型，考虑到这些模型正被竞争对手蒸馏。或许可以为盟友伙伴设置分层的访问权限，让美国始终领先。也许可以像FaceID+Persona那样为AI设置专用的谷歌认证，在新模型访问/密钥创建前使用，然后使用短存活期的作用域。至少解决那些简单的虚假/被盗账户和池子指控，要求使用前进行生物识别。然后美国政府起草新法规，将共享访问定为非法，类似于银行账户的身份伪造。- 然后最明显的是，要推出高度优化的推理模型，碾压DeepSeek和其他模型。特朗普政府暂停Fable/Mythos的访问算是好事，但我不知道为什么一家万亿美元的公司一直让自己被蒸馏。如果访问接近ASI的东西，应该增加摩擦。总结：美国只需要做好廉价推理，并为AI模型访问增加银行级认证。说易行难。",
+      "confidence": "medium"
     }
   },
   {

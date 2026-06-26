@@ -9,39 +9,42 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资中的光子学与内存瓶颈",
-      "激光供应短缺推动结构性增长",
-      "半导体供应链中的产业链瓶颈与市场过度调整"
+      "光子学/激光瓶颈",
+      "AI基础设施投资",
+      "存储芯片需求结构性增长",
+      "半导体设备与材料垄断"
     ],
-    "recent_shift": "近期已从对光子学和内存的过度集中仓位转向更广泛分散配置，以应对市场大幅回调。",
+    "recent_shift": "近期更加坚定看多光子学和激光瓶颈主题，认为市场波动是短期修正，长期基本面未变。",
     "representative_quotes": [
-      "Mizuho Research: No delays on CPO or 800v dc. Revised up optical engine projections from $NVDA demand ramp.",
-      "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... Industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend.",
-      "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
+      "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom.",
+      "The amount of economic impact can't be measured if AI helps find cures for cancer or accelerates discovery for Quantum Computing."
     ],
-    "generated_at": "2026-06-26T17:14:31.801507+00:00"
+    "generated_at": "2026-06-26T21:03:41.530907+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$MSFT",
-      "$AAPL",
-      "$BABA",
-      "$AMZN"
+      "MU",
+      "MSFT",
+      "AAPL",
+      "BABA",
+      "AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场波动与利率预期分歧",
-      "科技巨头面临监管与成本压力",
-      "地缘政治风险（伊朗局势）"
+      "通胀与美联储加息预期",
+      "地缘政治风险（伊朗、中东）",
+      "科技巨头财报与价格调整",
+      "消费者信心与房地产降温",
+      "市场波动与期权对冲"
     ],
-    "recent_shift": "近期更关注宏观风险（通胀、美联储可能加息）和科技股利空，而早期则强调特定个股的看涨信号。",
+    "recent_shift": "近期基调从之前的谨慎转向更悲观，强调加息预期和地缘冲突对市场的拖累。",
     "representative_quotes": [
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
-      "BREAKING: Trump says Iran violated the ceasefire agreement by attacking a ship in the Strait of Hormuz.",
-      "BREAKING: Michael Burry bought Microsoft, $MSFT, 2028 LEAPS with strikes in the low seven hundreds, per YF."
+      "40% of investors are now expecting a Fed hike in the next year, versus 28% expecting cuts, per Bank of America",
+      "The market is almost always wrong about what the Fed will do, per Apollo",
+      "BREAKING: Trump says Iran violated the ceasefire agreement by attacking a ship in the Strait of Hormuz."
     ],
-    "generated_at": "2026-06-26T19:15:20.774562+00:00"
+    "generated_at": "2026-06-26T21:03:44.604889+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
