@@ -27,25 +27,25 @@
     "focus_tickers": [
       "AAPL",
       "MSFT",
-      "SPCX",
       "MU",
-      "AMZN"
+      "SPCX",
+      "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险（伊朗/霍尔木兹海峡）",
-      "通胀与美联储政策预期",
-      "科技巨头与半导体动态",
-      "消费与住房市场疲软",
-      "ESG与监管争议"
+      "地缘政治风险与油价波动",
+      "科技巨头动态与AI监管",
+      "美联储政策预期分歧",
+      "宏观经济数据与通胀",
+      "个股期权流与对冲基金仓位"
     ],
-    "recent_shift": "近期从对科技与结构性乐观转向更关注滞胀压力与地缘不确定性带来的市场波动。",
+    "recent_shift": "近期转向对地缘冲突（如伊朗）和通胀持续性的更多关注，同时强调科技股面临监管和消费疲软的双重压力。",
     "representative_quotes": [
-      "The U.S. goods trade deficit widened to $105.8 billion in May, significantly above expectations of $85 billion.",
-      "The market is almost always wrong about what the Fed will do, per Apollo.",
-      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz."
+      "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East.",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
+      "Michael Burry says he is no longer short Palantir, $PLTR, having covered his position."
     ],
-    "generated_at": "2026-06-27T14:23:16.771580+00:00"
+    "generated_at": "2026-06-27T15:46:56.623450+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
