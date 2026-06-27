@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2070948104535498983",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "现在看来 康宁 $GLW 是英伟达接下来的芯片散热必选项。芯片越堆越厚，玻璃基板成了唯一解决方案。而未来康宁的产量会直接决定英伟达的产量，如果康宁不扩产，未来英伟达的芯片就没法迭代更先进的版本，因为传统基板满足不了后续新一代AI芯片的散热问题。 https://t.co/fCNncNt0TK",
+    "tweet_url": "https://x.com/xiaomustock/status/2070948104535498983",
+    "published_at": "2026-06-27T19:11:19+00:00",
+    "fetched_at": "2026-06-27T19:21:07.541661+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为康宁（GLW）的玻璃基板是英伟达（NVDA）新一代AI芯片散热的唯一解决方案，康宁的产量将直接决定英伟达的产量和迭代能力，因此对康宁和英伟达均持看涨态度。",
+      "translation": "现在看来 康宁 $GLW 是英伟达接下来的芯片散热必选项。芯片越堆越厚，玻璃基板成了唯一解决方案。而未来康宁的产量会直接决定英伟达的产量，如果康宁不扩产，未来英伟达的芯片就没法迭代更先进的版本，因为传统基板满足不了后续新一代AI芯片的散热问题。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070919012125704668",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
