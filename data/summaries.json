@@ -26,25 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "AAPL",
-      "MU",
       "MSFT",
-      "AMZN",
-      "SPCX"
+      "SPCX",
+      "MU",
+      "AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "通胀与加息前景",
-      "地缘政治风险",
-      "科技巨头监管与劳工问题",
-      "消费者经济疲软"
+      "地缘政治风险（伊朗/霍尔木兹海峡）",
+      "通胀与美联储政策预期",
+      "科技巨头与半导体动态",
+      "消费与住房市场疲软",
+      "ESG与监管争议"
     ],
-    "recent_shift": "近期更加强调通胀高企、利率可能上调，以及地缘冲突对经济的负面冲击，偏空立场加剧。",
+    "recent_shift": "近期从对科技与结构性乐观转向更关注滞胀压力与地缘不确定性带来的市场波动。",
     "representative_quotes": [
-      "Apple, $AAPL, announced price increases to iPad and Macs. Today, $AAPL is down more than 5%, losing billions in marketcap.",
-      "U.S. inflation climbed to 4.1% in May, per Bloomberg.",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
+      "The U.S. goods trade deficit widened to $105.8 billion in May, significantly above expectations of $85 billion.",
+      "The market is almost always wrong about what the Fed will do, per Apollo.",
+      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz."
     ],
-    "generated_at": "2026-06-27T12:50:11.798440+00:00"
+    "generated_at": "2026-06-27T14:23:16.771580+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

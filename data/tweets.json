@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2070870011456217430",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, is seeking US government clearance to purchase memory chips from Chinese DRAM maker CXMT, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2070870011456217430",
+    "published_at": "2026-06-27T14:01:00+00:00",
+    "fetched_at": "2026-06-27T14:22:55.315356+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "苹果公司寻求美国政府批准从中国DRAM制造商CXMT采购存储芯片，此举可能影响其供应链策略和成本结构，但投资方向尚不明确。",
+      "translation": "苹果公司正在寻求美国政府批准，从中国DRAM制造商CXMT购买存储芯片，据英国金融时报报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070851932147880042",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
