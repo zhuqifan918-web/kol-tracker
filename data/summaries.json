@@ -5,46 +5,45 @@
       "$AAOI",
       "$MU",
       "$LPK",
-      "$AXTI"
+      "$SPCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/激光瓶颈",
-      "AI基础设施投资",
-      "存储芯片需求结构性增长",
-      "半导体设备与材料垄断"
+      "光电互联与CW激光器瓶颈",
+      "AI建设资本支出超级周期",
+      "光学、内存与电力半导体结构性增长",
+      "供应链瓶颈与自主AI供应链",
+      "宏观回调中的战术性机会"
     ],
-    "recent_shift": "近期更加坚定看多光子学和激光瓶颈主题，认为市场波动是短期修正，长期基本面未变。",
+    "recent_shift": "近期观点从全面看多转向更注重对宏观回调的应对，但仍坚持光学和内存长期结构性看多。",
     "representative_quotes": [
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle.",
-      "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom.",
-      "The amount of economic impact can't be measured if AI helps find cures for cancer or accelerates discovery for Quantum Computing."
+      "I personally think photonics theme + CW laser chokepoint is goated.",
+      "I'm just personally focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next."
     ],
-    "generated_at": "2026-06-26T21:03:41.530907+00:00"
+    "generated_at": "2026-06-27T02:13:36.666732+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "MSFT",
-      "MU",
-      "BABA",
-      "AMZN"
+      "$MU",
+      "$MSFT",
+      "$AAPL",
+      "$SPCX",
+      "$PLTR"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "通胀与利率不确定性",
-      "地缘政治风险加剧",
-      "科技巨头与半导体波动",
-      "消费与住房市场疲软",
-      "市场情绪与投资者信心下滑"
+      "宏观经济不确定性",
+      "地缘政治风险",
+      "科技股业绩分化"
     ],
-    "recent_shift": "更关注通胀顽固和利率上调预期，同时对地缘冲突和贸易风险表达担忧",
+    "recent_shift": "从对通胀和地缘冲突的担忧转向关注特定科技股如Micron的强劲财报以及Fed可能加息。",
     "representative_quotes": [
-      "BREAKING: Michael Burry announced he closed his $BABA position in favor of more $JD. He also mentioned buying $MSFT 2028 December LEAPs in the low 700 strike range",
-      "The market is almost always wrong about what the Fed will do, per Apollo",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
+      "The market is almost always wrong about what the Fed will do.",
+      "BREAKING: Micron, $MU, earnings: - EPS: $25.11, est: $20 - Revenue: $41 billion, est: $35 billion",
+      "BREAKING: Trump says Iran violated the ceasefire agreement by attacking a ship in the Strait of Hormuz."
     ],
-    "generated_at": "2026-06-26T23:55:48.204360+00:00"
+    "generated_at": "2026-06-27T02:13:38.882566+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,52 @@
 [
   {
+    "tweet_id": "2070691462354993543",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.\n\nWhich is working on 1.6T OSFP (pluggable).\n\nIt’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. \n\n$SIVE is one of the more startup friendly plausible merchant suppliers as seen with Ayar to $POET?\n\nMaybe $LITE and $MTSI that were have a little history too, but less so.\n\nRegardless it’s very positive a lot of startups recently like Celestial have been acquired by Marvell.\n\nFor both merchant laser supplier revenue (working with startups -> having hyperscalers like SpaceX drive revenue after being designed in already).\n\nAs well as valuations from M&A desirability.\n\nGoes to show how optical interconnects is the right direction if Elon Musk is directly buying these companies.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070691462354993543",
+    "published_at": "2026-06-27T02:11:30+00:00",
+    "fetched_at": "2026-06-27T02:12:49.955647+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX",
+        "SIVE",
+        "POET",
+        "LITE",
+        "MTSI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为Elon Musk收购光学网络初创公司Mesh对光学互连领域是利好，并推测SIVE等激光器供应商可能受益，同时指出M&A活动提升了行业估值，整体看好光学互连方向。",
+      "translation": "$SPCX / 埃隆·马斯克收购了光学网络初创公司Mesh。该公司正在研发1.6T OSFP（可插拔模块）。似乎他们拥有光学引擎/封装技术，但可能从商业公司采购CW DFB激光器。$SIVE是更可能对创业企业友好的商业供应商之一，如Ayar与$POET的关系。也许$LITE和$MTSI也有一点历史关联，但程度较低。无论如何，近期许多初创公司（如Celestial）被Marvell收购是非常积极的信号。这对商业激光器供应商的收入（与初创公司合作->被SpaceX等超大规模客户采用后推动收入增长）以及并购估值都有好处。这显示了如果埃隆·马斯克直接收购这些公司，光学互连就是正确的方向。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070662888604205200",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: \nSpaceX $SPCX officially set to join the Nasdaq-100 $QQQ on July 7th, 2026",
+    "tweet_url": "https://x.com/unusual_whales/status/2070662888604205200",
+    "published_at": "2026-06-27T00:17:58+00:00",
+    "fetched_at": "2026-06-27T02:13:22.313737+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX",
+        "QQQ"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX（代币SPCX）正式加入纳斯达克100指数（QQQ），表明其市值和流动性达到主要指数标准，可能吸引跟踪指数的被动基金买入，长期对股价构成支撑。",
+      "translation": "突发：SpaceX $SPCX 正式定于2026年7月7日加入纳斯达克100指数 $QQQ。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070642763721568526",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -203,6 +250,25 @@
       "summary": "该推文认为康宁将光互连技术集成到玻璃基板中，对ABF载板和CPO方案形成降维打击，预测三年后市值可达万亿美元，强烈看涨。",
       "translation": "跟AI聊了一会，对康宁 $GLW 的未来越来越有信心。相当于康宁未来的市值=现在abf载板市值+cohr/lite这些cpo市值总和。正儿八经三年后的万亿美元公司，康宁把光互连直接做到自己精通领域的玻璃板里面了，之前其他企业的光互连方案还在abf板上努力，但下一代芯片基板已经变了，降维打击。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070559154352353724",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Brooo, OpenAI is back and they're releasing their new model GPT-5.6 Sol. \n\nWith their benchmarks, OpenAI claims: \n\n- Sol Ultra beats Mythos 5 and mogs it for coding/workflow. \n\n- And is better for bio/cybersecurity too.  \n\nPretty bullish on OpenAI again if they leapfrogged Anthropic.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070559154352353724",
+    "published_at": "2026-06-26T17:25:46+00:00",
+    "fetched_at": "2026-06-27T02:12:55.579052+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文讨论了OpenAI新模型GPT-5.6 Sol的发布，声称其在编码和网络安全领域超越竞争对手Anthropic，暗示OpenAI可能有投资价值，情绪乐观。",
+      "translation": "兄弟，OpenAI回来了，他们要发布新模型GPT-5.6 Sol。根据基准测试，OpenAI声称：Sol Ultra比Mythos 5更强大，在编码和工作流程上表现更优，而且在生物/网络安全方面也更好。如果OpenAI超越了Anthropic，我对他们又非常看好了。",
+      "confidence": "medium"
     }
   },
   {
