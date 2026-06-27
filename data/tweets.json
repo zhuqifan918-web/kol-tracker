@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2070789923108798545",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with photonics (FMCW LiDAR vision/sensing).\n\nRight now most exposure is upstream component parts… or programs within large players like $AMZN or $TSLA. \n\nSo global IPO season H2 into 2027 for pure play humanoids/robotics companies is going to be fun.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070789923108798545",
+    "published_at": "2026-06-27T08:42:45+00:00",
+    "fetched_at": "2026-06-27T09:09:14.218160+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN",
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "机器人领域交易数量和投资金额飙升，AI数据中心与机器人产业链关联，关注上游组件和大型公司项目，2027年前纯机器人公司IPO前景看好。",
+      "translation": "机器人是下一个热点。根据a16z引用的Pitchbook 3月数据，交易数量和投资金额都在飙升。好消息是：同样的AI数据中心风险敞口通常与人形机器人推进有交叉。比如DRAM/NAND用于人形机器人的推理/存储，DFB激光器用于光子学的FMCW LiDAR视觉/传感。目前大部分风险敞口在上游组件……或大型公司如$AMZN或$TSLA的内部项目中。因此，从2027年下半年开始的全球纯人形机器人/机器人公司IPO季节将会很有趣。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070754658868687086",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS.\n\nAt up to 750 tokens/sec, which is obscene performance.\n\nAmerican inference go brrr.\n\nI actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday.\n\nFeels like validation of its tech. IMO a bit overvalued compared to profitable companies like $JBL at the same valuation.\n\nBut there’s likely premiums for OpenAI exposure, as long as they stay the leader.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070754658868687086",
+    "published_at": "2026-06-27T06:22:38+00:00",
+    "fetched_at": "2026-06-27T09:09:20.337830+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CBRS",
+        "JBL"
+      ],
+      "direction": "bullish",
+      "summary": "推文讨论了OpenAI与Cerebras（$CBRS）的合作，并提及了该公司以低于IPO价格买入的仓位，认为这验证了技术实力，但估值较高，不过OpenAI的曝光度可能带来估值溢价。整体偏向看涨。",
+      "translation": "有点疯狂：OpenAI将在$CBRS上推出其重量级5.6 Sol前沿模型。每秒高达750个token，性能极其惊人。美国推理加速。我昨天看到这个消息后，首次在建仓Cerebras，成本在170多美元（低于185美元的IPO价格）。感觉这验证了它的技术。我个人认为，与同等市值的盈利公司$JBL相比，它有点高估。但只要有OpenAI的曝光度，只要OpenAI保持领先，就可能存在溢价。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070733360679276737",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -105,6 +149,25 @@
       "direction": "bearish",
       "summary": "苹果因商场环境恶化永久关闭三家美国门店，这可能反映线下零售挑战，对苹果股票短期或呈利空影响。但需结合财报和整体策略综合判断。",
       "translation": "苹果于6月20日永久关闭了美国三家零售店，理由是购物商场条件恶化。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070697630825410699",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit As a worker in manufacturing, humanoids have it of potential. Not sure on this one though, my money is still on Elon pulling off Optimus. I’d like  to see some videos and specs on this company your speaking of",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070697630825410699",
+    "published_at": "2026-06-27T02:36:01+00:00",
+    "fetched_at": "2026-06-27T09:09:24.915371+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论人形机器人的投资潜力，提及对Elon Musk的Optimus项目持乐观态度，但未见具体投资建议或指向，整体保持中性。",
+      "translation": "作为制造业工人，人形机器人确实有潜力。不过我对此不太确定，我的钱仍然押在埃隆·马斯克成功推出Optimus上。我想看看你提到的这家公司的一些视频和规格参数。",
       "confidence": "medium"
     }
   },
