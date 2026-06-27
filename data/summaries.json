@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$MU",
-      "$NVDA",
-      "$LPK"
+      "SIVE",
+      "AAOI",
+      "MU",
+      "TSM",
+      "LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施投资",
-      "光子学与激光瓶颈",
-      "人形机器人与物理AI",
-      "半导体与存储器超级周期",
-      "供应链自主与本土化"
+      "AI基础设施建设与上游瓶颈投资",
+      "光子学与激光器供应链稀缺性",
+      "人形机器人与物理AI前沿",
+      "存储芯片结构性需求周期",
+      "全球半导体自主化趋势"
     ],
-    "recent_shift": "近期从对宏观调整的担忧转向强调市场恐慌中的买入机遇，并强化对光子学主题的长期信心。",
+    "recent_shift": "近期明显从泛AI主题转向更聚焦光通信激光器（如SIVE、AAOI）和人形机器人基础设施，同时表达对短期回调的担忧但维持长期看多立场。",
     "representative_quotes": [
-      "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
-      "Best time to long CXL for memory pooling was 4 months ago.",
-      "I do think AI is the most disruptive technology in human history."
+      "$SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.",
+      "Nothing like $MU CEO predicting a multi-decade memory demand cycle driven by humanoid robots... I wonder if the world is going to have enough memory.",
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-27T06:07:45.430039+00:00"
+    "generated_at": "2026-06-27T09:10:06.038348+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
