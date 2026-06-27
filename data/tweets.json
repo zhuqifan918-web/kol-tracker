@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2070851932147880042",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some random notes : \n\nThe upstream MLCC bottleneck stack looks like this:\n\nMLCC-grade BaTiO₃ / dielectric powder\n- Sakai Chemical (40%), Nippon Chemica, Fuji Titanium / MF Material, Sinocera\n\nkinda important too:\nhigh purity Ni powder and Ni internal-electrode paste\n- Shoei Chemical, JFE Mineral, Toho Titanium, Sumitomo Metal Mining, Daiken Chemical\n\nOther:\nDy/Y/Ho/Gd rare-earth dopants and high-purity oxide additives\n- Solvay (purity oxide additives/dopants), Shin‑Etsu, Mitsui Mining, Lynas Rare Earths, etc.\n\nmisc: \n\nsilicon capacitors- AP memory, SEMCO, murata just looking into them vs. mlcc\n\nPMICs (TI, Infineon, Renesas, Analog Devices, MPS, ON Semi, NXP)\n\nBMCs - Aspeed: ~$18.5B MC: BMCs. around 70% global BMC share (very interesting)\n\nThen China indium metal export controls kinda like Wf6 if anything goes down:\n\n- InGaAs, InAs, InSb, InGaP, AlInGaP, InGaN, infrared detectors, LEDs, VCSELs, CPV, sensors, epitaxy source materials, and MOCVD precursors.\n\nNon-China refined indium producers: Korea Zinc/Young Poong, DOWA/Mitsui/JX/Sumitomo Japan type companies, Teck obvious just substitute trade \n\nStockpile suppliers: eg. companies sitting on a bunch, kinda like RPI hoarding memory then benefiting later on\n\n-ITO substitutes: (antimony tin oxide, carbon nanotubes, PEDOT conductive polymers, silver/copper nanowires, graphene, and zinc oxide nanopowder)?\n\ncause Indium Tin Oxide is largest volume use of indium. \n\nso smartphone, TV, and automotive display manufacturing might have troubles lol. \n\nAlready covered China export controls quite a bit with InP substrates and $AXTI, I'm just trying to guess what happens with indium metal export controls next. \n\nIdk yet still looking",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070851932147880042",
+    "published_at": "2026-06-27T12:49:09+00:00",
+    "fetched_at": "2026-06-27T12:49:32.204194+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI"
+      ],
+      "direction": "neutral",
+      "summary": "推特分析了上游MLCC供应链各环节关键公司，重点提及稀土掺杂剂和铟金属出口管制可能对半导体、显示面板行业造成影响，涉及高端品和中国非中国供应商分析。",
+      "translation": "只是一些随机笔记：上游MLCC瓶颈堆栈如下所示：MLCC级钛酸钡/介电粉末 - Sakai Chemical（40%）、Nippon Chemica、Fuji Titanium / MF Material、Sinocera 有点重要：高纯镍粉和镍内电极浆料 - Shoei Chemical、JFE Mineral、Toho Titanium、Sumitomo Metal Mining、Daiken Chemical 其他：Dy/Y/Ho/Gd稀土掺杂剂和高纯氧化物添加剂 - Solvay（纯度氧化物添加剂/掺杂剂）、Shin‑Etsu、Mitsui Mining、Lynas Rare Earths等。备注：硅电容器- AP memory、SEMCO、murata刚在研究中 vs. MLCC。PMICs（TI、Infineon、Renesas、Analog Devices、MPS、ON Semi、NXP）。BMCs - Aspeed：~$18.5B MC：BMCs。全球约70% BMC份额（非常有趣）。然后中国铟金属出口管制有点类似于WF6如果发生：- InGaAs、InAs、InSb、InGaP、AlInGaP、InGaN、红外探测器、LED、VCSEL、CPV、传感器、外延源材料、MOCVD前驱体。非中国精炼铟生产商：Korea Zinc/Young Poong、DOWA/Mitsui/JX/Sumitomo日本类型公司、Teck明显替代贸易。库存供应商：例如手握大量库存的公司，有点像RPI囤货受益。ITO替代品：（锑掺杂氧化锡、碳纳米管、PEDOT导电聚合物、银/铜纳米线、石墨烯和氧化锌纳米粉末）？因为氧化铟锡是铟的最大用量。所以智能手机、电视和汽车显示屏制造可能遇到麻烦。已经覆盖中国对InP衬底和$AXTI的出口管制，我只是猜测下一步铟金属出口管制会怎样。还不知道，仍在看。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070789923108798545",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -149,6 +170,25 @@
       "direction": "bearish",
       "summary": "苹果因商场环境恶化永久关闭三家美国门店，这可能反映线下零售挑战，对苹果股票短期或呈利空影响。但需结合财报和整体策略综合判断。",
       "translation": "苹果于6月20日永久关闭了美国三家零售店，理由是购物商场条件恶化。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070703161740791817",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East.\n\nRead more: https://t.co/Slk9MCYcKr",
+    "tweet_url": "https://x.com/unusual_whales/status/2070703161740791817",
+    "published_at": "2026-06-27T02:58:00+00:00",
+    "fetched_at": "2026-06-27T12:49:51.346553+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "穆迪分析首席经济学家马克·赞迪指出，美国家庭面临的成本上升源于军费开支增加以及中东石油供应中断导致的价格上涨。这表明地缘政治紧张和财政扩张正通过通胀传导至消费者，可能对经济增长和消费支出构成压力，利空股市。",
+      "translation": "穆迪分析首席经济学家马克·赞迪表示，转嫁给家庭的成本是军费开支增加以及中东石油供应中断导致价格上涨的结果。",
       "confidence": "medium"
     }
   },
@@ -342,6 +382,25 @@
       "summary": "GraniteShares 即将推出美国首只杠杆SK海力士ETF，包括2倍做多和2倍做空产品，为投资者提供放大每日涨跌幅的投机工具。",
       "translation": "🚨 即将推出\n\nGraniteShares 将推出美国首只杠杆SK海力士ETF：\n\n- GraniteShares 2倍做多SK海力士每日ETF $SKUU\n- GraniteShares 2倍做空SK海力士每日ETF $SKDD\n\n$SKUU 目标实现SK海力士（韩国存储芯片制造商）每日波动的2倍回报，而$SKDD 目标为反向，当股票下跌时上涨2倍。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070612564866666594",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales is having a July 4th sale.\n\nGet up to 20% off. \n\nWe have created tools to help you navigate this market. \n\nJoin here: https://t.co/bsTCire8zT https://t.co/SP7rAT84Bp",
+    "tweet_url": "https://x.com/unusual_whales/status/2070612564866666594",
+    "published_at": "2026-06-26T20:58:00+00:00",
+    "fetched_at": "2026-06-27T12:50:05.509687+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文是Unusual Whales在7月4日推出的促销活动，提供高达20%的折扣，推广其市场分析工具，间接暗示工具对投资有帮助。",
+      "translation": "Unusual Whales正在举办7月4日促销活动。最高可享受20%的折扣。我们已经创建了工具来帮助您导航这个市场。在此加入：https://t.co/bsTCire8zT https://t.co/SP7rAT84Bp",
+      "confidence": "medium"
     }
   },
   {

@@ -5,47 +5,46 @@
       "AAOI",
       "MU",
       "TSM",
-      "LPK"
+      "INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "AI基础设施建设与上游瓶颈投资",
-      "光子学与激光器供应链稀缺性",
-      "人形机器人与物理AI前沿",
-      "存储芯片结构性需求周期",
-      "全球半导体自主化趋势"
+      "光子学/光互联与算力扩展",
+      "人形机器人产业链渗透",
+      "中国出口管制下的新材料替代",
+      "美联储政策与全球市场修正"
     ],
-    "recent_shift": "近期明显从泛AI主题转向更聚焦光通信激光器（如SIVE、AAOI）和人形机器人基础设施，同时表达对短期回调的担忧但维持长期看多立场。",
+    "recent_shift": "近期观点从对光电子短期波动担忧转向中长期乐观，强调2027年放量拐点，并关注记忆体结构性需求与人形机器人长周期。",
     "representative_quotes": [
-      "$SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.",
-      "Nothing like $MU CEO predicting a multi-decade memory demand cycle driven by humanoid robots... I wonder if the world is going to have enough memory.",
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
+      "But I do think we're still early in the Supercycle with photonics... there's bound to be corrections/crashes along the way up.",
+      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028.",
+      "Probably same thing now with optical names and their projections into 2027, 2028. I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-27T09:10:06.038348+00:00"
+    "generated_at": "2026-06-27T12:50:15.301267+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AMZN",
       "AAPL",
       "MU",
       "MSFT",
-      "BABA"
+      "AMZN",
+      "SPCX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济不确定性",
+      "通胀与加息前景",
       "地缘政治风险",
-      "科技公司业绩分化",
-      "美联储政策预期转向",
-      "大宗商品价格波动"
+      "科技巨头监管与劳工问题",
+      "消费者经济疲软"
     ],
-    "recent_shift": "近期从关注地缘冲突对油价的影响转向更多关注科技公司财报及美联储可能加息的预期",
+    "recent_shift": "近期更加强调通胀高企、利率可能上调，以及地缘冲突对经济的负面冲击，偏空立场加剧。",
     "representative_quotes": [
-      "Michael Burry says he is no longer short Palantir, $PLTR, having covered his position.",
-      "Goldman Sachs expects the Fed to not cut in 2026, and instead cut in June 2027",
+      "Apple, $AAPL, announced price increases to iPad and Macs. Today, $AAPL is down more than 5%, losing billions in marketcap.",
+      "U.S. inflation climbed to 4.1% in May, per Bloomberg.",
       "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
     ],
-    "generated_at": "2026-06-27T06:07:48.204399+00:00"
+    "generated_at": "2026-06-27T12:50:11.798440+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
