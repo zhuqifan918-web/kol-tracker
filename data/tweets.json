@@ -11225,6 +11225,25 @@
     }
   },
   {
+    "tweet_id": "2058804522579804660",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这个肯定不是传统液冷公司，传统的AI服务器液冷行业这是辣鸡行业，低毛利没啥门槛的辣鸡行业。\n这个主要得关注的是芯片内部的散热问题，这是未来芯片堆叠层酥越来越高后最致命的问题，直接影响芯片寿命。",
+    "tweet_url": "https://x.com/xiaomustock/status/2058804522579804660",
+    "published_at": "2026-05-25T06:57:03+00:00",
+    "fetched_at": "2026-06-27T20:36:05.524305+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "用户认为传统AI服务器液冷行业是低毛利、低门槛的行业，不具投资价值。重点应关注芯片内部散热问题的解决，因为随着芯片堆叠层数增加，散热问题将严重影响芯片寿命，这可能是一个有潜力的投资方向。",
+      "translation": "这肯定不是传统的液冷公司。传统的AI服务器液冷行业是个垃圾行业，低毛利、没有门槛的垃圾行业。重点是要关注芯片内部的散热问题，这是未来芯片堆叠层数越来越高后最致命的问题，直接影响芯片寿命。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2054722172728520886",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
