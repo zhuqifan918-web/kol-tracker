@@ -31,21 +31,20 @@
       "SPCX",
       "PLTR"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与油价波动",
-      "科技巨头动态与AI监管",
-      "美联储政策预期分歧",
-      "宏观经济数据与通胀",
-      "个股期权流与对冲基金仓位"
+      "地缘政治不确定性",
+      "通胀与货币政策",
+      "科技行业监管",
+      "消费疲软"
     ],
-    "recent_shift": "近期转向对地缘冲突（如伊朗）和通胀持续性的更多关注，同时强调科技股面临监管和消费疲软的双重压力。",
+    "recent_shift": "近期从原先的乐观情绪转向关注通胀回升、地缘冲突以及消费者信心下降，对市场前景更为谨慎。",
     "representative_quotes": [
-      "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East.",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
-      "Michael Burry says he is no longer short Palantir, $PLTR, having covered his position."
+      "The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets",
+      "More economists are forecasting Fed rate hikes than cuts for the first time since 2023",
+      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter"
     ],
-    "generated_at": "2026-06-27T15:46:56.623450+00:00"
+    "generated_at": "2026-06-27T17:59:22.532062+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
