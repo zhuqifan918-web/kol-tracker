@@ -1,5 +1,138 @@
 [
   {
+    "tweet_id": "2070733360679276737",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX priced bonds in five different tranches, with notes due between 2031 and 2056, and rates varying from 5.35% for the 2031 bonds to 6.65% for the 2056 notes.\n\nRead more: https://t.co/VuVw4ygmca",
+    "tweet_url": "https://x.com/unusual_whales/status/2070733360679276737",
+    "published_at": "2026-06-27T04:58:00+00:00",
+    "fetched_at": "2026-06-27T06:07:19.398470+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPACE"
+      ],
+      "direction": "neutral",
+      "summary": "SpaceX发行了五档债券，期限从2031年到2056年，利率从5.35%到6.65%不等，反映了市场对该公司信用状况的定价。投资者应关注其偿债能力和未来现金流。",
+      "translation": "SpaceX以五种不同批次定价了债券，到期日从2031年到2056年，利率从2031年债券的5.35%到2056年债券的6.65%不等。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070731304241606694",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So just the humanoid high level so far overview from investor decks.\n\nFor agility robotics: \n- Digit V5: can lift 50 pounds lift (Up 50% from v4)\n- 10:1 charge ratio  (2.5x higher)\n- 22H battery output (+35%)\n- 7.2 ft vertical reach (up 30% from v4)\n(NVIDIA Halos / IGX Thor / Halos Core integration for safety specs)\n\nProprietary:\n- Actuators, Modular end effectors, sensors, battery, control platform. \n\nThey have \"Robofab\" - 10k annual production robots right now and US domestic supply chains. \n\nBOM is ~$125K but they're projecting that to go down actually to looks like ~20k? At 10k units/year. \n\nOn the software side: They're working with $GOOGL Deepmind + $NVDA for initial intelligence/reasoning intents. Then trained models for task execution, multi-humanoid coordination is done by Agility. \n\nNormally you'd expect these humanoid companies to be mostly hype/precommercial.\n\nBut it's extremely impressive they have mass production setup + early stage commercial validation. Kinda reminds me of the humanoid version of $RKLB (like early success with reusable rockets).",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070731304241606694",
+    "published_at": "2026-06-27T04:49:49+00:00",
+    "fetched_at": "2026-06-27T06:06:38.500257+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文详细分析了Agility Robotics的人形机器人技术进展，包括Digit V5的性能提升、规模化量产和成本下降趋势。作者看好其商业化前景，认为这是人形机器人领域的早期成功案例，类似火箭回收公司RKLB。",
+      "translation": "这只是从投资者演示文稿中得到的关于人形机器人的高层面概述。对于Agility Robotics：- Digit V5：可举起50磅（比V4提升50%）- 10:1充电比（提升2.5倍）- 22小时电池续航（+35%）- 7.2英尺垂直伸展（比V4提升30%）（集成了NVIDIA Halos / IGX Thor / Halos Core安全规格）专有技术：- 执行器、模块化末端执行器、传感器、电池、控制平台。他们拥有'Robofab'，目前年产1万台机器人，并建立了美国国内供应链。物料清单（BOM）约12.5万美元，但预计在年产1万台时降至约2万美元。软件方面：与$GOOGL DeepMind和$NVDA合作开发初始智能/推理意图，任务执行和多机器人协调由Agility训练。通常你会认为这些人形机器人公司主要是炒作/尚未商业化。但他们已经实现量产并获得早期商业验证，这极其令人印象深刻。这让我想起了人形机器人版的$RKLB（类似可重复使用火箭的早期成功）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070726566028382346",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Over the last month, crude oil prices have been down over 27% while gas prices have been down 13%.\n\nRead more: https://t.co/0yfllNXSpZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2070726566028382346",
+    "published_at": "2026-06-27T04:31:00+00:00",
+    "fetched_at": "2026-06-27T06:07:21.706200+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USO",
+        "CL=F",
+        "XLE"
+      ],
+      "direction": "bearish",
+      "summary": "推特指出原油价格在过去一个月下跌超27%，而汽油价格仅下跌13%，两者跌幅不对称可能暗示原油需求疲软或炼油利润压缩，对能源板块及相关ETF构成利空信号。",
+      "translation": "过去一个月，原油价格下跌超过27%，而汽油价格仅下跌13%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070711678912921752",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "美股即将上线海力士的2x杠杆etf\n$SKUU 做多\n$SKDD 做空",
+    "tweet_url": "https://x.com/xiaomustock/status/2070711678912921752",
+    "published_at": "2026-06-27T03:31:50+00:00",
+    "fetched_at": "2026-06-27T06:07:09.048983+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKUU",
+        "SKDD"
+      ],
+      "direction": "neutral",
+      "summary": "美股即将上线海力士的2倍杠杆ETF，包括做多和做空两种产品，为投资者提供更高风险敞口。",
+      "translation": "美股即将上线海力士的2倍杠杆ETF，$SKUU做多，$SKDD做空。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070711466613969331",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple permanently closed three retail stores in the United States on June 20, citing deteriorating conditions at the shopping malls\n\nRead more: https://t.co/O3RmWHgD9k",
+    "tweet_url": "https://x.com/unusual_whales/status/2070711466613969331",
+    "published_at": "2026-06-27T03:31:00+00:00",
+    "fetched_at": "2026-06-27T06:07:25.062973+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果因商场环境恶化永久关闭三家美国门店，这可能反映线下零售挑战，对苹果股票短期或呈利空影响。但需结合财报和整体策略综合判断。",
+      "translation": "苹果于6月20日永久关闭了美国三家零售店，理由是购物商场条件恶化。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070695321060188540",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'm actually excited for the United States gets its first pure play Humanoid public company!\n\nAt a personally compelling valuation like Unitree's $6.5B (they're IPOing at $2.5B)\n\nThat I personally invested in Agility Robotics. Couple days ago when they first announced it. \n\n$CCXI is the current name -> ticker change $AGLT on IPO\n\nIt's IPOing ~September per news sources, so around 3M from now, so a lot of waiting time, but less so than $WLAC / $BRUN. \n\nAs a TLDR rundown of what I've found so far + my thoughts:\n\nIt's a very commercializable humanoid (eg. warehouses, delivery, etc),  compared to others like Figure (~$49B) that are general purpose.\n\nAnd I personally heavily favor application-specific ones for workforce automation, that can step-function into becoming general purpose.\n\nIPO valuation is ~$2.5B, but since it's trading as a holding company now and is up a decent amount, it's roughly ~$4.4B pro forma last I checked. \n\nIn terms of dilution, there's a 180 day lockup period, which is a very green flag for SPAC structures. \n\nIn terms of fundamentals:\n\n- \"Agility also says it has $300M+ of multi-year Digit v5 orders and a pipeline of 30+ customers\"\n- \"65,000+ operating hours\"\n- GXO, Schaeffler, Toyota Motor Manufacturing Canada, and Mercado Libre  as external customers, with Amazon and others testing it\n\nSo it’s definitely not vaporware/promises, and is actually commercializable. \n\nTheir investor list includes:\n$NVDA, Foxconn, $AMZN, Softbank + others.\n\nAs for warnings: current BOM is ~$125k+ since they claim 75% of components are sourced from US, but they're trying to get that down to $50K.\n\nSo there is US scarcity, compared to Optimus where large part of BOM is  China suppliers. \n\nThere's also a chance the SPAC gets canceled + filings get delayed past Nov.\n\nThat being said I'm just sharing the IPO news and personal thoughts. Probably going to do more research this weekend, but I'm very excited. \n\nIt kinda feels like ChatGPT when it first got announced (infancy), but the technology scaled up really fast over 2-3 years.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2070695321060188540",
+    "published_at": "2026-06-27T02:26:50+00:00",
+    "fetched_at": "2026-06-27T06:06:50.263139+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "AGLT",
+        "NVDA",
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "作者看好Agility Robotics通过SPAC上市，认为其专注仓库等特定应用的人形机器人在商业化上具有优势，估值合理且有知名投资者支持，但也需注意成本较高和SPAC取消风险。",
+      "translation": "我实际上很期待美国迎来第一家纯人形机器人上市公司！以我个人认为有吸引力的估值，比如宇树科技的65亿美元（他们IPO定价25亿美元）。我本人几天前刚投资了Agility Robotics，他们最初宣布时投的。$CCXI是现在的名字，IPO时代码会变成$AGLT。据新闻来源说IPO大约在9月，也就是3个月后，所以等待时间较长，但比$WLAC/$BRUN短。以下是我目前发现的TLDR总结和想法：这是一款非常商业化的机器人（例如仓库、配送等），相比其他如Figure（约490亿美元）的通用型机器人，我更倾向于用于劳动力自动化的特定应用型，之后可以逐步升级为通用型。IPO估值约25亿美元，但由于现在作为控股公司交易且已上涨不少，上次看大约44亿美元。稀释方面有180天锁定期，对SPAC结构来说是个很好的信号。基本面方面：Agility表示有价值3亿美元以上的Digit v5多年订单和30多个客户管道；运行时间超过6.5万小时；外部客户包括GXO、Schaeffler、丰田汽车制造加拿大和Mercado Libre，亚马逊和其他公司也在测试。所以这绝对不是空头支票，而是实际可商业化的。他们的投资者包括NVIDIA、富士康、亚马逊、软银等。需要注意的是目前BOM（物料清单）约12.5万美元以上，因为他们声称75%的组件来自美国，但他们正努力将成本降到5万美元。所以存在美国稀缺性，相比之下Optimus很大一部分BOM来自中国供应商。还有SPAC可能被取消和文件推迟到11月之后的风险。总之我只是分享IPO消息和个人想法。可能这周末会做更多研究，但我非常兴奋。这有点像ChatGPT刚宣布时（初期），但技术在2-3年内快速升级。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070691462354993543",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -124,6 +257,28 @@
       "summary": "该推文表达了对Main Street（实体经济/中小企业）的乐观态度，暗示政策可能转向支持实体经济，这对整体市场情绪有正面影响。作为金融分析助理，可解读为对经济基本面改善的预期，间接利好股市。",
       "translation": "股票市场可以表现不错，但现在是Main Street（实体经济/中小企业）需要做得更好的时候了。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070620114505072996",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "🚨 COMING SOON\n\nGraniteShares is launching the first U.S.-listed leveraged SK Hynix ETFs:\n\n-GraniteShares 2X Long SK Hynix Daily ETF $SKUU\n-GraniteShares 2X Short SK Hynix Daily ETF $SKDD\n\n$SKUU aims for 2X the daily move of SK Hynix, the South Korean memory-chip maker, while $SKDD aims for the inverse, rising 2X when the stock falls.",
+    "tweet_url": "https://x.com/xiaomustock/status/2070620114505072996",
+    "published_at": "2026-06-26T21:28:00+00:00",
+    "fetched_at": "2026-06-27T06:07:07.256085+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKUU",
+        "SKDD"
+      ],
+      "direction": "neutral",
+      "summary": "GraniteShares 即将推出美国首只杠杆SK海力士ETF，包括2倍做多和2倍做空产品，为投资者提供放大每日涨跌幅的投机工具。",
+      "translation": "🚨 即将推出\n\nGraniteShares 将推出美国首只杠杆SK海力士ETF：\n\n- GraniteShares 2倍做多SK海力士每日ETF $SKUU\n- GraniteShares 2倍做空SK海力士每日ETF $SKDD\n\n$SKUU 目标实现SK海力士（韩国存储芯片制造商）每日波动的2倍回报，而$SKDD 目标为反向，当股票下跌时上涨2倍。",
+      "confidence": "high"
     }
   },
   {

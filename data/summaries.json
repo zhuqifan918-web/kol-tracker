@@ -4,69 +4,71 @@
       "$SIVE",
       "$AAOI",
       "$MU",
-      "$LPK",
-      "$SPCX"
+      "$NVDA",
+      "$LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光电互联与CW激光器瓶颈",
-      "AI建设资本支出超级周期",
-      "光学、内存与电力半导体结构性增长",
-      "供应链瓶颈与自主AI供应链",
-      "宏观回调中的战术性机会"
+      "人工智能基础设施投资",
+      "光子学与激光瓶颈",
+      "人形机器人与物理AI",
+      "半导体与存储器超级周期",
+      "供应链自主与本土化"
     ],
-    "recent_shift": "近期观点从全面看多转向更注重对宏观回调的应对，但仍坚持光学和内存长期结构性看多。",
+    "recent_shift": "近期从对宏观调整的担忧转向强调市场恐慌中的买入机遇，并强化对光子学主题的长期信心。",
     "representative_quotes": [
-      "I personally think photonics theme + CW laser chokepoint is goated.",
-      "I'm just personally focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
-      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next."
+      "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
+      "Best time to long CXL for memory pooling was 4 months ago.",
+      "I do think AI is the most disruptive technology in human history."
     ],
-    "generated_at": "2026-06-27T02:13:36.666732+00:00"
+    "generated_at": "2026-06-27T06:07:45.430039+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$MSFT",
-      "$AAPL",
-      "$SPCX",
-      "$PLTR"
+      "AMZN",
+      "AAPL",
+      "MU",
+      "MSFT",
+      "BABA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
       "宏观经济不确定性",
       "地缘政治风险",
-      "科技股业绩分化"
+      "科技公司业绩分化",
+      "美联储政策预期转向",
+      "大宗商品价格波动"
     ],
-    "recent_shift": "从对通胀和地缘冲突的担忧转向关注特定科技股如Micron的强劲财报以及Fed可能加息。",
+    "recent_shift": "近期从关注地缘冲突对油价的影响转向更多关注科技公司财报及美联储可能加息的预期",
     "representative_quotes": [
-      "The market is almost always wrong about what the Fed will do.",
-      "BREAKING: Micron, $MU, earnings: - EPS: $25.11, est: $20 - Revenue: $41 billion, est: $35 billion",
-      "BREAKING: Trump says Iran violated the ceasefire agreement by attacking a ship in the Strait of Hormuz."
+      "Michael Burry says he is no longer short Palantir, $PLTR, having covered his position.",
+      "Goldman Sachs expects the Fed to not cut in 2026, and instead cut in June 2027",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
     ],
-    "generated_at": "2026-06-27T02:13:38.882566+00:00"
+    "generated_at": "2026-06-27T06:07:48.204399+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "$SK하이닉스",
-      "$ASX",
-      "$SPCX",
-      "$MU"
+      "SK Hynix",
+      "GLW",
+      "ASX",
+      "MU",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命核心，海力士因HBM和产能垄断成为最大受益者",
-      "康宁$GLW凭借玻璃基板、光纤和光互连成为下一代AI算力底座",
-      "AI泡沫远未破裂，AGI到来前所有调整都是机会",
-      "存储三巨头（海力士、美光、三星）市值应高于英伟达，因其掌握供应链话语权",
-      "马斯克$SPCX太空算力计划依赖诺基亚基站和康宁光纤"
+      "存储器是AI革命的核心环节，海力士是王者",
+      "康宁在玻璃基板和光纤领域具有垄断优势，将是下一代AI芯片的关键",
+      "AI发展仍处在早期，泡沫不会很快破裂，需要等到AGI实现",
+      "台积电和日月光等封装厂将持续受益于AI芯片需求",
+      "大厂持续巨额投入AI算力和存储，赢家通吃"
     ],
-    "recent_shift": "近期从集中押注海力士转向多元配置，新增康宁和日月光，同时仍坚定看多存储长期逻辑",
+    "recent_shift": "早期（2025年）主要关注美光和存储周期，后期（2026年中）重新聚焦海力士，认为其即将美股ADR上线将迎来重估，并逐步增加康宁和日月光仓位，认为它们将在下一代AI硬件中占据核心位置。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "康宁把光互连直接做到自己精通领域的玻璃板里面了，之前其他企业的光互连方案还在abf板上努力，但下一代芯片基板已经变了，降维打击。",
-      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
+      "存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。历史上前所未有没比存储这波更稳的生意了。",
+      "康宁在光纤和玻璃基板都有垄断优势，简直是下一代AI算力的底座",
+      "真正的瓶颈在于芯片制造能力，目前美光的产能还远不及芯片实际需求。"
     ],
-    "generated_at": "2026-06-26T22:42:27.121387+00:00"
+    "generated_at": "2026-06-27T06:07:52.824314+00:00"
   }
 }
