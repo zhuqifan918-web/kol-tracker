@@ -28,23 +28,24 @@
       "AAPL",
       "MSFT",
       "MU",
-      "SPCX",
-      "PLTR"
+      "AMZN",
+      "QCOM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治不确定性",
-      "通胀与货币政策",
-      "科技行业监管",
-      "消费疲软"
+      "通胀与利率担忧",
+      "消费疲软与信贷压力",
+      "地缘政治风险与市场波动",
+      "科技股分化与AI竞争",
+      "能源与商品价格震荡"
     ],
-    "recent_shift": "近期从原先的乐观情绪转向关注通胀回升、地缘冲突以及消费者信心下降，对市场前景更为谨慎。",
+    "recent_shift": "近期从关注科技股创新转向更多讨论消费降级、地缘冲突和美联储政策的不确定性，市场情绪趋于谨慎。",
     "representative_quotes": [
-      "The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets",
-      "More economists are forecasting Fed rate hikes than cuts for the first time since 2023",
-      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter"
+      "Americans are falling behind on their $1.25 trillion credit-card debt per WSJ",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
+      "Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody’s"
     ],
-    "generated_at": "2026-06-27T17:59:22.532062+00:00"
+    "generated_at": "2026-06-27T21:55:01.327644+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

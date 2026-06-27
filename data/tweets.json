@@ -22,6 +22,25 @@
     }
   },
   {
+    "tweet_id": "2070945508676309492",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Americans are falling behind on their $1.25 trillion credit-card debt\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2070945508676309492",
+    "published_at": "2026-06-27T19:01:00+00:00",
+    "fetched_at": "2026-06-27T21:54:46.688463+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出美国信用卡债务达到1.25万亿美元，且还款逾期增多，这可能对消费、银行和更广泛的经济产生负面影响，从而构成看空信号。",
+      "translation": "据《华尔街日报》，美国人在其1.25万亿美元的信用卡债务还款上落后了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070919012125704668",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
