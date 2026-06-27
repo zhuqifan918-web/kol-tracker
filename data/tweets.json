@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2070885111172882830",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "38% of Americans now live within five miles of a data center, per PEW",
+    "tweet_url": "https://x.com/unusual_whales/status/2070885111172882830",
+    "published_at": "2026-06-27T15:01:00+00:00",
+    "fetched_at": "2026-06-27T15:46:36.714409+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出38%的美国人现在居住在数据中心五英里范围内，凸显数据中心基础设施的广泛扩展，可能对云计算、数据中心房地产和科技行业有间接利好，但未明确指向具体投资标的。",
+      "translation": "根据皮尤研究中心数据，38%的美国人现在居住在数据中心五英里范围内。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070870011456217430",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
