@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2070919012125704668",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070919012125704668",
+    "published_at": "2026-06-27T17:15:42+00:00",
+    "fetched_at": "2026-06-27T17:59:03.887007+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息显示五角大楼有意在股市收盘后宣布对伊朗的打击，以避免市场即时波动，暗示此次事件可能带来短期市场不确定性，但影响可控。投资者需关注后续地缘政治风险对市场情绪的影响。",
+      "translation": "突发：据NBC新闻报道，五角大楼据称推迟宣布美国对伊朗的打击，直到周五美国东部时间下午4点股市收盘后，其目的是尽量减少对金融市场的即时影响。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070915309716783433",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Data center construction spending in the US surpasses spending on airports, ports, and mass transit combined, per Yahoo Finance.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070915309716783433",
+    "published_at": "2026-06-27T17:01:00+00:00",
+    "fetched_at": "2026-06-27T17:59:05.709564+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出美国数据中心建设支出已超过机场、港口和公共交通的总和，表明科技基础设施投资强劲，对相关行业如芯片、云计算和房地产投资信托基金（REITs）可能有积极影响。",
+      "translation": "根据雅虎财经，美国数据中心建设支出已超过机场、港口和公共交通的总和。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070900211161911364",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JD Vance: \"The president doesn't sit at the Oval Office on his computer, on his like Robinhood account, buying and selling stocks. That's absurd...He's not making these stock trades himself.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2070900211161911364",
+    "published_at": "2026-06-27T16:01:00+00:00",
+    "fetched_at": "2026-06-27T17:59:06.908651+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": null,
+      "translation": null,
+      "confidence": null
+    }
+  },
+  {
     "tweet_id": "2070885111172882830",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
