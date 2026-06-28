@@ -1,5 +1,73 @@
 [
   {
+    "tweet_id": "2071164721299112316",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Yup, Schaeffler $SHA0 is the ideal example for automotive players.\n\n~ €7.47B MC auto player.\n- but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher)\n- covers bearings, gearboxes, sensors/ECUs, actuators, power electronics.\n-ests. They can be roughly 50% BOM of a humanoid \n- targeting 10% market share of that.\n\nBut only projecting a few hundred million revenue by 2030 (extremely sandbagged) if we’re using Elon’s projections for the market.\n\nThen’s theres auto players like Nabtesco (6268) for joints. And then Sanhua in China for $TSLA Optimus.\n\nMany of them are trade at lower valuations from drag from auto.\n\nBut humanoids + AI Auto (TSM chairman cited this as a growth vector) should be a good catalyst past 2027 for automotive players. \n\nIMO there just needs to be a ChatGPT/Anthropic breakout downstream leader first for humanoids.\n\nThat brings up the entire ecosystem that has robotics exposure. \n\nBut as of now it’s probably like 1% of many of their overall revenue figures, and markets are focusing on immediate upside from bottlenecks like memory or MLCC.\n\nI’m sure we’ll see some random Toto-HBM type surprise as different humanoid architecture evolve.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+    "published_at": "2026-06-28T09:32:04+00:00",
+    "fetched_at": "2026-06-28T09:53:15.784203+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SHA0",
+        "6268",
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好舍弗勒等汽车零部件企业在人形机器人领域的潜力，认为其估值受汽车业务拖累，但人形机器人业务将带来催化，建议关注相关生态链。",
+      "translation": "是的，舍弗勒（$SHA0）是汽车行业参与者的理想范例。市值约74.7亿欧元的汽车零部件企业——但同时与45家人形机器人公司合作（数量极其惊人，他们还有51.4亿欧元的债务，企业价值更高），产品涵盖轴承、齿轮箱、传感器/ECU、执行器、电力电子。估计他们的产品能占人形机器人物料清单的约50%，目标夺取其中10%的市场份额。但2030年的收入预测只有几亿欧元（如果按埃隆·马斯克对市场的预测，这极度保守）。还有像纳博特斯克（6268）这样的关节供应商，以及中国的三花智控（为$TSLA Optimus供货）。其中许多公司因汽车业务拖累而估值较低。但人形机器人和AI汽车（台积电董事长将其列为增长方向）应能在2027年后为汽车行业参与者带来良好催化。我认为人形机器人领域首先需要一个像ChatGPT/Anthropic那样的突破性下游领导者。这将带动整个拥有机器人相关业务的生态系统。不过目前这大概只占它们整体收入的1%，市场正聚焦于内存或MLCC等瓶颈环节的短期增长。我确信随着不同人形机器人架构的发展，将会出现类似Toto-HBM那样的意外惊喜。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071153131166314689",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "存储的地位一年内都难以改变，\n安心等海力士7月23号发的1300亿美金的季度利润财报。\n美光难料，但 #海力士 绝对没问题。\n这些大公司云厂的借债和融资都是为了给存储送钱。要么生要么死，没有存储产品和服务就没法提供，这俩年产能就这么多。\n即使是国内长鑫长江一样是满产。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071153131166314689",
+    "published_at": "2026-06-28T08:46:01+00:00",
+    "fetched_at": "2026-06-28T09:53:37.675563+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士",
+        "美光"
+      ],
+      "direction": "bullish",
+      "summary": "作者看好存储行业未来发展，认为海力士绝对没问题，产能紧张支撑利润。",
+      "translation": "存储的地位一年内都难以改变，安心等海力士7月23号发的1300亿美金的季度利润财报。美光难料，但海力士绝对没问题。这些大公司云厂的借债和融资都是为了给存储送钱。要么生要么死，没有存储产品和服务就没法提供，这俩年产能就这么多。即使是国内长鑫长江一样是满产。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071135874100990438",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March...\n\nAnd why Gemini got super nerfed. \n\n$GOOGL reportedly restricted Meta's capacity in March 2026 because of compute restraints. \n\nGoogle's CEO said from last earnings computing power restrictions prevented Google Cloud from taking on more customer needs and made the department's backlog nearly double the previous quarter.\n\nThis is probably positive for the AI DC capex buildout since hyperscalers capacity is way below what is needed, and especially so if they can't rely on one another.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071135874100990438",
+    "published_at": "2026-06-28T07:37:26+00:00",
+    "fetched_at": "2026-06-28T09:53:23.449745+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "NBIS",
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出超大规模云提供商（如谷歌）面临计算能力限制，导致其无法满足客户需求，且Meta因计算资源受限被限制容量。这凸显了AI数据中心基础设施的严重不足，对AI数据中心建设及相关投资（如Nebius Group等新云服务商）构成利好。",
+      "translation": "我们终于找到了Meta在3月份与Nebius Group等新云服务商签署大规模协议的原因……以及为什么Gemini被严重削弱。据报道，Google在2026年3月因计算资源限制限制了Meta的容量。谷歌CEO在上次财报中表示，计算能力限制使Google Cloud无法承接更多客户需求，导致该部门积压订单环比几乎翻倍。这对AI数据中心资本支出建设可能是个利好，因为超大规模云提供商的容量远低于需求，尤其是当它们无法相互依赖时。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071110343636779062",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
