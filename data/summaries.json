@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "MSFT",
-      "MU",
-      "AMZN",
-      "QCOM"
+      "$AAPL",
+      "$MSFT",
+      "$SPCX",
+      "$MU",
+      "$BABA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "通胀与利率担忧",
-      "消费疲软与信贷压力",
-      "地缘政治风险与市场波动",
-      "科技股分化与AI竞争",
-      "能源与商品价格震荡"
+      "地缘政治风险升高",
+      "通胀压力与美联储加息预期",
+      "科技巨头股价波动与监管",
+      "散户杠杆降低与市场情绪转冷",
+      "贵金属与避险资产关注"
     ],
-    "recent_shift": "近期从关注科技股创新转向更多讨论消费降级、地缘冲突和美联储政策的不确定性，市场情绪趋于谨慎。",
+    "recent_shift": "近期从关注特朗普行情转向强调伊朗冲突、通胀上升及美联储不降息，市场观点更趋谨慎。",
     "representative_quotes": [
-      "Americans are falling behind on their $1.25 trillion credit-card debt per WSJ",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
-      "Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody’s"
+      "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
+      "U.S. inflation climbed to 4.1% in May, per Bloomberg.",
+      "JPMorgan has said retail investors are reducing leverage in options and margin accounts after reaching record highs."
     ],
-    "generated_at": "2026-06-27T21:55:01.327644+00:00"
+    "generated_at": "2026-06-28T02:34:19.231204+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

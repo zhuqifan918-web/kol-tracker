@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2071036105743626296",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "J.P. Morgan estimates approximately $4.3 billion could flow into SPCX as index-tracking funds adjust their portfolios.\n\nRead more: https://t.co/UI9wh8jVxe",
+    "tweet_url": "https://x.com/unusual_whales/status/2071036105743626296",
+    "published_at": "2026-06-28T01:01:00+00:00",
+    "fetched_at": "2026-06-28T02:34:05.205752+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "摩根大通估计，约43亿美元资金将因指数跟踪基金调整投资组合而流入SPCX，这预示着SPCX可能迎来上涨。",
+      "translation": "摩根大通估计，随着指数跟踪基金调整其投资组合，大约43亿美元可能流入SPCX。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2070948104535498983",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
