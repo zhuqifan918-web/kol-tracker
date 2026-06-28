@@ -27,21 +27,23 @@
       "$MSFT",
       "$MU",
       "$SPCX",
-      "$QCOM"
+      "$AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与市场影响",
-      "科技巨头财报与定价权",
-      "零售资金涌入半导体"
+      "地缘政治风险与市场波动",
+      "通胀与美联储政策不确定性",
+      "科技巨头面临监管与市场压力",
+      "零售投资者情绪与杠杆变化",
+      "能源与半导体行业投资潮"
     ],
-    "recent_shift": "近期偏向关注地缘政治紧张局势和美联储政策转向的不确定性，而更早之前更侧重科技股财报和资金流入。",
+    "recent_shift": "近期从关注地缘冲突和通胀影响转向对科技股风险警示和美联储加息预期的加强。",
     "representative_quotes": [
-      "JUST IN: AOC says Congress should break up Apple, $AAPL, amid looming price hikes for MacBooks and iPhones",
       "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
-      "Retail investors poured a record nearly $12 billion into U.S. semiconductor ETFs over the past month, per Bloomberg."
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
+      "Michael Burry says he is no longer short Palantir, $PLTR, having covered his position."
     ],
-    "generated_at": "2026-06-28T20:40:35.255324+00:00"
+    "generated_at": "2026-06-28T22:55:08.720263+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
