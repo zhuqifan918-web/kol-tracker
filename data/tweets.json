@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2071307896605073568",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Samsung Group is expected to unveil a $646 billion, 10 year spending plan at a South Korean government event on June 29, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071307896605073568",
+    "published_at": "2026-06-28T19:01:00+00:00",
+    "fetched_at": "2026-06-28T19:19:58.184203+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMSN"
+      ],
+      "direction": "bullish",
+      "summary": "三星集团计划在未来10年内投入6460亿美元，表明其对长期增长的信心，可能推动股价上涨。",
+      "translation": "据彭博社报道，三星集团预计将在6月29日的韩国政府活动中公布一项6460亿美元、为期10年的支出计划。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071288747698864242",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -811,6 +832,25 @@
       "summary": "该推文是Unusual Whales在7月4日推出的促销活动，提供高达20%的折扣，推广其市场分析工具，间接暗示工具对投资有帮助。",
       "translation": "Unusual Whales正在举办7月4日促销活动。最高可享受20%的折扣。我们已经创建了工具来帮助您导航这个市场。在此加入：https://t.co/bsTCire8zT https://t.co/SP7rAT84Bp",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2070611437488419103",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The US is striking Iranian targets right now, according to Fox News",
+    "tweet_url": "https://x.com/unusual_whales/status/2070611437488419103",
+    "published_at": "2026-06-26T20:53:31+00:00",
+    "fetched_at": "2026-06-28T19:20:11.997554+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国对伊朗目标的打击可能引发地缘政治风险，影响石油、黄金等大宗商品价格，但缺乏具体投资标的或市场分析。",
+      "translation": "突发：据福克斯新闻，美国正在打击伊朗目标。",
+      "confidence": "low"
     }
   },
   {
