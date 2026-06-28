@@ -23,50 +23,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "MSFT",
-      "MU",
-      "SPCX",
-      "QCOM"
+      "$AAPL",
+      "$MSFT",
+      "$MU",
+      "$SPCX",
+      "$QCOM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "通货膨胀与利率不确定性",
-      "地缘政治风险（伊朗、霍尔木兹海峡）",
-      "科技与人工智能投资扩张",
-      "消费者支出疲软与就业市场压力",
-      "市场监管与政策干预"
+      "地缘政治风险与市场影响",
+      "科技巨头财报与定价权",
+      "零售资金涌入半导体"
     ],
-    "recent_shift": "前期偏乐观的科技股和通胀预期转为关注滞胀风险和地缘冲突影响",
+    "recent_shift": "近期偏向关注地缘政治紧张局势和美联储政策转向的不确定性，而更早之前更侧重科技股财报和资金流入。",
     "representative_quotes": [
       "JUST IN: AOC says Congress should break up Apple, $AAPL, amid looming price hikes for MacBooks and iPhones",
       "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
-      "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East."
+      "Retail investors poured a record nearly $12 billion into U.S. semiconductor ETFs over the past month, per Bloomberg."
     ],
-    "generated_at": "2026-06-28T19:20:28.575223+00:00"
+    "generated_at": "2026-06-28T20:40:35.255324+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK HYNIX",
-      "MU",
+      "SK Hynix",
       "GLW",
-      "NVDA",
-      "ASX"
+      "MU",
+      "ASX",
+      "SPCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求旺盛，供不应求，价格持续上涨",
-      "AI基建早期，大厂疯狂投资，存储是AI的瓶颈",
-      "康宁玻璃基板与光纤作为下一代AI基础设施",
-      "市场波动但坚定持有核心存储股，海力士尤其看好",
-      "避免杠杆和短线交易，长线持有垄断标的"
+      "AI基建供不应求，存储为核心抽水机",
+      "康宁玻璃基板与光纤为下一代AI底座",
+      "垄断性护城河和长期持有策略",
+      "杠杆风险警示与低杠杆正股持有转变",
+      "马斯克太空计算与边缘计算生态"
     ],
-    "recent_shift": "最近更注重风险控制，反思杠杆交易教训，增加对康宁和日月光等新标的的配置，但仍以存储为核心。",
+    "recent_shift": "从早期重仓杠杆ETF（2x海力士）转向配置正股及康宁、日月光等硬件替代标的，并强调不再使用超出本金的杠杆。",
     "representative_quotes": [
-      "存储的地位一年内都难以改变，安心等海力士7月23号发的1300亿美金的季度利润财报。",
-      "现在的存储不仅赚走了AI绝大部分的利润，还赚走了所有科技电子产品的利润。",
-      "拿住海力士就够了，做得多错的多，时间会给你一切。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "康宁简直下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
+      "最重要的错误，融资上杠杆。差点在3月份爆仓死掉，2x海力士和ewy都暴跌差点没熬过去。以后再不去买超过自己本金的资产，顶多在自己本金范围内购买2x扩大上升周期的收益。"
     ],
-    "generated_at": "2026-06-28T11:43:03.331381+00:00"
+    "generated_at": "2026-06-28T20:40:39.750908+00:00"
   }
 }
