@@ -194,6 +194,25 @@
     }
   },
   {
+    "tweet_id": "2070975707803509103",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The top 10% of US earners account for nearly half of all consumer spending, per FT: https://t.co/DYHaiO4cIv",
+    "tweet_url": "https://x.com/unusual_whales/status/2070975707803509103",
+    "published_at": "2026-06-27T21:01:00+00:00",
+    "fetched_at": "2026-06-28T13:17:32.329915+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美国收入最高的10%人群贡献了近一半的消费支出，暗示消费集中度较高，对消费类股票可能构成结构性利好，但需进一步分析细分行业和具体公司的影响。",
+      "translation": "美国收入最高的10%人群占据了几乎一半的消费支出，据《金融时报》报道：https://t.co/DYHaiO4cIv",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2070948104535498983",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
