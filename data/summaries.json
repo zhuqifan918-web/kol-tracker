@@ -23,26 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$MSFT",
-      "$MU",
-      "$PLTR",
-      "$QCOM"
+      "AAPL",
+      "MSFT",
+      "SPCX",
+      "MU",
+      "PLTR"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧",
-      "通胀与利率不确定性",
-      "科技行业分化与调整",
-      "消费者支出疲软"
+      "通胀与利率担忧",
+      "地缘政治风险（伊朗、中东）",
+      "消费疲软与居民债务",
+      "科技股和AI监管",
+      "市场资金流向与杠杆减少"
     ],
-    "recent_shift": "近期观点从早期对市场乐观转向强调伊朗冲突、通胀升温及消费者压力等风险",
+    "recent_shift": "近期情绪从观望转向更明确的看空，尤其是对通胀和地缘冲突的担忧加剧，掩盖了此前对部分科技股的乐观。",
     "representative_quotes": [
-      "The top 10% of US earners account for nearly half of all consumer spending",
-      "Americans are falling behind on their $1.25 trillion credit-card debt",
-      "J.P. Morgan estimates approximately $4.3 billion could flow into SPCX as index-tracking funds adjust their portfolios"
+      "The market is almost always wrong about what the Fed will do, per Apollo",
+      "Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody’s",
+      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz."
     ],
-    "generated_at": "2026-06-28T16:41:19.996442+00:00"
+    "generated_at": "2026-06-28T17:59:30.992002+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
