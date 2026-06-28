@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$MSFT",
-      "$SPCX",
-      "$MU",
-      "$BABA"
+      "AAPL",
+      "MSFT",
+      "MU",
+      "SPCX",
+      "QCOM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险升高",
-      "通胀压力与美联储加息预期",
-      "科技巨头股价波动与监管",
-      "散户杠杆降低与市场情绪转冷",
-      "贵金属与避险资产关注"
+      "地缘政治风险加剧",
+      "通胀与利率冲击",
+      "企业盈利分化",
+      "消费者支出疲软",
+      "科技股波动"
     ],
-    "recent_shift": "近期从关注特朗普行情转向强调伊朗冲突、通胀上升及美联储不降息，市场观点更趋谨慎。",
+    "recent_shift": "近期观点明显转空，从关注科技股增长转向强调通胀、地缘冲突和消费者债务问题",
     "representative_quotes": [
-      "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
-      "U.S. inflation climbed to 4.1% in May, per Bloomberg.",
-      "JPMorgan has said retail investors are reducing leverage in options and margin accounts after reaching record highs."
+      "J.P. Morgan estimates approximately $4.3 billion could flow into SPCX as index-tracking funds adjust their portfolios.",
+      "The top 10% of US earners account for nearly half of all consumer spending, per FT",
+      "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News."
     ],
-    "generated_at": "2026-06-28T02:34:19.231204+00:00"
+    "generated_at": "2026-06-28T13:17:41.332340+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
