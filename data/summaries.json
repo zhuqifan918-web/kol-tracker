@@ -23,27 +23,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "MSFT",
-      "MU",
-      "SPCX",
-      "QCOM"
+      "$AAPL",
+      "$MSFT",
+      "$MU",
+      "$PLTR",
+      "$QCOM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
       "地缘政治风险加剧",
-      "通胀与利率冲击",
-      "企业盈利分化",
-      "消费者支出疲软",
-      "科技股波动"
+      "通胀与利率不确定性",
+      "科技行业分化与调整",
+      "消费者支出疲软"
     ],
-    "recent_shift": "近期观点明显转空，从关注科技股增长转向强调通胀、地缘冲突和消费者债务问题",
+    "recent_shift": "近期观点从早期对市场乐观转向强调伊朗冲突、通胀升温及消费者压力等风险",
     "representative_quotes": [
-      "J.P. Morgan estimates approximately $4.3 billion could flow into SPCX as index-tracking funds adjust their portfolios.",
-      "The top 10% of US earners account for nearly half of all consumer spending, per FT",
-      "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News."
+      "The top 10% of US earners account for nearly half of all consumer spending",
+      "Americans are falling behind on their $1.25 trillion credit-card debt",
+      "J.P. Morgan estimates approximately $4.3 billion could flow into SPCX as index-tracking funds adjust their portfolios"
     ],
-    "generated_at": "2026-06-28T13:17:41.332340+00:00"
+    "generated_at": "2026-06-28T16:41:19.996442+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

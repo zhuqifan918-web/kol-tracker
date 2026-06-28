@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2071262598448726116",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Oman has reportedly told European allies that ships transiting the Strait of Hormuz could face new navigation or environmental service fees, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2071262598448726116",
+    "published_at": "2026-06-28T16:01:00+00:00",
+    "fetched_at": "2026-06-28T16:40:52.828920+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "阿曼计划对通过霍尔木兹海峡的船只征收新费用，可能影响全球航运成本和石油运输，对能源类资产产生中性影响，需关注后续执行细节。",
+      "translation": "据路透社报道，阿曼已告知欧洲盟友，通过霍尔木兹海峡的船只可能面临新的航行或环境服务费。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071247498845528555",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nearly 60% of S&amp;P 500 stocks now carry a Buy rating from Wall Street analysts, the highest level on record, per Charlie Bilello",
+    "tweet_url": "https://x.com/unusual_whales/status/2071247498845528555",
+    "published_at": "2026-06-28T15:01:00+00:00",
+    "fetched_at": "2026-06-28T16:40:55.621730+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "华尔街分析师对近60%的标普500股票给予买入评级，创历史新高，表明市场情绪极度乐观，可能预示后续上涨空间有限或存在回调风险。",
+      "translation": "近60%的标普500股票目前获得华尔街分析师的买入评级，创历史最高纪录，数据来自Charlie Bilello。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071177551670907386",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
