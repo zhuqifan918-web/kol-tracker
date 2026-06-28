@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2071177551670907386",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "群联ceo在年初就预言下半年因为涨价或拿不到存储的消费电子公司会倒闭，比如那个运动相机鼻祖gopro已经因此倒闭了。\n一切都在逐步印证他的想法。 https://t.co/uZZkWwOXUk",
+    "tweet_url": "https://x.com/xiaomustock/status/2071177551670907386",
+    "published_at": "2026-06-28T10:23:03+00:00",
+    "fetched_at": "2026-06-28T11:42:23.794272+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "群联CEO预言下半年因存储涨价或缺货将导致消费电子公司倒闭，并以GoPro为例印证观点，暗示存储行业景气周期对下游企业的负面影响。",
+      "translation": "群联CEO在年初就预言下半年因为涨价或拿不到存储的消费电子公司会倒闭，比如那个运动相机鼻祖GoPro已经因此倒闭了。一切都在逐步印证他的想法。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071176129298534424",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "谷歌限制了meta对gemini模型的使用需求。\n这还不能证明AI基建还非常早期吗，\n供不应求，AI的发展速度远超基建速度。\n这些大公司是看到了产品狂暴的需求端可能才大举借债融资搞AI基建。\n并非是没有转化成收入，\n对谷歌来说都开始因为需求暴限制客户使用了，\n咋可能没转化收入。\n我们这些普通人都是小虾米，可能远远看不清未来的真相，\n但自己看不见可以相信黄仁勋看得见，谷歌看得见，美光ceo看得见，三星海力士老板看得见，群联的那个ceo潘健成也非常非常有眼光和远见，我从去年到今年一直看他的存储相关的言论，他的思维和眼光特别超前。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071176129298534424",
+    "published_at": "2026-06-28T10:17:24+00:00",
+    "fetched_at": "2026-06-28T11:42:26.881658+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文认为AI基建仍处于早期，需求远超供给，科技巨头如谷歌已开始限制客户使用，表明AI收入转化良好。作者看好AI相关公司如英伟达、谷歌、美光、三星、海力士、群联等的投资机会。",
+      "translation": "谷歌限制了meta对gemini模型的使用需求。这还不能证明AI基建还非常早期吗，供不应求，AI的发展速度远超基建速度。这些大公司是看到了产品狂暴的需求端可能才大举借债融资搞AI基建。并非是没有转化成收入，对谷歌来说都开始因为需求暴限制客户使用了，咋可能没转化收入。我们这些普通人都是小虾米，可能远远看不清未来的真相，但自己看不见可以相信黄仁勋看得见，谷歌看得见，美光ceo看得见，三星海力士老板看得见，群联的那个ceo潘健成也非常非常有眼光和远见，我从去年到今年一直看他的存储相关的言论，他的思维和眼光特别超前。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071164721299112316",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
