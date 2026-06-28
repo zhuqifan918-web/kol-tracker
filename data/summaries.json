@@ -25,25 +25,25 @@
     "focus_tickers": [
       "AAPL",
       "MSFT",
-      "SPCX",
       "MU",
-      "PLTR"
+      "SPCX",
+      "QCOM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "通胀与利率担忧",
-      "地缘政治风险（伊朗、中东）",
-      "消费疲软与居民债务",
-      "科技股和AI监管",
-      "市场资金流向与杠杆减少"
+      "通货膨胀与利率不确定性",
+      "地缘政治风险（伊朗、霍尔木兹海峡）",
+      "科技与人工智能投资扩张",
+      "消费者支出疲软与就业市场压力",
+      "市场监管与政策干预"
     ],
-    "recent_shift": "近期情绪从观望转向更明确的看空，尤其是对通胀和地缘冲突的担忧加剧，掩盖了此前对部分科技股的乐观。",
+    "recent_shift": "前期偏乐观的科技股和通胀预期转为关注滞胀风险和地缘冲突影响",
     "representative_quotes": [
-      "The market is almost always wrong about what the Fed will do, per Apollo",
-      "Iran war has cost U.S. families $100 billion between increased military funding and higher oil prices, per Moody’s",
-      "Only 25% of Americans believe it's a good time to invest, down from 34% in the prior quarter, per Allianz."
+      "JUST IN: AOC says Congress should break up Apple, $AAPL, amid looming price hikes for MacBooks and iPhones",
+      "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
+      "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East."
     ],
-    "generated_at": "2026-06-28T17:59:30.992002+00:00"
+    "generated_at": "2026-06-28T19:20:28.575223+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
