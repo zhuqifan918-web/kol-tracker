@@ -25,50 +25,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
       "AAPL",
       "MSFT",
-      "SPCX",
-      "PLTR"
+      "MU",
+      "GME",
+      "SPCX"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "通胀高企与利率预期转变",
-      "地缘政治风险（伊朗/霍尔木兹海峡）",
-      "消费者债务恶化与住房市场降温",
+      "地缘政治风险加剧",
+      "通胀高企与联储鹰派",
+      "消费者债务恶化与支出放缓",
       "科技巨头面临监管与成本压力",
-      "AI与数据中心投资热潮"
+      "半导体与AI投资热潮持续"
     ],
-    "recent_shift": "近期观点从早期对股市的部分乐观（如Micron盈利强劲）转向更关注通胀顽固、美联储可能加息、消费者债务违约率跳升以及地缘冲突加剧市场不确定性。",
+    "recent_shift": "从较早的乐观情绪转向对地缘冲突、通胀和消费者压力的更多关注。",
     "representative_quotes": [
       "Fed \"cannot cut interest rates in the current context,\" per Moody's Mark Zandi.",
       "Percentage of balances 90+ days delinquent, by loan type, per WSJ: https://t.co/qxERYMgmyy",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
+      "Trump: Oil and gas prices keep falling."
     ],
-    "generated_at": "2026-06-29T14:33:09.053797+00:00"
+    "generated_at": "2026-06-29T17:28:38.691514+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK Hynix",
-      "GLW",
-      "ASX",
-      "MU",
-      "NVDA"
+      "$GLW",
+      "$SK Hynix",
+      "$MU",
+      "$ASX",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心瓶颈",
-      "AI基建远超需求，产能持续紧缺",
-      "高端硬件（玻璃基板、光纤、HBM）产业链机会",
-      "避免杠杆和分散持仓，长期持有确定性标的",
-      "关注海力士ADR、康宁扩产等催化事件"
+      "存储芯片是AI革命的核心，供需极度紧张",
+      "康宁玻璃基板将因英伟达需求而爆发",
+      "AI基础设施尚处于早期，长期增长确定",
+      "杠杆交易风险极高，需谨慎控制仓位"
     ],
-    "recent_shift": "近期更强调存储芯片的长期紧缺和康宁、日月光的补充机会，降低对短期波动的担忧，并提及海力士ADR等具体催化剂。",
+    "recent_shift": "近期重点关注从海力士转向康宁，认为康宁因英伟达10倍扩产将带来业绩10倍增长，而海力士虽仍是核心持仓但涨幅有限。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
-      "这波太菜了，2x海力士踏空了，正股没踏空...但如果自己选股眼光不行，就上行业指数比如$DRAM或者$SMH这种",
-      "现在手里就3个股票 #海力士 $GLW $ASX 别的没了"
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。",
+      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
+      "如果没有发生百亿美金规模级的利润前人们还很难确定，我也是。只是从黄仁勋让康宁扩产10倍，那么肯定对应着未来英伟达十倍以上的需求。"
     ],
-    "generated_at": "2026-06-29T14:33:05.598564+00:00"
+    "generated_at": "2026-06-29T17:28:42.129111+00:00"
   }
 }
