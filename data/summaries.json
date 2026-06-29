@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "MSFT",
-      "GME",
-      "MU",
-      "SPCX"
+      "$AAPL",
+      "$MSFT",
+      "$F",
+      "$META",
+      "$GME"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "避险情绪升温",
-      "AI数据中心投资",
-      "中东局势动荡"
+      "地缘政治风险升温",
+      "AI技术应用与监管博弈",
+      "消费者债务与住房市场降温",
+      "美联储政策不确定性",
+      "大宗商品与能源价格波动"
     ],
-    "recent_shift": "最近观点从对科技股乐观转向关注地缘政治风险和消费疲软",
+    "recent_shift": "近期更加强调地缘冲突对市场的即时影响，并关注能源价格下跌与消费者财务压力",
     "representative_quotes": [
       "Ford, $F, has rehired human engineers after AI fails to match quality checks",
-      "Trump: Oil and gas prices keep falling.",
-      "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East."
+      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi.",
+      "Michael Burry bought Microsoft, $MSFT, 2028 LEAPS with strikes in the low seven hundreds, per YF."
     ],
-    "generated_at": "2026-06-29T21:04:57.600384+00:00"
+    "generated_at": "2026-06-29T22:35:08.080737+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

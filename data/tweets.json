@@ -42,6 +42,27 @@
     }
   },
   {
+    "tweet_id": "2071672855280964054",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Claude’s Anthropic to be used in California’s state and local government agencies",
+    "tweet_url": "https://x.com/unusual_whales/status/2071672855280964054",
+    "published_at": "2026-06-29T19:11:13+00:00",
+    "fetched_at": "2026-06-29T22:34:52.871556+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ANTH"
+      ],
+      "direction": "bullish",
+      "summary": "Anthropic被加州政府采用，利好其估值及未来上市或融资前景，可能间接影响相关投资工具。",
+      "translation": "克劳德的Anthropic将被加州州及地方政府机构使用。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2071666458598273337",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -228,6 +249,25 @@
     }
   },
   {
+    "tweet_id": "2071613912827691505",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US and Iranian teams are expected to meet in Doha in the coming days to move their agreement forward, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2071613912827691505",
+    "published_at": "2026-06-29T15:17:00+00:00",
+    "fetched_at": "2026-06-29T22:34:59.265729+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美伊将在多哈会晤推进协议，地缘政治风险可能缓解，但尚未直接关联具体投资标的。",
+      "translation": "据路透社报道，美国和伊朗团队预计将在未来几天内在多哈会晤，以推进他们的协议。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2071609072424771784",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -246,6 +286,25 @@
       "summary": "用户表示虽然买入康宁（GLW）后没有盈利，但成功规避了市场暴跌，认为该股票表现异常坚挺，隐含看涨信号。",
       "translation": "买康宁这几天虽然没挣钱但刚好躲过暴跌，康宁 $GLW 硬的非常不正常。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071608544470659462",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2071608544470659462",
+    "published_at": "2026-06-29T14:55:40+00:00",
+    "fetched_at": "2026-06-29T22:35:01.588798+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息涉及美联储理事Lisa Cook的职位稳定性，可能影响美联储政策的连续性和独立性。虽未直接提及具体投资标的，但美联储人事变动对市场有间接影响，投资者需关注后续政策信号。",
+      "translation": "美国最高法院裁定，目前总统特朗普不能解雇美联储理事丽莎·库克，据CNBC报道。",
+      "confidence": "low"
     }
   },
   {
