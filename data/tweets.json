@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2071451593388544178",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump said numerous European countries have been discussing the imminent implementation of a digital services tax on American companies.\n\nRead more: https://t.co/BBS2i0EdZ6",
+    "tweet_url": "https://x.com/unusual_whales/status/2071451593388544178",
+    "published_at": "2026-06-29T04:32:00+00:00",
+    "fetched_at": "2026-06-29T05:08:36.302418+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普称多国即将对美国科技公司征收数字服务税，这可能加剧贸易摩擦，对在欧有业务的美国大型科技公司构成利空。投资者需关注相关公司的盈利风险和监管压力。",
+      "translation": "特朗普表示，多个欧洲国家一直在讨论即将对美国公司实施数字服务税。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071406043196743820",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The plan would see Europe’s largest automobile manufacturer shed roughly 15% of its workforce as it seeks to counter intensifying competition from Chinese car brands.\n\nRead more: https://t.co/6Mh3vA3q7g",
+    "tweet_url": "https://x.com/unusual_whales/status/2071406043196743820",
+    "published_at": "2026-06-29T01:31:00+00:00",
+    "fetched_at": "2026-06-29T05:08:44.106918+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该计划显示欧洲最大汽车制造商将裁员15%以应对中国品牌的竞争，可能对公司股价产生负面影响。",
+      "translation": "该计划将看到欧洲最大的汽车制造商裁减约15%的员工，以应对来自中国汽车品牌日益激烈的竞争。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071383645743710446",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We asked random people on the street for stock suggestions.\n\nThen we put in $1000 into their picks.\n\nDo you agree with their choices? https://t.co/u1YX4MzumN",
+    "tweet_url": "https://x.com/unusual_whales/status/2071383645743710446",
+    "published_at": "2026-06-29T00:02:00+00:00",
+    "fetched_at": "2026-06-29T05:08:47.270969+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文提到随机询问路人股票建议并投入1000美元，但未给出具体股票代码或投资方向，属于娱乐性内容而非严肃投资分析。",
+      "translation": "我们随机询问路人股票建议，然后按照他们的选择投入了1000美元。你同意他们的选择吗？",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2071358657112215885",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1037,6 +1094,25 @@
       "direction": "bullish",
       "summary": "该推文认为康宁将光互连技术集成到玻璃基板中，对ABF载板和CPO方案形成降维打击，预测三年后市值可达万亿美元，强烈看涨。",
       "translation": "跟AI聊了一会，对康宁 $GLW 的未来越来越有信心。相当于康宁未来的市值=现在abf载板市值+cohr/lite这些cpo市值总和。正儿八经三年后的万亿美元公司，康宁把光互连直接做到自己精通领域的玻璃板里面了，之前其他企业的光互连方案还在abf板上努力，但下一代芯片基板已经变了，降维打击。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2070561981329997994",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump: Any country that imposes a digital services tax will immediately be met with a 100% tariff on any and all goods sent to the United States.",
+    "tweet_url": "https://x.com/unusual_whales/status/2070561981329997994",
+    "published_at": "2026-06-26T17:37:00+00:00",
+    "fetched_at": "2026-06-29T05:08:34.268450+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普威胁对数字服务税国家征收100%关税，可能引发贸易紧张，对依赖全球供应链和数字服务的公司不利，增加市场不确定性。",
+      "translation": "突发：特朗普：任何征收数字服务税的国家，将立即面临其向美国运送的所有商品被征收100%的关税。",
       "confidence": "high"
     }
   },
