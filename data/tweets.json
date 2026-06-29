@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2071691883898605912",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ford, $F, has rehired human engineers after AI fails to match quality checks",
+    "tweet_url": "https://x.com/unusual_whales/status/2071691883898605912",
+    "published_at": "2026-06-29T20:26:49+00:00",
+    "fetched_at": "2026-06-29T21:04:38.368757+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "F"
+      ],
+      "direction": "neutral",
+      "summary": "福特汽车（$F）因AI未通过质量检验而重新雇佣人类工程师，这一事件可能暗示AI在汽车制造关键环节的局限性，但短期内对股价影响不确定，需关注人工成本增加对利润的影响。",
+      "translation": "福特汽车（$F）在AI未能达到质量检查标准后，重新雇佣了人类工程师。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071678057291624891",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, has introduced Brain2Qwerty v2, an AI system that translates brain activity into text using non-invasive brain recordings.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071678057291624891",
+    "published_at": "2026-06-29T19:31:53+00:00",
+    "fetched_at": "2026-06-29T21:04:41.349227+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "Meta发布脑机接口AI系统Brain2Qwerty v2，显示技术创新能力，可能对Meta长期发展有利，但短期影响有限。",
+      "translation": "Meta公司推出了Brain2Qwerty v2，这是一个利用非侵入式脑部记录将大脑活动转化为文本的人工智能系统。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2071666458598273337",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
