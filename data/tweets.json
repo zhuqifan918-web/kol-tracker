@@ -19,6 +19,25 @@
     }
   },
   {
+    "tweet_id": "2071346548970266997",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US and Iran agree to stop strikes and instead meet this week, per Axios.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071346548970266997",
+    "published_at": "2026-06-28T21:34:35+00:00",
+    "fetched_at": "2026-06-29T00:01:14.246933+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国和伊朗停止袭击并同意会晤，可能缓解中东地缘政治紧张局势，对原油价格产生潜在下行压力，但对具体投资标的无直接影响。",
+      "translation": "突发：据Axios报道，美国和伊朗同意停止袭击，并于本周进行会晤。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071322996136919308",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
