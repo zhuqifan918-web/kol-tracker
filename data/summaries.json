@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "POET",
-      "MU",
-      "TSM"
+      "$SIVE",
+      "$AAOI",
+      "$MU",
+      "$POET",
+      "$TSLA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与CW激光器瓶颈",
-      "人形机器人与物理AI",
-      "内存结构性需求增长",
-      "AI基础建设与超大规模云服务商资本支出",
-      "供应链瓶颈与上游设备垄断"
+      "人形机器人供应链",
+      "光子学/光互联瓶颈",
+      "AI数据中心资本开支",
+      "中国出口管制与自主替代",
+      "内存结构性需求"
     ],
-    "recent_shift": "近期观点无显著转变，持续看好光子学与AI基础设施上游，强调激光器瓶颈的长期价值，同时提醒短期波动和仓位管理。",
+    "recent_shift": "从前期集中讨论光子学瓶颈，近期更多关注人形机器人商业化进展和美股回调机会。",
     "representative_quotes": [
-      "Photonic theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
-      "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
-      "Kinda all that needs to be said with those insane revenue projections as long as management doesn't BS."
+      "Honestly this decade from 2020-2030 might be the most goated in human history. - Scaling massive reusable rockets... on the cusp of ASI and recursive learning... Backflipping Boston Dynamics and Unitree humanoids...",
+      "Robotics is next. Both deal count and investment amounts are skyrocketing... the same AI DC exposure often has cross-exposure to humanoid ramp.",
+      "I'm actually more bullish than ever as prices go down. $SIVE at ~$1.9B MC you have: $GFS reference laser, laser for Ayar and others in $NVDA NVLink ecosystem for CPO scale up..."
     ],
-    "generated_at": "2026-06-29T19:21:29.502412+00:00"
+    "generated_at": "2026-06-29T23:54:52.892997+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$AAPL",
       "$MSFT",
-      "$F",
-      "$META",
-      "$GME"
+      "$SPCX",
+      "$SMCI",
+      "$F"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险升温",
-      "AI技术应用与监管博弈",
-      "消费者债务与住房市场降温",
-      "美联储政策不确定性",
-      "大宗商品与能源价格波动"
+      "地缘政治风险与能源价格波动",
+      "科技巨头创新与芯片出口管制",
+      "房地产与消费信贷疲软",
+      "央行政策与通胀博弈",
+      "零售投资者结构与杠杆变化"
     ],
-    "recent_shift": "近期更加强调地缘冲突对市场的即时影响，并关注能源价格下跌与消费者财务压力",
+    "recent_shift": "近几日地缘冲突缓和预期增强，但通胀和利率担忧依然压制市场情绪，多头仓位有所收敛。",
     "representative_quotes": [
-      "Ford, $F, has rehired human engineers after AI fails to match quality checks",
-      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi.",
-      "Michael Burry bought Microsoft, $MSFT, 2028 LEAPS with strikes in the low seven hundreds, per YF."
+      "The U.S. goods trade deficit widened to $105.8 billion in May, significantly above expectations of $85 billion.",
+      "Nearly 60% of S&P 500 stocks now carry a Buy rating from Wall Street analysts, the highest level on record.",
+      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi."
     ],
-    "generated_at": "2026-06-29T22:35:08.080737+00:00"
+    "generated_at": "2026-06-29T23:54:55.921189+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
