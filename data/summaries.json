@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$MSFT",
-      "$MU",
-      "$SPCX",
-      "$AMZN"
+      "AAPL",
+      "MSFT",
+      "MU",
+      "SPCX",
+      "AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与市场波动",
-      "通胀与美联储政策不确定性",
-      "科技巨头面临监管与市场压力",
-      "零售投资者情绪与杠杆变化",
-      "能源与半导体行业投资潮"
+      "地缘政治风险加剧",
+      "通货膨胀与利率难题",
+      "科技巨头面临挑战",
+      "消费者支出疲软",
+      "市场泡沫担忧"
     ],
-    "recent_shift": "近期从关注地缘冲突和通胀影响转向对科技股风险警示和美联储加息预期的加强。",
+    "recent_shift": "近期从关注科技股结构性机会转向强调军事冲突、通胀超预期和消费疲软等风险因素。",
     "representative_quotes": [
-      "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
-      "Michael Burry says he is no longer short Palantir, $PLTR, having covered his position."
+      "Breakfast: Futures are up after reports that the US and Iran agreeded to halt strikes currently.",
+      "Retail investors poured a record nearly $12 billion into U.S. semiconductor ETFs over the past month, per Bloomberg.",
+      "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East."
     ],
-    "generated_at": "2026-06-28T22:55:08.720263+00:00"
+    "generated_at": "2026-06-29T00:01:33.950033+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
