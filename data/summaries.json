@@ -25,25 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$MSFT",
-      "$GME",
-      "$SMCI",
-      "$MU"
+      "AAPL",
+      "MSFT",
+      "GME",
+      "MU",
+      "SPCX"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "关税与地缘政治风险",
-      "通胀与利率预期",
-      "经济放缓与消费疲软"
+      "避险情绪升温",
+      "AI数据中心投资",
+      "中东局势动荡"
     ],
-    "recent_shift": "近期从关注科技股上涨转向强调地缘冲突、通胀顽固和消费者债务恶化。",
+    "recent_shift": "最近观点从对科技股乐观转向关注地缘政治风险和消费疲软",
     "representative_quotes": [
-      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi.",
-      "Nearly 60% of S&P 500 stocks now carry a Buy rating from Wall Street analysts, the highest level on record, per Charlie Bilello",
-      "Trump: Oil and gas prices keep falling."
+      "Ford, $F, has rehired human engineers after AI fails to match quality checks",
+      "Trump: Oil and gas prices keep falling.",
+      "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East."
     ],
-    "generated_at": "2026-06-29T19:21:32.089052+00:00"
+    "generated_at": "2026-06-29T21:04:57.600384+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
