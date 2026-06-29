@@ -31,19 +31,18 @@
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧",
-      "通货膨胀与利率难题",
-      "科技巨头面临挑战",
-      "消费者支出疲软",
-      "市场泡沫担忧"
+      "关税与贸易摩擦",
+      "中东地缘政治风险",
+      "通胀与紧缩预期",
+      "科技巨头监管与业务调整"
     ],
-    "recent_shift": "近期从关注科技股结构性机会转向强调军事冲突、通胀超预期和消费疲软等风险因素。",
+    "recent_shift": "近期内容从关注市场机遇转向更多提及经济下行风险、通胀飙升及地缘冲突，整体情绪明显偏空。",
     "representative_quotes": [
-      "Breakfast: Futures are up after reports that the US and Iran agreeded to halt strikes currently.",
-      "Retail investors poured a record nearly $12 billion into U.S. semiconductor ETFs over the past month, per Bloomberg.",
-      "Mark Zandi, chief economist at Moody's Analytics, said the cost passed on to households is the result of increased military spending and higher prices as a result of oil supply disruption out of the Middle East."
+      "JUST IN: AOC says Congress should break up Apple, $AAPL, amid looming price hikes for MacBooks and iPhones",
+      "BREAKING: Trump: Any country that imposes a digital services tax will immediately be met with a 100% tariff on any and all goods sent to the United States.",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
     ],
-    "generated_at": "2026-06-29T00:01:33.950033+00:00"
+    "generated_at": "2026-06-29T05:08:57.464809+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
