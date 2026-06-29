@@ -1,70 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "MU",
-      "LPK",
-      "POET"
+      "$SIVE",
+      "$AAOI",
+      "$MU",
+      "$POET",
+      "$LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学与CPO产业链瓶颈",
-      "机器人/人形机器人投资机会",
-      "AI基础设施与记忆体超级周期",
-      "纳斯达克上市与价值重估"
+      "光子学/光学互联瓶颈与超级周期",
+      "人形机器人与物理AI",
+      "供应链关键环节垄断（激光器/MLCC/玻璃基板）",
+      "AI基础设施资本支出持续增长",
+      "宏观经济波动下的优质回调机会"
     ],
-    "recent_shift": "近期更多关注光学/CPO主题和机器人/人形机器人投资机会，并从宏观看淡转为更加乐观，认为市场回调是买入机会。",
+    "recent_shift": "近期尽管全球股市回调，仍坚定看好光学和机器人主题，认为回调是买入机会，并强调2027-2028年收入爬坡的确定性。",
     "representative_quotes": [
-      "This is industry validation for robotics, since it likely demonstrates increased opex margins + efficiency from employee automation.",
-      "GS Research's ~9-10x $154B optical TAM in 2028 and near $0 -> $91B CPO TAM in just 2 1/2 years. Don't just magically disappear from a month of trading volatility.",
-      "I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts."
+      "The ~$140M convertible note is real, but it's pennies to US institutions. We'll likely see more institutional ownership when data comes out.",
+      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028.",
+      "Photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now."
     ],
-    "generated_at": "2026-06-29T10:05:00.219001+00:00"
+    "generated_at": "2026-06-29T14:33:13.043900+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "MU",
       "AAPL",
       "MSFT",
-      "MU",
       "SPCX",
-      "AMZN"
+      "PLTR"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与制裁",
-      "通胀压力与美联储政策不确定性",
-      "科技行业分化：AI投资与消费电子疲软",
-      "住房市场降温与消费者支出放缓"
+      "通胀高企与利率预期转变",
+      "地缘政治风险（伊朗/霍尔木兹海峡）",
+      "消费者债务恶化与住房市场降温",
+      "科技巨头面临监管与成本压力",
+      "AI与数据中心投资热潮"
     ],
-    "recent_shift": "近期转向更关注地缘冲突对市场的影响，并强调通胀可能迫使美联储加息。",
+    "recent_shift": "近期观点从早期对股市的部分乐观（如Micron盈利强劲）转向更关注通胀顽固、美联储可能加息、消费者债务违约率跳升以及地缘冲突加剧市场不确定性。",
     "representative_quotes": [
-      "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
-      "Nearly 60% of S&P 500 stocks now carry a Buy rating from Wall Street analysts, the highest level on record, per Charlie Bilello"
+      "Fed \"cannot cut interest rates in the current context,\" per Moody's Mark Zandi.",
+      "Percentage of balances 90+ days delinquent, by loan type, per WSJ: https://t.co/qxERYMgmyy",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
     ],
-    "generated_at": "2026-06-29T10:04:56.750818+00:00"
+    "generated_at": "2026-06-29T14:33:09.053797+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "000660.KS",
+      "SK Hynix",
       "GLW",
       "ASX",
       "MU",
-      "LRCX"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心，海力士为主导",
-      "康宁玻璃基板与光互连是下一阶段AI算力底座",
-      "AI基建处于早期，需求远超供给"
+      "存储芯片是AI革命的核心瓶颈",
+      "AI基建远超需求，产能持续紧缺",
+      "高端硬件（玻璃基板、光纤、HBM）产业链机会",
+      "避免杠杆和分散持仓，长期持有确定性标的",
+      "关注海力士ADR、康宁扩产等催化事件"
     ],
-    "recent_shift": "从8月前的纯存储看多（如海力士、美光）逐步拓展到关注上游材料（康宁）和封测（日月光），但对存储的核心仓位保持不动。",
+    "recent_shift": "近期更强调存储芯片的长期紧缺和康宁、日月光的补充机会，降低对短期波动的担忧，并提及海力士ADR等具体催化剂。",
     "representative_quotes": [
-      "拿着一个股票不动的时候最无聊，也不需要天天研究这研究那，只能被无穷无尽的上涨暴击幼小的心灵，学不到任何东西。",
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "人大部分的恐惧来源于自己的想象，时间会抚平一切，也会证明一切。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "这波太菜了，2x海力士踏空了，正股没踏空...但如果自己选股眼光不行，就上行业指数比如$DRAM或者$SMH这种",
+      "现在手里就3个股票 #海力士 $GLW $ASX 别的没了"
     ],
-    "generated_at": "2026-06-29T10:05:03.812928+00:00"
+    "generated_at": "2026-06-29T14:33:05.598564+00:00"
   }
 }
