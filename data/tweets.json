@@ -1,5 +1,175 @@
 [
   {
+    "tweet_id": "2071639078752436471",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "GameStop, $GME, has reaffirmed its intention to pursue the proposed acquisition of eBay",
+    "tweet_url": "https://x.com/unusual_whales/status/2071639078752436471",
+    "published_at": "2026-06-29T16:57:00+00:00",
+    "fetched_at": "2026-06-29T17:28:01.041980+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GME"
+      ],
+      "direction": "bullish",
+      "summary": "GameStop重申收购eBay的意向，可能推动股价上涨，提升投资者预期。",
+      "translation": "游戏驿站（$GME）重申其推进收购eBay的意图。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071630925017018671",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "看来 康宁 $GLW  取代年初海力士的置顶，能挂置顶挂说不定一年。10倍扩产就是10倍业绩暴增，大把的沙雕机构和散户被爆拉起来才能后知后觉这个康宁 $GLW 机会。 https://t.co/Yukb9MtEqM",
+    "tweet_url": "https://x.com/xiaomustock/status/2071630925017018671",
+    "published_at": "2026-06-29T16:24:36+00:00",
+    "fetched_at": "2026-06-29T17:27:39.204199+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强烈看好康宁（$GLW），认为其10倍扩产将带来10倍业绩增长，并暗示机构和散户后知后觉，目前是买入机会。",
+      "translation": "看来康宁$GLW取代了年初海力士的置顶位置，能挂置顶也许挂一年。10倍扩产就是10倍业绩暴增，大量愚蠢的机构和散户被爆拉后才能后知后觉地发现这个康宁$GLW的机会。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071629012494114922",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: Oil and gas prices keep falling.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071629012494114922",
+    "published_at": "2026-06-29T16:17:00+00:00",
+    "fetched_at": "2026-06-29T17:28:04.187100+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普提到石油和天然气价格持续下跌，这可能对能源板块和相关投资产生影响，投资者可关注油价走势及其对市场的潜在利好。",
+      "translation": "特朗普：石油和天然气价格持续下跌。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071627073740062736",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "可惜没有钱往 $LRCX 和 $AMAT 上分配，这俩半导体设备巨头都拉了10%",
+    "tweet_url": "https://x.com/xiaomustock/status/2071627073740062736",
+    "published_at": "2026-06-29T16:09:18+00:00",
+    "fetched_at": "2026-06-29T17:27:40.879680+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LRCX",
+        "AMAT"
+      ],
+      "direction": "bullish",
+      "summary": "推文提到因资金不足未投资LRCX和AMAT，但两者作为半导体设备巨头均上涨10%，暗示看好其表现。",
+      "translation": "可惜没有钱往 $LRCX 和 $AMAT 上分配，这俩半导体设备巨头都拉了10%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071618702269980695",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，\n只能说明市场里的傻瓜太多了，\n英伟达合作扩产10倍=康宁业绩*10倍。\n这都没有被机构冲烂冲爆炸。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071618702269980695",
+    "published_at": "2026-06-29T15:36:02+00:00",
+    "fetched_at": "2026-06-29T17:27:42.999220+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为康宁与英伟达合作扩产10倍将推动康宁业绩增长10倍，当前股价仅涨25%未反映该利好，属市场低估，强烈看涨。",
+      "translation": "康宁 $GLW 自从与英伟达合作扩产10倍后，股价只上涨了25%而没有翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍等于康宁业绩增长10倍。这都没有被机构疯狂买入。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071615344435937283",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "眨眼功夫康宁 $GLW 又拉了10%，240刀，\n康宁最大的魅力在于未来的确定性。\n英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！\n这是英伟达 $NVDA 给康宁的定心丸。\n这还只是在玻璃基板没火之前的事情。\n自玻璃基板和玻璃桥出来后，康宁的投产后估值可能远不止10倍，那就是远超2万亿美金\n\n按照康宁官方的10倍扩产时间表，完成时间在2028年前后。也就是2年左右的时间赌一个10倍爆拉，非常划算。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071615344435937283",
+    "published_at": "2026-06-29T15:22:41+00:00",
+    "fetched_at": "2026-06-29T17:27:45.715661+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "作者看好康宁（GLW）因英伟达要求扩产10倍，预计2028年前后投产后业绩将大幅增长，叠加玻璃基板等新技术，估值可能远超2万亿美元，属于高确定性投资机会。",
+      "translation": "眨眼功夫康宁 $GLW 又拉了10%，240刀，康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达 $NVDA 给康宁的定心丸。这还只是在玻璃基板没火之前的事情。自玻璃基板和玻璃桥出来后，康宁的投产后估值可能远不止10倍，那就是远超2万亿美金。按照康宁官方的10倍扩产时间表，完成时间在2028年前后。也就是2年左右的时间赌一个10倍爆拉，非常划算。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071609072424771784",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "买康宁这几天虽然没挣钱但刚好躲过暴跌，\n康宁 $GLW 硬的非常不正常 。 https://t.co/G4x96TPztI",
+    "tweet_url": "https://x.com/xiaomustock/status/2071609072424771784",
+    "published_at": "2026-06-29T14:57:46+00:00",
+    "fetched_at": "2026-06-29T17:27:47.548880+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "用户表示虽然买入康宁（GLW）后没有盈利，但成功规避了市场暴跌，认为该股票表现异常坚挺，隐含看涨信号。",
+      "translation": "买康宁这几天虽然没挣钱但刚好躲过暴跌，康宁 $GLW 硬的非常不正常。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071602603545510353",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "还是康宁牛逼，\n刚把我自己的 $asx 剩的一点都卖了换成康宁 $GLW 。\n现在50% 海力士正股，50%康宁 https://t.co/dBUSbriIYB",
+    "tweet_url": "https://x.com/xiaomustock/status/2071602603545510353",
+    "published_at": "2026-06-29T14:32:03+00:00",
+    "fetched_at": "2026-06-29T17:27:52.565191+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ASX",
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "用户卖出了ASX（可能指某只澳大利亚股票或基金）并买入康宁（GLW），并表达了对康宁的看好，同时透露已有50%仓位在海力士正股和50%在康宁。",
+      "translation": "还是康宁牛逼，刚把我自己的$ASX剩的一点都卖了换成康宁$GLW。现在50%海力士正股，50%康宁。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071598813484024316",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
