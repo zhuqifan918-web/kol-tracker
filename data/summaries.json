@@ -1,25 +1,26 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$MU",
-      "$NBIS",
-      "$LPK"
+      "SIVE",
+      "AAOI",
+      "MU",
+      "LPK",
+      "POET"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与上游瓶颈投资",
-      "光子学与激光器供应链",
-      "人形机器人下一代增长"
+      "光学与CPO产业链瓶颈",
+      "机器人/人形机器人投资机会",
+      "AI基础设施与记忆体超级周期",
+      "纳斯达克上市与价值重估"
     ],
-    "recent_shift": "近期观点从关注数据中心建设转向更强调光子学和人形机器人的长期催化剂，同时认为当前市场回调是加仓机会。",
+    "recent_shift": "近期更多关注光学/CPO主题和机器人/人形机器人投资机会，并从宏观看淡转为更加乐观，认为市场回调是买入机会。",
     "representative_quotes": [
-      "IMO photonics theme + CW laser chokepoint is goated. ... I'm personally just focusing on that bottleneck.",
-      "Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.",
-      "Feels like all the industry leaders ... see humanoids as the next major trend so physical AI is probably next."
+      "This is industry validation for robotics, since it likely demonstrates increased opex margins + efficiency from employee automation.",
+      "GS Research's ~9-10x $154B optical TAM in 2028 and near $0 -> $91B CPO TAM in just 2 1/2 years. Don't just magically disappear from a month of trading volatility.",
+      "I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts."
     ],
-    "generated_at": "2026-06-28T09:54:15.540960+00:00"
+    "generated_at": "2026-06-29T10:05:00.219001+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -31,41 +32,39 @@
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "关税与贸易摩擦",
-      "中东地缘政治风险",
-      "通胀与紧缩预期",
-      "科技巨头监管与业务调整"
+      "地缘政治风险与制裁",
+      "通胀压力与美联储政策不确定性",
+      "科技行业分化：AI投资与消费电子疲软",
+      "住房市场降温与消费者支出放缓"
     ],
-    "recent_shift": "近期内容从关注市场机遇转向更多提及经济下行风险、通胀飙升及地缘冲突，整体情绪明显偏空。",
+    "recent_shift": "近期转向更关注地缘冲突对市场的影响，并强调通胀可能迫使美联储加息。",
     "representative_quotes": [
-      "JUST IN: AOC says Congress should break up Apple, $AAPL, amid looming price hikes for MacBooks and iPhones",
-      "BREAKING: Trump: Any country that imposes a digital services tax will immediately be met with a 100% tariff on any and all goods sent to the United States.",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
+      "BREAKING: The Pentagon reportedly delayed announcing the U.S. strikes on Iran until after the stock market closed at 4 p.m. ET on Friday, with the timing intended to minimize the immediate impact on financial markets, according to NBC News.",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters",
+      "Nearly 60% of S&P 500 stocks now carry a Buy rating from Wall Street analysts, the highest level on record, per Charlie Bilello"
     ],
-    "generated_at": "2026-06-29T05:08:57.464809+00:00"
+    "generated_at": "2026-06-29T10:04:56.750818+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK Hynix",
+      "000660.KS",
       "GLW",
-      "MU",
       "ASX",
-      "SPCX"
+      "MU",
+      "LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基建供不应求，存储为核心抽水机",
-      "康宁玻璃基板与光纤为下一代AI底座",
-      "垄断性护城河和长期持有策略",
-      "杠杆风险警示与低杠杆正股持有转变",
-      "马斯克太空计算与边缘计算生态"
+      "存储芯片是AI革命的核心，海力士为主导",
+      "康宁玻璃基板与光互连是下一阶段AI算力底座",
+      "AI基建处于早期，需求远超供给"
     ],
-    "recent_shift": "从早期重仓杠杆ETF（2x海力士）转向配置正股及康宁、日月光等硬件替代标的，并强调不再使用超出本金的杠杆。",
+    "recent_shift": "从8月前的纯存储看多（如海力士、美光）逐步拓展到关注上游材料（康宁）和封测（日月光），但对存储的核心仓位保持不动。",
     "representative_quotes": [
+      "拿着一个股票不动的时候最无聊，也不需要天天研究这研究那，只能被无穷无尽的上涨暴击幼小的心灵，学不到任何东西。",
       "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "康宁简直下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
-      "最重要的错误，融资上杠杆。差点在3月份爆仓死掉，2x海力士和ewy都暴跌差点没熬过去。以后再不去买超过自己本金的资产，顶多在自己本金范围内购买2x扩大上升周期的收益。"
+      "人大部分的恐惧来源于自己的想象，时间会抚平一切，也会证明一切。"
     ],
-    "generated_at": "2026-06-28T20:40:39.750908+00:00"
+    "generated_at": "2026-06-29T10:05:03.812928+00:00"
   }
 }

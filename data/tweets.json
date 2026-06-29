@@ -1,5 +1,125 @@
 [
   {
+    "tweet_id": "2071532870859149617",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$GM cuts 1,000 workers and replaces them with 50 robots (Jun 22nd report)\n\nReports also show GM is working on a deal with $NVDA on factory robotics.\n\nThis is industry validation for robotics, since it likely demonstrates increased opex margins + efficiency from employee automation. \n\nEspecially from companies like $AMZN to General Motors with assembly/warehouse lines that have high headcount.\n\nI think the technology is already here and use cases are already proven. Robotics/Humanoids are just pre-scale right now. \n\nThe wording from large companies is “assistive robotics”… But in all honesty, it’s here to automate away the human workforce and increase profitability.\n\nI don’t think companies want to be paying insurance, salaries, etc. when robots can do a better job, and 24/7, so very sad to see potential job losses in the future from robotics automation.\n\nWhether people like it or not; seems like the inflection point for robotics is here.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071532870859149617",
+    "published_at": "2026-06-29T09:54:58+00:00",
+    "fetched_at": "2026-06-29T10:03:57.925832+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GM",
+        "NVDA",
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为通用汽车裁员并引入机器人、与英伟达合作开发工厂机器人，以及亚马逊等公司类似趋势，验证了机器人技术已成熟并即将规模化，将提升企业利润率，投资者可看好机器人相关公司。",
+      "translation": "$GM裁员1000人，用50台机器人替代（6月22日报道）。报道还显示GM正与$NVDA就工厂机器人达成协议。这对机器人行业是验证，因为它可能表明通过员工自动化提高了运营利润率和效率。尤其是像$AMZN到通用汽车这类高员工数量的装配/仓库线。我认为技术已经成熟，用例已经验证。机器人/人形机器人目前只是预规模化阶段。大公司的措辞是“辅助机器人”……但说实话，它是为了自动化淘汰人力并提高盈利能力。我认为公司不想支付保险、工资等费用，而机器人能做得更好、24/7工作，所以看到未来因机器人自动化导致的潜在失业很遗憾。不管人们喜欢与否；机器人的转折点似乎已经到来。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071512640715952494",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "a股最近一个月的半导体设备etf涨疯了，\n买个锤子的个股，\n这些etf都能涨停真是万万不可能想到。 https://t.co/U285nbKSSD",
+    "tweet_url": "https://x.com/xiaomustock/status/2071512640715952494",
+    "published_at": "2026-06-29T08:34:35+00:00",
+    "fetched_at": "2026-06-29T10:04:22.209590+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "半导体设备ETF近期大涨甚至涨停，作者认为个股不如ETF，对ETF短期走势非常看好。",
+      "translation": "A股最近一个月的半导体设备ETF涨疯了，买个锤子的个股，这些ETF都能涨停真是万万不可能想到。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071495069815992433",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "问ai如果把日本韩国美国台湾欧盟的半导体设备龙头股组合成一个etf，取10个股票，如何组合，最好跟存储芯片的扩产路径相关的设备。\n设备采购顺序一般是：\n\n前道设备（刻蚀→薄膜沉积→清洗→检测→光刻）→ 后道封装（HBM）→ 测试\n\n因此ETF应该偏重刻蚀、沉积、清洗，而不是EDA或晶圆代工。\n1. $LRCX 20%\n2. 8035.T 18%\n3. AMAT 15%\n4. 6525.T 10%\n5. 7735.T 10%\n6. https://t.co/LZn4FDgmel 8%\n7. 6857.T 8%\n8. 042700.KS 5%\n9.ASML / https://t.co/lpVcCQ40Gf 4%\n10. 8036.T  2%\n\n核心逻辑：\n\n重仓顺序：\n刻蚀 > 沉积 > 清洗 > 测试 > HBM封装 > 光刻/检测\n\n最核心三只：\nLRCX、东京电子、AMAT\n\n最贴近HBM后道：\nAdvantest、Hanmi\n\n最贴近DRAM/NAND前道扩产：\nLRCX、东京电子、AMAT、Kokusai、SCREEN",
+    "tweet_url": "https://x.com/xiaomustock/status/2071495069815992433",
+    "published_at": "2026-06-29T07:24:45+00:00",
+    "fetched_at": "2026-06-29T10:04:26.228847+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LRCX",
+        "8035.T",
+        "AMAT",
+        "6525.T",
+        "7735.T",
+        "6857.T",
+        "042700.KS",
+        "ASML",
+        "8036.T"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论了一个由日本、韩国、美国、台湾和欧盟的半导体设备龙头股组成的ETF组合，共10只股票，重点偏向存储芯片扩产路径中的关键设备（刻蚀、沉积、清洗），并给出具体权重。核心重仓LRCX、东京电子和AMAT，体现了对半导体设备行业的看多观点。",
+      "translation": "问AI如果把日本韩国美国台湾欧盟的半导体设备龙头股组合成一个ETF，取10个股票，如何组合，最好跟存储芯片的扩产路径相关的设备。设备采购顺序一般是：前道设备（刻蚀→薄膜沉积→清洗→检测→光刻）→ 后道封装（HBM）→ 测试。因此ETF应该偏重刻蚀、沉积、清洗，而不是EDA或晶圆代工。1. $LRCX 20% 2. 8035.T 18% 3. AMAT 15% 4. 6525.T 10% 5. 7735.T 10% 6. https://t.co/LZn4FDgmel 8% 7. 6857.T 8% 8. 042700.KS 5% 9.ASML / https://t.co/lpVcCQ40Gf 4% 10. 8036.T 2% 核心逻辑：重仓顺序：刻蚀 > 沉积 > 清洗 > 测试 > HBM封装 > 光刻/检测。最核心三只：LRCX、东京电子、AMAT。最贴近HBM后道：Advantest、Hanmi。最贴近DRAM/NAND前道扩产：LRCX、东京电子、AMAT、Kokusai、SCREEN。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071488272245944399",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some notes on $POET AGM and read through on optical markets:\n\n- \"The top three laser suppliers control 68% of the market, and they’re completely sold out for the next two years\"\n\n$LITE CEO said into 2028, so POET implicitly confirms laser shortage is going into 2029 now.\n\n- NRE with a new customer, building on POET’s interposer for high-power external light source.\n\nThis is high confidence $SIVE as laser supplier given the Sept 29, 2025 PR on ELS, and new customer qualification would be material for revenue if it goes into volume ramp. \n\n- Poet expects Lumilens commercial agreement to scale to over $500 million over the next 5 years.\n\nLumilens claimed a top-3 hyperscaler was their initial customer (Linkedin OSINT)\n\n- $830M cash on hand on balance sheet (this is more for Poet fundamentals).\n\n- \"The entire optical components industry today is facing a severe shortage of critical components.\"\n\nReaffirming what we know already regarding optical bottlenecks.\n\n- \"Production ramp in the second half of 2026 this year.\" \n\nJust production timelines H2. \n\nIn terms of $POET volumes:\n- existing capacity around 1 million optical engines per year\n- projected demand exiting 2027 around 1 million optical engines per month\n- roughly 10x capacity expansion\n\nI don't own Poet, but if management delivers on these projections it directionally looks very positive.\n\nHowever something to note is that unlike other suppliers that have named hyperscaler customers to to back up capacity revenues like $AAOI: $POET seems more questionable.\n\nBut this does look like a very positive outlook for $POET if they match projections.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071488272245944399",
+    "published_at": "2026-06-29T06:57:45+00:00",
+    "fetched_at": "2026-06-29T10:04:06.540372+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "POET",
+        "LITE",
+        "SIVE",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了POET的光学市场前景，指出激光器短缺将持续到2029年，并提到与Lumilens的商业协议可能超过5亿美元。作者认为如果管理层实现产量目标，每股前景非常积极，但缺乏明确的大客户背书是个风险点。",
+      "translation": "关于$POET年度股东大会和光学市场的一些笔记：-“排名前三的激光供应商控制了68%的市场，且未来两年完全售罄”。$LITE CEO说到2028年，因此POET暗示激光器短缺将持续到2029年。-与新客户的NRE项目，基于POET的中介层用于高功率外部光源。鉴于2025年9月29日关于ELS的PR，这高概率是$SIVE作为激光供应商，新客户认证若进入量产将对收入有重大影响。-POET预计与Lumilens的商业协议在未来5年内扩展到超过5亿美元。Lumilens声称其初始客户是前三大超级数据中心（LinkedIn开源情报）。-资产负债表上有8.3亿美元现金（更多针对POET基本面）。-“整个光学组件行业目前面临关键组件的严重短缺。”重申我们已经知道的光学瓶颈。-“2026年下半年开始量产。”只是H2的生产时间表。关于$POET产量：-现有产能约每年100万个光学引擎-预计到2027年底每月需求约100万个光学引擎-大约需要10倍产能扩张。我不持有POET，但如果管理层实现这些预测，方向性看起来非常积极。但值得注意的是，与其他已经明确命名超级数据中心客户（如$AAOI）来支撑产能收入的供应商不同，$POET似乎更值得怀疑。但如果POET实现预测，这看起来非常积极。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071465314794233905",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Honestly this decade from 2020-2030 might be the most goated in human history.\n\n- Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX.\n\n- on the cusp of ASI and recursive learning with Anthropic and OpenAI \n\n- Backflipping Boston Dynamics and Unitree humanoids to replace the human workforce\n\n- Star Wars laser beams from $EOS.ASX to AI DC lasers like $LITE.\n\n- Waymo and $TSLA self driving cars everywhere in urban cities\n\n- and we get industry Quantum commercialization end of decade\n\nThis is kinda crazy to be an investor in this timeframe. Feels like every movie from the Star Wars Death Star to Skynet is coming to life.\n\nWhat’s next?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+    "published_at": "2026-06-29T05:26:31+00:00",
+    "fetched_at": "2026-06-29T10:04:13.120635+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RKLB",
+        "SPCX",
+        "EOS.AX",
+        "LITE",
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为2020-2030年将是人类历史上最辉煌的十年，涵盖多个前沿科技领域如可重复使用火箭、ASI、人形机器人、激光技术、自动驾驶和量子计算，并提及相关公司股票。整体投资情绪极度乐观，认为现在是投资的绝佳时机。",
+      "translation": "说实话，2020-2030这十年可能人类历史上最牛的十年。\n- 扩大可重复使用巨型火箭用于轨道计算，涉及$RKLB和$SPCX。\n- 接近ASI和递归学习的边缘，有Anthropic和OpenAI。\n- 波士顿动力和Unitree的后空翻人形机器人将取代人类劳动力。\n- 从$EOS.ASX的星战激光束到$LITE的AI数据中心激光。\n- Waymo和$TSLA的自动驾驶汽车遍布城市。\n- 我们还会在这个十年末看到量子商业化。\n作为这个时代的投资者真是有点疯狂。感觉从《星战》死星到《终结者》天网的一切都在变成现实。\n下一步是什么？",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071451593388544178",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -15,6 +135,25 @@
       "direction": "bearish",
       "summary": "特朗普称多国即将对美国科技公司征收数字服务税，这可能加剧贸易摩擦，对在欧有业务的美国大型科技公司构成利空。投资者需关注相关公司的盈利风险和监管压力。",
       "translation": "特朗普表示，多个欧洲国家一直在讨论即将对美国公司实施数字服务税。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071416864354267195",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This shift indicates a cooling housing market, providing buyers with increased negotiating power.\n\nRead more: https://t.co/DKLz0j677V",
+    "tweet_url": "https://x.com/unusual_whales/status/2071416864354267195",
+    "published_at": "2026-06-29T02:14:00+00:00",
+    "fetched_at": "2026-06-29T10:04:44.727126+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出房地产市场降温，买家议价能力增强，可能对房地产相关投资产生中性偏积极影响。",
+      "translation": "这一转变表明房地产市场正在降温，为买家提供了更强的议价能力。",
       "confidence": "medium"
     }
   },
@@ -54,6 +193,25 @@
       "summary": "这条推文提到随机询问路人股票建议并投入1000美元，但未给出具体股票代码或投资方向，属于娱乐性内容而非严肃投资分析。",
       "translation": "我们随机询问路人股票建议，然后按照他们的选择投入了1000美元。你同意他们的选择吗？",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2071375844229165310",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales is having a July 4th sale.  \n\nGet up to 20% off.  \n\nWe have created tools to help you navigate this market. \n\nCheck GEX, API, options, stocks and so much more. \n\nJoin here: https://t.co/bsTCireGpr https://t.co/4AfCQxCZTY",
+    "tweet_url": "https://x.com/unusual_whales/status/2071375844229165310",
+    "published_at": "2026-06-28T23:31:00+00:00",
+    "fetched_at": "2026-06-29T10:04:48.316958+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文是Unusual Whales的促销广告，提供20%折扣并推广其市场分析工具（如GEX、API、期权、股票等），旨在吸引投资者使用其服务，但未给出具体投资建议或市场观点。",
+      "translation": "Unusual Whales正在举办7月4日促销活动。最高可享20%折扣。我们创建了工具帮助您驾驭当前市场。查看GEX、API、期权、股票等更多功能。在此加入：https://t.co/bsTCireGpr https://t.co/4AfCQxCZTY",
+      "confidence": "medium"
     }
   },
   {
