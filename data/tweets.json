@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2071666458598273337",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Taiwan raids SuperMicro, $SMCI, offices in expanding chip exports probe",
+    "tweet_url": "https://x.com/unusual_whales/status/2071666458598273337",
+    "published_at": "2026-06-29T18:45:48+00:00",
+    "fetched_at": "2026-06-29T19:20:52.194215+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMCI"
+      ],
+      "direction": "bearish",
+      "summary": "台湾对超微电脑（SMCI）进行调查，可能涉及出口管制违规，短期内对股价构成负面压力，需关注调查结果及后续影响。",
+      "translation": "突发：台湾对超微电脑（SMCI）办公室进行突击检查，扩大芯片出口调查。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071651186940252319",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Strategic Petroleum Reserve is at its lowest level since 1983",
+    "tweet_url": "https://x.com/unusual_whales/status/2071651186940252319",
+    "published_at": "2026-06-29T17:45:07+00:00",
+    "fetched_at": "2026-06-29T19:20:54.890135+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国战略石油储备降至1983年以来最低水平，暗示能源供应紧张，可能推高油价及相关成本，对能源股和通胀预期有潜在影响。",
+      "translation": "突发：战略石油储备降至1983年以来最低水平",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071644111837536418",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bank of America says that the U.S. economy added 110,000 jobs in June",
+    "tweet_url": "https://x.com/unusual_whales/status/2071644111837536418",
+    "published_at": "2026-06-29T17:17:00+00:00",
+    "fetched_at": "2026-06-29T19:20:56.679399+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国银行发布的就业数据（新增11万岗位）对市场影响中性，虽就业增长但低于预期，可能改变美联储政策预期，投资需关注后续经济指标。",
+      "translation": "美国银行表示，美国经济在6月份增加了11万个就业岗位。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071639078752436471",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -190,6 +249,25 @@
       "summary": "该推文引用MW分析，预测美光将成为仅次于英伟达和谷歌的美国最盈利公司，对美光构成强烈看涨信号。",
       "translation": "据MW称，美光即将成为除英伟达和谷歌之外美国最盈利的公司。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071593780210528362",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales is having a July 4th sale.\n\nGet up to 20% off.\n\nWe have created tools to help you navigate this market.\n\nCheck GEX, API, options, stocks and so much more.\n\nJoin here: https://t.co/bsTCireGpr https://t.co/imkQKphivg",
+    "tweet_url": "https://x.com/unusual_whales/status/2071593780210528362",
+    "published_at": "2026-06-29T13:57:00+00:00",
+    "fetched_at": "2026-06-29T19:21:04.588509+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文推广Unusual Whales的七月四日促销活动，提供高达20%的折扣，并宣传其用于导航市场的工具，包括GEX、API、期权、股票等，暗示对使用其工具进行市场分析持乐观态度。",
+      "translation": "Unusual Whales正在举办七月四日促销活动。最高可享20%折扣。我们创建了帮助您导航市场的工具。查看GEX、API、期权、股票等更多内容。在此加入：https://t.co/bsTCireGpr https://t.co/imkQKphivg",
+      "confidence": "high"
     }
   },
   {
@@ -819,6 +897,25 @@
       "summary": "作者认为康宁的玻璃基板可能替代存储成为AI行业的新增长点，英伟达要求扩产10倍暗示未来需求暴增，建议在细分行业出现百亿美元级利润且护城河高时梭哈。",
       "translation": "这是年初写的对去年的交易体会总结，能未来替代目前全AI行业抽水机存储地位的，可能就是康宁的这个集成了光纤光通信的玻璃基板。不过没有发生百亿美金规模级的利润前人们还很难确定，我也是。只是从黄仁勋让康宁扩产10倍，那么肯定对应着未来英伟达十倍以上的需求。说明在投产放量后会发生10倍以上的需求暴增，这跟存储发生的事情有点点像。如果未来某一天发生AI的某细分行业数倍增速百亿美金级别的规模利润，如果还拥有极高护城河极少竞争对手，那值得瞬间梭哈。现在阶段只能猜，但最终会百分之一万有这么一天，至于哪个细分则不可知。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071088808335221070",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Do you guys think auto supply chain and robotics supply chain will merge?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071088808335221070",
+    "published_at": "2026-06-28T04:30:25+00:00",
+    "fetched_at": "2026-06-29T19:20:33.878614+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文探讨了汽车供应链与机器人供应链是否可能融合，这是一个行业趋势问题，对投资者而言具有分析价值。融合可能带来效率提升和新的投资机会，但目前缺乏明确的多空信号。",
+      "translation": "你们觉得汽车供应链和机器人供应链会合并吗？",
+      "confidence": "low"
     }
   },
   {

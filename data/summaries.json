@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$MU",
-      "$POET",
-      "$LPK"
+      "SIVE",
+      "AAOI",
+      "POET",
+      "MU",
+      "TSM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/光学互联瓶颈与超级周期",
+      "光子学与CW激光器瓶颈",
       "人形机器人与物理AI",
-      "供应链关键环节垄断（激光器/MLCC/玻璃基板）",
-      "AI基础设施资本支出持续增长",
-      "宏观经济波动下的优质回调机会"
+      "内存结构性需求增长",
+      "AI基础建设与超大规模云服务商资本支出",
+      "供应链瓶颈与上游设备垄断"
     ],
-    "recent_shift": "近期尽管全球股市回调，仍坚定看好光学和机器人主题，认为回调是买入机会，并强调2027-2028年收入爬坡的确定性。",
+    "recent_shift": "近期观点无显著转变，持续看好光子学与AI基础设施上游，强调激光器瓶颈的长期价值，同时提醒短期波动和仓位管理。",
     "representative_quotes": [
-      "The ~$140M convertible note is real, but it's pennies to US institutions. We'll likely see more institutional ownership when data comes out.",
-      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028.",
-      "Photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now."
+      "Photonic theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
+      "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
+      "Kinda all that needs to be said with those insane revenue projections as long as management doesn't BS."
     ],
-    "generated_at": "2026-06-29T14:33:13.043900+00:00"
+    "generated_at": "2026-06-29T19:21:29.502412+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "MSFT",
-      "MU",
-      "GME",
-      "SPCX"
+      "$AAPL",
+      "$MSFT",
+      "$GME",
+      "$SMCI",
+      "$MU"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧",
-      "通胀高企与联储鹰派",
-      "消费者债务恶化与支出放缓",
-      "科技巨头面临监管与成本压力",
-      "半导体与AI投资热潮持续"
+      "关税与地缘政治风险",
+      "通胀与利率预期",
+      "经济放缓与消费疲软"
     ],
-    "recent_shift": "从较早的乐观情绪转向对地缘冲突、通胀和消费者压力的更多关注。",
+    "recent_shift": "近期从关注科技股上涨转向强调地缘冲突、通胀顽固和消费者债务恶化。",
     "representative_quotes": [
-      "Fed \"cannot cut interest rates in the current context,\" per Moody's Mark Zandi.",
-      "Percentage of balances 90+ days delinquent, by loan type, per WSJ: https://t.co/qxERYMgmyy",
+      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi.",
+      "Nearly 60% of S&P 500 stocks now carry a Buy rating from Wall Street analysts, the highest level on record, per Charlie Bilello",
       "Trump: Oil and gas prices keep falling."
     ],
-    "generated_at": "2026-06-29T17:28:38.691514+00:00"
+    "generated_at": "2026-06-29T19:21:32.089052+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
