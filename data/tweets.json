@@ -1,5 +1,128 @@
 [
   {
+    "tweet_id": "2071598813484024316",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Micron is about to be more profitable than any U.S. company except Nvidia and Google, per MW",
+    "tweet_url": "https://x.com/unusual_whales/status/2071598813484024316",
+    "published_at": "2026-06-29T14:17:00+00:00",
+    "fetched_at": "2026-06-29T14:32:15.949202+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "NVDA",
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文引用MW分析，预测美光将成为仅次于英伟达和谷歌的美国最盈利公司，对美光构成强烈看涨信号。",
+      "translation": "据MW称，美光即将成为除英伟达和谷歌之外美国最盈利的公司。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071591106803118442",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "想到一个问题，这几天看到英伟达190低估，20倍市盈率，按照每年几乎100%的增速，明年就是10倍市盈率。但是英伟达想实现100%增速，那么就要搭配double的hbm，那么就需要双倍的消费级dram去造hbm，但是明年存储还是没有新增产能，这个局面最终会怎么样？\n我猜测可能路径是明年某个时刻三星海力士找长鑫进口dram，然后再在自己家工厂封装成hbm4e。因为英伟达不可能直接用长鑫造的hbm，技术和国情都不允许。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071591106803118442",
+    "published_at": "2026-06-29T13:46:22+00:00",
+    "fetched_at": "2026-06-29T14:32:06.067258+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为英伟达当前PE仅20倍，若维持100%年增速则明年PE降至10倍，但高增速需双倍HBM产能，而存储产能瓶颈可能导致三星/海力士向长鑫采购DRAM并封装成HBM4E，侧面反映英伟达需求强劲、增长逻辑虽存产能隐忧但可能通过供应链调整解决。",
+      "translation": "想到一个问题，这几天看到英伟达190低估，20倍市盈率，按照每年几乎100%的增速，明年就是10倍市盈率。但是英伟达想实现100%增速，那么就要搭配double的hbm，那么就需要双倍的消费级dram去造hbm，但是明年存储还是没有新增产能，这个局面最终会怎么样？我猜测可能路径是明年某个时刻三星海力士找长鑫进口dram，然后再在自己家工厂封装成hbm4e。因为英伟达不可能直接用长鑫造的hbm，技术和国情都不允许。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071578680728617280",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed \"cannot cut interest rates in the current context,\" per Moody's Mark Zandi.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071578680728617280",
+    "published_at": "2026-06-29T12:57:00+00:00",
+    "fetched_at": "2026-06-29T14:32:22.649295+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "穆迪分析师Mark Zandi表示，在当前环境下美联储无法降息，暗示货币政策将持续紧缩，对市场流动性构成压力，可能影响股市和风险资产表现。",
+      "translation": "穆迪的马克·赞迪表示，美联储“在当前环境下无法降息”。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071568614508130770",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Percentage of balances 90+ days delinquent, by loan type, per WSJ: https://t.co/qxERYMgmyy",
+    "tweet_url": "https://x.com/unusual_whales/status/2071568614508130770",
+    "published_at": "2026-06-29T12:17:00+00:00",
+    "fetched_at": "2026-06-29T14:32:25.987923+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用华尔街日报数据，显示各类贷款90天以上逾期比例上升，反映消费者财务压力加大，可能对银行股和消费金融股构成利空。",
+      "translation": "根据《华尔街日报》，各类贷款中逾期90天以上的余额占比：https://t.co/qxERYMgmyy",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071553514917216588",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"More Ontarians in Canada are missing mortgage payments, as balance delinquency rate jumps 52% in a year,\" per Toronto Star.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071553514917216588",
+    "published_at": "2026-06-29T11:17:00+00:00",
+    "fetched_at": "2026-06-29T14:32:31.186056+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "加拿大安大略省房贷违约率飙升52%，表明家庭财务压力加大，可能引发消费疲软和银行坏账风险，对加拿大经济及金融机构前景不利。",
+      "translation": "根据《多伦多星报》报道，加拿大安大略省有更多人拖欠抵押贷款，年度贷款违约率飙升52%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071545016007467486",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei. \n\n\"The move is widely viewed as a strategic response to the growing influence of $SPCX Starlink in Japan\" https://t.co/RDFvgQNVsp",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071545016007467486",
+    "published_at": "2026-06-29T10:43:13+00:00",
+    "fetched_at": "2026-06-29T14:31:53.196515+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ASTS",
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "日本乐天与ASTS成立合资企业建设低轨卫星网络，被视为对Starlink在日本扩张的战略回应，利好ASTS及相关卫星通信板块。",
+      "translation": "日本乐天将与ASTS成立合资企业，为日本建设低轨卫星网络，引自Digitimes/日经新闻。此举被广泛视为对Starlink在日本日益增长影响力的战略回应。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2071532870859149617",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -353,6 +476,25 @@
       "summary": "华尔街分析师对近60%的标普500股票给予买入评级，创历史新高，表明市场情绪极度乐观，可能预示后续上涨空间有限或存在回调风险。",
       "translation": "近60%的标普500股票目前获得华尔街分析师的买入评级，创历史最高纪录，数据来自Charlie Bilello。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071217300636582196",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales is having a July 4th sale.\n\nGet up to 20% off.\n\nWe have created tools to help you navigate this market.\n\nJoin here: https://t.co/bsTCire8zT https://t.co/Qw9HWlAime",
+    "tweet_url": "https://x.com/unusual_whales/status/2071217300636582196",
+    "published_at": "2026-06-28T13:01:00+00:00",
+    "fetched_at": "2026-06-29T14:32:51.898037+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": null,
+      "translation": null,
+      "confidence": "low"
     }
   },
   {
