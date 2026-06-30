@@ -1,5 +1,190 @@
 [
   {
+    "tweet_id": "2071844105148317910",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "普通人能参与到机会大概率不是物理AI，\n很可能是专门做物理AI数据采集的公司，\n物理AI数据需求量和需求方的资金规模会给这类公司很高的安全感。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071844105148317910",
+    "published_at": "2026-06-30T06:31:42+00:00",
+    "fetched_at": "2026-06-30T06:38:30.020029+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出普通投资者参与物理AI的机会可能不在于AI本身，而在于为物理AI提供数据采集的公司，并认为这类公司由于数据需求大且客户资金充足，具有较高的投资安全性和成长性。",
+      "translation": "普通人能参与到的机会大概率不是物理AI，很可能是专门做物理AI数据采集的公司。物理AI数据的需求量和需求方的资金规模会给这类公司很高的安全感。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071840925597442518",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "物理AI很可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。\n物理AI的数据采集就是天量的资金，\n物理AI需要的存储卡也是天量级别，因为大部分都是视频数据，\n物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。然后复刻文本AI节奏后期进入推理卡重新主导。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071840925597442518",
+    "published_at": "2026-06-30T06:19:04+00:00",
+    "fetched_at": "2026-06-30T06:38:32.480137+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为物理AI需要海量资金和数据，将极大推动训练卡需求，成为英伟达的第二增长曲线，并暗示后续推理卡将主导市场，整体看好英伟达及相关AI硬件投资机会。",
+      "translation": "物理AI很可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。物理AI的数据采集就是天量的资金，物理AI需要的存储卡也是天量级别，因为大部分都是视频数据，物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。然后复刻文本AI节奏后期进入推理卡重新主导。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071838526296227983",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "物理AI被英伟达 $NVDA 反复提，但真正意义上的物理AI难找，文本AI都搞不赢的公司不可能搞赢物理AI。可能物理AI需要投入的资金体量要远大于文本AI。 https://t.co/XEuz9OhS4N",
+    "tweet_url": "https://x.com/xiaomustock/status/2071838526296227983",
+    "published_at": "2026-06-30T06:09:32+00:00",
+    "fetched_at": "2026-06-30T06:38:34.399179+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "推文指出NVIDIA反复提及物理AI，但真正意义上的物理AI公司难寻，且需要投入的资金量远大于文本AI，暗示投资物理AI的门槛较高。",
+      "translation": "物理AI被英伟达反复提，但真正意义上的物理AI难找，文本AI都搞不赢的公司不可能搞赢物理AI。可能物理AI需要投入的资金体量要远大于文本AI。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071831593115914395",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "从股权和人事关系上看，\n万润科技于长江存储，\n很可能相当于\n兆易创新于长鑫存储。\n老板们可以研究一下，A股我也玩不明白。 https://t.co/OdHPX9VkA5",
+    "tweet_url": "https://x.com/xiaomustock/status/2071831593115914395",
+    "published_at": "2026-06-30T05:41:59+00:00",
+    "fetched_at": "2026-06-30T06:38:36.473648+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文暗示万润科技在长江存储体系中的角色（可能是供应商或合作伙伴）类似于兆易创新在长鑫存储中的关键地位，投资者可据此研究相关公司及行业趋势。",
+      "translation": "从股权和人事关系上看，万润科技于长江存储，很可能相当于兆易创新于长鑫存储。老板们可以研究一下，A股我也玩不明白。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071827515392635333",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "明年HBM存储会再次挤压消费级dram市场，\n因为英伟达必须持续增长，英伟达对于所有AI公司来说它的业绩不能出点点点问题，包括美国政府也不允许。\n但是美光几乎不可能进口长鑫存储的dram，只有三星海力士能绕开限制，因为国内扩产的速度快，dram产能提升快，明年很大概率发生的事情就是三星海力士高价买长鑫的dram回来在韩国造hbm4e，再供货给英伟达。\n不过这中间肯定会发生很多额外的屁眼交易才可能成功。\n只要英伟达的业绩能翻倍增长那么存储价格就很难下来，如果明天这些都发生，那么三星海力士的hbm4e份额会大幅扩大，远远甩开美光。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071827515392635333",
+    "published_at": "2026-06-30T05:25:47+00:00",
+    "fetched_at": "2026-06-30T06:38:39.465700+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "预测明年HBM存储将挤压消费级DRAM市场，英伟达为维持增长将促使三星和SK海力士绕开限制，高价采购长鑫存储的DRAM并制造HBM4E供货，导致存储价格难以下降，三星和SK海力士的HBM4E份额将大幅扩大，远远甩开美光。对英伟达及存储相关标的偏正面。",
+      "translation": "明年HBM存储会再次挤压消费级DRAM市场，因为英伟达必须持续增长，英伟达对于所有AI公司来说它的业绩不能出点点点问题，包括美国政府也不允许。但是美光几乎不可能进口长鑫存储的DRAM，只有三星海力士能绕开限制，因为国内扩产的速度快，DRAM产能提升快，明年很大概率发生的事情就是三星海力士高价买长鑫的DRAM回来在韩国造HBM4E，再供货给英伟达。不过这中间肯定会发生很多额外的暗箱交易才可能成功。只要英伟达的业绩能翻倍增长那么存储价格就很难下来，如果明天这些都发生，那么三星海力士的HBM4E份额会大幅扩大，远远甩开美光。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071815091692150895",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "康宁 $GLW 真是涨的无敌寂寞！262刀了.\n5000亿市值也就600刀左右，对英伟达写明面上合作扩产10倍的康宁来说业绩翻10倍远远不止600刀这个价，期待市场不断的后知后觉涌入，尤其是大机构，他们早晚会根据此给更高的康宁评级。 https://t.co/1ljXlM62To",
+    "tweet_url": "https://x.com/xiaomustock/status/2071815091692150895",
+    "published_at": "2026-06-30T04:36:24+00:00",
+    "fetched_at": "2026-06-30T06:38:41.702980+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为康宁（$GLW）当前股价262美元，市值约5000亿美元，但考虑到与英伟达在产能上的合作扩产10倍，业绩有望翻10倍，股价远不止600美元。市场后知后觉，尤其大机构将给予更高评级，强烈看涨。",
+      "translation": "康宁 $GLW 真是涨得无敌寂寞！262美元了。5000亿市值也就600美元左右，对英伟达合作扩产10倍的康宁来说，业绩翻10倍远远不止600美元这个价，期待市场不断后知后觉涌入，尤其是大机构，他们早晚会根据此给出更高的康宁评级。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071812539953102902",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "想再加仓点海力士，奈何仓位已经都打满了，\n现在想买啥都买不了，昨天想买点芯片半导体设备的2x，忍住了怕杠杆出啥事也没搞。\n现在被动成了康宁 $GLW 和 #海力士 躺平了\n\n美股的三个芯片设备刚开始涨，\n应用材料 $AMAT 科磊  $KLAC 泛林 $LRCX https://t.co/obTrwAHwmW",
+    "tweet_url": "https://x.com/xiaomustock/status/2071812539953102902",
+    "published_at": "2026-06-30T04:26:16+00:00",
+    "fetched_at": "2026-06-30T06:38:44.156150+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "AMAT",
+        "KLAC",
+        "LRCX"
+      ],
+      "direction": "bullish",
+      "summary": "用户看好海力士和芯片半导体设备板块，但因仓位已满无法加仓。被动持有康宁和海力士，同时表示美股三大芯片设备股刚开始上涨，整体情绪偏乐观。",
+      "translation": "想再加仓点海力士，奈何仓位已经都打满了，现在想买啥都买不了，昨天想买点芯片半导体设备的2x，忍住了怕杠杆出啥事也没搞。现在被动成了康宁 $GLW 和 #海力士 躺平了。美股的三个芯片设备刚开始涨，应用材料 $AMAT 科磊 $KLAC 泛林 $LRCX",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071775225838989797",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Recent federal ethics disclosures revealed that accounts under President Trump's name executed approximately 3,700 stock trades in the first quarter of 2026.\n\nRead more: https://t.co/WxmV6EgxkH",
+    "tweet_url": "https://x.com/unusual_whales/status/2071775225838989797",
+    "published_at": "2026-06-30T01:58:00+00:00",
+    "fetched_at": "2026-06-30T06:39:00.929086+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到特朗普名下账户在2026年第一季度执行了约3700笔股票交易，这可能引发市场对政治人物交易活动的关注，但未提供具体交易标的或投资方向，因此投资相关性有限。",
+      "translation": "最近的联邦伦理披露显示，特朗普总统名下的账户在2026年第一季度执行了约3700笔股票交易。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071753331584778452",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The South leads with 754 planned data centers, a 62% increase from its current total.\n\nRead more: https://t.co/X44yrwKh49",
+    "tweet_url": "https://x.com/unusual_whales/status/2071753331584778452",
+    "published_at": "2026-06-30T00:31:00+00:00",
+    "fetched_at": "2026-06-30T06:39:06.995741+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "数据中心建设计划大幅增加，表明相关基础设施和科技行业可能受益，投资者可关注房地产投资信托（REITs）、建筑公司及科技供应商。",
+      "translation": "南部地区计划建设754个数据中心，比现有总数增加62%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2071745278391013596",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
