@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$MSFT",
-      "$SPCX",
-      "$SMCI",
-      "$F"
+      "AAPL",
+      "MSFT",
+      "GME",
+      "SMCI",
+      "MU"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与能源价格波动",
-      "科技巨头创新与芯片出口管制",
-      "房地产与消费信贷疲软",
-      "央行政策与通胀博弈",
-      "零售投资者结构与杠杆变化"
+      "AI与芯片投资竞争加剧",
+      "地缘政治风险推高市场不确定性",
+      "通胀与利率困境压制消费和投资"
     ],
-    "recent_shift": "近几日地缘冲突缓和预期增强，但通胀和利率担忧依然压制市场情绪，多头仓位有所收敛。",
+    "recent_shift": "近期更关注苹果股价下跌和美联储加息预期，此前偏重科技股看涨情绪",
     "representative_quotes": [
-      "The U.S. goods trade deficit widened to $105.8 billion in May, significantly above expectations of $85 billion.",
-      "Nearly 60% of S&P 500 stocks now carry a Buy rating from Wall Street analysts, the highest level on record.",
+      "Trump: Oil and gas prices keep falling.",
+      "Apple, $AAPL, is down more than 5%, losing billions in marketcap.",
       "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi."
     ],
-    "generated_at": "2026-06-29T23:54:55.921189+00:00"
+    "generated_at": "2026-06-30T02:29:32.816077+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
