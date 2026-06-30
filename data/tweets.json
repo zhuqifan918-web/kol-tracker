@@ -1,5 +1,89 @@
 [
   {
+    "tweet_id": "2072026632399753471",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes",
+    "tweet_url": "https://x.com/unusual_whales/status/2072026632399753471",
+    "published_at": "2026-06-30T18:37:00+00:00",
+    "fetched_at": "2026-06-30T19:15:22.075952+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员表示通胀仍高，可能需要加息，这对股票和债券市场构成利空，可能引发市场波动。",
+      "translation": "美联储的哈马克表示：通胀仍然过高。美联储可能需要考虑加息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072021599134663166",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072021599134663166",
+    "published_at": "2026-06-30T18:17:00+00:00",
+    "fetched_at": "2026-06-30T19:15:24.053141+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD",
+        "IAU"
+      ],
+      "direction": "bearish",
+      "summary": "黄金价格本季度下跌13%，创13年最大季度跌幅，显示市场对黄金的看空情绪强烈，投资者应警惕风险。",
+      "translation": "突发：黄金本季度将录得13%的亏损，这是13年来的最大季度跌幅。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072013738010378547",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: FDA now lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2072013738010378547",
+    "published_at": "2026-06-30T17:45:45+00:00",
+    "fetched_at": "2026-06-30T19:15:27.405583+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PM"
+      ],
+      "direction": "bullish",
+      "summary": "FDA批准菲利普莫里斯将Zyn尼古丁袋装产品宣传为比香烟危害更小，这对其母公司菲利普莫里斯（PM）构成利好，可能提升Zyn销量和公司估值。",
+      "translation": "突发：FDA现在允许菲利普莫里斯将Zyn尼古丁袋装产品宣传为比香烟危害更小，据CNBC报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072007692684837039",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers.\n\nSivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and their other partners.  \n\nIt could also point to broader foundry allocation/scaling beyond the already announced WIN partnership. \n\nMy feedback is that it's very bullish if it's comprised of long-only institutions and there's no heavy discount (30 day VWAP). Otherwise, would need to reaccess if there's arb or short term investors. \n\nThis is the perfect time to get ideal strategic investors like $GFS on the cap table. As well as focusing on having more US institutional support. \n\nEspecially considering $56M is a small check to a single US institution that want photonics exposure (eg. look at Poet's $400M registered direct offering for sentiment). \n\nA lot of it is \"it depends when more info comes out\", but this looks like a very positive signal for mass production given Siver's fab-lite models.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+    "published_at": "2026-06-30T17:21:44+00:00",
+    "fetched_at": "2026-06-30T19:14:43.470437+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "GFS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了Sivers筹集6100万美元用于扩大InP激光器和光放大器产能，并指出这是正面信号，特别是如果资金来源为长期机构且无大幅折价，建议关注战略投资者如GFS的加入，整体看好大规模量产前景。",
+      "translation": "分析此推文的投资关联性。推文：$SIVE正在筹集约6100万美元（6亿瑞典克朗）以扩大InP激光器和光放大器的制造产能。Sivers采用fab-lite模式，因此这可能暗示着为CW DFB激光器在Jabil及其他合作伙伴处的量产进行代工分配/扩产。这也可能意味着在已经宣布的WIN合作伙伴关系之外，更广泛的代工分配/扩产。我的反馈是，如果由长期机构投资者组成且没有大幅折价（30天VWAP），则非常看涨。否则，若存在套利或短期投资者，需要重新评估。现在是引入像$GFS这样的理想战略投资者的最佳时机，并且要专注于获得更多美国机构支持。尤其考虑到5600万美元对于一家希望获得光子学曝光的美国机构来说只是一张小支票（例如，参考Poet的4亿美元注册直接发行情绪）。很大程度上“取决于更多信息公布时的情况”，但鉴于Sivers的fab-lite模式，这似乎是量产的一个非常积极的信号。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072007541639557427",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -123,6 +207,27 @@
       "direction": "bullish",
       "summary": "作者看好Agility Robotics，认为其是首个美国纯玩人形机器人上市标的，计划通过SPAC（CCXI）在纳斯达克上市，已有V4在亚马逊运营，V5计划量产，供应链75%来自美国，投资者包括英伟达、亚马逊等，但需注意SPAC延迟风险。",
       "translation": "是的！Agility Robotics目前是我最喜欢的人形机器人/机器人领域标的。他们计划最早在9月份通过CCXI在纳斯达克上市（据Digitimes报道）。仅供参考：他们的V4人形机器人已在亚马逊等场所运行，明年V5计划量产（年产能超过1万台）。投资者包括富士康、英伟达、亚马逊、软银，现在还有Serenity。我本人一直在等待人形机器人的投资机会（Agility将是第一个美国纯玩上市标的），甚至曾计划投资Unitree的IPO。但现在我很高兴有了一个更有吸引力的选择，因为我更倾向于投资建设美国供应链（他们75%的组件来自美国投资者渠道）。SPAC存在风险，如上市延迟或取消，但我对后续发展感到兴奋。希望这能鼓励其他前沿公司尽早上市。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071984582157799888",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Still guessing what stocks to buy?\n\nOn 11/20/24, Rep. Debbie Schultz filed a buy of Viasat $VSAT\n\nSince that filing, it's up 1,000% !!\n\nSo for those that mirrored her, I hope she made you rich\n\n$VSAT is a top holding in @unusual_whales 's Debbie Schultz Tracker https://t.co/QoWdh9f4CM",
+    "tweet_url": "https://x.com/unusual_whales/status/2071984582157799888",
+    "published_at": "2026-06-30T15:49:54+00:00",
+    "fetched_at": "2026-06-30T19:15:32.806152+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "VSAT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调Viasat（VSAT）因议员Debbie Schultz的买入而大涨1000%，暗示跟随议员交易可能获得高收益，并推广相关追踪工具。投资建议偏乐观。",
+      "translation": "还在猜买什么股票吗？11月20日，众议员Debbie Schultz提交了买入Viasat（VSAT）的报告。自那以后，该股已上涨1000%！所以那些跟随她的人，希望她让你发财了。$VSAT是@unusual_whales的Debbie Schultz追踪器的头号持仓。",
       "confidence": "high"
     }
   },
@@ -306,6 +411,25 @@
       "direction": "bearish",
       "summary": "CFO对自身企业前景看好，但对整体经济转为悲观，表明企业盈利预期或受宏观环境影响，投资者需警惕经济下行风险。",
       "translation": "据《财富》报道，CFO们对自己的公司持乐观态度，尽管他们对经济转向悲观。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071941068795289675",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The richest 20% are the only ones powering the U.S. economy, per Moody's Zandi.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071941068795289675",
+    "published_at": "2026-06-30T12:57:00+00:00",
+    "fetched_at": "2026-06-30T19:15:42.103190+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "穆迪Zandi指出，美国经济仅由最富有的20%人群驱动，暗示消费基础薄弱，经济复苏不均衡，可能对依赖大众消费的市场构成风险。",
+      "translation": "根据穆迪的Zandi，最富有的20%人群是唯一支撑美国经济的力量。",
       "confidence": "medium"
     }
   },
