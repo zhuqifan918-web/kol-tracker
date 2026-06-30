@@ -1,5 +1,153 @@
 [
   {
+    "tweet_id": "2072007541639557427",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE is raising $56M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers.\n\nSivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and their other partners.  \n\nIt could also point to broader foundry allocation/scaling beyond the already announced WIN partnership. \n\nMy feedback is that it's very bullish if it's comprised of long-only institutions and there's no heavy discount (30 day VWAP). Otherwise, would need to reaccess if there's arb or short term investors. \n\nThis is the perfect time to get ideal strategic investors like $GFS on the cap table. As well as focusing on having more US institutional support. \n\nEspecially considering $56M is a small check to a single US institution that want photonics exposure (eg. look at Poet's $400M registered direct offering for sentiment). \n\nA lot of it is \"it depends when more info comes out\", but this looks like a very positive signal for mass production given Siver's fab-lite models.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072007541639557427",
+    "published_at": "2026-06-30T17:21:08+00:00",
+    "fetched_at": "2026-06-30T17:21:31.473319+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "GFS"
+      ],
+      "direction": "bullish",
+      "summary": "SIVERS融资5600万美元扩产InP激光器及光放大器，采用fab-lite模式，利好量产。若资金来自长期机构、折价小，则强烈看涨；否则需观察套利或短期投资者影响。",
+      "translation": "$SIVE正在筹集5600万美元（6亿瑞典克朗）以扩大InP激光器和光放大器的制造产能。Sivers采用轻晶圆厂模式，因此这可能暗示着在Jabil及其其他合作伙伴处为CW DFB激光器量产争取晶圆厂产能/规模扩张。这也可能指向比已宣布的WIN合作伙伴关系更广泛的晶圆厂产能/规模扩张。我的反馈是：如果这笔资金由纯多头的长期机构构成，且没有大幅折价（30日成交量加权平均价），则非常看涨。否则，需要重新评估是否存在套利或短期投资者。现在是引入像$GFS这样的理想战略投资者进入股东名册的最佳时机，同时也要侧重于争取更多美国机构支持。尤其考虑到5600万美元对于想要光子学敞口的单个美国机构来说只是一笔小支票（例如，参考Poet的4亿美元注册直接发行的情绪）。很多情况取决于更多信息发布时，但鉴于Sivers的轻晶圆厂模式，这看起来是量产的一个非常积极的信号。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072006499774177636",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citi says that there is bearish pressure is building on the Nasdaq.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072006499774177636",
+    "published_at": "2026-06-30T17:17:00+00:00",
+    "fetched_at": "2026-06-30T17:22:15.849221+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "QQQ"
+      ],
+      "direction": "bearish",
+      "summary": "花旗警告称纳斯达克指数正面临日益增加的看跌压力，可能预示短期下行风险。",
+      "translation": "花旗表示，纳斯达克指数正在积聚看跌压力。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072001466579992873",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: U.S. stocks are on track for their strongest quarter in years, with the S&amp;P 500 up 14% and the Nasdaq up 20%, both marking their best quarterly gains since 2020, while the Dow has climbed 13% for its strongest quarter since late 2022.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072001466579992873",
+    "published_at": "2026-06-30T16:57:00+00:00",
+    "fetched_at": "2026-06-30T17:22:17.755919+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国股市本季度表现强劲，标普500和纳斯达克指数分别上涨14%和20%，创下自2020年以来最佳季度涨幅，道琼斯指数上涨13%，为2022年底以来最强季度表现。投资者可能看好短期市场走势。",
+      "translation": "突发：美国股市有望迎来多年来最强劲的季度，标普500指数上涨14%，纳斯达克指数上涨20%，均创下自2020年以来最佳季度涨幅，而道琼斯指数上涨13%，为2022年底以来最强季度表现。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072001069492953548",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "持有康宁 $GLW 要强大的耐心，2年十倍。 https://t.co/p2eARMuA02",
+    "tweet_url": "https://x.com/xiaomustock/status/2072001069492953548",
+    "published_at": "2026-06-30T16:55:25+00:00",
+    "fetched_at": "2026-06-30T17:22:02.053409+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "该推文建议长期持有康宁（GLW），预期两年内实现十倍收益，暗示强烈看涨前景。",
+      "translation": "持有康宁 $GLW 需要强大的耐心，两年十倍收益。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072000136872677650",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "康宁跌的亏麻了",
+    "tweet_url": "https://x.com/xiaomustock/status/2072000136872677650",
+    "published_at": "2026-06-30T16:51:43+00:00",
+    "fetched_at": "2026-06-30T17:22:03.722555+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "康宁"
+      ],
+      "direction": "bearish",
+      "summary": "该推文表明康宁股票价格下跌，导致投资者遭受重大损失，表达了悲观情绪。",
+      "translation": "康宁股票下跌，亏得麻木了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071995924172394695",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating in sites like Amazon. And have V5 slated for mass production next year (they have a 10,000+ /year capacity).\n\nInvestors include Foxconn, $NVDA, $AMZN, Softbank, and now Serenity. \n\nI've been personally waiting for humanoid exposure for awhile (Agility is set to be the first US pure-play listed one) to the point I was actually planning on investing in Unitree's IPO. \n\nBut I'm glad now I personally have a compelling alternative now since I prefer to invest capital to build up Made in America supply chains (75% of their components are US-sourced from investor desks). \n\nThere are risks assigned to SPACs such as listing delays, or cancellation. But excited to see what happens next with developments.\n\nI do hope this encourages other frontier companies to go public early on.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+    "published_at": "2026-06-30T16:34:58+00:00",
+    "fetched_at": "2026-06-30T17:21:38.518372+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "NVDA",
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "作者看好Agility Robotics，认为其是首个美国纯玩人形机器人上市标的，计划通过SPAC（CCXI）在纳斯达克上市，已有V4在亚马逊运营，V5计划量产，供应链75%来自美国，投资者包括英伟达、亚马逊等，但需注意SPAC延迟风险。",
+      "translation": "是的！Agility Robotics目前是我最喜欢的人形机器人/机器人领域标的。他们计划最早在9月份通过CCXI在纳斯达克上市（据Digitimes报道）。仅供参考：他们的V4人形机器人已在亚马逊等场所运行，明年V5计划量产（年产能超过1万台）。投资者包括富士康、英伟达、亚马逊、软银，现在还有Serenity。我本人一直在等待人形机器人的投资机会（Agility将是第一个美国纯玩上市标的），甚至曾计划投资Unitree的IPO。但现在我很高兴有了一个更有吸引力的选择，因为我更倾向于投资建设美国供应链（他们75%的组件来自美国投资者渠道）。SPAC存在风险，如上市延迟或取消，但我对后续发展感到兴奋。希望这能鼓励其他前沿公司尽早上市。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071977219002613768",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics.\n\nLike a skin bottleneck. Or Aespa KPOP robot makeover as a service.\n\nSo if $TSLA Optimus makes tens of millions of humanoids:\n\nWho’s going to make them all look hot?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071977219002613768",
+    "published_at": "2026-06-30T15:20:39+00:00",
+    "fetched_at": "2026-06-30T17:21:47.908925+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论了特斯拉Optimus人形机器人规模化后可能催生的机器人美容或皮肤定制产业，属于对未来潜在投资机会的推测性分析，但未提供明确看多或看空信号。",
+      "translation": "我想知道人形机器人是否会引发机器人化妆品的新瓶颈/产业。比如皮肤瓶颈。或者像Aespa K-pop机器人改造服务。所以如果$TSLA Optimus生产数千万台人形机器人：谁来让它们看起来迷人？",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2071971267935076398",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
