@@ -1,5 +1,29 @@
 [
   {
+    "tweet_id": "2072070665155342521",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072070665155342521",
+    "published_at": "2026-06-30T21:31:58+00:00",
+    "fetched_at": "2026-06-30T22:48:23.115594+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "TSLA",
+        "CAT",
+        "AMAT"
+      ],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里披露了对英伟达、特斯拉、卡特彼勒和应用材料等股票的新空头头寸，显示他对这些股票未来走势看跌。",
+      "translation": "突发：迈克尔·伯里披露了对英伟达（$NVDA）、特斯拉（$TSLA）、卡特彼勒（$CAT）和应用材料（$AMAT）的新空头头寸。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072053952598724981",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -77,6 +101,25 @@
       "direction": "bearish",
       "summary": "黄金价格本季度下跌13%，创13年最大季度跌幅，显示市场对黄金的看空情绪强烈，投资者应警惕风险。",
       "translation": "突发：黄金本季度将录得13%的亏损，这是13年来的最大季度跌幅。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072016566124769627",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has told gas retailers to “get their prices down immediately,” warning there will be “big problems ahead” if they do not.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072016566124769627",
+    "published_at": "2026-06-30T17:57:00+00:00",
+    "fetched_at": "2026-06-30T22:48:30.610954+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普施压汽油零售商降价，可能影响能源板块及通胀预期，对相关行业构成短期利空。",
+      "translation": "特朗普已告知汽油零售商“立即降价”，并警告若他们不照做将面临“大麻烦”。",
       "confidence": "medium"
     }
   },
@@ -225,6 +268,29 @@
       "summary": "该推文表明康宁股票价格下跌，导致投资者遭受重大损失，表达了悲观情绪。",
       "translation": "康宁股票下跌，亏得麻木了。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071996433654292762",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "U.S. Treasury Secretary Scott Bessent said China remains the only major buyer of Iranian oil.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071996433654292762",
+    "published_at": "2026-06-30T16:37:00+00:00",
+    "fetched_at": "2026-06-30T22:48:35.316241+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USO",
+        "BNO",
+        "XLE"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及中国是伊朗原油的主要买家，可能影响全球原油供需格局和能源价格，但未给出明确投资方向。建议关注原油ETF（如USO、BNO）及能源板块（XLE）的后续反应。",
+      "translation": "美国财政部长斯科特·贝森特表示，中国仍然是伊朗原油的唯一主要买家。",
+      "confidence": "medium"
     }
   },
   {

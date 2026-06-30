@@ -25,25 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$NVDA",
+      "$TSLA",
       "$AAPL",
       "$MSFT",
-      "$GME",
-      "$SMCI",
-      "$VSAT"
+      "$AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI与科技巨头投资热",
-      "地缘政治与能源风险",
-      "利率与通胀不确定性"
+      "看跌科技股与半导体",
+      "利率上升及通胀压力",
+      "消费疲软与经济分化"
     ],
-    "recent_shift": "近期从关注美联储降息转向强调通胀顽固及可能加息",
+    "recent_shift": "近期观点从之前的市场乐观转向重点关注风险，如Burry做空Nvidia、半导体高权重、通胀顽固及消费者债务恶化。",
     "representative_quotes": [
-      "BREAKING: U.S. stocks are on track for their strongest quarter in years, with the S&P 500 up 14% and the Nasdaq up 20%",
+      "BREAKING: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
       "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes",
-      "BREAKING: Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years."
+      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz."
     ],
-    "generated_at": "2026-06-30T21:13:04.312401+00:00"
+    "generated_at": "2026-06-30T22:48:42.637912+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
