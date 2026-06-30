@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "MSFT",
-      "MU",
-      "NVDA",
-      "AMZN"
+      "$AAPL",
+      "$MSFT",
+      "$GME",
+      "$SMCI",
+      "$VSAT"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "通胀压力持续",
-      "美联储政策鹰派",
-      "地缘政治风险",
-      "科技股估值高企",
-      "经济分化加剧"
+      "AI与科技巨头投资热",
+      "地缘政治与能源风险",
+      "利率与通胀不确定性"
     ],
-    "recent_shift": "近期观点从偏乐观转向警惕，强调通胀顽固、利率可能上调，并关注黄金暴跌、美国战略石油储备创新低等风险信号。",
+    "recent_shift": "近期从关注美联储降息转向强调通胀顽固及可能加息",
     "representative_quotes": [
+      "BREAKING: U.S. stocks are on track for their strongest quarter in years, with the S&P 500 up 14% and the Nasdaq up 20%",
       "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes",
-      "BREAKING: Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years.",
-      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz."
+      "BREAKING: Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years."
     ],
-    "generated_at": "2026-06-30T19:15:50.237641+00:00"
+    "generated_at": "2026-06-30T21:13:04.312401+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

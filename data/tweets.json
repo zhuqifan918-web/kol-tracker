@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2072053952598724981",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "S&amp;P500 posts its biggest quarterly gain since 2020",
+    "tweet_url": "https://x.com/unusual_whales/status/2072053952598724981",
+    "published_at": "2026-06-30T20:25:33+00:00",
+    "fetched_at": "2026-06-30T21:12:45.670303+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SP500"
+      ],
+      "direction": "bullish",
+      "summary": "标普500录得自2020年以来最大季度涨幅，显示市场强劲反弹趋势。",
+      "translation": "标普500录得自2020年以来最大季度涨幅。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072044005106352497",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: We have just launched a free trial of the Unusual Whales API.\n\nThe Unusual Whales API gives full access to live options, equities, and prediction market data. \n\nConnect it to any AI to build trading bots, smart money dashboards, or custom screeners with real-time options flow, dark pools, and much more.\n\nJoin here: https://t.co/A3bLf7mVxx",
+    "tweet_url": "https://x.com/unusual_whales/status/2072044005106352497",
+    "published_at": "2026-06-30T19:46:02+00:00",
+    "fetched_at": "2026-06-30T21:12:49.069570+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文宣布推出Unusual Whales API的免费试用版，提供实时期权、股票和预测市场数据，可用于构建交易机器人、智能资金仪表板和自定义筛选器，但未指明具体投资方向或标的。",
+      "translation": "突发：我们刚刚推出了Unusual Whales API的免费试用版。Unusual Whales API提供实时期权、股票和预测市场数据的完全访问权限。将其连接到任何AI，即可构建交易机器人、智能资金仪表板或自定义筛选器，实时获取期权流、暗池交易等数据。立即加入：https://t.co/A3bLf7mVxx",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072026632399753471",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
