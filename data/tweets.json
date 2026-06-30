@@ -1,5 +1,29 @@
 [
   {
+    "tweet_id": "2071870184047198575",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So I come across random bottlenecks here and there:\n\nPump lasers / packaging was one of them, with claims it’s a more severe bottleneck than EML.\n\nFor example in Korea: RF materials (327260) is apparently sole source to $LITE in this specific bottleneck.\n\nBecause of Chinese exclusion.\n\nAnother personal heuristic I’ve experienced from bottleneck investing:\n\nIs it needs to take down an entire industry like $AXTI for it to be rerated thousands of percent? Rather than material revenue increase then a 2x.\n\nSo if they were supplying to $COHR and other EML players (they work with coherent too but for something unrelated) I would have seen more value?\n\nThink Kyocera was Coherent’s supplier for this chokepoint.\n\nFeels like markets don’t care about small specific upstream bottlenecks to one or two suppliers Japanese companies to $KLAC or optical components (at least yet).\n\nAlso I’m not a fan of Korean markets given extreme volatility so not adding more asset in that market personally now. (Don’t have positions)",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071870184047198575",
+    "published_at": "2026-06-30T08:15:20+00:00",
+    "fetched_at": "2026-06-30T10:25:39.080938+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "KLAC",
+        "LITE",
+        "COHR"
+      ],
+      "direction": "neutral",
+      "summary": "讨论了光脉冲激光器/封装环节的供应链瓶颈，提及韩国RF材料（327260）是$LITE的唯一供应商，因中国排除政策。作者认为市场尚未重视这类小众上游瓶颈，且对韩国市场持谨慎态度，暂不增加仓位。",
+      "translation": "我随机遇到了一些瓶颈：泵浦激光器/封装是其中之一，据称比EML更严重。例如在韩国，RF材料（327260）似乎因中国排除政策而成为$LITE在该瓶颈的独家供应商。另一个我从瓶颈投资中得到的个人经验：是否需要像$AXTI那样拖垮整个行业才能获得数千%的重新定价，而非仅靠材料收入增长带来2倍涨幅。如果他们同时也供应$COHR和其他EML厂商（他们与Coherent有其他业务但无关），我会认为价值更高？Kyocera似乎是Coherent在此瓶颈的供应商。感觉市场并不关心这些针对一两个供应商（日本公司对$KLAC或光学组件）的小众上游瓶颈（至少目前如此）。而且我不喜欢韩国市场的极端波动性，所以个人目前不会在该市场增加资产（没有持仓）。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2071844105148317910",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -147,6 +171,25 @@
     }
   },
   {
+    "tweet_id": "2071798630231707890",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales is having a July 4th sale.\n\nGet up to 20% off.\n\nWe have created tools to help you navigate this market.\n\nCheck GEX, API, options, stocks and so much more.\n\nJoin here: https://t.co/bsTCireGpr https://t.co/HDdXAhRLf5",
+    "tweet_url": "https://x.com/unusual_whales/status/2071798630231707890",
+    "published_at": "2026-06-30T03:31:00+00:00",
+    "fetched_at": "2026-06-30T10:26:04.247670+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这是Unusual Whales的独立日促销广告，提供高达20%的折扣，推广其市场分析工具，如GEX、API、期权和股票数据。该推文未提供具体投资建议或市场方向。",
+      "translation": "Unusual Whales正在举办独立日促销活动。最高可享20%折扣。我们创建了工具帮助您驾驭这个市场。查看GEX、API、期权、股票等等。加入这里：https://t.co/bsTCireGpr https://t.co/HDdXAhRLf5",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2071775225838989797",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -163,6 +206,27 @@
       "summary": "该推文提到特朗普名下账户在2026年第一季度执行了约3700笔股票交易，这可能引发市场对政治人物交易活动的关注，但未提供具体交易标的或投资方向，因此投资相关性有限。",
       "translation": "最近的联邦伦理披露显示，特朗普总统名下的账户在2026年第一季度执行了约3700笔股票交易。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071760126219083795",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "CEO Tim Cook told The Wall Street Journal that the hikes were “unavoidable.\"\n\nRead more: https://t.co/Yf7IQYLPMN",
+    "tweet_url": "https://x.com/unusual_whales/status/2071760126219083795",
+    "published_at": "2026-06-30T00:58:00+00:00",
+    "fetched_at": "2026-06-30T10:26:14.444577+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果CEO蒂姆·库克承认涨价（hikes）不可避免，暗示通胀或成本压力可能传导至产品价格，或对盈利及消费者需求产生负面影响，苹果股票可能面临下行风险。",
+      "translation": "CEO蒂姆·库克向《华尔街日报》表示，这些涨价是“不可避免的”。",
+      "confidence": "high"
     }
   },
   {
