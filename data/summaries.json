@@ -4,48 +4,48 @@
       "$SIVE",
       "$AAOI",
       "$MU",
-      "$POET",
-      "$TSLA"
+      "$LITE",
+      "$AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人形机器人供应链",
-      "光子学/光互联瓶颈",
-      "AI数据中心资本开支",
-      "中国出口管制与自主替代",
-      "内存结构性需求"
+      "光子学瓶颈与激光器供应紧张",
+      "人形机器人及自动化供应链",
+      "AI数据中心资本支出与记忆体需求",
+      "韩国及台湾光学与半导体小市值公司",
+      "贸易战与全球供应链控制权"
     ],
-    "recent_shift": "从前期集中讨论光子学瓶颈，近期更多关注人形机器人商业化进展和美股回调机会。",
+    "recent_shift": "近期观点趋于谨慎，强调宏观回调和高贝塔股风险，但坚持光子学与记忆体长期结构性增长。",
     "representative_quotes": [
-      "Honestly this decade from 2020-2030 might be the most goated in human history. - Scaling massive reusable rockets... on the cusp of ASI and recursive learning... Backflipping Boston Dynamics and Unitree humanoids...",
-      "Robotics is next. Both deal count and investment amounts are skyrocketing... the same AI DC exposure often has cross-exposure to humanoid ramp.",
-      "I'm actually more bullish than ever as prices go down. $SIVE at ~$1.9B MC you have: $GFS reference laser, laser for Ayar and others in $NVDA NVLink ecosystem for CPO scale up..."
+      "Just some notes on $POET AGM and read through on optical markets: - 'The top three laser suppliers control 68% of the market, and they’re completely sold out for the next two years'",
+      "For robotics companies, I have a favorable view on Unitree and Agility Robotics... I currently own: - Harmonic Drive (6324)... Vishay Precision...",
+      "IMO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now."
     ],
-    "generated_at": "2026-06-29T23:54:52.892997+00:00"
+    "generated_at": "2026-06-30T10:26:32.740581+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "AAPL",
       "MSFT",
+      "MU",
       "SPCX",
-      "SMCI",
-      "MU"
+      "GME"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与市场波动",
-      "AI与数据中心投资热潮",
-      "通胀与利率前景分歧",
-      "消费者债务与零售疲软",
-      "企业成本上升与裁员"
+      "地缘政治风险升温（美伊冲突、石油储备下降）",
+      "科技行业监管加强（AI数据中立法案、芯片出口调查）",
+      "消费者经济压力增大（房贷违约率上升、信用卡债务恶化）",
+      "市场流动性趋紧（美联储加息预期、期权杠杆降低）",
+      "企业转型与AI竞争（苹果涨价、三星投资、微软期权押注）"
     ],
-    "recent_shift": "近期更聚焦于地缘冲突（美伊、台海）与市场避险，同时强调消费者债务与住房市场降温，转向防御性观点。",
+    "recent_shift": "近期从关注科技股增长转向关注地缘冲突和消费疲软带来的风险，整体偏空情绪加剧。",
     "representative_quotes": [
       "Trump: I don't want to drive housing prices down. I want to drive housing prices up",
-      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi.",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
+      "Breaking: The Strategic Petroleum Reserve is at its lowest level since 1983",
+      "More Ontarians in Canada are missing mortgage payments, as balance delinquency rate jumps 52% in a year"
     ],
-    "generated_at": "2026-06-30T06:39:23.934761+00:00"
+    "generated_at": "2026-06-30T10:26:36.091610+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
