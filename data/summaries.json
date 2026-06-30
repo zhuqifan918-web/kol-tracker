@@ -1,51 +1,50 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "MU",
-      "POET",
-      "LPK"
+      "$SIVE",
+      "$AAOI",
+      "$MU",
+      "$LITE",
+      "$POET"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资超级周期",
-      "光子学与光通信瓶颈",
-      "机器人与人形机器人",
-      "供应链地缘政治",
-      "内存与存储需求"
+      "光子学与激光瓶颈",
+      "人工智能基础设施资本支出",
+      "人形机器人产业链",
+      "内存/HBM结构性需求",
+      "供应链地理政治"
     ],
-    "recent_shift": "从早期关注AI数据中心建设，转向更关注上游光子学瓶颈和供应链自主性。",
+    "recent_shift": "从全面人工智能基础设施转向更加聚焦光子学瓶颈和机器人，近期市场回调被视为增持机会。",
     "representative_quotes": [
-      "We're probably witnessing the modern cold war. But instead of nuclear stockpiles, it's racing to build superintelligence both offensively and defensively.",
-      "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.",
-      "The upstream MLCC bottleneck stack looks like this: MLCC-grade BaTiO₃ / dielectric powder - Sakai Chemical (40%), Nippon Chemica, Fuji Titanium..."
+      "The entire optical components industry today is facing a severe shortage of critical components.",
+      "It's hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.",
+      "It feels like every movie from the Star Wars Death Star to Skynet is coming to life."
     ],
-    "generated_at": "2026-06-30T12:29:11.042239+00:00"
+    "generated_at": "2026-06-30T15:11:18.410243+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "AAPL",
-      "AMZN",
       "MSFT",
+      "AMZN",
       "MU",
-      "SAMSUNG"
+      "QCOM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险加剧",
-      "通胀与利率维持高位",
-      "科技巨头面临监管与成本压力",
-      "消费者信心与支出疲软",
-      "数据中心与AI投资热潮"
+      "半导体与AI基础设施投资热潮",
+      "美伊地缘政治风险与能源价格波动",
+      "消费者债务压力与经济增长放缓",
+      "企业财报与市场情绪分化"
     ],
-    "recent_shift": "近期内容从关注AI与数据中心机会转向强调地缘冲突、通胀粘性和市场脆弱性。",
+    "recent_shift": "近期更加强调地缘政治风险和美国消费者信贷恶化，同时仍看好半导体和AI长期趋势",
     "representative_quotes": [
-      "Apple's, $AAPL, Tim Cook has said he has never 'seen anything like this' surge in memory and storage costs 'in over 40 years.'",
-      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz.",
-      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
+      "Semiconductor stocks now account for a record 19.7% of the S&P 500.",
+      "The IMF says AI-related borrowing presents a greater financial stability risk than elevated tech stock valuations.",
+      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz."
     ],
-    "generated_at": "2026-06-30T12:29:13.520985+00:00"
+    "generated_at": "2026-06-30T15:11:11.108844+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
@@ -57,17 +56,17 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片涨价与AI算力需求驱动存储巨头业绩爆发",
-      "物理AI时代对数据、存储和芯片设备带来的天量需求",
-      "玻璃基板与光纤技术成为下一代AI芯片关键基础设施",
-      "芯片设备龙头迎来新一轮扩产周期"
+      "存储芯片长期供不应求，是AI革命的核心瓶颈",
+      "康宁$GLW因英伟达合作扩产10倍，被看好为下一代AI算力底座",
+      "物理AI或成英伟达第二增长曲线，但门槛极高",
+      "半导体设备股（如AMAT、LRCX）受益于存储扩产，刚启动"
     ],
-    "recent_shift": "早期更专注存储与英伟达，近期显著增加对芯片设备股（科磊、应用材料、泛林）和康宁的看多关注",
+    "recent_shift": "从早期专注存储和英伟达，近来新增对康宁$GLW的强烈看多，并提到谷歌限制Gemini使用作为AI基建供不应求的例证。",
     "representative_quotes": [
-      "物理AI很可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。",
-      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。"
+      "这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力",
+      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。"
     ],
-    "generated_at": "2026-06-30T12:29:16.946022+00:00"
+    "generated_at": "2026-06-30T15:11:15.217996+00:00"
   }
 }

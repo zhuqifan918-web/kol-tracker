@@ -1,5 +1,167 @@
 [
   {
+    "tweet_id": "2071971267935076398",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Semiconductor stocks now account for a record 19.7% of the S&amp;P 500.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071971267935076398",
+    "published_at": "2026-06-30T14:57:00+00:00",
+    "fetched_at": "2026-06-30T15:10:41.933477+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "半导体股在标普500指数中的占比创下19.7%的历史新高，表明市场对半导体行业的信心强劲，可能吸引更多资金流入该板块。",
+      "translation": "突发：半导体股在标普500指数中的占比达到创纪录的19.7%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071966234443391047",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The IMF says AI-related borrowing presents a greater financial stability risk than elevated tech stock valuations.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071966234443391047",
+    "published_at": "2026-06-30T14:37:00+00:00",
+    "fetched_at": "2026-06-30T15:10:43.861841+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "IMF警告AI相关借贷比高估值科技股更具金融稳定风险，可能引发对AI行业借贷压力的担忧，进而影响科技股市场情绪。",
+      "translation": "突发：国际货币基金组织表示，与人工智能相关的借贷比高企的科技股估值构成了更大的金融稳定风险。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071962108586344859",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力，而且他们几乎不会随意操作，会拿非常久。指数调整的周期特别长，\n散户购买指数都会被动买入。\n也不存在小票被大户或者kol或者公司管理层操纵涨跌的情况，没有散户互割踩踏。\n也能上大仓位。\n持仓体验大部分非常舒服。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071962108586344859",
+    "published_at": "2026-06-30T14:20:36+00:00",
+    "fetched_at": "2026-06-30T15:10:28.372363+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文认为大市值股票具有机构持续加仓、持股稳定、指数调整周期长、不易被操纵、可上大仓位、持仓体验舒适等优势，整体持看好态度。",
+      "translation": "这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力，而且他们几乎不会随意操作，会拿非常久。指数调整的周期特别长，散户购买指数都会被动买入。也不存在小票被大户或者kol或者公司管理层操纵涨跌的情况，没有散户互割踩踏。也能上大仓位。持仓体验大部分非常舒服。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071961279380791729",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.\n\nOn $CBRS + OpenAI:\n\n- Needs 1-2K tokens/sec so tries to use Cerebras.\n\n- Claims OpenAI reserved all capacity, making waitlist infinite for everyone else not a hyperscaler.\n\n- Stated alternatives with Groq’s API not accessible to them\n\nFeels bad. But it does show how few players / limited capacity there is for fast inference.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071961279380791729",
+    "published_at": "2026-06-30T14:17:18+00:00",
+    "fetched_at": "2026-06-30T15:10:12.534368+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RDDT",
+        "CBRS"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出Cerebras产能紧张且被OpenAI包场，暗示推理芯片供不应求，对CBRS及相关替代品公司（如Groq）构成利好，但也反映出行业竞争激烈。",
+      "translation": "从机器学习的$RDDT子论坛上有一个挺有趣的吐槽抱怨。关于$CBRS和OpenAI：- 需要1-2千token/秒，所以尝试使用Cerebras。- 声称OpenAI预定了所有产能，使得非超大规模客户的等待列表无限长。- 据称Groq的API替代方案对他们不可用。感觉不好。但这确实显示出快速推理的玩家和产能非常有限。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071961201739718950",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apollo Chief Economist Torsten Slok says heavy debt issuance by AI hyperscalers is pulling investor demand away from U.S. Treasurys",
+    "tweet_url": "https://x.com/unusual_whales/status/2071961201739718950",
+    "published_at": "2026-06-30T14:17:00+00:00",
+    "fetched_at": "2026-06-30T15:10:45.768812+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "AI超大规模企业大量发行债券，吸走了美国国债的投资者需求，可能导致国债收益率上升或价格下跌。",
+      "translation": "阿波罗首席经济学家托尔斯滕·斯洛克表示，AI超大规模企业大量发行债券正将投资者需求从美国国债中抽走。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071955704215458276",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "$康宁 $GLW 泛林 $LRCX 科磊 $KLAC 应用材料 $AMAT \n全部爆拉，做人做事首先要相信自己，\n自己给自己洗脑，\n自己都不信怎么可能拿得住呢。\n大不了错了再改。 https://t.co/T4Kbt4ToRZ",
+    "tweet_url": "https://x.com/xiaomustock/status/2071955704215458276",
+    "published_at": "2026-06-30T13:55:09+00:00",
+    "fetched_at": "2026-06-30T15:10:30.609287+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "LRCX",
+        "KLAC",
+        "AMAT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文表达了作者对多只美股半导体制造设备及材料板块股票的强烈看涨情绪，并通过股票集体拉升行情强调投资者应首先自我说服、坚定持有，即便错误也可再调整。",
+      "translation": "康宁、泛林、科磊、应用材料全部暴涨，做人做事首先要相信自己，给自己洗脑，自己都不信怎么可能拿得住呢。大不了错了再改。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071954155552252121",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: South Korean memory chipmaker SK Hynix has filed with the SEC for a U.S. listing on the Nasdaq Global Select Market under the ticker SKHY.",
+    "tweet_url": "https://x.com/unusual_whales/status/2071954155552252121",
+    "published_at": "2026-06-30T13:49:00+00:00",
+    "fetched_at": "2026-06-30T15:10:47.834083+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHY"
+      ],
+      "direction": "bullish",
+      "summary": "SK海力士申请在纳斯达克上市，这是韩国重要芯片制造商进入美国市场的积极信号，可能吸引投资者关注，利好公司估值和流动性。",
+      "translation": "突发：韩国存储芯片制造商SK海力士已向SEC提交申请，拟在纳斯达克全球精选市场上市，股票代码为SKHY。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071946102002057560",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"CFOs are bullish on their own companies, even as they turn bearish on the economy,\" per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2071946102002057560",
+    "published_at": "2026-06-30T13:17:00+00:00",
+    "fetched_at": "2026-06-30T15:10:51.025705+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "CFO对自身企业前景看好，但对整体经济转为悲观，表明企业盈利预期或受宏观环境影响，投资者需警惕经济下行风险。",
+      "translation": "据《财富》报道，CFO们对自己的公司持乐观态度，尽管他们对经济转向悲观。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2071931005921812986",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -81,6 +243,44 @@
       "summary": "调查显示，认为当前是投资好时机的美国人比例从34%降至25%，表明市场情绪明显转冷，投资者信心减弱，暗示可能面临风险或不确定性。",
       "translation": "根据安联的调查，如今只有25%的美国人认为现在是投资的好时机，低于上季度的34%。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2071915902975562018",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley has said that salt is the new oil, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2071915902975562018",
+    "published_at": "2026-06-30T11:17:00+00:00",
+    "fetched_at": "2026-06-30T15:10:55.733620+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "摩根士丹利将盐类比为原油，暗示其战略价值或投资潜力可能上升，但未提供具体投资标的或方向。",
+      "translation": "据CNBC报道，摩根士丹利表示，盐是新的石油。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071910869785522595",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales is having a July 4th sale.\n\nGet up to 20% off.\n\nWe have created tools to help you navigate this market.\n\nCheck GEX, API, options, stocks and so much more.\n\nJoin here: https://t.co/bsTCire8zT https://t.co/hkFMg3gW05",
+    "tweet_url": "https://x.com/unusual_whales/status/2071910869785522595",
+    "published_at": "2026-06-30T10:57:00+00:00",
+    "fetched_at": "2026-06-30T15:10:57.896993+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文推广Unusual Whales的7月4日促销活动，提供高达20%折扣，推荐其工具用于分析股票、期权、GEX、API等，暗示对市场参与者有利。",
+      "translation": "Unusual Whales正在举行7月4日促销。最高可享20%折扣。我们创建了工具帮助您驾驭这个市场。查看GEX、API、期权、股票等更多内容。在此加入：https://t.co/bsTCire8zT https://t.co/hkFMg3gW05",
+      "confidence": "medium"
     }
   },
   {
