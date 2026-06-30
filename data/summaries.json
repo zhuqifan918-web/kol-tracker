@@ -4,69 +4,71 @@
       "$SIVE",
       "$AAOI",
       "$MU",
-      "$LITE",
+      "$SNDK",
       "$POET"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与激光瓶颈",
-      "人工智能基础设施资本支出",
-      "人形机器人产业链",
-      "内存/HBM结构性需求",
-      "供应链地理政治"
+      "光子学瓶颈与激光器短缺",
+      "人形机器人产业链爆发前夜",
+      "AI数据中心与资本支出超级周期",
+      "光学组件与共封装光学（CPO）扩张",
+      "内存结构需求与高阶HBM/DRAM上涨"
     ],
-    "recent_shift": "从全面人工智能基础设施转向更加聚焦光子学瓶颈和机器人，近期市场回调被视为增持机会。",
+    "recent_shift": "近期观点未发生显著变化，仍坚定看多光子学与相关激光瓶颈，但对短期走势预期更务实，强调长期等待至2027年出货爬坡。",
     "representative_quotes": [
-      "The entire optical components industry today is facing a severe shortage of critical components.",
-      "It's hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.",
-      "It feels like every movie from the Star Wars Death Star to Skynet is coming to life."
+      "My feedback is that it's very bullish if it's comprised of long-only institutions and there's no heavy discount (30 day VWAP). Otherwise, would need to reaccess if there's arb or short term investors.",
+      "For robotics companies, I have a favorable view on Unitree and Agility Robotics, two humanoid players. And I have largest concentration in Agility Robotics, since I personally prefer US humanoid players.",
+      "Always amazing looking at #MU earnings: Revenue: $41.46B vs. $35.8B est. EPS: $25.11 vs. $20.78 est. ... Looks like memory demand has become structural… But great earnings to show up the AI trade is continuing to ramp up."
     ],
-    "generated_at": "2026-06-30T15:11:18.410243+00:00"
+    "generated_at": "2026-06-30T17:22:33.198666+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "MSFT",
-      "AMZN",
-      "MU",
-      "QCOM"
+      "$AAPL",
+      "$MSFT",
+      "$AMZN",
+      "$MU",
+      "$SAMSUNG"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "半导体与AI基础设施投资热潮",
-      "美伊地缘政治风险与能源价格波动",
-      "消费者债务压力与经济增长放缓",
-      "企业财报与市场情绪分化"
+      "半导体与AI硬件投资狂热",
+      "地缘政治风险与市场波动",
+      "消费者与中小企业经济放缓",
+      "科技巨头利润与竞争压力",
+      "央行政策与利率预期分歧"
     ],
-    "recent_shift": "近期更加强调地缘政治风险和美国消费者信贷恶化，同时仍看好半导体和AI长期趋势",
+    "recent_shift": "早期关注强劲季度表现与科技成长，后转向警告地缘冲突、AI泡沫风险及消费者信心下滑。",
     "representative_quotes": [
-      "Semiconductor stocks now account for a record 19.7% of the S&P 500.",
-      "The IMF says AI-related borrowing presents a greater financial stability risk than elevated tech stock valuations.",
-      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz."
+      "BREAKING: U.S. stocks are on track for their strongest quarter in years, with the S&P 500 up 14% and the Nasdaq up 20%...",
+      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz.",
+      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi."
     ],
-    "generated_at": "2026-06-30T15:11:11.108844+00:00"
+    "generated_at": "2026-06-30T17:22:39.866285+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
       "$NVDA",
-      "$MU",
+      "$LRCX",
       "$AMAT",
-      "$LRCX"
+      "$KLAC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片长期供不应求，是AI革命的核心瓶颈",
-      "康宁$GLW因英伟达合作扩产10倍，被看好为下一代AI算力底座",
-      "物理AI或成英伟达第二增长曲线，但门槛极高",
-      "半导体设备股（如AMAT、LRCX）受益于存储扩产，刚启动"
+      "存储芯片（海力士、美光）是AI革命的核心和利润来源",
+      "康宁（$GLW）因玻璃基板、光纤和CPO成为下一代AI算力底座",
+      "半导体设备（LRCX、AMAT、KLAC）受益于存储和AI扩产",
+      "物理AI和太空计算（SPCX）是远期超级机会",
+      "AI基建远未成熟，大厂资本支出和供需缺口持续推动相关股票上涨"
     ],
-    "recent_shift": "从早期专注存储和英伟达，近来新增对康宁$GLW的强烈看多，并提到谷歌限制Gemini使用作为AI基建供不应求的例证。",
+    "recent_shift": "从早期主要押注海力士和美光等存储股，近期显著增加对康宁（$GLW）和半导体设备的关注，并清仓部分其他仓位全仓买入康宁和海力士。",
     "representative_quotes": [
-      "这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力",
-      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了",
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。"
+      "持有康宁 $GLW 要强大的耐心，2年十倍。",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。"
     ],
-    "generated_at": "2026-06-30T15:11:15.217996+00:00"
+    "generated_at": "2026-06-30T17:22:37.036149+00:00"
   }
 }
