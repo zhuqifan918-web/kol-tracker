@@ -4,48 +4,48 @@
       "$SIVE",
       "$AAOI",
       "$MU",
-      "$SNDK",
-      "$POET"
+      "$TSM",
+      "$RKLB"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈与激光器短缺",
-      "人形机器人产业链爆发前夜",
-      "AI数据中心与资本支出超级周期",
-      "光学组件与共封装光学（CPO）扩张",
-      "内存结构需求与高阶HBM/DRAM上涨"
+      "光学激光器与CPO架构的投资瓶颈",
+      "人形机器人产业链与上游组件",
+      "AI推理需求驱动的高速存储与内存",
+      "中美科技对抗下的供应链自主性",
+      "全球宏观经济与利率对高beta科技的影响"
     ],
-    "recent_shift": "近期观点未发生显著变化，仍坚定看多光子学与相关激光瓶颈，但对短期走势预期更务实，强调长期等待至2027年出货爬坡。",
+    "recent_shift": "近期从侧重公司基本面讨论转向更宏观的供应链瓶颈和全球地缘政治风险分析，但对光通信和机器人主题的信心未减弱。",
     "representative_quotes": [
-      "My feedback is that it's very bullish if it's comprised of long-only institutions and there's no heavy discount (30 day VWAP). Otherwise, would need to reaccess if there's arb or short term investors.",
-      "For robotics companies, I have a favorable view on Unitree and Agility Robotics, two humanoid players. And I have largest concentration in Agility Robotics, since I personally prefer US humanoid players.",
-      "Always amazing looking at #MU earnings: Revenue: $41.46B vs. $35.8B est. EPS: $25.11 vs. $20.78 est. ... Looks like memory demand has become structural… But great earnings to show up the AI trade is continuing to ramp up."
+      "My feedback is that it's very bullish if it's comprised of long-only institutions and there's no heavy discount (30 day VWAP). Otherwise, would need to reaccess if there's arb or short term investors. ",
+      "I think the technology is already here and use cases are already proven. Robotics/Humanoids are just pre-scale right now.",
+      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
     ],
-    "generated_at": "2026-06-30T17:22:33.198666+00:00"
+    "generated_at": "2026-06-30T19:15:47.523553+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$MSFT",
-      "$AMZN",
-      "$MU",
-      "$SAMSUNG"
+      "AAPL",
+      "MSFT",
+      "MU",
+      "NVDA",
+      "AMZN"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "bearish",
     "key_themes": [
-      "半导体与AI硬件投资狂热",
-      "地缘政治风险与市场波动",
-      "消费者与中小企业经济放缓",
-      "科技巨头利润与竞争压力",
-      "央行政策与利率预期分歧"
+      "通胀压力持续",
+      "美联储政策鹰派",
+      "地缘政治风险",
+      "科技股估值高企",
+      "经济分化加剧"
     ],
-    "recent_shift": "早期关注强劲季度表现与科技成长，后转向警告地缘冲突、AI泡沫风险及消费者信心下滑。",
+    "recent_shift": "近期观点从偏乐观转向警惕，强调通胀顽固、利率可能上调，并关注黄金暴跌、美国战略石油储备创新低等风险信号。",
     "representative_quotes": [
-      "BREAKING: U.S. stocks are on track for their strongest quarter in years, with the S&P 500 up 14% and the Nasdaq up 20%...",
-      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz.",
-      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi."
+      "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes",
+      "BREAKING: Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years.",
+      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz."
     ],
-    "generated_at": "2026-06-30T17:22:39.866285+00:00"
+    "generated_at": "2026-06-30T19:15:50.237641+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
