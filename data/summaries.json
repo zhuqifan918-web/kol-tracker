@@ -1,74 +1,73 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$MU",
-      "$LITE",
-      "$AXTI"
+      "SIVE",
+      "AAOI",
+      "MU",
+      "POET",
+      "LPK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈与激光器供应紧张",
-      "人形机器人及自动化供应链",
-      "AI数据中心资本支出与记忆体需求",
-      "韩国及台湾光学与半导体小市值公司",
-      "贸易战与全球供应链控制权"
+      "AI基础设施投资超级周期",
+      "光子学与光通信瓶颈",
+      "机器人与人形机器人",
+      "供应链地缘政治",
+      "内存与存储需求"
     ],
-    "recent_shift": "近期观点趋于谨慎，强调宏观回调和高贝塔股风险，但坚持光子学与记忆体长期结构性增长。",
+    "recent_shift": "从早期关注AI数据中心建设，转向更关注上游光子学瓶颈和供应链自主性。",
     "representative_quotes": [
-      "Just some notes on $POET AGM and read through on optical markets: - 'The top three laser suppliers control 68% of the market, and they’re completely sold out for the next two years'",
-      "For robotics companies, I have a favorable view on Unitree and Agility Robotics... I currently own: - Harmonic Drive (6324)... Vishay Precision...",
-      "IMO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now."
+      "We're probably witnessing the modern cold war. But instead of nuclear stockpiles, it's racing to build superintelligence both offensively and defensively.",
+      "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.",
+      "The upstream MLCC bottleneck stack looks like this: MLCC-grade BaTiO₃ / dielectric powder - Sakai Chemical (40%), Nippon Chemica, Fuji Titanium..."
     ],
-    "generated_at": "2026-06-30T10:26:32.740581+00:00"
+    "generated_at": "2026-06-30T12:29:11.042239+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "AAPL",
+      "AMZN",
       "MSFT",
       "MU",
-      "SPCX",
-      "GME"
+      "SAMSUNG"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险升温（美伊冲突、石油储备下降）",
-      "科技行业监管加强（AI数据中立法案、芯片出口调查）",
-      "消费者经济压力增大（房贷违约率上升、信用卡债务恶化）",
-      "市场流动性趋紧（美联储加息预期、期权杠杆降低）",
-      "企业转型与AI竞争（苹果涨价、三星投资、微软期权押注）"
+      "地缘政治风险加剧",
+      "通胀与利率维持高位",
+      "科技巨头面临监管与成本压力",
+      "消费者信心与支出疲软",
+      "数据中心与AI投资热潮"
     ],
-    "recent_shift": "近期从关注科技股增长转向关注地缘冲突和消费疲软带来的风险，整体偏空情绪加剧。",
+    "recent_shift": "近期内容从关注AI与数据中心机会转向强调地缘冲突、通胀粘性和市场脆弱性。",
     "representative_quotes": [
-      "Trump: I don't want to drive housing prices down. I want to drive housing prices up",
-      "Breaking: The Strategic Petroleum Reserve is at its lowest level since 1983",
-      "More Ontarians in Canada are missing mortgage payments, as balance delinquency rate jumps 52% in a year"
+      "Apple's, $AAPL, Tim Cook has said he has never 'seen anything like this' surge in memory and storage costs 'in over 40 years.'",
+      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz.",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
     ],
-    "generated_at": "2026-06-30T10:26:36.091610+00:00"
+    "generated_at": "2026-06-30T12:29:13.520985+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "GLW",
-      "SK Hynix",
-      "MU",
-      "NVDA",
-      "ASX"
+      "$GLW",
+      "$NVDA",
+      "$MU",
+      "$AMAT",
+      "$LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求持续爆发并主导AI基建",
-      "康宁因英伟达10倍扩产成为下一代AI核心基础设施",
-      "HBM和存储涨价周期仍将持续，产能缺口巨大",
-      "美光、海力士季度利润超预期，美股上市重估空间大",
-      "英伟达为维持增长需大量HBM，带动存储产业链"
+      "存储芯片涨价与AI算力需求驱动存储巨头业绩爆发",
+      "物理AI时代对数据、存储和芯片设备带来的天量需求",
+      "玻璃基板与光纤技术成为下一代AI芯片关键基础设施",
+      "芯片设备龙头迎来新一轮扩产周期"
     ],
-    "recent_shift": "前期极度聚焦存储（海力士、美光），近期大幅加仓康宁（GLW）并减少2x海力士仓位，认为康宁可能成为下一个类似海力士的确定性机会",
+    "recent_shift": "早期更专注存储与英伟达，近期显著增加对芯片设备股（科磊、应用材料、泛林）和康宁的看多关注",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
-      "物理AI可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。英伟达让康宁扩产10倍，说明在投产放量后会发生10倍以上的需求暴增，这跟存储发生的事情有点点像。"
+      "物理AI很可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。",
+      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。"
     ],
-    "generated_at": "2026-06-30T06:39:28.302191+00:00"
+    "generated_at": "2026-06-30T12:29:16.946022+00:00"
   }
 }
