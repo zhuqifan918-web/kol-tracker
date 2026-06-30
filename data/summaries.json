@@ -27,45 +27,48 @@
     "focus_tickers": [
       "AAPL",
       "MSFT",
-      "GME",
+      "SPCX",
       "SMCI",
       "MU"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI与芯片投资竞争加剧",
-      "地缘政治风险推高市场不确定性",
-      "通胀与利率困境压制消费和投资"
+      "地缘政治风险与市场波动",
+      "AI与数据中心投资热潮",
+      "通胀与利率前景分歧",
+      "消费者债务与零售疲软",
+      "企业成本上升与裁员"
     ],
-    "recent_shift": "近期更关注苹果股价下跌和美联储加息预期，此前偏重科技股看涨情绪",
+    "recent_shift": "近期更聚焦于地缘冲突（美伊、台海）与市场避险，同时强调消费者债务与住房市场降温，转向防御性观点。",
     "representative_quotes": [
-      "Trump: Oil and gas prices keep falling.",
-      "Apple, $AAPL, is down more than 5%, losing billions in marketcap.",
-      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi."
+      "Trump: I don't want to drive housing prices down. I want to drive housing prices up",
+      "Fed 'cannot cut interest rates in the current context,' per Moody's Mark Zandi.",
+      "BREAKING: More economists are forecasting Fed rate hikes than cuts for the first time since 2023, per Reuters"
     ],
-    "generated_at": "2026-06-30T02:29:32.816077+00:00"
+    "generated_at": "2026-06-30T06:39:23.934761+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "$SK Hynix",
-      "$MU",
-      "$ASX",
-      "$NVDA"
+      "GLW",
+      "SK Hynix",
+      "MU",
+      "NVDA",
+      "ASX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心，供需极度紧张",
-      "康宁玻璃基板将因英伟达需求而爆发",
-      "AI基础设施尚处于早期，长期增长确定",
-      "杠杆交易风险极高，需谨慎控制仓位"
+      "存储芯片需求持续爆发并主导AI基建",
+      "康宁因英伟达10倍扩产成为下一代AI核心基础设施",
+      "HBM和存储涨价周期仍将持续，产能缺口巨大",
+      "美光、海力士季度利润超预期，美股上市重估空间大",
+      "英伟达为维持增长需大量HBM，带动存储产业链"
     ],
-    "recent_shift": "近期重点关注从海力士转向康宁，认为康宁因英伟达10倍扩产将带来业绩10倍增长，而海力士虽仍是核心持仓但涨幅有限。",
+    "recent_shift": "前期极度聚焦存储（海力士、美光），近期大幅加仓康宁（GLW）并减少2x海力士仓位，认为康宁可能成为下一个类似海力士的确定性机会",
     "representative_quotes": [
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。",
-      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
-      "如果没有发生百亿美金规模级的利润前人们还很难确定，我也是。只是从黄仁勋让康宁扩产10倍，那么肯定对应着未来英伟达十倍以上的需求。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
+      "物理AI可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。英伟达让康宁扩产10倍，说明在投产放量后会发生10倍以上的需求暴增，这跟存储发生的事情有点点像。"
     ],
-    "generated_at": "2026-06-29T17:28:42.129111+00:00"
+    "generated_at": "2026-06-30T06:39:28.302191+00:00"
   }
 }
