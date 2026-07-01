@@ -1,5 +1,210 @@
 [
   {
+    "tweet_id": "2072314906729455876",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”.\n\nThis is an “if” they have excess capacity.\n\nAnd it looks like the opposite right now:\n\nHyperscalers like $GOOGL are so compute constrained that they had to cut allocations to Meta back in March.\n\nSince Meta was using too much for internal projects. \n\nMeta was immediately constrained so it looks like they were forced to immediately sign massive $48B+ contracts with Neoclouds like $CRWV and $NBIS.\n\nMeta is selling excess capacity if there’s any, especially since their large contracts are take or pay from the Neoclouds. \n\nIf anything, I’m expecting their guided capex to go up as they build out more independent capacity.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072314906729455876",
+    "published_at": "2026-07-01T13:42:30+00:00",
+    "fetched_at": "2026-07-01T14:07:43.202385+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "GOOGL",
+        "CRWV",
+        "NBIS"
+      ],
+      "direction": "bullish",
+      "summary": "推文反驳了关于META削减资本支出、产能过剩的传言，指出实际上META因内部项目消耗过大而被谷歌限制分配算力，随后被迫与新云服务商签订480亿美元的大额合同。这暗示META真实需求强劲，资本支出可能进一步上升，对META持看多态度。",
+      "translation": "现在有很多关于$META“削减资本支出”因为“过度建设”的虚假信息。这只是假设他们有剩余产能。而目前情况恰恰相反：像$GOOGL这样的超大规模云服务商因为算力受限，早在三月份就不得不减少对Meta的分配。因为Meta内部项目使用太多。Meta立即受到限制，似乎被迫与新云服务商如$CRWV和$NBIS签署了超过480亿美元的巨额合同。如果真有剩余产能，Meta正在出售，尤其是他们与新云服务商的大合同是照付不议的。我反而预计他们引导的资本支出会增加，因为他们会建设更多独立产能。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072313102151131546",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这一条新闻把整个AI链条的股票全干死了",
+    "tweet_url": "https://x.com/xiaomustock/status/2072313102151131546",
+    "published_at": "2026-07-01T13:35:19+00:00",
+    "fetched_at": "2026-07-01T14:08:17.050940+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出一条新闻导致整个AI产业链的股票全面下跌，对AI板块持悲观态度。",
+      "translation": "这条新闻把整个AI链条的股票全干死了",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072307910223532245",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Basically pre-market right now with the Neoclouds like $NBIS in simpler terms.\n\nCostco: sells $5 chickens.\n\nWalmart: mass buys those rotisserie chickens and sells excess as “Walmart Chickens”.\n\nStock Market: sells off Costco.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072307910223532245",
+    "published_at": "2026-07-01T13:14:42+00:00",
+    "fetched_at": "2026-07-01T14:07:50.171285+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS"
+      ],
+      "direction": "bearish",
+      "summary": "该推文将股市类比为Costco和Walmart的商业模式，暗示股市在卖空优质资产（如Costco），而Neoclouds（如$NBIS）在盘前被低价卖出。整体观点偏向看空，认为市场正在错误定价。",
+      "translation": "基本上，盘前的Neocl云股票（如$NBIS）在更简单的说法是：Costco卖5美元的烤鸡，Walmart大量买入这些烤鸡并以“Walmart烤鸡”的名义卖出多余部分。股市则在卖空Costco。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072302668396331048",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "Meta Platforms(META.O)盘前迅速拉升，现涨超5%，消息称其正在出售富余的人工智能算力资源。\n(来自金十数据APP)\n这新闻特么，算力不缺了？\n英伟达老黄的没完成订单总不能假的吧mmp https://t.co/c5As0QP5DD",
+    "tweet_url": "https://x.com/xiaomustock/status/2072302668396331048",
+    "published_at": "2026-07-01T12:53:52+00:00",
+    "fetched_at": "2026-07-01T14:08:18.995533+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "推文指出Meta盘前因出售算力资源而上涨，但质疑这是否意味着算力不再短缺，同时隐含NVDA订单真实性的担忧，暗示市场可能过度反应。",
+      "translation": "Meta Platforms(META.O)盘前迅速拉升，现涨超5%，消息称其正在出售富余的人工智能算力资源。(来自金十数据APP)这新闻特么，算力不缺了？英伟达老黄的没完成订单总不能假的吧mmp",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072301677211009426",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Finally, $META to build a Cloud Business to sell excess AI compute per Bloomberg.\n\nThought Meta should go up against GCP, Azure, and AWS eventually to increase revenue streams. \n\nMeta up 6.65% premarket. https://t.co/UUolnwtYJY",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072301677211009426",
+    "published_at": "2026-07-01T12:49:56+00:00",
+    "fetched_at": "2026-07-01T14:07:54.612647+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "Meta计划建立云业务出售过剩AI算力，被视为开辟新收入来源，盘前上涨6.65%。",
+      "translation": "最终，$META 据彭博社报道将建设云业务以出售过剩的AI算力。我认为Meta最终应与GCP、Azure和AWS竞争以增加收入来源。Meta盘前上涨6.65%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072298423655579796",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The AI boom in global stock markets has become an unsustainable bubble,\" per Wealspring Asset and Shanghai Banxia Investment Management Center",
+    "tweet_url": "https://x.com/unusual_whales/status/2072298423655579796",
+    "published_at": "2026-07-01T12:37:00+00:00",
+    "fetched_at": "2026-07-01T14:08:37.302405+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用两家资产管理公司的观点，认为全球股市的AI热潮已形成不可持续的泡沫，暗示投资者需警惕风险。",
+      "translation": "据Wealspring Asset和上海半夏投资管理中心称，全球股市中的人工智能热潮已成为不可持续的泡沫。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072298219854586201",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天有个新etf上线， $KMEM ETF单仓 #SK海力士（41.53%） 为绝对第一大重仓；\n美光 $MU （19.85%），\n#三星（18.81%）次之。 https://t.co/znYcT5N44m",
+    "tweet_url": "https://x.com/xiaomustock/status/2072298219854586201",
+    "published_at": "2026-07-01T12:36:11+00:00",
+    "fetched_at": "2026-07-01T14:08:20.858484+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KMEM",
+        "MU"
+      ],
+      "direction": "neutral",
+      "summary": "这是一条关于新ETF $KMEM 成立并披露其重仓股的信息，其中SK海力士、美光和三星为主要持仓，但未给出明确的多空观点。",
+      "translation": "今天有个新ETF上线，$KMEM ETF单仓 #SK海力士（41.53%）为绝对第一大重仓；美光$MU（19.85%），#三星（18.81%）次之。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072293390205727047",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "60% of companies have already curbed AI spending, with companies shifting to lower-cost models and open-source Chinese models, per UBS",
+    "tweet_url": "https://x.com/unusual_whales/status/2072293390205727047",
+    "published_at": "2026-07-01T12:17:00+00:00",
+    "fetched_at": "2026-07-01T14:08:38.808292+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "UBS报告显示60%的公司已削减AI支出，转向低成本模型和中国开源模型，对整体AI行业构成利空信号。",
+      "translation": "据瑞银，60%的公司已经削减了AI支出，企业正转向低成本模型和中国的开源模型。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072288356898353647",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"U.S. companies swallowed the oil shock. They’re not sure they can do it again,\" per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2072288356898353647",
+    "published_at": "2026-07-01T11:57:00+00:00",
+    "fetched_at": "2026-07-01T14:08:40.378594+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出美国企业虽然曾成功消化油价冲击，但担心无法再次应对，暗示未来油价上涨可能对企业盈利和市场造成负面影响，投资者需警惕相关风险。",
+      "translation": "据报道，美国企业已经消化了油价冲击。但他们不确定能否再次做到这一点。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072283323930402957",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "“The K-shaped economy—with the well-to-do thriving and everyone else lagging—remains firmly intact, and there is no sign that the trend line will reverse soon,” Moody's has said.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072283323930402957",
+    "published_at": "2026-07-01T11:37:00+00:00",
+    "fetched_at": "2026-07-01T14:08:42.417089+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "穆迪指出K型经济持续存在，富人受益而其他人落后，且趋势短期内不会逆转，暗示市场分化和整体经济下行风险，对投资环境不利。",
+      "translation": "穆迪表示，“K型经济——富人茁壮成长而其他人落后——依然稳固存在，并且没有迹象表明这一趋势线短期内会逆转。”",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072278290740482105",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -221,6 +426,25 @@
       "summary": "GameStop在监管文件中确认仍致力于约560亿美元的现金加股票收购提议，但eBay已拒绝该报价。此消息对GME股价影响中性，需关注后续发展。",
       "translation": "在一份监管文件中，GameStop确认仍致力于其约560亿美元的现金加股票收购提议，此前eBay已拒绝该报价。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072130819053990156",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The drawdowns are part of a U.S. agreement to release 172 million barrels from the facility to plug a gap in global inventories after the Iran war and help push down fuel prices.\n\nRead more: https://t.co/OULhWUkFaf",
+    "tweet_url": "https://x.com/unusual_whales/status/2072130819053990156",
+    "published_at": "2026-07-01T01:31:00+00:00",
+    "fetched_at": "2026-07-01T14:08:49.164284+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到了美国为填补伊朗战争后的全球库存缺口并压低油价而释放1.72亿桶战略储备的计划，这可能对能源市场和通胀预期产生影响，但未直接推荐特定投资标的或给出明确方向。",
+      "translation": "此次释放是美国协议的一部分，旨在从战略储备中释放1.72亿桶石油，以填补伊朗战争后全球库存的缺口，并帮助压低燃料价格。",
+      "confidence": "medium"
     }
   },
   {

@@ -2,73 +2,73 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
+      "$META",
       "$AAOI",
       "$MU",
-      "$TSM",
-      "$AXTI"
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信与激光器瓶颈（CW DFB激光器、EML）",
-      "人形机器人产业链（Agility Robotics、谐波减速器、传感器）",
-      "半导体存储器需求结构性增长（HBM、DRAM）",
-      "AI算力基础设施资本支出持续扩张（Neocloud、CPO）",
-      "中国供应链自给与中美科技竞争（出口管制、蒸馏）"
+      "AI基础设施建设与资本支出",
+      "光子学与激光瓶颈",
+      "人形机器人与物理AI",
+      "内存结构性需求增长",
+      "供应链瓶颈与价格驱动"
     ],
-    "recent_shift": "近期观点从前瞻性布局转向关注HVM（高量产）拐点信号，强调SIVE等公司已进入规模化爬坡阶段，并更聚焦人形机器人IPO和光学互联商用化时间表。",
+    "recent_shift": "近期更关注光子学细分领域的激光瓶颈，并强调Sivers的广泛嵌入性，而非单纯CPO；同时对宏观回调保持长期看多。",
     "representative_quotes": [
-      "Sivers lasers powering robotics / physical AI. ... Physical AI and mass consumer production with Apple would be very material to revenue.",
-      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
-      "The ~$140M convertible note is real, but it's pennies to US institutions. ... I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ"
+      "If anything, I’m expecting their guided capex to go up as they build out more independent capacity.",
+      "This is probably positive for the AI DC capex buildout since hyperscalers capacity is way below what is needed...",
+      "I do think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up."
     ],
-    "generated_at": "2026-07-01T08:04:42.560642+00:00"
+    "generated_at": "2026-07-01T14:09:16.699487+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$TSLA",
       "$NVDA",
-      "$AMZN",
-      "$GME"
+      "$TSLA",
+      "$GME",
+      "$AAPL",
+      "$MSFT"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济担忧与衰退预期",
-      "AI与半导体产业主导市场",
-      "地缘政治风险影响油价和市场",
-      "消费者债务与支出分化",
-      "美联储政策不确定性"
+      "人工智能泡沫警告",
+      "消费者信心恶化",
+      "地缘政治风险升温",
+      "半导体行业集中度创纪录",
+      "经济K型分化加剧"
     ],
-    "recent_shift": "近期观点转向更悲观，强调地缘冲突、消费者债务和美联储可能加息的负面影响。",
+    "recent_shift": "近期观点从乐观转向谨慎，强调AI泡沫破裂风险、消费者支出低迷及地缘冲突对市场的冲击。",
     "representative_quotes": [
-      "BREAKING: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
-      "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes",
-      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz."
+      "The AI boom in global stock markets has become an unsustainable bubble",
+      "Half of investors have reduced their portfolio risk, while 62% expect a recession",
+      "The K-shaped economy—with the well-to-do thriving and everyone else lagging—remains firmly intact"
     ],
-    "generated_at": "2026-07-01T11:37:55.033023+00:00"
+    "generated_at": "2026-07-01T14:09:13.072117+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SK Hynix",
       "GLW",
       "NVDA",
-      "AMAT",
+      "MU",
       "LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基建全产业链核心机会",
-      "存储芯片供需紧张与定价权",
-      "康宁玻璃基板与光互连技术变革",
-      "半导体设备与扩产周期",
-      "物理AI与数据采集新机遇"
+      "AI基建供不应求，存储芯片（尤其是HBM）是核心受益者",
+      "康宁GLW因英伟达合作扩产10倍，被视为下一代AI算力底座",
+      "物理AI将是英伟达的第二增长曲线，但门槛极高需千亿美金储备",
+      "存储涨价周期持续，三星、海力士等龙头话语权强于英伟达",
+      "大市值股票趋势稳固，机构加仓带来确定性"
     ],
-    "recent_shift": "从早期重仓海力士和2x杠杆，近期转向分散配置康宁、日月光等，强调存储供需紧张持续但新增玻璃基板等新方向。",
+    "recent_shift": "最新观点更聚焦康宁GLW和存储长期合约，认为AI泡沫未破且物理AI有巨大潜力，早期对宏观加息和杠杆风险的担忧已淡化。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "康宁 $GLW 真是涨的无敌寂寞！262刀了.5000亿市值也就600刀左右，对英伟达写明面上合作扩产10倍的康宁来说业绩翻10倍远远不止600刀这个价。",
-      "现在确实是AI非常早期的阶段，大厂之所以巨额投入，就是想通过自己海量的算力，海量的存储，抢先干出AGI时刻。"
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。话语权更大的一方应该享受更大的市值。",
+      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
+      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-07-01T11:37:52.401762+00:00"
+    "generated_at": "2026-07-01T14:09:10.464759+00:00"
   }
 }
