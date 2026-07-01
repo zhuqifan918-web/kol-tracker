@@ -3,47 +3,47 @@
     "focus_tickers": [
       "$SIVE",
       "$CCXI",
-      "$AAOI",
+      "$META",
       "$MU",
-      "$NBIS"
+      "$AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "机器人产业链投资",
-      "光通信与激光器瓶颈",
-      "AI算力与内存需求超级周期"
+      "光学激光器与CPO供应链瓶颈",
+      "人形机器人美国本土化制造",
+      "AI超算与记忆体需求结构性增长"
     ],
-    "recent_shift": "近期从偏重光通信转更多关注美国机器人纯标的，同时强调记忆体需求长期结构性增长",
+    "recent_shift": "近期（2026年6月）因宏观回调、利率担忧及媒体负面叙事，组合中光子学与机器人相关股票大幅下跌，但整体信念未减，反而视此为加仓机会。",
     "representative_quotes": [
-      "Agility Robotics is currently my favorite humanoid/robotics position.",
-      "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
-      "I still think we're early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up."
+      "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations. For the US robotic program doomposters... Just eyeballing the graph, looks like <$30k BOM mass production.",
+      "This market feels like an ADHD goldfish with a 5 second attention span, trading popular themes. It's like markets only care about physical AI and energy right now?",
+      "There's a global correction right now, no clue when it stops... From personal experience, high beta stocks get hit a lot harder, but usually frontrun index drops."
     ],
-    "generated_at": "2026-07-01T18:55:54.948382+00:00"
+    "generated_at": "2026-07-01T20:46:21.652547+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$TRUMP",
-      "$AMZN",
-      "$TSLA"
+      "AMZN",
+      "NVDA",
+      "AAPL",
+      "PLTR",
+      "TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "衰退风险加剧",
-      "AI投资泡沫与调整",
-      "地缘政治与能源冲击",
-      "消费分化与债务压力",
-      "科技巨头盈利与市场热度"
+      "总统特朗普涉嫌内幕交易",
+      "市场见顶信号频现",
+      "经济分化加剧",
+      "AI泡沫与芯片依赖风险",
+      "投资者信心下滑"
     ],
-    "recent_shift": "近期偏悲观，强调经济衰退、AI泡沫和消费者疲软，而此前市场整体上涨后出现转向。",
+    "recent_shift": "早期强调做空和衰退信号，后期更聚焦政治操作与市场操纵案例",
     "representative_quotes": [
-      "The AI boom in global stock markets has become an unsustainable bubble",
-      "60% of companies have already curbed AI spending",
-      "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances"
+      "BREAKING: The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million. The trades were disclosed more than a year late, resulting in a $200 penalty. Unusual.",
+      "BREAKING: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
+      "“The K-shaped economy—with the well-to-do thriving and everyone else lagging—remains firmly intact, and there is no sign that the trend line will reverse soon,” Moody's has said."
     ],
-    "generated_at": "2026-07-01T18:55:51.959446+00:00"
+    "generated_at": "2026-07-01T20:46:24.744061+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
