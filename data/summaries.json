@@ -2,48 +2,48 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
+      "$CCXI",
       "$AAOI",
-      "$META",
-      "$NBIS",
-      "$MU"
+      "$MU",
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施的瓶颈投资",
-      "光通信（CPO）及激光器供应链",
-      "人形机器人生态的早期布局",
-      "中美技术竞争加剧",
-      "半导体材料与设备的小众垄断"
+      "机器人产业链投资",
+      "光通信与激光器瓶颈",
+      "AI算力与内存需求超级周期"
     ],
-    "recent_shift": "近期从广泛AI主题转向更具体的CPO/光子学瓶颈和人形机器人曝光，并因市场回调遭遇较大回撤，但长期看多信念不变。",
+    "recent_shift": "近期从偏重光通信转更多关注美国机器人纯标的，同时强调记忆体需求长期结构性增长",
     "representative_quotes": [
-      "I told you making the robots look hot might be a bottleneck: Today, UBTech has now announced its first full-size hyper realistic humanoid robot girlfriend.",
-      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
-      "Global markets in a nutshell: Japanese Company: Active monopoly over random chokepoints in the hyperscaler AI buildout. Valuation: $150m-$350M. Silicon Valley: Here's a $200m for a 'Seed Round'."
+      "Agility Robotics is currently my favorite humanoid/robotics position.",
+      "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
+      "I still think we're early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up."
     ],
-    "generated_at": "2026-07-01T16:44:01.018048+00:00"
+    "generated_at": "2026-07-01T18:55:54.948382+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "TSLA",
-      "GME",
-      "SMCI"
+      "$NVDA",
+      "$AAPL",
+      "$TRUMP",
+      "$AMZN",
+      "$TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI泡沫与削减开支",
-      "宏观经济下行风险",
-      "中东地缘政治紧张"
+      "衰退风险加剧",
+      "AI投资泡沫与调整",
+      "地缘政治与能源冲击",
+      "消费分化与债务压力",
+      "科技巨头盈利与市场热度"
     ],
-    "recent_shift": "近期观点从关注AI泡沫转向强调经济衰退风险和地缘政治不确定性",
+    "recent_shift": "近期偏悲观，强调经济衰退、AI泡沫和消费者疲软，而此前市场整体上涨后出现转向。",
     "representative_quotes": [
-      "The AI boom in global stock markets has become an unsustainable bubble.",
-      "60% of companies have already curbed AI spending...",
-      "Half of investors have reduced their portfolio risk, while 62% expect a recession..."
+      "The AI boom in global stock markets has become an unsustainable bubble",
+      "60% of companies have already curbed AI spending",
+      "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances"
     ],
-    "generated_at": "2026-07-01T16:44:06.999129+00:00"
+    "generated_at": "2026-07-01T18:55:51.959446+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

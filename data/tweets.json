@@ -1,5 +1,90 @@
 [
   {
+    "tweet_id": "2072373920708067765",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Palantir, $PLTR, CEO Alex Karp: I am the most publicly supportive CEO of Israel. I think Israel is on the side of good.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072373920708067765",
+    "published_at": "2026-07-01T17:37:00+00:00",
+    "fetched_at": "2026-07-01T18:55:30.037784+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PLTR"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及PLTR CEO对以色列的公开支持，未直接涉及公司业绩或投资建议，但可能影响市场情绪。",
+      "translation": "Palantir，$PLTR，CEO亚历克斯·卡普：我是最公开支持以色列的CEO。我认为以色列站在正义的一边。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2072367082248040621",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. 10,000 RoboFab capacity, and they build in Salem/Pittsburgh/Fremont (USA).\n\nSo looks like majority US supply chains with targets of <$30K mass production\n\nIt does help they’re backed by $AMZN / SoftBank / Foxconn / $NVDA as investors to get this done.\n\nJust personal thoughts as a shareholder in $CCXI (NFA):\n\nMy personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China.\n\nSo US robotics could just be export controlled/halted down the road.\n\neg. South China Morning Post: ‘Optimus chain’: Chinese suppliers form the backbone of Tesla’s humanoid robot initiative and engaged with hundreds of Chinese component suppliers. \n\nAnd that Western companies are not able to lower costs to a competitive level + are forced to use Chinese components. \n\nI'm still not sure how they're going to do it but if Agility can achieve those mass production targets with that BOM cost in the USA/West. \n\nIt would be a great validation for Made in America US robotics programs. \n\nIMO the top 5 US humanoid programs right now in terms of commercialization potential are:\n\n1. Tesla Optimus\n2. Figure\n3. Agility Robotics\n4. Boston Dynamics (yeah KR parent)\n5. Apptronik\n\nTesla is a $1T+ company. Figure is private and valued around ~$39B. Owning Boston Dynamics through Hyundai is a bit messy.\n\nAnd I’d prefer not to invest in adversarial programs just as a personal preference.\n\nSo I’ve been personally excited for Agility to be listed as early as September.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072367082248040621",
+    "published_at": "2026-07-01T17:09:49+00:00",
+    "fetched_at": "2026-07-01T18:55:01.132355+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "AMZN",
+        "NVDA",
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "推文分析Agility Robotics（$CCXI）的供应链和成本优势，认为其在美国的机器人项目具有投资潜力，并对比了特斯拉等公司的中国供应链风险。",
+      "translation": "推文分享了Agility Robotics（$CCXI）演示文稿中的三张幻灯片，针对美国机器人项目的悲观论者：1. 75%的零部件来自美国；2. 目测图表显示批量生产成本低于3万美元（之前人们只关注约14.5万美元的成本）；3. RoboFab产能1万台，工厂位于美国Salem、Pittsburgh、Fremont。因此，供应链主要在美国，目标批量生产成本低于3万美元。得到亚马逊、软银、富士康、英伟达等投资支持。个人作为$CCXI股东的看法：主要担忧是特斯拉等美国人形机器人领导企业将整个供应链建在中国，可能导致未来出口管制或中断。例如，南华早报报道‘擎天柱供应链’：中国供应商构成特斯拉人形机器人计划的骨干，已接触数百家中国零部件供应商。西方公司难以将成本降到有竞争力水平，被迫使用中国零部件。如果Agility能在美国/西方实现那些批量生产目标和物料成本，将是对美国机器人计划的有力验证。个人认为目前商业潜力最大的五大美国人形机器人计划：1. 特斯拉Optimus；2. Figure；3. Agility Robotics；4. Boston Dynamics（现代母公司）；5. Apptronik。特斯拉市值超1万亿美元，Figure估值约390亿美元（私营），通过现代持有Boston Dynamics较复杂。个人偏好避免投资对抗性项目。因此对Agility最早9月上市感到兴奋。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072363854433234968",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump disclosed earning more than $1 billion from crypto ventures in 2025, including $635 million from $TRUMP meme coin licensing and over $500 million from World Liberty Financial token sales.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072363854433234968",
+    "published_at": "2026-07-01T16:57:00+00:00",
+    "fetched_at": "2026-07-01T18:55:34.617479+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TRUMP"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普披露从加密货币项目中获得10亿美元以上收入，其中迷因币TRUMP带来6.35亿美元许可费，WLFI代币销售超过5亿美元，显示出其个人与加密货币市场的深度关联及潜在利好。",
+      "translation": "突发：特朗普披露2025年从加密企业获得超过10亿美元收入，包括来自$TRUMP迷因币许可费的6.35亿美元及来自世界自由金融代币销售的5亿多美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072353788363448763",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Russia has started importing gasoline from India to help ease domestic fuel shortages, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2072353788363448763",
+    "published_at": "2026-07-01T16:17:00+00:00",
+    "fetched_at": "2026-07-01T18:55:37.970503+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "俄罗斯从印度进口汽油以缓解国内燃料短缺，这可能影响全球能源市场供需格局，对石油相关资产（如原油期货、能源股）产生中性偏多的影响，但需关注后续政策及制裁细节。",
+      "translation": "据路透社报道，俄罗斯已开始从印度进口汽油，以帮助缓解国内燃料短缺。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072349990467588346",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
