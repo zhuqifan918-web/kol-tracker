@@ -5,45 +5,47 @@
       "$AAOI",
       "$MU",
       "$TSM",
-      "$RKLB"
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学激光器与CPO架构的投资瓶颈",
-      "人形机器人产业链与上游组件",
-      "AI推理需求驱动的高速存储与内存",
-      "中美科技对抗下的供应链自主性",
-      "全球宏观经济与利率对高beta科技的影响"
+      "AI基础设施瓶颈投资",
+      "光子学/激光供应链结构性短缺",
+      "人形机器人及物理AI商业化",
+      "全球科技供应链地缘政治",
+      "内存与先进封装长期需求"
     ],
-    "recent_shift": "近期从侧重公司基本面讨论转向更宏观的供应链瓶颈和全球地缘政治风险分析，但对光通信和机器人主题的信心未减弱。",
+    "recent_shift": "近期观点从普遍看好转向关注宏观回调中的买入机会，并指出高β股票跌幅更深但往往率先反弹。",
     "representative_quotes": [
-      "My feedback is that it's very bullish if it's comprised of long-only institutions and there's no heavy discount (30 day VWAP). Otherwise, would need to reaccess if there's arb or short term investors. ",
-      "I think the technology is already here and use cases are already proven. Robotics/Humanoids are just pre-scale right now.",
-      "I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
+      "I think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up.",
+      "Sivers is by far my favorite laser chokepoint long. Feels like they're everywhere in new optical architectures starting beginning of 2027.",
+      "Crap like this is why retail trust in media has dropped off a cliff in the past few years."
     ],
-    "generated_at": "2026-06-30T19:15:47.523553+00:00"
+    "generated_at": "2026-07-01T03:52:23.350749+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$AAPL",
       "$NVDA",
       "$TSLA",
-      "$AAPL",
-      "$MSFT",
-      "$AMZN"
+      "$AMZN",
+      "$GME"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "看跌科技股与半导体",
-      "利率上升及通胀压力",
-      "消费疲软与经济分化"
+      "宏观经济不确定性与通胀压力",
+      "人工智能和科技驱动的市场变化",
+      "地缘政治风险与能源市场",
+      "消费者债务与支出分化",
+      "批发市场和机构资金流动"
     ],
-    "recent_shift": "近期观点从之前的市场乐观转向重点关注风险，如Burry做空Nvidia、半导体高权重、通胀顽固及消费者债务恶化。",
+    "recent_shift": "近期推文从早期关注GameStop收购和总统交易，转向更多关于地缘冲突、通胀压力及科技公司动态的混合信息，整体观点更为分化。",
     "representative_quotes": [
-      "BREAKING: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
-      "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes",
-      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz."
+      "BREAKING: Semiconductor stocks now account for a record 19.7% of the S&P 500.",
+      "BREAKING: Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years.",
+      "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes"
     ],
-    "generated_at": "2026-06-30T22:48:42.637912+00:00"
+    "generated_at": "2026-07-01T03:52:26.514544+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

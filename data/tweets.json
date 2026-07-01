@@ -1,5 +1,108 @@
 [
   {
+    "tweet_id": "2072161782005936487",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I told you making the robots look hot might be a bottleneck:\n\nToday, UBTech has now announced its first full-size hyper realistic humanoid robot girlfriend.\n\nFor adults only to purchase for only ~$145,717.90.\n\n-\"The U1 series emphasizes attractive appearance and is only available for adults to purchase.\"\n\n- \"It Can Imitate Most Human Movements and Expressions, and Also Has Long-Term Memory\"\n\n- \"U1’s surface uses bionic materials and a gel structure to simulate skin texture, elasticity, and a warm touch.\"\n\nUBTECH founder, chairman, and CEO Zhou Jian said on stage that just before going up, he learned that orders had exceeded 11,000 units.\n\nHalf an hour later, UBtech said the number had been updated to more than 13,361 units.\n\nDemand for attractive robots is uncomfortably high.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072161782005936487",
+    "published_at": "2026-07-01T03:34:02+00:00",
+    "fetched_at": "2026-07-01T03:51:02.900855+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及UBTech推出高仿真人形机器人，订单需求旺盛，可能反映人形机器人行业市场潜力，但未明确给出投资建议。",
+      "translation": "我跟你说过，让机器人看起来性感可能是个瓶颈。今天，UBTech宣布推出首款全尺寸超逼真人形机器人女友。仅限成人购买，售价约145,717.90美元。'U1系列强调吸引人的外观，仅限成人购买。' '它能模仿大部分人类动作和表情，并拥有长期记忆。' 'U1表面采用仿生材料和凝胶结构，模拟皮肤纹理、弹性和温暖触感。' UBTech创始人、董事长兼CEO周剑在台上表示，就在上台前，他得知订单已超过11,000台。半小时后，UBTech表示订单数已更新为超过13,361台。对吸引人机器人的需求异常高涨。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072152226169331776",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Congrats to $SIVE, they have now raised an upside round of 700m SEK from institutional investors.\n\nThe round was “Multiple Times Oversubscribed” and slightly upsided.\n\nValidating immense institutional demand around current market prices.\n\nThis raise was specifically for \"expanding manufacturing capacity for InP lasers and optical amplifiers\" (volume ramping with fab-light model). \n\nHinting Sivers has reached the inflection point for scale. \n\nThe round was at 57 SEK (current prices are 63 SEK), which I’m personally very happy about as it’s around current market prices, which typically sets a floor.\n\nInstituional money has now de-risked the balance sheet, and funded Sivers transition to HVM.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072152226169331776",
+    "published_at": "2026-07-01T02:56:04+00:00",
+    "fetched_at": "2026-07-01T03:51:09.204182+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推特高度看好Sivers（SIVE），指出其以接近市价完成7亿瑞典克朗的超额融资，用于InP激光器和光放大器扩产，机构需求强劲，暗示公司进入规模化拐点，融资为股价提供了底部支撑，并降低了资产负债表风险。",
+      "translation": "祝贺$SIVE，他们现已从机构投资者处完成7亿瑞典克朗的上行轮融资。该轮融资获得“数倍超额认购”，且略高于上一轮估值。这验证了当前市场价格附近存在巨大的机构需求。此次融资专门用于“扩大InP激光器和光放大器的制造产能”（通过fab-light模式实现量产）。暗示Sivers已到达规模化拐点。该轮融资价格为57瑞典克朗（当前价格为63瑞典克朗），我个人对此非常满意，因为价格接近当前市价，这通常会设定一个底部。机构资金现已降低资产负债表风险，并为Sivers向大规模量产过渡提供了资金。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072145918493942016",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "In a regulatory filing, GameStop confirmed that it remains committed to its approximately US$56 billion cash-and-stock proposal after eBay turned down the offer.\n\nRead more: https://t.co/LJpB3IzXKe",
+    "tweet_url": "https://x.com/unusual_whales/status/2072145918493942016",
+    "published_at": "2026-07-01T02:31:00+00:00",
+    "fetched_at": "2026-07-01T03:51:56.358800+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GME"
+      ],
+      "direction": "neutral",
+      "summary": "GameStop在监管文件中确认仍致力于约560亿美元的现金加股票收购提议，但eBay已拒绝该报价。此消息对GME股价影响中性，需关注后续发展。",
+      "translation": "在一份监管文件中，GameStop确认仍致力于其约560亿美元的现金加股票收购提议，此前eBay已拒绝该报价。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072117687434756113",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: President Trump earned more than $1 billion from cryptocurrency and his $TRUMP, according to his personal financial disclosure released on Tuesday per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2072117687434756113",
+    "published_at": "2026-07-01T00:38:49+00:00",
+    "fetched_at": "2026-07-01T03:52:02.165534+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TRUMP"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普总统个人财务披露显示其从加密货币和$TRUMP中获利超10亿美元，利好相关加密货币市场情绪。",
+      "translation": "突发：根据路透社周二发布的个人财务披露，特朗普总统从加密货币和他的$TRUMP中获利超过10亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072103473672253888",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Great news with a Direct share issue that was oversubscribed multiple time.\n\nWhat started as a planned SEK 600M (+$61m) raise was upsized to SEK 700M ($73m) thanks to strong institutional investor demand. That's a clear vote of confidence in $SIVE and the ramping within AI photonics, SATCOM and defense.\n\nSEK 700M is roughly US$73M in fresh capital, providing even greater financial flexibility to accelerate execution and scale the business.\n\nStrong demand. Strong balance sheet. Exciting times ahead.\n\nGreat work by the Sivers team! Congratulations! \n\n $SIVE #AI #Photonics\n\nhttps://t.co/SWr5UhK4VG",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072103473672253888",
+    "published_at": "2026-06-30T23:42:20+00:00",
+    "fetched_at": "2026-07-01T03:51:14.494567+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "Sivers公司直接股发行获多倍超额认购，融资额从6亿瑞典克朗增至7亿（约7300万美元），显示机构投资者对其在AI光子学、卫星通信和国防领域前景的强烈信心。这将增强公司财务灵活性，加速业务扩张。",
+      "translation": "好消息：直接股发行获得多倍超额认购。最初计划募资6亿瑞典克朗（约6100万美元），由于强劲的机构需求，增发至7亿克朗（约7300万美元）。这明确表明市场对$SIVE在AI光子学、卫星通信和国防领域的发展充满信心。7亿克朗（约7300万美元）的新增资本将为公司提供更大的财务灵活性，以加速执行和扩大业务。强劲的需求、稳健的资产负债表，激动人心的时刻即将到来。Sivers团队干得漂亮！祝贺！ $SIVE #AI #光子学",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072070665155342521",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -21,6 +124,25 @@
       "summary": "迈克尔·伯里披露了对英伟达、特斯拉、卡特彼勒和应用材料等股票的新空头头寸，显示他对这些股票未来走势看跌。",
       "translation": "突发：迈克尔·伯里披露了对英伟达（$NVDA）、特斯拉（$TSLA）、卡特彼勒（$CAT）和应用材料（$AMAT）的新空头头寸。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072059688825352587",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Anthropic launches AI drug discovery program",
+    "tweet_url": "https://x.com/unusual_whales/status/2072059688825352587",
+    "published_at": "2026-06-30T20:48:21+00:00",
+    "fetched_at": "2026-07-01T03:52:13.673448+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "Anthropic推出AI药物发现计划，可能对AI在生物医药领域的应用产生积极影响，利好相关概念股。",
+      "translation": "Anthropic推出AI药物发现计划。",
+      "confidence": "medium"
     }
   },
   {
