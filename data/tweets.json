@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2072349990467588346",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "画重点，韭菜交易员，\n所以爆赚爆亏都别赖我，毕竟没收任何人钱，我也决定不了几千亿美金股票市值的走向。另外那些说看我买的亏的亏了喷我的，你爸妈说话都不听，我说话就听你了？\n另外康宁 $GLW 我215发推特的，快速涨到270。\n#海力士 年初推荐到现在拉了3倍\n\n先信卖后信，要么早信要么别信，半路信亏钱活该你傻逼。\n我又不是庄家特朗普决定不了行情走向，巴菲特要是赚了笑嘻嘻亏了mmp可能现在穷的上大街要饭了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2072349990467588346",
+    "published_at": "2026-07-01T16:01:54+00:00",
+    "fetched_at": "2026-07-01T16:43:11.030214+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "作者强调自己不是庄家或特朗普，无法决定市场走向，但通过康宁（GLW）215涨到270和海力士年初至今涨3倍的例子，暗示早期跟买能赚钱，半路跟买容易亏钱。整体态度偏向看涨早期介入。",
+      "translation": "画重点，韭菜交易员，所以爆赚爆亏都别赖我，毕竟没收任何人钱，我也决定不了几千亿美金股票市值的走向。另外那些说看我买的亏了亏了喷我的，你爸妈说话都不听，我说话就听你了？另外康宁$GLW我215发推特的，快速涨到270。#海力士 年初推荐到现在拉了3倍。先信卖后信，要么早信要么别信，半路信亏钱活该你傻逼。我又不是庄家特朗普决定不了行情走向，巴菲特要是赚了笑嘻嘻亏了mmp可能现在穷的上大街要饭了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072348754930495567",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nasdaq said companies raised a record $129.3 billion through new listings in the first half of 2026, the most ever by a U.S. exchange.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072348754930495567",
+    "published_at": "2026-07-01T15:57:00+00:00",
+    "fetched_at": "2026-07-01T16:43:21.811688+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "纳斯达克上半年IPO融资额创纪录，显示资本市场活跃，对股市整体情绪有积极影响。",
+      "translation": "纳斯达克表示，2026年上半年，公司通过新上市融资1293亿美元，创下美国交易所历史最高纪录。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072338688705798155",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Traffic through the Strait of Hormuz is picking up, but remains below normal, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072338688705798155",
+    "published_at": "2026-07-01T15:17:00+00:00",
+    "fetched_at": "2026-07-01T16:43:24.465075+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "霍尔木兹海峡的交通量正在回升，但仍低于正常水平。这可能对全球能源市场和航运股产生影响，但方向尚不明确。",
+      "translation": "突发：据彭博报道，霍尔木兹海峡的交通量正在回升，但仍低于正常水平。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072319059275010099",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Warsh: Inflation risks have come down.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072319059275010099",
+    "published_at": "2026-07-01T13:59:00+00:00",
+    "fetched_at": "2026-07-01T16:43:30.058783+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美联储官员Warsh表示通胀风险已经下降，这可能意味着未来加息压力减弱，对股市构成潜在利好。",
+      "translation": "美联储的Warsh表示，通胀风险已经下降。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072314906729455876",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -43,6 +121,25 @@
     }
   },
   {
+    "tweet_id": "2072308489980899462",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US home sellers slash asking prices as housing market weakness deepens, per Redfin",
+    "tweet_url": "https://x.com/unusual_whales/status/2072308489980899462",
+    "published_at": "2026-07-01T13:17:00+00:00",
+    "fetched_at": "2026-07-01T16:43:35.818000+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及美国房地产市场疲软加剧，卖家降价出售房屋，可能对房地产相关股票或ETF产生负面影响。投资者应关注房地产板块风险。",
+      "translation": "据Redfin报道，美国房屋卖家大幅降低要价，房地产市场疲软加剧。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072307910223532245",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -60,6 +157,25 @@
       "direction": "bearish",
       "summary": "该推文将股市类比为Costco和Walmart的商业模式，暗示股市在卖空优质资产（如Costco），而Neoclouds（如$NBIS）在盘前被低价卖出。整体观点偏向看空，认为市场正在错误定价。",
       "translation": "基本上，盘前的Neocl云股票（如$NBIS）在更简单的说法是：Costco卖5美元的烤鸡，Walmart大量买入这些烤鸡并以“Walmart烤鸡”的名义卖出多余部分。股市则在卖空Costco。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072307174080926031",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Our live trading show WhaleWatch is live!\n\nCome join as our hosts showcase the new 1 minute Periscope updates to gamma exposure!\n\nhttps://t.co/8px27IYpqg https://t.co/KPFNN5YExo",
+    "tweet_url": "https://x.com/unusual_whales/status/2072307174080926031",
+    "published_at": "2026-07-01T13:11:46+00:00",
+    "fetched_at": "2026-07-01T16:43:33.196492+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣传一个名为WhaleWatch的直播交易节目，介绍1分钟Periscope更新的伽马暴露数据。虽然涉及市场分析工具（伽马暴露），但未提供具体投资建议或标的，因此为中性。",
+      "translation": "我们的直播交易节目WhaleWatch正在直播！快来加入，我们的主持人将展示1分钟Periscope更新的伽马暴露数据！",
       "confidence": "medium"
     }
   },
@@ -484,6 +600,27 @@
       "direction": "bullish",
       "summary": "特朗普总统个人财务披露显示其从加密货币和$TRUMP中获利超10亿美元，利好相关加密货币市场情绪。",
       "translation": "突发：根据路透社周二发布的个人财务披露，特朗普总统从加密货币和他的$TRUMP中获利超过10亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072115719542817143",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The company rehired, newly hired, or promoted 350 experienced engineers to fill the gap. Ford brought back technical specialists who hunt for failure points before a part ever reaches the plant floor.\n\nRead more: https://t.co/hlrqc5bCkb",
+    "tweet_url": "https://x.com/unusual_whales/status/2072115719542817143",
+    "published_at": "2026-07-01T00:31:00+00:00",
+    "fetched_at": "2026-07-01T16:43:43.525668+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "F"
+      ],
+      "direction": "bullish",
+      "summary": "福特公司重新雇佣或提拔了350名经验丰富的工程师，并召回技术专家，旨在增强研发实力和质量管理。这可能提升公司竞争力和长期盈利能力，对股价有积极影响。",
+      "translation": "该公司重新雇佣、新雇佣或提拔了350名经验丰富的工程师以填补空缺。福特召回了那些在零件到达工厂之前就寻找故障点的技术专家。",
       "confidence": "medium"
     }
   },
@@ -1463,6 +1600,35 @@
       "summary": "该推文提到特朗普名下账户在2026年第一季度执行了约3700笔股票交易，这可能引发市场对政治人物交易活动的关注，但未提供具体交易标的或投资方向，因此投资相关性有限。",
       "translation": "最近的联邦伦理披露显示，特朗普总统名下的账户在2026年第一季度执行了约3700笔股票交易。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071763387948859506",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- Random new accounts sending personal threats\n- Mysterious foreign accounts, sending coercive messages the moment I mention a foreign ticker\n\nIf I hold an opinion about a stock, I'd prefer not to have anyone show up on the street with a knife at night since it's safety risk at this point...\n\nNever felt like I'd have to take that into consideration for holding an opinion.\n\n2. Egregious media narratives\n\n- Lot of outlets try to dismiss my ideas like $RPI or $SIVE as \"meme stocks\" or me as \"meme trader\" when I talk about supply chain chokepoints or fundamental catalysts to revenue due to AI.\n\nWithout ever covering the core ideas or hyperscaler mapping I've done.\n\nI let success validate my ideas, but it's annoying when they can just pretend their claims like \"___ will imminently crash as a fact\" which ends up not happening.\n\nOr that \"___\" is just a retail meme stock without mentioning $JBL, Ayar, $GFS or others for CPO scale up or pluggables.\n\nI'm grateful to some outlets, like in Belgium for $XFAB coverage, but many others try and paint their own narrative rather than covering a very nuanced thesis objectively.\n\n- When I mention a ticker in a foreign market, some try to frame me as some \"adversarial account\"!\n\nI'm just sharing ideas, and I'll always disclose positions/financial interest if I have them.\n\nIf I say I have none, they just make up some narrative that I'm some foreign institution or random group inside their country that does.\n\nSome have even tried hilariously forging screenshots of me to harm my reputation, which was annoying to deal with. Since it's easier to textedit a photo and spread it around than it is to dispel disinformation.\n\nLot of institutions know me personally by now.\n\nI just don't go broadcasting my identity to random people in the media/public, since personal security gets expensive and I just want to live about my day.\n\n3. Endless X bot spam\n\n- I have endless hundreds of comments a day trying to link external communities pretending they're me.\n\nI manually delete, and block thousands of these accounts, sometimes hit regular people by accident.\n\nAnd it's extremely exhausting to the point my fingers cramp certain days. \n\nEven if I give the most blatant warnings in bio, people still get scammed and think it's me. Then I get blamed for it too.\n\nI actually had a conversation where someone asked if a scammer was me.\n\nI said no verbatim, then they double checked like 2-3 more times because they didn't believe I said no because someone had the same username on another scam platform.\n\nIn another world, maybe we'll get automod type tools. But until then,  it's mentally exhausting dealing with all of this. But I do so anyways since I don't want my followers to get scammed. \n\n4. Endless engagement baiting\n\n- I have tons of people making up fake stuff about me, tagging me in posts, randomly bashing my ideas while missing any technical nuance in order to get me to comment or farm views.\n\nIt's a catch 22 since the moment I reply, they get a lot of views, which was their goal. And if I don't reply it just looks like I'm avoiding something (which is not true).\n\nI'm very transparent, I always try and entertain people who disagree first. But when it gets into personal attacks or leading questions/disinformation rather than substance then I don't engage.\n\nIt's a little sad though when people I've interacted with end up caring more about engagement over relationships down the road. \n\n5. People missing the nuance\n\n- I share ideas pretty often and I always maintain I don't want people to copytrade or blindly follow, which is why I haven't set up any copytrading apps.\n\nBefore it was just posting with a few $RDDT friends on ideas like $AXTI, $NBIS, or $ALAB, and people were more knowledgeable traders. \n\nThen seeing if markets validate my guesses like with InP substrate bottlenecks. \n\nBut because many turned out directionally right, to the point it became a central talking point between China/US trade relations, lot of random folks started to follow my account last few months.\n\nBut many of them miss nuances with float dilution, or material updates along the way such as rate hikes, and I get blamed if a thesis changes.\n\nNow since there's so many random people, even if I share an idea about $CBRS last Friday.\n\nAt market open I had people panicking over a 2% drop, asking me if I did something to a $44B+ company, even if it went up 20%+ today.\n\nNow I have compliance review for posts, which delays things a lot but makes sure people don't get the wrong idea. And I have to be careful about my timing, so I post new ideas when markets close.\n\nBefore, it was just sharing ideas the moment I had them during lunch or in the shower, so this is becoming a headache.\n\n6. I post my core ideas for free. And I've always said this from the start.\n\nI actually made my subscribers chat literally by accident, and set the bare minimum amount on purpose since I didn't want to take people's money. But kept it so I could avoid the bots and not spam the main timeline with random thoughts/scrapped research.\n\nI think me becoming the #1 most subscribed to person on X was literally by accident.\n\nBut lot of weird narratives out there when media or others don't believe that I just genuinely want to share my ideas for free.\n\nAnd that people shouldn't need to pay $300 in a paywalled community to see them.\n\n_\n\nNot sure if people want to read it all, but just some things I've gone through.\n\nIt's not as much fun at higher numbers and it would be nice to go back to when I was smaller.\n\nRegardless, I'd rather not turn this into a job, or make it feel like one.\n\nWill probably take a break when I hit 1M as a milestone and do something else that will help out the community like sharing my research pipelines and such.\n\nThink a lot of my friends at 10-50K follower counts, seem to experience some of these issues too. But problems get magnified a lot at this level.\n\nI never needed the X creator fees or anything, just wanted to share ideas for fun if people wanted to listen.\n\nAnd didn't expect any popularity, but it's nice to see that people find my ideas compelling.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071763387948859506",
+    "published_at": "2026-06-30T01:10:57+00:00",
+    "fetched_at": "2026-07-01T16:42:59.310931+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RPI",
+        "SIVE",
+        "JBL",
+        "GFS",
+        "XFAB",
+        "AXTI",
+        "NBIS",
+        "ALAB",
+        "CBRS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文作者分享了其作为高影响力投资账户的挑战，如安全威胁、媒体误读（如将$RPI、$SIVE等股票错误归类为'迷因股'）、机器人评论及粉丝过度解读。作者强调其长期关注的供应链瓶颈、AI相关标的（如$AXTI、$NBIS）及CPO/光模块产业链（提及$JBL、$GFS）具备基本面催化，并坚持免费分享深度研究，对相关行业表示看多。",
+      "translation": "我已经达到90万粉丝，感谢大家！只是反思一下，其实高粉丝数很让人头疼……今年我从几乎零开始，现在这些是新的体验。\n1. 安全威胁——奇怪的新账户发人身威胁，提到外国股票时收到勒索信息。如果我对某只股票有看法，不希望有人晚上拿刀上门，这成了安全隐患。\n2. 离谱的媒体叙事——很多媒体把我的想法（如$RPI或$SIVE）说成'迷因股'，或称我为'迷因交易员'，却忽略我讨论的供应链瓶颈或AI收入催化剂。他们假装某股票将崩溃，结果没发生。还有媒体试图将我描绘成'敌对账户'。\n3. 无尽的X机器人垃圾评论——每天成百上千条冒充我的链接，我手动删除并屏蔽数千个账号，导致手指抽筋。即使我明确警告，仍有人被骗。\n4. 无尽的蹭热度——很多人编造假内容@我，用毫无技术细节的抨击来引我回复，我不回复就被认为在回避。\n5. 粉丝缺乏分辨力——有人将我的想法当傻瓜式跟单，忽视仓位稀释等细节。例如，在$CBRS上，有人因2%的下跌就恐慌。我现在必须经合规审查才能发文，失去了随时分享的乐趣。\n6. 我的核心想法一直都是免费分享。我的付费订阅是意外设置的极低金额，只为屏蔽机器人。媒体却编造奇怪叙事。\n总之，高粉丝数不如想象中有趣，我可能会在100万粉丝时休假。感谢大家聆听。",
+      "confidence": "high"
     }
   },
   {
