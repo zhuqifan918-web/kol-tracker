@@ -1,5 +1,126 @@
 [
   {
+    "tweet_id": "2072417709283856640",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US SPR is at its lowest level since 1983, per EIA",
+    "tweet_url": "https://x.com/unusual_whales/status/2072417709283856640",
+    "published_at": "2026-07-01T20:31:00+00:00",
+    "fetched_at": "2026-07-01T20:45:50.326549+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "direction": "bullish",
+      "summary": "美国战略石油储备降至1983年以来最低水平，可能推高油价，利好能源板块及相关ETF。",
+      "translation": "突发：美国战略石油储备（SPR）降至1983年以来最低水平，根据EIA数据。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072414073396846639",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nOn September 23, 2025, Trump purchased up to $1 million of Amazon, $AMZN, stock.\n\nOn September 25, 2025, Trump’s FTC settled a major probe into Amazon over alleged deceptive Prime enrollment practices.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072414073396846639",
+    "published_at": "2026-07-01T20:16:33+00:00",
+    "fetched_at": "2026-07-01T20:45:52.611222+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bearish",
+      "summary": "推文暗示特朗普在购买亚马逊股票后不久，其领导的FTC就和解了对亚马逊的调查，这可能存在利益冲突，对亚马逊构成负面信号。",
+      "translation": "突发：看看这个。2025年9月23日，特朗普购买了高达100万美元的亚马逊（$AMZN）股票。2025年9月25日，特朗普的FTC和解了对亚马逊涉嫌欺骗性Prime注册行为的一项重大调查。很不寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072409468709576972",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nThe day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million. \n\nThe trades were disclosed more than a year late, resulting in a $200 penalty.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072409468709576972",
+    "published_at": "2026-07-01T19:58:15+00:00",
+    "fetched_at": "2026-07-01T20:45:55.276454+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文质疑美国前总统特朗普在宣布暂停关税引发市场大涨前一天，其账户买入大量股票，且披露延迟一年多，仅被罚款200美元，暗示存在内幕交易或不当行为。投资者应关注此类政治人物交易时机与市场事件的关联性。",
+      "translation": "突发：看看这个。在特朗普暂停关税并引发历史性10%市场反弹的前一天，他的账户购买了多达327只股票，价值高达1280万美元。这些交易在一年多后才披露，仅被罚款200美元。不寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072399589966332350",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2072399589966332350",
+    "published_at": "2026-07-01T19:19:00+00:00",
+    "fetched_at": "2026-07-01T20:45:58.365629+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国银行指出，10个市场见顶指标中已有7个被触发，暗示当前市场可能接近顶部，投资者应警惕回调风险。",
+      "translation": "突发：美国银行表示，10个市场见顶指标中已有7个被触发。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072395621554684079",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump's DOJ dropped criminal probe into Abbott over baby formula plant yesterday.\n\nTwo months prior to this, Trump purchased up to $500,000 of Abbott stock, per MorePerfectUnion.\n\nTrump has said that he does not manage his funds.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072395621554684079",
+    "published_at": "2026-07-01T19:03:14+00:00",
+    "fetched_at": "2026-07-01T20:46:00.760220+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ABT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文暗示Abbott可能因调查终止而受益，且特朗普在消息公布前购入该股，可能提振市场情绪，对ABT构成利好。",
+      "translation": "突发：特朗普的司法部昨天终止了对雅培婴儿配方奶粉工厂的刑事调查。而在此两个月前，据MorePerfectUnion报道，特朗普购买了高达50万美元的雅培股票。特朗普曾表示他不管理自己的资金。不同寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072387778910781461",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US declined to extend its signature trade pact with Mexico and Canada, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2072387778910781461",
+    "published_at": "2026-07-01T18:32:04+00:00",
+    "fetched_at": "2026-07-01T20:46:02.574245+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国拒绝延长与墨西哥和加拿大的贸易协定，可能引发贸易不确定性，对相关市场和经济体产生负面影响。",
+      "translation": "突发：据《华尔街日报》报道，美国拒绝延长与墨西哥和加拿大的标志性贸易协定。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072373920708067765",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -125,6 +246,27 @@
     }
   },
   {
+    "tweet_id": "2072343721719497186",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Playstation says new games to be digital-only from 2028.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072343721719497186",
+    "published_at": "2026-07-01T15:37:00+00:00",
+    "fetched_at": "2026-07-01T20:46:11.500403+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SONY"
+      ],
+      "direction": "neutral",
+      "summary": "PlayStation宣布从2028年起新游戏将仅提供数字版，这可能影响索尼（SONY）的游戏业务收入结构，减少实体销售成本但可能面临玩家抵触。",
+      "translation": "刚刚：PlayStation表示从2028年起新游戏将仅提供数字版。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072338688705798155",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -140,6 +282,25 @@
       "direction": "neutral",
       "summary": "霍尔木兹海峡的交通量正在回升，但仍低于正常水平。这可能对全球能源市场和航运股产生影响，但方向尚不明确。",
       "translation": "突发：据彭博报道，霍尔木兹海峡的交通量正在回升，但仍低于正常水平。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072333655436038617",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump: I am profiting because of the stock market going up.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072333655436038617",
+    "published_at": "2026-07-01T14:57:00+00:00",
+    "fetched_at": "2026-07-01T20:46:14.801990+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普声称因股市上涨而获利，暗示对当前市场表现持积极态度，可能有利于投资者信心。",
+      "translation": "突发：特朗普：我因股市上涨而获利。",
       "confidence": "medium"
     }
   },
@@ -1685,6 +1846,31 @@
       "summary": "该推文提到特朗普名下账户在2026年第一季度执行了约3700笔股票交易，这可能引发市场对政治人物交易活动的关注，但未提供具体交易标的或投资方向，因此投资相关性有限。",
       "translation": "最近的联邦伦理披露显示，特朗普总统名下的账户在2026年第一季度执行了约3700笔股票交易。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071773922995929105",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "跟 Serenity 学美股--公开看好的机器人公司\n\n白毛股神 Serenity分享了她的人形机器人布局思路： 她披露持仓 Agility Robotics、Harmonic Drive 与 Vishay Precision；同时看好宇树科技、绿的谐波与舍弗勒，高盛预测韩国企业将占全球人形机器人生产 30% 份额，赛道极其广阔！\n\n① Agility Robotics (CCXI / 拟 AGLT) - 市值约 25 亿美元\n\n主营业务：双足人形机器人 Digit 研发与制造，采用租赁模式进行商业化部署，背后有英伟达和亚马逊等战略股东支持\n\n供应链卡点：双足步态控制算法的工程化积淀极深，作为整机商是上游零部件需求放量的核心引擎\n\nSerenity的看法：为整机端的首选，个人最大仓位所在，更偏好这类美国本土的人形机器人厂商\n\n② 宇树科技 (拟科创板上市) - 估值约 58 亿美元\n\n主营业务：通用人形机器人及四足机器人开发与销售，科创板首发上市已通过审核\n\n供应链卡点：出货量全球第一，凭借极致供应链本土化性价比跑通了量产与盈利正循环\n\nSerenity的看法：看好但个人未持仓，与 Agility 均为看好的整机厂商，但目前最喜欢的依然是 Agility\n\n③ Harmonic Drive (6324.T / 日本) - 市值约 42 亿美元\n\n主营业务：精密谐波减速机及一体化执行器制造，产品用于机器人、半导体和航天领域\n\n供应链卡点：柔轮形变传动材料配方和超精密加工门槛极高，是关节精密传动的物理性供给瓶颈\n\nSerenity的看法：已建仓持有，看好谐波减速器在整机材料清单中的高价值占比\n\n④ Vishay Precision Group (VPG / 美股) - 市值约 17 亿美元\n\n主营业务：高精度箔电阻、应变片与称重传感器制造，应用于高端工业和国防测量\n\n供应链卡点：箔电阻温漂表现极佳，是灵巧手精密力控和触觉反馈的不可替代上游\n\nSerenity的看法：已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商\n\n⑤ 绿的谐波 (https://t.co/CpWZ2neauj / A股) - 市值约 92 亿美元\n\n主营业务：精密减速器及机电一体化关节模块制造，主打高性价比和规模化量产\n\n供应链卡点：实现规模化国产替代，大幅降低谐波减速器成本，是中国整机厂商降本的关键\n\nSerenity的看法：看好但个人未建仓\n\n⑥ 舍弗勒 (https://t.co/FL1ra6rOXA / 德国) - 市值约 85 亿美元\n\n主营业务：高精密轴承和线性执行器制造，2025 年起将人形机器人业务作为独立单元运营\n\n供应链卡点：百年精密轴承技术平移，开发集成了行星丝杠的模块化线性执行器\n\nSerenity的看法：看好但个人未建仓\n\n额外信息补充：\n\nSerenity @aleabitoreddit 还提及其持仓的 AI 数据中心相关标的(如存储)也间接受益于机器人主题。她声明不建议复制仓位，仅分享个人研究思考\n\n 内存是本月市场的重点关注对象，而像 $AAOI 这样的光学股票则出现了回调，Serenity 认为最终会看到资金轮动回光子领域，这也是她个人最集中的投资主题\n\n感谢Serenity提供的信息，以上内容仅供学习交流，请DYOR",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2071773922995929105",
+    "published_at": "2026-06-30T01:52:49+00:00",
+    "fetched_at": "2026-07-01T20:45:31.863099+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "AGLT",
+        "6324.T",
+        "VPG",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "Serenity分享了她的人形机器人布局思路，看好整机商（如Agility Robotics）和供应链核心环节（如谐波减速器、传感器等），认为赛道广阔并给出具体持仓与未持仓标的，整体看多情绪明显。",
+      "translation": "与Serenity学习美股——公开看好的机器人公司。白毛股神Serenity分享了她的人形机器人布局思路：她披露持仓Agility Robotics、Harmonic Drive与Vishay Precision；同时看好宇树科技、绿的谐波与舍弗勒，高盛预测韩国企业将占全球人形机器人生产30%份额，赛道极其广阔！以下是具体分析：① Agility Robotics (CCXI / 拟AGLT) - 市值约25亿美元...（省略）...感谢Serenity提供的信息，以上内容仅供学习交流，请DYOR。",
+      "confidence": "high"
     }
   },
   {
