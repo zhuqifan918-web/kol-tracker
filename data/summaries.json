@@ -23,27 +23,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AMZN",
-      "NVDA",
-      "AAPL",
-      "PLTR",
-      "TSLA"
+      "$META",
+      "$AAPL",
+      "$NVDA",
+      "$AMZN",
+      "$PLTR"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "总统特朗普涉嫌内幕交易",
-      "市场见顶信号频现",
-      "经济分化加剧",
-      "AI泡沫与芯片依赖风险",
-      "投资者信心下滑"
+      "特朗普交易与内幕交易嫌疑",
+      "市场泡沫与风险指标触发",
+      "消费者支出疲软与债务问题",
+      "科技AI支出放缓与资产负债表风险"
     ],
-    "recent_shift": "早期强调做空和衰退信号，后期更聚焦政治操作与市场操纵案例",
+    "recent_shift": "近期重点关注特朗普金融披露中的潜在利益冲突及市场脆弱信号，从之前偏向AI投资转向警惕泡沫和衰退。",
     "representative_quotes": [
-      "BREAKING: The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million. The trades were disclosed more than a year late, resulting in a $200 penalty. Unusual.",
-      "BREAKING: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
-      "“The K-shaped economy—with the well-to-do thriving and everyone else lagging—remains firmly intact, and there is no sign that the trend line will reverse soon,” Moody's has said."
+      "BREAKING: Look at this...The day before Trump paused tariffs...his accounts purchased 327 stocks worth up to $12.8 million. The trades were disclosed more than a year late, resulting in a $200 penalty. Unusual.",
+      "7 out of 10 market peak indicators have now been triggered, per Bank of America",
+      "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances."
     ],
-    "generated_at": "2026-07-01T20:46:24.744061+00:00"
+    "generated_at": "2026-07-01T22:13:18.729520+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

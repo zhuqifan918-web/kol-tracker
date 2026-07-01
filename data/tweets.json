@@ -1,5 +1,94 @@
 [
   {
+    "tweet_id": "2072439603450224963",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Binance, the world’s largest crypto exchange, failed to obtain a license to operate in the EU, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2072439603450224963",
+    "published_at": "2026-07-01T21:58:00+00:00",
+    "fetched_at": "2026-07-01T22:12:57.689376+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BNB"
+      ],
+      "direction": "bearish",
+      "summary": "币安未能获得欧盟运营牌照，可能对其欧洲业务及BNB价格产生负面影响，投资者需关注监管风险。",
+      "translation": "据《华尔街日报》报道，全球最大加密货币交易所币安未能在欧盟获得运营许可证。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072432808866295830",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, spent nearly $50,000/year per employee on AI tokens, per NYT.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072432808866295830",
+    "published_at": "2026-07-01T21:31:00+00:00",
+    "fetched_at": "2026-07-01T22:12:59.922559+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到Meta每年为每位员工在AI tokens上花费约5万美元，引用自《纽约时报》。这显示Meta在AI方面的巨大投入，可能影响其未来盈利能力和运营成本，但未明确给出看涨或看跌信号。",
+      "translation": "Meta（$META）据《纽约时报》报道，每年为每位员工在AI tokens上花费近5万美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072427713067930045",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nOn July 23, 2025, Trump purchased up to $5 million of Broadcom, $AVGO, Meta, $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, &amp; Nvidia, $NVDA.\n\nLater that day, the Trump admin unveiled its AI Action Plan, a policy that benefited those companies.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072427713067930045",
+    "published_at": "2026-07-01T21:10:45+00:00",
+    "fetched_at": "2026-07-01T22:13:02.451402+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AVGO",
+        "META",
+        "AMZN",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普在2025年7月23日购买了高达500万美元的Broadcom、Meta、Amazon、Apple、Microsoft和Nvidia股票，同日其政府公布的人工智能行动计划利好这些公司，暗示政策利好和内部人信心。",
+      "translation": "突发新闻：看这个。2025年7月23日，特朗普购买了高达500万美元的Broadcom（$AVGO）、Meta（$META）、Amazon（$AMZN）、Apple（$AAPL）、Microsoft（$MSFT）和Nvidia（$NVDA）。当天晚些时候，特朗普政府公布了人工智能行动计划，这项政策使这些公司受益。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072424504048185752",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump's newest disclosures show some unusual trades.\n\nTrump purchased up to $5 million of Axon, $AXON, stock in February.\n\nWeeks later, ICE sought a $220 million deal with Axon, per CNBC.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072424504048185752",
+    "published_at": "2026-07-01T20:58:00+00:00",
+    "fetched_at": "2026-07-01T22:13:04.683672+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXON"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普披露买入高达500万美元的Axon股票，随后ICE寻求与Axon达成2.2亿美元交易，暗示内幕交易或利好，可能推动股价上涨。",
+      "translation": "突发：特朗普最新披露显示一些不寻常的交易。特朗普在2月份买进了高达500万美元的Axon（$AXON）股票。数周后，ICE寻求与Axon达成2.2亿美元的交易，据CNBC报道。不同寻常。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072417709283856640",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -59,6 +148,25 @@
       "summary": "该推文质疑美国前总统特朗普在宣布暂停关税引发市场大涨前一天，其账户买入大量股票，且披露延迟一年多，仅被罚款200美元，暗示存在内幕交易或不当行为。投资者应关注此类政治人物交易时机与市场事件的关联性。",
       "translation": "突发：看看这个。在特朗普暂停关税并引发历史性10%市场反弹的前一天，他的账户购买了多达327只股票，价值高达1280万美元。这些交易在一年多后才披露，仅被罚款200美元。不寻常。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072404622975897815",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: We have just launched a free trial of the Unusual Whales API.\n\nThe Unusual Whales API gives full access to live options, equities, prediction market data, and much more.\n\nCheck it out here: https://t.co/JWOGQSKf9Y https://t.co/mJGDZyU9YP",
+    "tweet_url": "https://x.com/unusual_whales/status/2072404622975897815",
+    "published_at": "2026-07-01T19:39:00+00:00",
+    "fetched_at": "2026-07-01T22:13:06.599591+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文宣布推出Unusual Whales API的免费试用版，该API提供期权、股票和预测市场数据等投资相关数据服务，对投资者有潜在价值。",
+      "translation": "突发：我们刚刚推出了Unusual Whales API的免费试用版。Unusual Whales API提供对实时期权、股票、预测市场数据等全方位访问。在这里查看：https://t.co/JWOGQSKf9Y https://t.co/mJGDZyU9YP",
+      "confidence": "high"
     }
   },
   {
