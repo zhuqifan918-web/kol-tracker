@@ -5,23 +5,23 @@
       "$AAOI",
       "$MU",
       "$TSM",
-      "$NVDA"
+      "$AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈投资",
-      "光子学/激光供应链结构性短缺",
-      "人形机器人及物理AI商业化",
-      "全球科技供应链地缘政治",
-      "内存与先进封装长期需求"
+      "光通信与激光器瓶颈（CW DFB激光器、EML）",
+      "人形机器人产业链（Agility Robotics、谐波减速器、传感器）",
+      "半导体存储器需求结构性增长（HBM、DRAM）",
+      "AI算力基础设施资本支出持续扩张（Neocloud、CPO）",
+      "中国供应链自给与中美科技竞争（出口管制、蒸馏）"
     ],
-    "recent_shift": "近期观点从普遍看好转向关注宏观回调中的买入机会，并指出高β股票跌幅更深但往往率先反弹。",
+    "recent_shift": "近期观点从前瞻性布局转向关注HVM（高量产）拐点信号，强调SIVE等公司已进入规模化爬坡阶段，并更聚焦人形机器人IPO和光学互联商用化时间表。",
     "representative_quotes": [
-      "I think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up.",
-      "Sivers is by far my favorite laser chokepoint long. Feels like they're everywhere in new optical architectures starting beginning of 2027.",
-      "Crap like this is why retail trust in media has dropped off a cliff in the past few years."
+      "Sivers lasers powering robotics / physical AI. ... Physical AI and mass consumer production with Apple would be very material to revenue.",
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
+      "The ~$140M convertible note is real, but it's pennies to US institutions. ... I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ"
     ],
-    "generated_at": "2026-07-01T03:52:23.350749+00:00"
+    "generated_at": "2026-07-01T08:04:42.560642+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -51,24 +51,24 @@
     "focus_tickers": [
       "$GLW",
       "$NVDA",
+      "$MU",
       "$LRCX",
-      "$AMAT",
-      "$KLAC"
+      "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（海力士、美光）是AI革命的核心和利润来源",
-      "康宁（$GLW）因玻璃基板、光纤和CPO成为下一代AI算力底座",
-      "半导体设备（LRCX、AMAT、KLAC）受益于存储和AI扩产",
-      "物理AI和太空计算（SPCX）是远期超级机会",
-      "AI基建远未成熟，大厂资本支出和供需缺口持续推动相关股票上涨"
+      "存储芯片需求强劲，海力士等巨头受益于AI基建和云厂采购",
+      "英伟达扩产带动康宁（$GLW）玻璃基板、光纤等底层技术需求",
+      "芯片设备股（$LRCX、$AMAT等）刚启动，受益于存储和AI扩产",
+      "AI泡沫尚未破裂，远未到取代白领工作的程度，投资者应长期持有",
+      "大市值股票（千亿美金以上）受机构青睐，稳定性高且不易被操纵"
     ],
-    "recent_shift": "从早期主要押注海力士和美光等存储股，近期显著增加对康宁（$GLW）和半导体设备的关注，并清仓部分其他仓位全仓买入康宁和海力士。",
+    "recent_shift": "近期重点从纯粹存储股（海力士）转向康宁、日月光等AI基础设施底层技术股，并强调设备股和玻璃基板等新方向。",
     "representative_quotes": [
-      "持有康宁 $GLW 要强大的耐心，2年十倍。",
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
-      "物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。"
+      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。",
+      "现在的存储不仅赚走了AI绝大部分的利润，还赚走了所有科技电子产品的利润。存储是正儿八经王者中的王者行业。"
     ],
-    "generated_at": "2026-06-30T17:22:37.036149+00:00"
+    "generated_at": "2026-07-01T08:04:46.965557+00:00"
   }
 }

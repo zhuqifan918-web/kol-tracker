@@ -1,5 +1,68 @@
 [
   {
+    "tweet_id": "2072219315760488615",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE: \"Intent to complete the [NASDAQ] listing process over the next few quarters\"\n\nThis statement was largely missed by many screeners.\n\nVery material improvement from evaluation, to formal confirmation of timelines. https://t.co/iOceCgJTG4",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072219315760488615",
+    "published_at": "2026-07-01T07:22:39+00:00",
+    "fetched_at": "2026-07-01T08:03:37.042525+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出$SIVE计划在未来几个季度完成纳斯达克上市流程，这是一个从评估到时间表确认的实质性进展，可能推动股价上涨。",
+      "translation": "$SIVE：“打算在未来几个季度完成[纳斯达克]上市流程”。此声明被许多筛选器忽略。从评估到时间表正式确认，是非常实质性的进展。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072218218010497414",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不同，采用的是不设价格上限的独特合约架构。 https://t.co/GP0DaQyHI4",
+    "tweet_url": "https://x.com/xiaomustock/status/2072218218010497414",
+    "published_at": "2026-07-01T07:18:17+00:00",
+    "fetched_at": "2026-07-01T08:04:07.888645+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "SK海力士近期与客户签订的长期供应合约采用不设价格上限的独特架构，这可能意味着公司在未来供应中享有更大定价弹性，有利于盈利增长。该消息对SK海力士构成正面投资信号。",
+      "translation": "SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不同，采用的是不设价格上限的独特合约架构。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072178393878290789",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some of the more interesting news I came across recently:\n\n1. MS: Revised China humanoid shipments to reach 50,000 in 2026 from 14,000u and 28,000u earlier this year.\n\n2. MS: Probe cards and test sockets likely to be priced hike (precious metal hikes + severe shortage of test pin capacity)\n\n3. Capacitor price hikes: MLCC, aluminum electrolytic, tantalum, polymer aluminum, film, and super capacitors from Yageo.\n\n4. $META Vistara architecture: Older DDR4 Memory with CXL as memory expansion\n\n5. OpenAI achieved inference optimization breakthrough that halves costs and reduces GPU requirements. \n\n6. LTAs are being signed with MLCC after Samsung signed LTA with US big tech customer\n\n7. Grid power bottlenecks triggered 5x increase ($25B) in Brookfield's financing for $BE fuel cells. \n\n8. Taiwan's chip packaging and testing supply chain includes major OSAT providers such as $ASX, Powertech, Winstek Semiconductor, Chipbond, ChipMOS, and ShunSin. \n\nDedicated testing companies include KYEC, Ardentec, and Sigurd Microelectronics, while testing interface suppliers include WinWay, MPI, Keystone Microtech,  Chunghwa Precision, and Hermes Testing Solutions. \n\nLeadframe makers include Jih Lin Tech, SDI, and CWTC, while major IC substrate suppliers include Unimicron, Kinsus, Nan Ya PCB, and Zhen Ding Tech. (Digitimes) \n\n- Taiwan-based OSAT providers are raising prices\n- Memory and IC packaging and testing capacity have both become bottlenecks in the semiconductor supply chain",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072178393878290789",
+    "published_at": "2026-07-01T04:40:02+00:00",
+    "fetched_at": "2026-07-01T08:03:46.288425+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "BE",
+        "ASX"
+      ],
+      "direction": "bullish",
+      "summary": "多条信息显示半导体产业链多个环节出现涨价和供不应求，利好相关供应商和测试设备公司。中国机器人出货量上调、电容器涨价、芯片封装测试瓶颈等趋势，预示芯片板块短期景气度上升。",
+      "translation": "以下是我最近看到的一些有趣消息：\n1. 摩根士丹利：修订2026年中国机器人出货量至5万台，早前今年初预期为1.4万和2.8万。\n2. 摩根士丹利：探针卡和测试插座可能涨价（贵金属涨价+测试探针产能严重短缺）。\n3. 电容器涨价：国巨的MLCC、铝电解、钽电容、聚合物铝、薄膜电容和超级电容涨价。\n4. Meta Vistara架构：老旧DDR4内存搭配CXL用作内存扩展。\n5. OpenAI实现推理优化突破，成本减半并减少GPU需求。\n6. 长期协议正与MLCC签订，三星已与美国大型科技客户签署长期协议。\n7. 电网瓶颈导致Brookfield为BE燃料电池融资增加5倍（250亿美元）。\n8. 台湾芯片封装测试供应链包括日月光、力成科技、稳懋半导体、颀邦科技、捷敏电子、顺芯等主要OSAT厂商。\n专用测试公司包括京元电子、欣铨科技、希格玛微电子；测试接口供应商包括旺矽、旺玖、科斯达、中华精测、汉测试解决方案。\n引线框架制造商包括捷敏科技、SDI、CWTC；主要IC基板供应商包括欣兴电子、景硕、南亚PCB、臻鼎科技。（Digitimes）\n- 台湾OSAT厂商正在涨价\n- 存储器和IC封装测试产能均已成为半导体供应链瓶颈",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072161782005936487",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
