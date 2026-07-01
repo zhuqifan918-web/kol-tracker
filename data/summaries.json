@@ -26,49 +26,49 @@
   "unusual_whales": {
     "focus_tickers": [
       "$AAPL",
-      "$NVDA",
       "$TSLA",
+      "$NVDA",
       "$AMZN",
       "$GME"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济不确定性与通胀压力",
-      "人工智能和科技驱动的市场变化",
-      "地缘政治风险与能源市场",
+      "宏观经济担忧与衰退预期",
+      "AI与半导体产业主导市场",
+      "地缘政治风险影响油价和市场",
       "消费者债务与支出分化",
-      "批发市场和机构资金流动"
+      "美联储政策不确定性"
     ],
-    "recent_shift": "近期推文从早期关注GameStop收购和总统交易，转向更多关于地缘冲突、通胀压力及科技公司动态的混合信息，整体观点更为分化。",
+    "recent_shift": "近期观点转向更悲观，强调地缘冲突、消费者债务和美联储可能加息的负面影响。",
     "representative_quotes": [
-      "BREAKING: Semiconductor stocks now account for a record 19.7% of the S&P 500.",
-      "BREAKING: Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years.",
-      "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes"
+      "BREAKING: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
+      "Fed's Hammack: inflation is still too high. The Fed may need to consider rate hikes",
+      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter, per Allianz."
     ],
-    "generated_at": "2026-07-01T03:52:26.514544+00:00"
+    "generated_at": "2026-07-01T11:37:55.033023+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "$NVDA",
-      "$MU",
-      "$LRCX",
-      "$AMAT"
+      "SK Hynix",
+      "GLW",
+      "NVDA",
+      "AMAT",
+      "LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求强劲，海力士等巨头受益于AI基建和云厂采购",
-      "英伟达扩产带动康宁（$GLW）玻璃基板、光纤等底层技术需求",
-      "芯片设备股（$LRCX、$AMAT等）刚启动，受益于存储和AI扩产",
-      "AI泡沫尚未破裂，远未到取代白领工作的程度，投资者应长期持有",
-      "大市值股票（千亿美金以上）受机构青睐，稳定性高且不易被操纵"
+      "AI基建全产业链核心机会",
+      "存储芯片供需紧张与定价权",
+      "康宁玻璃基板与光互连技术变革",
+      "半导体设备与扩产周期",
+      "物理AI与数据采集新机遇"
     ],
-    "recent_shift": "近期重点从纯粹存储股（海力士）转向康宁、日月光等AI基础设施底层技术股，并强调设备股和玻璃基板等新方向。",
+    "recent_shift": "从早期重仓海力士和2x杠杆，近期转向分散配置康宁、日月光等，强调存储供需紧张持续但新增玻璃基板等新方向。",
     "representative_quotes": [
-      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。",
-      "现在的存储不仅赚走了AI绝大部分的利润，还赚走了所有科技电子产品的利润。存储是正儿八经王者中的王者行业。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "康宁 $GLW 真是涨的无敌寂寞！262刀了.5000亿市值也就600刀左右，对英伟达写明面上合作扩产10倍的康宁来说业绩翻10倍远远不止600刀这个价。",
+      "现在确实是AI非常早期的阶段，大厂之所以巨额投入，就是想通过自己海量的算力，海量的存储，抢先干出AGI时刻。"
     ],
-    "generated_at": "2026-07-01T08:04:46.965557+00:00"
+    "generated_at": "2026-07-01T11:37:52.401762+00:00"
   }
 }

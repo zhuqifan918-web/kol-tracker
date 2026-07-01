@@ -1,5 +1,105 @@
 [
   {
+    "tweet_id": "2072278290740482105",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances. Gen Z is the most concerned, citing job security and weaker savings, per Allianz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072278290740482105",
+    "published_at": "2026-07-01T11:17:00+00:00",
+    "fetched_at": "2026-07-01T11:37:26.364337+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该调查显示，多数投资者降低风险敞口并预期经济衰退，市场情绪偏向悲观，可能对股市形成压力。",
+      "translation": "半数投资者已降低投资组合风险，62%预期经济衰退，71%担心市场波动损害财务状况。Z世代最为担忧，主要由于就业保障和储蓄薄弱（数据来自安联保险）。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072275805330362648",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics:\n\nAgility ( $CCXI ) kinda feels like Anthropic for robotics.\n\nWith $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). And it starts off with enterprise commercialization.\n\nOptimus is kinda off doing its own thing like xAI.\n\nSupported by Tesla/Elon and his visionary roadmap as usual.\n\nFigure is like ChatGPT\n\nWith Microsoft/OpenAI investing (kinda like Microsoft), then ended up kinda competing them by building their own VlA and setting them behind. \n\nBut ends up top 2 leaders anyway.\n\nBoston Dynamics is Gemini\n\nKinda started the entire humanoids thing like transformers with backflip videos.\n\nWith R&D supported by $GOOGL but somehow let everyone else leapfrog them in commercialization.\n\nAnd then there’s $NVDA just chilling, silently powering the entire humanoids ecosystem.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072275805330362648",
+    "published_at": "2026-07-01T11:07:07+00:00",
+    "fetched_at": "2026-07-01T11:36:45.206431+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "AMZN",
+        "NVDA",
+        "GOOGL"
+      ],
+      "direction": "neutral",
+      "summary": "该推文比较了美国主要人形机器人公司与当前LLM动态的相似性,提及多家相关公司及其战略定位,但未给出明确投资建议。",
+      "translation": "只是一个随想,美国领先的人形机器人公司让我想起当前的LLM动态: Agility( $CCXI )有点像Anthropic之于机器人学。有$AMZN和$NVDA大力支持,且与$GOOGL Deepmind深度整合(如TPUs),并开始以企业商业化起步。Optimus则像xAI,自顾自地搞自己的事,一如既往由特斯拉/Elon及其愿景路线图支撑。Figure就像ChatGPT,有微软/OpenAI投资(有点像微软),但结果又与他们竞争,自己构建VlA并将其置于身后,但无论如何最后还是成为前两名领导者之一。Boston Dynamics就像Gemini,几乎以后空翻视频开启了整个人形机器人时代,就像transformers一样。有$GOOGL的R&D支持,但不知何故让其他人在商业化上超越。然后还有$NVDA在悠闲地默默支撑整个人形机器人生态系统。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072273257516945915",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "President Trump reported more than $1.4 billion in income from crypto, digital tokens and related partnerships in 2025, per WaPo",
+    "tweet_url": "https://x.com/unusual_whales/status/2072273257516945915",
+    "published_at": "2026-07-01T10:57:00+00:00",
+    "fetched_at": "2026-07-01T11:37:28.504273+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了特朗普总统在2025年从加密货币、数字代币及相关合伙企业中获得了超过14亿美元的收入，这可能反映数字资产市场的巨大潜力，但对普通投资者的直接指导意义有限。",
+      "translation": "据《华盛顿邮报》报道，特朗普总统在2025年从加密货币、数字代币及相关合伙企业中报告了超过14亿美元的收入。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072255800974930315",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天想到一个问题，未来是属于AI的，那为啥AI产业链股暴涨路上还会有暴跌，\n大概是市场在调节涨幅去跟它的季度营收或者数年内的预期营收做匹配。\n就像草原上骑马，虽然马儿在狂奔，但实际奔跑过程中你一直在来回拉缰绳调控它的节奏，跑累了你还得给它一口草吃。",
+    "tweet_url": "https://x.com/xiaomustock/status/2072255800974930315",
+    "published_at": "2026-07-01T09:47:38+00:00",
+    "fetched_at": "2026-07-01T11:37:14.099025+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出AI产业链股虽然长期看好，但短期暴涨后必有回调，原因在于市场会调节股价以匹配季度营收或未来数年预期营收。作者用骑马拉缰绳的比喻说明股价波动是正常调整，投资者应理解这种节奏。",
+      "translation": "今天想到一个问题，未来是属于AI的，那为啥AI产业链股暴涨路上还会有暴跌，大概是市场在调节涨幅去跟它的季度营收或者数年内的预期营收做匹配。就像草原上骑马，虽然马儿在狂奔，但实际奔跑过程中你一直在来回拉缰绳调控它的节奏，跑累了你还得给它一口草吃。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072242322688057579",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "This market feels like an ADHD goldfish with a 5 second attention span, trading popular themes. \n\nIt's like markets only care about physical AI and energy right now?\n\nAnd sold off memory and photonics that are bottlenecked past 2028?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072242322688057579",
+    "published_at": "2026-07-01T08:54:04+00:00",
+    "fetched_at": "2026-07-01T11:36:51.202537+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文批评当前市场注意力短暂，只关注物理AI和能源等热门主题，而忽视了像内存和光子学这样可能在未来（2028年后）有瓶颈的领域。作者暗示市场缺乏长远眼光，投资主题快速轮动。",
+      "translation": "这个市场就像一只注意力只有5秒的多动症金鱼，只追逐热门主题。好像市场只关心物理AI和能源？而抛售了那些在2028年后才可能遇到瓶颈的内存和光子学？",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072219315760488615",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -121,6 +221,25 @@
       "summary": "GameStop在监管文件中确认仍致力于约560亿美元的现金加股票收购提议，但eBay已拒绝该报价。此消息对GME股价影响中性，需关注后续发展。",
       "translation": "在一份监管文件中，GameStop确认仍致力于其约560亿美元的现金加股票收购提议，此前eBay已拒绝该报价。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072122514101399663",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Authorities also raided Taiwanese data center operator Chief Telecom Inc. and Super Micro distributor Albatron Technology Co.\n\nRead more: https://t.co/2LRrWoAYCe",
+    "tweet_url": "https://x.com/unusual_whales/status/2072122514101399663",
+    "published_at": "2026-07-01T00:58:00+00:00",
+    "fetched_at": "2026-07-01T11:37:37.008311+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "此次突袭搜查涉及台湾数据中心运营商是方电讯（Chief Telecom）和超微分销商青雲科技（Albatron Technology），可能对数据中心和服务器硬件行业造成负面影响，暗示监管风险或合规问题。投资者需关注后续发展。",
+      "translation": "当局还突袭搜查了台湾数据中心运营商是方电讯（Chief Telecom Inc.）和超微分销商青雲科技（Albatron Technology Co.）。",
+      "confidence": "medium"
     }
   },
   {
@@ -916,6 +1035,25 @@
       "summary": "讨论了光脉冲激光器/封装环节的供应链瓶颈，提及韩国RF材料（327260）是$LITE的唯一供应商，因中国排除政策。作者认为市场尚未重视这类小众上游瓶颈，且对韩国市场持谨慎态度，暂不增加仓位。",
       "translation": "我随机遇到了一些瓶颈：泵浦激光器/封装是其中之一，据称比EML更严重。例如在韩国，RF材料（327260）似乎因中国排除政策而成为$LITE在该瓶颈的独家供应商。另一个我从瓶颈投资中得到的个人经验：是否需要像$AXTI那样拖垮整个行业才能获得数千%的重新定价，而非仅靠材料收入增长带来2倍涨幅。如果他们同时也供应$COHR和其他EML厂商（他们与Coherent有其他业务但无关），我会认为价值更高？Kyocera似乎是Coherent在此瓶颈的供应商。感觉市场并不关心这些针对一两个供应商（日本公司对$KLAC或光学组件）的小众上游瓶颈（至少目前如此）。而且我不喜欢韩国市场的极端波动性，所以个人目前不会在该市场增加资产（没有持仓）。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2071846825792094556",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "影视行业是AI完完整整灭掉的第一个行业，\n\n从导演，编剧，演员，特效等等，上上下下全部完完整整的干死。",
+    "tweet_url": "https://x.com/xiaomustock/status/2071846825792094556",
+    "published_at": "2026-06-30T06:42:30+00:00",
+    "fetched_at": "2026-07-01T11:37:15.986706+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文认为人工智能将全面颠覆影视行业，从导演到特效等所有岗位将被取代，对影视行业及相关投资构成利空。",
+      "translation": "影视行业是AI完完整整灭掉的第一个行业，从导演、编剧、演员、特效等等，上上下下全部完完整整的干死。",
+      "confidence": "low"
     }
   },
   {
