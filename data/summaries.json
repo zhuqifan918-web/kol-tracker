@@ -2,73 +2,71 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
-      "$META",
       "$AAOI",
-      "$MU",
-      "$NBIS"
+      "$META",
+      "$NBIS",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设与资本支出",
-      "光子学与激光瓶颈",
-      "人形机器人与物理AI",
-      "内存结构性需求增长",
-      "供应链瓶颈与价格驱动"
+      "AI基础设施的瓶颈投资",
+      "光通信（CPO）及激光器供应链",
+      "人形机器人生态的早期布局",
+      "中美技术竞争加剧",
+      "半导体材料与设备的小众垄断"
     ],
-    "recent_shift": "近期更关注光子学细分领域的激光瓶颈，并强调Sivers的广泛嵌入性，而非单纯CPO；同时对宏观回调保持长期看多。",
+    "recent_shift": "近期从广泛AI主题转向更具体的CPO/光子学瓶颈和人形机器人曝光，并因市场回调遭遇较大回撤，但长期看多信念不变。",
     "representative_quotes": [
-      "If anything, I’m expecting their guided capex to go up as they build out more independent capacity.",
-      "This is probably positive for the AI DC capex buildout since hyperscalers capacity is way below what is needed...",
-      "I do think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up."
+      "I told you making the robots look hot might be a bottleneck: Today, UBTech has now announced its first full-size hyper realistic humanoid robot girlfriend.",
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
+      "Global markets in a nutshell: Japanese Company: Active monopoly over random chokepoints in the hyperscaler AI buildout. Valuation: $150m-$350M. Silicon Valley: Here's a $200m for a 'Seed Round'."
     ],
-    "generated_at": "2026-07-01T14:09:16.699487+00:00"
+    "generated_at": "2026-07-01T16:44:01.018048+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$TSLA",
-      "$GME",
-      "$AAPL",
-      "$MSFT"
+      "AAPL",
+      "NVDA",
+      "TSLA",
+      "GME",
+      "SMCI"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "人工智能泡沫警告",
-      "消费者信心恶化",
-      "地缘政治风险升温",
-      "半导体行业集中度创纪录",
-      "经济K型分化加剧"
+      "AI泡沫与削减开支",
+      "宏观经济下行风险",
+      "中东地缘政治紧张"
     ],
-    "recent_shift": "近期观点从乐观转向谨慎，强调AI泡沫破裂风险、消费者支出低迷及地缘冲突对市场的冲击。",
+    "recent_shift": "近期观点从关注AI泡沫转向强调经济衰退风险和地缘政治不确定性",
     "representative_quotes": [
-      "The AI boom in global stock markets has become an unsustainable bubble",
-      "Half of investors have reduced their portfolio risk, while 62% expect a recession",
-      "The K-shaped economy—with the well-to-do thriving and everyone else lagging—remains firmly intact"
+      "The AI boom in global stock markets has become an unsustainable bubble.",
+      "60% of companies have already curbed AI spending...",
+      "Half of investors have reduced their portfolio risk, while 62% expect a recession..."
     ],
-    "generated_at": "2026-07-01T14:09:13.072117+00:00"
+    "generated_at": "2026-07-01T16:44:06.999129+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK Hynix",
+      "SKHynix",
       "GLW",
       "NVDA",
       "MU",
-      "LRCX"
+      "AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基建供不应求，存储芯片（尤其是HBM）是核心受益者",
-      "康宁GLW因英伟达合作扩产10倍，被视为下一代AI算力底座",
-      "物理AI将是英伟达的第二增长曲线，但门槛极高需千亿美金储备",
-      "存储涨价周期持续，三星、海力士等龙头话语权强于英伟达",
-      "大市值股票趋势稳固，机构加仓带来确定性"
+      "存储芯片霸主地位与AI基建核心",
+      "玻璃基板与光纤（康宁）的确定性增长",
+      "芯片设备股跟随存储扩产受益",
+      "AI泡沫长牛但未破，早期投资机会",
+      "避免杠杆与分散风险"
     ],
-    "recent_shift": "最新观点更聚焦康宁GLW和存储长期合约，认为AI泡沫未破且物理AI有巨大潜力，早期对宏观加息和杠杆风险的担忧已淡化。",
+    "recent_shift": "从早期只重仓海力士，近期明显加仓康宁GLW和半导体设备股，认为康宁有10倍业绩潜力，并开始看好日月光等封测股，但底仓仍以海力士为主。",
     "representative_quotes": [
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。话语权更大的一方应该享受更大的市值。",
-      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
+      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！",
+      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
       "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-07-01T14:09:10.464759+00:00"
+    "generated_at": "2026-07-01T16:44:04.874778+00:00"
   }
 }
