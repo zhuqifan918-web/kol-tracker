@@ -23,26 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$AAPL",
-      "$NVDA",
-      "$AMZN",
-      "$PLTR"
+      "NVDA",
+      "META",
+      "AMZN",
+      "AAPL",
+      "MSFT"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普交易与内幕交易嫌疑",
-      "市场泡沫与风险指标触发",
-      "消费者支出疲软与债务问题",
-      "科技AI支出放缓与资产负债表风险"
+      "特朗普交易与利益冲突",
+      "市场泡沫与AI降温",
+      "经济衰退与消费者疲软"
     ],
-    "recent_shift": "近期重点关注特朗普金融披露中的潜在利益冲突及市场脆弱信号，从之前偏向AI投资转向警惕泡沫和衰退。",
+    "recent_shift": "近期推特更多聚焦于特朗普的不寻常交易和市场风险信号，对AI和半导体泡沫的警告增多，整体情绪从乐观转向谨慎。",
     "representative_quotes": [
-      "BREAKING: Look at this...The day before Trump paused tariffs...his accounts purchased 327 stocks worth up to $12.8 million. The trades were disclosed more than a year late, resulting in a $200 penalty. Unusual.",
-      "7 out of 10 market peak indicators have now been triggered, per Bank of America",
+      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
+      "\"The AI boom in global stock markets has become an unsustainable bubble,\" per Wealspring Asset and Shanghai Banxia Investment Management Center",
       "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances."
     ],
-    "generated_at": "2026-07-01T22:13:18.729520+00:00"
+    "generated_at": "2026-07-02T02:15:00.910186+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
