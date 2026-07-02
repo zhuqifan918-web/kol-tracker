@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2072630036600103340",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I just realized Boston Dynamics CEO shared the same sentiment:\n\n“Robotics is next. America’s next 250 years will be built by robots”.\n\nHowever, currently China accounts for 54%+ of all global robotics deployments.\n\n- calls for Internet scaleable database of physical world (kinda got reminded of Niantic that has a huge dataset from Pokemon Go)\n\n- dedicated National robotics strategy to compete against China’s leadership in this space\n\n-  ISO + regulation for robotics safety \n\nThis is all high level:\n\nBut my prioritize thought process is how do we support and scale a Made in USA supply chain for robotics/humanoids?\n\nI’ve been hammering home rare earths for the longest time, that the US isn’t doing enough to subsidize or scale this industry.\n\nBut another thing to take note is subsidies for components, forcing $TSLA and others to use Chinese suppliers over Western ones, even if assembly is done in USA… to keep costs down.\n\nWhich is why I’ve liked Agility Robotics $CCXI since they source 75% of parts from the US, despite higher BOM to start out with.\n\nRegardless it’s pretty clear this Robotics is coming and becoming a national security priority:\n\nFrom the days of backflipping humanoid YT videos.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072630036600103340",
+    "published_at": "2026-07-02T10:34:42+00:00",
+    "fetched_at": "2026-07-02T12:02:38.254963+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA",
+        "CCXI"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出机器人技术将成为美国下一个250年的核心，但中国占据全球54%以上的部署。作者强调美国需建立本土供应链，特别是稀土和组件补贴，并看好Agility Robotics（CCXI）因75%零件来自美国。整体对机器人行业及相关个股持乐观态度。",
+      "translation": "我刚刚意识到波士顿动力的CEO分享了相同的观点：“机器人技术是下一个。美国未来的250年将由机器人建造。”然而，目前中国占据了全球54%以上的机器人部署。呼吁建立互联网可扩展的物理世界数据库（有点像想到了Niantic，他们从Pokemon Go获得了大量数据集）。制定国家机器人战略以对抗中国在该领域的领导地位。制定ISO和机器人安全法规。这些都很宏观，但我优先考虑的是如何支持并扩大美国制造的机器人/人形机器人供应链。我一直在强调稀土，美国在补贴或扩大这个行业方面做得不够。但另一个要注意的是组件补贴，迫使特斯拉等公司使用中国供应商而非西方供应商，即使组装在美国进行，也是为了降低成本。这就是为什么我喜欢Agility Robotics（CCXI），因为他们75%的零件来自美国，尽管初始物料成本更高。无论如何，很明显机器人技术正在到来，并已成为国家安全优先事项：从当初能做后空翻的人形机器人YouTube视频开始。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072610437817078056",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
