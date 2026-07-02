@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2072685977206714536",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Tesla, $TSLA, delivered 480,126 vehicles in the second quarter, far exceeding analyst expectations of 406,024.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072685977206714536",
+    "published_at": "2026-07-02T14:17:00+00:00",
+    "fetched_at": "2026-07-02T14:35:44.156953+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "特斯拉二季度交付量远超分析师预期，显示强劲需求，对股价构成正面影响。",
+      "translation": "特斯拉（$TSLA）在第二季度交付了480,126辆汽车，远超分析师预期的406,024辆。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072660811047432399",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The AI stock rally is minting US millionaires at the fastest pace in 4 years,\" per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2072660811047432399",
+    "published_at": "2026-07-02T12:37:00+00:00",
+    "fetched_at": "2026-07-02T14:35:49.976407+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文指出AI股票上涨正以四年来最快速度创造美国百万富翁，暗示市场对AI板块的乐观情绪和财富效应。",
+      "translation": "据YF报道，AI股票涨势正以四年来最快速度造就美国百万富翁。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072630036600103340",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
