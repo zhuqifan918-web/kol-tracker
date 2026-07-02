@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2072551966052634864",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "OpenAI has begun discussions about giving the US government a 5% stake in the company per the FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2072551966052634864",
+    "published_at": "2026-07-02T05:24:29+00:00",
+    "fetched_at": "2026-07-02T06:13:54.145924+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "OpenAI正与美国政府讨论给予其5%股权，该消息对AI行业具有潜在影响，但具体对股市的直接影响尚不明确。短期内可能增加市场对AI监管和合作的关注，但无特定投资标的被提及。",
+      "translation": "据金融时报报道，OpenAI已开始讨论给予美国政府5%的公司股份。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072546055049167196",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "About 16% was wiped off gold in the three-month period ended June 30.\n\nRead more: https://t.co/5kik144jLT",
+    "tweet_url": "https://x.com/unusual_whales/status/2072546055049167196",
+    "published_at": "2026-07-02T05:01:00+00:00",
+    "fetched_at": "2026-07-02T06:13:56.281071+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD"
+      ],
+      "direction": "bearish",
+      "summary": "该推文报告了黄金价格在截至6月30日的三个月内暴跌约16%，显示出强烈的看跌信号，对黄金及相关投资品种构成利空影响。",
+      "translation": "截至6月30日的三个月内，黄金价格下跌了约16%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072515101018456182",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "On Tesla, Burry wrote that he shorted at $416.22 and was “happy it jumped back to this level.\"\n\nRead more: https://t.co/bOWREXRc69",
+    "tweet_url": "https://x.com/unusual_whales/status/2072515101018456182",
+    "published_at": "2026-07-02T02:58:00+00:00",
+    "fetched_at": "2026-07-02T06:14:02.179645+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bearish",
+      "summary": "Michael Burry公开表示做空特斯拉，在股价反弹至416.22美元时感到满意，暗示其看空立场。",
+      "translation": "关于特斯拉，Burry写道他在416.22美元做空，并‘很高兴它又反弹到这个水平’。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072478107362066578",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

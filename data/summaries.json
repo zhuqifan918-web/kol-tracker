@@ -23,25 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "META",
-      "AMZN",
-      "AAPL",
-      "MSFT"
+      "$NVDA",
+      "$META",
+      "$AMZN",
+      "$AAPL",
+      "$TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普交易与利益冲突",
-      "市场泡沫与AI降温",
-      "经济衰退与消费者疲软"
+      "特朗普交易与内幕争议",
+      "AI泡沫与半导体过热",
+      "黄金与宏观经济风险",
+      "消费者债务与经济分化",
+      "地缘政治与能源动态"
     ],
-    "recent_shift": "近期推特更多聚焦于特朗普的不寻常交易和市场风险信号，对AI和半导体泡沫的警告增多，整体情绪从乐观转向谨慎。",
+    "recent_shift": "近期内容从关注特朗普交易和AI泡沫转向更多消费者债务恶化和地缘政治紧张, 整体悲观情绪加重。",
     "representative_quotes": [
-      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
+      "On Tesla, Burry wrote that he shorted at $416.22 and was “happy it jumped back to this level.\"",
       "\"The AI boom in global stock markets has become an unsustainable bubble,\" per Wealspring Asset and Shanghai Banxia Investment Management Center",
-      "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances."
+      "\"Americans are falling behind on their $1.25 trillion credit-card debt\" per WSJ"
     ],
-    "generated_at": "2026-07-02T02:15:00.910186+00:00"
+    "generated_at": "2026-07-02T06:14:20.114760+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
