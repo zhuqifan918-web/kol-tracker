@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$META",
-      "$AMZN",
-      "$AAPL",
-      "$TSLA"
+      "TSLA",
+      "NVDA",
+      "AAPL",
+      "AMZN",
+      "META"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普交易与内幕争议",
-      "AI泡沫与半导体过热",
-      "黄金与宏观经济风险",
-      "消费者债务与经济分化",
-      "地缘政治与能源动态"
+      "特朗普股票交易争议与利益冲突",
+      "AI泡沫与市场过热信号",
+      "经济分化与衰退风险",
+      "地缘政治与能源市场波动"
     ],
-    "recent_shift": "近期内容从关注特朗普交易和AI泡沫转向更多消费者债务恶化和地缘政治紧张, 整体悲观情绪加重。",
+    "recent_shift": "近期推特从早期关注AI和特斯拉强劲表现转向强调市场负面信号，如特朗普交易异常、AI支出缩减、黄金暴跌和多数指标触发峰值预警。",
     "representative_quotes": [
-      "On Tesla, Burry wrote that he shorted at $416.22 and was “happy it jumped back to this level.\"",
-      "\"The AI boom in global stock markets has become an unsustainable bubble,\" per Wealspring Asset and Shanghai Banxia Investment Management Center",
-      "\"Americans are falling behind on their $1.25 trillion credit-card debt\" per WSJ"
+      "Breaking: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
+      "BREAKING: The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million.",
+      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America"
     ],
-    "generated_at": "2026-07-02T06:14:20.114760+00:00"
+    "generated_at": "2026-07-02T14:36:08.166388+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
