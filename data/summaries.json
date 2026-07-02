@@ -1,71 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
       "$CCXI",
+      "$SIVE",
       "$AAOI",
-      "$MU",
-      "$NBIS"
+      "$META",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈与CW激光器产能荒",
-      "人形机器人商业化与美供应链",
-      "AI算力军备竞赛与超大规模资本开支",
-      "半导体上游材料及设备紧缺",
-      "美国本土制造业回流与地缘竞争"
+      "AI基础设施瓶颈投资",
+      "人形机器人供应链",
+      "光子学与CW激光器",
+      "记忆体结构性需求",
+      "人类机器人商业化"
     ],
-    "recent_shift": "近期仓位从光子学/光通信集中转向人形机器人（Agility Robotics），同时仍看好光子学但承认回调压力。",
+    "recent_shift": "近期明显加大对人形机器人板块的配置，并将Agility Robotics（$CCXI）作为核心持仓，同时持续看多光子学主题，认为市场短期回调不改长期趋势。",
     "representative_quotes": [
       "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo.",
-      "All photon stocks are dropping like rocks. Is it going to be like quantum stocks in 2025?",
-      "The entire optical components industry today is facing a severe shortage of critical components."
+      "All photon stocks are dropping like rocks. Is it going to be like quantum stocks in 2025 ?",
+      "I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE."
     ],
-    "generated_at": "2026-07-02T18:23:33.697240+00:00"
+    "generated_at": "2026-07-02T19:59:38.872663+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$MU",
-      "$NVDA",
       "$TSLA",
-      "$META",
-      "$AMZN"
+      "$NVDA",
+      "$AAPL",
+      "$GS"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普交易争议",
-      "AI芯片与半导体分化",
-      "宏观经济风险加大",
-      "能源与地缘政治"
+      "人工智能与半导体周期",
+      "特朗普交易与利益冲突",
+      "美国经济衰退风险",
+      "住房与消费疲软",
+      "美联储政策不确定"
     ],
-    "recent_shift": "近期更强调特朗普内幕交易风险和市场泡沫警告，此前偏向关注公司业绩和技术进展",
+    "recent_shift": "近期倾向警示市场高峰信号及AI泡沫风险，相比之前更偏悲观",
     "representative_quotes": [
-      "Trump purchased between $217,000 and $530,000 in Micron Technology, $MU, stock during March 2026. He just called $MU a 'great company' after it committed to donate $250 million to the president's Trump Accounts. Unusual.",
-      "The AI stock rally is minting US millionaires at the fastest pace in 4 years, per YF",
-      "60% of companies have already curbed AI spending, with companies shifting to lower-cost models and open-source Chinese models, per UBS"
+      "The AI boom in global stock markets has become an unsustainable bubble.",
+      "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances.",
+      "7 out of 10 market peak indicators have now been triggered, per Bank of America"
     ],
-    "generated_at": "2026-07-02T18:23:29.767413+00:00"
+    "generated_at": "2026-07-02T19:59:30.900068+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
-      "$NVDA",
+      "#海力士",
       "$MU",
-      "$LRCX",
-      "$AMAT"
+      "$NVDA",
+      "$ASX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI存储产业链长期看好，海力士、美光等存储巨头处于核心地位",
-      "康宁作为玻璃基板和光纤龙头，受益于英伟达扩产10倍，业绩有望10倍增长",
-      "物理AI和太空算力是未来方向，但需要巨额资金和耐心"
+      "AI基础设施需求爆发，存储和芯片设备长期供不应求",
+      "康宁GLW作为英伟达下一代芯片玻璃基板核心供应商，具有10倍业绩增长确定性",
+      "存储三巨头（海力士、三星、美光）卡住AI产业链命脉，利润和话语权极大",
+      "物理AI和太空计算是下一波投资机会，但门槛极高",
+      "杠杆风险警示：多次提到无杠杆、仓位管理比选股更重要"
     ],
-    "recent_shift": "近期从对海力士极度乐观转向关注康宁和半导体设备股，同时因市场波动和自身杠杆亏损，态度更趋于谨慎和自嘲",
+    "recent_shift": "近期从纯存储（海力士）转向偏重康宁GLW，并增加了对芯片设备股（AMAT、LRCX、KLAC）的关注，同时强调市场分歧加大和杠杆杀人的风险。",
     "representative_quotes": [
-      "储存是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
-      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了",
-      "人大部分的恐惧来源于自己的想象，时间会抚平一切，也会证明一切。"
+      "这波带杠杆的死了很多人，美股分歧越来越大了，小扎这波直接把AI干碎了。活下去才有机会，仓位管理比买对啥更重要",
+      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
+      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！"
     ],
-    "generated_at": "2026-07-02T09:41:31.602109+00:00"
+    "generated_at": "2026-07-02T19:59:35.292648+00:00"
   }
 }
