@@ -9,43 +9,41 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈投资",
-      "人形机器人供应链",
-      "光子学与CW激光器",
-      "记忆体结构性需求",
-      "人类机器人商业化"
+      "光子学瓶颈和光通信供需缺口",
+      "人形机器人和物理AI商业化",
+      "半导体供应链国产化"
     ],
-    "recent_shift": "近期明显加大对人形机器人板块的配置，并将Agility Robotics（$CCXI）作为核心持仓，同时持续看多光子学主题，认为市场短期回调不改长期趋势。",
+    "recent_shift": "近期观点未变，仍看多光子学和AI基建，但承认短期回调较大",
     "representative_quotes": [
-      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo.",
-      "All photon stocks are dropping like rocks. Is it going to be like quantum stocks in 2025 ?",
-      "I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE."
+      "Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”.",
+      "Thematically, next 2 years is 9x TAM to US$154B per GS reports, especially with 16x/45x dollar content increase in scale out/scale up.",
+      "Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles."
     ],
-    "generated_at": "2026-07-02T19:59:38.872663+00:00"
+    "generated_at": "2026-07-02T21:07:05.041964+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$MU",
       "$TSLA",
+      "$META",
       "$NVDA",
-      "$AAPL",
-      "$GS"
+      "$AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与半导体周期",
-      "特朗普交易与利益冲突",
-      "美国经济衰退风险",
-      "住房与消费疲软",
-      "美联储政策不确定"
+      "AI投资泡沫与资金轮动",
+      "特朗普交易与政策利益冲突",
+      "半导体与存储芯片行业繁荣",
+      "能源与地缘政治风险",
+      "宏观经济放缓与市场分化"
     ],
-    "recent_shift": "近期倾向警示市场高峰信号及AI泡沫风险，相比之前更偏悲观",
+    "recent_shift": "近期从全面看好转爲警示AI泡沫，强调市场分化和政策风险。",
     "representative_quotes": [
-      "The AI boom in global stock markets has become an unsustainable bubble.",
-      "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances.",
-      "7 out of 10 market peak indicators have now been triggered, per Bank of America"
+      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
+      "BREAKING: Look at this. The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million.",
+      "Goldman Sachs, $GS, has said investors are rotating out of the Magnificent Seven and into AI beneficiaries such as semiconductor stocks."
     ],
-    "generated_at": "2026-07-02T19:59:30.900068+00:00"
+    "generated_at": "2026-07-02T21:07:07.901473+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
