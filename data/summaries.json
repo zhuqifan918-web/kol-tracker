@@ -9,43 +9,42 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设与供应链瓶颈投资",
-      "美国本土机器人产业链的自主化",
-      "光子学与光电互联领域的长期结构性机遇",
-      "算力需求爆发下的记忆体与半导体制程瓶颈",
-      "地缘政治风险下的供应链重构与国产替代"
+      "光子学瓶颈与CW激光器产能荒",
+      "人形机器人商业化与美供应链",
+      "AI算力军备竞赛与超大规模资本开支",
+      "半导体上游材料及设备紧缺",
+      "美国本土制造业回流与地缘竞争"
     ],
-    "recent_shift": "近期市场回调中，作者维持对光子学与机器人产业链的看多观点，并认为这是行业长期趋势的短期波动，而非结构性逆转。",
+    "recent_shift": "近期仓位从光子学/光通信集中转向人形机器人（Agility Robotics），同时仍看好光子学但承认回调压力。",
     "representative_quotes": [
-      "For robotics companies, I have a favorable view on Unitree and Agility Robotics, two humanoid players. And I have largest concentration in Agility Robotics, since I personally prefer US humanoid players.",
-      "I've been hammering home rare earths for the longest time, that the US isn't doing enough to subsidize or scale this industry.",
-      "GS Research's ~9-10x $154B optical TAM in 2028 and near $0 -> $91B CPO TAM in just 2 1/2 years. Don't just magically disappear from a month of trading volatility."
+      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo.",
+      "All photon stocks are dropping like rocks. Is it going to be like quantum stocks in 2025?",
+      "The entire optical components industry today is facing a severe shortage of critical components."
     ],
-    "generated_at": "2026-07-02T12:03:20.699615+00:00"
+    "generated_at": "2026-07-02T18:23:33.697240+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$TSLA",
+      "$MU",
       "$NVDA",
+      "$TSLA",
       "$META",
-      "$AMZN",
-      "$AAPL"
+      "$AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI泡沫风险",
-      "市场集中度风险",
-      "宏观经济衰退担忧",
-      "地缘政治不确定性",
-      "消费者信心下滑"
+      "特朗普交易争议",
+      "AI芯片与半导体分化",
+      "宏观经济风险加大",
+      "能源与地缘政治"
     ],
-    "recent_shift": "账户转向更悲观的基调，强调AI泡沫、美联储加息预期和消费者信心下降。",
+    "recent_shift": "近期更强调特朗普内幕交易风险和市场泡沫警告，此前偏向关注公司业绩和技术进展",
     "representative_quotes": [
-      "The AI boom in global stock markets has become an unsustainable bubble",
-      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter",
-      "BREAKING: Michael Burry disclosed new short positions against Nvidia, Tesla, Caterpillar, and Applied Materials"
+      "Trump purchased between $217,000 and $530,000 in Micron Technology, $MU, stock during March 2026. He just called $MU a 'great company' after it committed to donate $250 million to the president's Trump Accounts. Unusual.",
+      "The AI stock rally is minting US millionaires at the fastest pace in 4 years, per YF",
+      "60% of companies have already curbed AI spending, with companies shifting to lower-cost models and open-source Chinese models, per UBS"
     ],
-    "generated_at": "2026-07-02T16:45:20.727132+00:00"
+    "generated_at": "2026-07-02T18:23:29.767413+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,100 @@
 [
   {
+    "tweet_id": "2072741541404406008",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWith Tesla likely taking the lead a year from now. So at  $16, you have a ~$4B MC pre-money humanoid player.\n\nWhich is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors.\n\nNFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. \n\nNo hard feelings about Robostrategy, but it's over 4x+ NAV: \n\nWhich would value Figure at $156B...  \n\nWhile there's the #1 commercialized humanoid player with Agility at $4B today. \n\nSo my personal preference is $CCXI.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+    "published_at": "2026-07-02T17:57:47+00:00",
+    "fetched_at": "2026-07-02T18:22:29.772221+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "TSLA",
+        "AMZN",
+        "MELI",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为Agility Robotics（通过$CCXI投资）是美国商业化程度最高的人形机器人公司，当前估值约40亿美元，远低于特斯拉Optimus和Figure。作者看好Agility，认为其背靠亚马逊、Nvidia等巨头，且商业化进展领先，是当前性价比较高的投资标的。",
+      "translation": "Agility Robotics实际上在我看来是美国目前商业化程度最高的人形机器人公司。个人排名：1. Agility Robotics（通过$CCXI）；2. 特斯拉Optimus（估值超1万亿美元）；3. Figure（2025年估值390亿美元，现在可能更高）。特斯拉可能一年后领先。所以以16美元价格，你拥有一个估值约40亿美元的人形机器人公司——它已经进入亚马逊和MercadoLibre（理想的起始应用场景，之后逐步扩展到通用用途），并获得亚马逊、Nvidia、软银、富士康等投资。非投资建议，但按这些估值计算……这是首个商业化人形机器人的直接敞口，且可能比Figure更领先。对Robostrategy没有恶意，但其净值溢价超过4倍：这将使Figure估值高达1560亿美元……而目前商业化第一的Agility仅40亿美元。所以我个人偏好$CCXI。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072740580946243938",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\n Donald Trump purchased between $217,000 and $530,000 in Micron Technology, $MU, stock during March 2026.\n\nHe just called $MU a \"great company\" after it committed to donate $250 million to the president's Trump Accounts.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072740580946243938",
+    "published_at": "2026-07-02T17:53:58+00:00",
+    "fetched_at": "2026-07-02T18:23:11.241376+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普在2026年3月买入Micron股票$217,000-$530,000，并称其‘伟大公司’，背后涉及2500万美元捐赠其账户，暗示利益关联。该消息可能对MU股价构成短期利好，但需警惕政治操纵风险。",
+      "translation": "突发：看这个。唐纳德·特朗普在2026年3月期间购买了价值$217,000至$530,000的美光科技（$MU）股票。他刚刚将$MU称为‘伟大的公司’，此前该公司承诺向总统的‘特朗普账户’捐赠2.5亿美元。不寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072731275396317440",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Goldman Sachs, $GS, has said investors are rotating out of the Magnificent Seven and into AI beneficiaries such as semiconductor stocks, favoring them over hyperscalers bearing heavy AI spending.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072731275396317440",
+    "published_at": "2026-07-02T17:17:00+00:00",
+    "fetched_at": "2026-07-02T18:23:14.934816+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GS"
+      ],
+      "direction": "bullish",
+      "summary": "高盛指出投资者正从科技巨头（Magnificent Seven）转向AI受益股，如半导体股票，而非承担高AI支出的云服务商。建议关注半导体板块。",
+      "translation": "刚刚：高盛（$GS）表示，投资者正在从‘华丽七雄’转向AI受益股，如半导体股票，并且偏好它们而不是承担高额AI支出的云服务商。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072726120706007465",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.\n\nQuantum barely has any revenue.\n\n$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. Lumentum is so strained that they buy CW lasers off competitors (earnings transcript)\n\n$COHR is bottlenecked, so they buy EML off Lumentum.\n\nThen, $AAOI is coming in with Made-in-America independent CW capacity, are projecting $1.4B/quarterly revenue ending H1 2027 of a stupid $9.3B MC today. \n\nSo all the CW capacity from independent players who have it now like $AAOI or $SIVE are likely to become scarce resources.\n\nMany other hyperscalers have already started LTA discussions (per Trendforce). And players like $AMD are currently talking with players such as $AAOI (Rosenblatt channel checks).\n\nThematically, next 2 years is 9x TAM to US$154B per GS reports, especially with 16x/45x dollar content increase in scale out/scale up.\n\nThen there's the overall thematic AI drop from $META, which is widely misunderstood because people conflate what \"excess capacity\" means. And as UBS mentioned, Meta planning a cloud offering is NOT NEW NEWS.\n\nBloomberg just has a tendency to publish information that causes doom drops across the semi sector like Nvidia export controls a few months back. \n\nBut I'm familiar with what I'm holding so I'm confident in these numbers playing out. \n\nEspecially when all the major players are sold out, the fundamentals catch up eventually.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072726120706007465",
+    "published_at": "2026-07-02T16:56:31+00:00",
+    "fetched_at": "2026-07-02T18:22:40.558921+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "LITE",
+        "POET",
+        "COHR",
+        "AAOI",
+        "SIVE",
+        "AMD",
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "推文看好光子学板块，指出多家公司产能吃紧、订单排满，且AI算力需求驱动光通信市场大幅增长，认为相关企业的基本面将兑现。",
+      "translation": "光子学有实际收入支撑，并且是英伟达推崇的架构变革。量子计算几乎没有收入。LITE未来两年完全售罄（根据POET股东大会信息），可能持续到2029年。Lumentum因产能紧张而向竞争对手购买CW激光器（财报电话会议）。COHR出现瓶颈，因此向Lumentum购买EML。而AAOI推出美国制造的独立CW产能，预计在2027年上半年末达到每季度14亿美元收入，而当前市值仅93亿美元。所以，像AAOI或SIVE这类独立厂商现有的CW产能可能变得稀缺。许多其他超大规模公司已经开始长期协议谈判（根据Trendforce）。而AMD等公司正与AAOI进行磋商（Rosenblatt渠道调查）。主题上，未来两年TAM将增长9倍至1540亿美元（高盛报告），特别是扩展/升级场景下每单位美元含量增长16倍/45倍。此外，META的AI整体下挫被广泛误解，因为人们混淆了“过剩产能”的含义。正如UBS指出，META计划推出云服务并非新闻。彭博社倾向于发布导致半导体板块暴跌的信息，比如几个月前的英伟达出口管制。但我熟悉我所持有的股票，所以我相信这些数字会实现。尤其是当所有主要玩家都售罄时，基本面最终会跟上。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072721209247027527",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -118,6 +213,25 @@
       "summary": "市场预期美联储12月加息，可能对股市构成压力，投资者需关注利率上升对资产估值的影响。",
       "translation": "据彭博社报道，交易员预计美联储将在12月加息。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072686971512582177",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit All photon stocks are dropping like rocks.   Is it going to be like quantum stocks in 2025 ?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072686971512582177",
+    "published_at": "2026-07-02T14:20:57+00:00",
+    "fetched_at": "2026-07-02T18:22:45.259494+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文指出所有光子股票正在下跌，并担忧是否会重蹈2025年量子股票的覆辙。这暗示投资情绪偏负面，但未具体指明标的。",
+      "translation": "所有光子股票都在暴跌。这会像2025年的量子股票那样吗？",
+      "confidence": "medium"
     }
   },
   {
