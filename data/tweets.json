@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2072786891808837876",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US crude stocks have fallen to lowest level since 2018, per EIA.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072786891808837876",
+    "published_at": "2026-07-02T20:58:00+00:00",
+    "fetched_at": "2026-07-02T21:06:44.607555+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国原油库存降至2018年以来最低水平，显示供应收紧，可能推高原油及相关能源资产价格。投资者可关注原油ETF或能源板块机会。",
+      "translation": "根据EIA数据，美国原油库存已降至2018年以来的最低水平。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072781715916169660",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Does anyone else have this annoying seed planted in their mind too?\n\nWhenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072781715916169660",
+    "published_at": "2026-07-02T20:37:26+00:00",
+    "fetched_at": "2026-07-02T21:06:18.102265+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "推文提到每当看到MRVL下跌时，就会想起黄仁勋（Jensen）关于“下一个万亿美元公司”的评论，暗示对MRVL的长期看好。",
+      "translation": "有没有其他人心里也种下了这个烦人的想法？每当我看到$MRVL下跌，就会想起黄仁勋的评论“下一个万亿美元公司”。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072776423408898182",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta’s $META Zuckerberg says AI development hasn’t accelerated in way we expected, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2072776423408898182",
+    "published_at": "2026-07-02T20:16:24+00:00",
+    "fetched_at": "2026-07-02T21:06:47.539602+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "Meta CEO扎克伯格表示AI发展未如预期加速，这可能意味着Meta在AI领域的投资回报或增长前景低于市场预期，对META股价构成潜在利空。",
+      "translation": "Meta的扎克伯格表示，AI发展并未像我们预期的那样加速，据彭博社报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072765527764971642",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -136,6 +197,25 @@
       "summary": "高盛指出投资者正从科技巨头（Magnificent Seven）转向AI受益股，如半导体股票，而非承担高AI支出的云服务商。建议关注半导体板块。",
       "translation": "刚刚：高盛（$GS）表示，投资者正在从‘华丽七雄’转向AI受益股，如半导体股票，并且偏好它们而不是承担高额AI支出的云服务商。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072726242214957399",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran says it will respond to any U.S. intervention in the Strait of Hormuz, per Fars.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072726242214957399",
+    "published_at": "2026-07-02T16:57:00+00:00",
+    "fetched_at": "2026-07-02T21:06:58.309393+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗威胁回应美国在霍尔木兹海峡的干预，可能引发地缘政治风险，影响全球石油供应，导致油价波动，对能源相关投资带来不确定性。",
+      "translation": "伊朗表示将对美国在霍尔木兹海峡的任何干预做出回应，据法尔斯通讯社报道。",
+      "confidence": "medium"
     }
   },
   {
