@@ -1,5 +1,89 @@
 [
   {
+    "tweet_id": "2072610437817078056",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$IREN founders award themselves $1.14B+ of stock based compensation.\n\nVesting over 4 years timeframe. This is amid their active $6,000,000,000 ATM.\n\nI’m not going to say anything but I think it speaks for itself. https://t.co/IoCHVxVIXs",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072610437817078056",
+    "published_at": "2026-07-02T09:16:50+00:00",
+    "fetched_at": "2026-07-02T09:40:37.501422+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IREN"
+      ],
+      "direction": "bearish",
+      "summary": "IREN创始人给自己授予了价值超过11.4亿美元的股票补偿，在4年内归属，与此同时公司还在进行60亿美元的ATM增发，暗示管理层存在利益冲突或对公司前景信心不足。",
+      "translation": "$IREN 创始人在4年归属期内给自己奖励了价值超过11.4亿美元的股票补偿。而此时他们正在活跃进行60亿美元的ATM增发。我什么也不说，但我觉得这已经说明了一切。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072576421449646285",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士我是正股没有杠杆，跌成这逼样只能装死了。正股今天都回撤2m太几把惨。",
+    "tweet_url": "https://x.com/xiaomustock/status/2072576421449646285",
+    "published_at": "2026-07-02T07:01:40+00:00",
+    "fetched_at": "2026-07-02T09:40:59.437686+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bearish",
+      "summary": "用户持有海力士正股且无杠杆，因股价大幅下跌导致回撤200万，表达极度悲观和无奈，只能被动持有。",
+      "translation": "海力士我持有的是正股，没有杠杆，跌成这个样子只能装死。正股今天都回撤了200万，太惨了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072574465763111166",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI.\n\n“Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower”\n\nRegarding Neoclouds: WF thinks it validated the massive AI infra opportunity as well as acquisition opportunities. Despite any potential competition for Neoclouds. \n\nI’m inclined to agree with Wells Fargo here and say markets completely misunderstood Meta’s excess compute comment.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072574465763111166",
+    "published_at": "2026-07-02T06:53:53+00:00",
+    "fetched_at": "2026-07-02T09:40:43.355601+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "富国银行认为Meta出售多余算力是AI需求和单位经济效应的积极信号，并预计Meta的资本支出不会缩减，整体算力需求也不会降低。同时，这验证了Neoclouds的巨大AI基础设施机会和收购机会。市场可能误解了Meta的评论。",
+      "translation": "富国银行：$META 意图出售多余算力是AI潜在需求和单位经济效应的积极信号。“尽管有此转变，我们不预期Meta的资本支出会缩减，或整体算力需求会降低。”关于Neoclouds，富国银行认为这验证了巨大的AI基础设施机会以及收购机会，尽管存在潜在的竞争。我倾向于同意富国银行的观点，认为市场完全误解了Meta关于多余算力的评论。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072570681586553112",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I feel like Trump is probably going to like this idea:\n\nOpenAI discussed giving the US gov a 5% stake in its company per FT.\n\nIf this turns into an $INTC type situation, would be interesting if the US government becomes a soft backstop for their $1T+ in future capex/obligations. https://t.co/KQZUyd950N",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072570681586553112",
+    "published_at": "2026-07-02T06:38:51+00:00",
+    "fetched_at": "2026-07-02T09:40:48.409873+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "推文讨论OpenAI向美国政府提供5%股份的可能性，并类比英特尔（INTC）的情况，认为如果类似情况发生，美国政府可能成为OpenAI未来超过1万亿美元资本支出和债务的软后盾，这对其长期投资前景是利好。",
+      "translation": "我感觉特朗普可能会喜欢这个主意：据金融时报报道，OpenAI讨论了向美国政府提供公司5%股份的可能性。如果这演变成类似英特尔（INTC）的情况，美国政府成为他们未来超过1万亿美元资本支出/债务的软后盾，那将很有趣。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072551966052634864",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
