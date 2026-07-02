@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2072478107362066578",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Micron posted $41.46 billion in revenue and $28.24 billion in net income.\n\nRead more: https://t.co/5ZjxMuA1Yr",
+    "tweet_url": "https://x.com/unusual_whales/status/2072478107362066578",
+    "published_at": "2026-07-02T00:31:00+00:00",
+    "fetched_at": "2026-07-02T02:14:43.890708+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报告了美光公司（Micron）的财务业绩，总收入为414.6亿美元，净利润为282.4亿美元。这反映了公司的财务健康状况，但未提供明确的投资建议或市场方向判断。",
+      "translation": "美光公布了414.6亿美元的营收和282.4亿美元的净利润。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072454703074488438",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales is having a July 4th sale.\n\nGet up to 20% off.\n\nWe have created tools to help you navigate this market.  \n\nJoin here: https://t.co/bsTCire8zT https://t.co/gD4Z7nr8ph",
+    "tweet_url": "https://x.com/unusual_whales/status/2072454703074488438",
+    "published_at": "2026-07-01T22:58:00+00:00",
+    "fetched_at": "2026-07-02T02:14:51.276335+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推广信息暗示其工具能帮助投资者在市场上获利，因此对整体市场情绪偏乐观。",
+      "translation": "Unusual Whales 正在举办七月四日促销活动。\n最高可享20%折扣。\n我们创建了工具来帮助您驾驭这个市场。\n\n加入这里：https://t.co/bsTCire8zT https://t.co/gD4Z7nr8ph",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072447908411003223",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump reported more than 21,000 trades across eight investment accounts in 2025, averaging 80 trades per day.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072447908411003223",
+    "published_at": "2026-07-01T22:31:00+00:00",
+    "fetched_at": "2026-07-02T02:14:53.219035+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普在2025年进行了大量交易操作，但未提及具体标的或市场影响，无法提供投资建议。",
+      "translation": "突发：据报道，特朗普在2025年通过八个投资账户进行了超过21,000笔交易，平均每天80笔。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072445064505065514",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Kash Patel failed to properly disclose a six-figure investment in a Bitcoin-linked company that has done business with the Department of Justice, per NOTUS",
+    "tweet_url": "https://x.com/unusual_whales/status/2072445064505065514",
+    "published_at": "2026-07-01T22:19:42+00:00",
+    "fetched_at": "2026-07-02T02:14:55.462579+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文报道了Kash Patel未能恰当披露对比特币关联公司的大额投资，且该公司与司法部有业务往来。这暗示可能存在的利益冲突或监管问题，但未直接给出投资建议，因此投资相关性中等。",
+      "translation": "突发：据NOTUS报道，Kash Patel未能恰当披露对一家与司法部有业务往来的比特币关联公司的六位数投资。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072439603450224963",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
