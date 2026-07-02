@@ -1,5 +1,126 @@
 [
   {
+    "tweet_id": "2072721209247027527",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: JPMorgan, $JPM, says AI chip stocks may struggle to continue outperforming hyperscalers over the long term.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072721209247027527",
+    "published_at": "2026-07-02T16:37:00+00:00",
+    "fetched_at": "2026-07-02T16:44:50.473020+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPM",
+        "JPMorgan"
+      ],
+      "direction": "bearish",
+      "summary": "摩根大通认为AI芯片股长期表现可能不及超大规模数据中心运营商，暗示投资者应考虑调整持仓。",
+      "translation": "刚刚：摩根大通表示，AI芯片股长期可能难以继续跑赢超大规模数据中心运营商。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072716176476537042",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "India oil minister: India companies are  not selling fuel to Russia",
+    "tweet_url": "https://x.com/unusual_whales/status/2072716176476537042",
+    "published_at": "2026-07-02T16:17:00+00:00",
+    "fetched_at": "2026-07-02T16:44:52.308765+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "印度石油部长否认印度公司向俄罗斯出售燃料，可能缓解市场对制裁规避的担忧，但未直接涉及投资机会或方向性判断。",
+      "translation": "印度石油部长：印度公司没有向俄罗斯出售燃料",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072711142703784437",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Robinhood, $HOOD, CEO Vlad Tenev said AI agents will soon be as capable as human traders.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072711142703784437",
+    "published_at": "2026-07-02T15:57:00+00:00",
+    "fetched_at": "2026-07-02T16:44:53.911713+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "HOOD"
+      ],
+      "direction": "bullish",
+      "summary": "Robinhood CEO关于AI交易员的表态暗示公司未来可能引领技术革新，利好股价。",
+      "translation": "Robinhood，$HOOD，CEO Vlad Tenev表示AI代理很快将像人类交易员一样有能力。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072706109874295047",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Tesla's, $TSLA, China-made EV sales rose 24.4% year over year to 89,091 vehicles in June, extending growth to an eighth consecutive month.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072706109874295047",
+    "published_at": "2026-07-02T15:37:00+00:00",
+    "fetched_at": "2026-07-02T16:44:55.561199+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "特斯拉中国制造的电动汽车6月销量同比增长24.4%，达到89,091辆，连续第八个月增长，显示需求强劲，对特斯拉股票构成利好。",
+      "translation": "特斯拉（$TSLA）中国制造的电动汽车销量6月同比增长24.4%，达到89,091辆，将增长延续至第八个月。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072701076571328653",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The unemployment rate has fallen from 4.3%, and is now 4.2%.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072701076571328653",
+    "published_at": "2026-07-02T15:17:00+00:00",
+    "fetched_at": "2026-07-02T16:44:57.089324+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "失业率下降至4.2%，低于之前的4.3%，表明劳动力市场改善，可能对整体经济有利，进而支撑股市信心，是积极信号。",
+      "translation": "最新消息：失业率从4.3%降至4.2%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072696043515338854",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Traders are expecting a Fed rate hike by December,\" per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2072696043515338854",
+    "published_at": "2026-07-02T14:57:00+00:00",
+    "fetched_at": "2026-07-02T16:44:58.800463+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "市场预期美联储12月加息，可能对股市构成压力，投资者需关注利率上升对资产估值的影响。",
+      "translation": "据彭博社报道，交易员预计美联储将在12月加息。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072685977206714536",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
