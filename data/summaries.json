@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
-      "NVDA",
-      "AAPL",
-      "AMZN",
-      "META"
+      "$TSLA",
+      "$NVDA",
+      "$META",
+      "$AMZN",
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普股票交易争议与利益冲突",
-      "AI泡沫与市场过热信号",
-      "经济分化与衰退风险",
-      "地缘政治与能源市场波动"
+      "AI泡沫风险",
+      "市场集中度风险",
+      "宏观经济衰退担忧",
+      "地缘政治不确定性",
+      "消费者信心下滑"
     ],
-    "recent_shift": "近期推特从早期关注AI和特斯拉强劲表现转向强调市场负面信号，如特朗普交易异常、AI支出缩减、黄金暴跌和多数指标触发峰值预警。",
+    "recent_shift": "账户转向更悲观的基调，强调AI泡沫、美联储加息预期和消费者信心下降。",
     "representative_quotes": [
-      "Breaking: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT.",
-      "BREAKING: The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million.",
-      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America"
+      "The AI boom in global stock markets has become an unsustainable bubble",
+      "Only 25% of Americans say now is a good time to invest, down from 34% last quarter",
+      "BREAKING: Michael Burry disclosed new short positions against Nvidia, Tesla, Caterpillar, and Applied Materials"
     ],
-    "generated_at": "2026-07-02T14:36:08.166388+00:00"
+    "generated_at": "2026-07-02T16:45:20.727132+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
