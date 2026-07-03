@@ -25,25 +25,23 @@
     "focus_tickers": [
       "$MU",
       "$TSLA",
-      "$TRUMP",
-      "$NVDA",
-      "$META"
+      "$META",
+      "$AMZN",
+      "$NVDA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI投资热潮与泡沫风险",
-      "特朗普交易与政治影响力",
-      "美股高杠杆与宏观不确定性",
-      "能源供应链与地缘政治动荡",
-      "半导体行业波动与增长"
+      "AI投资泡沫与降温",
+      "宏观经济衰退风险",
+      "政治人物交易披露异常"
     ],
-    "recent_shift": "最新推文中暗示市场情绪从极度乐观转向警惕泡沫和利率风险，并突出特朗普交易引发的道德争议。",
+    "recent_shift": "账户强化了对市场泡沫和衰退风险的警告，并集中披露了特朗普的频繁交易行为。",
     "representative_quotes": [
-      "BREAKING: Trump reported more than 21,000 trades across eight investment accounts in 2025, averaging 80 trades per day.",
-      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
-      "CFOs are bullish on their own companies, even as they turn bearish on the economy, per FORTUNE"
+      "The AI boom in global stock markets has become an unsustainable bubble",
+      "Half of investors have reduced their portfolio risk, while 62% expect a recession",
+      "Unusual."
     ],
-    "generated_at": "2026-07-03T17:55:05.227467+00:00"
+    "generated_at": "2026-07-03T19:02:31.916033+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
