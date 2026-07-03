@@ -38,6 +38,44 @@
     }
   },
   {
+    "tweet_id": "2073074537856745583",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Long-term unemployment is surging in the US,\" per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2073074537856745583",
+    "published_at": "2026-07-03T16:01:00+00:00",
+    "fetched_at": "2026-07-03T19:02:17.565625+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国长期失业率上升，通常被视为经济疲软信号，可能导致消费者支出下降和股市承压，建议对相关周期性行业保持谨慎。",
+      "translation": "据CNBC报道，美国长期失业率正在飙升。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073071103916839087",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran projected to charge fees in the Strait of Hormuz by the end of next month, as the MOU nears expiration.\n\n52% chance. https://t.co/IVsPuwsxOi",
+    "tweet_url": "https://x.com/unusual_whales/status/2073071103916839087",
+    "published_at": "2026-07-03T15:47:21+00:00",
+    "fetched_at": "2026-07-03T19:02:15.725785+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗可能在霍尔木兹海峡收费，导致全球石油运输受阻，油价可能上涨，对航运和能源市场构成利空。该消息概率为52%，需关注地缘政治风险。",
+      "translation": "突发：伊朗预计下月底将在霍尔木兹海峡收取费用，随着谅解备忘录即将到期。概率52%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073066987836645527",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
