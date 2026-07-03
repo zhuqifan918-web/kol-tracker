@@ -23,25 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
+      "$NVDA",
       "$TSLA",
       "$META",
-      "$AMZN",
-      "$NVDA"
+      "$AAPL",
+      "$AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资泡沫与降温",
-      "宏观经济衰退风险",
-      "政治人物交易披露异常"
+      "人工智能泡沫与回调风险",
+      "地缘政治与能源市场冲击",
+      "宏观经济衰退与债务压力",
+      "特朗普交易与政策套利",
+      "市场结构变化与高波动性"
     ],
-    "recent_shift": "账户强化了对市场泡沫和衰退风险的警告，并集中披露了特朗普的频繁交易行为。",
+    "recent_shift": "早期偏乐观、关注AI与特朗普交易获利，近日转向警示AI效率未达预期、失业率攀升、债务压力及航运拥堵等风险。",
     "representative_quotes": [
-      "The AI boom in global stock markets has become an unsustainable bubble",
-      "Half of investors have reduced their portfolio risk, while 62% expect a recession",
-      "Unusual."
+      "Layoffs driven by AI automation are largely failing to generate expected financial returns",
+      "One-third of Americans' wealth is now tied to the stock market, a record high",
+      "The K-shaped economy—with the well-to-do thriving and everyone else lagging—remains firmly intact"
     ],
-    "generated_at": "2026-07-03T19:02:31.916033+00:00"
+    "generated_at": "2026-07-03T20:36:10.419228+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
