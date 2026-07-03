@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2073089637078249511",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "One-third of Americans' wealth is now tied to the stock market, a record high, per NYP",
+    "tweet_url": "https://x.com/unusual_whales/status/2073089637078249511",
+    "published_at": "2026-07-03T17:01:00+00:00",
+    "fetched_at": "2026-07-03T17:54:41.234187+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美国人的财富中有三分之一与股市挂钩，创历史新高，这反映了股市在个人财富中的重要性增加，但未给出明确的多空观点。",
+      "translation": "根据《纽约邮报》报道，美国人的财富现在有三分之一与股市挂钩，创下历史新高。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073084714785611818",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran projected to charge fees in Strait of Hormuz, per Polymarket:",
+    "tweet_url": "https://x.com/unusual_whales/status/2073084714785611818",
+    "published_at": "2026-07-03T16:41:26+00:00",
+    "fetched_at": "2026-07-03T17:54:42.725421+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗计划在霍尔木兹海峡收费，可能影响全球石油运输和油价，对市场构成地缘政治风险，利空能源和航运相关资产。",
+      "translation": "根据Polymarket的数据，伊朗预计将在霍尔木兹海峡收取通行费。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073066987836645527",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -18,6 +56,25 @@
       "summary": "苹果计划推出多款新iPhone并增加折叠设备产量，显示产品线扩张和创新加速，预计将推动营收增长，利好苹果股票。",
       "translation": "苹果计划在今年下半年至2027年上半年期间推出至少五款新型iPhone，同时增加可折叠设备的产量，据CNBC报道。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073059439041515941",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US government debt relative to GDP is back to 1940s levels, and interest payments are  a particular burden, per FT: https://t.co/dLVeEhJ3dz",
+    "tweet_url": "https://x.com/unusual_whales/status/2073059439041515941",
+    "published_at": "2026-07-03T15:01:00+00:00",
+    "fetched_at": "2026-07-03T17:54:47.440710+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国联邦债务占GDP比重回到1940年代水平，利息支付压力沉重，可能对宏观经济和债市产生负面影响，削弱投资者信心。",
+      "translation": "美国联邦债务占国内生产总值的比例已回到1940年代的水平，而利息支付是一项特别的负担，根据《金融时报》。",
+      "confidence": "medium"
     }
   },
   {
@@ -354,6 +411,25 @@
     }
   },
   {
+    "tweet_id": "2072840495294808559",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.\n\nYou can match and catch his portfolio, as it is disclosed.\n\nSee more: https://t.co/2sXd6Fu3FL",
+    "tweet_url": "https://x.com/unusual_whales/status/2072840495294808559",
+    "published_at": "2026-07-03T00:31:00+00:00",
+    "fetched_at": "2026-07-03T17:54:57.644340+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales服务，声称能追踪特朗普的交易组合，但未提及具体投资标的或方向。",
+      "translation": "查看特朗普的所有交易，请订阅Unusual Whales。您可以匹配并跟踪他的公开投资组合。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2072832190296269231",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -370,6 +446,25 @@
       "summary": "分析师预测钠离子电池市场份额将大幅增长，至2030年占20%，2035年占37%，显示该技术未来有较强增长潜力，对相关产业投资有参考价值。",
       "translation": "分析师Jack Lu及其团队预测，到2030年，钠离子电池将占总电池市场份额的20%，到2035年达到37%。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072825395800645811",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.\n\nYou can match and catch his portfolio, as it is disclosed.\n\nSee more: https://t.co/2sXd6FuBvj",
+    "tweet_url": "https://x.com/unusual_whales/status/2072825395800645811",
+    "published_at": "2026-07-02T23:31:00+00:00",
+    "fetched_at": "2026-07-03T17:55:00.584197+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales服务，声称能追踪特朗普的投资组合交易，但未提供具体投资建议或市场分析，仅作为信息订阅的广告。",
+      "translation": "查看特朗普的所有交易，请订阅Unusual Whales。你可以匹配并追踪他的投资组合，因其已披露。查看更多：https://t.co/2sXd6FuBvj",
+      "confidence": "low"
     }
   },
   {

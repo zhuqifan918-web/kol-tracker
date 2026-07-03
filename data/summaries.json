@@ -23,25 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
-      "META",
-      "AAPL",
-      "NVDA",
-      "MU"
+      "$MU",
+      "$TSLA",
+      "$TRUMP",
+      "$NVDA",
+      "$META"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与投资分化",
-      "特朗普交易与政治关联",
-      "宏观风险与资产轮动"
+      "AI投资热潮与泡沫风险",
+      "特朗普交易与政治影响力",
+      "美股高杠杆与宏观不确定性",
+      "能源供应链与地缘政治动荡",
+      "半导体行业波动与增长"
     ],
-    "recent_shift": "近期转向关注AI成本下降、消费者债务问题以及Trump交易机会，市场情绪从乐观转为谨慎。",
+    "recent_shift": "最新推文中暗示市场情绪从极度乐观转向警惕泡沫和利率风险，并突出特朗普交易引发的道德争议。",
     "representative_quotes": [
-      "The reason is straightforward: certain Chinese AI models cost as little as $2 to $3 per million output tokens, compared to around $15 for comparable US models.",
-      "\"Americans have racked up $1.25 trillion of credit-card debt, and they’re having trouble paying it down,\" per WSJ",
-      "The AI boom in global stock markets has become an unsustainable bubble."
+      "BREAKING: Trump reported more than 21,000 trades across eight investment accounts in 2025, averaging 80 trades per day.",
+      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
+      "CFOs are bullish on their own companies, even as they turn bearish on the economy, per FORTUNE"
     ],
-    "generated_at": "2026-07-03T16:04:59.679042+00:00"
+    "generated_at": "2026-07-03T17:55:05.227467+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
