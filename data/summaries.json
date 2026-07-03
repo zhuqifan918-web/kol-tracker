@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$META",
-      "$CCXI",
       "$SIVE",
       "$AAOI",
-      "$NBIS"
+      "$META",
+      "$CCXI",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力需求长期增长，市场对Meta过度反应为错误认知",
-      "光子学供应链瓶颈（CW激光器、CPO）是核心投资主题",
-      "人形机器人商用化加速，美国本土供应链企业受益"
+      "光子学与CW激光器瓶颈",
+      "人形机器人及其供应链",
+      "AI超大规模资本支出持续性",
+      "市场误解和媒体偏见",
+      "上游瓶颈投资策略"
     ],
-    "recent_shift": "近期因市场大幅回调，更强调光子学股票短期波动不改长期基本面，并认为当前是加仓机会。",
+    "recent_shift": "近期观点未变，继续坚持光子学和人形机器人主题，认为市场回调是买入机会。",
     "representative_quotes": [
-      "In fact things are likely to accelerate from Meta catching up to GPT5.5. I'm personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative.",
-      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
-      "The entire optical components industry today is facing a severe shortage of critical components... GS Research's ~9-10x $154B optical TAM in 2028 and near $0 -> $91B CPO TAM in just 2 1/2 years don't magically disappear from a month of trading volatility."
+      "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.",
+      "I think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up.",
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next."
     ],
-    "generated_at": "2026-07-03T06:08:11.760440+00:00"
+    "generated_at": "2026-07-03T09:40:34.321550+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
-      "NVDA",
-      "META",
-      "MU",
-      "AMZN"
+      "$MU",
+      "$META",
+      "$TSLA",
+      "$NVDA",
+      "$AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI泡沫与回调",
-      "特朗普交易争议",
-      "经济分化与衰退风险",
-      "能源与地缘政治",
-      "半导体竞争"
+      "AI模型成本战与行业变革",
+      "特朗普交易与政治利益冲突",
+      "市场泡沫与衰退风险",
+      "能源与地缘政治紧张",
+      "科技股资金轮动"
     ],
-    "recent_shift": "近期更关注AI行业成本下降和泡沫担忧，从之前对AI的乐观转向谨慎。",
+    "recent_shift": "早期关注AI增长和特朗普交易利好，近期转向警示市场泡沫、衰退风险及监管问题，强调投资者情绪恶化。",
     "representative_quotes": [
       "The reason is straightforward: certain Chinese AI models cost as little as $2 to $3 per million output tokens, compared to around $15 for comparable US models.",
-      "The AI boom in global stock markets has become an unsustainable bubble",
-      "On July 23, 2025, Trump purchased up to $5 million of Broadcom, $AVGO, Meta, $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, & Nvidia, $NVDA. Later that day, the Trump admin unveiled its AI Action Plan, a policy that benefited those companies."
+      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
+      "The AI boom in global stock markets has become an unsustainable bubble, per Wealspring Asset and Shanghai Banxia Investment Management Center"
     ],
-    "generated_at": "2026-07-03T06:08:14.687523+00:00"
+    "generated_at": "2026-07-03T09:40:37.886414+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

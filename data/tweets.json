@@ -1,5 +1,51 @@
 [
   {
+    "tweet_id": "2072936659369517341",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Be SemiAnalysis:\n\n- Post a scathing piece on CPO delays + optical company valuations, causing a crash.\n\nWhich $NVDA, analyst desks, and major optical companies refuted\n\n- Launch an institutional photonics ETF after optical names dropped 40-60%.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072936659369517341",
+    "published_at": "2026-07-03T06:53:07+00:00",
+    "fetched_at": "2026-07-03T09:39:41.165383+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "推文描述了SemiAnalysis发布关于CPO延迟和光学公司估值的负面报道导致市场下跌，随后英伟达、分析师和主要光学公司反驳，最后SemiAnalysis在光学股大跌后推出光通信ETF。整体来看，这是对市场事件和策略的叙述，没有明确的多空立场。",
+      "translation": "SemiAnalysis：发布一篇关于CPO延迟和光学公司估值的严厉文章，导致市场暴跌。随后，英伟达、分析师和主要光学公司进行了反驳。在光学股下跌40-60%后，推出了一个机构级光通信ETF。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2072930633811419601",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "This is a conspiracy theory of mine: but Jensen hates $AVGO. \n\nFeels like all of $NVDA allied ASIC challengers…\n\n $MRVL, Mediatek, AlChip, GUC (nvlink) and others are all slowly chipping away Broadcom’s ASIC share.\n\nThis is done discretely with Nvidia support.\n\nJust like Neoclouds offerings last year as a defacto extension to place create moat against CSPs custom ASICs with Nvidia’s ecosystem. \n\nObviously overall ASIC market goes up, but many of these challengers feel like they’re taking on more hyperscaler-adjacent projects. Probably supported by Nvidia.. \n\nNFA think this would be an interesting 2 year trade opportunity, but IMO past 2030, I’d expect many like Google to bring design in house.\n\nNvidia clearly is the kingmaker… so anything they kinda touch gets brought up such as that next Marvell $1T company comment.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072930633811419601",
+    "published_at": "2026-07-03T06:29:10+00:00",
+    "fetched_at": "2026-07-03T09:39:48.417496+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AVGO",
+        "NVDA",
+        "MRVL",
+        "MTK",
+        "GUC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文分析了英伟达支持的多家ASIC挑战者（如MRVL、联发科、AlChip等）正在侵蚀博通ASIC市场份额的趋势，认为这是英伟达领导的战略布局。同时指出整体ASIC市场增长，但长期看谷歌等大厂可能自研。属于中长期投资机会观察，但带有不确定性。",
+      "translation": "这是我的一个阴谋论：但我觉得黄仁勋讨厌$AVGO。感觉所有$NVDA结盟的ASIC挑战者……$MRVL、联发科、AlChip、GUC（nvlink）及其他公司都在慢慢蚕食博通的ASIC份额。这都是在英伟达支持下悄然进行的。就像去年Neoclouds产品作为事实上的扩展，借助英伟达生态系统建立护城河，对抗云服务商的自定义ASIC。显然整体ASIC市场在增长，但这些挑战者似乎承担了更多接近超大规模云客户的项目。可能得到了英伟达的支持……非投资建议，我认为这是一个有趣的两年期交易机会，但到2030年后，我预计像谷歌这样的公司会把设计转为内部。英伟达显然是造王者……所以他们稍微触及的东西都会被炒作，比如之前那种“Marvell下一个1万亿美元公司”的评论。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072922974345445511",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -182,6 +228,25 @@
       "direction": "neutral",
       "summary": "该推文提及FDA对减害产品监管立场的潜在转变，虽未点名具体公司，但可能影响烟草及相关行业投资情绪，建议关注监管动态。",
       "translation": "FDA的决定表明其对减害产品的监管立场可能出现转变。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072847289744269553",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.\n\nYou can match and catch his portfolio, as it is disclosed.\n\nSee more: https://t.co/2sXd6Fu3FL",
+    "tweet_url": "https://x.com/unusual_whales/status/2072847289744269553",
+    "published_at": "2026-07-03T00:58:00+00:00",
+    "fetched_at": "2026-07-03T09:40:18.037382+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales服务，声称可追踪特朗普的投资组合。虽无直接股票推荐，但暗示可通过订阅获取交易信息，对关注政治人物投资动向的用户有一定参考价值。",
+      "translation": "要查看特朗普的所有交易，请订阅Unusual Whales。您可以匹配并追踪他的投资组合，因为这些信息是公开披露的。",
       "confidence": "medium"
     }
   },
@@ -729,6 +794,27 @@
       "summary": "推文指出AI股票上涨正以四年来最快速度创造美国百万富翁，暗示市场对AI板块的乐观情绪和财富效应。",
       "translation": "据YF报道，AI股票涨势正以四年来最快速度造就美国百万富翁。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072630454054998193",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit how about RoboStrategy ?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2072630454054998193",
+    "published_at": "2026-07-02T10:36:22+00:00",
+    "fetched_at": "2026-07-03T09:39:52.259887+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RoboStrategy"
+      ],
+      "direction": null,
+      "summary": "该推文询问关于RoboStrategy的投资建议，但未给出明确方向。",
+      "translation": "@aleabitoreddit 你觉得RoboStrategy怎么样？",
+      "confidence": "low"
     }
   },
   {
