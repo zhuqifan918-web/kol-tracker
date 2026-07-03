@@ -3,25 +3,25 @@
     "focus_tickers": [
       "$SIVE",
       "$AAOI",
-      "$META",
       "$CCXI",
-      "$MU"
+      "$META",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与CW激光器瓶颈",
-      "人形机器人及其供应链",
-      "AI超大规模资本支出持续性",
-      "市场误解和媒体偏见",
-      "上游瓶颈投资策略"
+      "光学/共封装光学（CPO）激光瓶颈与超大规模企业需求周期",
+      "人形机器人产业链（美国本土化、供应链瓶颈）",
+      "AI数据中心与超大规模企业资本支出的持续增长",
+      "半导体供应链中的堵点（MLCC、测试、电力传感器）",
+      "市场因媒体误导引发的非理性恐慌（META、光通信）"
     ],
-    "recent_shift": "近期观点未变，继续坚持光子学和人形机器人主题，认为市场回调是买入机会。",
+    "recent_shift": "对光学/光子学的信心未变，但承认当前高贝塔股票的超卖修正，并强调2027年量产拐点一旦到来，基本面将压倒流动性冲击。",
     "representative_quotes": [
       "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.",
-      "I think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up.",
-      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next."
+      "I'm personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative.",
+      "My personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China."
     ],
-    "generated_at": "2026-07-03T09:40:34.321550+00:00"
+    "generated_at": "2026-07-03T12:01:01.372718+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
