@@ -1,73 +1,72 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "$META",
+      "$CCXI",
       "$SIVE",
       "$AAOI",
-      "$CCXI",
-      "$META",
-      "$MU"
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/光模块供应链瓶颈及规模化量产",
-      "人形机器人与物理AI主题",
-      "半导体设备与材料稀缺环节",
-      "超大规模资本开支与内存结构性需求",
-      "地缘政治与供应链自主化"
+      "AI算力需求长期增长，市场对Meta过度反应为错误认知",
+      "光子学供应链瓶颈（CW激光器、CPO）是核心投资主题",
+      "人形机器人商用化加速，美国本土供应链企业受益"
     ],
-    "recent_shift": "近期观点没有转向，依然强烈看好光子学、人形机器人和AI硬件上游瓶颈，但提醒短期波动和高beta风险。",
+    "recent_shift": "近期因市场大幅回调，更强调光子学股票短期波动不改长期基本面，并认为当前是加仓机会。",
     "representative_quotes": [
-      "IMO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.",
-      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... With Tesla likely taking the lead a year from now. So at $16, you have a ~$4B MC pre-money humanoid player.",
-      "This market feels like an ADHD goldfish with a 5 second attention span, trading popular themes. It's like markets only care about physical AI and energy right now? And sold off memory and photonics that are bottlenecked past 2028?"
+      "In fact things are likely to accelerate from Meta catching up to GPT5.5. I'm personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative.",
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
+      "The entire optical components industry today is facing a severe shortage of critical components... GS Research's ~9-10x $154B optical TAM in 2028 and near $0 -> $91B CPO TAM in just 2 1/2 years don't magically disappear from a month of trading volatility."
     ],
-    "generated_at": "2026-07-02T22:35:03.002954+00:00"
+    "generated_at": "2026-07-03T06:08:11.760440+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$NVDA",
-      "$TSLA",
-      "$META",
-      "$AAPL"
+      "TSLA",
+      "NVDA",
+      "META",
+      "MU",
+      "AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI投资与泡沫风险",
-      "特朗普交易与政策套利",
-      "宏观经济与就业市场",
+      "AI泡沫与回调",
+      "特朗普交易争议",
+      "经济分化与衰退风险",
       "能源与地缘政治",
-      "科技股轮动与半导体"
+      "半导体竞争"
     ],
-    "recent_shift": "从早前对AI泡沫的警告转向关注具体公司盈利和监管变化，但对市场风险仍持谨慎态度。",
+    "recent_shift": "近期更关注AI行业成本下降和泡沫担忧，从之前对AI的乐观转向谨慎。",
     "representative_quotes": [
-      "The AI stock rally is minting US millionaires at the fastest pace in 4 years, per YF",
-      "Goldman Sachs, $GS, has said investors are rotating out of the Magnificent Seven and into AI beneficiaries such as semiconductor stocks, favoring them over hyperscalers bearing heavy AI spending.",
-      "Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years."
+      "The reason is straightforward: certain Chinese AI models cost as little as $2 to $3 per million output tokens, compared to around $15 for comparable US models.",
+      "The AI boom in global stock markets has become an unsustainable bubble",
+      "On July 23, 2025, Trump purchased up to $5 million of Broadcom, $AVGO, Meta, $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, & Nvidia, $NVDA. Later that day, the Trump admin unveiled its AI Action Plan, a policy that benefited those companies."
     ],
-    "generated_at": "2026-07-03T02:06:22.886250+00:00"
+    "generated_at": "2026-07-03T06:08:14.687523+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHynix",
       "GLW",
-      "AMAT",
-      "LRCX",
-      "MU"
+      "SK Hynix",
+      "MU",
+      "NVDA",
+      "LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施需求远超供给，存储和算力是核心瓶颈",
-      "存储三巨头（海力士、三星、美光）主导AI产业链利润",
-      "康宁（GLW）作为下一代AI芯片基板（玻璃基板）和光互连龙头，业绩确定性高",
-      "物理AI和机器人是下一个增长领域，需要天量存储和算力"
+      "存储芯片的长期垄断与暴利周期",
+      "玻璃基板与光纤作为下一代AI算力底座",
+      "仓位管理与避免杠杆的重要性",
+      "AI基建的早期阶段与巨大鸿沟",
+      "大市值股票的结构性优势与指数资金推动"
     ],
-    "recent_shift": "近期更加关注康宁（GLW）替代部分存储仓位，并强调市场分歧加剧、杠杆风险警示",
+    "recent_shift": "从早期集中看好海力士和存储芯片，近期转向强调康宁在玻璃基板和光纤的垄断地位，并将其视为英伟达下一代芯片的关键瓶颈。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
-      "活下去才有机会，仓位管理比买对啥更重要",
-      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！"
+      "康宁 $GLW 简直是无敌寂寞！262刀了. 5000亿市值也就600刀左右，对英伟达写明面上合作扩产10倍的康宁来说业绩翻10倍远远不止600刀这个价。",
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
+      "能健康的管理自己仓位已经赢过绝大多数人。即使买对215刀的康宁，如果上杠杆在2x康宁或者正股也上杠杆，昨天一来一回可能人没了。"
     ],
-    "generated_at": "2026-07-03T02:06:19.522472+00:00"
+    "generated_at": "2026-07-03T06:08:07.669198+00:00"
   }
 }
