@@ -23,25 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPX",
-      "$MU",
-      "$NVDA",
-      "$TSLA",
-      "$AMZN"
+      "TSLA",
+      "META",
+      "AAPL",
+      "NVDA",
+      "MU"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "量化波动与市场情绪",
-      "特朗普交易流与政治关联",
-      "AI成本竞争与泡沫风险"
+      "AI泡沫与投资分化",
+      "特朗普交易与政治关联",
+      "宏观风险与资产轮动"
     ],
-    "recent_shift": "近期更关注宏观风险与个股异常交易行为，情绪从早前的AI狂热转向谨慎观望",
+    "recent_shift": "近期转向关注AI成本下降、消费者债务问题以及Trump交易机会，市场情绪从乐观转为谨慎。",
     "representative_quotes": [
-      "It gives every minute long and short gamma positions of market makers on SPX. It is a must have.",
       "The reason is straightforward: certain Chinese AI models cost as little as $2 to $3 per million output tokens, compared to around $15 for comparable US models.",
+      "\"Americans have racked up $1.25 trillion of credit-card debt, and they’re having trouble paying it down,\" per WSJ",
       "The AI boom in global stock markets has become an unsustainable bubble."
     ],
-    "generated_at": "2026-07-03T14:17:00.737323+00:00"
+    "generated_at": "2026-07-03T16:04:59.679042+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

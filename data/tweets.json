@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2073066987836645527",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple plans to launch at least five new iPhone models between the second half of this year and the first half of 2027, while increasing production plans for foldable devices, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2073066987836645527",
+    "published_at": "2026-07-03T15:31:00+00:00",
+    "fetched_at": "2026-07-03T16:04:38.596723+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "苹果计划推出多款新iPhone并增加折叠设备产量，显示产品线扩张和创新加速，预计将推动营收增长，利好苹果股票。",
+      "translation": "苹果计划在今年下半年至2027年上半年期间推出至少五款新型iPhone，同时增加可折叠设备的产量，据CNBC报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073044338838520126",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
