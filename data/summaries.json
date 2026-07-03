@@ -1,51 +1,47 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "$CCXI",
       "$SIVE",
       "$AAOI",
-      "$CCXI",
       "$META",
       "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学/共封装光学（CPO）激光瓶颈与超大规模企业需求周期",
-      "人形机器人产业链（美国本土化、供应链瓶颈）",
-      "AI数据中心与超大规模企业资本支出的持续增长",
-      "半导体供应链中的堵点（MLCC、测试、电力传感器）",
-      "市场因媒体误导引发的非理性恐慌（META、光通信）"
+      "物理AI与具身智能",
+      "光学激光器与CPO光互连瓶颈",
+      "人形机器人商业化与供应链"
     ],
-    "recent_shift": "对光学/光子学的信心未变，但承认当前高贝塔股票的超卖修正，并强调2027年量产拐点一旦到来，基本面将压倒流动性冲击。",
+    "recent_shift": "近期更加聚焦于人形机器人及物理AI领域，认为光学板块短期回调后仍有结构性机会。",
     "representative_quotes": [
-      "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.",
-      "I'm personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative.",
-      "My personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China."
+      "World models have become the biggest consensus in early-stage investment.",
+      "Sivers lasers powering robotics / physical AI.",
+      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo."
     ],
-    "generated_at": "2026-07-03T12:01:01.372718+00:00"
+    "generated_at": "2026-07-03T14:16:58.226225+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$SPX",
       "$MU",
-      "$META",
-      "$TSLA",
       "$NVDA",
+      "$TSLA",
       "$AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI模型成本战与行业变革",
-      "特朗普交易与政治利益冲突",
-      "市场泡沫与衰退风险",
-      "能源与地缘政治紧张",
-      "科技股资金轮动"
+      "量化波动与市场情绪",
+      "特朗普交易流与政治关联",
+      "AI成本竞争与泡沫风险"
     ],
-    "recent_shift": "早期关注AI增长和特朗普交易利好，近期转向警示市场泡沫、衰退风险及监管问题，强调投资者情绪恶化。",
+    "recent_shift": "近期更关注宏观风险与个股异常交易行为，情绪从早前的AI狂热转向谨慎观望",
     "representative_quotes": [
+      "It gives every minute long and short gamma positions of market makers on SPX. It is a must have.",
       "The reason is straightforward: certain Chinese AI models cost as little as $2 to $3 per million output tokens, compared to around $15 for comparable US models.",
-      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
-      "The AI boom in global stock markets has become an unsustainable bubble, per Wealspring Asset and Shanghai Banxia Investment Management Center"
+      "The AI boom in global stock markets has become an unsustainable bubble."
     ],
-    "generated_at": "2026-07-03T09:40:37.886414+00:00"
+    "generated_at": "2026-07-03T14:17:00.737323+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2073044338838520126",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Americans have racked up $1.25 trillion of credit-card debt, and they’re having trouble paying it down,\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2073044338838520126",
+    "published_at": "2026-07-03T14:01:00+00:00",
+    "fetched_at": "2026-07-03T14:16:35.360132+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国家庭信用卡债务总额达到1.25万亿美元且偿还困难，表明消费信贷状况恶化，可能预示消费支出放缓，对整体经济和股市构成负面影响。",
+      "translation": "据《华尔街日报》报道，美国人已累积了1.25万亿美元的信用卡债务，且他们难以偿还。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073044119287722024",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some public market read through from Chinese private VC markets:\n\nInstitutions are pouring funds into physical AI and world models. \n\n1. Large models / LLMs: ~$23.56B\n2. AI infrastructure + technical layer: ~$15.74B\n3. Embodied intelligence / physical AI: ~$13.36B\n4. AIGC applications: ~$8.79B\n5. Autonomous driving + other Top-20 cluster: ~$3.82B, but not apples-to-apples with the above.\n\nSome notes: \n- \"Early-stage pure foundation-model funding is basically closed\".  \nLooks like more funding is just being put into existing leaders and going into World Model companies. My guess is that we'll likely see the same in the US with Anthorpic/OpenAI consolidation. \n\n- \"World models have become the biggest consensus in early-stage investment.\"\n\nI said months ago 4D AI/World Models would be the most interesting moving forward, and called out $AEVA as potential exposure. But there's not exactly any pure play exposure.  But probably next we'll wait for the next IPOs here in this sector maybe H1 next year. \n\n- AIGC application sector is the most mature for AI technology commercialization\n\n\"Artificial Intelligence Generated Content commercialization is mature but no clear winner yet\". \n\nMakes sense. in the US there's stuff like Grok Imagine, Google Nano Banana, etc. no clear winner too. especially for video. \n\n_\n\nTLDR: Continued funding into AI infrastructure/semiconductor supply chains. Huge capital rotation influx into physical AI / embodied brain / humanoids + world models from capital inflow. \n\nConsolidation around leading frontier model companies. \n\nPersonally just validated what I've been focusing on with Agility Robotics and physical AI players (eg. leaderdrive, harmonic, etc) in public markets...\n\nAs new potential opportunities in terms of capital rotation. But sadly no world model pure play exposure yet.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073044119287722024",
+    "published_at": "2026-07-03T14:00:07+00:00",
+    "fetched_at": "2026-07-03T14:16:18.981333+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AEVA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了中国私募市场资金流向，指出机构正大举投入物理AI和世界模型，而大模型早期融资已基本关闭。作者看好世界模型和物理AI，提及AEVA作为潜在标的，但认为暂无纯正标的。同时指出AIGC应用商业化成熟但无明确赢家。整体看多AI基础设施、物理AI和世界模型方向。",
+      "translation": "这条推文分析了中国私募市场的公开市场解读：机构正大举投入物理AI和世界模型。其中大模型/LLM约235.6亿美元，AI基础设施+技术层约157.4亿美元，具身智能/物理AI约133.6亿美元，AIGC应用约87.9亿美元，自动驾驶及其他前20集群约38.2亿美元。一些注释：- “早期纯基础模型融资基本关闭”。看起来更多资金正投入现有领导者以及世界模型公司。我猜测在美国也会出现类似情况，Anthropic/OpenAI会整合。- “世界模型已成为早期投资的最大共识。”我几个月前说过4D AI/世界模型将是未来最有趣的，并指出$AEVA作为潜在标的。但目前没有纯正标的。可能下一步要等到明年上半年该领域的新IPO。- AIGC应用是AI技术商业化最成熟的领域。“人工智能生成内容商业化成熟但尚无明确赢家。”这很合理。在美国也有Grok Imagine、Google Nano Banana等，同样没有明确赢家，尤其是视频领域。总结：持续资金投入AI基础设施/半导体供应链。大量资本轮换涌入物理AI/具身脑/人形机器人和世界模型。领先前沿模型公司正在整合。个人而言，这验证了我一直关注的Agility Robotics和物理AI玩家（如leaderdrive、harmonic等）在公开市场的机会……新潜在机会来自资本轮换。但遗憾的是还没有世界模型的纯正标的。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073014139765534902",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nWe just released one minute Periscope data.\n\nIt gives every minute long and short gamma positions of market makers on SPX.\n\nIt is a must have.\n\nTake a look: https://t.co/BzU8AZk8im https://t.co/zXlPdCHtTV",
+    "tweet_url": "https://x.com/unusual_whales/status/2073014139765534902",
+    "published_at": "2026-07-03T12:01:00+00:00",
+    "fetched_at": "2026-07-03T14:16:38.932416+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文介绍了一项新的数据服务，提供SPX市场做市商每分钟的伽马头寸信息，对期权交易者分析市场情绪和动态有价值，但本身不包含具体交易建议。",
+      "translation": "快看。我们刚刚发布了一分钟Periscope数据。它提供SPX上做市商每分钟的多头和空头伽马头寸。这是必备工具。看看吧：https://t.co/BzU8AZk8im https://t.co/zXlPdCHtTV",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2072986020640076052",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -309,6 +370,25 @@
       "summary": "Meta发布了一款名为Pocket的新AI应用，提供社交动态和基于提示生成的“氛围编码”迷你游戏。这可能表明Meta正在扩大其AI产品组合，增强用户参与度，对META股票有积极影响。",
       "translation": "Meta宣布推出Pocket，这是一款新的AI应用，具有一个社交动态，其中包含由提示生成的“氛围编码”迷你游戏。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072817090852172129",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales is having a July 4th sale.\n\nGet up to 20% off.\n\nWe have created tools to help you navigate this market.\n\nJoin here: https://t.co/bsTCireGpr https://t.co/odguERqIVY",
+    "tweet_url": "https://x.com/unusual_whales/status/2072817090852172129",
+    "published_at": "2026-07-02T22:58:00+00:00",
+    "fetched_at": "2026-07-03T14:16:51.086944+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文是Unusual Whales在7月4日的促销广告，推广其市场导航工具。虽涉及投资工具，但未提供具体市场观点或投资建议。",
+      "translation": "Unusual Whales正在举办7月4日促销活动。最高可享20%折扣。我们创建了帮助您驾驭市场的工具。加入这里：https://t.co/bsTCireGpr https://t.co/odguERqIVY",
+      "confidence": "high"
     }
   },
   {
