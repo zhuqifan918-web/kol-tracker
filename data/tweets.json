@@ -1,5 +1,81 @@
 [
   {
+    "tweet_id": "2072855594730729707",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The FDA's decision indicates a potential shift in regulatory stance towards harm reduction products.\n\nRead more: https://t.co/QA3Zc30qEm",
+    "tweet_url": "https://x.com/unusual_whales/status/2072855594730729707",
+    "published_at": "2026-07-03T01:31:00+00:00",
+    "fetched_at": "2026-07-03T02:05:50.544860+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及FDA对减害产品监管立场的潜在转变，虽未点名具体公司，但可能影响烟草及相关行业投资情绪，建议关注监管动态。",
+      "translation": "FDA的决定表明其对减害产品的监管立场可能出现转变。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072832190296269231",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Analyst Jack Lu and his team at the bank predict sodium-ion batteries will account for 20% of total battery deployment market share by 2030 and 37% in 2035.\n\nRead more: https://t.co/NJk88vflOr",
+    "tweet_url": "https://x.com/unusual_whales/status/2072832190296269231",
+    "published_at": "2026-07-02T23:58:00+00:00",
+    "fetched_at": "2026-07-03T02:05:54.871552+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "分析师预测钠离子电池市场份额将大幅增长，至2030年占20%，2035年占37%，显示该技术未来有较强增长潜力，对相关产业投资有参考价值。",
+      "translation": "分析师Jack Lu及其团队预测，到2030年，钠离子电池将占总电池市场份额的20%，到2035年达到37%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072810296444338420",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.\n\nYou can match and catch his portfolio, as it is disclosed.\n\nSee more: https://t.co/2sXd6Fu3FL",
+    "tweet_url": "https://x.com/unusual_whales/status/2072810296444338420",
+    "published_at": "2026-07-02T22:31:00+00:00",
+    "fetched_at": "2026-07-03T02:06:01.970195+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广了Unusual Whales服务，声称可以追踪和匹配特朗普的公开交易记录。此信息可能对关注政治人物投资动向的投资者有参考价值。",
+      "translation": "要查看特朗普的所有交易，请订阅Unusual Whales。你可以匹配和捕捉他的投资组合，因为这些信息是公开的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072795196757348654",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Employers who laid off workers citing AI are already starting to regret it,\" per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2072795196757348654",
+    "published_at": "2026-07-02T21:31:00+00:00",
+    "fetched_at": "2026-07-03T02:06:06.258341+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及由于AI裁员的企业开始后悔，可能暗示AI对就业市场的短期负面影响及劳动力需求变化，但未直接给出投资建议。",
+      "translation": "据CNBC报道，因AI而裁员的雇主已经开始后悔了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2072795186263187831",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -570,6 +646,25 @@
       "direction": "bullish",
       "summary": "推文讨论OpenAI向美国政府提供5%股份的可能性，并类比英特尔（INTC）的情况，认为如果类似情况发生，美国政府可能成为OpenAI未来超过1万亿美元资本支出和债务的软后盾，这对其长期投资前景是利好。",
       "translation": "我感觉特朗普可能会喜欢这个主意：据金融时报报道，OpenAI讨论了向美国政府提供公司5%股份的可能性。如果这演变成类似英特尔（INTC）的情况，美国政府成为他们未来超过1万亿美元资本支出/债务的软后盾，那将很有趣。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2072567955888668992",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩国人小孩已经生了，塞不回去，好大一盘棋😂\n买房贷款已经下来了，但是股市跌的贷款还不上，房子得被拍卖收回去。 https://t.co/vml7tc9bBw",
+    "tweet_url": "https://x.com/xiaomustock/status/2072567955888668992",
+    "published_at": "2026-07-02T06:28:01+00:00",
+    "fetched_at": "2026-07-03T02:05:39.746396+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到韩国房价下跌可能导致贷款违约和房产被拍卖，反映了房地产市场的风险，对相关投资不利。",
+      "translation": "韩国人孩子已经生了，塞不回去，好大一盘棋😂 买房贷款已经下来了，但是股市跌的贷款还不上，房子得被拍卖收回去。",
       "confidence": "medium"
     }
   },

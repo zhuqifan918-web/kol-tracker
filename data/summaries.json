@@ -26,49 +26,48 @@
   "unusual_whales": {
     "focus_tickers": [
       "$MU",
+      "$NVDA",
       "$TSLA",
       "$META",
-      "$NVDA",
-      "$AMZN"
+      "$AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资泡沫与资金轮动",
-      "特朗普交易与政策利益冲突",
-      "半导体与存储芯片行业繁荣",
-      "能源与地缘政治风险",
-      "宏观经济放缓与市场分化"
+      "AI投资与泡沫风险",
+      "特朗普交易与政策套利",
+      "宏观经济与就业市场",
+      "能源与地缘政治",
+      "科技股轮动与半导体"
     ],
-    "recent_shift": "近期从全面看好转爲警示AI泡沫，强调市场分化和政策风险。",
+    "recent_shift": "从早前对AI泡沫的警告转向关注具体公司盈利和监管变化，但对市场风险仍持谨慎态度。",
     "representative_quotes": [
-      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
-      "BREAKING: Look at this. The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million.",
-      "Goldman Sachs, $GS, has said investors are rotating out of the Magnificent Seven and into AI beneficiaries such as semiconductor stocks."
+      "The AI stock rally is minting US millionaires at the fastest pace in 4 years, per YF",
+      "Goldman Sachs, $GS, has said investors are rotating out of the Magnificent Seven and into AI beneficiaries such as semiconductor stocks, favoring them over hyperscalers bearing heavy AI spending.",
+      "Gold is headed for a 13% quarterly loss, marking its steepest decline in 13 years."
     ],
-    "generated_at": "2026-07-02T21:07:07.901473+00:00"
+    "generated_at": "2026-07-03T02:06:22.886250+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "#海力士",
-      "$MU",
-      "$NVDA",
-      "$ASX"
+      "SKHynix",
+      "GLW",
+      "AMAT",
+      "LRCX",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施需求爆发，存储和芯片设备长期供不应求",
-      "康宁GLW作为英伟达下一代芯片玻璃基板核心供应商，具有10倍业绩增长确定性",
-      "存储三巨头（海力士、三星、美光）卡住AI产业链命脉，利润和话语权极大",
-      "物理AI和太空计算是下一波投资机会，但门槛极高",
-      "杠杆风险警示：多次提到无杠杆、仓位管理比选股更重要"
+      "AI基础设施需求远超供给，存储和算力是核心瓶颈",
+      "存储三巨头（海力士、三星、美光）主导AI产业链利润",
+      "康宁（GLW）作为下一代AI芯片基板（玻璃基板）和光互连龙头，业绩确定性高",
+      "物理AI和机器人是下一个增长领域，需要天量存储和算力"
     ],
-    "recent_shift": "近期从纯存储（海力士）转向偏重康宁GLW，并增加了对芯片设备股（AMAT、LRCX、KLAC）的关注，同时强调市场分歧加大和杠杆杀人的风险。",
+    "recent_shift": "近期更加关注康宁（GLW）替代部分存储仓位，并强调市场分歧加剧、杠杆风险警示",
     "representative_quotes": [
-      "这波带杠杆的死了很多人，美股分歧越来越大了，小扎这波直接把AI干碎了。活下去才有机会，仓位管理比买对啥更重要",
-      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
-      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储涨完什么涨？当然还是存储涨！"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "活下去才有机会，仓位管理比买对啥更重要",
+      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！"
     ],
-    "generated_at": "2026-07-02T19:59:35.292648+00:00"
+    "generated_at": "2026-07-03T02:06:19.522472+00:00"
   }
 }
