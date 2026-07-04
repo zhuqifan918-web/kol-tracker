@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2073305375957541013",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "TIL floating DC and ocean compute exists?\n\nApparently it’s free cooling + optimal for places in tight geography…\n\nIt’s going to be wild taking a cruise ship, and passing by a bunch of $NBIS or Samsung floating AI DCs one day.\n\nIf this ever becomes a thing like orbital compute? https://t.co/Ki2RqNc2xT",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073305375957541013",
+    "published_at": "2026-07-04T07:18:16+00:00",
+    "fetched_at": "2026-07-04T07:20:08.480314+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS"
+      ],
+      "direction": "bullish",
+      "summary": "推文讨论了浮动数据中心和海洋计算的概念，认为未来可能看到戴尔或三星的浮动AI数据中心，暗示NBIS等公司可能受益。对NBIS持乐观态度。",
+      "translation": "今日学习：浮动数据中心和海洋计算真的存在？显然是免费冷却+适合地理紧凑的地方……有一天乘坐游轮，经过一堆$NBIS或三星的浮动AI数据中心，那将会很疯狂。如果这能像轨道计算一样成为现实呢？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073196939785711796",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'm bearish on humans.\n\nHard to see people still having a job if humanoids come out at &lt;$15K mass production.\n\nNo insurance, no JP Morgan HR cannon scandals. \n\nAnd can do everything a person can, but better + 24/7.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073196939785711796",
+    "published_at": "2026-07-04T00:07:23+00:00",
+    "fetched_at": "2026-07-04T07:20:17.455945+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文对机器人技术持悲观态度，认为人形机器人若以低于1.5万美元量产，将取代人类工作，对劳动力市场构成威胁。这可能间接影响自动化相关行业的投资前景。",
+      "translation": "我看空人类。如果人形机器人以低于1.5万美元量产，很难想象人们还能保住工作。没有保险，没有摩根大通人力资源丑闻。而且它们能比人类做得更好，且24/7运作。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073195333803560991",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
