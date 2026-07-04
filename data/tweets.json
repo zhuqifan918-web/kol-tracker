@@ -21,6 +21,27 @@
     }
   },
   {
+    "tweet_id": "2073274662549848494",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "meta先发智能体进度不及预期，这俩天阿里和抖音又下架智能体服务，可能是觉得AI没到agi的话，强行投钱研究智能体意义不大。因为最终干活还是ai。\n\n到了agi，自动全都是智能体。\nagi出来，可以agi开发智能体。\n\nmeta砸几十上百亿美金都搞不出来啥进展，所以其他人直接也不想折腾了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2073274662549848494",
+    "published_at": "2026-07-04T05:16:13+00:00",
+    "fetched_at": "2026-07-04T09:34:20.767865+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "该推文对Meta的智能体研发进展持悲观态度，认为其投入巨资但进展不及预期，同时阿里和抖音也下架相关服务，暗示整个AI智能体领域投资回报率低，利空META及相关AI概念股。",
+      "translation": "Meta的智能体研发进度不及预期，这两天阿里和抖音又下架了智能体服务，可能是觉得AI还没达到AGI的话，强行投资研究智能体意义不大。因为最终干活还是要靠AI。到了AGI，自动全都是智能体。AGI出现后，可以用AGI来开发智能体。Meta砸了几十上百亿美金都搞不出什么进展，所以其他人也直接不想折腾了。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073196939785711796",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
