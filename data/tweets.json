@@ -60,6 +60,25 @@
     }
   },
   {
+    "tweet_id": "2073406726724821317",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The number of Americans facing unemployment for at least 27 weeks has climbed above 1.8 million on average this year, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2073406726724821317",
+    "published_at": "2026-07-04T14:01:00+00:00",
+    "fetched_at": "2026-07-04T20:27:17.874321+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "长期失业人数高企可能对消费和经济复苏构成压力，暗示市场风险偏好或受抑制，投资需关注经济放缓信号。",
+      "translation": "根据CNBC报道，今年平均有超过180万美国人面临至少27周失业的情况。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073376528159613184",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16188,6 +16207,28 @@
       "direction": "bullish",
       "summary": "该推文强调，真正理解并坚信自己买入原因的投资者，应在股价下跌时兴奋并加仓，而非割肉。反之，跟风者因缺乏理解而恐慌抛售，不适合炒股。整体传递看多、长期持有的投资理念。",
       "translation": "如果真懂了你买的股票，坚信你自己的买入原因，那跌的时候反而是兴奋，可以买到更多更便宜的筹码了，而不是割肉。跌了反而不敢买还割肉那说明根本不懂，怀疑自己买入的股票那只是在跟风，不适合炒股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2049405668604756415",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "现在 $MRVL 156刀太便宜，为什么看好 。\n\n要从谷歌在 TPU 供应链上采取的“分而治之”的策略说起。\n谷歌跟博通的合作是主要负责高性能训练级的TPU。\n而谷歌跟 $MRVL 的合作是推理型TPU和新增的内存处理单元MPU。\n很明显在AI带来的token经济时代，推理和内存是最大的需求端反超了训练需求。这个变化很快就会反馈在今年下半年的 $MRVL  财报业绩中， $MRVL 的 AI 业务刚进入爆发期，谷歌的订单（预计 2026-2027 年出货达数百万颗）对其业绩的边际拉动作用远大于博通。\n\n同时我们可以分析一下从为什么谷歌会找 $MRVL 来合作设计推理TPU和内存MPU。\n为了降低延迟，现在的AI服务器从铜互联进化到光互连，未来的硅光技术会成为主流。\n而在这方面，光互连和芯片设计都精通的\n $MRVL  进入谷歌 TPU 供应链就是谷歌的必然选择。对mrvl来说这本质上就是为了下一代“光电融合”架构做铺垫，不仅是在帮谷歌“画电路图”，它实际上是在推销一套“全光互连的计算底座”。在这种趋势下，芯片公司与通信公司的界限正在模糊， $MRVL 正在试图定义 1.6T 乃至 3.2T 时代的 AI 连接标准，将原本属于模块厂“#中际旭创 #新易盛 ”的一部分利润（即集成和测试的溢价）收归己有。",
+    "tweet_url": "https://x.com/xiaomustock/status/2049405668604756415",
+    "published_at": "2026-04-29T08:29:22+00:00",
+    "fetched_at": "2026-07-04T20:27:04.506426+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL",
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "推文认为MRVL当前股价156美元被低估，看好其与谷歌在推理型TPU和内存MPU的合作，强调AI推理和内存需求超过训练，MRVL的AI业务即将爆发，且硅光互连技术趋势下MRVL有望定义下一代AI连接标准，将部分模块厂利润收归己有。",
+      "translation": "现在$MRVL 156美元太便宜，为什么看好。要从谷歌在TPU供应链上采取的‘分而治之’的策略说起。谷歌与博通的合作是主要负责高性能训练级的TPU。而谷歌与$MRVL的合作是推理型TPU和新增的内存处理单元MPU。很明显在AI带来的token经济时代，推理和内存是最大的需求端反超了训练需求。这个变化很快就会反馈在今年下半年的$MRVL财报业绩中，$MRVL的AI业务刚进入爆发期，谷歌的订单（预计2026-2027年出货达数百万颗）对其业绩的边际拉动作用远大于博通。同时我们可以分析一下为什么谷歌会找$MRVL来合作设计推理TPU和内存MPU。为了降低延迟，现在的AI服务器从铜互联进化到光互连，未来的硅光技术会成为主流。而在这方面，光互连和芯片设计都精通的$MRVL进入谷歌TPU供应链就是谷歌的必然选择。对MRVL来说这本质上就是为了下一代‘光电融合’架构做铺垫，不仅是在帮谷歌‘画电路图’，它实际上是在推销一套‘全光互连的计算底座’。在这种趋势下，芯片公司与通信公司的界限正在模糊，$MRVL正在试图定义1.6T乃至3.2T时代的AI连接标准，将原本属于模块厂‘#中际旭创 #新易盛’的一部分利润（即集成和测试的溢价）收归己有。",
       "confidence": "high"
     }
   },
