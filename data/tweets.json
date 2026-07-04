@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2073195333803560991",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Palantir, $PLTR, CEO Alex Karp: You look at American performance in Iran, which was been thanks to the bravery of Americans and I would like to believe our tech, very few losses on our side, very precise, very controlled.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2073195333803560991",
+    "published_at": "2026-07-04T00:01:00+00:00",
+    "fetched_at": "2026-07-04T00:02:04.298400+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PLTR"
+      ],
+      "direction": "bullish",
+      "summary": "Palantir CEO亚历克斯·卡普在推特中称赞自家技术在伊朗行动中的精准控制与低损失，暗示公司技术与市场竞争力，增强投资者信心。",
+      "translation": "Palantir公司，$PLTR，首席执行官亚历克斯·卡普：你们看在伊朗的行动表现，这归功于美国人的勇敢，而我愿意相信我们的技术，我方损失极少，行动非常精确、受控。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073180234111717792",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Gold has overtaken US government bonds as the world’s top reserve asset, per ECB",
+    "tweet_url": "https://x.com/unusual_whales/status/2073180234111717792",
+    "published_at": "2026-07-03T23:01:00+00:00",
+    "fetched_at": "2026-07-04T00:02:05.846616+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD"
+      ],
+      "direction": "bullish",
+      "summary": "黄金取代美国国债成为全球首要储备资产，表明市场对美元信心下降，黄金需求上升，利好黄金投资。",
+      "translation": "据欧洲央行数据，黄金已超越美国政府债券，成为全球首要储备资产。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073134935410446420",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

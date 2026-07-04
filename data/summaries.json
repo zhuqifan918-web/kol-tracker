@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$TSLA",
-      "$NVDA",
-      "$META",
-      "$AAPL"
+      "PLTR",
+      "META",
+      "TRUMP",
+      "MU",
+      "AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济恶化与债务风险",
-      "AI泡沫与投资回报不均",
-      "伊朗地缘政治紧张影响能源市场",
-      "消费者财务压力与市场脆弱性",
-      "总统交易与内幕敏感性"
+      "宏观经济风险与债务问题",
+      "AI泡沫与回报质疑",
+      "地缘政治冲突影响",
+      "市场结构性分化",
+      "特朗普交易与政策披露"
     ],
-    "recent_shift": "近期关注点从AI利好转向宏观经济风险、债务负担和地缘政治不确定性。",
+    "recent_shift": "近期更强调市场风险与衰退预期，从早期的AI热情转向对泡沫和高负债的担忧。",
     "representative_quotes": [
-      "Every minute long and short gamma positions of market makers on SPX.",
-      "The AI stock rally is minting US millionaires at the fastest pace in 4 years.",
-      "One-third of Americans' wealth is now tied to the stock market, a record high."
+      "Palantir, $PLTR, CEO Alex Karp: You look at American performance in Iran, which was been thanks to the bravery of Americans and I would like to believe our tech, very few losses on our side, very precise, very controlled.\"",
+      "Gold has overtaken US government bonds as the world’s top reserve asset, per ECB",
+      "Layoffs driven by AI automation are largely failing to generate expected financial returns,\" per FORTUNE"
     ],
-    "generated_at": "2026-07-03T21:57:14.472381+00:00"
+    "generated_at": "2026-07-04T00:02:21.890456+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
