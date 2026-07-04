@@ -1,5 +1,30 @@
 [
   {
+    "tweet_id": "2073523410643366242",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". \n\nPer FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation has become a new threat to China's already severe job market.\n\nLiu Qiangdong, revealed that the company has signed contracts with approximately 120 schools to retrain its delivery workers, enabling them to transition into new roles such as robot repair and maintenance...\n\n\"Beijing has started to track AI’s hit to jobs as a national priority.\"\n\nThis follows other corporate strategy reports like $AMZN, of avoiding 600,000 future hires with robots.  \n\nBut it's very interesting to see the shift in worker roles to robot support. Maybe $DASH to $UBER to $MELI, we'll all start to see this rollout following China. \n\nThere's a lot of retail disbelief over humanoid/robotics commercialization. But feels like the direction industry is heading down is pretty clear.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073523410643366242",
+    "published_at": "2026-07-04T21:44:39+00:00",
+    "fetched_at": "2026-07-04T22:25:58.898821+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JD",
+        "AMZN",
+        "DASH",
+        "UBER",
+        "MELI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论了京东和亚马逊等电商巨头用机器人替代配送工人的趋势，并提及达美乐、优步和美客多等公司可能也会跟进。推文认为机器人商业化方向明确，但未给出明确投资建议，态度中性。",
+      "translation": "分析这条推文的投资相关性。\n\n推文：日经 - 京东电商巨头CEO警告“机器人将取代70万名配送工人”。\n\n根据上个月英国《金融时报》的报道：该公司雇用的70万名配送人员将被机器人取代，凸显快速自动化已成为中国本已严峻的就业市场的新威胁。\n\n刘强东透露，公司已与约120所学校签署协议，对配送工人进行再培训，使其转型为机器人维修和维护等新岗位……\n\n“北京已开始将人工智能对就业的冲击作为国家优先事项进行追踪。”\n\n这紧随其他公司战略报告之后，如亚马逊（$AMZN）通过机器人避免了60万个未来招聘岗位。\n\n但看到工人角色向机器人支持岗位转变非常有趣。也许达美乐（$DASH）、优步（$UBER）到美客多（$MELI），我们都将在效仿中国之后看到这种部署。\n\n对于人形机器人/机器人的商业化，零售业存在很多怀疑。但感觉行业发展的方向相当明确。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073467493998555192",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
