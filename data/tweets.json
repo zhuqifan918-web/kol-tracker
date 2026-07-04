@@ -2032,6 +2032,25 @@
     }
   },
   {
+    "tweet_id": "2072320695070347276",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "现在市场还啥短缺卡脖子？\n缺钱？",
+    "tweet_url": "https://x.com/xiaomustock/status/2072320695070347276",
+    "published_at": "2026-07-01T14:05:30+00:00",
+    "fetched_at": "2026-07-04T21:26:36.337527+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文以讽刺口吻询问市场当前还有哪些短缺或瓶颈问题，并调侃说原来是缺钱，暗示市场资金面紧张，可能对投资环境有不利影响。",
+      "translation": "现在市场还有什么短缺卡脖子的？缺钱？",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2072319059275010099",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
