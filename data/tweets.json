@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2073376528159613184",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nWe just released one minute Periscope data.\n\nIt gives every minute long and short gamma positions of market makers on SPX.\n\nIt is a must have.\n\nTake a look: https://t.co/BzU8AZk8im https://t.co/XtK2nQsIFd",
+    "tweet_url": "https://x.com/unusual_whales/status/2073376528159613184",
+    "published_at": "2026-07-04T12:01:00+00:00",
+    "fetched_at": "2026-07-04T12:40:06.553987+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文宣布发布了每分钟的SPX市场做市商长短期伽马头寸数据，强调其对分析市场动态的重要性，属于市场数据工具推广，未直接给出投资建议。",
+      "translation": "看这个。我们刚刚发布了一分钟的Periscope数据。它提供了SPX上每分鐘市場做市商的多头和空头伽马头寸。这是必备品。请看：https://t.co/BzU8AZk8im https://t.co/XtK2nQsIFd",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073351980131754203",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

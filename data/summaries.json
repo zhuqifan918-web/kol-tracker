@@ -24,26 +24,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$PLTR",
-      "$TSLA",
       "$MU",
+      "$TSLA",
       "$META",
-      "$AAPL"
+      "$AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能泡沫与回调",
-      "宏观经济风险加剧",
-      "美国债务与地缘政治危机",
-      "市场震荡中的结构性分化",
-      "特朗普交易与监管套利"
+      "地缘政治风险与能源安全",
+      "AI投资泡沫与分化",
+      "加密货币与政治人物交易",
+      "市场波动与宏观担忧",
+      "科技巨头业绩分化"
     ],
-    "recent_shift": "近期从对AI和市场的乐观转向强调劳动力市场疲软、债务高企及美联储潜在加息，并对AI投资回报产生怀疑。",
+    "recent_shift": "从近期大量关于特朗普交易和地缘冲突的发布转向强调美联储加息预期和衰退风险，但整体仍保持对AI相关工具的推广。",
     "representative_quotes": [
-      "\"Palantir, $PLTR, CEO Alex Karp: You look at American performance in Iran... very few losses on our side, very precise, very controlled.\"",
-      "\"Gold has overtaken US government bonds as the world’s top reserve asset, per ECB\"",
-      "\"Long-term unemployment is surging in the US,\" per CNBC"
+      "Palantir, $PLTR, CEO Alex Karp: You look at American performance in Iran, which was been thanks to the bravery of Americans and I would like to believe our tech, very few losses on our side, very precise, very controlled.",
+      "BREAKING: Trump reported more than 21,000 trades across eight investment accounts in 2025, averaging 80 trades per day.",
+      "Unusual Whales is having a July 4th sale. Get up to 20% off. We have created tools to help you navigate this market."
     ],
-    "generated_at": "2026-07-04T11:18:45.758218+00:00"
+    "generated_at": "2026-07-04T12:40:22.476582+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
