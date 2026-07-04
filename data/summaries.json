@@ -5,45 +5,45 @@
       "$SIVE",
       "$AAOI",
       "$META",
-      "$NVDA"
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "物理AI与具身智能",
-      "光学激光器与CPO光互连瓶颈",
-      "人形机器人商业化与供应链"
+      "人工智能基建与瓶颈投资",
+      "人形机器人商业化替代劳动力",
+      "光电/光子学供应链结构性紧缺"
     ],
-    "recent_shift": "近期更加聚焦于人形机器人及物理AI领域，认为光学板块短期回调后仍有结构性机会。",
+    "recent_shift": "近期从超大规模云厂商叙事转向人形机器人与物理AI作为下一轮增长核心。",
     "representative_quotes": [
-      "World models have become the biggest consensus in early-stage investment.",
-      "Sivers lasers powering robotics / physical AI.",
-      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo."
+      "Lot of people keep saying humanoids can’t do X or Y task today… It’s clear to me and VC that we’ve just hit the inflection point where soon: majority of labor you think is human-only, can be replaced by robotics/humanoids.",
+      "The entire optical components industry today is facing a severe shortage of critical components... The top three laser suppliers control 68% of the market and they’re completely sold out for the next two years.",
+      "Hard to see a world where US AI hyperscaler capex drops dramatically... When China entities go and claim they now have an 'AI cyber nuclear weapon'... We're witnessing the modern cold war."
     ],
-    "generated_at": "2026-07-03T14:16:58.226225+00:00"
+    "generated_at": "2026-07-04T11:18:42.267876+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "PLTR",
-      "META",
-      "TRUMP",
-      "MU",
-      "AAPL"
+      "$PLTR",
+      "$TSLA",
+      "$MU",
+      "$META",
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济风险与债务问题",
-      "AI泡沫与回报质疑",
-      "地缘政治冲突影响",
-      "市场结构性分化",
-      "特朗普交易与政策披露"
+      "人工智能泡沫与回调",
+      "宏观经济风险加剧",
+      "美国债务与地缘政治危机",
+      "市场震荡中的结构性分化",
+      "特朗普交易与监管套利"
     ],
-    "recent_shift": "近期更强调市场风险与衰退预期，从早期的AI热情转向对泡沫和高负债的担忧。",
+    "recent_shift": "近期从对AI和市场的乐观转向强调劳动力市场疲软、债务高企及美联储潜在加息，并对AI投资回报产生怀疑。",
     "representative_quotes": [
-      "Palantir, $PLTR, CEO Alex Karp: You look at American performance in Iran, which was been thanks to the bravery of Americans and I would like to believe our tech, very few losses on our side, very precise, very controlled.\"",
-      "Gold has overtaken US government bonds as the world’s top reserve asset, per ECB",
-      "Layoffs driven by AI automation are largely failing to generate expected financial returns,\" per FORTUNE"
+      "\"Palantir, $PLTR, CEO Alex Karp: You look at American performance in Iran... very few losses on our side, very precise, very controlled.\"",
+      "\"Gold has overtaken US government bonds as the world’s top reserve asset, per ECB\"",
+      "\"Long-term unemployment is surging in the US,\" per CNBC"
     ],
-    "generated_at": "2026-07-04T00:02:21.890456+00:00"
+    "generated_at": "2026-07-04T11:18:45.758218+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
