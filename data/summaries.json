@@ -1,25 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$CCXI",
       "$SIVE",
       "$AAOI",
-      "$META",
-      "$MU"
+      "$CCXI",
+      "$NBIS",
+      "$META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基建与瓶颈投资",
-      "人形机器人商业化替代劳动力",
-      "光电/光子学供应链结构性紧缺"
+      "光子学及CPO供应链瓶颈",
+      "人形机器人商业化与投资",
+      "AI基础设施及资本支出持续增长",
+      "地缘政治与国家安全竞赛",
+      "半导体上游材料与设备机遇"
     ],
-    "recent_shift": "近期从超大规模云厂商叙事转向人形机器人与物理AI作为下一轮增长核心。",
+    "recent_shift": "近期从单纯看好AI及光子学转向更聚焦人形机器人（如Agility Robotics）和物理AI，同时因宏观加息担忧和媒体唱空而经历回调但坚定看好。",
     "representative_quotes": [
-      "Lot of people keep saying humanoids can’t do X or Y task today… It’s clear to me and VC that we’ve just hit the inflection point where soon: majority of labor you think is human-only, can be replaced by robotics/humanoids.",
-      "The entire optical components industry today is facing a severe shortage of critical components... The top three laser suppliers control 68% of the market and they’re completely sold out for the next two years.",
-      "Hard to see a world where US AI hyperscaler capex drops dramatically... When China entities go and claim they now have an 'AI cyber nuclear weapon'... We're witnessing the modern cold war."
+      "Be SemiAnalysis: Post a scathing piece on CPO delays + optical company valuations, causing a crash. ... Launch an institutional photonics ETF after optical names dropped 40-60%.",
+      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... At those valuations... there's direct exposure for the first ever humanoid player today.",
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next."
     ],
-    "generated_at": "2026-07-04T11:18:42.267876+00:00"
+    "generated_at": "2026-07-04T19:01:36.058775+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

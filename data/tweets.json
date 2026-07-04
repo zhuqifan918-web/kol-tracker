@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2073467493998555192",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "UDN Money report \"殺翻光通訊後 SemiAnalysis 惹議 業界揭其劣跡 許多公司慘遭魔手\":\n\n- SemiAnalysis, released a report in June, questioning the timing of the launch of the CPO on the grounds of low yield and delay, which caused the photonics sector to collapse. \n\n- The agency then partnered with Tema to launch a photonics ETF. \n\n- The shares held in the ETF under the trading code LAZR happened to be the photonics stocks that were mentioned negatively in the report\n\n$HIMX and $LITE, which were specifically targeted negatively in their article \"Powered Down, Lights Off\", have been bought in Semianalysis and Tema's new ETF after the optical sector crash.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073467493998555192",
+    "published_at": "2026-07-04T18:02:28+00:00",
+    "fetched_at": "2026-07-04T19:00:51.130730+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "HIMX",
+        "LITE"
+      ],
+      "direction": "bearish",
+      "summary": "该推文揭露SemiAnalysis发布负面报告压低光通讯股价后，与其合作的Tema发行光通讯ETF并趁机低价买入此前被唱衰的股票HIMX和LITE，暗示可能存在利益冲突和操纵行为。",
+      "translation": "UDN Money报道“杀翻光通讯后 SemiAnalysis惹议 业界揭其劣迹 许多公司惨遭魔手”：SemiAnalysis于6月发布报告，以良率低和延迟为由质疑CPO推出时机，导致光通讯板块暴跌。随后该机构与Tema合作推出光通讯ETF。该ETF交易代码LAZR下持有的股票恰好是报告中负面提及的光通讯股票。$HIMX和$LITE在SemiAnalysis题为“Powered Down, Lights Off”的文章中受到特别负面评价，而在光通讯板块崩盘后，这些股票已被SemiAnalysis和Tema的新ETF买入。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073452024738508888",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
