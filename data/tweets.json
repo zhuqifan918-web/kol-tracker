@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2073436925466452239",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Stock market share of US household assets are at an all time high, per Axios: https://t.co/amzkTMrOPv",
+    "tweet_url": "https://x.com/unusual_whales/status/2073436925466452239",
+    "published_at": "2026-07-04T16:01:00+00:00",
+    "fetched_at": "2026-07-04T16:53:57.008281+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用Axios数据指出，美国股市在家庭资产中的占比达到历史最高水平，暗示市场潜在风险或资产配置需关注。",
+      "translation": "根据Axios的数据，美国股市在家庭资产中的占比达到历史最高水平：https://t.co/amzkTMrOPv",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073376528159613184",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
