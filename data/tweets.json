@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2073452024738508888",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"AI investments are a circular bet, as ROI disappoints,\" per Bain.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073452024738508888",
+    "published_at": "2026-07-04T17:01:00+00:00",
+    "fetched_at": "2026-07-04T17:56:42.841612+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "贝恩咨询认为AI投资回报令人失望，属于循环下注，暗示当前AI板块估值过高，投资者需谨慎。",
+      "translation": "根据贝恩咨询，AI投资是一个循环赌注，因为投资回报令人失望。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073436925466452239",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

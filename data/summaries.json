@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
+      "$PLTR",
       "$TSLA",
       "$META",
       "$NVDA",
-      "$PLTR"
+      "$MU"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场见顶信号增多",
-      "宏观风险上升（伊朗局势，美国债务，失业率）",
-      "AI泡沫与内部轮动",
-      "特朗普交易与利益冲突",
-      "能源与商品市场变化"
+      "AI投资回报失望",
+      "宏观经济疲软",
+      "地缘政治风险",
+      "市场投机与泡沫",
+      "散户工具推广"
     ],
-    "recent_shift": "近期观点从关注特朗普交易和AI机会转向更强调市场脆弱性，如多项见顶指标触发、黄金下跌、衰退担忧加剧。",
+    "recent_shift": "近期观点从关注AI炒作转向强调AI投资回报疲软和市场风险上升",
     "representative_quotes": [
-      "BREAKING: 7 out of 10 market peak indicators have now been triggered, per Bank of America",
-      "Traders are expecting a Fed rate hike by December, per Bloomberg.",
-      "BREAKING: Michael Burry disclosed new short positions against Nvidia, $NVDA, Tesla, $TSLA, Caterpillar, $CAT, and Applied Materials, $AMAT."
+      "AI investments are a circular bet, as ROI disappoints",
+      "Gold has overtaken US government bonds as the world’s top reserve asset",
+      "The AI boom in global stock markets has become an unsustainable bubble"
     ],
-    "generated_at": "2026-07-04T16:54:13.779476+00:00"
+    "generated_at": "2026-07-04T17:56:58.953832+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
