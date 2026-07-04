@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2073351980131754203",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Bruh, when I first tried out ChatGPT around 2023, I thought it LLMs were garbage at coding. \n\n3Y later, Mythos is considered a modern day “nuke” for cybersecurity. \n\nPeople keep saying humanoids can’t do X or Y task today like plumbing or DC wiring. No sht, but it’s about where things are heading over the few years.\n\nAnd it’s clear to me and VC apparently that we’ve just hit the inflection point where soon: majority of labor you think is human-only, can be replaced by robotics/humanoids. \n\nYou're already seeing this too with internal strategies: Remember $AMZN leaked strat planned to avoid hiring 600,000 workers by them with robots like $CCXI? \n\nIf you see past the \"assistive robotics\" public image framing to prevent protest, it's clear the goals is maximizing, opex efficiency. \n\nThe main areas I think are safe however are regulation bound (eg. Medicine), ultra specialized labor, or require human/emotional connections.\n\nBut I think you'll be blown away by the rate of change when frontier technologies become national security races between US and China... especially when China is currently in the lead.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073351980131754203",
+    "published_at": "2026-07-04T10:23:27+00:00",
+    "fetched_at": "2026-07-04T11:18:05.319373+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN",
+        "CCXI"
+      ],
+      "direction": "bullish",
+      "summary": "推文认为人形机器人和AI正在迎来拐点，将替代大量人类劳动，提升运营效率，这对相关科技公司是利好。",
+      "translation": "兄弟，当我在2023年第一次尝试ChatGPT时，我认为LLM在编码方面很垃圾。3年后，Mythos被认为是现代网络安全的“核武器”。人们一直在说人形机器人今天做不了X或Y任务，比如管道或直流布线。废话，但重点是未来几年的发展方向。对我来说和VC来说都很清楚，我们刚刚达到了一个拐点，很快：你认为只有人类才能做的大部分劳动，都可以被机器人/人形机器人替代。你已经在内部战略中看到了这一点：还记得$AMZN泄露的战略计划，他们用机器人（比如$CCXI）避免雇佣60万名工人吗？如果你看穿了“辅助机器人”的公开形象包装，以阻止抗议，就会发现目标是最大化运营效率。我认为安全的领域是受法规约束的（如医疗）、超专业化劳动，或需要人类/情感连接的工作。但我认为当领先技术成为中美之间的国家安全竞赛时，变革速度会让你震惊……尤其是当中国目前处于领先地位时。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073305375957541013",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -137,6 +159,25 @@
       "direction": "bullish",
       "summary": "该推文推广Unusual Whales软件的促销活动，声称其功能强大，对期权交易必不可少，暗示使用该软件可提升交易水平。",
       "translation": "RT @TheBronxViking: @unusual_whales正在举办7月4日促销活动，价格最高可享20%折扣！！！🐳🇺🇸🎆💰💰💰\n\n如果你想学习如何捕捉所有异常期权活动，将交易提升到新高度，那么现在就是你的机会🚨\n\n除了追踪资金流，@unusual_whales软件还包括大量功能，例如：暗池、市场地图、净溢价、希腊字母风险敞口、自定义资金流提醒/筛选器、日内关键价位、收益中心、分析师评级、内幕交易、国会交易、经济日历、市场潮汐、Mr. Whale AI等等🤯\n\n如果你交易期权，这款软件绝对必不可少IMO📠💵💵💵",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073104736551878709",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "1 in 3 men aged 20 and older are neither working nor looking for a job in the US, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2073104736551878709",
+    "published_at": "2026-07-03T18:01:00+00:00",
+    "fetched_at": "2026-07-04T11:18:34.501896+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到美国20岁及以上男性中，三分之一既不工作也不找工作，可能暗示劳动力参与率下降，消费能力减弱，对整体经济构成压力，对股市整体偏空。",
+      "translation": "据《华尔街日报》报道，美国20岁及以上男性中，有三分之一既不工作也不找工作。",
       "confidence": "high"
     }
   },
