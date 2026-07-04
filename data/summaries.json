@@ -25,49 +25,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$PLTR",
-      "$TSLA",
-      "$META",
-      "$NVDA",
-      "$MU"
+      "PLTR",
+      "MU",
+      "NVDA",
+      "TSLA",
+      "META"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资回报失望",
-      "宏观经济疲软",
-      "地缘政治风险",
-      "市场投机与泡沫",
-      "散户工具推广"
+      "AI投资回报低于预期",
+      "失业与消费疲软加剧经济焦虑",
+      "地缘政治风险与能源安全紧张",
+      "市场分化明显且泡沫风险升高",
+      "内部人士交易与政策关联受关注"
     ],
-    "recent_shift": "近期观点从关注AI炒作转向强调AI投资回报疲软和市场风险上升",
+    "recent_shift": "近期观点从关注AI和科技股涨势转向强调经济衰退风险、居民杠杆高企以及AI自动化带来的裁员回报令人失望。",
     "representative_quotes": [
-      "AI investments are a circular bet, as ROI disappoints",
-      "Gold has overtaken US government bonds as the world’s top reserve asset",
-      "The AI boom in global stock markets has become an unsustainable bubble"
+      "AI investments are a circular bet, as ROI disappoints.",
+      "The number of Americans facing unemployment for at least 27 weeks has climbed above 1.8 million on average this year.",
+      "The richest 20% are the only ones powering the U.S. economy."
     ],
-    "generated_at": "2026-07-04T17:56:58.953832+00:00"
+    "generated_at": "2026-07-04T20:27:30.829576+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
-      "$SK Hynix",
-      "$MU",
       "$NVDA",
-      "$AMAT"
+      "$MU",
+      "$ASX",
+      "$LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片主导AI产业链，海力士为绝对核心",
-      "玻璃基板与光纤加速推进，康宁成下一代AI底座",
-      "杠杆交易风险极大，仓位管理优于选股",
-      "物理AI和太空算力为长期方向但需谨慎"
+      "存储芯片（HBM和DRAM）供需紧张，海力士和美光业绩强劲",
+      "康宁玻璃基板是下一代AI芯片的唯一解决方案，扩产10倍带动业绩",
+      "AI基建早期，大厂巨额投入但AGI尚未到来，行业波动大"
     ],
-    "recent_shift": "最近对智能体前景转为悲观，认为Meta和国内公司投入意义不大，同时强调玻璃基板和康宁的重要性上升",
+    "recent_shift": "近期从极度看好海力士和存储，转为同时重仓康宁，并警惕杠杆风险，认为仓位管理比买对更重要。",
     "representative_quotes": [
-      "正股跌成这逼样了还能怎么跌。但2x千问别搞，不懂溢价和净值的要吃大亏",
-      "股票跌成这逼样了还能怎么跌。但2x千问别搞，不懂溢价和净值的要吃大亏",
-      "能健康的管理自己仓位已经赢过绝大多数人"
+      "玻璃基板，康宁 $GLW 光纤，康宁 $GLW 玻璃光学互连CPO，康宁 $GLW 英伟达投资扩产，康宁 $GLW 康宁 $GLW 简直是下一代AI算力的底座，中了狗屎运。",
+      "能健康的管理自己仓位已经赢过绝大多数人",
+      "存储的地位一年内都难以改变，安心等海力士7月23号发的1300亿美金的季度利润财报。"
     ],
-    "generated_at": "2026-07-04T09:34:43.685814+00:00"
+    "generated_at": "2026-07-04T20:27:34.149512+00:00"
   }
 }
