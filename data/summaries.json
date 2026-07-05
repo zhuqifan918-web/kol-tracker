@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "TRUMP",
+      "MU",
       "NVDA",
       "TSLA",
-      "AMZN",
-      "META",
-      "MU"
+      "AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "总统关联交易",
-      "AI投资泡沫与回报失望",
-      "消费者财务状况恶化",
-      "地缘政治风险（伊朗、俄乌）",
-      "市场结构脆弱与衰退预期"
+      "特朗普股票交易异常",
+      "AI泡沫与回调",
+      "美国经济衰退风险",
+      "市场集中度风险",
+      "地缘政治紧张"
     ],
-    "recent_shift": "近期观点从关注AI和科技股转向更广泛的经济衰退信号和消费者压力，凸显防御性姿态增强。",
+    "recent_shift": "近期焦点转向特朗普的内幕交易嫌疑，同时强调AI泡沫破裂信号增多",
     "representative_quotes": [
-      "The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million.",
-      "AI investments are a circular bet, as ROI disappoints.",
-      "Lower income Americans are literally running out of money at the end of the month. We're seeing negative cash flows in the lower-income brackets where they're dipping into savings."
+      "The timing stands out. Trump bought up to $530,000 of Micron Technology, $MU, stock in March 2026. He has since called $MU a \"great company\" after the chipmaker pledged $250 million to the president's Trump Accounts. Unusual.",
+      "AI investments are a circular bet, as ROI disappoints,",
+      "Lower income Americans are literally running out of money at the end of the month."
     ],
-    "generated_at": "2026-07-05T16:56:42.313392+00:00"
+    "generated_at": "2026-07-05T17:57:30.189896+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2073814412712952136",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The timing stands out.\n\nTrump bought up to $530,000 of Micron Technology, $MU, stock in March 2026.\n\nHe has since called $MU a \"great company\" after the chipmaker pledged $250 million to the president's Trump Accounts.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073814412712952136",
+    "published_at": "2026-07-05T17:01:00+00:00",
+    "fetched_at": "2026-07-05T17:57:10.396962+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出特朗普在2026年3月买入美光科技股票，随后该公司承诺向特朗普账户捐款2.5亿美元，特朗普公开称赞该公司。此举暗示存在潜在利益关联，可能对美光股价构成利好。",
+      "translation": "时机值得注意。特朗普在2026年3月买入了高达53万美元的美光科技股票。此后，在该芯片制造商承诺向特朗普账户捐款2.5亿美元后，特朗普称美光为“伟大的公司”。这不同寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073793206408667392",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
