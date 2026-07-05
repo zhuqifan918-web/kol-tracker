@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TRUMP",
-      "MU",
-      "NVDA",
-      "TSLA",
-      "AMZN"
+      "$TRUMP",
+      "$MU",
+      "$NVDA",
+      "$AMZN",
+      "$TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普股票交易异常",
-      "AI泡沫与回调",
-      "美国经济衰退风险",
-      "市场集中度风险",
-      "地缘政治紧张"
+      "经济衰退风险加剧",
+      "AI泡沫与投资回报不及预期",
+      "川普交易与时机的道德争议",
+      "地缘政治紧张局势",
+      "市场结构利好短期-长期不佳"
     ],
-    "recent_shift": "近期焦点转向特朗普的内幕交易嫌疑，同时强调AI泡沫破裂信号增多",
+    "recent_shift": "近期推文更加强调川普内幕交易嫌疑，经济数据恶化以及AI投资未见预期回报，表明看空情绪上升。",
     "representative_quotes": [
-      "The timing stands out. Trump bought up to $530,000 of Micron Technology, $MU, stock in March 2026. He has since called $MU a \"great company\" after the chipmaker pledged $250 million to the president's Trump Accounts. Unusual.",
-      "AI investments are a circular bet, as ROI disappoints,",
-      "Lower income Americans are literally running out of money at the end of the month."
+      "Trump purchased up to $530,000 of Micron Technology, $MU, stock in March 2026. He has since called $MU a 'great company' after the chipmaker pledged $250 million to the president's Trump Accounts. Unusual.",
+      "On July 23, 2025, Trump purchased up to $5 million of Broadcom, $AVGO, Meta, $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, & Nvidia, $NVDA. Later that day, the Trump admin unveiled its AI Action Plan, a policy that benefited those companies.",
+      "The share of households reporting a worse financial situation just hit the highest level in three years, per YF"
     ],
-    "generated_at": "2026-07-05T17:57:30.189896+00:00"
+    "generated_at": "2026-07-05T19:09:24.170004+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
