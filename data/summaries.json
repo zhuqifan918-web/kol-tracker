@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$META",
+      "$PLTR",
       "$TSLA",
       "$NVDA",
-      "$PLTR",
       "$MU"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资回报不及预期",
-      "经济疲软与消费恶化",
-      "市场集中度与泡沫风险",
-      "地缘政治与能源冲击",
-      "消费者债务危机"
+      "AI泡沫与回报失望",
+      "美国经济疲软与失业上升",
+      "通胀压力与加息预期",
+      "地缘政治风险（伊朗、乌克兰）",
+      "特朗普交易与政治关联市场"
     ],
-    "recent_shift": "近期从早期关注AI乐观预期转向强调AI支出受挫、就业恶化和市场泡沫信号。",
+    "recent_shift": "最新推文转向更明确唱空，强调AI投资回报低于预期、失业率长期攀升及消费者财务恶化。",
     "representative_quotes": [
       "AI investments are a circular bet, as ROI disappoints",
-      "Lower income Americans are literally running out of money at the end of the month",
-      "The K-shaped economy—with the well-to-do thriving and everyone else lagging—remains firmly intact"
+      "Lower income Americans are literally running out of money at the end of the month... negative cash flows in the lower-income brackets where they're dipping into savings",
+      "Gold has overtaken US government bonds as the world’s top reserve asset"
     ],
-    "generated_at": "2026-07-05T05:29:46.244238+00:00"
+    "generated_at": "2026-07-05T08:26:19.675138+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
