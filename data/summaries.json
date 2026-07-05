@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AMZN",
-      "MU",
-      "NVDA",
-      "TSLA",
-      "PLTR"
+      "$AXON",
+      "$AMZN",
+      "$MU",
+      "$NVDA",
+      "$TRUMP"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "政治关联交易",
-      "AI泡沫与回报下滑",
-      "经济衰退风险"
+      "总统可疑交易与内幕关联",
+      "AI投资泡沫与回报失望",
+      "宏观经济疲软与消费者压力",
+      "地缘政治风险与能源冲击",
+      "市场极端分化与衰退预期"
     ],
-    "recent_shift": "近期对股市泡沫警示增多，并强调政治内幕交易风险加大",
+    "recent_shift": "近期更聚焦于揭露总统交易中的异常时机和政策关联，语气更加怀疑和警告。",
     "representative_quotes": [
-      "The timing stands out. Trump bought up to $530,000 of Micron Technology, $MU, stock in March 2026. He has since called $MU a \"great company\"...",
-      "Before Trump paused tariffs and ignited a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million. The disclosures came more than a year late. The fine was just $200.",
-      "\"The AI boom in global stock markets has become an unsustainable bubble,\" per Wealspring Asset..."
+      "Weeks later, ICE sought a $220 million deal with the company, according to CNBC. Unusual.",
+      "On September 23, 2025, Trump bought up to $1 million of Amazon, $AMZN, stock. On September 25, 2025, Trump's FTC settled a major probe into Amazon... Unusual.",
+      "The number of Americans facing unemployment for at least 27 weeks has climbed above 1.8 million on average this year, per CNBC"
     ],
-    "generated_at": "2026-07-05T21:52:25.782502+00:00"
+    "generated_at": "2026-07-05T23:58:36.815321+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

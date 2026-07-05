@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2073905009750876535",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Here's another unusual Trump stock market trade.\n\nTrump bought up to $5 million of Axon, $AXON, stock in February.\n\nWeeks later, ICE sought a $220 million deal with the company, according to CNBC.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073905009750876535",
+    "published_at": "2026-07-05T23:01:00+00:00",
+    "fetched_at": "2026-07-05T23:58:14.112033+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXON"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普在2月买入高达500万美元的Axon股票，几周后ICE寻求与该公司达成2.2亿美元的交易，这一连串事件暗示可能有内幕消息或政策利好，对AXON构成潜在利好。",
+      "translation": "这是又一个不寻常的特朗普股市交易。特朗普在2月份买入了高达500万美元的Axon股票。几周后，据CNBC报道，ICE寻求与该公司达成2.2亿美元的交易。不寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073874810787054053",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -264,6 +285,34 @@
       "summary": "该推文预告将要分析总统的不寻常股票交易，但未提供具体交易细节或投资建议。",
       "translation": "今天，我们将重点介绍不寻常的总统股票交易。准备就绪。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2073738179338019282",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just high level Boston Dynamics + humanoid + automotive player directional thoughts: \n\nAs for their \"speculated suppliers\":\n\nSamsung Electro-Mechanics / $INTC\nLG Innotek vision sensing components into Atlas\nSamsung Electronics / Sk Hynix / $MU - Memory\n$NVDA - Jetson Thor compute\nGoogle DeepMind\nLG Energy Solution - reported BD Atlas battery supplier\n$CATL - Battery\nSPG Co / 에스피지 (058610.KQ) - Reducers / harmonic-drive-style robot gearing\nSL Corp / 에스엘 (005850.KRX) - leg-module supply contract with Boston Dynamics\nSOS Lab / 에스오에스랩 (464080.KQ) - Atlas LiDAR supplier expected\nSungwoo Hitech - Reported likely Atlas exterior-cover supplier\nHyundai Mobis - Atlas actuators; robot hand/gripper\nROBOTIS / 로보티즈 (108490.KQ) - Robot hand/gripper/robot actuators/servo modules\nHL Mando / HL만도 (204320.KRX) - Actuators / automotive motion-control parts\nABB (ABBN.SWX) - actuator supplier/ecosystem\nSamhyun / 삼현 (437730.KQ) - Smart actuators / motor-control auto parts\nSeoyon E-Hwa / 서연이화 (200880.KRX)~₩0.31T Auto interior/exterior parts; potential robot exterior \n\n- from some naver article that's getting passed around recently. \n\nAs for more Western names aside from the $GOOGl $NVDA / $MU types you have $AEVA  through LG innotek. \n\n$OUST was Velodyne legacy LiDAR agreement with BD Spot. Onsemi was SOS Lab LiDAR SPAD-array partner. \n\nAnd probably a few others since supply chain is large.\n_\n\nI'm actually not bullish on Boston Dynamics commercialization, even though I am for them technologically. \n\nSo personally speaking, if they're not mass producing 30K like unitree soon, going long on the upstream supply chain doesn't really make sense.\n\nGenerally speaking, auto players are very interesting to me for broad humanoid exposure. \n\nNames Schaeffler, which was working with ~45 humanoid makers, is probably in majority? But no confirmed proof yet. There's way too much robotics overlap with auto: eg. “70% of process and technology overlaps with cars”.\n\nAnd then have AI auto as another major growth vector per. $TSM chairmain (also for power semis too). \n\nSo feels like everything comes together for them auto players dragged down by downturns, so I would guess maybe 1 1/2 years, in 2028, things start to pick up for Western auto involved in humanoids. \n\nSince non-China supply chains (like Agibot/unitree) are first to market and already volume ramping compared to western counterparts.\n\nThere's other \"purer exposure\" component suppliers like $VPG and possibly $TSLA / Figure was my guess, but $150/robot that they revealed for mass production is a bit small considering you reach 50K mass production and that's around $7.5M revenue.\n\nSo upstream components for auto players for robotics doesn't move any needle unless you get to massive humanoid scale... \n\nwhich is why I've personally shifted to highest concentration for downstream players like Agility while valuations are relatively small. \n\nI still think we'll see an Anthropic/OpenAI type leader in the humanoid/robotics space soon before all the other physical ai suppliers in the sector get brought up beyond hype.   \n\nBut just informal personal thoughts I try and keep in mind moving forward with legacy auto players in a downturn + new growth vectors 2Y out",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073738179338019282",
+    "published_at": "2026-07-05T11:58:04+00:00",
+    "fetched_at": "2026-07-05T23:57:53.039127+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC",
+        "MU",
+        "NVDA",
+        "GOOGL",
+        "AEVA",
+        "OUST",
+        "VPG",
+        "TSLA"
+      ],
+      "direction": "bearish",
+      "summary": "作者认为波士顿动力等人形机器人短期内难以大规模量产（如Unitree的3万台），因此上游供应链（如零部件厂商）投资价值有限；更看好下游集成商（如Agility）及传统汽车零部件企业（如Schaeffler）的长期前景，但需等待1-2年后人形机器人放量。",
+      "translation": "对波士顿动力及人形机器人/汽车厂商的一些方向性思考：关于其“推测供应商”包括三星电机/英特尔、LG Innotek、三星电子/海力士/美光（存储器）、英伟达（Jetson Thor计算）、谷歌DeepMind、LG能源、宁德时代、SPG（谐波减速器）、SL Corp（腿模块）、SOS Lab（激光雷达）、Sungwoo Hitech（外壳）、现代摩比斯（执行器）、ROBOTIS（手/夹爪）、HL Mando（执行器）、ABB、Samhyun、Seoyon E-Hwa等，部分来自Naver文章。西方股票除GOOGL/NVDA/MU外，还有AEVA（通过LG Innotek）、OUST（Velodyne遗留LiDAR协议）、Onsemi（SPAD阵列）。供应链庞大。实际上我并不看好波士顿动力商业化，即使技术上认可。如果它们不能像宇树那样年产3万台，做多上游供应链意义不大。整体而言，汽车零部件企业很有趣，如舍弗勒与约45家人形机器人厂商合作，但无确证。机器人70%工艺与技术同汽车重叠。台积电主席也提到AI汽车是增长点。因此，受行业低迷拖累的汽车企业可能在2028年前后迎来转机，因非中国供应链（如Agibot/Unitree）率先放量。纯组件供应商如VPG、特斯拉/Figure每台机器人收入仅150美元，即使5万台也仅750万美元收入，对汽车企业规模而言微乎其微。所以我个人转向高浓度下游企业如Agility，估值相对小。我认为很快会有人形机器人领域的Anthropic/OpenAI式领导者出现，带动整个物理AI供应链。这只是我关注传统汽车企业在低迷期及两年后增长新方向的非正式想法。",
+      "confidence": "high"
     }
   },
   {
