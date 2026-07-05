@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2073844611639083424",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Susquehanna is attempting to unmask the identities of individuals it claims made at least $100 million trading on inside information about a Chinese government crackdown on cross-border brokerages last month, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073844611639083424",
+    "published_at": "2026-07-05T19:01:00+00:00",
+    "fetched_at": "2026-07-05T19:09:04.719882+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及内幕交易调查，但未提及具体股票或投资建议。市场可能关注监管风险，但信息不直接指向特定投资机会。",
+      "translation": "据彭博社报道，Susquehanna试图揭露那些声称通过内幕交易在中国政府对跨境券商上月进行打击中获利至少1亿美元的个人身份。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2073814412712952136",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -219,6 +238,25 @@
       "direction": "bearish",
       "summary": "扎克伯格承认公司AI代理系统进展不及预期，可能对Meta的AI业务前景和股价产生负面影响。",
       "translation": "扎克伯格在广泛重组中承认公司的AI代理系统进展未达预期，据路透社获得的录音显示。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073614344118779997",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "According to a report by Orgvue, 39% of business leaders made employees redundant due to AI deployment.\n\nRead more: https://t.co/2QriPLREQh",
+    "tweet_url": "https://x.com/unusual_whales/status/2073614344118779997",
+    "published_at": "2026-07-05T03:46:00+00:00",
+    "fetched_at": "2026-07-05T19:09:11.303122+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文暗示AI部署导致企业裁员，可能对就业市场和消费信心产生负面影响，进而影响整体市场情绪，对投资环境偏利空。",
+      "translation": "根据Orgvue的一份报告，39%的企业领导者因部署AI而裁员。",
       "confidence": "medium"
     }
   },
