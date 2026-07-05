@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2073621893811183779",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Zuckerberg acknowledged shortcomings in the company’s sweeping restructuring, saying the systems known as AI agents had not progressed as quickly as he had expected, according to a recording heard by Reuters.\n\nRead more: https://t.co/GxJMX2ZbOt",
+    "tweet_url": "https://x.com/unusual_whales/status/2073621893811183779",
+    "published_at": "2026-07-05T04:16:00+00:00",
+    "fetched_at": "2026-07-05T05:29:24.840494+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "扎克伯格承认公司AI代理系统进展不及预期，可能对Meta的AI业务前景和股价产生负面影响。",
+      "translation": "扎克伯格在广泛重组中承认公司的AI代理系统进展未达预期，据路透社获得的录音显示。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073527522315436390",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$META",
       "$TSLA",
       "$NVDA",
-      "$META",
-      "$AAPL",
-      "$PLTR"
+      "$PLTR",
+      "$MU"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI投资回报不确定性",
-      "美国经济K型分化",
-      "特朗普交易与政治套利",
-      "衰退风险与消费者疲软",
-      "石油与地缘政治风险"
+      "AI投资回报不及预期",
+      "经济疲软与消费恶化",
+      "市场集中度与泡沫风险",
+      "地缘政治与能源冲击",
+      "消费者债务危机"
     ],
-    "recent_shift": "近期更强调AI泡沫与资金转向，从早期对AI的乐观报道转为频繁提示AI开支削减、回报失望和资金轮动。",
+    "recent_shift": "近期从早期关注AI乐观预期转向强调AI支出受挫、就业恶化和市场泡沫信号。",
     "representative_quotes": [
-      "\"The AI stock rally is minting US millionaires at the fastest pace in 4 years,\" per YF",
-      "\"Lower income Americans are literally running out of money at the end of the month.\" per Kraft Heinz CEO.",
-      "\"AI investments are a circular bet, as ROI disappoints,\" per Bain."
+      "AI investments are a circular bet, as ROI disappoints",
+      "Lower income Americans are literally running out of money at the end of the month",
+      "The K-shaped economy—with the well-to-do thriving and everyone else lagging—remains firmly intact"
     ],
-    "generated_at": "2026-07-05T01:15:58.981887+00:00"
+    "generated_at": "2026-07-05T05:29:46.244238+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
