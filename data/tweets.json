@@ -1,5 +1,50 @@
 [
   {
+    "tweet_id": "2073867745243127973",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Technologies\n8. $AMZN Robotics\n9. Covariant\n10. Skild AI \n\nAs the National Champions of the United States robotics program. \n\n\"The United States leads the world in where robotics is heading: Fundation models, OpenAI-style scaling laws applied to action, autonomous vehicles. \n\nWhile losing the race on where robotics is shipping today.\" \n\nThen it frames:\n\n1. Rare Earths Exposure: from Neodymium for motors to samarium-cobalt for high-temp applications as a critical vulnerability.\n\n2. Actuator dependency. Series elastic actuators, quasi-direct-drive motors, and precision reducers overwhelmingly sourced from Japan, Germany, and China\n\nAs one of the main vulnerabilities alongside Manufacturing velocity/data collection cost/regulations. Then their take was: \n\n\"With at least six well-funded US humanoid companies competing for a market still in early formation, we expect at least two significant consolidation events (acquisition or merger) in 2027\". \n\nWith Logistics / E-commerce (like $AMZN / $FDX) and Automotive from $GM to $FORD as being the immediate top use cases for deployment.\n\nI think it's just interesting to see a lot of my points I've been talking about reiterated by research firms. Regardless, I do think it's going to be a major frontier race between the US and China. \n\nAgility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA. Competing against Unitree, AGIbot, Ubtech, and others in China.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+    "published_at": "2026-07-05T20:32:55+00:00",
+    "fetched_at": "2026-07-05T20:33:57.123352+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "TSLA",
+        "AMZN",
+        "FDX",
+        "GM",
+        "FORD"
+      ],
+      "direction": "bullish",
+      "summary": "该推文引用SVRC Research报告，指出美国在人形机器人领域领先，但面临稀土和驱动器依赖等供应链脆弱性。推荐关注Agility Robotics（已持有）、Tesla、Figure、Apptronik等美国领军企业，以及亚马逊、联邦快递等物流电商应用场景，预期2027年将有行业整合。整体观点看好美国机器人赛道，尤其看好人形机器人产业链长期投资机会。",
+      "translation": "我偶然看到一份SVRC Research在四月份发布的名为《2026年机器人行业现状》的报告，其中列出了美国机器人项目的国家冠军企业：Figure AI、Agility Robotics ($CCXI)、Apptronik、$TSLA、Boston Dynamics、Physical Intelligence、1X Technologies、$AMZN Robotics、Covariant、Skild AI。报告指出，美国在机器人技术的前沿方向（如基础模型、类OpenAI的缩放定律应用于行动、自动驾驶）上领先世界，但在当前实际出货的机器人领域却正在输掉竞争。报告将中国稀土暴露（从电机需要的钕到高温应用的钐钴）和驱动器依赖（弹性串联驱动器、准直驱电机、精密减速器主要从日本、德国、中国进口）列为主要脆弱性，同时提到制造速度、数据采集成本、法规等问题。报告预测，由于至少六家资金充足的美国人形机器人公司在一个仍处于早期形成的市场竞争，2027年预计至少发生两起重大整合事件（收购或合并）。物流/电商（如$AMZN/$FDX）和汽车行业（从$GM到$FORD）被认为是当前最直接的应用场景。我认为有趣的是，许多我一直在讲的观点被研究机构重申了。无论如何，我认为美中之间将有一场重大前沿竞赛。Agility Robotics（我持有股份）、Tesla、Figure和Apptronik将代表美国，与中国的Unitree、AGIbot、Ubtech等公司竞争。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073859711116714353",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This is unusual.\n\nBefore Trump paused tariffs and ignited a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million.\n\nThe disclosures came more than a year late. \n\nThe fine was just $200.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073859711116714353",
+    "published_at": "2026-07-05T20:01:00+00:00",
+    "fetched_at": "2026-07-05T20:34:23.359741+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文暗示美国总统特朗普在暂停关税并引发市场大涨前，其账户购买了327只股票，价值高达1280万美元，但相关披露延迟一年多，仅被罚款200美元，存在潜在的内幕交易或利益冲突问题。",
+      "translation": "这很不寻常。在特朗普暂停关税并引发历史性的10%市场反弹之前，他的账户购买了327只股票，价值高达1280万美元。这些披露迟到了一年多。罚款仅为200美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073844611639083424",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
