@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$CCXI",
-      "$META",
       "$SIVE",
       "$AAOI",
-      "$AMZN"
+      "$META",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人形机器人与人类替代",
-      "光子学瓶颈与CPO技术",
-      "AI基础设施与算力竞赛",
-      "供应链瓶颈投资",
-      "美国制造与机器人国策"
+      "人工智能基础设施建设",
+      "光子学与光学瓶颈",
+      "人形机器人商业化",
+      "供应链紧缺与涨价",
+      "地缘政治与国家安全竞争"
     ],
-    "recent_shift": "近期从AI基础设施（如存储与光子学）转向更加关注人形机器人商业化与物理AI，并认为机器人将是下一波主线。",
+    "recent_shift": "从早期泛主题关注转向更具体的人形机器人整机（Agility Robotics）和光子学上游激光器（Sivers），同时对市场短期波动保持看涨但更注重基本面验证。",
     "representative_quotes": [
-      "It's clear to me and VC apparently that we’ve just hit the inflection point where soon: majority of labor you think is human-only, can be replaced by robotics/humanoids.",
-      "I'm bearish on humans. Hard to see people still having a job if humanoids come out at <$15K mass production.",
-      "The entire optical components industry today is facing a severe shortage of critical components."
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
+      "With $AAOI at $10B, you have: A end-to-end US laser/design/assembly player projecting $471m month revenue H1 entering H2 2027.",
+      "I'm still personally bullish on the AI buildout + upstream AI capex beneficiaries, but 1-2 potential rate hikes certainly don't help."
     ],
-    "generated_at": "2026-07-04T22:26:44.737170+00:00"
+    "generated_at": "2026-07-05T10:36:10.529847+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
