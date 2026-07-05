@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2073874810787054053",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Consider this.\n\nOn September 23, 2025, Trump bought up to $1 million of Amazon, $AMZN, stock.\n\nOn September 25, 2025, Trump's FTC settled a major probe into Amazon over alleged deceptive Prime enrollment practices.\n\nUnusual.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073874810787054053",
+    "published_at": "2026-07-05T21:01:00+00:00",
+    "fetched_at": "2026-07-05T21:52:10.379342+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bearish",
+      "summary": "特朗普在9月23日买入高达100万美元的亚马逊股票，两天后其主导的FTC就结束了对亚马逊的调查。这种时间关联暗示可能存在内幕交易或利益冲突，对亚马逊股价构成负面信号。",
+      "translation": "考虑一下。2025年9月23日，特朗普购买了高达100万美元的亚马逊（$AMZN）股票。2025年9月25日，特朗普的FTC就亚马逊涉嫌欺骗性Prime注册行为的重大调查达成和解。不寻常。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073867745243127973",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

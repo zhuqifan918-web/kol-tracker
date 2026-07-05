@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MU",
       "AMZN",
+      "MU",
       "NVDA",
       "TSLA",
-      "META"
+      "PLTR"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "总统股票交易嫌疑",
-      "经济衰退风险",
-      "AI泡沫与裁员",
-      "地缘政治紧张",
-      "消费者财务恶化"
+      "政治关联交易",
+      "AI泡沫与回报下滑",
+      "经济衰退风险"
     ],
-    "recent_shift": "近期强调特朗普交易时机可疑及市场高位指标，与此前市场上涨形成对比。",
+    "recent_shift": "近期对股市泡沫警示增多，并强调政治内幕交易风险加大",
     "representative_quotes": [
-      "Trump purchased up to $530,000 of Micron Technology, $MU, stock in March 2026. He has since called $MU a 'great company' after the chipmaker pledged $250 million to the president's Trump Accounts. Unusual.",
-      "The share of households reporting a worse financial situation just hit the highest level in three years, per YF",
-      "'The AI stock rally is minting US millionaires at the fastest pace in 4 years,' per YF"
+      "The timing stands out. Trump bought up to $530,000 of Micron Technology, $MU, stock in March 2026. He has since called $MU a \"great company\"...",
+      "Before Trump paused tariffs and ignited a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million. The disclosures came more than a year late. The fine was just $200.",
+      "\"The AI boom in global stock markets has become an unsustainable bubble,\" per Wealspring Asset..."
     ],
-    "generated_at": "2026-07-05T20:34:40.051227+00:00"
+    "generated_at": "2026-07-05T21:52:25.782502+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
