@@ -27,25 +27,25 @@
     "focus_tickers": [
       "NVDA",
       "TSLA",
-      "META",
       "AMZN",
-      "AAPL"
+      "META",
+      "MU"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "美股高位警戒",
-      "AI投资回报不均",
-      "地缘政治风险上升",
-      "消费经济疲软",
-      "市场分化加剧"
+      "总统关联交易",
+      "AI投资泡沫与回报失望",
+      "消费者财务状况恶化",
+      "地缘政治风险（伊朗、俄乌）",
+      "市场结构脆弱与衰退预期"
     ],
-    "recent_shift": "近期观点从对AI和宏观经济的乐观转向更谨慎，强调AI投资回报不佳、消费衰退信号增多以及市场出现分化。",
+    "recent_shift": "近期观点从关注AI和科技股转向更广泛的经济衰退信号和消费者压力，凸显防御性姿态增强。",
     "representative_quotes": [
-      "\"AI investments are a circular bet, as ROI disappoints,\" per Bain.",
-      "\"Lower income Americans are literally running out of money at the end of the month...\" per Kraft Heinz CEO.",
-      "The share of households reporting a worse financial situation just hit the highest level in three years, per YF"
+      "The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million.",
+      "AI investments are a circular bet, as ROI disappoints.",
+      "Lower income Americans are literally running out of money at the end of the month. We're seeing negative cash flows in the lower-income brackets where they're dipping into savings."
     ],
-    "generated_at": "2026-07-05T15:44:35.950749+00:00"
+    "generated_at": "2026-07-05T16:56:42.313392+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
