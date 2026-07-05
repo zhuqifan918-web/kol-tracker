@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2073527522315436390",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Lower income Americans are literally running out of money at the end of the month. We're seeing negative cash flows in the lower-income brackets where they're dipping into savings,\" per Kraft Heinz CEO.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073527522315436390",
+    "published_at": "2026-07-04T22:01:00+00:00",
+    "fetched_at": "2026-07-05T01:15:46.465684+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KHC"
+      ],
+      "direction": "bearish",
+      "summary": "卡夫亨氏CEO指出低收入美国人月末资金紧张，出现负现金流并动用储蓄。这可能预示着消费需求疲软，对KHC等消费品公司构成负面信号。",
+      "translation": "卡夫亨氏CEO表示，低收入美国人每月末实际上都在耗尽资金。我们看到低收入阶层的现金流为负，他们在动用储蓄。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073523410643366242",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
