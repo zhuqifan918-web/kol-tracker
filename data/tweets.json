@@ -1,5 +1,74 @@
 [
   {
+    "tweet_id": "2073769114410115093",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Alibaba reportedly bans employees from using Claude Code, per TC",
+    "tweet_url": "https://x.com/unusual_whales/status/2073769114410115093",
+    "published_at": "2026-07-05T14:01:00+00:00",
+    "fetched_at": "2026-07-05T14:15:03.262637+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BABA"
+      ],
+      "direction": "bearish",
+      "summary": "阿里巴巴禁止员工使用Claude Code，这可能反映出公司在AI工具使用上的限制或内部管理问题，短期内对股价构成负面影响。",
+      "translation": "据报道，阿里巴巴禁止员工使用Claude Code，来源：The Verge/TC。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073763512216899825",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck):\n\n- Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. \n- As demand from data centers has increased, production of Samsung SDI's cylindrical cells has also risen sharply.\n- Industry sources said Panasonic, Samsung are experiencing supply shortages for BBU cells.\n\nSo main beneficiaries imo look like:\n\n- Samsung SDI (KRX: 006400) / Panasonic Energy  as cleaneset winners\n- Murata (6981) / this keeps showing up everywhere with MLCC and others lol\n- LG Energy (KRX: 373220) / incoming\n\nThere's not really much direct US players? But adjacent read through like $VRT, $ETN or $BWA / $ENS. Not quite in my domain emphasis cup of tea though. \n\nI wouldn't conflate this as all shortages having a massive TAM, but there could be opportunities...",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073763512216899825",
+    "published_at": "2026-07-05T13:38:44+00:00",
+    "fetched_at": "2026-07-05T14:14:37.437935+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "006400",
+        "6981",
+        "373220",
+        "VRT",
+        "ETN",
+        "BWA",
+        "ENS"
+      ],
+      "direction": "bullish",
+      "summary": "推特指出三星SDI、松下等圆柱电池/BBU电池出现供应短缺，受益者为三星SDI、松下能源、村田、LG能源等，而美国相关公司如VRT、ETN、BWA、ENS也有间接利好。整体看多电池及数据中心相关产业链。",
+      "translation": "看起来高功率圆柱电池/BBU电池存在短缺（即：瓶颈）：\n- 三星SDI向新普提供电池，新普将其组装成BBU供Meta和亚马逊。\n- 随着数据中心需求增加，三星SDI的圆柱电池产量也大幅上升。\n- 行业消息称，松下、三星正面临BBU电池供应短缺。\n所以主要受益者在我看来是：\n- 三星SDI/松下能源是最直接的赢家\n- 村田（6981）/它在MLCC和其他领域也随处可见\n- LG能源（373220）/即将受益\n没有太多直接的美国参与者？但间接相关如VRT、ETN、BWA/ENS。不过这不是我专长的领域。\n我不认为所有短缺都意味着巨大的市场规模，但可能存在机会……",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073758041162526992",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, has officially launched a partnership program that allows fast-growing AI startups to swap high-performance computing power for a percentage of future product and cloud revenues, per CNBC.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073758041162526992",
+    "published_at": "2026-07-05T13:17:00+00:00",
+    "fetched_at": "2026-07-05T14:15:05.584994+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达推出合作伙伴计划，向AI初创公司提供高性能计算能力以换取未来收入分成，这有助于其扩展AI生态并获取长期收益，对公司前景构成利好。",
+      "translation": "英伟达（$NVDA）正式启动了一项合作伙伴计划，允许快速增长的AI初创公司用高性能计算能力换取未来产品和云收入的一定比例，据CNBC报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2073704784398528599",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

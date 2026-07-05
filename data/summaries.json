@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$CCXI",
-      "$SIVE",
-      "$AAOI",
-      "$META",
-      "$MU"
+      "SIVE",
+      "CCXI",
+      "META",
+      "AAOI",
+      "SIVE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施建设",
-      "光子学与光学瓶颈",
-      "人形机器人商业化",
-      "供应链紧缺与涨价",
-      "地缘政治与国家安全竞争"
+      "光子学瓶颈与供应链紧缺",
+      "人形机器人与物理AI的商业化爆发",
+      "AI基础设施与数据中心资本支出持续扩张"
     ],
-    "recent_shift": "从早期泛主题关注转向更具体的人形机器人整机（Agility Robotics）和光子学上游激光器（Sivers），同时对市场短期波动保持看涨但更注重基本面验证。",
+    "recent_shift": "从单纯关注光子学瓶颈转向更加强调人形机器人/物理AI的IPO机会和供应链上游标的。",
     "representative_quotes": [
-      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
-      "With $AAOI at $10B, you have: A end-to-end US laser/design/assembly player projecting $471m month revenue H1 entering H2 2027.",
-      "I'm still personally bullish on the AI buildout + upstream AI capex beneficiaries, but 1-2 potential rate hikes certainly don't help."
+      "Bruh, when I first tried out ChatGPT around 2023, I thought it LLMs were garbage at coding. 3Y later, Mythos is considered a modern day “nuke” for cybersecurity.",
+      "I wouldn't conflate this as all shortages having a massive TAM, but there could be opportunities...",
+      "Hard to see people still having a job if humanoids come out at <$15K mass production. No insurance, no JP Morgan HR cannon scandals."
     ],
-    "generated_at": "2026-07-05T10:36:10.529847+00:00"
+    "generated_at": "2026-07-05T14:15:31.161943+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$PLTR",
-      "$TSLA",
-      "$NVDA",
-      "$MU"
+      "NVDA",
+      "PLTR",
+      "META",
+      "TSLA",
+      "MU"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与回报失望",
-      "美国经济疲软与失业上升",
-      "通胀压力与加息预期",
-      "地缘政治风险（伊朗、乌克兰）",
-      "特朗普交易与政治关联市场"
+      "AI投资回报争议",
+      "宏观经济疲软与消费压力",
+      "特朗普交易与政治风险",
+      "美国失业率走高与长期失业问题",
+      "地缘政治风险（伊朗、乌克兰）"
     ],
-    "recent_shift": "最新推文转向更明确唱空，强调AI投资回报低于预期、失业率长期攀升及消费者财务恶化。",
+    "recent_shift": "近期对AI投资回报的悲观情绪明显增加，此前更为乐观。",
     "representative_quotes": [
-      "AI investments are a circular bet, as ROI disappoints",
-      "Lower income Americans are literally running out of money at the end of the month... negative cash flows in the lower-income brackets where they're dipping into savings",
-      "Gold has overtaken US government bonds as the world’s top reserve asset"
+      "AI investments are a circular bet, as ROI disappoints.",
+      "\"Layoffs driven by AI automation are largely failing to generate expected financial returns.\"",
+      "\"The AI boom in global stock markets has become an unsustainable bubble.\""
     ],
-    "generated_at": "2026-07-05T08:26:19.675138+00:00"
+    "generated_at": "2026-07-05T14:15:33.845637+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
