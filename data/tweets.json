@@ -1,5 +1,78 @@
 [
   {
+    "tweet_id": "2073793206408667392",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some consolidated updates on memory: \n\n-  $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized.\n\n- Morgan Stanley pointed out NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy alongisde $SIMO and upstream.\n\n- MS remains especially positive on Macronix/Winbond\n\n- UBS expects the average price of DDR contracts in the Q3 2026 to increase 32% | 18% Q4, vs. 17% and 12% est. \n\n- UBS expects NAND flash to be raised 30% from prev quarter. \n\n- Samsung reportedly plans 20% DRAM hike Q3. TrendForce recently forecast DRAM contract prices to rise 13 to 18 percent in the third quarter from the previous quarter, so this hike beats expectations.\n\nSomething to note:\n\nLot people see 20%... and don't think it's a lot compared to the 70-80% from previous quarters. \n\nBut if you hike something by 100%, then hike something by 100%, then hike something by 30%, it's a lot more than people estimate since it's compounded. Similar to tracking inflation. \n\nI've already made projections going into 2028 from the start of the year on my memory names... \n\nI'm just sitting back and watching things play out through all the \"memory optimization\" and \"they can't keep price hiking like this!\" noise.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+    "published_at": "2026-07-05T15:36:44+00:00",
+    "fetched_at": "2026-07-05T15:43:36.880019+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "DISCO",
+        "ADVTEST",
+        "RESONAC",
+        "TOWA",
+        "SNDK",
+        "KIOXIA",
+        "SIMO",
+        "MACRONIX",
+        "WINBOND",
+        "SAMSUNG"
+      ],
+      "direction": "bullish",
+      "summary": "该推文基于多家机构预测和厂商行动，对内存行业前景持强烈看涨态度。关键利好包括：美光在广岛的大规模投资、摩根士丹利预计NAND供应短缺至2027年、瑞银上调DDR和NAND涨价预期、三星计划20%的DRAM提价超出市场预期。作者认为价格涨幅虽相比前期放缓，但复合效应显著，并已提前布局至2028年。",
+      "translation": "刚刚整理了一些内存方面的最新消息：\n- 美光引领日本广岛1.5万亿日元（约93亿美元）新投资，利好Disco、Advantest、Resonac、Towa等本土设备商。\n- 摩根士丹利指出NAND供应将持续紧张至2027年，利好SNDK/Kioxia等厂商以及SIMO和上游。\n- 摩根士丹利特别看好Macronix和Winbond。\n- 瑞银预计2026年第三季度DDR合约均价将环比上涨32%，第四季度上涨18%，远高于之前预期的17%和12%。\n- 瑞银预计NAND闪存价格将较上季度上涨30%。\n- 三星计划第三季度DRAM提价20%，而TrendForce此前预测为13-18%，提价幅度超预期。\n\n需要留意的是：\n许多人看到20%就认为远不如前几个季度的70-80%涨幅。\n但如果你先提价100%，再提价100%，然后提价30%，累积下来的涨幅远超直觉——就像跟踪通胀一样。\n我从年初就开始对内存股进行直到2028年的预测……\n现在我只是坐看结果，无视那些“内存优化”、“不能一直这样提价”的噪音。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073792079445316057",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "三星7.7财报 https://t.co/EUs6gHaPhs",
+    "tweet_url": "https://x.com/xiaomustock/status/2073792079445316057",
+    "published_at": "2026-07-05T15:32:15+00:00",
+    "fetched_at": "2026-07-05T15:43:55.778990+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "005930"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到三星7.7财报，暗示有重要财务数据发布。需要进一步查看链接内容以判断市场影响。",
+      "translation": "三星7.7财报",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073784213825028124",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump received $10.7 million licensing fee from Amazon, $AMZN, for 'Melania' documentary",
+    "tweet_url": "https://x.com/unusual_whales/status/2073784213825028124",
+    "published_at": "2026-07-05T15:01:00+00:00",
+    "fetched_at": "2026-07-05T15:44:06.999235+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "neutral",
+      "summary": "该推文揭示了特朗普从亚马逊获得1070万美元的授权费，用于《梅拉尼娅》纪录片，但对亚马逊股价的直接影响尚不明确，属于中性信息。",
+      "translation": "特朗普从亚马逊获得了1070万美元的授权费，用于《梅拉尼娅》纪录片。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073769114410115093",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

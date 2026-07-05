@@ -1,72 +1,72 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "CCXI",
-      "META",
+      "SIVE",
+      "MU",
       "AAOI",
-      "SIVE"
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈与供应链紧缺",
-      "人形机器人与物理AI的商业化爆发",
-      "AI基础设施与数据中心资本支出持续扩张"
+      "半导体供应链瓶颈与涨价周期",
+      "人形机器人商用化与产业链受益标的",
+      "AI算力基础设施持续扩张",
+      "光子学与CPO技术路线放量预期",
+      "中国市场自动化与机器人替代趋势"
     ],
-    "recent_shift": "从单纯关注光子学瓶颈转向更加强调人形机器人/物理AI的IPO机会和供应链上游标的。",
+    "recent_shift": "近期从单纯的半导体设备与存储涨价主题，进一步聚焦于人形机器人（如Agility Robotics）、光子学（如Sivers）和AI算力需求的结构性增长。",
     "representative_quotes": [
-      "Bruh, when I first tried out ChatGPT around 2023, I thought it LLMs were garbage at coding. 3Y later, Mythos is considered a modern day “nuke” for cybersecurity.",
-      "I wouldn't conflate this as all shortages having a massive TAM, but there could be opportunities...",
-      "Hard to see people still having a job if humanoids come out at <$15K mass production. No insurance, no JP Morgan HR cannon scandals."
+      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next.",
+      "I'm just waiting for both volume ramps to hit. Photonics are generally more volatile than the rest.",
+      "Feels like a lot of things are starting to make more sense connection wise?"
     ],
-    "generated_at": "2026-07-05T14:15:31.161943+00:00"
+    "generated_at": "2026-07-05T15:44:33.199561+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "PLTR",
-      "META",
       "TSLA",
-      "MU"
+      "META",
+      "AMZN",
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资回报争议",
-      "宏观经济疲软与消费压力",
-      "特朗普交易与政治风险",
-      "美国失业率走高与长期失业问题",
-      "地缘政治风险（伊朗、乌克兰）"
+      "美股高位警戒",
+      "AI投资回报不均",
+      "地缘政治风险上升",
+      "消费经济疲软",
+      "市场分化加剧"
     ],
-    "recent_shift": "近期对AI投资回报的悲观情绪明显增加，此前更为乐观。",
+    "recent_shift": "近期观点从对AI和宏观经济的乐观转向更谨慎，强调AI投资回报不佳、消费衰退信号增多以及市场出现分化。",
     "representative_quotes": [
-      "AI investments are a circular bet, as ROI disappoints.",
-      "\"Layoffs driven by AI automation are largely failing to generate expected financial returns.\"",
-      "\"The AI boom in global stock markets has become an unsustainable bubble.\""
+      "\"AI investments are a circular bet, as ROI disappoints,\" per Bain.",
+      "\"Lower income Americans are literally running out of money at the end of the month...\" per Kraft Heinz CEO.",
+      "The share of households reporting a worse financial situation just hit the highest level in three years, per YF"
     ],
-    "generated_at": "2026-07-05T14:15:33.845637+00:00"
+    "generated_at": "2026-07-05T15:44:35.950749+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "$MU",
-      "$MRVL",
-      "$LITE",
-      "$COHR"
+      "SK Hynix",
+      "GLW",
+      "MU",
+      "NVDA",
+      "ASX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（HBM/DRAM）供需紧张与涨价周期",
-      "AI基建（英伟达链、玻璃基板、光互连）长期确定性",
-      "康宁（GLW）作为下一代AI芯片底座（玻璃基板+光纤）",
-      "大市值核心资产（海力士、康宁）持有信仰",
-      "杠杆与仓位管理风险警示"
+      "存储芯片是AI革命的核心，海力士是最佳标的",
+      "康宁GLW受益于玻璃基板和光纤，是英伟达下一代芯片的关键供应商",
+      "AI基建供不应求，长期看多，短期波动正常"
     ],
-    "recent_shift": "近期从聚焦存储芯片（海力士、美光）逐步转向强调玻璃基板（康宁）的长期十倍级确定性，同时意识到杠杆风险并回归正股仓位。",
+    "recent_shift": "近期从重仓存储芯片（海力士）转向部分配置康宁GLW和日月光ASX，认为康宁等新领域有更大爆发潜力。",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。天壤之别。大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。",
-      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
-      "能健康的管理自己仓位已经赢过绝大多数人。即使买对215刀的康宁，如果上杠杆...昨天一来一回可能人没了。"
+      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
+      "康宁GLW 简直是下一代AI算力的底座，中了狗屎运。",
+      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！"
     ],
-    "generated_at": "2026-07-05T12:10:20.844582+00:00"
+    "generated_at": "2026-07-05T15:44:38.803396+00:00"
   }
 }
