@@ -142,6 +142,25 @@
     }
   },
   {
+    "tweet_id": "2073754015012384844",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Today, we are going to highlight unusual Presidential stock trades.\n\nGet ready.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073754015012384844",
+    "published_at": "2026-07-05T13:01:00+00:00",
+    "fetched_at": "2026-07-05T16:56:18.749527+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文预告将要分析总统的不寻常股票交易，但未提供具体交易细节或投资建议。",
+      "translation": "今天，我们将重点介绍不寻常的总统股票交易。准备就绪。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2073704784398528599",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -198,6 +217,25 @@
       "direction": "neutral",
       "summary": "该推文提及Polymarket预测市场显示俄乌年底前停火概率为21%，对金融市场可能产生地缘政治风险影响，但未直接提供投资建议。",
       "translation": "根据Polymarket数据，乌克兰与俄罗斯在12月31日前达成停火的可能性为21%。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2073553972497891679",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "France has advaned to the World Cup quarter final.\n\n36% chance they win, per Polymarket: https://t.co/QXITJ9dsve",
+    "tweet_url": "https://x.com/unusual_whales/status/2073553972497891679",
+    "published_at": "2026-07-04T23:46:06+00:00",
+    "fetched_at": "2026-07-05T16:56:31.817714+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及法国队进入世界杯四分之一决赛，并根据Polymarket预测其夺冠概率为36%。这属于体育赛事预测市场信息，可能对涉及法国队或世界杯相关投注有参考价值，但并非传统投资标的。",
+      "translation": "法国队已晋级世界杯四分之一决赛。根据Polymarket，他们有36%的概率夺冠。",
       "confidence": "low"
     }
   },
