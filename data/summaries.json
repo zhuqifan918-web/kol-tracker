@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AMD",
-      "$MSFT",
+      "$MU",
       "$NVDA",
       "$AMZN",
-      "$META"
+      "$META",
+      "$MSFT"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场情绪恶化与消费者财务压力",
-      "人工智能投资回报存疑与泡沫警示",
-      "股市集中度与流动性风险加剧",
-      "特朗普交易引发利益冲突争议",
-      "地缘政治与能源市场不确定性"
+      "股市风险警示",
+      "川普交易争议",
+      "AI投资回报不确定性",
+      "劳动力市场疲软",
+      "地缘政治风险"
     ],
-    "recent_shift": "近期推文负面情绪明显加重，从早先个别乐观评论转向更频繁强调经济疲软、失业上升和AI泡沫风险。",
+    "recent_shift": "近期推特从关注科技利好转向更多负面新闻及政治交易质疑，情绪明显偏悲观。",
     "representative_quotes": [
       "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\"",
-      "43.7% of consumer households that reported being worse off financially than one year ago, per YF.",
-      "\"AI investments are a circular bet, as ROI disappoints,\" per Bain."
+      "Investors are turning away from US stocks at the fastest pace since March, per Bank of America.",
+      "Trump purchased huge amounts of stock before policy moves that benefited those companies—unusual."
     ],
-    "generated_at": "2026-07-06T15:00:43.558482+00:00"
+    "generated_at": "2026-07-06T17:45:15.203402+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
