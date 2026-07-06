@@ -1,5 +1,104 @@
 [
   {
+    "tweet_id": "2074214669808717906",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "It’s interesting to witness psychology around valuation anchoring + scarcity.\n\nRetail, for example, are buying Figure, last valued at ~$39B through CEFs…\n\nAt $158B, since it’s private, round 4x valuations. \n\nThen Agility Robotics $CCXI, which has broader commercialization. \n\nIs at ~$4.3B pre-money and publicly available before the name change. At closer pricing that $AMZN, $NVDA, SoftBank, and Foxconn vaulted it at.\n\nYet some end up paying 4-5x prices of already hiked private investor rounds for exposure…\n\nI’m convinced if Agility raised a very small private round at $39B as well from $2.5B (which it definitely could), to set a valuation anchor.\n\nInvestors would be foaming in the mouth for a private allocation, just due to psychology rather than underlying fundamentals. \n\nWe’ve also seen this anchoring with $SPCX recently at $1.75T.\n\nPeak market inefficiency? Or lack of knowledge from retail?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074214669808717906",
+    "published_at": "2026-07-06T19:31:28+00:00",
+    "fetched_at": "2026-07-06T19:42:51.280836+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论了零售投资者因估值锚定和稀缺心理，为私人公司（如Figure）支付过高溢价的现象，并指出Agility Robotics（$CCXI）估值较低且有更广泛的商业化，但投资者仍倾向于追逐高估值的私人配售。作者认为这是市场低效或零售投资者缺乏知识的体现。",
+      "translation": "观察围绕估值锚定和稀缺性的心理很有意思。例如，零售投资者通过CEF购买Figure，其最新估值约为390亿美元……而私人市场的估值已达到1580亿美元，是先前估值的4倍。相比之下，Agility Robotics（$CCXI）有更广泛的商业化，其上市前估值约为43亿美元，且以接近亚马逊、英伟达、软银和富士康给予的估值公开交易。然而，有些人最终为已经抬高的私人投资者轮次支付4-5倍的价格以获取敞口……我确信，如果Agility以390亿美元的估值（从25亿美元起步）进行一小轮私人融资以设定估值锚点，投资者会因心理而非基本面而争抢私人配售。我们最近在$SPCX上也看到了这种锚定现象，其估值达到1.75万亿美元。这是市场极度低效，还是零售投资者缺乏知识？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074200959543382301",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: \"Every time I see a crypto guy where they dropped an investigation, I said, 'You're lucky I'm president.'\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2074200959543382301",
+    "published_at": "2026-07-06T18:37:00+00:00",
+    "fetched_at": "2026-07-06T19:43:19.787241+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普暗示对加密货币友好的政策倾向，可能提升市场对加密行业的信心，利好整体加密货币市场。",
+      "translation": "特朗普：“每次我看到一个加密货币从业者被撤销调查，我会说，‘你很幸运我是总统。’”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074195926411833490",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says he believes the stock market is “going to go through the roof.”",
+    "tweet_url": "https://x.com/unusual_whales/status/2074195926411833490",
+    "published_at": "2026-07-06T18:17:00+00:00",
+    "fetched_at": "2026-07-06T19:43:22.332385+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普认为股市将会大幅上涨，暗示乐观情绪，但缺乏具体标的或分析。",
+      "translation": "突发：特朗普表示他认为股市“将一飞冲天”。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2074192239459467536",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "在海力士adr的sec文件中，\nOpenAI 股神 Leopold的基金Situational Awareness，准备认购70亿美金的海力士 https://t.co/zWHW38Jtv6",
+    "tweet_url": "https://x.com/xiaomustock/status/2074192239459467536",
+    "published_at": "2026-07-06T18:02:21+00:00",
+    "fetched_at": "2026-07-06T19:43:08.434424+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "HBM"
+      ],
+      "direction": "bullish",
+      "summary": "消息称OpenAI投资者Leopold旗下基金计划认购海力士（SK Hynix）70亿美元ADR，表明对半导体存储芯片及AI基础设施的强烈看好，对海力士构成重大利好。",
+      "translation": "在海力士ADR的SEC文件中，OpenAI和股神Leopold的基金Situational Awareness，准备认购70亿美元的海力士。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074190893192475025",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Treasury has an internal report warning about the risks of an AI bubble, per NOTUS.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074190893192475025",
+    "published_at": "2026-07-06T17:57:00+00:00",
+    "fetched_at": "2026-07-06T19:43:26.386100+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国财政部内部报告警告AI泡沫风险，提示投资者需警惕市场过热，可能对AI相关资产构成利空。",
+      "translation": "快讯：据NOTUS报道，美国财政部有一份内部报告警告AI泡沫的风险。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074185860124152296",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -78,6 +177,25 @@
       "summary": "NVDA澄清否认近期延迟传闻，但市场已因该传闻在台湾、日本、韩国等地出现下跌，投资者需警惕情绪余波。",
       "translation": "NVDA驳斥近期关于Kyber延迟的说法：'我们的路线图是完整的。' 哈哈，但损害已经造成，许多市场（尤其是台湾/日本/韩国）的股票在'报道'后暴跌。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074166992135704772",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump: Short sellers are getting wiped out.\n\n\"Those poor bastards. I never liked short guys because they're betting against the country.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2074166992135704772",
+    "published_at": "2026-07-06T16:22:01+00:00",
+    "fetched_at": "2026-07-06T19:43:30.354754+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普评论做空者被消灭，表达对做空行为（即押注国家经济下行）的反感，暗示市场可能看涨。",
+      "translation": "突发：特朗普：做空者正在被消灭。",
+      "confidence": "medium"
     }
   },
   {

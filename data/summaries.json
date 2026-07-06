@@ -1,72 +1,70 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
       "$CCXI",
-      "$AXTI",
+      "$SIVE",
+      "$NVDA",
       "$AAOI",
       "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学供应链瓶颈与价格飙升",
-      "人形机器人商业化加速与IPO进程",
-      "AI基建资本开支持续扩张",
-      "内存结构性短缺与价格上涨",
-      "美国本土供应链与国家竞争"
+      "光子学供应链瓶颈与产能紧张",
+      "人形机器人与物理AI的长期投资机会",
+      "记忆体与光学产业的结构性需求增长"
     ],
-    "recent_shift": "近期对光子学因市场恐慌而下跌更为积极，强调基本面未变，准备迎接V型复苏。",
+    "recent_shift": "近期市场回调中，作者仍维持对光子学和机器人的多头信念，并强调基本面将在中长期主导。",
     "representative_quotes": [
-      "\"But many of these challengers feel like they’re taking on more hyperscaler-adjacent projects. Probably supported by Nvidia..\"",
-      "\"I'm still bullish on the AI buildout + upstream AI capex beneficiaries, but 1-2 potential rate hikes certainly don't help.\"",
-      "\"Kinda all that needs to be said with those insane revenue projections as long as management doesn't BS.\""
+      "I’m personally just waiting Sivers to volume ramp in 2027... to walk down the same path as $LITE when they scaled from $3B to $60B+.",
+      "Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages.",
+      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo."
     ],
-    "generated_at": "2026-07-06T11:48:32.863059+00:00"
+    "generated_at": "2026-07-06T19:43:39.100459+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$NVDA",
       "$AMZN",
+      "$NVDA",
+      "$MSFT",
       "$META",
-      "$MSFT"
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "股市风险警示",
-      "川普交易争议",
-      "AI投资回报不确定性",
-      "劳动力市场疲软",
-      "地缘政治风险"
+      "市场疲软与劳动力数据恶化",
+      "科技股与AI泡沫风险",
+      "特朗普交易与政治利益冲突"
     ],
-    "recent_shift": "近期推特从关注科技利好转向更多负面新闻及政治交易质疑，情绪明显偏悲观。",
+    "recent_shift": "早期关注特朗普交易和科技股乐观情绪，近期转向对经济衰退、AI回报失望和地缘政治风险的警告。",
     "representative_quotes": [
+      "Trump: \"Short sellers are getting wiped out. Those poor bastards. I never liked short guys because they're betting against the country.\"",
       "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\"",
-      "Investors are turning away from US stocks at the fastest pace since March, per Bank of America.",
-      "Trump purchased huge amounts of stock before policy moves that benefited those companies—unusual."
+      "Household worries over finances hit highest level since July 2022, per the New York Fed survey"
     ],
-    "generated_at": "2026-07-06T17:45:15.203402+00:00"
+    "generated_at": "2026-07-06T19:43:45.463866+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "GLW",
-      "SK Hynix",
-      "MU",
-      "NVDA",
-      "AMAT"
+      "$GLW",
+      "$MU",
+      "$ASX",
+      "$NVDA",
+      "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心",
-      "玻璃基板和光纤是下一代AI底座",
-      "康宁受益于英伟达扩产10倍"
+      "存储芯片是AI基建瓶颈，海力士和美光主导利润周期",
+      "玻璃基板和光互连是下一代AI芯片关键技术，康宁卡位垄断",
+      "AI泡沫未达顶点，需等AGI普及后才会破裂",
+      "半导体设备迎来长期需求，刻蚀和沉积为核心",
+      "杠杆交易风险极高，仓位管理比选股更重要"
     ],
-    "recent_shift": "近期观点从全面看多存储转向更关注康宁和半导体设备，并强调仓位管理重要性",
+    "recent_shift": "近期关注焦点从存储扩展到设备材料，特别是康宁的玻璃基板和光纤概念，同时强调规避杠杆风险",
     "representative_quotes": [
-      "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
-      "康宁GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了",
-      "能健康的管理自己仓位已经赢过绝大多数人"
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。",
+      "康宁在玻璃这一块有无与伦比的话语权。英伟达让康宁扩产10倍，在投产后说明康宁业绩也要10倍涨幅！",
+      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的。"
     ],
-    "generated_at": "2026-07-06T11:48:36.123181+00:00"
+    "generated_at": "2026-07-06T19:43:42.814462+00:00"
   }
 }
