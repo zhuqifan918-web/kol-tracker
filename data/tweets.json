@@ -1,5 +1,203 @@
 [
   {
+    "tweet_id": "2074145594776637661",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Goldman Sachs has raised its AMD, $AMD, price target to $640 from $450 and reiterated its Buy rating.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074145594776637661",
+    "published_at": "2026-07-06T14:57:00+00:00",
+    "fetched_at": "2026-07-06T14:59:50.155076+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "高盛将AMD的目标价从450美元上调至640美元，并重申买入评级，表明对AMD未来股价上涨的强烈看好。",
+      "translation": "高盛将AMD的目标价从450美元上调至640美元，并重申其买入评级。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074143469015281953",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I’d like to give a special thank you to Bloomberg’s piece on $META compute.\n\nAs well as the 2 back to back bear posts on CPO delays.\n\nBut I believe thematically photonics, memory, energy, and physical AI will outperform in the long run. https://t.co/vghsG5H2w5",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074143469015281953",
+    "published_at": "2026-07-06T14:48:33+00:00",
+    "fetched_at": "2026-07-06T14:59:10.286472+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "推文感谢彭博关于META计算能力的报道，并提及对CPO延迟的看跌观点，但作者仍看好光子学、存储、能源和实体AI板块的长期表现。整体对META持乐观态度，并暗示相关主题板块具有投资机会。",
+      "translation": "我想特别感谢彭博关于$META计算能力的报道，以及关于CPO延迟的两篇连续看跌文章。但我相信，从长远来看，光子学、存储、能源和实体AI板块将会表现出色。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074140562022613457",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Saudi Arabia cut the August price of its flagship Arab Light crude to Asia by $11 a barrel, marking its largest reduction in at least 26 years, per  Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2074140562022613457",
+    "published_at": "2026-07-06T14:37:00+00:00",
+    "fetched_at": "2026-07-06T14:59:52.173752+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "沙特大幅下调对亚洲的阿拉伯轻质原油官方售价，降幅创26年之最，暗示全球需求疲软或市场竞争加剧，对原油及相关能源板块构成利空。",
+      "translation": "沙特将8月对亚洲的旗舰级阿拉伯轻质原油价格每桶下调11美元，创至少26年来最大降幅，据路透社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074128230316122436",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Microsoft, $MSFT, cuts 4800 jobs.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074128230316122436",
+    "published_at": "2026-07-06T13:48:00+00:00",
+    "fetched_at": "2026-07-06T14:59:55.043612+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bearish",
+      "summary": "微软宣布裁员4800人，这可能对股价造成短期负面影响，反映成本压力或业务调整。投资者需关注后续财报及市场反应。",
+      "translation": "突发新闻：微软（$MSFT）裁员4800个岗位。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074115395825639739",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Investors are turning away from US stocks at the fastest pace since March, per Bank of America.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074115395825639739",
+    "published_at": "2026-07-06T12:57:00+00:00",
+    "fetched_at": "2026-07-06T15:00:02.324174+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文报道美银数据，显示投资者正以自3月以来最快速度撤离美股，反映市场情绪转向悲观，可能预示市场短期承压。",
+      "translation": "据美银数据，投资者正以自3月以来最快的速度撤离美国股市。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074110362652414331",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2074110362652414331",
+    "published_at": "2026-07-06T12:37:00+00:00",
+    "fetched_at": "2026-07-06T15:00:04.448521+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "知名投资者迈克尔·伯里预测股市将崩盘，反弹不可持续，并警告“末日临近”。这暗示市场可能面临大幅下跌风险。",
+      "translation": "“大空头”投资者迈克尔·伯里表示，股市将崩盘，反弹不会持续，结局“临近”。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074109998544846954",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, $WULF signs a $19B DC lease with Anthropic today. \n\nProbably a very positive tailwind for the Neocloud/Colo sector. https://t.co/82tncsG3us",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074109998544846954",
+    "published_at": "2026-07-06T12:35:33+00:00",
+    "fetched_at": "2026-07-06T14:59:14.619265+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WULF"
+      ],
+      "direction": "bullish",
+      "summary": "WULF与Anthropic签署190亿美元数据中心租约，对Neocloud/Colo行业构成积极推动，利好相关板块。",
+      "translation": "哇，$WULF今天与Anthropic签署了一份190亿美元的数据中心租约。这可能对Neocloud/Colo行业是一个非常积极的利好。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074105329416376340",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "ADP: There is a cooling U.S. labor market where job creation is slowing and workers face longer job searches",
+    "tweet_url": "https://x.com/unusual_whales/status/2074105329416376340",
+    "published_at": "2026-07-06T12:17:00+00:00",
+    "fetched_at": "2026-07-06T15:00:06.365412+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "非农就业报告显示美国劳动力市场降温，就业增长放缓且求职周期延长，可能反映经济疲软，对股市不利。",
+      "translation": "ADP：美国劳动力市场正在降温，就业创造放缓，工人面临更长的求职期。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074102035675570457",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Retail: buys memory, optical, upstream semi names.\n\nMedia: “retail bubble drives AI meme stock bubble higher”.\n\nInstitutions that do the exact same thing, with the exact same names:\n\nMedia: “Institutions make record profits by betting on what goes inside AI Server Racks”. https://t.co/lWDCl0Sxbe",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074102035675570457",
+    "published_at": "2026-07-06T12:03:54+00:00",
+    "fetched_at": "2026-07-06T14:59:19.275384+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文对比了散户和机构在科技股（如内存、光学、上游半导体）上的类似行为，但媒体对两者使用了不同的叙事（散户=泡沫，机构=获利）。隐含的洞察是市场存在双重标准，投资者应警惕媒体偏见。",
+      "translation": "散户：买入内存、光学、上游半导体股票。媒体：“散户泡沫推动AI meme股票泡沫膨胀”。机构做完全相同的事情，买入完全相同的股票：媒体：“机构通过押注AI服务器机箱内部零件创纪录盈利”。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074100296205365711",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Household worries over finances hit highest level since July 2022, per the New York Fed survey",
+    "tweet_url": "https://x.com/unusual_whales/status/2074100296205365711",
+    "published_at": "2026-07-06T11:57:00+00:00",
+    "fetched_at": "2026-07-06T15:00:08.208972+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "纽约联储调查显示家庭财务担忧升至2022年7月以来最高，反映消费者信心下滑，可能抑制消费支出，对股市构成利空。",
+      "translation": "根据纽约联储的调查，家庭对财务状况的担忧达到了自2022年7月以来的最高水平。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074090229980434581",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -59,6 +257,44 @@
       "summary": "SK海力士将于本周五在美上市，涉及韩国第二大市值公司，可能带来新的投资机会，但需关注市场反应和估值。",
       "translation": "突发：据CNBC报道，韩国市值第二大公司SK海力士据报道将于本周五开始在美国交易，股票代码为$SKHY。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074079841737982463",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "As investors debates whether the enormous sums being poured into AI will ever pay off, Millennium-backed hedge fund manager Val Zlatkov is making record profits by betting on what goes inside AI server racks that helps them spit out eerily good responses https://t.co/fWj69VQlQW https://t.co/lnlJOtnE4a",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074079841737982463",
+    "published_at": "2026-07-06T10:35:43+00:00",
+    "fetched_at": "2026-07-06T14:59:23.450037+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "尽管市场对AI投资的回报存在争议，但专注于AI服务器内部组件的对冲基金已获得创纪录利润，暗示相关硬件供应商具有投资潜力。",
+      "translation": "随着投资者争论投入AI的巨额资金能否带来回报，Millennium支持的对冲基金经理Val Zlatkov通过押注AI服务器内部组件（这些组件帮助生成异常逼真的响应）而获得创纪录利润。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074075634851340779",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I find it hard for any bears to defend against this humanoid bull case. https://t.co/aWWPYAvSIa",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074075634851340779",
+    "published_at": "2026-07-06T10:19:00+00:00",
+    "fetched_at": "2026-07-06T14:59:27.342188+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文表达了对人形机器人领域投资前景的强烈看好，认为空头难以反驳其看涨逻辑。",
+      "translation": "我认为任何空头都很难反驳这个人形机器人的看涨理由。",
+      "confidence": "medium"
     }
   },
   {
@@ -231,6 +467,25 @@
       "direction": "bullish",
       "summary": "特朗普在2月买入高达500万美元的Axon股票，几周后ICE寻求与该公司达成2.2亿美元的交易，这一连串事件暗示可能有内幕消息或政策利好，对AXON构成潜在利好。",
       "translation": "这是又一个不寻常的特朗普股市交易。特朗普在2月份买入了高达500万美元的Axon股票。几周后，据CNBC报道，ICE寻求与该公司达成2.2亿美元的交易。不寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073889910264566240",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nTrump reported more than 21,000 trades across eight investment accounts in 2025.\n\nThat works out to roughly:\n\n1,750 trades per month\n80 trades per day\nAbout 12 trades per trading hour",
+    "tweet_url": "https://x.com/unusual_whales/status/2073889910264566240",
+    "published_at": "2026-07-05T22:01:00+00:00",
+    "fetched_at": "2026-07-06T15:00:36.912598+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了特朗普在2025年通过八个投资账户进行了超过21,000笔交易，平均每天80笔，交易活跃度极高。但未提及具体标的或方向，因此仅反映交易频率信息。",
+      "translation": "看这个。据报告，特朗普在2025年通过八个投资账户进行了超过21,000笔交易。这大约相当于：每月1,750笔交易，每天80笔交易，每个交易小时约12笔交易。",
       "confidence": "medium"
     }
   },
