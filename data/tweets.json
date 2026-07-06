@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2074244748236447895",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: China has overtaken the US to become the global leader in fintech patent filings over the past decade, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2074244748236447895",
+    "published_at": "2026-07-06T21:31:00+00:00",
+    "fetched_at": "2026-07-06T22:43:42.750749+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "中国在金融科技专利领域超越美国成为全球领导者，这可能对金融科技相关行业和ETF产生积极影响，投资者可关注相关主题基金。",
+      "translation": "突发：路透社报道，过去十年中国在金融科技专利申请数量上已超越美国，成为全球领导者。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074240512593481955",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
