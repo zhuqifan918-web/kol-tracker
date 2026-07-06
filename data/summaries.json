@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$AMD",
+      "$MSFT",
       "$NVDA",
-      "$TSLA",
       "$AMZN",
-      "$META",
-      "$AAPL"
+      "$META"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普总统交易争议",
-      "宏观经济疲弱与消费者压力",
-      "AI投资回报存疑与泡沫风险",
-      "地缘政治风险（伊朗、俄乌）",
-      "市场集中度与波动性"
+      "市场情绪恶化与消费者财务压力",
+      "人工智能投资回报存疑与泡沫警示",
+      "股市集中度与流动性风险加剧",
+      "特朗普交易引发利益冲突争议",
+      "地缘政治与能源市场不确定性"
     ],
-    "recent_shift": "最近的推文更加关注特朗普交易的时机问题，以及AI泡沫的警告，相比前期的宏观担忧进一步强化了负面情绪。",
+    "recent_shift": "近期推文负面情绪明显加重，从早先个别乐观评论转向更频繁强调经济疲软、失业上升和AI泡沫风险。",
     "representative_quotes": [
-      "The Bank of Korea warned that single-stock leveraged exchange-traded funds tied to Samsung Electronics and SK Hynix could deepen market concentration, amplify volatility and intensify one-way trading flows",
-      "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances.",
-      "BREAKING: Trump's newest disclosures show some unusual trades... Trump purchased up to $5 million of Axon, $AXON, stock in February. Weeks later, ICE sought a $220 million deal with Axon"
+      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\"",
+      "43.7% of consumer households that reported being worse off financially than one year ago, per YF.",
+      "\"AI investments are a circular bet, as ROI disappoints,\" per Bain."
     ],
-    "generated_at": "2026-07-06T11:48:28.287144+00:00"
+    "generated_at": "2026-07-06T15:00:43.558482+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
