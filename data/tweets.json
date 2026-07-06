@@ -1,5 +1,52 @@
 [
   {
+    "tweet_id": "2073925746058223685",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 93% chance the next Claude Opus is released by October 31, per Polymarket: https://t.co/vnLENAHNGG",
+    "tweet_url": "https://x.com/unusual_whales/status/2073925746058223685",
+    "published_at": "2026-07-06T00:23:24+00:00",
+    "fetched_at": "2026-07-06T02:55:36.750261+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ANTHIC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及Polymarket预测市场显示Claude Opus在10月31日前发布的概率为93%，对Anthropic相关投资标的（如ANTHIC代币）具有潜在影响，但未直接给出投资建议或明确方向。",
+      "translation": "根据Polymarket，Claude Opus在10月31日前发布的可能性为93%：https://t.co/vnLENAHNGG",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073920109106655590",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This is interesting timing.\n\nOn July 23, 2025, Trump purchased $5 million of Broadcom, $AVGO, Meta. $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, and Nvidia, $NVDA.\n\nLater that day, the Trump admin announced its AI Action Plan, policy expected to benefit those companies.",
+    "tweet_url": "https://x.com/unusual_whales/status/2073920109106655590",
+    "published_at": "2026-07-06T00:01:00+00:00",
+    "fetched_at": "2026-07-06T02:55:38.754659+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AVGO",
+        "META",
+        "AMZN",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普在AI行动计划公布当天大量买入科技股，暗示政策利好可能带来短期上涨机会，需关注相关公司后续表现。",
+      "translation": "这个时机很有趣。2025年7月23日，特朗普购买了500万美元的博通、Meta、亚马逊、苹果、微软和英伟达股票。当天晚些时候，特朗普政府宣布了AI行动计划，预计该政策将使这些公司受益。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2073905009750876535",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
