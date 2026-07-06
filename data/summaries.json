@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MSFT",
-      "NVDA",
-      "AMZN",
-      "MU",
-      "META"
+      "$MU",
+      "$NVDA",
+      "$AMZN",
+      "$MSFT",
+      "$META"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "经济衰退信号",
-      "AI泡沫与回报率不及预期",
-      "特朗普内幕交易与市场操纵",
-      "全球地缘政治冲突",
-      "科技股震荡与行业分化"
+      "总统交易与利益冲突",
+      "AI泡沫与回报质疑",
+      "劳动力市场疲软",
+      "全球地缘政治风险",
+      "市场集中度与波动"
     ],
-    "recent_shift": "近期偏空情绪加重，更多强调消费者财务恶化、AI投资回报不如预期以及美联储可能加息，但仍有科技股看多声音。",
+    "recent_shift": "近期更聚焦曝光总统交易的时机争议，并对AI和劳动力市场表达谨慎态度。",
     "representative_quotes": [
-      "JUST IN: The Treasury has an internal report warning about the risks of an AI bubble, per NOTUS.",
-      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being 'nigh.'",
-      "Household worries over finances hit highest level since July 2022, per the New York Fed survey"
+      "This is interesting timing. On July 23, 2025, Trump purchased $5 million of Broadcom, $AVGO, Meta. $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, and Nvidia, $NVDA. Later that day, the Trump admin announced its AI Action Plan, policy expected to benefit those companies.",
+      "'AI investments are a circular bet, as ROI disappoints,' per Bain.",
+      "The number of Americans facing unemployment for at least 27 weeks has climbed above 1.8 million on average this year, per CNBC"
     ],
-    "generated_at": "2026-07-06T22:43:57.193412+00:00"
+    "generated_at": "2026-07-06T23:58:50.235032+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
