@@ -1,49 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "CCXI",
-      "SIVE",
-      "AAOI",
-      "MU",
-      "META"
+      "$SIVE",
+      "$CCXI",
+      "$AAOI",
+      "$MU",
+      "$TSLA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人形机器人商业化及上游供应链",
-      "光子学与AI基础设施瓶颈",
-      "中美科技竞争与国产替代",
-      "半导体与存储涨价周期",
-      "AI数据中心资本支出持续扩张"
+      "光子学瓶颈与CPO需求",
+      "人形机器人商用化与IPO机会",
+      "AI基础设施资本开支持续扩张",
+      "记忆体结构性短缺与价格上扬",
+      "地缘竞争下的本土供应链能力"
     ],
-    "recent_shift": "从广泛关注AI基础设施转向聚焦人形机器人领域，尤其看好Agility Robotics（CCXI）作为首个纯美股人形机器人上市机会。",
+    "recent_shift": "对光子学板块短期波动持更冷静态度，认为受市场误读影响，但核心基本面未变，依然看好2027年量价齐升。",
     "representative_quotes": [
-      "The main areas I think are safe however are regulation bound (eg. Medicine), ultra specialized labor, or require human/emotional connections. But I think you'll be blown away by the rate of change when frontier technologies become national security races between US and China... especially when China is currently in the lead.",
-      "I'm just waiting for both volume ramps to hit. Photonics are generally more volatile than the rest.",
-      "Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next."
+      "Markets are stupid sometimes. FYI: Meta doesn’t randomly buy $48B+ worth of neocoud contracts if they overbuilt capacity and can cut capex…",
+      "I'm personally waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts.",
+      "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META."
     ],
-    "generated_at": "2026-07-05T20:34:43.904273+00:00"
+    "generated_at": "2026-07-06T07:03:22.627385+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$MU",
       "$AMZN",
       "$NVDA",
       "$META",
-      "$MU",
-      "$AVGO"
+      "$AXON"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普交易时机可疑",
-      "人工智能投资泡沫化",
-      "宏观经济疲软预警"
+      "特朗普交易内幕问题",
+      "宏观经济衰退信号",
+      "AI投资回报不及预期"
     ],
-    "recent_shift": "近期重点关注特朗普股票交易与政策时间巧合，以及AI投资回报低于预期。",
+    "recent_shift": "近期更加强调特朗普交易时机可疑和散户风险上升",
     "representative_quotes": [
       "Trump bought up to $5 million of Broadcom, $AVGO, Meta. $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, and Nvidia, $NVDA. Later that day, the Trump admin announced its AI Action Plan, policy expected to benefit those companies.",
-      "Trump purchased up to $1 million of Amazon, $AMZN, stock. On September 25, 2025, Trump's FTC settled a major probe into Amazon over alleged deceptive Prime enrollment practices.",
-      "AI investments are a circular bet, as ROI disappoints."
+      "The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million. The trades were disclosed more than a year late, resulting in a $200 penalty.",
+      "Lower income Americans are literally running out of money at the end of the month. We're seeing negative cash flows in the lower-income brackets where they're dipping into savings, per Kraft Heinz CEO."
     ],
-    "generated_at": "2026-07-06T02:56:01.335505+00:00"
+    "generated_at": "2026-07-06T07:03:25.896326+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

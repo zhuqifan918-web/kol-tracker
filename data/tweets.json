@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2074007618046345249",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nomura’s report cites $AXTI and $IQE as the leading players. \n\nThen regarding ASP updates:\n\n- 2in InP substrate price hike 42-76%\n- 3in InP substrates price hike 78%\n- 2in EML Epiwafer price hike 50-75%\n- 3in CW Epiwafer price hike ~40%+\n- Prices lower domestically in China as expected.\n\nHyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages.\n\nMy personal expectation was that price hikes would keep going up like $SNDK given ramping optical demand. \n\nWe’ll see if this turns out right given another 2 years of the demand curve.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074007618046345249",
+    "published_at": "2026-07-06T05:48:43+00:00",
+    "fetched_at": "2026-07-06T07:02:18.153331+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "IQE",
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "野村报告指出光通信关键材料InP衬底及外延片价格大幅上涨，叠加超大规模云厂商验证瓶颈与供应链紧张，看好需求持续2年以上。虽然中国国内价格较低，整体显示光学产业链上游景气度高企，投资前景积极。",
+      "translation": "野村的报告指出$AXTI和$IQE是领先企业。关于平均售价更新：2英寸InP衬底价格上涨42-76%，3英寸InP衬底价格上涨78%，2英寸EML外延片价格上涨50-75%，3英寸CW外延片价格上涨约40%+，中国国内价格按预期较低。超大规模云厂商在上游光子学验证确认方面遇到瓶颈……从定价、需求到供应短缺各个方面。我个人预期价格上涨会像$SNDK一样持续，因为光学需求在增长。考虑到未来2年的需求曲线，我们看看这是否正确。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073972957446127670",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.\n\nYou can match and catch his portfolio, as it is disclosed.\n\nRead more: https://t.co/2sXd6Fu3FL",
+    "tweet_url": "https://x.com/unusual_whales/status/2073972957446127670",
+    "published_at": "2026-07-06T03:31:00+00:00",
+    "fetched_at": "2026-07-06T07:02:46.661092+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales服务，声称可追踪特朗普的交易组合并披露其持仓，但未给出具体投资建议或分析。",
+      "translation": "查看特朗普的所有交易，请订阅Unusual Whales。你可以匹配并捕捉他的投资组合，因为这些信息是公开披露的。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2073925746058223685",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
