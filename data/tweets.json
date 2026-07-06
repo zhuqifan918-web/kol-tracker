@@ -1,5 +1,130 @@
 [
   {
+    "tweet_id": "2074090229980434581",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "43.7% of consumer households that reported being worse off financially than one year ago, per YF.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074090229980434581",
+    "published_at": "2026-07-06T11:17:00+00:00",
+    "fetched_at": "2026-07-06T11:47:53.400866+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "43.7%的家庭表示财务状况较去年恶化，这可能预示消费者支出下降，对消费类股和相关ETF构成利空。",
+      "translation": "根据YF的数据，43.7%的消费者家庭表示财务状况比一年前更差。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074085196769415535",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Bank of Korea warned that single-stock leveraged exchange-traded funds tied to Samsung Electronics and SK Hynix could deepen market concentration, amplify volatility and intensify one-way trading flows,, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074085196769415535",
+    "published_at": "2026-07-06T10:57:00+00:00",
+    "fetched_at": "2026-07-06T11:47:55.388943+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "direction": "bearish",
+      "summary": "韩国央行警告，与三星电子和SK海力士相关的单股杠杆ETF可能加剧市场集中度、波动性和单向交易流，对投资者构成风险。",
+      "translation": "韩国央行警告称，与三星电子和SK海力士挂钩的单股杠杆型交易所交易基金可能会加深市场集中度，加剧波动性，并强化单向交易流。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074080163608838562",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SK Hynix, South Korea’s second-largest company by market value, will reportedly begin trading in the U.S. this Friday under the ticker $SKHY, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2074080163608838562",
+    "published_at": "2026-07-06T10:37:00+00:00",
+    "fetched_at": "2026-07-06T11:47:57.431561+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHY"
+      ],
+      "direction": "neutral",
+      "summary": "SK海力士将于本周五在美上市，涉及韩国第二大市值公司，可能带来新的投资机会，但需关注市场反应和估值。",
+      "translation": "突发：据CNBC报道，韩国市值第二大公司SK海力士据报道将于本周五开始在美国交易，股票代码为$SKHY。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074075130444292352",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia's, $NVDA, next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis has said per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2074075130444292352",
+    "published_at": "2026-07-06T10:17:00+00:00",
+    "fetched_at": "2026-07-06T11:48:00.722808+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "英伟达下一代AI机架系统因制造问题延迟至2028年，可能影响其AI硬件业务前景和短期股价表现。",
+      "translation": "据CNBC报道，SemiAnalysis指出，英伟达的下一代AI机架系统因制造问题延迟至2028年。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074063175293809150",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Kelper upgrades $XFAB to \"Buy\" citing:\n\n- Melexis demand strengthening “week-after-week, day-after-day” (their lead customer). \n- AI giving XFAB a structural growth leg with SiC, GaN, and photonics offsetting auto cyclicality. \n- Scarce Western speciality foundries like $SILEX commanding higher multiples. \n\n\"X-Fab remains the cheapest specialty foundry peer on every multiple, trading at 4.8x 2027 EV/EBITDA versus a peer median of 14.5x\" \n\nI treat this as good signal for the core fundamentals improving like auto players. \n\nBut in terms of unpriced long term growth vectors, I'm personally looking at XFAB from a different angle in terms of photonics growth with photonixfab. Given $NVDA as a potential key driver. \n\nBut it's hard for traditional firms to price these types of active developments into valuation models until there's volume contracts.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074063175293809150",
+    "published_at": "2026-07-06T09:29:29+00:00",
+    "fetched_at": "2026-07-06T11:47:16.535952+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB",
+        "SILEX",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "券商上调评级，认为XFAB受益于客户需求强劲、AI带动SiC/GaN/光子学增长，且估值远低于同行；长期看光子学业务有NVDA驱动的潜力，但尚需量产合同验证。",
+      "translation": "Kelper将$XFAB上调至“买入”，理由如下：- 主要客户Melexis需求“周复一周、日复一日”增强。- AI为XFAB带来SiC、GaN和光子学方面的结构性增长，抵消汽车周期性波动。- 稀缺的西方专业晶圆厂（如$SILEX）享有更高估值。“X-Fab仍是各项倍数下最便宜的专业晶圆厂，2027年EV/EBITDA为4.8倍，而同行中位数为14.5倍。”我认为这对核心基本面改善（如汽车玩家）是积极信号。但就未定价的长期增长向量而言，我个人从光子学增长角度关注XFAB，考虑photonixfab及$NVDA作为潜在关键驱动。不过，在出现批量合同之前，传统公司很难将这些积极进展纳入估值模型。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074026186599280750",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "7月地狱难度，跌这么惨反弹这么弱",
+    "tweet_url": "https://x.com/xiaomustock/status/2074026186599280750",
+    "published_at": "2026-07-06T07:02:31+00:00",
+    "fetched_at": "2026-07-06T11:47:42.514573+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文描述7月市场极度困难，跌幅大而反弹微弱，表达对近期股市行情的悲观看法。",
+      "translation": "7月地狱难度，跌得这么惨，反弹这么弱。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074007618046345249",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -106,6 +231,28 @@
       "direction": "bullish",
       "summary": "特朗普在2月买入高达500万美元的Axon股票，几周后ICE寻求与该公司达成2.2亿美元的交易，这一连串事件暗示可能有内幕消息或政策利好，对AXON构成潜在利好。",
       "translation": "这是又一个不寻常的特朗普股市交易。特朗普在2月份买入了高达500万美元的Axon股票。几周后，据CNBC报道，ICE寻求与该公司达成2.2亿美元的交易。不寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2073879589470810452",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Hi stock God, you said before $SIVE has potential to be the next $LITE. What milestones do you expect $SIVE to hit in order to achieve this? Is it simply mass production of lasers for pluggable first and then CPO/NPO? How does M&amp;As play into this?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2073879589470810452",
+    "published_at": "2026-07-05T21:19:59+00:00",
+    "fetched_at": "2026-07-06T11:47:31.277126+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "用户询问一只可能成为下一只LITE的股票SIVE达到目标所需的里程碑，包括可插拔激光器量产和CPO/NPO进展，以及并购的作用。整体态度看好。",
+      "translation": "你好股票大神，你之前说过$SIVE有潜力成为下一只$LITE。你预期$SIVE需要达到哪些里程碑才能实现这一目标？是首先要实现可插拔激光器的大规模生产，然后再推进CPO/NPO吗？并购在其中扮演什么角色？",
       "confidence": "medium"
     }
   },

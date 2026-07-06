@@ -3,68 +3,70 @@
     "focus_tickers": [
       "$SIVE",
       "$CCXI",
+      "$AXTI",
       "$AAOI",
-      "$MU",
-      "$TSLA"
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈与CPO需求",
-      "人形机器人商用化与IPO机会",
-      "AI基础设施资本开支持续扩张",
-      "记忆体结构性短缺与价格上扬",
-      "地缘竞争下的本土供应链能力"
+      "光子学供应链瓶颈与价格飙升",
+      "人形机器人商业化加速与IPO进程",
+      "AI基建资本开支持续扩张",
+      "内存结构性短缺与价格上涨",
+      "美国本土供应链与国家竞争"
     ],
-    "recent_shift": "对光子学板块短期波动持更冷静态度，认为受市场误读影响，但核心基本面未变，依然看好2027年量价齐升。",
+    "recent_shift": "近期对光子学因市场恐慌而下跌更为积极，强调基本面未变，准备迎接V型复苏。",
     "representative_quotes": [
-      "Markets are stupid sometimes. FYI: Meta doesn’t randomly buy $48B+ worth of neocoud contracts if they overbuilt capacity and can cut capex…",
-      "I'm personally waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts.",
-      "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META."
+      "\"But many of these challengers feel like they’re taking on more hyperscaler-adjacent projects. Probably supported by Nvidia..\"",
+      "\"I'm still bullish on the AI buildout + upstream AI capex beneficiaries, but 1-2 potential rate hikes certainly don't help.\"",
+      "\"Kinda all that needs to be said with those insane revenue projections as long as management doesn't BS.\""
     ],
-    "generated_at": "2026-07-06T07:03:22.627385+00:00"
+    "generated_at": "2026-07-06T11:48:32.863059+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$AMZN",
       "$NVDA",
+      "$TSLA",
+      "$AMZN",
       "$META",
-      "$AXON"
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "特朗普交易内幕问题",
-      "宏观经济衰退信号",
-      "AI投资回报不及预期"
+      "特朗普总统交易争议",
+      "宏观经济疲弱与消费者压力",
+      "AI投资回报存疑与泡沫风险",
+      "地缘政治风险（伊朗、俄乌）",
+      "市场集中度与波动性"
     ],
-    "recent_shift": "近期更加强调特朗普交易时机可疑和散户风险上升",
+    "recent_shift": "最近的推文更加关注特朗普交易的时机问题，以及AI泡沫的警告，相比前期的宏观担忧进一步强化了负面情绪。",
     "representative_quotes": [
-      "Trump bought up to $5 million of Broadcom, $AVGO, Meta. $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, and Nvidia, $NVDA. Later that day, the Trump admin announced its AI Action Plan, policy expected to benefit those companies.",
-      "The day before Trump paused tariffs, triggering a historic 10% market rally, his accounts purchased 327 stocks worth up to $12.8 million. The trades were disclosed more than a year late, resulting in a $200 penalty.",
-      "Lower income Americans are literally running out of money at the end of the month. We're seeing negative cash flows in the lower-income brackets where they're dipping into savings, per Kraft Heinz CEO."
+      "The Bank of Korea warned that single-stock leveraged exchange-traded funds tied to Samsung Electronics and SK Hynix could deepen market concentration, amplify volatility and intensify one-way trading flows",
+      "Half of investors have reduced their portfolio risk, while 62% expect a recession and 71% worry market volatility will hurt their finances.",
+      "BREAKING: Trump's newest disclosures show some unusual trades... Trump purchased up to $5 million of Axon, $AXON, stock in February. Weeks later, ICE sought a $220 million deal with Axon"
     ],
-    "generated_at": "2026-07-06T07:03:25.896326+00:00"
+    "generated_at": "2026-07-06T11:48:28.287144+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK Hynix",
       "GLW",
+      "SK Hynix",
       "MU",
       "NVDA",
-      "ASX"
+      "AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI革命的核心，海力士是最佳标的",
-      "康宁GLW受益于玻璃基板和光纤，是英伟达下一代芯片的关键供应商",
-      "AI基建供不应求，长期看多，短期波动正常"
+      "存储芯片是AI革命的核心",
+      "玻璃基板和光纤是下一代AI底座",
+      "康宁受益于英伟达扩产10倍"
     ],
-    "recent_shift": "近期从重仓存储芯片（海力士）转向部分配置康宁GLW和日月光ASX，认为康宁等新领域有更大爆发潜力。",
+    "recent_shift": "近期观点从全面看多存储转向更关注康宁和半导体设备，并强调仓位管理重要性",
     "representative_quotes": [
       "存储是AI革命的终极正解。其他股票对比起来，真是一坨垃圾。",
-      "康宁GLW 简直是下一代AI算力的底座，中了狗屎运。",
-      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！"
+      "康宁GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了",
+      "能健康的管理自己仓位已经赢过绝大多数人"
     ],
-    "generated_at": "2026-07-05T15:44:38.803396+00:00"
+    "generated_at": "2026-07-06T11:48:36.123181+00:00"
   }
 }
