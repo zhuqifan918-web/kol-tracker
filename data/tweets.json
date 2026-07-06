@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2074266642260107363",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To follow politicians trades, subscribe to Unusual Whales.\n\nYou can see when they disclose their positions.\n\nSee more: https://t.co/IKKP3BthNr",
+    "tweet_url": "https://x.com/unusual_whales/status/2074266642260107363",
+    "published_at": "2026-07-06T22:58:00+00:00",
+    "fetched_at": "2026-07-06T23:58:35.276316+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广了一个追踪政客交易的订阅服务，提示投资者可以关注政客的持仓披露来获取投资线索。",
+      "translation": "要追踪政客的交易，请订阅Unusual Whales。你可以看到他们何时披露持仓。查看更多：https://t.co/IKKP3BthNr",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2074244748236447895",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -199,6 +218,25 @@
       "summary": "摩根大通建议投资者买入近期半导体股票的回调，显示其对板块前景看好，属于正面投资信号。",
       "translation": "突发：摩根大通表示投资者应买入近期半导体股票的下跌。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074180826900902233",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: Firms are investing in the US because of tariffs.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074180826900902233",
+    "published_at": "2026-07-06T17:17:00+00:00",
+    "fetched_at": "2026-07-06T23:58:43.988299+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普声称关税政策促使企业在美国投资，这暗示可能利好美国经济和相关行业，但缺乏具体投资标的。",
+      "translation": "特朗普：由于关税，企业正在美国投资。",
+      "confidence": "medium"
     }
   },
   {
