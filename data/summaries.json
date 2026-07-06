@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AXON",
       "$AMZN",
-      "$MU",
       "$NVDA",
-      "$TRUMP"
+      "$META",
+      "$MU",
+      "$AVGO"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "总统可疑交易与内幕关联",
-      "AI投资泡沫与回报失望",
-      "宏观经济疲软与消费者压力",
-      "地缘政治风险与能源冲击",
-      "市场极端分化与衰退预期"
+      "特朗普交易时机可疑",
+      "人工智能投资泡沫化",
+      "宏观经济疲软预警"
     ],
-    "recent_shift": "近期更聚焦于揭露总统交易中的异常时机和政策关联，语气更加怀疑和警告。",
+    "recent_shift": "近期重点关注特朗普股票交易与政策时间巧合，以及AI投资回报低于预期。",
     "representative_quotes": [
-      "Weeks later, ICE sought a $220 million deal with the company, according to CNBC. Unusual.",
-      "On September 23, 2025, Trump bought up to $1 million of Amazon, $AMZN, stock. On September 25, 2025, Trump's FTC settled a major probe into Amazon... Unusual.",
-      "The number of Americans facing unemployment for at least 27 weeks has climbed above 1.8 million on average this year, per CNBC"
+      "Trump bought up to $5 million of Broadcom, $AVGO, Meta. $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, and Nvidia, $NVDA. Later that day, the Trump admin announced its AI Action Plan, policy expected to benefit those companies.",
+      "Trump purchased up to $1 million of Amazon, $AMZN, stock. On September 25, 2025, Trump's FTC settled a major probe into Amazon over alleged deceptive Prime enrollment practices.",
+      "AI investments are a circular bet, as ROI disappoints."
     ],
-    "generated_at": "2026-07-05T23:58:36.815321+00:00"
+    "generated_at": "2026-07-06T02:56:01.335505+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
