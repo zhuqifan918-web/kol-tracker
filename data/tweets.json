@@ -1,5 +1,147 @@
 [
   {
+    "tweet_id": "2074185860124152296",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: JPMorgan says investors should buy the recent dip in semiconductor stocks.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074185860124152296",
+    "published_at": "2026-07-06T17:37:00+00:00",
+    "fetched_at": "2026-07-06T17:44:44.936031+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根大通建议投资者买入近期半导体股票的回调，显示其对板块前景看好，属于正面投资信号。",
+      "translation": "突发：摩根大通表示投资者应买入近期半导体股票的下跌。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074175793635180795",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Japanese yen will weaken to 165 against the U.S. dollar, per Goldman Sachs.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074175793635180795",
+    "published_at": "2026-07-06T16:57:00+00:00",
+    "fetched_at": "2026-07-06T17:44:48.940866+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPY=X",
+        "USDJPY=X"
+      ],
+      "direction": "bearish",
+      "summary": "高盛预测日元兑美元将贬值至165，对持有日元资产或日本出口企业构成利空，可能引发市场对日本央行干预的担忧。",
+      "translation": "据高盛预测，日元兑美元汇率将走弱至165。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074170760533532857",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Societe Generale says the U.S. dollar could continue rising in the second half of 2026",
+    "tweet_url": "https://x.com/unusual_whales/status/2074170760533532857",
+    "published_at": "2026-07-06T16:37:00+00:00",
+    "fetched_at": "2026-07-06T17:44:50.406439+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "法国兴业银行预测美元在2026年下半年可能继续走强，这对美元相关的投资（如美元外汇、美元计价资产）构成利好信号。",
+      "translation": "法国兴业银行表示，美元可能在2026年下半年继续上涨。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074170197486039524",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA refuting recent Kyber delay claims:\n\n“Our roadmap is intact”.\n\nlol, damage has already been done with stocks in many markets (esp. in Taiwan/Japan/Soutj Korea) crashing after the “report” https://t.co/ijHggRm1fu",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074170197486039524",
+    "published_at": "2026-07-06T16:34:45+00:00",
+    "fetched_at": "2026-07-06T17:44:21.260402+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "NVDA澄清否认近期延迟传闻，但市场已因该传闻在台湾、日本、韩国等地出现下跌，投资者需警惕情绪余波。",
+      "translation": "NVDA驳斥近期关于Kyber延迟的说法：'我们的路线图是完整的。' 哈哈，但损害已经造成，许多市场（尤其是台湾/日本/韩国）的股票在'报道'后暴跌。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074160694493102466",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SK Hynix is seeking to raise up to $28 billion through its US ADR listing, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074160694493102466",
+    "published_at": "2026-07-06T15:57:00+00:00",
+    "fetched_at": "2026-07-06T17:44:54.158326+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "SK海力士计划通过美国存托凭证（ADR）上市筹集高达280亿美元资金，该消息可能影响半导体行业及市场流动性。投资者需关注其上市进展及对股价的潜在影响。",
+      "translation": "据彭博社报道，SK海力士正寻求通过其美国存托凭证上市筹集高达280亿美元资金。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074155661789667372",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: \"Go out and buy a Dell. $DELL.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2074155661789667372",
+    "published_at": "2026-07-06T15:37:00+00:00",
+    "fetched_at": "2026-07-06T17:44:56.371504+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DELL"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普公开呼吁买入戴尔股票，倾向利好。",
+      "translation": "特朗普：“出去买一台戴尔。$DELL。”",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074150628348113256",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX, $SPCX, will officially join the Nasdaq-100 tomorrow following a fast-tracked index inclusion, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074150628348113256",
+    "published_at": "2026-07-06T15:17:00+00:00",
+    "fetched_at": "2026-07-06T17:44:59.087083+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX（$SPCX）将快速加入纳斯达克-100指数，这通常被视为积极信号，有望吸引更多资金流入并提升股价。",
+      "translation": "据彭博社报道，SpaceX（$SPCX）将于明天快速加入纳斯达克-100指数。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074145594776637661",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
