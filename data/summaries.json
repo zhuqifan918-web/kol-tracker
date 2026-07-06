@@ -3,45 +3,45 @@
     "focus_tickers": [
       "$CCXI",
       "$SIVE",
-      "$NVDA",
       "$AAOI",
+      "$NVDA",
       "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学供应链瓶颈与产能紧张",
-      "人形机器人与物理AI的长期投资机会",
-      "记忆体与光学产业的结构性需求增长"
+      "光子/光学瓶颈（CPO、CW激光器、InP基板）",
+      "人形机器人/物理AI商业化",
+      "存储结构性短缺（内存、NAND）"
     ],
-    "recent_shift": "近期市场回调中，作者仍维持对光子学和机器人的多头信念，并强调基本面将在中长期主导。",
+    "recent_shift": "从早期更偏向光子学叙事，近期转向更强调人形机器人和内存的长期结构性机遇，并认为短期市场回调是机会。",
     "representative_quotes": [
-      "I’m personally just waiting Sivers to volume ramp in 2027... to walk down the same path as $LITE when they scaled from $3B to $60B+.",
-      "Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages.",
-      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo."
+      "Felt very weird to see a profitable company get dragged down after earnings. But in hindsight, given the increase hyperscaler capex, the drop felt more like it's more relative opportunity cost more than fundamentals?",
+      "I'm convinced if Agility raised a very small private round at $39B as well from $2.5B (which it definitely could), to set a valuation anchor. Investors would be foaming in the mouth for a private allocation, just due to psychology rather than underlying fundamentals.",
+      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028. Markets don't typically wait to price things in advance, but some ideas might be a tad early or in the buildout given it's H2 2026 now."
     ],
-    "generated_at": "2026-07-06T19:43:39.100459+00:00"
+    "generated_at": "2026-07-06T21:22:11.289693+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AMZN",
       "$NVDA",
+      "$MU",
+      "$AMZN",
       "$MSFT",
-      "$META",
-      "$AAPL"
+      "$META"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场疲软与劳动力数据恶化",
-      "科技股与AI泡沫风险",
-      "特朗普交易与政治利益冲突"
+      "AI投资回报争议",
+      "总统股票交易异常",
+      "消费者财务压力"
     ],
-    "recent_shift": "早期关注特朗普交易和科技股乐观情绪，近期转向对经济衰退、AI回报失望和地缘政治风险的警告。",
+    "recent_shift": "近期更多聚焦于总统交易的内幕嫌疑和宏观经济风险，前期偏重科技股乐观情绪",
     "representative_quotes": [
-      "Trump: \"Short sellers are getting wiped out. Those poor bastards. I never liked short guys because they're betting against the country.\"",
-      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\"",
-      "Household worries over finances hit highest level since July 2022, per the New York Fed survey"
+      "BREAKING: Trump says he believes the stock market is “going to go through the roof.”",
+      "The Treasury has an internal report warning about the risks of an AI bubble, per NOTUS.",
+      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being 'nigh.'"
     ],
-    "generated_at": "2026-07-06T19:43:45.463866+00:00"
+    "generated_at": "2026-07-06T21:22:06.403169+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

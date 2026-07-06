@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2074240512593481955",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Was a sad few months for $RDDT. But glad it's finally back above $200. \n\nReddit was doing:\n- $663M revenue w/ 91.5% gross margins\n- $204M GAAP net income\n- 45%+ fwd Y/Y growth after 69%+ growth.\n- Net profit is ~30.7% of revenue\n\nFelt very weird to see a profitable company get dragged down after earnings. \n\nBut in hindsight, given the increase hyperscaler capex, the drop felt more like it's more relative opportunity cost more than fundamentals?\n\nSince a lot of inflow poured into $MU / Sk Hynix that are bottlenecked into 2029. Or with laser bottlenecks like $LITE that last into 2029 as well. \n\nSame thing happens in reverse after selloffs ig, even if fundamentals didn't change. \n\nBeen seeing a lot of noise with memory optimization or Chinese players... but don't quite think you sign 16T+ LTAs if memory was getting flooded or not used anytime soon. \n\nSame with optical players... if in earnings, they state anything they make gets bought, I don't quite think a lot of the noise has material effect on their fundamentals. \n\nRegardless, nice to see some recovery with familiar faces like $HOOD, $HIMS, and $RDDT though.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074240512593481955",
+    "published_at": "2026-07-06T21:14:10+00:00",
+    "fetched_at": "2026-07-06T21:21:23.199712+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RDDT",
+        "MU",
+        "LITE",
+        "HOOD",
+        "HIMS"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为$RDDT等股票基本面强劲（高营收、高毛利、高增长），近期下跌只是资金流向其他题材（如MU、LITE）导致的短暂调整，而非基本面问题。对记忆体和光学板块的公司（如签署长期大单）表示乐观，认为市场噪音影响有限。整体看好这些公司后续恢复。",
+      "translation": "过去几个月对$RDDT来说很艰难，但很高兴它终于重回200美元以上。Reddit的表现：营收6.63亿美元，毛利率91.5%，GAAP净利润2.04亿美元，未来年增长率45%以上（此前增长69%+），净利润约占营收30.7%。看到一家盈利公司财报后下跌，感觉很奇怪。但事后看来，鉴于超大规模企业资本支出增加，下跌更像是相对机会成本而非基本面问题？因为大量资金流入了受瓶颈制约到2029年的MU/SK Hynix，或者像LITE这样的激光瓶颈也持续到2029年。抛售之后同样的事情也会反向发生，即使基本面没有改变。我看到了很多关于内存优化或中国玩家的噪音……但我不认为签下16T+的长期协议是因为内存供应过剩或短期内用不完。对于光学公司也一样……如果他们在财报中说生产出来的产品都被买走了，那我认为很多噪音对其基本面没有实质性影响。不管怎样，很高兴看到一些熟悉的面孔恢复，比如$HOOD、$HIMS和$RDDT。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074236443195855334",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Changes to the methodology underneath the Federal Reserve's inflation measures are on track to make the numbers look better later this year, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2074236443195855334",
+    "published_at": "2026-07-06T20:58:00+00:00",
+    "fetched_at": "2026-07-06T21:21:47.716455+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美联储通胀衡量方法即将调整，可能使未来数据看起来更乐观，对市场心理和利率预期有潜在影响，但未明确指向具体资产。",
+      "translation": "据Axios报道，美联储通胀衡量方法的调整有望让今年晚些时候的经济数据看起来更好。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074214669808717906",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -18,6 +62,27 @@
       "summary": "该推文讨论了零售投资者因估值锚定和稀缺心理，为私人公司（如Figure）支付过高溢价的现象，并指出Agility Robotics（$CCXI）估值较低且有更广泛的商业化，但投资者仍倾向于追逐高估值的私人配售。作者认为这是市场低效或零售投资者缺乏知识的体现。",
       "translation": "观察围绕估值锚定和稀缺性的心理很有意思。例如，零售投资者通过CEF购买Figure，其最新估值约为390亿美元……而私人市场的估值已达到1580亿美元，是先前估值的4倍。相比之下，Agility Robotics（$CCXI）有更广泛的商业化，其上市前估值约为43亿美元，且以接近亚马逊、英伟达、软银和富士康给予的估值公开交易。然而，有些人最终为已经抬高的私人投资者轮次支付4-5倍的价格以获取敞口……我确信，如果Agility以390亿美元的估值（从25亿美元起步）进行一小轮私人融资以设定估值锚点，投资者会因心理而非基本面而争抢私人配售。我们最近在$SPCX上也看到了这种锚定现象，其估值达到1.75万亿美元。这是市场极度低效，还是零售投资者缺乏知识？",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074205992728875065",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Plans for what would have been the world’s largest data center have been scrapped after Blackstone-owned QTS dropped its appeal to the Virginia Supreme Court.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074205992728875065",
+    "published_at": "2026-07-06T18:57:00+00:00",
+    "fetched_at": "2026-07-06T21:21:52.849027+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BX"
+      ],
+      "direction": "bearish",
+      "summary": "黑石集团旗下的QTS放弃了在弗吉尼亚最高法院的上诉，这意味着原本计划建造的全球最大数据中心项目被取消。这将对黑石集团在数据中心领域的投资和扩张造成负面影响，可能引发市场对其资产组合和未来增长预期的重新评估。",
+      "translation": "突发：原本将成为全球最大数据中心的项目已被取消，此前黑石集团旗下的QTS撤回了向弗吉尼亚最高法院的上诉。",
+      "confidence": "medium"
     }
   },
   {
