@@ -1,50 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "NVDA",
-      "CCXI",
-      "META",
-      "MU"
+      "$SIVE",
+      "$CCXI",
+      "$NVDA",
+      "$META",
+      "$AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈（光子、存储、电源半导体）",
-      "人形机器人商业化投资",
-      "市场过度恐慌后的V形反弹机会",
-      "美国对中国供应链脱钩与本土化"
+      "光学芯片/激光器供应链瓶颈",
+      "人形机器人商业化前景",
+      "AI数据中心资本支出结构性增长",
+      "记忆体与存储短缺",
+      "中美科技竞争"
     ],
-    "recent_shift": "从早期关注上游光子瓶颈和存储短缺，近期明显转向人形机器人和物理AI领域，并认为其即将进入爆发期",
+    "recent_shift": "从META报道引发的恐慌性抛售和光学板块大跌，作者看多情绪未变，反而视为买入机会。",
     "representative_quotes": [
-      "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
-      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
-      "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA."
+      "If everything crashes together… indiscriminate selloffs from cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
+      "I find it hard for any bears to defend against this humanoid bull case.",
+      "Photomics is backed by actual revenue numbers… I'm familiar with what I'm holding so I'm confident in these numbers playing out."
     ],
-    "generated_at": "2026-07-07T15:41:13.230355+00:00"
+    "generated_at": "2026-07-07T19:42:30.764133+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AMZN",
-      "MSFT",
-      "MU",
-      "DELL"
+      "$MSFT",
+      "$NVDA",
+      "$AMZN",
+      "$DELL",
+      "$SKHY"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧",
-      "货币政策与通胀不确定性",
-      "市场泡沫担忧",
-      "贸易保护主义影响",
-      "AI投资回报存疑"
+      "美股AI泡沫与估值风险",
+      "地缘政治紧张加剧（伊朗、海峡）",
+      "美元储备地位削弱与黄金增持",
+      "消费疲软与家庭财务恶化",
+      "自动化裁员未带来预期回报"
     ],
-    "recent_shift": "近期更关注滞胀和劳动力市场疲软，隐含对股市估值和增长的担忧加深。",
+    "recent_shift": "近期推文明显转向关注风险，如央行减持美元、家庭财务状况恶化、AI投资回报不佳，且多家机构建议获利了结或发出看空信号。",
     "representative_quotes": [
-      "BREAKING: The New York Fed said one-year inflation expectations rose to 3.7% in June from 3.5%, the highest level since September 2023.",
-      "BREAKING: Iran has intensified attacks on ships in the Strait of Hormuz, per the Guardian",
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT."
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
+      "Bank of America has told investors it may be time to take profits.",
+      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\""
     ],
-    "generated_at": "2026-07-07T17:52:52.088815+00:00"
+    "generated_at": "2026-07-07T19:42:34.330122+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,109 @@
 [
   {
+    "tweet_id": "2074578446890545329",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The winners of the artificial intelligence race will mostly be US stocks, with only select names from China making the cut, per BlackRock Investment Institute.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074578446890545329",
+    "published_at": "2026-07-07T19:37:00+00:00",
+    "fetched_at": "2026-07-07T19:42:09.251008+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "贝莱德投资机构认为人工智能竞赛的赢家主要是美国股票，仅有部分中国股票入选，暗示对美国科技股持乐观态度。",
+      "translation": "贝莱德投资机构表示，人工智能竞赛的赢家将主要是美国股票，只有少数中国股票能入选。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074574240792367500",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US revokes Iran oil waivers after Iranian attacks in Strait of Hormuz, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2074574240792367500",
+    "published_at": "2026-07-07T19:20:17+00:00",
+    "fetched_at": "2026-07-07T19:42:11.149607+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国撤销伊朗石油豁免可能推高油价，利好能源板块和原油相关ETF，但地缘风险上升需警惕。",
+      "translation": "突发：据Axios报道，在伊朗袭击霍尔木兹海峡后，美国撤销了伊朗石油豁免。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074568161299771394",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers and recently inked major computing deals with $CRVW, Google, $ORCL, and others.\"\n\nJust dropped that in with the Meta Muse announcement, and evenn threw in the \"expensive\" framing with DCs to signal capex. \n\nBut little late given we're likely seeing a lot of margin liquidation cascades and heavy losses from media framing earlier.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074568161299771394",
+    "published_at": "2026-07-07T18:56:07+00:00",
+    "fetched_at": "2026-07-07T19:41:39.879895+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "CRVW",
+        "GOOGL",
+        "ORCL"
+      ],
+      "direction": "bearish",
+      "summary": "该推文认为Meta的算力扩张公告是市场操纵行为，旨在拖延由媒体负面报道引发的保证金清算和巨额亏损，暗示股价将进一步下跌。",
+      "translation": "彭博社和$META正在用Meta Compute框架做危机公关，此前他们已导致市场崩盘。发言人表示：“Meta仍然渴望更多算力，正推进昂贵的新数据中心计划，并最近与$CRVW、谷歌、$ORCL等公司签署了重大算力协议。”他们将此与Meta Muse公告一同放出，并用“昂贵”一词强调数据中心资本支出。但为时已晚，因为我们可能正大量经历由先前的媒体框架引发的保证金清算连环崩和巨额亏损。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074563347513499849",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SK Hynix's $28 billion US listing is multiple times oversubscribed ahead of pricing, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2074563347513499849",
+    "published_at": "2026-07-07T18:37:00+00:00",
+    "fetched_at": "2026-07-07T19:42:14.891721+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SK Hynix"
+      ],
+      "direction": "bullish",
+      "summary": "SK海力士在美国上市募资280亿美元，认购倍数超过预期，表明市场对其前景高度看好，对现有股东和行业情绪构成积极信号。",
+      "translation": "SK海力士280亿美元的美国上市发行在定价前出现多次超额认购，据雅虎财经报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074558314344554753",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Microsoft, $MSFT, has replaced OpenAI, Anthropic with own AI in some apps, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074558314344554753",
+    "published_at": "2026-07-07T18:17:00+00:00",
+    "fetched_at": "2026-07-07T19:42:17.216524+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "微软将自家AI整合至部分应用，替代了OpenAI和Anthropic的技术，这被视为正面信号，表明微软在AI领域的自研实力增强，或有助于提升长期竞争力与市场信心。",
+      "translation": "据彭博社报道，微软已在部分应用中用自家的AI取代了OpenAI和Anthropic的技术。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074548850996707412",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
