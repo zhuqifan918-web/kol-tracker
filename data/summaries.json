@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
       "$NVDA",
-      "$AMZN",
       "$MSFT",
-      "$META"
+      "$AMZN",
+      "$META",
+      "$AVGO"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "总统交易与利益冲突",
-      "AI泡沫与回报质疑",
-      "劳动力市场疲软",
-      "全球地缘政治风险",
-      "市场集中度与波动"
+      "AI投资风险与回报不确定性",
+      "特朗普内幕交易争议",
+      "宏观经济疲软与地缘政治紧张"
     ],
-    "recent_shift": "近期更聚焦曝光总统交易的时机争议，并对AI和劳动力市场表达谨慎态度。",
+    "recent_shift": "近期观点从对AI和科技股的乐观转为关注风险，更多强调经济下行和股市泡沫警告。",
     "representative_quotes": [
-      "This is interesting timing. On July 23, 2025, Trump purchased $5 million of Broadcom, $AVGO, Meta. $META, Amazon, $AMZN, Apple, $AAPL, Microsoft, $MSFT, and Nvidia, $NVDA. Later that day, the Trump admin announced its AI Action Plan, policy expected to benefit those companies.",
-      "'AI investments are a circular bet, as ROI disappoints,' per Bain.",
-      "The number of Americans facing unemployment for at least 27 weeks has climbed above 1.8 million on average this year, per CNBC"
+      "Short sellers are getting wiped out. \"Those poor bastards. I never liked short guys because they're betting against the country.\"",
+      "Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\"",
+      "Gold has overtaken US government bonds as the world’s top reserve asset, per ECB"
     ],
-    "generated_at": "2026-07-06T23:58:50.235032+00:00"
+    "generated_at": "2026-07-07T02:56:58.089495+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
