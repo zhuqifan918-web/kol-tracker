@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2074320246110929341",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "“Geopolitical tensions continue to drive strong central bank demand for gold,” wrote ECB president Christine Lagarde in the report.\n\nRead more: https://t.co/Git1qcoD3b",
+    "tweet_url": "https://x.com/unusual_whales/status/2074320246110929341",
+    "published_at": "2026-07-07T02:31:00+00:00",
+    "fetched_at": "2026-07-07T02:56:22.013359+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到欧洲央行行长拉加德表示地缘政治紧张局势推高了各国央行对黄金的需求，这对金价构成利多因素。",
+      "translation": "“地缘政治紧张局势继续推动各国央行对黄金的强劲需求，”欧洲央行行长克里斯蒂娜·拉加德在报告中写道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074309747587653887",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran's military fired at least two missiles at commercial ships transiting the Strait of Hormuz, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2074309747587653887",
+    "published_at": "2026-07-07T01:49:17+00:00",
+    "fetched_at": "2026-07-07T02:56:27.066330+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗军事行动袭击霍尔木兹海峡商船，可能导致全球石油供应中断，推高油价，增加市场不确定性，对航运和能源相关资产构成负面影响。",
+      "translation": "突发：据Axios报道，伊朗军方至少向两艘穿越霍尔木兹海峡的商船发射了导弹。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074299357868732667",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas, per the White House.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074299357868732667",
+    "published_at": "2026-07-07T01:08:00+00:00",
+    "fetched_at": "2026-07-07T02:56:31.222759+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TM"
+      ],
+      "direction": "bullish",
+      "summary": "丰田计划投资36亿美元，将Tacoma皮卡生产从墨西哥移至美国德州，这有助于提升美国就业和制造业，对丰田（TM）股价可能形成利好，反映公司对美国市场的承诺和供应链调整策略。",
+      "translation": "突发：据白宫消息，丰田将投资36亿美元，将其Tacoma皮卡生产从墨西哥转移至德克萨斯州。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074266642260107363",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -79,6 +138,25 @@
       "summary": "该推文指出美联储通胀衡量方法即将调整，可能使未来数据看起来更乐观，对市场心理和利率预期有潜在影响，但未明确指向具体资产。",
       "translation": "据Axios报道，美联储通胀衡量方法的调整有望让今年晚些时候的经济数据看起来更好。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074216059041726884",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: Get Trump Accounts immediately \"for your kids\" … if they do, their kids will \"become, actually, very rich.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2074216059041726884",
+    "published_at": "2026-07-06T19:37:00+00:00",
+    "fetched_at": "2026-07-07T02:56:43.594865+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文中特朗普鼓励人们购买“特朗普账户”，并声称此举可让子女致富，暗示其具有投资价值。但未提及具体股票或加密货币，属于模糊的推荐，需谨慎对待。",
+      "translation": "特朗普：立即为你的孩子开设特朗普账户……如果他们这样做，他们的孩子将“实际上变得非常富有”。",
+      "confidence": "low"
     }
   },
   {
