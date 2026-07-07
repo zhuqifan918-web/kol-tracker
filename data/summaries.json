@@ -25,50 +25,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MSFT",
-      "$MU",
-      "$AMD",
       "$NVDA",
-      "$TSLA"
+      "$MU",
+      "$MSFT",
+      "$AMZN",
+      "$DELL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资回报不确定性",
-      "劳动力市场疲软",
-      "地缘政治风险推高黄金需求",
-      "消费者财务状况恶化",
-      "政治人物内幕交易"
+      "AI投资回报不及预期并导致裁员",
+      "劳动力市场冷却与家庭财务压力上升",
+      "政治人物交易与市场透明度问题",
+      "地缘政治风险与避险资产如黄金需求",
+      "市场波动与对科技股泡沫的担忧"
     ],
-    "recent_shift": "近期更多关注经济衰退信号和AI泡沫风险，较之前对市场乐观情绪有所减弱",
+    "recent_shift": "前期关注特朗普交易与市场乐观言论，近期转向对经济衰退、自动化无效裁员及家庭债务危机的担忧，同时指出AI泡沫风险。",
     "representative_quotes": [
-      "Job openings dropped to 7.18 million in July, a level rarely seen since the pandemic began.",
-      "The AI stock rally is minting US millionaires at the fastest pace in 4 years.",
-      "Trump: 'Go out and buy a Dell. $DELL.'"
+      "Trump: 'Every time I see a crypto guy where they dropped an investigation, I said, \"You're lucky I'm president.\"'",
+      "BREAKING: Trump says he believes the stock market is “going to go through the roof.”",
+      "There is a 93% chance the next Claude Opus is released by October 31, per Polymarket: https://t.co/vnLENAHNGG"
     ],
-    "generated_at": "2026-07-07T06:39:30.457697+00:00"
+    "generated_at": "2026-07-07T10:19:58.806642+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "#SK海力士",
       "$MU",
+      "$GLW",
       "$NVDA",
-      "$AMAT"
+      "$AMAT",
+      "$LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI产业链核心瓶颈",
-      "玻璃基板和光互连是下一代AI芯片关键",
-      "大市值龙头股机构持续加仓",
-      "物理AI数据采集与存储需求增长",
-      "投资需规避杠杆和追高风险"
+      "存储芯片（HBM）主导AI产业链，海力士盈利爆发",
+      "康宁玻璃基板与光纤作为下一代AI底座",
+      "AI基建早期供不应求，大厂持续投入"
     ],
-    "recent_shift": "近期观点从全面看好存储芯片扩展至重视半导体设备制造和玻璃基板光纤等基础设施，但仍以存储为核心。",
+    "recent_shift": "近期强调玻璃基板（康宁）和半导体设备的机会，同时警惕杠杆风险并建议仓位管理。",
     "representative_quotes": [
-      "存储三家公司赚的1/3可能都要流向这三家。科磊、应用材料、泛林",
-      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
-      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的"
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。",
+      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。",
+      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！"
     ],
-    "generated_at": "2026-07-07T06:39:34.101300+00:00"
+    "generated_at": "2026-07-07T10:20:01.814309+00:00"
   }
 }

@@ -1,5 +1,68 @@
 [
   {
+    "tweet_id": "2074416685843612031",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Be Samsung at $1.24T:\n\n&gt; market: we don’t think you can keep hiking memory prices\n&gt; proceeds to hikes dram by 20%\n&gt; releases earnings\n&gt; most profitable company in the world beating $NVDA and $AAPL\n&gt; operating profits growing 1803% Y/Y  \n\nmarket: sells off Samsung -7%",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074416685843612031",
+    "published_at": "2026-07-07T08:54:13+00:00",
+    "fetched_at": "2026-07-07T10:18:49.707939+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "该推文对比了三星强劲的业绩表现与市场的负面反应，指出尽管三星通过提价和利润大幅增长成为全球最赚钱的公司，市场却抛售其股票。这揭示了市场对内存价格持续上涨能力的怀疑，与公司基本面存在矛盾，具有投资启示。",
+      "translation": "作为三星，市值1.24万亿美元：市场认为你无法持续提高内存价格，但三星却将DRAM价格上调20%，发布财报，成为全球最赚钱的公司，超过英伟达和苹果，营业利润同比增长1803%。市场却抛售三星，下跌7%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074405723816304743",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "One of the dumbest thematic selloffs I’ve seen to to date off:\n\n- $META compute news that’s not new\n- CPO delay report 1, that got refuted by $NVDA\n- CPO delay report 2, that got refuted by $NVDA\n\nHigh confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074405723816304743",
+    "published_at": "2026-07-07T08:10:39+00:00",
+    "fetched_at": "2026-07-07T10:18:55.546451+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出当前因META算力新闻和CPO延迟报告引发的抛售是过度反应，因为利空已被否认或早已公开，并暗示机构将在散户割肉后重新买入，因此看涨。",
+      "translation": "这是我见过的最愚蠢的主题性抛售之一：针对$META的算力新闻（其实并非新消息）、CPO延迟报告1（已被$NVDA否认）、CPO延迟报告2（已被$NVDA否认）。我有很高信心，机构最终会在散户割肉后，重新买入那些他们现在正在唱空的股票。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074402565207503360",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "牛市之中各个都是股神，买了不动你比股神还像股神，觉得自己顺极了，跌的时候才能知道自己啥逼样，天天恨不得自己是未成年。 https://t.co/5XPKOMiFey",
+    "tweet_url": "https://x.com/xiaomustock/status/2074402565207503360",
+    "published_at": "2026-07-07T07:58:06+00:00",
+    "fetched_at": "2026-07-07T10:19:13.506578+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文警示投资者在牛市中容易自满，只有下跌才能暴露真实水平。强调不要过度自信，应保持谨慎。",
+      "translation": "牛市之中各个都是股神，买了不动你比股神还像股神，觉得自己顺极了，跌的时候才能知道自己啥逼样，天天恨不得自己是未成年。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074381029146837207",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -172,6 +235,25 @@
       "direction": "bullish",
       "summary": "丰田计划投资36亿美元，将Tacoma皮卡生产从墨西哥移至美国德州，这有助于提升美国就业和制造业，对丰田（TM）股价可能形成利好，反映公司对美国市场的承诺和供应链调整策略。",
       "translation": "突发：据白宫消息，丰田将投资36亿美元，将其Tacoma皮卡生产从墨西哥转移至德克萨斯州。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074281741842325935",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Credit card balances have grown 11% year-over-year, outpacing the 4% increase in total household debt.\n\nRead more: https://t.co/REnvncIDTp",
+    "tweet_url": "https://x.com/unusual_whales/status/2074281741842325935",
+    "published_at": "2026-07-06T23:58:00+00:00",
+    "fetched_at": "2026-07-07T10:19:39.690587+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "信用卡余额同比增长11%，远超总家庭债务4%的增幅，表明消费者债务负担加重，可能预示消费支出放缓，对经济及股市构成潜在利空。",
+      "translation": "信用卡余额同比增长11%，超过总家庭债务4%的增幅。",
       "confidence": "high"
     }
   },
