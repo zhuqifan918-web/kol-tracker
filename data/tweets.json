@@ -1,5 +1,167 @@
 [
   {
+    "tweet_id": "2074548850996707412",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. \n\nCause this disparity between US vs. China mass production is getting ridiculous... \n\nBut it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+    "published_at": "2026-07-07T17:39:23+00:00",
+    "fetched_at": "2026-07-07T17:51:49.901438+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA",
+        "CCXI"
+      ],
+      "direction": "bearish",
+      "summary": "推文指出中国人形机器人产量远超美国预期，认为美国在人形机器人量产上落后，并呼吁更多政府补贴和供应链投资来追赶。这暗示对中国机器人产业和相关供应链（如稀土）的看好，同时看空特斯拉等美国公司短期前景。",
+      "translation": "美国怎么会落后这么多？新华社：中国今年人形机器人产量预计突破10万台。就连摩根士丹利最初预测2026年才产1.4万台……真的需要埃隆的$TSLA、$CCXI（Agility）、Apptronik和Figure赶紧追上。还需要美国政府给上游供应链和稀土注入更多补贴。因为中美在量产上的差距已经变得离谱……但这几乎感觉像是机器人领域的俄罗斯/美国太空竞赛的“斯普特尼克时刻”吧？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074548248098832894",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The New York Fed said one-year inflation expectations rose to 3.7% in June from 3.5%, the highest level since September 2023.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074548248098832894",
+    "published_at": "2026-07-07T17:37:00+00:00",
+    "fetched_at": "2026-07-07T17:52:30.168330+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "纽约联储数据显示6月一年期通胀预期从3.5%升至3.7%，创去年9月以来新高，可能强化美联储加息预期，对股市和债券市场构成压力。",
+      "translation": "突发：纽约联储数据显示，6月份一年期通胀预期从3.5%升至3.7%，为2023年9月以来最高水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074538181543018972",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: China’s central bank bought more gold in June, extending the longest buying streak since at least 2015, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074538181543018972",
+    "published_at": "2026-07-07T16:57:00+00:00",
+    "fetched_at": "2026-07-07T17:52:33.151797+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "中国央行连续增持黄金，可能预示对全球经济不确定性的避险需求，对黄金价格有支撑作用。",
+      "translation": "突发：中国央行在6月继续增持黄金，延长了自2015年以来最长的连续购买纪录，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074533565505876218",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-> People drawing swiggly lines over KOSPI mean nothing where it heads. When it's primarily Samsung/SK Hynix and forward operating income growth from DRAM/NAND. \n\n-> The swiggly drawing over $SIVE, $AEHR, and others mean nothing. When it's primarily hyperscaler suppliers, thematic premiums, and volume ramp orders determining valuations. \n\nThen if something randomly goes from $1 to $60 like $AXTI, they claim they spotted it with their \"Golden Egg Dragon Candle\", while ignoring anything with InP substrate and otpical demand. \n\nThere's rare times like these where it's a massive sector drop all together.\n\nBut now the TA bros are showing up everywhere saying\nhere's a $40 course on how they predicted it with swiggly lines.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074533565505876218",
+    "published_at": "2026-07-07T16:38:39+00:00",
+    "fetched_at": "2026-07-07T17:51:57.857761+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KOSPI",
+        "SAMSUNG",
+        "SK HYNIX",
+        "SIVE",
+        "AEHR",
+        "AXTI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文批评技术分析（TA）在KOSPI、SIVE、AEHR等投资标的中的有效性，认为其如同抛硬币，而基本面因素如DRAM/NAND盈利增长、超大规模供应商需求和主题溢价才是估值关键。作者对TA持否定态度，但未明确表达市场方向。",
+      "translation": "这是典型的视觉技术分析者，就像抛硬币一样50%对50%：\n如果走势相反，他们会说“ABC形态失效”，早该知道…\n如果猜对了，就推广他们每月40美元的图表。\n-> 人们在KOSPI上画曲线毫无意义，其走势主要由三星/SK海力士和DRAM/NAND的远期营业利润增长决定。\n-> 在SIVE、AEHR等股票上画曲线也无意义，估值主要取决于超大规模供应商、主题溢价和量产订单量。\n然后，如果某只股票像AXTI那样从1美元涨到60美元，他们会声称用“金蛋神龙蜡烛图”发现了它，而忽略InP衬底和光学需求。\n偶尔会出现整个板块暴跌的时刻。\n但现在技术分析者到处出现，说“这里有40美元的课程，教你如何用曲线预测它”。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074530631976116405",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran has intensified attacks on ships in the Strait of Hormuz, per the Guardian",
+    "tweet_url": "https://x.com/unusual_whales/status/2074530631976116405",
+    "published_at": "2026-07-07T16:27:00+00:00",
+    "fetched_at": "2026-07-07T17:52:35.724840+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗加强在霍尔木兹海峡的袭击可能扰乱全球石油运输，推高油价，对能源板块和通胀预期产生负面影响。",
+      "translation": "突发：据《卫报》报道，伊朗加大了对霍尔木兹海峡船只的袭击力度。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074528115708064233",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: China overtakes US in fintech patent filings, per Nikkei.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074528115708064233",
+    "published_at": "2026-07-07T16:17:00+00:00",
+    "fetched_at": "2026-07-07T17:52:37.666804+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "中国在金融科技专利数量上超越美国，表明中国在金融科技领域竞争力增强，可能利好中国相关上市公司或ETF。",
+      "translation": "突发：据日经新闻报道，中国在金融科技专利申请数量上超越美国。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074528080102924537",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @WLinvestment TA is astrology for fin bros",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074528080102924537",
+    "published_at": "2026-07-07T16:16:51+00:00",
+    "fetched_at": "2026-07-07T17:52:02.533638+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文将技术分析（TA）比作星座占星术，对投资分析方法持讽刺态度，但未提供具体投资建议或方向。",
+      "translation": "技术分析是金融兄弟们的占星术。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2074523082287624614",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Earnings,  not just valuations, are flashing bubble warnings, per FT.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074523082287624614",
+    "published_at": "2026-07-07T15:57:00+00:00",
+    "fetched_at": "2026-07-07T17:52:39.331268+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "英国《金融时报》警告称，不仅是估值，盈利水平也发出泡沫信号，暗示当前市场可能存在过高风险。",
+      "translation": "突发：据英国《金融时报》，不仅是估值，盈利水平也发出泡沫警告。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074518048837685340",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
