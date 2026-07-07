@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2074612287726645490",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We just changed the options game.  \n\nNow, ask Mr Whale to help you navigate the options flow. \n\nIt can create the filters you want, help determine unusual flow, and so much more. \n\nDon't just follow the flow; control it. \n\nCheck it out: https://t.co/HrgxqpXsL8 https://t.co/v5qn1uEhyj",
+    "tweet_url": "https://x.com/unusual_whales/status/2074612287726645490",
+    "published_at": "2026-07-07T21:51:28+00:00",
+    "fetched_at": "2026-07-07T22:35:47.232144+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣传一款名为“Mr Whale”的期权流分析工具，声称能帮助用户自定义过滤器、识别异常期权流动，并引导用户主动控制而非被动跟随期权流。虽未提及具体标的，但明确指向期权市场分析工具推广，与投资相关。",
+      "translation": "我们刚刚改变了期权游戏的规则。现在，让Mr Whale帮助你导航期权流。它可以创建你想要的过滤器，帮助识别异常流动，以及更多功能。不要只是跟随流动；要控制它。点此查看：https://t.co/HrgxqpXsL8",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074592036490199531",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This is incredible.\n\nFrom a million options per minute, to the flow you want to see.  \n\nWe just made it possible to have Mr. Whale help you find the unusual options flow you want.  \n\nIt is a game changer.  \n\nSee more: https://t.co/nTn0dFANNp https://t.co/W0gPTpDBDR",
+    "tweet_url": "https://x.com/unusual_whales/status/2074592036490199531",
+    "published_at": "2026-07-07T20:31:00+00:00",
+    "fetched_at": "2026-07-07T22:35:52.929825+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文介绍一项新功能，允许用户借助“Mr. Whale”筛选异常期权流，被认为是游戏规则改变者。整体对期权分析工具持有正面看法。",
+      "translation": "这太不可思议了。从每分钟百万个期权，到你想要看到的流向。我们刚刚实现了让“Mr. Whale”帮你找到你想要的不寻常期权流。这是一个游戏规则改变者。查看更多：https://t.co/nTn0dFANNp https://t.co/W0gPTpDBDR",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074581698604593367",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

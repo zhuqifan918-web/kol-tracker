@@ -24,26 +24,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$MSFT",
-      "$NVDA",
       "$AMZN",
+      "$NVDA",
       "$DELL",
-      "$SKHY"
+      "$AAPL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "美股AI泡沫与估值风险",
-      "地缘政治紧张加剧（伊朗、海峡）",
-      "美元储备地位削弱与黄金增持",
-      "消费疲软与家庭财务恶化",
-      "自动化裁员未带来预期回报"
+      "地缘政治紧张与避险资产",
+      "人工智能投资与泡沫风险",
+      "总统交易与内幕嫌疑",
+      "美国经济减速与家庭财务恶化",
+      "央行黄金增持与美元储备下降"
     ],
-    "recent_shift": "近期推文明显转向关注风险，如央行减持美元、家庭财务状况恶化、AI投资回报不佳，且多家机构建议获利了结或发出看空信号。",
+    "recent_shift": "近期推文对中国AI竞争和地缘冲突的关注增加，同时强调经济疲软信号，整体从偏乐观转为更谨慎。",
     "representative_quotes": [
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
-      "Bank of America has told investors it may be time to take profits.",
-      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\""
+      "We just made it possible to have Mr. Whale help you find the unusual options flow you want. It is a game changer.",
+      "Trump: 'Every time I see a crypto guy where they dropped an investigation, I said, You're lucky I'm president.'",
+      "'AI investments are a circular bet, as ROI disappoints,' per Bain."
     ],
-    "generated_at": "2026-07-07T19:42:34.330122+00:00"
+    "generated_at": "2026-07-07T22:36:04.057192+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
