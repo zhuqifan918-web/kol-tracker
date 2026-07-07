@@ -1,27 +1,25 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$CCXI",
-      "$NVDA",
-      "$META",
-      "$AAOI"
+      "NVDA",
+      "META",
+      "SIVE",
+      "CCXI",
+      "LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学芯片/激光器供应链瓶颈",
-      "人形机器人商业化前景",
-      "AI数据中心资本支出结构性增长",
-      "记忆体与存储短缺",
-      "中美科技竞争"
+      "光子学与光学瓶颈",
+      "人形机器人供应链与美国制造",
+      "AI算力基础设施与超大规模资本支出"
     ],
-    "recent_shift": "从META报道引发的恐慌性抛售和光学板块大跌，作者看多情绪未变，反而视为买入机会。",
+    "recent_shift": "从对光子学普遍乐观转向注意市场波动中低估机会，但仍坚持长期结构性短缺论点。",
     "representative_quotes": [
-      "If everything crashes together… indiscriminate selloffs from cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
-      "I find it hard for any bears to defend against this humanoid bull case.",
-      "Photomics is backed by actual revenue numbers… I'm familiar with what I'm holding so I'm confident in these numbers playing out."
+      "I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts. So they can walk down the same path as $LITE when they scaled from $3B to $60B+.",
+      "I'm actually excited for the United States gets its first pure play Humanoid public company!",
+      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates."
     ],
-    "generated_at": "2026-07-07T19:42:30.764133+00:00"
+    "generated_at": "2026-07-07T21:16:03.631578+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

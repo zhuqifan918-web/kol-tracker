@@ -1,5 +1,30 @@
 [
   {
+    "tweet_id": "2074581698604593367",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince there were warnings that: \n\nSensors could be disabled or exploited remotely, given Hesai firmware update disabled lidar units on February 29 (as evidence). \n\nBy second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE that are used in western lidar players.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+    "published_at": "2026-07-07T19:49:55+00:00",
+    "fetched_at": "2026-07-07T21:15:24.384538+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "OUST",
+        "AEVA",
+        "LITE",
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "由于中国激光雷达公司Hesai与美国NVDA合作受监管审查，可能利好西方激光雷达制造商（如OUST、AEVA）及上游激光供应商（如LITE、SIVE），因为竞争减少。",
+      "translation": "中国激光雷达制造商禾赛科技因与NVDA的合作伙伴关系及激光雷达传感器面临美国国家审查。对于OUST、AEVA和西方激光雷达行业的兄弟们来说，如果竞争对手因监管被排除，这通常是利好。因为有警告称：传感器可能被远程禁用或利用，比如2月29日禾赛固件更新禁用了激光雷达单元（作为证据）。二阶效应来看，这也利好用于西方激光雷达厂商的上游激光供应商，如LITE和SIVE。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074578446890545329",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
