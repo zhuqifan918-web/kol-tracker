@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2074466925263061100",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Raymond James initiated coverage of $SPCX with “Strong Buy”.\n\nGiving it a $800 PT, valuing SpaceX at a ~$10T valuation.\n\nNo words. Jokes about “institutional” notes for retail write themselves. https://t.co/B0uRojaNJZ",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074466925263061100",
+    "published_at": "2026-07-07T12:13:51+00:00",
+    "fetched_at": "2026-07-07T12:41:21.293775+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "Raymond James将SPCX评级上调至强力买入，目标价800美元，估值约10万亿美元，但推文带有讽刺意味，暗示机构评级可能不适用于散户。",
+      "translation": "Raymond James将$SPCX评级定为“强力买入”，给出800美元的目标价，使SpaceX估值达到约10万亿美元。无话可说。关于“机构”评级的笑话对散户来说不言而喻。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074457651015229693",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bank of America has told investors it may be time to take profits.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074457651015229693",
+    "published_at": "2026-07-07T11:37:00+00:00",
+    "fetched_at": "2026-07-07T12:41:48.878602+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BAC"
+      ],
+      "direction": "bearish",
+      "summary": "美国银行建议投资者获利了结，暗示市场可能见顶，需警惕回调风险。",
+      "translation": "美国银行已告知投资者，可能是时候获利了结了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074452617858883818",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Barclays says it sees signs US equity leadership is beginning to fade.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074452617858883818",
+    "published_at": "2026-07-07T11:17:00+00:00",
+    "fetched_at": "2026-07-07T12:41:50.406457+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "巴克莱认为美股市场的领导力正在减弱，暗示可能的市场转变或潜在风险。",
+      "translation": "巴克莱称其发现美国股市的领导地位开始消退的迹象。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074416685843612031",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -1714,6 +1775,25 @@
       "summary": "该推文引用Axios数据指出，美国股市在家庭资产中的占比达到历史最高水平，暗示市场潜在风险或资产配置需关注。",
       "translation": "根据Axios的数据，美国股市在家庭资产中的占比达到历史最高水平：https://t.co/amzkTMrOPv",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2073421826215276678",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Over the past year, nearly all net job growth has come from healthcare and social assistance, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2073421826215276678",
+    "published_at": "2026-07-04T15:01:00+00:00",
+    "fetched_at": "2026-07-07T12:42:06.789500+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用华尔街日报数据，指出过去一年几乎所有净新增就业来自医疗和社会救助行业。这暗示其他行业就业增长乏力，可能影响消费支出和整体经济结构，但未直接提供投资建议。",
+      "translation": "过去一年，几乎所有净就业增长都来自医疗和社会救助行业——据华尔街日报。",
+      "confidence": "medium"
     }
   },
   {

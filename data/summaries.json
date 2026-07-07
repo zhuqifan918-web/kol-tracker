@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "CCXI",
-      "SIVE",
-      "MU",
-      "AAOI",
-      "LITE"
+      "$SIVE",
+      "$CCXI",
+      "$NVDA",
+      "$MU",
+      "$AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施资本支出持续增长",
-      "光子学/光互连瓶颈",
-      "人形机器人商业化",
-      "存储结构性需求",
-      "供应链瓶颈投资"
+      "光子学瓶颈与AI组网升级",
+      "人形机器人产业化与供应链美国本土化",
+      "记忆体结构性短缺与多年代需求",
+      "AI基建资本开支持续高涨",
+      "市场情绪过度反应与V型反弹机会"
     ],
-    "recent_shift": "近期市场下跌后，作者重申对光子学主题的坚定信心，认为基本面未变，并指出回调是机会而非趋势反转。",
+    "recent_shift": "从广泛看多光子学和存储，到更聚焦于人形机器人和光子学具体公司的商业化进展，同时强调市场短期波动不改长期基本面。",
     "representative_quotes": [
-      "I'm not going to say anything but I think it speaks for itself.",
-      "Regardless, nice to see some recovery with familiar faces like $HOOD, $HIMS, and $RDDT though.",
-      "I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts."
+      "No words. Jokes about “institutional” notes for retail write themselves. https://t.co/B0uRojaNJZ",
+      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
+      "Same thing happens in reverse after selloffs ig, even if fundamentals didn't change."
     ],
-    "generated_at": "2026-07-07T06:39:37.809971+00:00"
+    "generated_at": "2026-07-07T12:42:15.944498+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
       "$MU",
-      "$MSFT",
       "$AMZN",
-      "$DELL"
+      "$MSFT",
+      "$TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资回报不及预期并导致裁员",
-      "劳动力市场冷却与家庭财务压力上升",
-      "政治人物交易与市场透明度问题",
-      "地缘政治风险与避险资产如黄金需求",
-      "市场波动与对科技股泡沫的担忧"
+      "经济放缓与就业疲软",
+      "消费者财务压力上升",
+      "AI投资回报存疑与裁员反噬"
     ],
-    "recent_shift": "前期关注特朗普交易与市场乐观言论，近期转向对经济衰退、自动化无效裁员及家庭债务危机的担忧，同时指出AI泡沫风险。",
+    "recent_shift": "近期从关注结构性机会转向强调市场风险、地缘冲突和消费承压",
     "representative_quotes": [
-      "Trump: 'Every time I see a crypto guy where they dropped an investigation, I said, \"You're lucky I'm president.\"'",
-      "BREAKING: Trump says he believes the stock market is “going to go through the roof.”",
-      "There is a 93% chance the next Claude Opus is released by October 31, per Polymarket: https://t.co/vnLENAHNGG"
+      "Bank of America has told investors it may be time to take profits.",
+      "Barclays says it sees signs US equity leadership is beginning to fade.",
+      "Geopolitical tensions continue to drive strong central bank demand for gold."
     ],
-    "generated_at": "2026-07-07T10:19:58.806642+00:00"
+    "generated_at": "2026-07-07T12:42:12.209931+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
