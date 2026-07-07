@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MU",
-      "$AMZN",
-      "$NVDA",
-      "$DELL",
-      "$AMD"
+      "NVDA",
+      "AMZN",
+      "MSFT",
+      "MU",
+      "DELL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "劳动力市场疲软",
-      "消费者财务压力",
-      "AI投资回报不确定性",
       "地缘政治风险加剧",
-      "央行减持美元"
+      "货币政策与通胀不确定性",
+      "市场泡沫担忧",
+      "贸易保护主义影响",
+      "AI投资回报存疑"
     ],
-    "recent_shift": "相比7月6日的乐观情绪，7月7日的地缘政治事件和就业数据转弱使基调更谨慎。",
+    "recent_shift": "近期更关注滞胀和劳动力市场疲软，隐含对股市估值和增长的担忧加深。",
     "representative_quotes": [
-      "BREAKING: Iran's military fired at least two missiles at commercial ships transiting the Strait of Hormuz, per Axios",
-      "Donald Trump purchased between $217,000 and $530,000 in Micron Technology, $MU, stock during March 2026. He just called $MU a 'great company' after it committed to donate $250 million to the president's Trump Accounts. Unusual.",
-      "43.7% of consumer households that reported being worse off financially than one year ago, per YF."
+      "BREAKING: The New York Fed said one-year inflation expectations rose to 3.7% in June from 3.5%, the highest level since September 2023.",
+      "BREAKING: Iran has intensified attacks on ships in the Strait of Hormuz, per the Guardian",
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT."
     ],
-    "generated_at": "2026-07-07T15:41:20.120428+00:00"
+    "generated_at": "2026-07-07T17:52:52.088815+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
