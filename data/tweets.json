@@ -1,5 +1,192 @@
 [
   {
+    "tweet_id": "2074518048837685340",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Chinese authorities have held meetings with top tech firms over the past month ​about potentially restricting overseas access to China's AI models, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2074518048837685340",
+    "published_at": "2026-07-07T15:37:00+00:00",
+    "fetched_at": "2026-07-07T15:40:43.041168+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中国当局与顶尖科技公司开会讨论可能限制海外访问中国AI模型，这对投资AI领域的公司可能构成利空，影响相关企业的全球市场拓展和估值。",
+      "translation": "中国当局在过去一个月与顶级科技公司举行了会议，讨论可能限制海外访问中国的AI模型，据路透社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074513015928664225",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China's DeepSeek is developing its own AI chip, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2074513015928664225",
+    "published_at": "2026-07-07T15:17:00+00:00",
+    "fetched_at": "2026-07-07T15:40:44.892584+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "AMD"
+      ],
+      "direction": "neutral",
+      "summary": "中国公司DeepSeek自主研发AI芯片，可能对英伟达、AMD等芯片供应商构成长期竞争压力，但目前影响有限，市场需关注其进展。",
+      "translation": "中国DeepSeek正在开发自己的AI芯片，据路透社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074507982986002885",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Amazon, $AMZN, is looking to raise at least $25 billion from a US dollar bond sale, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2074507982986002885",
+    "published_at": "2026-07-07T14:57:00+00:00",
+    "fetched_at": "2026-07-07T15:40:46.586133+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "neutral",
+      "summary": "亚马逊（AMZN）计划通过美元债券发行筹集至少250亿美元，反映公司积极融资以支持运营或扩张，对股价影响中性偏正面，但需关注市场对债券需求的反应。",
+      "translation": "亚马逊（$AMZN）正寻求通过美元债券发行筹集至少250亿美元，据彭博社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074502949926035874",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Williams: We are likely near the peak impact of tariffs",
+    "tweet_url": "https://x.com/unusual_whales/status/2074502949926035874",
+    "published_at": "2026-07-07T14:37:00+00:00",
+    "fetched_at": "2026-07-07T15:40:48.126360+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储官员威廉姆斯表示关税影响可能已接近峰值，这暗示通胀压力或已见顶，对市场情绪有稳定作用，但未给出明确方向性指引。",
+      "translation": "美联储的威廉姆斯：我们可能已接近关税影响的顶峰。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074500941899030867",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "抄底被活埋跌服跌懵逼了，亏的麻麻的今天",
+    "tweet_url": "https://x.com/xiaomustock/status/2074500941899030867",
+    "published_at": "2026-07-07T14:29:01+00:00",
+    "fetched_at": "2026-07-07T15:40:32.119342+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "投资者表达在抄底后遭遇大幅亏损，情绪悲观，认为市场持续下跌超出预期。",
+      "translation": "抄底被活埋，跌服了，跌懵了，亏得惨不忍睹今天。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074497916392325506",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Williams: I feel more positive about inflation in the near term due to energy prices",
+    "tweet_url": "https://x.com/unusual_whales/status/2074497916392325506",
+    "published_at": "2026-07-07T14:17:00+00:00",
+    "fetched_at": "2026-07-07T15:40:49.802978+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储官员威廉姆斯对短期内通胀前景更加乐观，主要因为能源价格下降。这可能意味着美联储货币政策可能转鸽，对市场流动性环境有利。",
+      "translation": "美联储的威廉姆斯：由于能源价格，我对近期通胀感到更加乐观。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074494514061017508",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundamentals. \n\nIndiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074494514061017508",
+    "published_at": "2026-07-07T14:03:29+00:00",
+    "fetched_at": "2026-07-07T15:40:14.244220+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS",
+        "MRVL",
+        "INTC",
+        "SNDK",
+        "AMD",
+        "SIVE",
+        "MU",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为半导体和存储板块多只股票集体大跌（-4%至-10%以上）并非基本面问题，而是由连锁保证金平仓等非理性抛售导致。作者暗示这种无差别抛售通常为基本面改善后的投资提供机会，整体观点偏乐观。",
+      "translation": "只是说一下：如果所有股票一起崩盘——包括$NBIS、$MRVL、$INTC、$SNDK、$AMD、$SIVE、$MU、$LITE等，今天它们都已下跌-4%至-10%以上，这很可能与个股基本面无关。由连锁保证金平仓等导致的盲目抛售，通常在基本面改善后提供有吸引力的机会。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074489144592699882",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SpaceX, $SPCX, joins the Nasdaq-100 today in the fastest index inclusion on record.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074489144592699882",
+    "published_at": "2026-07-07T13:42:08+00:00",
+    "fetched_at": "2026-07-07T15:40:52.172810+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX（$SPCX）以最快速度被纳入纳斯达克100指数，这通常被视为股价利好信号，可能短期推动该股上涨。",
+      "translation": "突发：SpaceX（$SPCX）今日以史上最快纪录被纳入纳斯达克100指数。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074482817484906730",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2074482817484906730",
+    "published_at": "2026-07-07T13:17:00+00:00",
+    "fetched_at": "2026-07-07T15:40:54.960582+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "多个中央银行计划在未来十年减少美元持有量，增加黄金和欧元配置，这可能对美元汇率及美元资产形成长期利空，同时利好黄金和欧元相关投资。",
+      "translation": "突发：据路透社报道，多国央行首次计划在未来十年削减美元持有量，同时增加黄金和欧元的配置。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074466925263061100",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -58,6 +245,25 @@
       "summary": "巴克莱认为美股市场的领导力正在减弱，暗示可能的市场转变或潜在风险。",
       "translation": "巴克莱称其发现美国股市的领导地位开始消退的迹象。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074417712261169223",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "纠正一下是Baillie Gifford、Coatue、Situational Awareness Partners 三方合计70亿美金",
+    "tweet_url": "https://x.com/xiaomustock/status/2074417712261169223",
+    "published_at": "2026-07-07T08:58:18+00:00",
+    "fetched_at": "2026-07-07T15:40:33.877375+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到Baillie Gifford、Coatue、Situational Awareness Partners三方合计投资70亿美金，属于重大机构投资动态，可能对相关公司或行业产生影响。",
+      "translation": "纠正一下是Baillie Gifford、Coatue、Situational Awareness Partners三方合计70亿美金",
+      "confidence": "high"
     }
   },
   {
