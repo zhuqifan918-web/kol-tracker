@@ -1,5 +1,122 @@
 [
   {
+    "tweet_id": "2074381029146837207",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Trump: “You have a couple of guys who went short. Those poor ******* they’re in big trouble.\n\nThey’re being wiped out. The short guys. \n\nI never liked short guys because they’re betting against the country”. https://t.co/6RW2KuzDoW",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074381029146837207",
+    "published_at": "2026-07-07T06:32:32+00:00",
+    "fetched_at": "2026-07-07T06:38:20.236214+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普批评做空行为，认为做空者是在赌国家经济失败，市场可能因此产生乐观情绪，但无具体投资标的。",
+      "translation": "特朗普：“有几个家伙做空。那些可怜的混蛋，他们有大麻烦了。他们正在被消灭。那些做空的人。我从来不喜欢做空的人，因为他们是在赌国家失败。”",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2074380412240228648",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩国股市涨熔断的时候坚决不买，\n跌停熔断韩国人都吓死了抓紧买",
+    "tweet_url": "https://x.com/xiaomustock/status/2074380412240228648",
+    "published_at": "2026-07-07T06:30:05+00:00",
+    "fetched_at": "2026-07-07T06:38:39.192369+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文建议在韩国股市出现恐慌性大跌时买入，认为此时是买入良机，而非在上涨熔断时追高。",
+      "translation": "当韩国股市因上涨而熔断时，坚决不买；当因跌停熔断导致韩国人都吓坏时，抓紧买入。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074380020429226196",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天应该是跌到位了，\n美光跌到了918美金，\n海力士跌到了1400美金左右。\n跌的这些后上车跟风存储的人都折磨的\n绝望离场就是新的开始。\n美股韩股的特点股价涨幅得跟财报匹配 https://t.co/m5fApc3Tb7",
+    "tweet_url": "https://x.com/xiaomustock/status/2074380020429226196",
+    "published_at": "2026-07-07T06:28:31+00:00",
+    "fetched_at": "2026-07-07T06:38:41.308091+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "SKHynix"
+      ],
+      "direction": "bullish",
+      "summary": "认为美股韩股存储芯片股已跌到位，散户离场后将是新起点，股价涨幅需与财报匹配。",
+      "translation": "今天应该是跌到位了，美光跌到了918美金，海力士跌到了1400美金左右。跌的这些后上车跟风存储的人都折磨得绝望离场就是新的开始。美股韩股的特点股价涨幅得跟财报匹配。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074350444667945043",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Job openings dropped to 7.18 million in July, a level rarely seen since the pandemic began.\n\nRead more: https://t.co/UkPkYpQudD",
+    "tweet_url": "https://x.com/unusual_whales/status/2074350444667945043",
+    "published_at": "2026-07-07T04:31:00+00:00",
+    "fetched_at": "2026-07-07T06:38:52.726274+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "7月职位空缺大幅下降至718万，为疫情以来罕见低点，可能预示劳动力市场放缓，对经济复苏构成压力，利空股市。",
+      "translation": "7月份职位空缺降至718万个，这是自疫情开始以来很少见的水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074342139924775011",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Direct and indirect stock holdings, including in mutual funds or retirement plans, accounted for an all-time high of 45% of households’ financial assets in the second quarter, according to Federal Reserve data.\n\nRead more: https://t.co/6oRlZ6r3tH",
+    "tweet_url": "https://x.com/unusual_whales/status/2074342139924775011",
+    "published_at": "2026-07-07T03:58:00+00:00",
+    "fetched_at": "2026-07-07T06:38:55.213257+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "根据美联储数据，第二季度美国家庭直接和间接股票持有（含共同基金和退休计划）占金融资产比例创历史新高至45%，表明散户对股市参与度提升，可能支撑市场资金面，属利好信号。",
+      "translation": "根据美联储数据，第二季度美国家庭直接和间接的股票持有（包括共同基金或退休计划）占金融资产的比例达到了45%的历史新高。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074327040304562539",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "While 80% of those surveyed who have piloted an AI or autonomous technology reported workforce reductions, the businesses cut jobs due to automation regardless of whether the technology was actually generating returns.\n\nRead more: https://t.co/TOagBfLIcI",
+    "tweet_url": "https://x.com/unusual_whales/status/2074327040304562539",
+    "published_at": "2026-07-07T02:58:00+00:00",
+    "fetched_at": "2026-07-07T06:39:00.238111+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到，虽然80%的受访企业已试点AI或自动化技术并导致裁员，但这些裁员发生在技术尚未产生回报之前，暗示自动化投资短期内可能无法带来预期收益，对相关行业和就业市场构成负面影响。",
+      "translation": "尽管80%的受访者表示已经试点AI或自主技术的企业出现了劳动力缩减，但企业在自动化尚未产生回报的情况下就因自动化而裁员。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074320246110929341",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

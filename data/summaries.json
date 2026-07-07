@@ -1,70 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$CCXI",
-      "$SIVE",
-      "$AAOI",
-      "$NVDA",
-      "$MU"
+      "CCXI",
+      "SIVE",
+      "MU",
+      "AAOI",
+      "LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子/光学瓶颈（CPO、CW激光器、InP基板）",
-      "人形机器人/物理AI商业化",
-      "存储结构性短缺（内存、NAND）"
+      "AI基础设施资本支出持续增长",
+      "光子学/光互连瓶颈",
+      "人形机器人商业化",
+      "存储结构性需求",
+      "供应链瓶颈投资"
     ],
-    "recent_shift": "从早期更偏向光子学叙事，近期转向更强调人形机器人和内存的长期结构性机遇，并认为短期市场回调是机会。",
+    "recent_shift": "近期市场下跌后，作者重申对光子学主题的坚定信心，认为基本面未变，并指出回调是机会而非趋势反转。",
     "representative_quotes": [
-      "Felt very weird to see a profitable company get dragged down after earnings. But in hindsight, given the increase hyperscaler capex, the drop felt more like it's more relative opportunity cost more than fundamentals?",
-      "I'm convinced if Agility raised a very small private round at $39B as well from $2.5B (which it definitely could), to set a valuation anchor. Investors would be foaming in the mouth for a private allocation, just due to psychology rather than underlying fundamentals.",
-      "If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028. Markets don't typically wait to price things in advance, but some ideas might be a tad early or in the buildout given it's H2 2026 now."
+      "I'm not going to say anything but I think it speaks for itself.",
+      "Regardless, nice to see some recovery with familiar faces like $HOOD, $HIMS, and $RDDT though.",
+      "I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts."
     ],
-    "generated_at": "2026-07-06T21:22:11.289693+00:00"
+    "generated_at": "2026-07-07T06:39:37.809971+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
       "$MSFT",
-      "$AMZN",
-      "$META",
-      "$AVGO"
+      "$MU",
+      "$AMD",
+      "$NVDA",
+      "$TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资风险与回报不确定性",
-      "特朗普内幕交易争议",
-      "宏观经济疲软与地缘政治紧张"
+      "AI投资回报不确定性",
+      "劳动力市场疲软",
+      "地缘政治风险推高黄金需求",
+      "消费者财务状况恶化",
+      "政治人物内幕交易"
     ],
-    "recent_shift": "近期观点从对AI和科技股的乐观转为关注风险，更多强调经济下行和股市泡沫警告。",
+    "recent_shift": "近期更多关注经济衰退信号和AI泡沫风险，较之前对市场乐观情绪有所减弱",
     "representative_quotes": [
-      "Short sellers are getting wiped out. \"Those poor bastards. I never liked short guys because they're betting against the country.\"",
-      "Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\"",
-      "Gold has overtaken US government bonds as the world’s top reserve asset, per ECB"
+      "Job openings dropped to 7.18 million in July, a level rarely seen since the pandemic began.",
+      "The AI stock rally is minting US millionaires at the fastest pace in 4 years.",
+      "Trump: 'Go out and buy a Dell. $DELL.'"
     ],
-    "generated_at": "2026-07-07T02:56:58.089495+00:00"
+    "generated_at": "2026-07-07T06:39:30.457697+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
+      "#SK海力士",
       "$MU",
-      "$ASX",
       "$NVDA",
       "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI基建瓶颈，海力士和美光主导利润周期",
-      "玻璃基板和光互连是下一代AI芯片关键技术，康宁卡位垄断",
-      "AI泡沫未达顶点，需等AGI普及后才会破裂",
-      "半导体设备迎来长期需求，刻蚀和沉积为核心",
-      "杠杆交易风险极高，仓位管理比选股更重要"
+      "存储芯片是AI产业链核心瓶颈",
+      "玻璃基板和光互连是下一代AI芯片关键",
+      "大市值龙头股机构持续加仓",
+      "物理AI数据采集与存储需求增长",
+      "投资需规避杠杆和追高风险"
     ],
-    "recent_shift": "近期关注焦点从存储扩展到设备材料，特别是康宁的玻璃基板和光纤概念，同时强调规避杠杆风险",
+    "recent_shift": "近期观点从全面看好存储芯片扩展至重视半导体设备制造和玻璃基板光纤等基础设施，但仍以存储为核心。",
     "representative_quotes": [
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。",
-      "康宁在玻璃这一块有无与伦比的话语权。英伟达让康宁扩产10倍，在投产后说明康宁业绩也要10倍涨幅！",
-      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的。"
+      "存储三家公司赚的1/3可能都要流向这三家。科磊、应用材料、泛林",
+      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
+      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的"
     ],
-    "generated_at": "2026-07-06T19:43:42.814462+00:00"
+    "generated_at": "2026-07-07T06:39:34.101300+00:00"
   }
 }
