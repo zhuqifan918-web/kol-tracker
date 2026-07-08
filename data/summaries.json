@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$META",
       "$MSFT",
-      "$AMZN",
+      "$AMD",
       "$NVDA",
-      "$AAPL",
-      "$MU"
+      "$AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "总统交易异常与潜在内幕信息",
-      "市场泡沫与散户风险",
-      "地缘政治紧张与能源冲击",
-      "AI投资回报低于预期",
-      "消费者财务恶化与裁员"
+      "科技与AI投资风险",
+      "宏观经济与消费者金融压力",
+      "地缘政治与市场波动"
     ],
-    "recent_shift": "近期更加强调市场泡沫和宏观风险，较早期偏谨慎乐观态度明显转向看空。",
+    "recent_shift": "近期从对特朗普交易和AI革命的乐观转向更关注风险警示、经济放缓信号及消费者困境",
     "representative_quotes": [
-      "Trump: Short sellers are getting wiped out. \"Those poor bastards. I never liked short guys because they're betting against the country.\"",
-      "Bank of America has told investors it may be time to take profits.",
-      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\""
+      "Meta, $META, says it faces up to $1.4 trillion in potential penalties in a teen mental health lawsuit, roughly equal to its market value.",
+      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being 'nigh.'",
+      "Gold has overtaken US government bonds as the world’s top reserve asset, per ECB"
     ],
-    "generated_at": "2026-07-08T10:08:25.049635+00:00"
+    "generated_at": "2026-07-08T12:00:56.886420+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
