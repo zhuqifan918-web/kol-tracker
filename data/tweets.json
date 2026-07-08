@@ -1,5 +1,103 @@
 [
   {
+    "tweet_id": "2074856505367761081",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has announced the US is considering reimposing a blockade on the Strait of Hormuz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074856505367761081",
+    "published_at": "2026-07-08T14:01:54+00:00",
+    "fetched_at": "2026-07-08T14:22:10.574151+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国可能重新封锁霍尔木兹海峡，将导致全球油价飙升、能源股承压，航空和航运板块成本增加，整体市场避险情绪上升。",
+      "translation": "突发：特朗普宣布美国正在考虑重新对霍尔木兹海峡实施封锁。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074853711529275399",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "明天看来海公公要硬起来了。 https://t.co/0UjW0U6bcw",
+    "tweet_url": "https://x.com/xiaomustock/status/2074853711529275399",
+    "published_at": "2026-07-08T13:50:48+00:00",
+    "fetched_at": "2026-07-08T14:21:50.380631+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文提到“海公公”明天可能会走强，暗示对某只股票（可能是“海公公”对应的标的）持乐观态度，预期股价上涨。",
+      "translation": "明天看来海公公要硬起来了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074853384906264662",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "活过来了，终于反弹了，韩股总不可能天天熔断吧。\nAI总不可能不搞了吧。\n机器人和agent都是半吊子智障阶段。 https://t.co/SQoU5ekfV3",
+    "tweet_url": "https://x.com/xiaomustock/status/2074853384906264662",
+    "published_at": "2026-07-08T13:49:30+00:00",
+    "fetched_at": "2026-07-08T14:21:52.076441+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "用户对韩国股市反弹表示乐观，认为熔断不会持续，同时看好AI、机器人和智能体等科技领域的长期发展，尽管当前技术仍不成熟。",
+      "translation": "终于活过来了，反弹了，韩国股市不可能每天熔断吧。AI不可能不继续搞吧。机器人和智能体都还处于半吊子智障阶段。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074840171653009834",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AI costs more than the people it replaced, per Forbes.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074840171653009834",
+    "published_at": "2026-07-08T12:57:00+00:00",
+    "fetched_at": "2026-07-08T14:22:18.464789+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用福布斯报道指出AI成本高于被替代的人力成本，暗示AI投资回报可能不及预期，对AI相关行业股票构成利空。",
+      "translation": "据福布斯报道，人工智能的成本比被其取代的人力成本更高。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074838397341065516",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Blue Origin reportedly raising $10B at a $130B valuation per NYT.\n\nSeems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. \n\nIf SpaceX and Blue Origin is able to set such high valuations. https://t.co/04W7phuIwr",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074838397341065516",
+    "published_at": "2026-07-08T12:49:57+00:00",
+    "fetched_at": "2026-07-08T14:21:31.072472+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RKLB",
+        "ASTS"
+      ],
+      "direction": "bullish",
+      "summary": "蓝色起源以1300亿美元估值融资100亿美元的消息，可能为RKLB、ASTS等太空股提供估值锚定支撑，作者认为这对其他太空公司是积极信号。",
+      "translation": "蓝色起源据报道正在筹集100亿美元，估值达1300亿美元，消息来自《纽约时报》。这对$RKLB、$ASTS和其他太空股来说似乎是相当积极的信号，因为相对估值锚定效应。如果SpaceX和蓝色起源能设定如此高的估值。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074820039073550453",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -214,6 +312,25 @@
       "summary": "该推文推广订阅服务以追踪特朗普的交易披露信息，未提供具体交易或市场分析，但暗示可从中获取投资线索。",
       "translation": "要查看特朗普的所有交易，请订阅Unusual Whales。您可以匹配并捕捉他的投资组合，因其已公开披露。了解更多：https://t.co/2sXd6Fu3FL",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2074652434530517332",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.\n\nYou can match and catch his portfolio, as it is disclosed.\n\nRead more: https://t.co/2sXd6Fu3FL",
+    "tweet_url": "https://x.com/unusual_whales/status/2074652434530517332",
+    "published_at": "2026-07-08T00:31:00+00:00",
+    "fetched_at": "2026-07-08T14:22:33.509478+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales服务，提供特朗普的财务披露和交易追踪，暗示用户可以据此进行投资分析。",
+      "translation": "要查看特朗普的所有交易，请订阅Unusual Whales。你可以匹配并追踪他的投资组合，因为它是公开披露的。阅读更多：https://t.co/2sXd6Fu3FL",
+      "confidence": "medium"
     }
   },
   {
