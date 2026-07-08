@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2074991418028724306",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "ENDS TODAY!\n\nUnusual Whales's sale is ending.\n\nGet up to 20% off.\n\nEnds today!\n\nWe have created tools to help you navigate this market.\n\nJoin here: https://t.co/bsTCire8zT https://t.co/GeS3yuvPvq",
+    "tweet_url": "https://x.com/unusual_whales/status/2074991418028724306",
+    "published_at": "2026-07-08T22:58:00+00:00",
+    "fetched_at": "2026-07-08T23:07:39.819052+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这是一条推广信息，宣传Unusual Whales的折扣活动（最高20% off），并推销其市场分析工具。内容没有针对特定资产或市场方向。",
+      "translation": "今日结束！\nUnusual Whales的促销活动即将结束。\n最高可享20%折扣。\n今日结束！\n我们创建了工具帮助您驾驭这个市场。\n立即加入：https://t.co/bsTCire8zT https://t.co/GeS3yuvPvq",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074984623495680490",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The S&amp;P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them.\n\nRead more: https://t.co/Ga2PuvNx7m",
+    "tweet_url": "https://x.com/unusual_whales/status/2074984623495680490",
+    "published_at": "2026-07-08T22:31:00+00:00",
+    "fetched_at": "2026-07-08T23:07:41.717056+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用分析指出标普500指数在20个估值指标中有17个显示昂贵，且其中8个指标甚至高于科技泡沫时期水平，暗示当前市场估值过高，存在回调风险。",
+      "translation": "标普500指数在20个指标中有17个被称'统计上昂贵'，并在其中8个指标上比科技泡沫时期更为昂贵。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074979055410266452",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5.\n\nThat’s much more cost efficient as well… \n\nKinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth among US companies recently)\n\nNever doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074979055410266452",
+    "published_at": "2026-07-08T22:08:52+00:00",
+    "fetched_at": "2026-07-08T23:07:10.416199+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文暗示Elon Musk的xAI公司通过Grok 4.5模型在成本效率上取得突破，可能超越Anthropic和Mythos，对$SPCX构成利好，投资者可关注相关标的的潜在上涨机会。",
+      "translation": "哇，看起来Elon和xAI在$SPCX上成功构建了一个达到Anthropic Opus级别的LLM模型，即Grok 4.5。而且成本效率更高……这有点像中国供应商在价格和采用率上的竞争策略（鉴于近期美国公司对中国模型增长的关注，这是理想的做法）。永远不要怀疑Elon，也许他们最终会超越Anthropic和Mythos？",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074965761345642660",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
