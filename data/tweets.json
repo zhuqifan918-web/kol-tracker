@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2074755083942891862",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "涨的时候一个一个大力士，\n跌的时候张口闭口海公公。 https://t.co/gmndMFJdyb",
+    "tweet_url": "https://x.com/xiaomustock/status/2074755083942891862",
+    "published_at": "2026-07-08T07:18:53+00:00",
+    "fetched_at": "2026-07-08T07:31:11.143553+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文用比喻讽刺投资者在股票上涨时认为某只股票（暗示为“海公公”）很强势，下跌时却只抱怨，反映出市场的投机情绪和短期行为。",
+      "translation": "涨的时候一个个都是大力士，跌的时候张口闭口海公公。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074751139313229851",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩国股市天天这么暴涨暴跌，\n韩国人能睡得着才怪，怪不得睡眠少。\n我他妈拿着海力士正股都要被搞疯了。 https://t.co/gw8CbWpHsd",
+    "tweet_url": "https://x.com/xiaomustock/status/2074751139313229851",
+    "published_at": "2026-07-08T07:03:13+00:00",
+    "fetched_at": "2026-07-08T07:31:12.677365+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bearish",
+      "summary": "用户抱怨韩国股市暴涨暴跌，持有海力士正股感到焦虑，暗示市场波动剧烈。",
+      "translation": "韩国股市天天这么暴涨暴跌，韩国人能睡得着才怪，怪不得睡眠少。我他妈拿着海力士正股都要被搞疯了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074724321084547554",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump administration lifts restrictions on OpenAI's GPT 5.6, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2074724321084547554",
+    "published_at": "2026-07-08T05:16:39+00:00",
+    "fetched_at": "2026-07-08T07:31:26.122592+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普政府解除对OpenAI GPT-5.6的限制，利好人工智能板块及OpenAI相关投资机会，可能推动AI技术商业化进程加速。",
+      "translation": "突发：据Axios报道，特朗普政府解除了对OpenAI GPT-5.6的限制。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074712832663237054",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -35,6 +94,25 @@
       "summary": "该推文推广了Unusual Whales平台，声称可以追踪并披露特朗普的投资组合，暗示用户可通过订阅获取其交易信息。虽未直接推荐具体资产，但提供了投资追踪服务。",
       "translation": "要查看特朗普的所有交易，请订阅Unusual Whales。你可以匹配并捕捉他的投资组合，因为它是公开的。阅读更多：https://t.co/2sXd6FuBvj",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074682633464713453",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.\n\nYou can match and catch his portfolio, as it is disclosed.\n\nRead more: https://t.co/2sXd6Fu3FL",
+    "tweet_url": "https://x.com/unusual_whales/status/2074682633464713453",
+    "published_at": "2026-07-08T02:31:00+00:00",
+    "fetched_at": "2026-07-08T07:31:30.838682+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广订阅服务以追踪特朗普的交易披露信息，未提供具体交易或市场分析，但暗示可从中获取投资线索。",
+      "translation": "要查看特朗普的所有交易，请订阅Unusual Whales。您可以匹配并捕捉他的投资组合，因其已公开披露。了解更多：https://t.co/2sXd6Fu3FL",
+      "confidence": "low"
     }
   },
   {

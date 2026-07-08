@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MSFT",
-      "$NVDA",
-      "$AMZN",
-      "$DELL",
-      "$SPCX"
+      "TRUMP",
+      "NVDA",
+      "MSFT",
+      "AMZN",
+      "SKHY"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "宏观经济与地缘政治风险",
-      "人工智能泡沫风险",
-      "特朗普交易与政治内幕",
-      "美股高估值与回调预警",
-      "去美元化与黄金储备增加"
+      "特朗普交易策略与政治关联交易",
+      "人工智能与半导体产业投资",
+      "地缘政治风险对能源和黄金的影响"
     ],
-    "recent_shift": "近期推文强化了美股回调信号，并对特朗普的交易时机提出质疑，整体情绪更偏谨慎。",
+    "recent_shift": "近期偏向关注特朗普关联交易和地缘政治事件，而更早的推特多聚焦宏观经济与机构观点",
     "representative_quotes": [
-      "To see all of Trump's trades, subscribe to Unusual Whales. You can match and catch his portfolio, as it is disclosed.",
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
-      "Nvidia's, $NVDA, next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis has said per CNBC"
+      "This is interesting timing. On July 23, 2025, Trump purchased $5 million of Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia. Later that day, the Trump admin announced its AI Action Plan, policy expected to benefit those companies.",
+      "Trump: Short sellers are getting wiped out. 'Those poor bastards. I never liked short guys because they're betting against the country.'",
+      "Breaking: Iran's military fired at least two missiles at commercial ships transiting the Strait of Hormuz, per Axios"
     ],
-    "generated_at": "2026-07-08T05:00:53.793876+00:00"
+    "generated_at": "2026-07-08T07:31:50.005397+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
