@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2074712832663237054",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.\n\nYou can match and catch his portfolio, as it is disclosed.\n\nRead more: https://t.co/2sXd6Fu3FL",
+    "tweet_url": "https://x.com/unusual_whales/status/2074712832663237054",
+    "published_at": "2026-07-08T04:31:00+00:00",
+    "fetched_at": "2026-07-08T05:00:22.157293+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广了Unusual Whales的服务，允许用户订阅以查看特朗普的交易组合。没有直接的投资建议或市场分析，但暗示了跟踪政治人物投资的潜在价值。",
+      "translation": "查看特朗普的所有交易，请订阅Unusual Whales。你可以匹配并捕捉他的投资组合，因为这些信息是公开的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074704527576773096",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see all of Trump's trades, subscribe to Unusual Whales.  \n\nYou can match and catch his portfolio, as it is disclosed.\n\nRead more: https://t.co/2sXd6FuBvj",
+    "tweet_url": "https://x.com/unusual_whales/status/2074704527576773096",
+    "published_at": "2026-07-08T03:58:00+00:00",
+    "fetched_at": "2026-07-08T05:00:24.241997+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广了Unusual Whales平台，声称可以追踪并披露特朗普的投资组合，暗示用户可通过订阅获取其交易信息。虽未直接推荐具体资产，但提供了投资追踪服务。",
+      "translation": "要查看特朗普的所有交易，请订阅Unusual Whales。你可以匹配并捕捉他的投资组合，因为它是公开的。阅读更多：https://t.co/2sXd6FuBvj",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074637335137017906",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

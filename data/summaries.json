@@ -24,26 +24,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$MSFT",
-      "$AMZN",
       "$NVDA",
+      "$AMZN",
       "$DELL",
-      "$AAPL"
+      "$SPCX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治紧张与避险资产",
-      "人工智能投资与泡沫风险",
-      "总统交易与内幕嫌疑",
-      "美国经济减速与家庭财务恶化",
-      "央行黄金增持与美元储备下降"
+      "宏观经济与地缘政治风险",
+      "人工智能泡沫风险",
+      "特朗普交易与政治内幕",
+      "美股高估值与回调预警",
+      "去美元化与黄金储备增加"
     ],
-    "recent_shift": "近期推文对中国AI竞争和地缘冲突的关注增加，同时强调经济疲软信号，整体从偏乐观转为更谨慎。",
+    "recent_shift": "近期推文强化了美股回调信号，并对特朗普的交易时机提出质疑，整体情绪更偏谨慎。",
     "representative_quotes": [
-      "We just made it possible to have Mr. Whale help you find the unusual options flow you want. It is a game changer.",
-      "Trump: 'Every time I see a crypto guy where they dropped an investigation, I said, You're lucky I'm president.'",
-      "'AI investments are a circular bet, as ROI disappoints,' per Bain."
+      "To see all of Trump's trades, subscribe to Unusual Whales. You can match and catch his portfolio, as it is disclosed.",
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
+      "Nvidia's, $NVDA, next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis has said per CNBC"
     ],
-    "generated_at": "2026-07-07T22:36:04.057192+00:00"
+    "generated_at": "2026-07-08T05:00:53.793876+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
