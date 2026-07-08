@@ -4,24 +4,24 @@
       "$NBIS",
       "$SIVE",
       "$CCXI",
-      "$AXTI",
+      "$META",
       "$LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信/光子学瓶颈",
-      "人形机器人商业化",
-      "存储芯片结构性短缺",
-      "AI基础设施资本开支加速",
-      "中美供应链竞争与国产替代"
+      "AI基础设施与算力军备竞赛",
+      "光子学/光互连瓶颈与供应链短缺",
+      "人形机器人商业化与中美竞赛",
+      "内存/HBM结构性涨价",
+      "机构建仓与媒体叙事的博弈"
     ],
-    "recent_shift": "从整体市场恐慌转向关注个股价值，强调基本面未变的长期持有逻辑，并频繁提及SPAC上市和机构资金流入。",
+    "recent_shift": "最近观点的显著转变是：从早期对光学板块和Meta削减资本开支的恐慌性抛售持批评态度，转变为重新确认供应链短缺和机构回补的长期看多逻辑，并更加集中于人形机器人整机与上游核心零部件。",
     "representative_quotes": [
-      "I see it as long term ownership over:\n- the next hyperscaler with $NBIS, projecting $7-9B ARR Q4\n- 40% of the InP supply chain with $AXTI\n- leader of the next optical shift with $SIVE with CW DFB lasers\n- leader of US humanoids with $CCXI inside a future trillion dollar theme",
+      "Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. ... I see it as long term ownership over: - the next hyperscaler with $NBIS, projecting $7-9B ARR Q4 - 40% of the InP supply chain with $AXTI - leader of the next optical shift with $SIVE with CW DFB lasers - leader of US humanoids with $CCXI inside a future trillion dollar theme",
       "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
-      "Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages. My personal expectation was that price hikes would keep going up like $SNDK given ramping optical demand."
+      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates."
     ],
-    "generated_at": "2026-07-08T20:41:41.778192+00:00"
+    "generated_at": "2026-07-08T21:59:31.409247+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

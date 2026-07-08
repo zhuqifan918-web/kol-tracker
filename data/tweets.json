@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2074965761345642660",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$META to build a new $10B DC in Canada to expand AI capacity.\n\nSo much for the media framing of “Meta Compute”as overbuilding and cutting capex. https://t.co/0QgSls0s9o",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074965761345642660",
+    "published_at": "2026-07-08T21:16:03+00:00",
+    "fetched_at": "2026-07-08T21:58:35.266060+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出Meta计划在加拿大建设价值100亿美元的AI数据中心，反驳了媒体关于其过度建设和削减资本支出的说法，表明Meta在AI基础设施上的持续投入，对META股票是积极信号。",
+      "translation": "Meta计划在加拿大建设一个价值100亿美元的数据中心以扩展AI能力。媒体之前将“Meta计算”描述为过度建设和削减资本支出的说法不攻自破。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074951295027568736",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
