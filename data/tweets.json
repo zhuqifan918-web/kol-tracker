@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2074795308022964606",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "隔了几天没看gate，今天一看我人懵逼了，头皮凉了，我的 Gate 账户被盗，约 170 万美元资产被提空。\n我本人实名账户，已设置手机验证、Google Authenticator、邮箱验证；期间我的手机没有收到任何短信验证码，我也从未向任何人提供视频、手持身份证照片或登录录屏。\n但我邮箱里显示 7 月 4 日出现“重置登录密码邮箱验证”“重置安全项-补充资料”，7 月 5 日出现“账户邮箱更换提醒”。Gate 客服也确认：更换安全项通常需要实名本人提供手持照片或登录屏幕。另外我没有开api和api提现权限。\n\n请 Gate 立即说明：是谁提交了这些资料？为何在我未收到短信、未提供视频/手持身份证/录屏的情况下，安全项和邮箱可以被重置？请立刻冻结相关链上地址、公开处理进展并给出赔付方案。\n\n下面是具体被盗链接\nhttps://t.co/O6QSpfHIvF\nhttps://t.co/O6QSpfHIvF\nhttps://t.co/O6QSpfHIvF\nhttps://t.co/REbosO84C0\nhttps://t.co/dOENZ99GIw",
+    "tweet_url": "https://x.com/xiaomustock/status/2074795308022964606",
+    "published_at": "2026-07-08T09:58:43+00:00",
+    "fetched_at": "2026-07-08T10:07:46.857451+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GATE"
+      ],
+      "direction": "bearish",
+      "summary": "用户报告Gate交易所账户被盗约170万美元，质疑安全漏洞和客服流程。此事件可能引发对Gate平台安全性的担忧，短期看空Gate相关资产或平台信任度。",
+      "translation": "隔了几天没看Gate，今天一看我人懵逼了，头皮凉了，我的Gate账户被盗，约170万美元资产被提空。我本人实名账户，已设置手机验证、Google Authenticator、邮箱验证；期间我的手机没有收到任何短信验证码，我也从未向任何人提供视频、手持身份证照片或登录录屏。但我邮箱里显示7月4日出现“重置登录密码邮箱验证”“重置安全项-补充资料”，7月5日出现“账户邮箱更换提醒”。Gate客服也确认：更换安全项通常需要实名本人提供手持照片或登录屏幕。另外我没有开API和API提现权限。请Gate立即说明：是谁提交了这些资料？为何在我未收到短信、未提供视频/手持身份证/录屏的情况下，安全项和邮箱可以被重置？请立刻冻结相关链上地址、公开处理进展并给出赔付方案。下面是具体被盗链接（链接略）。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074791831624442331",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "有朋友刚在@Gate 被盗了170万美金，\n账户资金被提空了，百分之百真实，\n注意资金安全。 https://t.co/zhC5zvfHWi",
+    "tweet_url": "https://x.com/xiaomustock/status/2074791831624442331",
+    "published_at": "2026-07-08T09:44:55+00:00",
+    "fetched_at": "2026-07-08T10:07:50.798233+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该条微博提到Gate交易所用户被盗170万美元，引发对加密货币交易平台资金安全的担忧，属于负面消息，可能对相关平台或加密货币市场信心造成短期利空影响。",
+      "translation": "有个朋友刚在Gate交易所被盗了170万美金，账户里的资金被提空了，百分之百真实，注意资金安全。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074760420427260054",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩国为了不让港股这个2x吸走资金，\n疯狂发行了十几个2倍做多etf，\n全部破发，\n韩国人大多数都上杠杆买的杠杆etf😂\n本来是韩国人的狂欢，\n现在韩国股民集体亏麻了。 https://t.co/AyXqWehoOD",
+    "tweet_url": "https://x.com/xiaomustock/status/2074760420427260054",
+    "published_at": "2026-07-08T07:40:06+00:00",
+    "fetched_at": "2026-07-08T10:07:52.643750+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "韩国为留住资金，发行多个2倍做多ETF，但全部破发，导致韩国股民集体亏损。这表明韩国市场或港股相关杠杆产品表现不佳，投资风险高。",
+      "translation": "韩国为了不让港股这个2倍做多ETF吸走资金，疯狂发行了十几个2倍做多ETF，全部破发，韩国人大多数都上杠杆买的杠杆ETF😂本来是韩国人的狂欢，现在韩国股民集体亏麻了。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074755083942891862",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -113,6 +172,25 @@
       "summary": "该推文推广订阅服务以追踪特朗普的交易披露信息，未提供具体交易或市场分析，但暗示可从中获取投资线索。",
       "translation": "要查看特朗普的所有交易，请订阅Unusual Whales。您可以匹配并捕捉他的投资组合，因其已公开披露。了解更多：https://t.co/2sXd6Fu3FL",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2074644129728839681",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get updates on Trump's trades, subscribe to Unusual Whales.\n\nYou can see entire portfolio.\n\nSee more: https://t.co/2sXd6Fu3FL",
+    "tweet_url": "https://x.com/unusual_whales/status/2074644129728839681",
+    "published_at": "2026-07-07T23:58:00+00:00",
+    "fetched_at": "2026-07-08T10:08:13.710287+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文推广了一个订阅服务，声称可以追踪特朗普的交易和投资组合，暗示特朗普的交易值得关注且可能有利可图。这是一个投资相关广告，但没有具体标的信息。",
+      "translation": "想要获取特朗普交易的最新消息，请订阅Unusual Whales。你可以看到完整的投资组合。更多信息：https://t.co/2sXd6Fu3FL",
+      "confidence": "medium"
     }
   },
   {
