@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MSFT",
-      "$META",
-      "$AMZN",
-      "$NVDA",
-      "$DELL"
+      "NVDA",
+      "META",
+      "MSFT",
+      "AMZN",
+      "SKHY"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险升温",
-      "人工智能泡沫与回报担忧",
-      "消费者财务状况恶化",
-      "科技股获利回吐信号",
-      "能源与大宗商品波动"
+      "地缘政治风险",
+      "AI泡沫",
+      "经济衰退信号",
+      "黄金与避险资产",
+      "去美元化趋势"
     ],
-    "recent_shift": "近期观点明显转向谨慎，强调市场风险如AI回报不及预期、劳动力市场降温、家庭财务压力加大。",
+    "recent_shift": "近期强调特朗普交易揭露利益冲突及市场脆弱性，早前更关注技术进展和个股机会",
     "representative_quotes": [
-      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg",
-      "AI costs more than the people it replaced, per Forbes.",
-      "Barclays says it sees signs US equity leadership is beginning to fade."
+      "BREAKING: Trump has announced the US is considering reimposing a blockade on the Strait of Hormuz.",
+      "AI investments are a circular bet, as ROI disappoints.",
+      "BREAKING: For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro."
     ],
-    "generated_at": "2026-07-08T16:14:24.104397+00:00"
+    "generated_at": "2026-07-08T17:57:02.426413+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

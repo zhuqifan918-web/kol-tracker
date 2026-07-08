@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2074865337200451697",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Traffic through the Strait of Hormuz remains steady despite renewed attacks on commercial shipping, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2074865337200451697",
+    "published_at": "2026-07-08T14:37:00+00:00",
+    "fetched_at": "2026-07-08T17:56:34.551581+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息显示霍尔木兹海峡航运未受近期袭击事件影响，对全球能源供应链稳定构成正面信号，但未直接提供交易机会。",
+      "translation": "尽管针对商业航运的袭击再次发生，但根据路透社报道，霍尔木兹海峡的交通仍保持稳定。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074856505367761081",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -77,6 +96,25 @@
       "direction": "bullish",
       "summary": "推特指出黄金暂时回落，但钻石、蓝宝石、祖母绿等宝石价格却飙升，反映出贵金属与宝石市场出现分化，投资者可关注宝石类资产或相关ETF。",
       "translation": "黄金可能暂时回落，但钻石、蓝宝石、祖母绿以及其他宝石的价格已经飙升，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074843726073987120",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales live trading show WhaleWatch is live now!\n\nStarting pre-market prep now, and later at 10:30 ET we're joined by guest Wayne Hoffman to discuss the psychology of trading and finance\n\nJoin below:\n\nhttps://t.co/sfYitE2cis",
+    "tweet_url": "https://x.com/unusual_whales/status/2074843726073987120",
+    "published_at": "2026-07-08T13:11:07+00:00",
+    "fetched_at": "2026-07-08T17:56:32.572245+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布Unusual Whales实时交易节目WhaleWatch即将开播，涵盖盘前准备和市场心理讨论，可能对投资者有参考价值，但未提供具体投资建议或方向。",
+      "translation": "最新消息：Unusual Whales的实时交易节目WhaleWatch正在直播！目前开始盘前准备，稍后10:30（美国东部时间）我们将邀请嘉宾Wayne Hoffman讨论交易和金融心理学。请通过以下链接加入：https://t.co/sfYitE2cis",
       "confidence": "medium"
     }
   },
