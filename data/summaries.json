@@ -23,47 +23,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TRUMP",
-      "NVDA",
-      "MSFT",
-      "AMZN",
-      "SKHY"
+      "$MSFT",
+      "$AMZN",
+      "$NVDA",
+      "$AAPL",
+      "$MU"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "特朗普交易策略与政治关联交易",
-      "人工智能与半导体产业投资",
-      "地缘政治风险对能源和黄金的影响"
+      "总统交易异常与潜在内幕信息",
+      "市场泡沫与散户风险",
+      "地缘政治紧张与能源冲击",
+      "AI投资回报低于预期",
+      "消费者财务恶化与裁员"
     ],
-    "recent_shift": "近期偏向关注特朗普关联交易和地缘政治事件，而更早的推特多聚焦宏观经济与机构观点",
+    "recent_shift": "近期更加强调市场泡沫和宏观风险，较早期偏谨慎乐观态度明显转向看空。",
     "representative_quotes": [
-      "This is interesting timing. On July 23, 2025, Trump purchased $5 million of Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia. Later that day, the Trump admin announced its AI Action Plan, policy expected to benefit those companies.",
-      "Trump: Short sellers are getting wiped out. 'Those poor bastards. I never liked short guys because they're betting against the country.'",
-      "Breaking: Iran's military fired at least two missiles at commercial ships transiting the Strait of Hormuz, per Axios"
+      "Trump: Short sellers are getting wiped out. \"Those poor bastards. I never liked short guys because they're betting against the country.\"",
+      "Bank of America has told investors it may be time to take profits.",
+      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being \"nigh.\""
     ],
-    "generated_at": "2026-07-08T07:31:50.005397+00:00"
+    "generated_at": "2026-07-08T10:08:25.049635+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "$MU",
-      "$SK hynix",
-      "$ASX",
-      "$NVDA"
+      "SK Hynix",
+      "GLW",
+      "ASX",
+      "MU",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张，海力士、美光受益",
-      "AI基础设施投资持续，玻璃基板与光互连为下一阶段重点",
-      "杠杆风险需警惕，正股长期持有更稳健",
-      "大市值优质股受机构资金青睐，波动可控"
+      "存储行业主导AI产业链利润",
+      "玻璃基板与光互连技术革命",
+      "AI基础设施长期需求缺口",
+      "杠杆交易风险与仓位管理"
     ],
-    "recent_shift": "近期从乐观转向更为谨慎，承认市场剧烈波动和杠杆带来的风险，强调仓位管理和生存优先。",
+    "recent_shift": "近期强调康宁的确定性价值，并逐步从纯存储仓位转向玻璃基板与封测标的，对AI产业链的依赖度从存储一分为二。",
     "representative_quotes": [
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。",
-      "未来属于AI的，为啥AI产业链股暴涨路上还会有暴跌，大概市场在调节涨幅去跟它的季度营收或数年预期营收做匹配。",
-      "AI有泡沫，但AI没有丝滑取代所有白领工作之前就不可能破。路途遥远。"
+      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储是正儿八经王者中的王者行业，海力士则是其中存储中的王者。",
+      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
+      "能健康的管理自己仓位已经赢过绝大多数人。即使买对215刀的康宁，如果上杠杆在2x康宁或者正股也上杠杆，昨天一来一回可能人没了。"
     ],
-    "generated_at": "2026-07-07T15:41:17.164917+00:00"
+    "generated_at": "2026-07-08T10:08:28.354672+00:00"
   }
 }
