@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$NBIS",
-      "$SIVE",
       "$CCXI",
+      "$SIVE",
+      "$NBIS",
       "$META",
-      "$LITE"
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力军备竞赛",
-      "光子学/光互连瓶颈与供应链短缺",
-      "人形机器人商业化与中美竞赛",
-      "内存/HBM结构性涨价",
-      "机构建仓与媒体叙事的博弈"
+      "人形机器人商业化加速",
+      "光子链路瓶颈与价格飙升",
+      "超大规模数据中心资本开支长期增长"
     ],
-    "recent_shift": "最近观点的显著转变是：从早期对光学板块和Meta削减资本开支的恐慌性抛售持批评态度，转变为重新确认供应链短缺和机构回补的长期看多逻辑，并更加集中于人形机器人整机与上游核心零部件。",
+    "recent_shift": "从关注存储和光子瓶颈转向人形机器人整机标的，强调Agility Robotics为美国首家纯人形机器人上市公司。",
     "representative_quotes": [
-      "Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. ... I see it as long term ownership over: - the next hyperscaler with $NBIS, projecting $7-9B ARR Q4 - 40% of the InP supply chain with $AXTI - leader of the next optical shift with $SIVE with CW DFB lasers - leader of US humanoids with $CCXI inside a future trillion dollar theme",
-      "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
-      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates."
+      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... at $16, you have a ~$4B MC pre-money humanoid player.",
+      "Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages.",
+      "Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. … I see it as long term ownership over: - the next hyperscaler with $NBIS … - 40% of the InP supply chain with $AXTI …"
     ],
-    "generated_at": "2026-07-08T21:59:31.409247+00:00"
+    "generated_at": "2026-07-08T23:08:04.736951+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AMZN",
-      "$MSFT",
-      "$META",
-      "$DELL"
+      "NVDA",
+      "AMZN",
+      "MSFT",
+      "META",
+      "AMD"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "科技行业估值高企与回调警告",
-      "地缘政治风险对能源和中东市场的影响",
-      "美联储降息预期与通胀矛盾",
-      "美国以外的市场出现投资机会",
-      "家庭财务困难与劳动力市场放缓"
+      "AI泡沫与成本困境",
+      "地缘政治风险与能源波动",
+      "消费疲软与家庭财务恶化",
+      "央行增持黄金与美元下滑",
+      "政商交易关联与内幕担忧"
     ],
-    "recent_shift": "近期转向更加看空美国股市，强调获利了结和风险加剧。",
+    "recent_shift": "近期倾向指出市场脆弱性、家庭财务恶化及潜在泡沫，与前期部分乐观论调形成对比。",
     "representative_quotes": [
-      "Direct and indirect stock holdings... accounted for an all-time high of 45% of households’ financial assets...",
-      "There is a 93% chance the next Claude Opus is released by October 31...",
-      "Gold has overtaken US government bonds as the world’s top reserve asset..."
+      "AI costs more than the people it replaced, per Forbes.",
+      "Household worries over finances hit highest level since July 2022, per the New York Fed survey",
+      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them."
     ],
-    "generated_at": "2026-07-08T20:41:44.842139+00:00"
+    "generated_at": "2026-07-08T23:08:07.301508+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
