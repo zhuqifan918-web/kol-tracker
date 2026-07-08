@@ -57,6 +57,30 @@
     }
   },
   {
+    "tweet_id": "2074845204767535350",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2074845204767535350",
+    "published_at": "2026-07-08T13:17:00+00:00",
+    "fetched_at": "2026-07-08T16:14:00.803609+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD",
+        "DIAMOND",
+        "SAPPHIRE",
+        "EMERALD"
+      ],
+      "direction": "bullish",
+      "summary": "推特指出黄金暂时回落，但钻石、蓝宝石、祖母绿等宝石价格却飙升，反映出贵金属与宝石市场出现分化，投资者可关注宝石类资产或相关ETF。",
+      "translation": "黄金可能暂时回落，但钻石、蓝宝石、祖母绿以及其他宝石的价格已经飙升，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074840171653009834",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
