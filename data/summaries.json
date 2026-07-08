@@ -1,69 +1,70 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "NVDA",
-      "META",
-      "SIVE",
       "CCXI",
-      "LITE"
-    ],
-    "overall_bias": "bullish",
-    "key_themes": [
-      "光子学与光学瓶颈",
-      "人形机器人供应链与美国制造",
-      "AI算力基础设施与超大规模资本支出"
-    ],
-    "recent_shift": "从对光子学普遍乐观转向注意市场波动中低估机会，但仍坚持长期结构性短缺论点。",
-    "representative_quotes": [
-      "I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts. So they can walk down the same path as $LITE when they scaled from $3B to $60B+.",
-      "I'm actually excited for the United States gets its first pure play Humanoid public company!",
-      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates."
-    ],
-    "generated_at": "2026-07-07T21:16:03.631578+00:00"
-  },
-  "unusual_whales": {
-    "focus_tickers": [
-      "$META",
-      "$MSFT",
-      "$AMD",
-      "$NVDA",
-      "$AMZN"
-    ],
-    "overall_bias": "bearish",
-    "key_themes": [
-      "科技与AI投资风险",
-      "宏观经济与消费者金融压力",
-      "地缘政治与市场波动"
-    ],
-    "recent_shift": "近期从对特朗普交易和AI革命的乐观转向更关注风险警示、经济放缓信号及消费者困境",
-    "representative_quotes": [
-      "Meta, $META, says it faces up to $1.4 trillion in potential penalties in a teen mental health lawsuit, roughly equal to its market value.",
-      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being 'nigh.'",
-      "Gold has overtaken US government bonds as the world’s top reserve asset, per ECB"
-    ],
-    "generated_at": "2026-07-08T12:00:56.886420+00:00"
-  },
-  "xiaomustock": {
-    "focus_tickers": [
-      "SK Hynix",
-      "GLW",
-      "ASX",
+      "SIVE",
+      "LITE",
       "MU",
       "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储行业主导AI产业链利润",
-      "玻璃基板与光互连技术革命",
-      "AI基础设施长期需求缺口",
-      "杠杆交易风险与仓位管理"
+      "AI基础设施瓶颈与供需失衡",
+      "人形机器人商业化与供应链本土化",
+      "光通讯与光子学结构性短缺"
     ],
-    "recent_shift": "近期强调康宁的确定性价值，并逐步从纯存储仓位转向玻璃基板与封测标的，对AI产业链的依赖度从存储一分为二。",
+    "recent_shift": "从前期聚焦市场整体性回调风险，转向强调被误杀的细分领域机会（如光子学、存储器）以及人形机器人IPO新标的。",
     "representative_quotes": [
-      "存储这波不仅卡住了AI的脖子，也卡了传统电子产品的脖子。存储是正儿八经王者中的王者行业，海力士则是其中存储中的王者。",
-      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
-      "能健康的管理自己仓位已经赢过绝大多数人。即使买对215刀的康宁，如果上杠杆在2x康宁或者正股也上杠杆，昨天一来一回可能人没了。"
+      "Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
+      "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA. $LITE is completely sold out for the next 2 years",
+      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo."
     ],
-    "generated_at": "2026-07-08T10:08:28.354672+00:00"
+    "generated_at": "2026-07-08T14:22:47.298725+00:00"
+  },
+  "unusual_whales": {
+    "focus_tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN",
+      "META",
+      "DELL"
+    ],
+    "overall_bias": "bearish",
+    "key_themes": [
+      "AI投资回报率存疑",
+      "地缘政治紧张加剧",
+      "消费者财务恶化",
+      "劳动力市场疲软",
+      "市场集中度风险"
+    ],
+    "recent_shift": "近期更突出地强调消费者财务和劳动力市场恶化，并持续质疑AI投资回报。",
+    "representative_quotes": [
+      "AI investments are a circular bet, as ROI disappoints.",
+      "Lower income Americans are literally running out of money at the end of the month... negative cash flows in the lower-income brackets where they're dipping into savings.",
+      "Trump reported more than 21,000 trades across eight investment accounts in 2025... Unusual."
+    ],
+    "generated_at": "2026-07-08T14:22:53.466237+00:00"
+  },
+  "xiaomustock": {
+    "focus_tickers": [
+      "$GLW",
+      "$MU",
+      "$NVDA",
+      "$ASX",
+      "$LRCX"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "存储芯片（HBM/DRAM）供需紧张，海力士与美光盈利爆发",
+      "AI基建仍处早期，玻璃基板与光互连将成下一代芯片底座",
+      "杠杆仓位管理的重要性，经历暴跌后回归正股为主"
+    ],
+    "recent_shift": "近期观点从聚焦存储与杠杆ETF转向重视玻璃基板（康宁）、封测（日月光）等产业链上游确定性机会",
+    "representative_quotes": [
+      "活过来了，终于反弹了，韩股总不可能天天熔断吧。AI总不可能不搞了吧。",
+      "要么早信要么坚决不信，先信卖后信",
+      "未来是属于AI的，但暴跌是因为市场在调节涨幅去匹配季度营收或预期营收"
+    ],
+    "generated_at": "2026-07-08T14:22:50.985921+00:00"
   }
 }
