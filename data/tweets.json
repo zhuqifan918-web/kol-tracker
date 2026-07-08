@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2074820039073550453",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, says it faces up to $1.4 trillion in potential penalties in a teen mental health lawsuit, roughly equal to its market value.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074820039073550453",
+    "published_at": "2026-07-08T11:37:00+00:00",
+    "fetched_at": "2026-07-08T12:00:32.298585+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "该推特提到Meta面临高达1.4万亿美元的青少年心理健康诉讼潜在罚款，几乎相当于其市值，构成重大利空消息，可能对股价产生负面影响。",
+      "translation": "Meta（$META）表示，在一桩青少年心理健康诉讼中，它面临高达1.4万亿美元的潜在罚款，大约相当于其市值。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074815005942222957",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Samsung has begun mass production of its most advanced data center storage drive, which is set for use inside Nvidia’s upcoming Vera Rubin platform, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2074815005942222957",
+    "published_at": "2026-07-08T11:17:00+00:00",
+    "fetched_at": "2026-07-08T12:00:34.551058+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "三星开始量产最先进的数据中心存储驱动器，将用于英伟达即将推出的Vera Rubin平台。这一消息对英伟达是利好，表明其高端计算平台供应链稳定，可能推动硬件需求增长。",
+      "translation": "据彭博社报道，三星已开始批量生产其最先进的数据中心存储驱动器，该产品将用于英伟达即将推出的Vera Rubin平台。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2074795308022964606",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
