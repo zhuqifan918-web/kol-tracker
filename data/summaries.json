@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "CCXI",
-      "SIVE",
-      "LITE",
-      "MU",
-      "NVDA"
+      "$NBIS",
+      "$SIVE",
+      "$CCXI",
+      "$AXTI",
+      "$LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈与供需失衡",
-      "人形机器人商业化与供应链本土化",
-      "光通讯与光子学结构性短缺"
+      "光通信/光子学瓶颈",
+      "人形机器人商业化",
+      "存储芯片结构性短缺",
+      "AI基础设施资本开支加速",
+      "中美供应链竞争与国产替代"
     ],
-    "recent_shift": "从前期聚焦市场整体性回调风险，转向强调被误杀的细分领域机会（如光子学、存储器）以及人形机器人IPO新标的。",
+    "recent_shift": "从整体市场恐慌转向关注个股价值，强调基本面未变的长期持有逻辑，并频繁提及SPAC上市和机构资金流入。",
     "representative_quotes": [
-      "Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
-      "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA. $LITE is completely sold out for the next 2 years",
-      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo."
+      "I see it as long term ownership over:\n- the next hyperscaler with $NBIS, projecting $7-9B ARR Q4\n- 40% of the InP supply chain with $AXTI\n- leader of the next optical shift with $SIVE with CW DFB lasers\n- leader of US humanoids with $CCXI inside a future trillion dollar theme",
+      "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
+      "Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages. My personal expectation was that price hikes would keep going up like $SNDK given ramping optical demand."
     ],
-    "generated_at": "2026-07-08T14:22:47.298725+00:00"
+    "generated_at": "2026-07-08T20:41:41.778192+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TRUMP",
-      "AMZN",
-      "NVDA",
-      "MSFT",
-      "META"
+      "$NVDA",
+      "$AMZN",
+      "$MSFT",
+      "$META",
+      "$DELL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险（霍尔木兹海峡、伊朗）",
-      "AI泡沫与投资回报不确定性",
-      "经济衰退预警（消费者财务恶化、就业结构脆弱）",
-      "黄金与避险资产偏好上升",
-      "政治人物交易与内幕嫌疑"
+      "科技行业估值高企与回调警告",
+      "地缘政治风险对能源和中东市场的影响",
+      "美联储降息预期与通胀矛盾",
+      "美国以外的市场出现投资机会",
+      "家庭财务困难与劳动力市场放缓"
     ],
-    "recent_shift": "近期观点从关注AI和科技股转向强调地缘冲突对油价和市场的冲击，以及消费者财务恶化与劳动力市场降温的衰退信号。",
+    "recent_shift": "近期转向更加看空美国股市，强调获利了结和风险加剧。",
     "representative_quotes": [
-      "Trump: maybe we'll do some things that could increase the oil price.",
-      "BREAKING: The New York Fed said one-year inflation expectations rose to 3.7% in June from 3.5%, the highest level since September 2023.",
-      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being 'nigh.'"
+      "Direct and indirect stock holdings... accounted for an all-time high of 45% of households’ financial assets...",
+      "There is a 93% chance the next Claude Opus is released by October 31...",
+      "Gold has overtaken US government bonds as the world’s top reserve asset..."
     ],
-    "generated_at": "2026-07-08T19:11:18.581619+00:00"
+    "generated_at": "2026-07-08T20:41:44.842139+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
