@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "MSFT",
-      "AMZN",
-      "META",
-      "DELL"
+      "$MSFT",
+      "$META",
+      "$AMZN",
+      "$NVDA",
+      "$DELL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资回报率存疑",
-      "地缘政治紧张加剧",
-      "消费者财务恶化",
-      "劳动力市场疲软",
-      "市场集中度风险"
+      "地缘政治风险升温",
+      "人工智能泡沫与回报担忧",
+      "消费者财务状况恶化",
+      "科技股获利回吐信号",
+      "能源与大宗商品波动"
     ],
-    "recent_shift": "近期更突出地强调消费者财务和劳动力市场恶化，并持续质疑AI投资回报。",
+    "recent_shift": "近期观点明显转向谨慎，强调市场风险如AI回报不及预期、劳动力市场降温、家庭财务压力加大。",
     "representative_quotes": [
-      "AI investments are a circular bet, as ROI disappoints.",
-      "Lower income Americans are literally running out of money at the end of the month... negative cash flows in the lower-income brackets where they're dipping into savings.",
-      "Trump reported more than 21,000 trades across eight investment accounts in 2025... Unusual."
+      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg",
+      "AI costs more than the people it replaced, per Forbes.",
+      "Barclays says it sees signs US equity leadership is beginning to fade."
     ],
-    "generated_at": "2026-07-08T14:22:53.466237+00:00"
+    "generated_at": "2026-07-08T16:14:24.104397+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
