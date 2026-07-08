@@ -1,5 +1,52 @@
 [
   {
+    "tweet_id": "2074951295027568736",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as long term ownership over:\n\n- the next hyperscaler with $NBIS, projecting $7-9B ARR Q4\n- 40% of the InP supply chain with $AXTI\n- leader of the next optical shift with $SIVE with CW DFB lasers\n- leader of US humanoids with $CCXI inside a future trillion dollar theme\n\nAnd so on… At cheaper valuations. \n\nWhile I might do things like lowering margin or hedging with my own portfolio, I’m personally not panicking when something drops if the thesis didn’t change. \n\nNFA and obviously depends on people’s investing timeframes:\n\nSince a crash would be life changing for people that depend on investing for rent or tuition. (Which is why I personally think  others should do their own DD and choose longs in line with their own risk profile)\n\nBut my personal goal is maximizing exposure to the next-gen supercycles before they hit.\n\nI think institutions think the same way as well, which is why there’s a lot of induced volatility along the way to maximize their exposure.\n\nIf a thesis ends up correct, the valuation should be reflected in the long run.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074951295027568736",
+    "published_at": "2026-07-08T20:18:34+00:00",
+    "fetched_at": "2026-07-08T20:40:47.184020+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS",
+        "AXTI",
+        "SIVE",
+        "CCXI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好NBIS、AXTI、SIVE和CCXI等股票，认为尽管存在大幅回调风险，但长期持有可把握下一代超周期机遇，并批评散户因恐慌抛售错失机会。",
+      "translation": "让我们这样说：散户认为30-60%的下跌是“接飞刀”，持币者将永远无法回本。他们最终在看到波浪线技术分析和将重要关口与梗图比较后恐慌抛售。而我将此视为长期持有——下一个超大规模公司$NBIS（预计Q4 ARR 7-9B美元）、InP供应链40%份额的$AXTI、光学转型领导者$SIVE（CW DFB激光器）、以及未来万亿美元主题中美国类人机器人领导者$CCXI——以更便宜的估值。虽然我可能会采取降低杠杆或对冲等操作，但若基本面未变，个人不会因下跌而恐慌。非投资建议，且显然取决于个人投资时间框架：因为崩盘对依赖投资支付租金或学费的人来说是改变人生的。因此我认为他人应自行研究，选择符合自身风险偏好的长线持仓。但我的个人目标是最大化对下一代超周期爆发前的敞口。我认为机构也持相同想法，因此沿途有大量人为波动来最大化他们的敞口。如果最终证明基本面正确，长期价值将得以体现。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074945867841249425",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: We will make things safer for oil. Oil will be very free, very easy, very fast",
+    "tweet_url": "https://x.com/unusual_whales/status/2074945867841249425",
+    "published_at": "2026-07-08T19:57:00+00:00",
+    "fetched_at": "2026-07-08T20:41:19.421207+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USO",
+        "XLE",
+        "OIL"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普暗示将放宽石油行业监管，推动美国能源独立，利好油企如USO和XLE。预期政策将降低生产成本，刺激石油供应，短期可能压制油价，但长期利好美国石油公司。",
+      "translation": "特朗普：我们将让石油更安全。石油将非常自由、非常容易、非常快速。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074925483624677664",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -279,6 +326,27 @@
       "summary": "该条微博提到Gate交易所用户被盗170万美元，引发对加密货币交易平台资金安全的担忧，属于负面消息，可能对相关平台或加密货币市场信心造成短期利空影响。",
       "translation": "有个朋友刚在Gate交易所被盗了170万美金，账户里的资金被提空了，百分之百真实，注意资金安全。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074778487928553573",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit 白毛股神，能不能给我点心理按摩，NBIS是否今晚能止跌？它已经亏了我太多了，接近腰斩了",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074778487928553573",
+    "published_at": "2026-07-08T08:51:53+00:00",
+    "fetched_at": "2026-07-08T20:40:51.266232+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS"
+      ],
+      "direction": "bearish",
+      "summary": "用户抱怨NBIS股价接近腰斩，请求心理按摩，希望今晚止跌，情绪悲观。",
+      "translation": "白毛股神，能不能给我一点心理安慰，NBIS今晚能止跌吗？它已经亏了我太多，接近腰斩了。",
+      "confidence": "high"
     }
   },
   {
