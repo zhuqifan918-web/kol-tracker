@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2074925483624677664",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: Now inflation is way down. Everything is great. The prices are coming down. They made up a phony word: affordability. Oil is coming down very big.\n\nReporter: Brent crude is up today. \n\nTrump: Every time we hit Iran, oil goes up a little bit. That's all right.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074925483624677664",
+    "published_at": "2026-07-08T18:36:00+00:00",
+    "fetched_at": "2026-07-08T19:10:55.335694+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BCO"
+      ],
+      "direction": "neutral",
+      "summary": "特朗普声称通胀下降、油价下跌，但记者指出布伦特原油今日上涨。特朗普回应称袭击伊朗会使油价小幅上涨，暗示地缘政治风险对油价影响有限。投资者需关注实际数据与政治言论的差异。",
+      "translation": "特朗普：现在通胀大幅下降。一切都很好。价格正在下降。他们编造了一个假词：可负担性。油价正在大幅下降。记者：布伦特原油今日上涨。特朗普：每次我们袭击伊朗，油价就会稍微上涨。没关系。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074915668789522931",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: maybe we'll do some things that could increase the oil price.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074915668789522931",
+    "published_at": "2026-07-08T17:57:00+00:00",
+    "fetched_at": "2026-07-08T19:10:58.086248+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普暗示可能采取推高油价的措施，这对能源板块及相关投资构成潜在利好。投资者需关注后续政策动向，油价上升可能带动能源股和通胀预期变化。",
+      "translation": "特朗普：也许我们会做一些可能提高油价的事情。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074865337200451697",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

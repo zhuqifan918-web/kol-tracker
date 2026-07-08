@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "META",
-      "MSFT",
+      "TRUMP",
       "AMZN",
-      "SKHY"
+      "NVDA",
+      "MSFT",
+      "META"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险",
-      "AI泡沫",
-      "经济衰退信号",
-      "黄金与避险资产",
-      "去美元化趋势"
+      "地缘政治风险（霍尔木兹海峡、伊朗）",
+      "AI泡沫与投资回报不确定性",
+      "经济衰退预警（消费者财务恶化、就业结构脆弱）",
+      "黄金与避险资产偏好上升",
+      "政治人物交易与内幕嫌疑"
     ],
-    "recent_shift": "近期强调特朗普交易揭露利益冲突及市场脆弱性，早前更关注技术进展和个股机会",
+    "recent_shift": "近期观点从关注AI和科技股转向强调地缘冲突对油价和市场的冲击，以及消费者财务恶化与劳动力市场降温的衰退信号。",
     "representative_quotes": [
-      "BREAKING: Trump has announced the US is considering reimposing a blockade on the Strait of Hormuz.",
-      "AI investments are a circular bet, as ROI disappoints.",
-      "BREAKING: For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro."
+      "Trump: maybe we'll do some things that could increase the oil price.",
+      "BREAKING: The New York Fed said one-year inflation expectations rose to 3.7% in June from 3.5%, the highest level since September 2023.",
+      "'Big Short' investor Michael Burry has said that stocks will crash and rallies won't last, with the end being 'nigh.'"
     ],
-    "generated_at": "2026-07-08T17:57:02.426413+00:00"
+    "generated_at": "2026-07-08T19:11:18.581619+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
