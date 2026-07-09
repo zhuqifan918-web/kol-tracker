@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AMZN",
-      "MSFT",
-      "META",
-      "AMD"
+      "$NVDA",
+      "$AMZN",
+      "$MSFT",
+      "$META",
+      "$TRUMP"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI泡沫与成本困境",
-      "地缘政治风险与能源波动",
-      "消费疲软与家庭财务恶化",
-      "央行增持黄金与美元下滑",
-      "政商交易关联与内幕担忧"
+      "期权流与实时数据工具",
+      "特朗普股票交易与政策关联",
+      "AI与半导体投资机会",
+      "地缘政治与能源市场波动",
+      "中央银行的黄金需求"
     ],
-    "recent_shift": "近期倾向指出市场脆弱性、家庭财务恶化及潜在泡沫，与前期部分乐观论调形成对比。",
+    "recent_shift": "近期明显转向推广特朗普的股票交易信号和自家服务，同时强调市场前景乐观。",
     "representative_quotes": [
-      "AI costs more than the people it replaced, per Forbes.",
-      "Household worries over finances hit highest level since July 2022, per the New York Fed survey",
-      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them."
+      "We just changed the options game. Now, ask Mr Whale to help you navigate the options flow.",
+      "Trump: 'Go out and buy a Dell.' $DELL.",
+      "BREAKING: Trump says he believes the stock market is 'going to go through the roof.'"
     ],
-    "generated_at": "2026-07-08T23:08:07.301508+00:00"
+    "generated_at": "2026-07-09T01:07:57.157000+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
