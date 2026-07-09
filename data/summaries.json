@@ -1,51 +1,47 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$META",
-      "$NBIS",
       "$SIVE",
+      "$META",
       "$CCXI",
+      "$NBIS",
       "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施持续扩张",
-      "光学/光子学供应链瓶颈",
-      "人形机器人产业链布局",
-      "内存价格结构性上涨",
-      "地缘政治与技术自主可控"
+      "光子学与激光器供应瓶颈",
+      "人形机器人产业链与商业落地",
+      "AI基础设施与超大规模云投资"
     ],
-    "recent_shift": "近期观点未明显转变，依然坚定看好AI基础设施、光子学和人形机器人的长期结构性机会，认为短期回调是买入时机。",
+    "recent_shift": "近期观点不变，持续强调市场误解后的内在价值，比如Meta算力恐慌和Sivers内部买入信号",
     "representative_quotes": [
-      "I believe the thematically photonics, memory, energy, and physical AI will outperform in the long run.",
-      "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... Probably doesn't have anything to do with individual fundamentals.",
-      "I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts."
+      "Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included).",
+      "Journalism created the dip. Insiders bought it.",
+      "If everything crashes together... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
     ],
-    "generated_at": "2026-07-09T14:32:09.831939+00:00"
+    "generated_at": "2026-07-09T19:05:22.906138+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "META",
       "SPCX",
-      "MU",
       "AMZN",
-      "NVDA"
+      "NVDA",
+      "MU"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与石油供应中断",
-      "央行减持美元、增持黄金",
-      "全球经济放缓与通胀顽固",
-      "人工智能投资与裁员并存",
-      "市场估值过高与回调警告"
+      "大型科技与人工智能投资",
+      "地缘政治风险与能源安全",
+      "股市泡沫与通胀担忧"
     ],
-    "recent_shift": "近期观点从看多半导体转为警示泡沫和地缘风险，同时强调央行减持美元和黄金需求上升。",
+    "recent_shift": "近期对美股持谨慎态度，强调估值泡沫和地缘风险。",
     "representative_quotes": [
-      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics,' and trades rich versus tech bubble metrics on eight of them.",
-      "BREAKING: For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro, per Reuters",
-      "Michael Burry disclosed that he has established a full-sized long position split 60% into Flutter Entertainment (bought around $107) and 40% into DraftKings (bought in the low $26)."
+      "Goldman Sachs has raised its AMD, $AMD, price target to $640 from $450 and reiterated its Buy rating.",
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
+      "Iran's Revolutionary Guards Navy: foreigners have no stake in the Strait of Hormuz"
     ],
-    "generated_at": "2026-07-09T17:12:22.133608+00:00"
+    "generated_at": "2026-07-09T19:05:19.666373+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
