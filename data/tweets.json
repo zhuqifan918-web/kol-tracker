@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2075066915547238558",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "More of the world’s central banks plan to cut dollar allocations than increase them in the coming decade as political risks associated with the U.S. currency rise, an OMFIF survey of public investors released\n\nRead more: https://t.co/VrfoRImqiI",
+    "tweet_url": "https://x.com/unusual_whales/status/2075066915547238558",
+    "published_at": "2026-07-09T03:58:00+00:00",
+    "fetched_at": "2026-07-09T05:29:26.577853+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "全球央行计划减少美元配置，反映出对美国政治风险的担忧上升，这可能导致美元资产需求下降，对美元相关投资构成负面影响。",
+      "translation": "未来十年，世界上更多的中央银行计划削减美元配置而非增加，因为与美国货币相关的政治风险上升，这是一项OMFIF对公共投资者的调查结果。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075045021368320044",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wall Street analysts are forecasting approximately 25% earnings growth for 2026 and nearly 18% growth for 2027, according to Bloomberg\n\nRead more: https://t.co/66UJMsuC9P",
+    "tweet_url": "https://x.com/unusual_whales/status/2075045021368320044",
+    "published_at": "2026-07-09T02:31:00+00:00",
+    "fetched_at": "2026-07-09T05:29:29.811001+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "华尔街分析师预测2026年盈利增长约25%，2027年增长近18%，这对市场整体前景是积极信号。",
+      "translation": "根据彭博社，华尔街分析师预测2026年盈利增长约25%，2027年增长近18%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075021616958894175",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "It is the first time since the GPI series began recording reserve managers' long-term intentions in 2023 that more central banks plan to decrease their dollar holdings than increase over the next 10 years\n\nRead more: https://t.co/DWNPgyRZgX",
+    "tweet_url": "https://x.com/unusual_whales/status/2075021616958894175",
+    "published_at": "2026-07-09T00:58:00+00:00",
+    "fetched_at": "2026-07-09T05:29:34.439426+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "这是自GPI系列在2023年开始记录储备经理的长期意向以来，首次有更多央行计划在未来10年内减少美元持有量而非增加。这暗示美元可能面临长期贬值压力，对全球资产配置产生潜在影响。",
+      "translation": "自2023年GPI系列开始记录储备经理的长期意图以来，这是首次有更多央行计划在未来10年内减少美元持有量而非增加。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075014822333174092",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -115,6 +172,25 @@
       "summary": "该推文指出Meta计划在加拿大建设价值100亿美元的AI数据中心，反驳了媒体关于其过度建设和削减资本支出的说法，表明Meta在AI基础设施上的持续投入，对META股票是积极信号。",
       "translation": "Meta计划在加拿大建设一个价值100亿美元的数据中心以扩展AI能力。媒体之前将“Meta计算”描述为过度建设和削减资本支出的说法不攻自破。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074961219052863774",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran's Foreign Ministry Spokesperson: The US is creating challenges in the Strait of Hormuz, and Iran will protect its interests.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074961219052863774",
+    "published_at": "2026-07-08T20:58:00+00:00",
+    "fetched_at": "2026-07-09T05:29:43.023978+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "伊朗与美国在霍尔木兹海峡的紧张局势可能影响全球原油运输和能源价格，投资者需关注地缘政治风险对石油市场的影响。",
+      "translation": "伊朗外交部发言人：美国在霍尔木兹海峡制造挑战，伊朗将保护其利益。",
+      "confidence": "medium"
     }
   },
   {
@@ -1172,6 +1248,25 @@
       "direction": "bearish",
       "summary": "多个中央银行计划在未来十年减少美元持有量，增加黄金和欧元配置，这可能对美元汇率及美元资产形成长期利空，同时利好黄金和欧元相关投资。",
       "translation": "突发：据路透社报道，多国央行首次计划在未来十年削减美元持有量，同时增加黄金和欧元的配置。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074472750677426655",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Central banks expect to gradually reduce their U.S. dollar reserves, per OMFIF.",
+    "tweet_url": "https://x.com/unusual_whales/status/2074472750677426655",
+    "published_at": "2026-07-07T12:37:00+00:00",
+    "fetched_at": "2026-07-09T05:29:24.750321+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "消息显示各国央行计划逐步减少美元储备，这可能削弱美元长期需求，对美元资产如美股和美债构成潜在利空，投资者需关注外汇和债券市场变化。",
+      "translation": "根据OMFIF，各国央行预期将逐步减少其美元储备。",
       "confidence": "medium"
     }
   },

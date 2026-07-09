@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$META",
       "$NVDA",
       "$AMZN",
       "$MSFT",
-      "$META",
-      "$TRUMP"
+      "$AMD"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "bearish",
     "key_themes": [
-      "期权流与实时数据工具",
-      "特朗普股票交易与政策关联",
-      "AI与半导体投资机会",
-      "地缘政治与能源市场波动",
-      "中央银行的黄金需求"
+      "美元储备下降",
+      "地缘政治风险",
+      "AI泡沫",
+      "消费疲软",
+      "央行减持美元"
     ],
-    "recent_shift": "近期明显转向推广特朗普的股票交易信号和自家服务，同时强调市场前景乐观。",
+    "recent_shift": "近期从关注央行减持美元和地缘风险转向强调市场泡沫信号、AI投资回报失望以及家庭财务恶化。",
     "representative_quotes": [
-      "We just changed the options game. Now, ask Mr Whale to help you navigate the options flow.",
-      "Trump: 'Go out and buy a Dell.' $DELL.",
-      "BREAKING: Trump says he believes the stock market is 'going to go through the roof.'"
+      "More of the world’s central banks plan to cut dollar allocations than increase them in the coming decade as political risks associated with the U.S. currency rise",
+      "Goldman Sachs says the Japanese yen will weaken to 165 against the U.S. dollar",
+      "Zuckerberg acknowledged shortcomings...AI agents had not progressed as quickly as he had expected"
     ],
-    "generated_at": "2026-07-09T01:07:57.157000+00:00"
+    "generated_at": "2026-07-09T05:29:48.858303+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
