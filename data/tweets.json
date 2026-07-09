@@ -1,5 +1,90 @@
 [
   {
+    "tweet_id": "2075222692119150928",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bernstein has said that its 2026 gold forecast is $4375.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075222692119150928",
+    "published_at": "2026-07-09T14:17:00+00:00",
+    "fetched_at": "2026-07-09T14:31:40.832355+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD",
+        "IAU",
+        "SGOL"
+      ],
+      "direction": "bullish",
+      "summary": "伯恩斯坦预测2026年黄金价格将达4375美元，表明对黄金市场前景看好，可能推动黄金相关投资产品的需求。",
+      "translation": "伯恩斯坦表示其2026年黄金预测为4375美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075215703867838872",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "恭喜各位华尔街之狼，存储拉飞了。\n存储不起来，其他所有概念都别想起来，\n存储起来，说明ai未来光明，\n其他概念才有机会，才值得抄底，\n康宁 $GLW 就是。\n傻逼只会喷不会懂这个底层道理。 https://t.co/IHnJ5YtW6K",
+    "tweet_url": "https://x.com/xiaomustock/status/2075215703867838872",
+    "published_at": "2026-07-09T13:49:14+00:00",
+    "fetched_at": "2026-07-09T14:31:27.936906+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "作者强调存储（存储芯片）是AI和其他概念的基础，存储上涨预示AI前景光明，其他板块才有抄底机会，并看好康宁（GLW）的表现。",
+      "translation": "恭喜各位华尔街之狼，存储板块大涨了。存储不起来，其他所有概念都别想起来；存储起来了，说明AI未来光明，其他概念才有机会，才值得抄底。康宁 $GLW 就是。傻逼只会喷，不懂这个底层道理。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075202559279833369",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "IMF has lowered the 2026 global growth forecast to 3%, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2075202559279833369",
+    "published_at": "2026-07-09T12:57:00+00:00",
+    "fetched_at": "2026-07-09T14:31:46.991984+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "国际货币基金组织（IMF）下调了2026年全球经济增长预测至3%，这可能对全球股市和大宗商品市场产生负面影响，暗示未来经济增速放缓，投资者需警惕市场风险。",
+      "translation": "据路透社报道，国际货币基金组织已将2026年全球经济增长预测下调至3%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075199849507762279",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, and doubling in 2027. \n- as much as $145B capex spend this year \n\n“It plans to launch a chip about every six months through 2027”",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075199849507762279",
+    "published_at": "2026-07-09T12:46:14+00:00",
+    "fetched_at": "2026-07-09T14:31:06.092178+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "META内部备忘录泄露，显示其AI投资大幅增长，包括与三星、闪迪签内存协议、与住友电工签光纤协议，计划今年部署7GW计算基础设施并在2027年翻倍，资本支出高达1450亿美元，芯片更新周期缩短至每半年一次，对META长期增长前景积极。",
+      "translation": "没有什么比一份内部META备忘录被公开更有趣的了。显示AI加速推进如常：- 与三星和$SNDK签订了内存长期协议- 与住友电工签订了光纤长期协议- 预计今年部署7GW计算基础设施，并将在2027年翻倍- 今年资本支出高达1450亿美元“计划到2027年约每六个月推出一款芯片”",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075182426813555118",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
