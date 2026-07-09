@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AMZN",
-      "$MSFT",
-      "$META",
-      "$AAPL"
+      "META",
+      "NVDA",
+      "MSFT",
+      "AMZN",
+      "SPCX"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧",
-      "央行减持美元增持黄金",
-      "美股估值过高预警",
-      "AI泡沫与裁员并存",
-      "特朗普交易引发道德争议"
+      "科技巨头与AI泡沫风险",
+      "地缘政治紧张与能源冲击",
+      "央行去美元化与避险资产"
     ],
-    "recent_shift": "由前期中性转向偏空，强调市场泡沫信号和消费者财务恶化",
+    "recent_shift": "近期推文从早期聚焦科技股投资转向强调市场风险、地缘冲突及央行减持美元，并大量揭露总统交易涉嫌内幕的质疑。",
     "representative_quotes": [
-      "More of the world’s central banks plan to cut dollar allocations than increase them...",
-      "Wall Street analysts are forecasting approximately 25% earnings growth for 2026...",
-      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics'"
+      "Earnings, not just valuations, are flashing bubble warnings, per FT.",
+      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg",
+      "Trump: Short sellers are getting wiped out. 'Those poor bastards. I never liked short guys because they're betting against the country.'"
     ],
-    "generated_at": "2026-07-09T08:57:05.782879+00:00"
+    "generated_at": "2026-07-09T11:45:55.148199+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
