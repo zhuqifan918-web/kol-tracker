@@ -1,5 +1,69 @@
 [
   {
+    "tweet_id": "2075182426813555118",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, will invest around $10 billion to build its first data center in Canada as the company expands its infrastructure to support its artificial intelligence ambitions",
+    "tweet_url": "https://x.com/unusual_whales/status/2075182426813555118",
+    "published_at": "2026-07-09T11:37:00+00:00",
+    "fetched_at": "2026-07-09T11:45:34.744148+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "Meta计划在加拿大投资约100亿美元建设首个数据中心，以支持其人工智能发展。此举表明Meta正在大规模扩展AI基础设施，对其长期增长和AI领域竞争力构成利好。对于投资者而言，这一资本支出计划反映了公司对AI业务的坚定承诺，可能推动未来收入增长。",
+      "translation": "Meta（$META）将投资约100亿美元，在加拿大建设其首个数据中心，以扩展基础设施支持其人工智能雄心。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075177393581588965",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Deadly bacteria found in major US city's water system traced to Mark Zuckerberg's $800 million, $META, data center, per TechRadar",
+    "tweet_url": "https://x.com/unusual_whales/status/2075177393581588965",
+    "published_at": "2026-07-09T11:17:00+00:00",
+    "fetched_at": "2026-07-09T11:45:36.663840+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "该推文提及Meta数据中心被指与水源污染有关，可能引发负面舆论，对META股价构成短期利空压力。",
+      "translation": "突发：据TechRadar报道，美国主要城市供水系统中发现致命细菌，追溯至马克·扎克伯格价值8亿美元的$META数据中心。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075167327298162849",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry disclosed that he has established a full-sized long position split 60% into Flutter Entertainment (bought around $107) and 40% into DraftKings (bought in the low $26).",
+    "tweet_url": "https://x.com/unusual_whales/status/2075167327298162849",
+    "published_at": "2026-07-09T10:37:00+00:00",
+    "fetched_at": "2026-07-09T11:45:40.053078+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DKNG",
+        "FLUT"
+      ],
+      "direction": "bullish",
+      "summary": "迈克尔·伯里披露其已建立大规模多头头寸，60%仓位买入Flutter Entertainment（均价约107美元），40%仓位买入DraftKings（均价约26美元低位），显示对在线博彩行业强烈看涨。",
+      "translation": "迈克尔·伯里披露，他建立了一个全尺寸多头头寸，其中60%投入Flutter Entertainment（买入价约107美元），40%投入DraftKings（买入价在26美元低位）。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075106084793286733",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
