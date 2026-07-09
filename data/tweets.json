@@ -1,5 +1,130 @@
 [
   {
+    "tweet_id": "2075257924176269783",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "General Motors invests $275 million to expand vehicle and engine manufacturing operations in Tennessee",
+    "tweet_url": "https://x.com/unusual_whales/status/2075257924176269783",
+    "published_at": "2026-07-09T16:37:00+00:00",
+    "fetched_at": "2026-07-09T17:11:59.899729+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GM"
+      ],
+      "direction": "bullish",
+      "summary": "通用汽车在田纳西州投资2.75亿美元扩大汽车和发动机制造业务，显示公司对未来产量和销售的信心，可能带来盈利增长，对股价构成利好。",
+      "translation": "通用汽车投资2.75亿美元，扩大田纳西州的车辆和发动机制造业务。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075252891074396227",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Micron, $MU, says it now expects to invest $250 billion across the United States by 2035.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075252891074396227",
+    "published_at": "2026-07-09T16:17:00+00:00",
+    "fetched_at": "2026-07-09T17:12:01.489809+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "美光科技宣布到2035年在美国投资2500亿美元，显示公司对未来需求的信心和长期扩张计划，对股价构成利好。",
+      "translation": "美光科技表示，预计到2035年将在美国投资2500亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075247858182131875",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Micron to invest up to $3 billion in US chip supply chain, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2075247858182131875",
+    "published_at": "2026-07-09T15:57:00+00:00",
+    "fetched_at": "2026-07-09T17:12:03.253083+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "美光科技宣布在美国芯片供应链投资高达30亿美元，提振了公司股票和市场信心，显示出公司对半导体行业的长期看好。",
+      "translation": "美光科技将投资高达30亿美元在美国芯片供应链，据路透社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075242824962863534",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Nigerian stocks have overtaken South Korea’s Kospi index to hand the most total returns this year,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2075242824962863534",
+    "published_at": "2026-07-09T15:37:00+00:00",
+    "fetched_at": "2026-07-09T17:12:04.892283+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Nigerian stocks",
+        "Kospi index"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出尼日利亚股票今年总回报率超过韩国Kospi指数，反映出非洲市场的强劲表现，可能吸引投资者关注新兴市场机会。",
+      "translation": "据彭博社报道，尼日利亚股票今年总回报率已超过韩国Kospi指数。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075232758482583575",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Raymond James has said its SpaceX, $SPCX, price target is $800.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075232758482583575",
+    "published_at": "2026-07-09T14:57:00+00:00",
+    "fetched_at": "2026-07-09T17:12:07.659022+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "雷蒙德詹姆斯将SpaceX（SPCX）的目标价上调至800美元，表明看好其未来表现。",
+      "translation": "雷蒙德詹姆斯表示，其SpaceX（$SPCX）目标价为800美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075227725103792317",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US has striked an Iran railway bridge linking to China and Russia, Fars has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2075227725103792317",
+    "published_at": "2026-07-09T14:37:00+00:00",
+    "fetched_at": "2026-07-09T17:12:09.309691+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国打击伊朗通往中俄的铁路桥可能加剧地缘政治紧张，从而影响全球供应链和能源价格，对相关市场产生负面影响。",
+      "translation": "美国打击了伊朗通往中国和俄罗斯的铁路桥，法尔斯通讯社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075222692119150928",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "META",
+      "SPCX",
+      "MU",
       "AMZN",
-      "NVDA",
-      "MSFT",
-      "DELL"
+      "NVDA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "黄金与避险资产",
-      "地缘政治风险",
-      "人工智能泡沫风险",
-      "美元储备地位下降",
-      "科技巨头监管"
+      "地缘政治风险与石油供应中断",
+      "央行减持美元、增持黄金",
+      "全球经济放缓与通胀顽固",
+      "人工智能投资与裁员并存",
+      "市场估值过高与回调警告"
     ],
-    "recent_shift": "近期从关注科技与AI机会转向更多强调地缘政治紧张、央行去美元化以及市场泡沫警示。",
+    "recent_shift": "近期观点从看多半导体转为警示泡沫和地缘风险，同时强调央行减持美元和黄金需求上升。",
     "representative_quotes": [
-      "BREAKING: Deadly bacteria found in major US city's water system traced to Mark Zuckerberg's $800 million, $META, data center, per TechRadar",
+      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics,' and trades rich versus tech bubble metrics on eight of them.",
       "BREAKING: For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro, per Reuters",
-      "Bank of America has told investors it may be time to take profits."
+      "Michael Burry disclosed that he has established a full-sized long position split 60% into Flutter Entertainment (bought around $107) and 40% into DraftKings (bought in the low $26)."
     ],
-    "generated_at": "2026-07-09T14:32:05.937301+00:00"
+    "generated_at": "2026-07-09T17:12:22.133608+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
