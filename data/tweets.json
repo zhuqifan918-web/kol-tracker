@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2075303222537842720",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, now lets users make AI images from public Instagram profile pics",
+    "tweet_url": "https://x.com/unusual_whales/status/2075303222537842720",
+    "published_at": "2026-07-09T19:37:00+00:00",
+    "fetched_at": "2026-07-09T22:24:33.977673+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及Meta推出新功能，允许用户利用公开Instagram头像生成AI图像，这属于产品更新，未直接给出投资建议或市场分析，但可能对Meta的长期业务有影响。",
+      "translation": "Meta，$META，现在允许用户使用公开的Instagram头像生成AI图像。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2075302956581449892",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -86,6 +107,25 @@
       "direction": "bearish",
       "summary": "美国国防部预算接近万亿美元却面临资金短缺，这可能对国防相关ETF和股票构成利空，投资者需关注后续是否会影响国防合同支出。",
       "translation": "据NBC报道，国防部获得了近万亿美元的预算，但资金正面临枯竭。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075268747473174851",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "New: Inverse Cramer continues to put up strong numbers, outperforming even Pelosi on Autopilot\n\nHis portfolio also just passed $100,000,000 AUM https://t.co/jWcGFzl8JW",
+    "tweet_url": "https://x.com/unusual_whales/status/2075268747473174851",
+    "published_at": "2026-07-09T17:20:00+00:00",
+    "fetched_at": "2026-07-09T22:24:42.657884+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文提及“反向克莱默”策略表现强劲，甚至超过佩洛西的自动投资组合，且其管理资产已突破1亿美元，暗示该反向策略近期有良好投资回报。",
+      "translation": "最新：反向克莱默持续表现强劲，甚至超过了佩洛西的自动投资组合。他的投资组合管理资产也刚刚突破了1亿美元。",
       "confidence": "medium"
     }
   },
