@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2075014822333174092",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We just changed the options game. \n\nNow, ask Mr Whale to help you navigate the options flow.   \n\nIt can create the filters you want, help determine unusual flow, and so much more. \n\nDon't just follow the flow; control it.\n\nCheck it out: https://t.co/HrgxqpWUVA https://t.co/L4nmcvQzqY",
+    "tweet_url": "https://x.com/unusual_whales/status/2075014822333174092",
+    "published_at": "2026-07-09T00:31:00+00:00",
+    "fetched_at": "2026-07-09T01:07:36.786967+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文推广一个名为Mr Whale的期权流分析工具，声称能帮助用户过滤和识别异常期权流动，并控制市场动向，暗示该工具能带来投资优势，但未提及具体标的或方向。",
+      "translation": "我们刚刚改变了期权游戏。现在，请Mr Whale帮你导航期权流。它可以创建你想要的过滤器，帮助判断异常流动，以及更多功能。不要只是跟随流动；控制它。查看：https://t.co/HrgxqpWUVA",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2075005019146072308",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: The new 1 minute Periscope updates on @unusual_whales are a game changer.\n\nIn today’s live trading stream, we used Market Tide, Periscope gamma, options flow, and live positioning changes to take real time power hour scalps.\n\nThis wasn’t just watching flow come in.\n\nWe broke down:\n• How gamma levels were shifting minute by minute\n• Why the market was pinned in a tight chop range\n• When the setup favored quick longs\n• When to stay patient and not force trades\n• How flow, IV, spot price, and Market Tide helped confirm the read\n\nThe 1 minute Periscope updates made a huge difference because we could see positioning change in real time instead of reacting late.\n\nFull stream here:\nhttps://t.co/8wtDLOQJRW\n\nSave 10% on your @unusual_whales monthly or annual subscription using my link below:\nhttps://t.co/xNtvfox5Lf",
+    "tweet_url": "https://x.com/unusual_whales/status/2075005019146072308",
+    "published_at": "2026-07-08T23:52:02+00:00",
+    "fetched_at": "2026-07-09T01:07:40.877668+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文介绍了利用Periscope的1分钟更新功能，结合Market Tide、期权gamma、期权流和实时持仓变化进行日内交易，强调实时数据提高了交易决策的准确性。虽然未提及具体标的，但提供了订阅优惠链接，属于投资分析类内容。",
+      "translation": "转推 @AnthonySandford：@unusual_whales 的新1分钟Periscope更新改变游戏规则。在今天实盘交易中，我们利用Market Tide、Periscope gamma、期权流和实时持仓变化进行实时尾盘投机。这不只是看资金流入。我们分析了：• gamma水平每分钟如何变化 • 市场为何在窄幅盘整区间内被锁定 • 何时适合快速做多 • 何时保持耐心不强行交易 • 资金流、波动率、现货价格和Market Tide如何帮助确认判断。1分钟Periscope更新帮助巨大，因我们能实时看到持仓变化，而非滞后反应。完整直播链接：https://t.co/8wtDLOQJRW。通过下方链接订阅@unusual_whales月费或年费可享10%优惠：https://t.co/xNtvfox5Lf",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2074991418028724306",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
