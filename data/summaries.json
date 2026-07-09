@@ -23,48 +23,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
       "$NVDA",
       "$AMZN",
       "$MSFT",
-      "$AMD"
+      "$META",
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "美元储备下降",
-      "地缘政治风险",
-      "AI泡沫",
-      "消费疲软",
-      "央行减持美元"
+      "地缘政治风险加剧",
+      "央行减持美元增持黄金",
+      "美股估值过高预警",
+      "AI泡沫与裁员并存",
+      "特朗普交易引发道德争议"
     ],
-    "recent_shift": "近期从关注央行减持美元和地缘风险转向强调市场泡沫信号、AI投资回报失望以及家庭财务恶化。",
+    "recent_shift": "由前期中性转向偏空，强调市场泡沫信号和消费者财务恶化",
     "representative_quotes": [
-      "More of the world’s central banks plan to cut dollar allocations than increase them in the coming decade as political risks associated with the U.S. currency rise",
-      "Goldman Sachs says the Japanese yen will weaken to 165 against the U.S. dollar",
-      "Zuckerberg acknowledged shortcomings...AI agents had not progressed as quickly as he had expected"
+      "More of the world’s central banks plan to cut dollar allocations than increase them...",
+      "Wall Street analysts are forecasting approximately 25% earnings growth for 2026...",
+      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics'"
     ],
-    "generated_at": "2026-07-09T05:29:48.858303+00:00"
+    "generated_at": "2026-07-09T08:57:05.782879+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "$MU",
-      "$NVDA",
-      "$ASX",
-      "$LRCX"
+      "SK하이닉스",
+      "GLW",
+      "NVDA",
+      "MU",
+      "ASX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（HBM/DRAM）供需紧张，海力士与美光盈利爆发",
-      "AI基建仍处早期，玻璃基板与光互连将成下一代芯片底座",
-      "杠杆仓位管理的重要性，经历暴跌后回归正股为主"
+      "存储芯片高景气度",
+      "AI基础设施与算力需求",
+      "玻璃基板与光互连技术"
     ],
-    "recent_shift": "近期观点从聚焦存储与杠杆ETF转向重视玻璃基板（康宁）、封测（日月光）等产业链上游确定性机会",
+    "recent_shift": "近期从极度看好海力士正股转向配置康宁和日月光，因市场波动和杠杆风险提醒",
     "representative_quotes": [
-      "活过来了，终于反弹了，韩股总不可能天天熔断吧。AI总不可能不搞了吧。",
-      "要么早信要么坚决不信，先信卖后信",
-      "未来是属于AI的，但暴跌是因为市场在调节涨幅去匹配季度营收或预期营收"
+      "捏住海力士躺平就够了。",
+      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
+      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。"
     ],
-    "generated_at": "2026-07-08T14:22:50.985921+00:00"
+    "generated_at": "2026-07-09T08:57:02.906891+00:00"
   }
 }

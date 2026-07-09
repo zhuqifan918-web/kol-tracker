@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2075106084793286733",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这些炒股炒的已经家破人亡了，\n韩国估计集体返贫，\n再跌10%海力士都跌40%了，\n加仓猛干海力士的好时机。 https://t.co/dldBylq63Y",
+    "tweet_url": "https://x.com/xiaomustock/status/2075106084793286733",
+    "published_at": "2026-07-09T06:33:38+00:00",
+    "fetched_at": "2026-07-09T08:56:32.335860+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到海力士已大幅下跌40%，认为现在是加仓猛干的好时机。同时提及韩国股市导致家破人亡和集体返贫的负面现象。总体对海力士持看涨态度。",
+      "translation": "这些炒股炒的已经家破人亡了，韩国估计集体返贫，再跌10%海力士都跌40%了，加仓猛干海力士的好时机。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075066915547238558",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -91,6 +112,25 @@
       "direction": "bullish",
       "summary": "该推文介绍了利用Periscope的1分钟更新功能，结合Market Tide、期权gamma、期权流和实时持仓变化进行日内交易，强调实时数据提高了交易决策的准确性。虽然未提及具体标的，但提供了订阅优惠链接，属于投资分析类内容。",
       "translation": "转推 @AnthonySandford：@unusual_whales 的新1分钟Periscope更新改变游戏规则。在今天实盘交易中，我们利用Market Tide、Periscope gamma、期权流和实时持仓变化进行实时尾盘投机。这不只是看资金流入。我们分析了：• gamma水平每分钟如何变化 • 市场为何在窄幅盘整区间内被锁定 • 何时适合快速做多 • 何时保持耐心不强行交易 • 资金流、波动率、现货价格和Market Tide如何帮助确认判断。1分钟Periscope更新帮助巨大，因我们能实时看到持仓变化，而非滞后反应。完整直播链接：https://t.co/8wtDLOQJRW。通过下方链接订阅@unusual_whales月费或年费可享10%优惠：https://t.co/xNtvfox5Lf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075000643866276331",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We asked strangers which stocks they would drop $1,000 on.\n\nDo you agree with their list?\n\nWe ask Mr. Whale to rank their picks. https://t.co/nAxoKAXATF",
+    "tweet_url": "https://x.com/unusual_whales/status/2075000643866276331",
+    "published_at": "2026-07-08T23:34:39+00:00",
+    "fetched_at": "2026-07-09T08:56:52.157714+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及向陌生人询问他们会将1000美元投资于哪些股票，并邀请用户评价这份清单，同时提到一位名为Mr. Whale的权威人士将对推荐进行排名。这属于投资相关讨论，但未明确具体股票或市场方向。",
+      "translation": "我们向陌生人询问他们愿意将1000美元投入哪些股票。你同意他们的清单吗？我们请Mr. Whale对他们的选择进行排名。",
       "confidence": "medium"
     }
   },
