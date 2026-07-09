@@ -26,24 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "META",
+      "MU",
       "SPCX",
       "NVDA",
-      "AMZN",
-      "MSFT"
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与避险资产",
-      "科技与AI投资扩张",
-      "美国防务与经济政策"
+      "科技巨头投资扩大",
+      "地缘政治风险上升",
+      "通货膨胀与利率预期",
+      "美股估值泡沫警告",
+      "黄金与去美元化趋势"
     ],
-    "recent_shift": "近期关注点从纯科技扩张转向地缘冲突和避险资产，同时多次推销自身平台服务。",
+    "recent_shift": "从较早的乐观情绪转为对市场泡沫、通胀和地缘冲突的谨慎态度",
     "representative_quotes": [
-      "Meta, $META, says it faces up to $1.4 trillion in potential penalties in a teen mental health lawsuit, roughly equal to its market value.",
-      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg",
-      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them."
+      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them.",
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
+      "BREAKING: China’s central bank bought more gold in June, extending the longest buying streak since at least 2015, per Bloomberg."
     ],
-    "generated_at": "2026-07-09T21:00:40.473954+00:00"
+    "generated_at": "2026-07-09T22:24:48.380095+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
