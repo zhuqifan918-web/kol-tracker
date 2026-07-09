@@ -1,68 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$CCXI",
-      "$SIVE",
-      "$NBIS",
       "$META",
+      "$NBIS",
+      "$SIVE",
+      "$CCXI",
       "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人形机器人商业化加速",
-      "光子链路瓶颈与价格飙升",
-      "超大规模数据中心资本开支长期增长"
+      "AI基础设施持续扩张",
+      "光学/光子学供应链瓶颈",
+      "人形机器人产业链布局",
+      "内存价格结构性上涨",
+      "地缘政治与技术自主可控"
     ],
-    "recent_shift": "从关注存储和光子瓶颈转向人形机器人整机标的，强调Agility Robotics为美国首家纯人形机器人上市公司。",
+    "recent_shift": "近期观点未明显转变，依然坚定看好AI基础设施、光子学和人形机器人的长期结构性机会，认为短期回调是买入时机。",
     "representative_quotes": [
-      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... at $16, you have a ~$4B MC pre-money humanoid player.",
-      "Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages.",
-      "Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. … I see it as long term ownership over: - the next hyperscaler with $NBIS … - 40% of the InP supply chain with $AXTI …"
+      "I believe the thematically photonics, memory, energy, and physical AI will outperform in the long run.",
+      "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... Probably doesn't have anything to do with individual fundamentals.",
+      "I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts."
     ],
-    "generated_at": "2026-07-08T23:08:04.736951+00:00"
+    "generated_at": "2026-07-09T14:32:09.831939+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "META",
+      "AMZN",
       "NVDA",
       "MSFT",
-      "AMZN",
-      "SPCX"
+      "DELL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "科技巨头与AI泡沫风险",
-      "地缘政治紧张与能源冲击",
-      "央行去美元化与避险资产"
+      "黄金与避险资产",
+      "地缘政治风险",
+      "人工智能泡沫风险",
+      "美元储备地位下降",
+      "科技巨头监管"
     ],
-    "recent_shift": "近期推文从早期聚焦科技股投资转向强调市场风险、地缘冲突及央行减持美元，并大量揭露总统交易涉嫌内幕的质疑。",
+    "recent_shift": "近期从关注科技与AI机会转向更多强调地缘政治紧张、央行去美元化以及市场泡沫警示。",
     "representative_quotes": [
-      "Earnings, not just valuations, are flashing bubble warnings, per FT.",
-      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg",
-      "Trump: Short sellers are getting wiped out. 'Those poor bastards. I never liked short guys because they're betting against the country.'"
+      "BREAKING: Deadly bacteria found in major US city's water system traced to Mark Zuckerberg's $800 million, $META, data center, per TechRadar",
+      "BREAKING: For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro, per Reuters",
+      "Bank of America has told investors it may be time to take profits."
     ],
-    "generated_at": "2026-07-09T11:45:55.148199+00:00"
+    "generated_at": "2026-07-09T14:32:05.937301+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK하이닉스",
-      "GLW",
-      "NVDA",
-      "MU",
-      "ASX"
+      "$GLW",
+      "$MU",
+      "$NVDA",
+      "$LRCX",
+      "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片高景气度",
-      "AI基础设施与算力需求",
-      "玻璃基板与光互连技术"
+      "存储产业链是AI基础设施的核心，尤其是海力士和康宁",
+      "AI泡沫未到破裂时，AGI到来前长期看好",
+      "玻璃基板与光互连是下一代AI芯片关键",
+      "设备厂（LRCX、AMAT等）受益于存储扩产",
+      "杠杆风险高，仓位管理胜于选股"
     ],
-    "recent_shift": "近期从极度看好海力士正股转向配置康宁和日月光，因市场波动和杠杆风险提醒",
+    "recent_shift": "近期从坚定看好海力士转向增持康宁，认为康宁（GLW）的玻璃基板和光纤业务在AI下一代芯片中具有垄断地位，可能成为新主线。",
     "representative_quotes": [
-      "捏住海力士躺平就够了。",
-      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
-      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。"
+      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
+      "海力士q2利润1300亿美金，存储不仅卡住了AI的脖子，也卡了传统电子产品的脖子。",
+      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的。"
     ],
-    "generated_at": "2026-07-09T08:57:02.906891+00:00"
+    "generated_at": "2026-07-09T14:32:14.201481+00:00"
   }
 }
