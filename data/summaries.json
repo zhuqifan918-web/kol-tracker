@@ -2,46 +2,48 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
-      "$META",
       "$CCXI",
       "$NBIS",
+      "$META",
       "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与激光器供应瓶颈",
-      "人形机器人产业链与商业落地",
-      "AI基础设施与超大规模云投资"
+      "光子学/CPO供应链与涨价潮",
+      "美国人形机器人量产竞赛",
+      "AI基础设施投资不减反增",
+      "地缘政治与自主可控需求",
+      "上游瓶颈材料与国产替代"
     ],
-    "recent_shift": "近期观点不变，持续强调市场误解后的内在价值，比如Meta算力恐慌和Sivers内部买入信号",
+    "recent_shift": "早期更关注光子学与存储涨价，近期转向机器人整机与供应链本土化，并强调机构买入信号",
     "representative_quotes": [
-      "Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included).",
-      "Journalism created the dip. Insiders bought it.",
-      "If everything crashes together... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
+      "I'm personally long on Agility through $CCXI targeting commercialization with Amazon and others.",
+      "Retail thinks a 30-60% drop is a 'falling knife'... I see it as long term ownership over the next hyperscaler with $NBIS, 40% of the InP supply chain with $AXTI, leader of the next optical shift with $SIVE...",
+      "Summing up: Journalism created the dip. Insiders bought it."
     ],
-    "generated_at": "2026-07-09T19:05:22.906138+00:00"
+    "generated_at": "2026-07-09T21:00:44.117521+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "META",
       "SPCX",
-      "AMZN",
       "NVDA",
-      "MU"
+      "AMZN",
+      "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "大型科技与人工智能投资",
-      "地缘政治风险与能源安全",
-      "股市泡沫与通胀担忧"
+      "地缘政治风险与避险资产",
+      "科技与AI投资扩张",
+      "美国防务与经济政策"
     ],
-    "recent_shift": "近期对美股持谨慎态度，强调估值泡沫和地缘风险。",
+    "recent_shift": "近期关注点从纯科技扩张转向地缘冲突和避险资产，同时多次推销自身平台服务。",
     "representative_quotes": [
-      "Goldman Sachs has raised its AMD, $AMD, price target to $640 from $450 and reiterated its Buy rating.",
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
-      "Iran's Revolutionary Guards Navy: foreigners have no stake in the Strait of Hormuz"
+      "Meta, $META, says it faces up to $1.4 trillion in potential penalties in a teen mental health lawsuit, roughly equal to its market value.",
+      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg",
+      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them."
     ],
-    "generated_at": "2026-07-09T19:05:19.666373+00:00"
+    "generated_at": "2026-07-09T21:00:40.473954+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

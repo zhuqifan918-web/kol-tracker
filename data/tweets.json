@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2075302956581449892",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American humanoid programs is here?\n\nBoth technologically with players like 1X and with mass production with $TSLA? \n\nI'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others. \n\nBut I'm proud to see American robotics as a whole go brrrr.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+    "published_at": "2026-07-09T19:35:56+00:00",
+    "fetched_at": "2026-07-09T20:59:50.225971+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "推文看好美国人形机器人产业，提及1X的先进手部技术和特斯拉（TSLA）的量产能力，认为这是美国机器人项目的转折点；作者个人做多Agility（通过CCXI），押注其与亚马逊等公司的商业化前景。",
+      "translation": "中国正在出货全球约90%的人形机器人。我们不能继续轻视他们。\n\n埃隆的评论：\"暂时而已\"\n\n与此同时，1X今天发布了一段视频，展示了最先进的人形机器手。\n\n看起来美国人形机器人项目的拐点已经到了？\n\n技术上，有像1X这样的玩家；大规模生产方面，有$TSLA？\n\n我个人通过$CCXI做多Agility，目标是其与亚马逊等公司的商业化。\n\n但我很自豪地看到整个美国机器人领域在蓬勃发展。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075289915697553697",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -42,6 +64,29 @@
       "summary": "推文分析SIVE股价下跌源于EFN文章的误导性解读，认为创始人McKee的减持是正常职业过渡而非内幕恐慌，同时指出EFN遗漏关键背景。随后董事会成员和CEO在下跌时增持，显示内部人信心。整体观点偏向看多，认为下跌是媒体情绪所致。",
       "translation": "分析这条推文的投资相关性。\n\n推文：$SIVE今日因EFN的一篇文章下跌，该文章声称光子学负责人清仓持股——被描绘为令人担忧的内幕恐慌。以下是本文可能遗漏的地方。\n\nAndrew McKee于1999年创立了CST（现Sivers Photonics）——27年前。他白手起家建立了光子学业务。今年早些时候，Alex McCann在4月/5月的通讯中公开担任Sivers Photonics的新董事总经理。McKee转任技术职务。他第一季度的股票销售似乎与这一过渡一致，并且可能在股票重估之前就已部分出售（如果确实全部出售）。\n\n我的看法是：这很可能是对公司前景没有负面看法的情况下进行的。一个在建立公司近30年后将自己的毕生工作变现的人，并非内幕恐慌。我认为这更可能是在他自己的条件下结束职业生涯。他绝对值得。即使他在6个月内卖出，我认为这仍然不是重大的负面信号。\n\nEFN未查证的三件事：A) 持股存在已知盲点——控股公司、ISK结构和家族工具中的持股未被记录。有人核实过McKee在任何结构中零持股吗？B) 一项期权计划在7月初实现。如果McKee出售旧股参与其中，这并不是重大负面信号（他不是内幕人士，因此不会报告买卖）——持股信息此时不会显示，因为是7月初。C) 职务变更多半发生在大部分股票出售之前，背景很重要。\n\n午后，两位董事会成员公开披露了内幕买入。\n\nTodd Thomson——董事会成员，前花旗集团CFO——今日在42.80瑞典克朗的恐慌中买入535,000瑞典克朗。Karin Raj在34.68瑞典克朗（日内低点）买入460,000瑞典克朗。两人当日向FI报告。这些人拥有更多关于全局的信息，且参与了批准今日关于季度报告和美国纳斯达克上市说明的决议。\n\n更新：CEO Vikram也已以约1,000,000瑞典克朗购入股票。\n\n总结：媒体制造了下跌。内幕人士买入了。\n\nX对此怎么看？",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075278056780976431",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Defense Department was funded with a budget of nearly a trillion dollars, but it is running out of cash, per NBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2075278056780976431",
+    "published_at": "2026-07-09T17:57:00+00:00",
+    "fetched_at": "2026-07-09T21:00:31.878636+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DFEN",
+        "PPA",
+        "ITA"
+      ],
+      "direction": "bearish",
+      "summary": "美国国防部预算接近万亿美元却面临资金短缺，这可能对国防相关ETF和股票构成利空，投资者需关注后续是否会影响国防合同支出。",
+      "translation": "据NBC报道，国防部获得了近万亿美元的预算，但资金正面临枯竭。",
+      "confidence": "medium"
     }
   },
   {
