@@ -1,5 +1,53 @@
 [
   {
+    "tweet_id": "2075496116481884524",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place...\n\nSo Photonics / Nvidia’s roadmap hasn’t fundamentally changed:\n\n$LITE is still completely sold out for the next 2 years and likely into 2029.\n\n$SIVE is about to volume ramp with  GlobalFoundries, Jabil, Poet, Ayar, and other hyperscaler suppliers.\n\n$TSM COUPE and their TW suppliers from Shunsin to Foci aren’t randomly disappearing into the void.\n\n$AAOI and their $471m/month h2 2027 revenue projections haven’t changed.\n\n$IQE and their epiwafer contracts with Macom and Tower Semi haven’t disappeared.\n\n$AXTI ownership of 40% of the InP substrate supply chains haven’t suddenly disappeared.\n\nAs with any theme from Rocketlab + Space sector 50% drop back in 2025. \n\nOr Nebius + Neocloud 50% drop entering 2026.\n\nOr the Samsung/SK Hynix crash from Iran War LNG/Helium/Oil fears few months ago.\n\nVolatility from indiscriminate thematic selloffs isn’t typically representative of individual company fundamentals.\n\nRetail tends to build conviction over price movements and imaginary charts, then lose that when a stock drops.\n\nAnd institutions are probably placing limit orders to capitalize on that.\n\nConviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075496116481884524",
+    "published_at": "2026-07-10T08:23:29+00:00",
+    "fetched_at": "2026-07-10T09:57:25.083676+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE",
+        "SIVE",
+        "TSM",
+        "AAOI",
+        "IQE",
+        "AXTI",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为，近期相关板块的下跌主要源于零售投资者的恐慌性抛售，而公司基本面并未恶化：$LITE未来两年订单已满，$SIVE即将量产出货，$AAOI收入预测未变等。作者强调，机构正在利用这种波动下买单，投资者应将信念建立在长期收入和盈利增长上，而非短期股价。",
+      "translation": "是的，目睹散户抛售很有趣。在Bloomberg关于Meta计算的文章被内部备忘录澄清后，以及Nvidia否认了两次延迟报告之后——而这两件事正是最初导致抛售的原因。因此，Photonics/Nvidia的路线图并没有根本改变：$LITE未来两年完全售罄，很可能延续到2029年；$SIVE即将与GlobalFoundries、Jabil、Poet、Ayar及其他超大规模供应商放量；$TSM的COUPE及其台湾供应商（从Shunsin到Foci）不会凭空消失；$AAOI的2027年下半年每月4.71亿美元收入预测未变；$IQE与Macom和Tower Semi的晶圆合同未消失；$AXTI在InP衬底供应链中40%的份额也未突然消失。就像Rocketlab+太空板块在2025年下跌50%，或Nebius+Neocloud在进入2026年时下跌50%，或三星/SK海力士因伊朗战争LNG/氦/石油恐慌而暴跌一样。无差别主题性抛售带来的波动通常不代表个股基本面。散户倾向于根据价格波动和虚构图表建立信心，然后在股价下跌时失去信心；而机构可能正在放置限价单来利用这一点。信念不应与某一天的股票报价挂钩，而应与长期收入或运营利润增长相连。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075482186090688751",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "40% swing from the panic/X hysteria lows.\n\nI would not rely on X is an indicator but it can be a good contrarian tool.\n\nMore to the point I think photonic sector is starting to bottom. $SIVE",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075482186090688751",
+    "published_at": "2026-07-10T07:28:08+00:00",
+    "fetched_at": "2026-07-10T09:57:30.628112+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "推特指出恐慌性抛售已出现40%的反弹，并认为X平台虽不是可靠指标，但可作为反向工具。更重要的是，作者判断光子板块正在触底，对$SIVE持看多态度。",
+      "translation": "从恐慌/X的恐慌性低点反弹了40%。我不会依赖X作为指标，但它可以是一个好的反向工具。更重要的是，我认为光子板块正在触底。$SIVE",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075457587223650310",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -178,6 +226,25 @@
       "summary": "推文看好美国人形机器人产业，提及1X的先进手部技术和特斯拉（TSLA）的量产能力，认为这是美国机器人项目的转折点；作者个人做多Agility（通过CCXI），押注其与亚马逊等公司的商业化前景。",
       "translation": "中国正在出货全球约90%的人形机器人。我们不能继续轻视他们。\n\n埃隆的评论：\"暂时而已\"\n\n与此同时，1X今天发布了一段视频，展示了最先进的人形机器手。\n\n看起来美国人形机器人项目的拐点已经到了？\n\n技术上，有像1X这样的玩家；大规模生产方面，有$TSLA？\n\n我个人通过$CCXI做多Agility，目标是其与亚马逊等公司的商业化。\n\n但我很自豪地看到整个美国机器人领域在蓬勃发展。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075298189515833621",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Former Fed chair Ben Bernanke joins Anthropic's AI oversight trust",
+    "tweet_url": "https://x.com/unusual_whales/status/2075298189515833621",
+    "published_at": "2026-07-09T19:17:00+00:00",
+    "fetched_at": "2026-07-10T09:58:19.504382+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "前美联储主席本·伯南克加入Anthropic的AI监管信托，可能提升AI行业治理关注度，间接影响AI概念股估值。",
+      "translation": "前美联储主席本·伯南克加入Anthropic的人工智能监管信托。",
+      "confidence": "low"
     }
   },
   {

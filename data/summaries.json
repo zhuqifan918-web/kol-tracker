@@ -2,50 +2,49 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "CCXI",
       "NBIS",
+      "LITE",
       "AXTI",
-      "META"
+      "CCXI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与光通信瓶颈",
-      "人形机器人（美国领先）",
-      "AI基础设施支出持续增长",
-      "供应链瓶颈（存储、光学、稀土）",
-      "市场恐慌中的逆向投资机会"
+      "光子学与光通信供应链瓶颈",
+      "人形机器人商业化与美国本土制造",
+      "AI基础设施（内存、数据中心、算力）持续扩张",
+      "市场恐慌与机构逆向操作的机会",
+      "半导体上游材料与设备涨价周期"
     ],
-    "recent_shift": "从宏观市场恐慌转向关注个股基本面与机构买入信号，强调媒体误导读者的逆向机会。",
+    "recent_shift": "从关注整个半导体供应链转向集中押注光子学和人形机器人，并强调中长期持有而非短期波动。",
     "representative_quotes": [
-      "If a thesis ends up correct, the valuation should be reflected in the long run.",
-      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "Journalism created the dip. Insiders bought it."
+      "Retail thinks a 30-60% drop is a ‘falling knife’… I see it as long term ownership over the next hyperscaler with $NBIS… leader of the next optical shift with $SIVE… leader of US humanoids with $CCXI inside a future trillion dollar theme… At cheaper valuations.",
+      "Photonic sector is starting to bottom. $SIVE",
+      "Nothing like an internal $META memo getting published. Showing AI ramping as usual… LTAs signed with Samsung and $SNDK for memory… Expected to deploy 7GW compute infra this year and doubling in 2027."
     ],
-    "generated_at": "2026-07-10T01:58:20.771108+00:00"
+    "generated_at": "2026-07-10T09:58:28.618247+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "META",
+      "TRUMP",
       "MU",
       "SPCX",
-      "AMD",
-      "DELL"
+      "AMD"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与能源安全",
-      "美联储政策与通货膨胀",
-      "AI泡沫与科技股回调",
-      "投资者情绪转向保守",
-      "央行去美元化与黄金增持"
+      "地缘政治风险",
+      "人工智能成本与泡沫",
+      "央行减持美元与增持黄金",
+      "市场情绪分化"
     ],
-    "recent_shift": "近期对市场风险警告增加，从长期看多转为强调泡沫风险和地缘政治冲击。",
+    "recent_shift": "近期更关注地缘政治对市场的影响，而此前侧重企业基本面与盈利预期。",
     "representative_quotes": [
-      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them.",
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
-      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg."
+      "The remarks came a day after overnight airstrikes reportedly targeted Kharg Island, the central hub of Iran’s oil export industry.",
+      "Wall Street analysts are forecasting approximately 25% earnings growth for 2026 and nearly 18% growth for 2027, according to Bloomberg",
+      "Inverse Cramer continues to put up strong numbers, outperforming even Pelosi on Autopilot"
     ],
-    "generated_at": "2026-07-10T06:01:34.569711+00:00"
+    "generated_at": "2026-07-10T09:58:24.466172+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
