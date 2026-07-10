@@ -1,5 +1,109 @@
 [
   {
+    "tweet_id": "2075620312058830947",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2075620312058830947",
+    "published_at": "2026-07-10T16:37:00+00:00",
+    "fetched_at": "2026-07-10T17:15:38.568971+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "报告指出，散户投资者（本十年股市的重要支持者）信心正在减弱，可能预示着市场情绪转向负面，对股市构成风险。",
+      "translation": "据彭博社报道，本十年股市最坚定的支持者之一——散户交易员，正显示出信心减弱的迹象。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075616855616823456",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "2X LONG AND 1X SHORT SK HYNIX ETFS  \n\nLAUNCHING ON Tuesday  \n\nWatch out for this coming soon following the SK Hynix IPO  \n\nThe 2x Long and 1x Short SK Hynix ETFs will begin trading ... here are the tickers to watch out for from Leverage Shares.\n\n$SKHX - 2x Long SK Hynix ETF\n$SKHZ - 1x Short SK Hynix ETF\n\nBookmark this.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075616855616823456",
+    "published_at": "2026-07-10T16:23:16+00:00",
+    "fetched_at": "2026-07-10T17:15:40.935590+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHX",
+        "SKHZ"
+      ],
+      "direction": "neutral",
+      "summary": "推文宣布SK Hynix相关的2倍做多和1倍做空ETF即将上市，这些杠杆产品可能带来较高风险，提示投资者关注。",
+      "translation": "2倍做多和1倍做空SK海力士ETF即将于周二上市。在SK海力士IPO之后，敬请关注。来自Leverage Shares的2倍做多和1倍做空SK海力士ETF将开始交易...以下是需要关注的代码。$SKHX - 2倍做多SK海力士ETF，$SKHZ - 1倍做空SK海力士ETF。请收藏此信息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075611260771852590",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Sk Hynix is now trading under $SKHYV!\n\nIt's now up an insane 16%.\n\nI wonder how Sk Hynix over in Korea is going to react on Monday. https://t.co/Mmqdu0poVY",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075611260771852590",
+    "published_at": "2026-07-10T16:01:02+00:00",
+    "fetched_at": "2026-07-10T17:15:07.117962+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHYV"
+      ],
+      "direction": "bullish",
+      "summary": "SK海力士在美国上市的SKHYV单日涨幅达16%，引发对其韩国母公司下周一走势的乐观预期。投资者应关注韩国SK海力士复牌后可能的跟涨机会。",
+      "translation": "SK海力士现在的交易代码是$SKHYV！它已经涨了惊人的16%。我想知道韩国那边的SK海力士周一开盘会如何反应。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075605212635566354",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Circle Internet Group received approval to start a national digital-currency trust bank to support its stablecoin business, widening its remit to include institutional custody services while consolidating oversight under a single federal trust charter.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075605212635566354",
+    "published_at": "2026-07-10T15:37:00+00:00",
+    "fetched_at": "2026-07-10T17:15:44.968749+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USDC"
+      ],
+      "direction": "bullish",
+      "summary": "Circle获得全国性数字货币信托银行牌照，有助于稳定币业务扩展和机构托管服务，监管整合利好稳定币生态，可能提振USDC相关市场情绪。",
+      "translation": "Circle互联网集团已获批准成立一家全国性数字货币信托银行，以支持其稳定币业务，这将扩大其业务范围至机构托管服务，同时将监管整合到单一联邦信托章程下。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075602213913948296",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'm actually very curious what happens when SK Hynix opens 21% premium relative to KR.\n\nHaven't really seen any analyst or others talk about second order effects of this yet? \n\nDoes this cause South Korea futures, and others with SK Hynix in weightings to gap up in the first few minutes of opening? \n\nSince SK Hynix is a large % of many index weighting and indirectly too with SK Square, before the premium decreases to something reasonable like 3-5%? \n\nI'm not sure if there's much precedence for this before since normally you don't get these trillion dollar listings \nwith observable 21% premiums on open.. That make up large concentrations of indexes. \n\nJust throwing out market structure observations in case others get ideas.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075602213913948296",
+    "published_at": "2026-07-10T15:25:05+00:00",
+    "fetched_at": "2026-07-10T17:15:13.507913+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "000660.KR"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论了SK海力士上市溢价21%的市场结构影响，分析其可能对韩国指数期货及权重股开盘造成跳空，并指出此类大市值股票高溢价上市缺乏历史先例。作者未给出明确买卖建议，仅分享市场结构观察。",
+      "translation": "我真的很想知道当SK海力士以相对于韩国市场21%的溢价开盘时会发生什么。还没有看到任何分析师或其他人士讨论过这个问题的二阶效应？这会导致韩国期货以及其他含有SK海力士权重的指数在开盘头几分钟跳空上涨吗？因为SK海力士在很多指数权重中占比很大，而且通过SK Square间接影响也大，在溢价回落到3-5%的合理水平之前？我不确定以前是否有这样的先例，因为通常不会有这种万亿市值股票开盘出现可观察的21%溢价，而且它们还占指数很大权重。只是提出一些市场结构观察，供其他人参考。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075596586986754131",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
