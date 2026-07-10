@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$CCXI",
-      "$NBIS",
-      "$META",
-      "$NVDA"
+      "SIVE",
+      "CCXI",
+      "NBIS",
+      "AXTI",
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/CPO供应链与涨价潮",
-      "美国人形机器人量产竞赛",
-      "AI基础设施投资不减反增",
-      "地缘政治与自主可控需求",
-      "上游瓶颈材料与国产替代"
+      "光子学与光通信瓶颈",
+      "人形机器人（美国领先）",
+      "AI基础设施支出持续增长",
+      "供应链瓶颈（存储、光学、稀土）",
+      "市场恐慌中的逆向投资机会"
     ],
-    "recent_shift": "早期更关注光子学与存储涨价，近期转向机器人整机与供应链本土化，并强调机构买入信号",
+    "recent_shift": "从宏观市场恐慌转向关注个股基本面与机构买入信号，强调媒体误导读者的逆向机会。",
     "representative_quotes": [
-      "I'm personally long on Agility through $CCXI targeting commercialization with Amazon and others.",
-      "Retail thinks a 30-60% drop is a 'falling knife'... I see it as long term ownership over the next hyperscaler with $NBIS, 40% of the InP supply chain with $AXTI, leader of the next optical shift with $SIVE...",
-      "Summing up: Journalism created the dip. Insiders bought it."
+      "If a thesis ends up correct, the valuation should be reflected in the long run.",
+      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
+      "Journalism created the dip. Insiders bought it."
     ],
-    "generated_at": "2026-07-09T21:00:44.117521+00:00"
+    "generated_at": "2026-07-10T01:58:20.771108+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "META",
-      "MU",
       "SPCX",
-      "NVDA",
-      "AMZN"
+      "MU",
+      "AMZN",
+      "AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "科技巨头投资扩大",
-      "地缘政治风险上升",
-      "通货膨胀与利率预期",
-      "美股估值泡沫警告",
-      "黄金与去美元化趋势"
+      "人工智能与科技投资",
+      "地缘政治与能源安全",
+      "市场波动与利率预期"
     ],
-    "recent_shift": "从较早的乐观情绪转为对市场泡沫、通胀和地缘冲突的谨慎态度",
+    "recent_shift": "近期更关注地缘政治风险和利率预期，同时强调人工智能成本高企",
     "representative_quotes": [
-      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them.",
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
-      "BREAKING: China’s central bank bought more gold in June, extending the longest buying streak since at least 2015, per Bloomberg."
+      "57% there is no rate change in September, per Polymarket",
+      "Goldman Sachs has raised its AMD, $AMD, price target to $640 from $450 and reiterated its Buy rating.",
+      "Trump: Short sellers are getting wiped out. 'Those poor bastards. I never liked short guys because they're betting against the country.'"
     ],
-    "generated_at": "2026-07-09T22:24:48.380095+00:00"
+    "generated_at": "2026-07-10T01:58:23.077023+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
