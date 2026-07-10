@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2075386090564030667",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "57% there is no rate change in September, per Polymarket: https://t.co/3KIgBCZqnL",
+    "tweet_url": "https://x.com/unusual_whales/status/2075386090564030667",
+    "published_at": "2026-07-10T01:06:17+00:00",
+    "fetched_at": "2026-07-10T01:57:56.386938+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用Polymarket数据，指出57%概率认为9月美联储不会调整利率，这对市场预期有中性影响，投资者需关注后续经济数据。",
+      "translation": "根据Polymarket，57%的概率认为9月不会改变利率。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075384004828868765",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We just changed the options game.   \n\nNow, ask Mr Whale to help you navigate the options flow.     \n\nIt can create the filters you want, help determine unusual flow, and so much more.   \n\nDon't just follow the flow; control it.  \n\nCheck it out: https://t.co/HrgxqpXsL8 https://t.co/eppaTYUqwF",
+    "tweet_url": "https://x.com/unusual_whales/status/2075384004828868765",
+    "published_at": "2026-07-10T00:58:00+00:00",
+    "fetched_at": "2026-07-10T01:57:58.451475+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "推文宣传名为Mr Whale的工具，帮助用户分析期权流（Option Flow），创建筛选器，识别异常流动，并主动控制交易方向。但未提及具体标的或明确看涨看跌。",
+      "translation": "我们刚刚改变了期权游戏。现在，让Mr Whale帮你导航期权流。它可以创建你想要的筛选器，帮助识别异常流动等等。不要只跟随流动，要控制它。查看：https://t.co/HrgxqpXsL8 https://t.co/eppaTYUqwF",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2075377210220060735",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bryan Catanzaro, Nvidia’s vice president of applied deep learning, said the cost of compute for his team now far exceeds what the company spends on the employees using it\n\nRead more: https://t.co/gYMgaCzE6n",
+    "tweet_url": "https://x.com/unusual_whales/status/2075377210220060735",
+    "published_at": "2026-07-10T00:31:00+00:00",
+    "fetched_at": "2026-07-10T01:58:00.165383+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达应用深度学习副总裁指出，其团队的计算成本已远超员工薪资，凸显AI算力需求激增，利好英伟达等算力供应商。",
+      "translation": "英伟达应用深度学习副总裁Bryan Catanzaro表示，其团队的计算成本现在远超公司为使用这些计算的员工所支付的费用。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075347011369574598",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Check out Mr. Whale on Unusual Whales.\n\nIt is your go to feature for all this options.\n\nSee more: https://t.co/E7SDkYdrvv",
+    "tweet_url": "https://x.com/unusual_whales/status/2075347011369574598",
+    "published_at": "2026-07-09T22:31:00+00:00",
+    "fetched_at": "2026-07-10T01:58:07.274113+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文介绍了Unusual Whales平台的Mr. Whale功能，用于分析期权市场。",
+      "translation": "看看Unusual Whales上的Mr. Whale。这是你进行所有期权操作的首选功能。详情见链接。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075303222537842720",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -2846,6 +2924,37 @@
       "direction": "bullish",
       "summary": "券商上调评级，认为XFAB受益于客户需求强劲、AI带动SiC/GaN/光子学增长，且估值远低于同行；长期看光子学业务有NVDA驱动的潜力，但尚需量产合同验证。",
       "translation": "Kelper将$XFAB上调至“买入”，理由如下：- 主要客户Melexis需求“周复一周、日复一日”增强。- AI为XFAB带来SiC、GaN和光子学方面的结构性增长，抵消汽车周期性波动。- 稀缺的西方专业晶圆厂（如$SILEX）享有更高估值。“X-Fab仍是各项倍数下最便宜的专业晶圆厂，2027年EV/EBITDA为4.8倍，而同行中位数为14.5倍。”我认为这对核心基本面改善（如汽车玩家）是积极信号。但就未定价的长期增长向量而言，我个人从光子学增长角度关注XFAB，考虑photonixfab及$NVDA作为潜在关键驱动。不过，在出现批量合同之前，传统公司很难将这些积极进展纳入估值模型。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074046947434860971",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I personally think $SIVE can be the next $LITE. \n\nIn the past few months alone, we've seen:\n\n1. Partnerships with O-Net pushing ELS into mass production\n2. $JBL 1.6T LRO mass production signals with \"relatively dramatic moats\" for pluggables using Sivers.\n3. $GFS SCALE reference level laser for hyperscalers with pluggable, NPO, CPO.\n-> -> where $AMD and others went to GFS for CPO.\n4. Ayar, which joined $NVDA NVLink for CPO\n-> -> which removed Lumentum/Macom from their website and likely made Sivers their primary laser supplier. \n-> -> AlChip likely Trainium win from Amazon price placement (Ayar's customer)\n-> -> GUC rack level design in with Ayar.\n-> -> Raised $500m for mass production by AMD, Alchip, Mediatek, and NVIDIA\n5.  ~ $AEVA starting HVM H2 2026.\n6. $POET starting HVM H2 2026 with hyperscaler suppliers like Lumilens (\"top 3 hyperscaler initial customer\")\n7. TFLN + $SIVE CW Lasers with Lightium\n8. Likely direct relationships with $MRVL Celestial and CPO players like Lightelligence/Lightmatter.\n9. Multiple new undisclosed relationships for pluggables following Jabil in their quarterly transcripts\n\nWith new Trendforce reports that $AMD and other hyperscalers are trying to source LTAs for CW laser sources, serving as a direct catalyst for independent CW sources.\n\nSo when hyperscaler suppliers from Jabil to O-Net are incentivized to mass produce as many as they can: That's very material for revenue for Sivers relative to current valuations, and it looks like just a waiting game. \n\nEven in the past week:\n\n- $SIVE raised an oversubscribed institutional round for volume ramp... This is very nuanced since Sivers is fab-lite so it's not going to in-house foundry capex to scale. Likely toward Win Semi and others (they mentioned other partners too), for laser scaling + foundry allocations. \n\nSo this is likely signaling material for revenue ramp is coming. \n\n- Sivers also mentioned NASDAQ listing completion targeted in the next few quarters (probably H2 2026 or Q1 2027 is my est. timeframe). \n\nThis would fund M&A efforts, since it's impossible with the fundraising environments in local Swedish markets. \n\nAs for becoming the next $LITE:\n\nM&A makes their lasers more valuable, so downstream IP acqusition -> into contract manufacturing like $FN, and others to make the full 1.6T pluggable or optical engines. Is how they get there, since laser array ASP scaling that people are modeling off of, wouldn't command a $60B+   valuations. \n\nThere's going to be a lot of bridge architectures like NPO/pluggables, etc and noise around certain architectural delays in the meantime. \n\nBut markets misunderstand laser companies like $LITE, $SIVE, $AAOI and others are used across different architectures compared to if you just look at certain passive optical components. \n\nSo markets see \"CPO delay headlines\" algos sell off laser companies that benefit from other architectures. \n\nBeing included in the pluggable 1.6T ramp to CPO scale out (Which Sivers is included in), helps bridge revenue waiting gaps until scale up inflection point H2 2027.  \n\nI'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before. \n\nTLDR:\n- Waiting on volume ramps from different architectures to play out across their hyperscaler supplier mapping\n-> 1.6T LRO/CPO scale out late H2 2026 start into high volume ramp 2027\n-> H2 2027 CPO scale up volume ramp\n- Waiting on NASDAQ listing likely H2 2026/Q1 2027 for M&A efforts to fully take off, unless Sivers get more creative with equity financing in the meantime.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074046947434860971",
+    "published_at": "2026-07-06T08:25:00+00:00",
+    "fetched_at": "2026-07-10T01:57:37.521121+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "LITE",
+        "JBL",
+        "GFS",
+        "AMD",
+        "NVDA",
+        "AEVA",
+        "POET",
+        "MRVL",
+        "AAOI",
+        "FN"
+      ],
+      "direction": "bullish",
+      "summary": "推文强烈看好$SIVE，认为其有望成为下一个$LITE，指出多个合作伙伴在1.6T/CPO架构中的量产信号、机构融资和纳斯达克上市计划，预期2026下半年起营收将大幅增长。",
+      "translation": "我个人认为$SIVE可能成为下一个$LITE。过去几个月我们看到：1. 与O-Net合作推动ELS量产 2. $JBL的1.6T LRO量产信号及对Sivers可插拔产品的“相对巨大护城河” 3. $GFS为超大规模数据中心提供激光参考级设计 4. Ayar（加入$NVDA NVLink）可能将Sivers设为主要激光供应商 5. ~$AEVA 2026下半年量产 6. $POET 2026下半年量产 7. TFLN + $SIVE连续波激光器 8. 可能直接与$MRVL Celestial等CPO厂商合作 9. 多个新未公开的可插拔合作。Trendforce报告显示$AMD等超大规模厂商正寻求连续波激光器的长协，直接利好独立连续波激光源。Sivers刚完成机构超额认购融资用于产能扩张，纳斯达克上市预计未来几个季度完成。长期看好，目标成为下一个$LITE。",
       "confidence": "high"
     }
   },
