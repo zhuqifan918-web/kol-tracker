@@ -25,49 +25,48 @@
   "unusual_whales": {
     "focus_tickers": [
       "META",
-      "SKHX",
-      "SKHZ",
+      "SKHY",
       "SPCX",
+      "AMZN",
       "AAPL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI投资浪潮",
-      "半导体芯片紧缺",
-      "地缘政治风险（伊朗、海峡）",
-      "美联储政策与通胀预期",
-      "机构持仓变动"
+      "地缘政治风险与原油波动",
+      "AI估值泡沫与成本上升",
+      "央行去美元化与黄金储备增加",
+      "科技巨头监管与诉讼迫近",
+      "市场高估与散户信心减弱"
     ],
-    "recent_shift": "近期从前期较为乐观的AI主题转向关注地缘冲突、通胀上行和中央银行的去美元化趋势，同时警醒市场估值泡沫迹象。",
+    "recent_shift": "从早前积极推广AI交易工具和展示正向回报，转向强调市场泡沫、通胀上升和地缘冲突加剧，整体语调更为谨慎。",
     "representative_quotes": [
-      "Companies are shifting toward cheaper open‑source AI models to rein in costs, Amazon, $AMZN, CTO has said",
-      "BREAKING: Iran has intensified attacks on ships in the Strait of Hormuz, per the Guardian",
-      "BREAKING: For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro, per Reuters"
+      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them.",
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
+      "AI costs more than the people it replaced, per Forbes."
     ],
-    "generated_at": "2026-07-10T21:33:05.098175+00:00"
+    "generated_at": "2026-07-10T22:51:38.439219+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK hynix",
-      "GLW",
-      "MU",
-      "NVDA",
-      "ASX"
+      "$GLW",
+      "$MU",
+      "$NVDA",
+      "$AMAT",
+      "$LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI芯片产业链上游（存储、玻璃基板）核心机会",
-      "存储芯片供不应求格局持续",
-      "玻璃基板/光互连为下一代AI芯片关键",
-      "大市值股票趋势确定性强",
-      "需严控杠杆和仓位管理"
+      "存储芯片（HBM/DRAM）与AI基建的长期需求",
+      "康宁玻璃基板技术对下一代AI芯片的关键作用",
+      "物理AI与机器人数据采集的万亿市场潜力",
+      "半导体设备龙头（刻蚀/沉积/清洗）的扩产机会"
     ],
-    "recent_shift": "近期从强调纯存储（海力士）转向关注玻璃基板（康宁）及设备股，认为康宁可能成为下个长期主线",
+    "recent_shift": "近期从单纯重仓存储转向更多关注康宁玻璃基板，认为其可能成为未来AI基板垄断方案，同时强调仓位管理的重要性并降低杠杆风险。",
     "representative_quotes": [
-      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。",
-      "要么早信要么坚决不信，先信卖后信。"
+      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
+      "在未来某个时刻存储降价开启的时刻，可以第一时间梭哈苹果，因为售价不变利润率飙升，预期财报利润暴涨。",
+      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-07-10T18:56:47.756883+00:00"
+    "generated_at": "2026-07-10T22:51:42.810282+00:00"
   }
 }

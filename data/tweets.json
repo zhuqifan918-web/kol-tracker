@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2075711663710630162",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The odds of OpenAI hitting a $1 trillion evaluation have decreased to 54% this year, per Polymarket:",
+    "tweet_url": "https://x.com/unusual_whales/status/2075711663710630162",
+    "published_at": "2026-07-10T22:40:00+00:00",
+    "fetched_at": "2026-07-10T22:51:10.585895+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "根据Polymarket数据，OpenAI估值达1万亿美元的概率今年已降至54%，反映出市场对其前景的担忧增加。这对AI相关投资可能产生负面影响。",
+      "translation": "根据Polymarket数据，OpenAI达到1万亿美元估值的概率今年已降至54%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075694299841503694",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16,6 +35,25 @@
       "summary": "该推文提及Costco的许多美国时薪员工在401(k)账户中拥有超过100万美元的资产，这反映出公司员工财富积累显著，间接表明Costco的财务健康和投资价值，对Costco股票构成利好。",
       "translation": "据《华尔街日报》报道，Costco数万名美国时薪员工的401(k)账户中拥有超过100万美元的资产。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075680908817138072",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @PaxdorTrades: That didn't take long. Thank you @unusual_whales for the trade! and oh yea.... they're still holding https://t.co/CdnkliKknh",
+    "tweet_url": "https://x.com/unusual_whales/status/2075680908817138072",
+    "published_at": "2026-07-10T20:37:47+00:00",
+    "fetched_at": "2026-07-10T22:51:22.845153+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文提到交易者感谢@unusual_whales提供的交易机会，并暗示他们仍在持有头寸，显示看涨情绪。",
+      "translation": "转发@paxdortrades：这没花多少时间。谢谢@unusual_whales提供的交易！哦对了……他们还在持有。",
+      "confidence": "medium"
     }
   },
   {
@@ -149,6 +187,25 @@
       "summary": "报告指出，散户投资者（本十年股市的重要支持者）信心正在减弱，可能预示着市场情绪转向负面，对股市构成风险。",
       "translation": "据彭博社报道，本十年股市最坚定的支持者之一——散户交易员，正显示出信心减弱的迹象。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075620011377647859",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The odds of OpenAI hitting a $1 trillion valuation this year collapse 23%. https://t.co/9xe3JxKy3z",
+    "tweet_url": "https://x.com/unusual_whales/status/2075620011377647859",
+    "published_at": "2026-07-10T16:35:48+00:00",
+    "fetched_at": "2026-07-10T22:51:12.148098+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "OpenAI达到1万亿美元估值的几率下降23%，表明市场对AI龙头企业估值预期趋于谨慎，可能影响相关科技股情绪。",
+      "translation": "消息：OpenAI今年达到1万亿美元估值的机会暴跌23%。",
+      "confidence": "high"
     }
   },
   {
@@ -338,6 +395,25 @@
       "summary": "该推文分析了汽车制造商与机器人公司在人形机器人领域的合作趋势，提及多个相关企业和股票代码，但未给出明确投资建议。整体保持观察态度，适合投资者关注行业动态。",
       "translation": "三菱汽车加入机器人竞赛，计划在2027年前部署人形工人。与日本机器人公司Highlanders合作。 - Agility $CCXI x 富士康，丰田 - Apptronik x $JBL，梅赛德斯 - Highlanders x 三菱 - Figure × BMW - 波士顿动力 x 现代（子公司） - Optimus x 特斯拉（内部） - Rainbow Robotics x 三星（子公司） 不知道是不是只有我觉得，人形机器人公司与大型汽车或制造商之间有很多合作模式。如果它们还没有被其中一家垂直整合的话。而中国的参与者如UBTech/AgiBot/Unitree似乎并不在意，他们与中国各种汽车公司广泛合作。好奇这种趋势会如何发展...",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075554820401037509",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "gate的人脸能被突破就是@Gate 的问题，\n一定要小心自己的高清素颜视频音频外泄了，\n现在AI换脸真可以实现以假乱真，\n隐私在这个AI时代异常重要，\n再发展下去基本上一套操作下来能突破你所有安全防线。太吓人了这次这事。\n\n被盗资金已经被转移到洗钱地址。 https://t.co/8yoqO3PNOE",
+    "tweet_url": "https://x.com/xiaomustock/status/2075554820401037509",
+    "published_at": "2026-07-10T12:16:45+00:00",
+    "fetched_at": "2026-07-10T22:50:59.316120+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文警告Gate交易所用户注意AI换脸技术可能突破人脸识别安全防线，导致资产被盗并转移至洗钱地址。这凸显了加密货币平台的安全隐患，可能引发市场对Gate交易所的信任危机，对相关代币价格产生负面影响。",
+      "translation": "Gate的人脸能被突破就是@Gate的问题，一定要小心自己的高清素颜视频音频外泄了。现在AI换脸真可以实现以假乱真，隐私在这个AI时代异常重要。再发展下去基本上一套操作下来能突破你所有安全防线。太吓人了这次这事。被盗资金已经被转移到洗钱地址。",
+      "confidence": "medium"
     }
   },
   {
