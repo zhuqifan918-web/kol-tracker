@@ -1,5 +1,90 @@
 [
   {
+    "tweet_id": "2075549847672025554",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta plans to start manufacturing an AI chip from September as part of its plan to boost overall computing power to 14 gigawatts next year, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2075549847672025554",
+    "published_at": "2026-07-10T11:57:00+00:00",
+    "fetched_at": "2026-07-10T12:23:15.019568+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "Meta计划自9月起制造AI芯片，并提升计算能力至14吉瓦，表明其AI基础设施扩张战略，利好公司长期增长。",
+      "translation": "据路透社报道，Meta计划从9月开始制造一款人工智能芯片，作为其明年将整体计算能力提升至14吉瓦计划的一部分。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075539824589860866",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The \"Mythical Golden Egg Dragon Candle\" predicted the $SIVE rally today. \n\nIf you look at the Golden Egg hatching indicator I drew, you can tell it predicts Sivers CEO buying on the open market a day later. \n\nDo you guys think it's time I should sell courses on TA? https://t.co/LweBzWStuk",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075539824589860866",
+    "published_at": "2026-07-10T11:17:10+00:00",
+    "fetched_at": "2026-07-10T12:22:44.675748+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文声称一个名为‘神话金蛋龙烛台’的技术指标预测了$SIVE的上涨，并暗示该指标可提前一天预判CEO在公开市场买入。作者借此推销其技术分析课程。",
+      "translation": "‘神话金蛋龙烛台’指标预测了今天$SIVE的上涨。如果你看我画的‘金蛋孵化’指标，就能发现它提前一天预测了Sivers的CEO在公开市场买入。大家觉得我该卖技术分析课程吗？",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2075539781510160436",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Lockheed Martin, $LMT, which donated $1 million to Trump's inauguration and over $10 million to his ballroom project, is reportedly donating $5 million to build the White House helipad, per CitzensForEthics. \n\nSo far, the company has received over $40 billion in in new and expanded government contracts.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075539781510160436",
+    "published_at": "2026-07-10T11:17:00+00:00",
+    "fetched_at": "2026-07-10T12:23:18.043617+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LMT"
+      ],
+      "direction": "neutral",
+      "summary": "推文提及洛克希德·马丁公司（LMT）向特朗普相关活动捐赠，并已获得超过400亿美元政府合同，但未明确给出投资建议或价格预期，需投资者自行判断。",
+      "translation": "洛克希德·马丁公司（$LMT）曾向特朗普的就职典礼捐赠100万美元，并向其舞厅项目捐赠超过1000万美元，现据CitizensForEthics报道，该公司又捐赠500万美元用于建造白宫直升机停机坪。迄今为止，该公司已获得超过400亿美元的新增和扩建政府合同。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075534748248842422",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SK Hynix will begin trading today under the temporary ticker $SKHYV before switching to its permanent ticker, $SKHY, on Monday.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075534748248842422",
+    "published_at": "2026-07-10T10:57:00+00:00",
+    "fetched_at": "2026-07-10T12:23:19.681922+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHYV",
+        "SKHY"
+      ],
+      "direction": "neutral",
+      "summary": "此推文仅通知SK海力士临时股票代码变更，不包含价格预测或投资建议，属于中性信息。",
+      "translation": "SK海力士今日将以临时股票代码$SKHYV开始交易，下周一将转为永久代码$SKHY。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075496116481884524",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -67,6 +152,25 @@
     }
   },
   {
+    "tweet_id": "2075444072588927151",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "国内可回收火箭成功了，卧槽，牛逼炸了。\n@elonmusk https://t.co/TS1YPsNvzn",
+    "tweet_url": "https://x.com/xiaomustock/status/2075444072588927151",
+    "published_at": "2026-07-10T04:56:41+00:00",
+    "fetched_at": "2026-07-10T12:23:04.180897+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "国内可回收火箭成功，对商业航天板块构成积极影响，尤其是相关产业链公司可能受益。",
+      "translation": "国内可回收火箭成功了，卧槽，太牛了。 @elonmusk https://t.co/TS1YPsNvzn",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075414203821703384",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -105,6 +209,25 @@
       "summary": "用户抱怨鸿海精密（海公公）的ADR在美国市场表现不佳，价格纹丝不动，表达了对该股票走势的失望和看空情绪。",
       "translation": "鸿海精密（海公公）真垃圾呐，美股的一个ADR搞得价格纹丝不动。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075399104411381937",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The remarks widen the target list beyond oil and electric infrastructure and keep pressure on the Strait of Hormuz standoff.\n\nRead more: https://t.co/p1Omwel1Nh",
+    "tweet_url": "https://x.com/unusual_whales/status/2075399104411381937",
+    "published_at": "2026-07-10T01:58:00+00:00",
+    "fetched_at": "2026-07-10T12:23:30.553814+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该言论扩大了目标清单范围，超出石油和电力基础设施，并对霍尔木兹海峡对峙持续施压，可能加剧地缘政治风险，影响全球能源供应和市场稳定。投资者需关注油价波动及相关风险。",
+      "translation": "这些言论将目标清单扩大到石油和电力基础设施之外，并继续对霍尔木兹海峡的对峙施加压力。",
+      "confidence": "high"
     }
   },
   {
@@ -1663,6 +1786,27 @@
       "summary": "中国央行连续增持黄金，可能预示对全球经济不确定性的避险需求，对黄金价格有支撑作用。",
       "translation": "突发：中国央行在6月继续增持黄金，延长了自2015年以来最长的连续购买纪录，据彭博社报道。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2074536982311743623",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@EUlmsten wow the mythical golden egg dragon candle was spotted over the $SIVEF chart. \n\nSomething big is coming... https://t.co/V4CL41m5ax",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074536982311743623",
+    "published_at": "2026-07-07T16:52:14+00:00",
+    "fetched_at": "2026-07-10T12:22:49.746721+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVEF"
+      ],
+      "direction": "bullish",
+      "summary": "推文提到SIVEF图表中出现神秘的金龙蜡烛形态，暗示大利好即将到来，呈现强烈看涨信号。",
+      "translation": "哇，神话中的金龙蜡烛出现在$SIVEF图表上。大事要来了...",
+      "confidence": "low"
     }
   },
   {

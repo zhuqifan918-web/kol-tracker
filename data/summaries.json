@@ -1,71 +1,73 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "NBIS",
-      "LITE",
-      "AXTI",
-      "CCXI"
+      "$SIVE",
+      "$CCXI",
+      "$NBIS",
+      "$LITE",
+      "$AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与光通信供应链瓶颈",
-      "人形机器人商业化与美国本土制造",
-      "AI基础设施（内存、数据中心、算力）持续扩张",
-      "市场恐慌与机构逆向操作的机会",
-      "半导体上游材料与设备涨价周期"
+      "光子学供应链瓶颈与量產",
+      "人形机器人商业化与美国供应链",
+      "AI基础设施与Neocloud需求",
+      "记忆体与上游材料涨价",
+      "机构资本流入与主题性错杀"
     ],
-    "recent_shift": "从关注整个半导体供应链转向集中押注光子学和人形机器人，并强调中长期持有而非短期波动。",
+    "recent_shift": "近期从防御性持有转向积极加仓光子学和人形机器人，并强调CEO购股和机构配售为强信号，同时认为市场对Meta算力新闻过度反应，预计V型反弹。",
     "representative_quotes": [
-      "Retail thinks a 30-60% drop is a ‘falling knife’… I see it as long term ownership over the next hyperscaler with $NBIS… leader of the next optical shift with $SIVE… leader of US humanoids with $CCXI inside a future trillion dollar theme… At cheaper valuations.",
-      "Photonic sector is starting to bottom. $SIVE",
-      "Nothing like an internal $META memo getting published. Showing AI ramping as usual… LTAs signed with Samsung and $SNDK for memory… Expected to deploy 7GW compute infra this year and doubling in 2027."
+      "Yep, it’s interesting to witness retail capitulation... Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
+      "I personally think $SIVE can be the next $LITE... I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
+      "I'm bearish on humans. Hard to see people still having a job if humanoids come out at <$15K mass production."
     ],
-    "generated_at": "2026-07-10T09:58:28.618247+00:00"
+    "generated_at": "2026-07-10T12:23:51.463209+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "META",
-      "TRUMP",
-      "MU",
       "SPCX",
-      "AMD"
+      "SKHY",
+      "LMT",
+      "MU"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险",
-      "人工智能成本与泡沫",
-      "央行减持美元与增持黄金",
-      "市场情绪分化"
+      "地缘政治风险与能源安全",
+      "人工智能投资与成本争议",
+      "美国国防与政府合同",
+      "央行黄金增持与美元储备下降",
+      "科技巨头芯片与数据中心扩张"
     ],
-    "recent_shift": "近期更关注地缘政治对市场的影响，而此前侧重企业基本面与盈利预期。",
+    "recent_shift": "最近关于伊朗紧张局势和美联储利率预期的消息增多，而之前更多是科技和AI相关新闻。",
     "representative_quotes": [
-      "The remarks came a day after overnight airstrikes reportedly targeted Kharg Island, the central hub of Iran’s oil export industry.",
-      "Wall Street analysts are forecasting approximately 25% earnings growth for 2026 and nearly 18% growth for 2027, according to Bloomberg",
-      "Inverse Cramer continues to put up strong numbers, outperforming even Pelosi on Autopilot"
+      "Lockheed Martin, $LMT, which donated $1 million to Trump's inauguration and over $10 million to his ballroom project, is reportedly donating $5 million to build the White House helipad... the company has received over $40 billion in in new and expanded government contracts.",
+      "Bryan Catanzaro, Nvidia’s vice president of applied deep learning, said the cost of compute for his team now far exceeds what the company spends on the employees using it",
+      "Bernstein has said that its 2026 gold forecast is $4375."
     ],
-    "generated_at": "2026-07-10T09:58:24.466172+00:00"
+    "generated_at": "2026-07-10T12:23:47.467712+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
+      "#海力士",
       "$MU",
       "$NVDA",
-      "$AMAT",
-      "$KLAC"
+      "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片产业链供需紧张与垄断地位",
-      "AI基建投资周期与玻璃基板等硬件升级",
-      "杠杆交易风险与仓位管理重要性"
+      "存储芯片供需紧张与巨头垄断",
+      "玻璃基板与光互连技术革命",
+      "AI基础设施长期需求",
+      "韩国股市杠杆ETF风险"
     ],
-    "recent_shift": "近期从全面看好存储芯片转向强调玻璃基板（康宁）和半导体设备作为新的核心机会，同时更重视风险控制和仓位管理。",
+    "recent_shift": "早期对存储乐观且重仓海力士2x杠杆，后期因回撤转向正股和分散到康宁、日月光等设备/材料股。",
     "representative_quotes": [
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。话语权更大的一方应该享受更大的市值。",
-      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
-      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的，看得再对也承受不住市场的跳动。"
+      "存储不起来，其他所有概念都别想起来，存储起来，说明ai未来光明，其他概念才有机会，才值得抄底。",
+      "康宁 $GLW 跟英伟达合作扩产10倍，业绩*10倍，市场傻瓜太多还没被机构冲烂。",
+      "要么早信要么坚决不信，先信卖后信，半路信亏钱活该你傻逼。"
     ],
-    "generated_at": "2026-07-10T06:01:31.675382+00:00"
+    "generated_at": "2026-07-10T12:23:44.714994+00:00"
   }
 }
