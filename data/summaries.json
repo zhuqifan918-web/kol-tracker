@@ -9,65 +9,63 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学供应链瓶颈与量產",
-      "人形机器人商业化与美国供应链",
-      "AI基础设施与Neocloud需求",
-      "记忆体与上游材料涨价",
-      "机构资本流入与主题性错杀"
+      "光子学（光通信）与激光器供应链瓶颈",
+      "人形机器人商业化与美中竞赛",
+      "AI数据中心资本开支持续扩张（Meta、Neocloud）",
+      "上游元件如InP衬底、存储、MLCC的价值重估"
     ],
-    "recent_shift": "近期从防御性持有转向积极加仓光子学和人形机器人，并强调CEO购股和机构配售为强信号，同时认为市场对Meta算力新闻过度反应，预计V型反弹。",
+    "recent_shift": "从对宏观噪音的担忧转向强调基本面未变、机构抄底，并增强对光子学和机器人主题的长期信心。",
     "representative_quotes": [
-      "Yep, it’s interesting to witness retail capitulation... Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
-      "I personally think $SIVE can be the next $LITE... I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "I'm bearish on humans. Hard to see people still having a job if humanoids come out at <$15K mass production."
+      "If a thesis ends up correct, the valuation should be reflected in the long run.",
+      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
     ],
-    "generated_at": "2026-07-10T12:23:51.463209+00:00"
+    "generated_at": "2026-07-10T15:10:06.615751+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "SPCX",
-      "SKHY",
-      "LMT",
-      "MU"
+      "$META",
+      "$AMZN",
+      "$SPCX",
+      "$MU",
+      "$DELL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
+      "人工智能与数据基础设施投资",
       "地缘政治风险与能源安全",
-      "人工智能投资与成本争议",
-      "美国国防与政府合同",
-      "央行黄金增持与美元储备下降",
-      "科技巨头芯片与数据中心扩张"
+      "市场情绪与资金流动"
     ],
-    "recent_shift": "最近关于伊朗紧张局势和美联储利率预期的消息增多，而之前更多是科技和AI相关新闻。",
+    "recent_shift": "近期明显更关注地缘政治事件对市场的影响，同时AI相关硬件成本上升及芯片自造趋势成为新焦点",
     "representative_quotes": [
-      "Lockheed Martin, $LMT, which donated $1 million to Trump's inauguration and over $10 million to his ballroom project, is reportedly donating $5 million to build the White House helipad... the company has received over $40 billion in in new and expanded government contracts.",
-      "Bryan Catanzaro, Nvidia’s vice president of applied deep learning, said the cost of compute for his team now far exceeds what the company spends on the employees using it",
-      "Bernstein has said that its 2026 gold forecast is $4375."
+      "Companies are shifting toward cheaper open‑source AI models to rein in costs, Amazon, $AMZN, CTO has said",
+      "Lockheed Martin, $LMT, which donated $1 million to Trump's inauguration...has received over $40 billion in in new and expanded government contracts.",
+      "Meta, $META, says it faces up to $1.4 trillion in potential penalties in a teen mental health lawsuit, roughly equal to its market value."
     ],
-    "generated_at": "2026-07-10T12:23:47.467712+00:00"
+    "generated_at": "2026-07-10T15:10:02.826451+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
-      "#海力士",
       "$MU",
       "$NVDA",
+      "$LRCX",
       "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张与巨头垄断",
-      "玻璃基板与光互连技术革命",
-      "AI基础设施长期需求",
-      "韩国股市杠杆ETF风险"
+      "AI存储芯片长期供需紧张，海力士、美光等受益",
+      "玻璃基板与光纤将成为下一代AI芯片底座，康宁垄断",
+      "杠杆与仓位管理比选股更重要，避免爆仓",
+      "韩国股市极端波动带来机会与风险",
+      "物理AI与半导体设备ETF潜力"
     ],
-    "recent_shift": "早期对存储乐观且重仓海力士2x杠杆，后期因回撤转向正股和分散到康宁、日月光等设备/材料股。",
+    "recent_shift": "从早前全力看多存储并重仓海力士，后期转向更关注康宁和半导体设备，且强调风险管理，减少杠杆。",
     "representative_quotes": [
-      "存储不起来，其他所有概念都别想起来，存储起来，说明ai未来光明，其他概念才有机会，才值得抄底。",
-      "康宁 $GLW 跟英伟达合作扩产10倍，业绩*10倍，市场傻瓜太多还没被机构冲烂。",
-      "要么早信要么坚决不信，先信卖后信，半路信亏钱活该你傻逼。"
+      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的。",
+      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，说明康宁业绩也要10倍涨幅！",
+      "能健康的管理自己仓位已经赢过绝大多数人。活下去才有机会，仓位管理比买对啥更重要。"
     ],
-    "generated_at": "2026-07-10T12:23:44.714994+00:00"
+    "generated_at": "2026-07-10T15:10:10.723101+00:00"
   }
 }

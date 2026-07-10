@@ -1,5 +1,90 @@
 [
   {
+    "tweet_id": "2075596586986754131",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "去年真是满大街的好机会，\n当时145梭哈的3万股amd现在已经高攀不起，回想起来真是脑残呐，\n去年的股票能预期业绩涨十倍股价也能十倍，\n现阶段大部分AI红利涨幅被吃完了，\n预期不上不下，业绩翻倍都笑死，所以股价翻倍都笑死。\n只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。",
+    "tweet_url": "https://x.com/xiaomustock/status/2075596586986754131",
+    "published_at": "2026-07-10T15:02:43+00:00",
+    "fetched_at": "2026-07-10T15:08:52.832556+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "作者回顾去年错过AMD买入机会，认为当前AI红利已被消化，只有业绩有十倍增长潜力的股票才能带来十倍涨幅。",
+      "translation": "去年真是满大街的好机会，当时145梭哈的3万股amd现在已经高攀不起，回想起来真是脑残呐，去年的股票能预期业绩涨十倍股价也能十倍，现阶段大部分AI红利涨幅被吃完了，预期不上不下，业绩翻倍都笑死，所以股价翻倍都笑死。只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075590371531493729",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Why do I have this weird feeling the main reason retail is excited SK Hynix NASDAQ listing.\n\nIs because they can do degen option calls instead of individual stock purchases. https://t.co/vXmrncXQOm",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075590371531493729",
+    "published_at": "2026-07-10T14:38:01+00:00",
+    "fetched_at": "2026-07-10T15:08:31.370168+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SK Hynix"
+      ],
+      "direction": "neutral",
+      "summary": "推文提到散户可能更倾向于通过SK海力士纳斯达克上市后的期权交易而非直接购买股票，暗示市场投机情绪可能上升，但未给出明确多空方向。",
+      "translation": "为什么我有种奇怪的感觉，散户对SK海力士纳斯达克上市兴奋的主要原因，是因为他们可以做投机性的看涨期权，而不是购买个股。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075575013600858553",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Companies are shifting toward cheaper open‑source AI models to rein in costs, Amazon, $AMZN, CTO has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2075575013600858553",
+    "published_at": "2026-07-10T13:37:00+00:00",
+    "fetched_at": "2026-07-10T15:09:15.012358+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "亚马逊CTO表示企业正转向更便宜的开源AI模型以控制成本，这有利于亚马逊等提供开源AI服务的公司，降低成本可能提升盈利能力，对股价有正面影响。",
+      "translation": "亚马逊首席技术官表示，公司正转向更便宜的开源人工智能模型以控制成本。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075557588159058076",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. \n\nPairing with Highlanders, a Japanese robotics company.\n\n- Agility $CCXI x Foxconn, Toyota\n- Apptronik x $JBL, Mercedes\n- Highlanders x Mitsubishi\n- Figure × BMW\n- Boston Dynamics x Hyundai (subsidiaries)\n- Optimus x Tesla (Internal)\n- Rainbow Robotics x Samsung (subsidiaries)\n\nIdk if it's just me of there's a lot of patterns with humanoid companies playing buddy-buddy up with a major auto player/manufacturer.  \n\nIf they're not already vertically integrated by one already. \n\nThen the Chinese players like UBTech/AgiBot/Unitree  don't seem to care and work with a wide variety of auto players in China. \n\nCurious how this trend plays out...",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075557588159058076",
+    "published_at": "2026-07-10T12:27:45+00:00",
+    "fetched_at": "2026-07-10T15:08:38.228621+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI",
+        "JBL"
+      ],
+      "direction": "neutral",
+      "summary": "该推文分析了汽车制造商与机器人公司在人形机器人领域的合作趋势，提及多个相关企业和股票代码，但未给出明确投资建议。整体保持观察态度，适合投资者关注行业动态。",
+      "translation": "三菱汽车加入机器人竞赛，计划在2027年前部署人形工人。与日本机器人公司Highlanders合作。 - Agility $CCXI x 富士康，丰田 - Apptronik x $JBL，梅赛德斯 - Highlanders x 三菱 - Figure × BMW - 波士顿动力 x 现代（子公司） - Optimus x 特斯拉（内部） - Rainbow Robotics x 三星（子公司） 不知道是不是只有我觉得，人形机器人公司与大型汽车或制造商之间有很多合作模式。如果它们还没有被其中一家垂直整合的话。而中国的参与者如UBTech/AgiBot/Unitree似乎并不在意，他们与中国各种汽车公司广泛合作。好奇这种趋势会如何发展...",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075549847672025554",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -305,6 +390,25 @@
       "direction": "neutral",
       "summary": "推文介绍了Unusual Whales平台的Mr. Whale功能，用于分析期权市场。",
       "translation": "看看Unusual Whales上的Mr. Whale。这是你进行所有期权操作的首选功能。详情见链接。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075323606867812862",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Elon Musk: Anthropic currently the leader in AI.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075323606867812862",
+    "published_at": "2026-07-09T20:58:00+00:00",
+    "fetched_at": "2026-07-10T15:09:50.323325+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "马斯克公开表示Anthropic是当前AI领域的领导者，这暗示了Anthropic在AI赛道的竞争优势，可能利好其相关投资标的。不过，推文未直接提及具体可交易资产，需结合其他信息进行投资决策。",
+      "translation": "埃隆·马斯克：Anthropic目前是人工智能领域的领导者。",
       "confidence": "medium"
     }
   },
@@ -20706,6 +20810,27 @@
       "direction": "bullish",
       "summary": "该推文认为美光（MU）被低估，随着AI推理需求暴涨，美光的存储需求将持续增长，且市盈率已降至20，建议在股价低于150美元时买入。",
       "translation": "美光极其被低估，AI的推理需求暴涨，美光的存储需求会不断暴增，现在市盈率已经降到20了。这是最后一段时间能买到150以下的美光的机会了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "1938152835419693370",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "谁来让我清醒一下，想梭哈amd了.\n\n现在网吧清一色amd，特斯拉车机器芯片也是amd。夜盘干了3万股 https://t.co/ps0PDAi5CX",
+    "tweet_url": "https://x.com/xiaomustock/status/1938152835419693370",
+    "published_at": "2025-06-26T08:30:19+00:00",
+    "fetched_at": "2026-07-10T15:08:50.566763+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "用户提到AMD在网吧和特斯拉中广泛应用，并已购买3万股，表达强烈看多意愿。",
+      "translation": "谁来让我清醒一下，想梭哈amd了。现在网吧清一色amd，特斯拉车机器芯片也是amd。夜盘干了3万股。",
       "confidence": "high"
     }
   }
