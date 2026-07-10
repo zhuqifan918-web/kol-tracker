@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2075660577331110311",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SK Hynix CEO: Memory chip shortage may persist past 2030",
+    "tweet_url": "https://x.com/unusual_whales/status/2075660577331110311",
+    "published_at": "2026-07-10T19:17:00+00:00",
+    "fetched_at": "2026-07-10T20:14:11.634929+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "SK海力士CEO预测内存芯片短缺可能持续到2030年以后，这暗示芯片行业长期需求强劲，对半导体和相关科技板块构成利好，投资者可关注存储器产业链的投资机会。",
+      "translation": "SK海力士CEO：内存芯片短缺可能持续到2030年以后。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075645547978084371",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
