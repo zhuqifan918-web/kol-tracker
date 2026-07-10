@@ -1,5 +1,65 @@
 [
   {
+    "tweet_id": "2075457587223650310",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "航天的一次性耗材用件产业链归零，\n卫星的产业链用量发射量暴增。",
+    "tweet_url": "https://x.com/xiaomustock/status/2075457587223650310",
+    "published_at": "2026-07-10T05:50:23+00:00",
+    "fetched_at": "2026-07-10T06:00:45.627207+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出航天一次性耗材产业链归零，而卫星产业链因发射量暴增而用量大增，暗示卫星产业链相关投资机会，看好其增长前景。",
+      "translation": "航天的一次性耗材用件产业链归零，卫星的产业链用量发射量暴增。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075414203821703384",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The remarks came a day after overnight airstrikes reportedly targeted Kharg Island, the central hub of Iran’s oil export industry.\n\nRead more: https://t.co/FLR2Sdp812",
+    "tweet_url": "https://x.com/unusual_whales/status/2075414203821703384",
+    "published_at": "2026-07-10T02:58:00+00:00",
+    "fetched_at": "2026-07-10T06:01:07.122611+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中东地缘政治紧张加剧，伊朗石油出口枢纽遭袭，可能推高油价并影响全球能源市场。能源板块和相关ETF或受益，但整体市场避险情绪可能升温。",
+      "translation": "据报道，凌晨空袭瞄准了伊朗石油出口业的核心枢纽——哈尔格岛。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075404931784376696",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海公公真垃圾呐，美股一个adr搞得价格纹丝不动。 https://t.co/IsqVhLoOAh",
+    "tweet_url": "https://x.com/xiaomustock/status/2075404931784376696",
+    "published_at": "2026-07-10T02:21:09+00:00",
+    "fetched_at": "2026-07-10T06:00:48.829787+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "鸿海精密",
+        "ADR"
+      ],
+      "direction": "bearish",
+      "summary": "用户抱怨鸿海精密（海公公）的ADR在美国市场表现不佳，价格纹丝不动，表达了对该股票走势的失望和看空情绪。",
+      "translation": "鸿海精密（海公公）真垃圾呐，美股的一个ADR搞得价格纹丝不动。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075386090564030667",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
