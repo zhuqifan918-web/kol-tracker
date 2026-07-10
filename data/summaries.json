@@ -2,71 +2,72 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
-      "$CCXI",
       "$LITE",
-      "$NBIS",
+      "$AAOI",
+      "$CCXI",
       "$AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资持续增长，光通信与存储芯片供不应求",
-      "人形机器人产业化加速，美国本土供应链与中国竞争",
-      "市场情绪过度反应带来逆向投资机会"
+      "光子学与CPO供应链瓶颈",
+      "人形机器人商业化浪潮",
+      "AI基础设施与算力军备竞赛",
+      "半导体上游材料与设备稀缺"
     ],
-    "recent_shift": "近期更强调短期市场噪音（如媒体负面报道）创造的买入窗口，并多次提及人形机器人作为长期超级主题。",
+    "recent_shift": "近期对光子学板块短期波动保持乐观，认为CPO延迟和Meta计算新闻引发的抛售为买入机会，并强调机构资金正在逢低布局。",
     "representative_quotes": [
-      "If a thesis ends up correct, the valuation should be reflected in the long run.",
-      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "Retail tends to build conviction over price movements and imaginary charts, then lose that when a stock drops."
+      "I feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.",
+      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
     ],
-    "generated_at": "2026-07-10T17:16:25.872020+00:00"
+    "generated_at": "2026-07-10T18:56:40.133700+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SKHY",
-      "$META",
-      "$AMZN",
-      "$SPCX",
-      "$MU"
-    ],
-    "overall_bias": "neutral",
-    "key_themes": [
-      "AI基础设施投资与成本",
-      "地缘政治风险（霍尔木兹海峡）",
-      "央行去美元化与黄金增持",
-      "半导体ETF创新产品",
-      "政治关联交易披露"
-    ],
-    "recent_shift": "近期从早期关注AI公司财务转移至更宏观的地缘政治与央行储备动态，同时强化了SK Hynix上市和ETF产品的具体交易机会。",
-    "representative_quotes": [
-      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction, per Bloomberg.",
-      "Companies are shifting toward cheaper open‑source AI models to rein in costs, Amazon, $AMZN, CTO has said.",
-      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg."
-    ],
-    "generated_at": "2026-07-10T17:16:22.653684+00:00"
-  },
-  "xiaomustock": {
-    "focus_tickers": [
-      "$GLW",
-      "$MU",
-      "$NVDA",
-      "$LRCX",
-      "$AMAT"
+      "SPCX",
+      "META",
+      "AMZN",
+      "SKHY",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI存储芯片长期供需紧张，海力士、美光等受益",
-      "玻璃基板与光纤将成为下一代AI芯片底座，康宁垄断",
-      "杠杆与仓位管理比选股更重要，避免爆仓",
-      "韩国股市极端波动带来机会与风险",
-      "物理AI与半导体设备ETF潜力"
+      "AI基础设施投资与成本控制",
+      "地缘政治风险与能源安全",
+      "美股科技股领涨与泡沫担忧并存",
+      "中央行黄金增持与美元储备下降",
+      "特朗普政策与市场波动"
     ],
-    "recent_shift": "从早前全力看多存储并重仓海力士，后期转向更关注康宁和半导体设备，且强调风险管理，减少杠杆。",
+    "recent_shift": "近期更关注AI成本上升和地缘政治冲击，但整体仍偏多，尤其看好SpaceX和半导体。",
     "representative_quotes": [
-      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的。",
-      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，说明康宁业绩也要10倍涨幅！",
-      "能健康的管理自己仓位已经赢过绝大多数人。活下去才有机会，仓位管理比买对啥更重要。"
+      "Breaking: SpaceX, $SPCX, joins the Nasdaq-100 today in the fastest index inclusion on record.",
+      "Wall Street analysts are forecasting approximately 25% earnings growth for 2026 and nearly 18% growth for 2027, according to Bloomberg",
+      "Bryan Catanzaro, Nvidia’s vice president of applied deep learning, said the cost of compute for his team now far exceeds what the company spends on the employees using it"
     ],
-    "generated_at": "2026-07-10T15:10:10.723101+00:00"
+    "generated_at": "2026-07-10T18:56:43.992673+00:00"
+  },
+  "xiaomustock": {
+    "focus_tickers": [
+      "SK hynix",
+      "GLW",
+      "MU",
+      "NVDA",
+      "ASX"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "AI芯片产业链上游（存储、玻璃基板）核心机会",
+      "存储芯片供不应求格局持续",
+      "玻璃基板/光互连为下一代AI芯片关键",
+      "大市值股票趋势确定性强",
+      "需严控杠杆和仓位管理"
+    ],
+    "recent_shift": "近期从强调纯存储（海力士）转向关注玻璃基板（康宁）及设备股，认为康宁可能成为下个长期主线",
+    "representative_quotes": [
+      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。",
+      "要么早信要么坚决不信，先信卖后信。"
+    ],
+    "generated_at": "2026-07-10T18:56:47.756883+00:00"
   }
 }
