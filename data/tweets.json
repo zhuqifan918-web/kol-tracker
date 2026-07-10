@@ -1,5 +1,79 @@
 [
   {
+    "tweet_id": "2075645547978084371",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already modeled for this, even though each XPU may use fewer transceivers.\n\nThe number of XPUs is growing so quickly that total optical demand should still rise. \n\nOn lasers architectures for CPO: VCSELs are useful as a credible bridge for NPO/short reach. \n\nIdeal architecture though for CPO is UHP CW over other lasers, and cites Broadcom for that statements. Which happens to supports my core $SIVE thesis. \n\nI feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075645547978084371",
+    "published_at": "2026-07-10T18:17:16+00:00",
+    "fetched_at": "2026-07-10T18:55:10.283790+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN",
+        "RNG",
+        "AAOI",
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论了对亚马逊（AMZN）和RNG相关投资的正面看法，反驳了B. Riley对AAOI的看空报告，认为光学需求将随XPU数量增长而上升，并支持SIVE的核心观点，整体呈现乐观态度。",
+      "translation": "关于$AMZN RNG + OpenAI的MRC和VCSELs。这似乎是对B. Riley的$AAOI卖出报告的间接回应，该报告提到优化'扁平化网络并削减收发器TAM 40-50%'。Rosenblatt的总结：他们已经考虑到了这一点，尽管每个XPU可能使用更少的收发器，但XPU的数量增长如此之快，总光学需求仍应上升。关于CPO的激光架构：VCSEL可作为NPO/短距离的可信桥梁。然而，CPO的理想架构是使用UHP CW激光器而非其他，并引用Broadcom的声明。这支持了我的核心$SIVE论点。我认为Rosenblatt和我对很多事情看法一致，我喜欢他们的风格。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075634064518955297",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually strongly believe in the thesis.\"\n\nMultiple short sellers told them they will likely close their positions... late July and early August. Further, they say they plan to buy Optical stocks in 2027 for the scale up CPO opportunity.\n\nHilarious report on laser weakness, read is very positive for $SIVEF, $COHR, and others moving forward.\n\nI've been long on CPO sector, but seems like institutions want entry points, just a bit later on.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075634064518955297",
+    "published_at": "2026-07-10T17:31:39+00:00",
+    "fetched_at": "2026-07-10T18:55:17.224193+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "LITE",
+        "SIVEF",
+        "COHR"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析光通信板块近期表现疲软的原因（CPO延迟及中国产能担忧），但指出做空者可能缺乏坚定信念并计划于7月底至8月初平仓，同时预期2027年CPO规模化机会将推动买入。整体看多光通信股票，特别是SIVEF和COHR。",
+      "translation": "Rosenblatt关于光通信板块近期从$AAOI到$LITE的疲软：\n\n“光通信板块股票在过去1-2个月表现不佳”，原因是CPO延迟报告和中国产能担忧。\n\n“我们认为做空者……实际上并不坚信其逻辑。”\n多位做空者告诉他们，他们可能在7月底和8月初平仓。此外，他们表示计划在2027年买入光通信股票，以把握CPO规模化机会。\n关于激光器疲软的报道很搞笑，解读对$SIVEF、$COHR及其他股票未来走势非常乐观。\n我一直看多CPO板块，但似乎机构想要更低的价格，只是稍晚些入场。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075631179018166699",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just an interesting channel check regarding China lasers claims:\n\n\"They do not yet have working 200G EMLs and appear to be quite far from having high-power CWs for NPO and CPO applications.\"\n\nWhen talking about Dongshan Precision and others. \n\nSo your $LITE, $AAOI $COHR, $MTSI, Sumitomo, Furukawa, $SIVE, type players seem like a scarce capacity than others expected. \n\nRegarding other lasers: analyst included $AVGO comments - the ultimate \"North Star\" is CPO with ultra-high power CWs. \n\nBut believes VCSELs can be a useful in intermediate NPO solution.  Then they kinda proceeds to trash talk MicroLED and others. \n\nSo I think this greatly reaffirms conviction in $SIVE as pure play in terms of what industry is heading with CPO + CW DFB.\n\nThen on CPO delays: \"Our Take On CPO Timing: Processes Not Delayed But Timing To Reach Volume Could Stretch\", so no actual delay there just extended ramp timing which is always a possibility. But as with scale out, expectations seem always hiked. \n\nBeen a lot of noise recently over microled, vcsel, chinese suppliers, delays, but thesis in tact for a lot of the laser suppliers.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075631179018166699",
+    "published_at": "2026-07-10T17:20:11+00:00",
+    "fetched_at": "2026-07-10T18:55:24.531046+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE",
+        "AAOI",
+        "COHR",
+        "MTSI",
+        "AVGO",
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "推文分析中国激光器竞争格局，认为中国厂商在200G EML和高功率CW激光器上进展缓慢，利好LITE、AAOI、COHR、MTSI等西方供应商，并强调CPO演进中CW DFB激光器的关键地位，对SIVE作为纯正标的信心增强。",
+      "translation": "只是关于中国激光器声明的一个有趣渠道检查：\n\n“他们在200G EML上还没有工作成果，并且在用于NPO和CPO应用的高功率CW激光器方面似乎还很遥远。”\n\n这是在谈论东山精密等公司。\n\n所以你的$LITE、$AAOI、$COHR、$MTSI、住友、古河、$SIVE这类玩家似乎是一种稀缺产能，超出其他人的预期。\n\n关于其他激光器：分析师包含了$AVGO的评论——最终的“北极星”是带有超高功率CW激光器的CPO。\n\n但认为VCSEL在中间NPO解决方案中可能有用。然后他们有点开始贬低MicroLED和其他技术。\n\n所以我认为这大大加强了对$SIVE作为行业朝向CPO + CW DFB方向发展的纯正标的的信心。\n\n然后关于CPO延迟：“我们对CPO时间的看法：流程没有延迟，但达到量产的时机可能会延长”，所以实际上没有延迟，只是扩产时间表延长了，这总是有可能的。但正如规模扩大一样，期望似乎总是被抬高。\n\n最近有很多关于MicroLED、VCSEL、中国供应商、延迟的噪音，但对很多激光器供应商来说，论点仍然成立。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075620312058830947",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -167,6 +241,25 @@
     }
   },
   {
+    "tweet_id": "2075569980465422843",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Elon Musk has stated that SpaceX could eventually exceed the total economic value of Earth if it achieves its long-term objectives of multiplanetary expansion.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075569980465422843",
+    "published_at": "2026-07-10T13:17:00+00:00",
+    "fetched_at": "2026-07-10T18:56:08.107920+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及SpaceX若实现多星球扩张目标，其经济价值可能超过地球总经济价值，隐含对太空经济及相关产业的长期看涨预期。",
+      "translation": "埃隆·马斯克表示，如果SpaceX实现其多星球扩张的长期目标，它最终可能超过地球的总经济价值。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075557588159058076",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -318,6 +411,25 @@
       "direction": "bullish",
       "summary": "推特指出恐慌性抛售已出现40%的反弹，并认为X平台虽不是可靠指标，但可作为反向工具。更重要的是，作者判断光子板块正在触底，对$SIVE持看多态度。",
       "translation": "从恐慌/X的恐慌性低点反弹了40%。我不会依赖X作为指标，但它可以是一个好的反向工具。更重要的是，我认为光子板块正在触底。$SIVE",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075474657634095577",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "密切关注峰哥操作\n割肉暴涨，\n梭哈暴跌，\n希望他今天就割肉，周一暴涨成全大家 https://t.co/6j7pS0RsL1",
+    "tweet_url": "https://x.com/xiaomustock/status/2075474657634095577",
+    "published_at": "2026-07-10T06:58:13+00:00",
+    "fetched_at": "2026-07-10T18:55:41.536904+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到了“割肉暴涨，梭哈暴跌”，暗示一种反向操作策略：当某人割肉（卖出）时市场反而暴涨，当全部投入时市场暴跌。作者希望这位操作者今天割肉，以便周一市场能暴涨，反映了对市场短期波动和散户行为的推测。",
+      "translation": "密切关注峰哥操作。割肉时暴涨，全部投入时暴跌。希望他今天就割肉，周一暴涨成全大家。",
       "confidence": "medium"
     }
   },
@@ -476,6 +588,25 @@
       "summary": "英伟达应用深度学习副总裁指出，其团队的计算成本已远超员工薪资，凸显AI算力需求激增，利好英伟达等算力供应商。",
       "translation": "英伟达应用深度学习副总裁Bryan Catanzaro表示，其团队的计算成本现在远超公司为使用这些计算的员工所支付的费用。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075357673210647038",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "For those curious, you can find his full portfolio + performance on Autopilot\n\nhttps://t.co/4ZJ1Zxj4Dq\n\nYou also can find our portfolios listed there as well https://t.co/2oBnuWePNv",
+    "tweet_url": "https://x.com/unusual_whales/status/2075357673210647038",
+    "published_at": "2026-07-09T23:13:22+00:00",
+    "fetched_at": "2026-07-10T18:56:32.198032+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了一个展示投资组合及业绩的链接，并提及作者自己的投资组合也能在该平台找到，可能暗示该平台用于公开跟踪和分享投资表现。",
+      "translation": "对于那些好奇的人，你可以在Autopilot上找到他的完整投资组合和业绩。你也可以在那里找到我们列出的投资组合。",
+      "confidence": "low"
     }
   },
   {
@@ -1575,6 +1706,25 @@
       "summary": "用户抱怨NBIS股价接近腰斩，请求心理按摩，希望今晚止跌，情绪悲观。",
       "translation": "白毛股神，能不能给我一点心理安慰，NBIS今晚能止跌吗？它已经亏了我太多，接近腰斩了。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074776109074583565",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Trump: Memorandum of Understanding with Iran “is over”\n\n“It’s a waste of time dealing with them,” Trump said at the NATO summit.\n\nAlways an exciting time with markets. https://t.co/S3UisD75Kc",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2074776109074583565",
+    "published_at": "2026-07-08T08:42:26+00:00",
+    "fetched_at": "2026-07-10T18:55:30.702272+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普宣布终止与伊朗的谅解备忘录，增加地缘政治不确定性，可能对原油等大宗商品及相关市场产生负面影响。",
+      "translation": "特朗普：与伊朗的谅解备忘录“结束了”。\n“与他们打交道是浪费时间，”特朗普在北约峰会上表示。\n市场总是令人兴奋的时刻。",
+      "confidence": "medium"
     }
   },
   {
