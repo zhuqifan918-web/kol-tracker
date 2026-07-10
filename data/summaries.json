@@ -26,47 +26,47 @@
   "unusual_whales": {
     "focus_tickers": [
       "META",
-      "SPCX",
       "MU",
-      "AMZN",
-      "AMD"
+      "SPCX",
+      "AMD",
+      "DELL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "人工智能与科技投资",
-      "地缘政治与能源安全",
-      "市场波动与利率预期"
+      "地缘政治风险与能源安全",
+      "美联储政策与通货膨胀",
+      "AI泡沫与科技股回调",
+      "投资者情绪转向保守",
+      "央行去美元化与黄金增持"
     ],
-    "recent_shift": "近期更关注地缘政治风险和利率预期，同时强调人工智能成本高企",
+    "recent_shift": "近期对市场风险警告增加，从长期看多转为强调泡沫风险和地缘政治冲击。",
     "representative_quotes": [
-      "57% there is no rate change in September, per Polymarket",
-      "Goldman Sachs has raised its AMD, $AMD, price target to $640 from $450 and reiterated its Buy rating.",
-      "Trump: Short sellers are getting wiped out. 'Those poor bastards. I never liked short guys because they're betting against the country.'"
+      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them.",
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
+      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg."
     ],
-    "generated_at": "2026-07-10T01:58:23.077023+00:00"
+    "generated_at": "2026-07-10T06:01:34.569711+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
       "$MU",
       "$NVDA",
-      "$LRCX",
-      "$AMAT"
+      "$AMAT",
+      "$KLAC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储产业链是AI基础设施的核心，尤其是海力士和康宁",
-      "AI泡沫未到破裂时，AGI到来前长期看好",
-      "玻璃基板与光互连是下一代AI芯片关键",
-      "设备厂（LRCX、AMAT等）受益于存储扩产",
-      "杠杆风险高，仓位管理胜于选股"
+      "存储芯片产业链供需紧张与垄断地位",
+      "AI基建投资周期与玻璃基板等硬件升级",
+      "杠杆交易风险与仓位管理重要性"
     ],
-    "recent_shift": "近期从坚定看好海力士转向增持康宁，认为康宁（GLW）的玻璃基板和光纤业务在AI下一代芯片中具有垄断地位，可能成为新主线。",
+    "recent_shift": "近期从全面看好存储芯片转向强调玻璃基板（康宁）和半导体设备作为新的核心机会，同时更重视风险控制和仓位管理。",
     "representative_quotes": [
-      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
-      "海力士q2利润1300亿美金，存储不仅卡住了AI的脖子，也卡了传统电子产品的脖子。",
-      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的。"
+      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。话语权更大的一方应该享受更大的市值。",
+      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
+      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的，看得再对也承受不住市场的跳动。"
     ],
-    "generated_at": "2026-07-09T14:32:14.201481+00:00"
+    "generated_at": "2026-07-10T06:01:31.675382+00:00"
   }
 }
