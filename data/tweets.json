@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2075728335624376475",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: $META is reversing the decision to allow Ai to be used on any public instagram profile",
+    "tweet_url": "https://x.com/unusual_whales/status/2075728335624376475",
+    "published_at": "2026-07-10T23:46:15+00:00",
+    "fetched_at": "2026-07-10T23:49:04.305823+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "META 宣布撤销允许AI使用公开Instagram个人资料的决定，可能影响其AI训练数据策略和用户隐私保护相关成本。",
+      "translation": "突发消息：$META 正在撤销允许AI使用任何公开Instagram个人资料的决定。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075711663710630162",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
