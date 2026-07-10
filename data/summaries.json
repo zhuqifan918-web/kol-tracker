@@ -3,46 +3,47 @@
     "focus_tickers": [
       "$SIVE",
       "$CCXI",
-      "$NBIS",
       "$LITE",
+      "$NBIS",
       "$AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学（光通信）与激光器供应链瓶颈",
-      "人形机器人商业化与美中竞赛",
-      "AI数据中心资本开支持续扩张（Meta、Neocloud）",
-      "上游元件如InP衬底、存储、MLCC的价值重估"
+      "AI基础设施投资持续增长，光通信与存储芯片供不应求",
+      "人形机器人产业化加速，美国本土供应链与中国竞争",
+      "市场情绪过度反应带来逆向投资机会"
     ],
-    "recent_shift": "从对宏观噪音的担忧转向强调基本面未变、机构抄底，并增强对光子学和机器人主题的长期信心。",
+    "recent_shift": "近期更强调短期市场噪音（如媒体负面报道）创造的买入窗口，并多次提及人形机器人作为长期超级主题。",
     "representative_quotes": [
       "If a thesis ends up correct, the valuation should be reflected in the long run.",
       "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
+      "Retail tends to build conviction over price movements and imaginary charts, then lose that when a stock drops."
     ],
-    "generated_at": "2026-07-10T15:10:06.615751+00:00"
+    "generated_at": "2026-07-10T17:16:25.872020+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$SKHY",
       "$META",
       "$AMZN",
       "$SPCX",
-      "$MU",
-      "$DELL"
+      "$MU"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与数据基础设施投资",
-      "地缘政治风险与能源安全",
-      "市场情绪与资金流动"
+      "AI基础设施投资与成本",
+      "地缘政治风险（霍尔木兹海峡）",
+      "央行去美元化与黄金增持",
+      "半导体ETF创新产品",
+      "政治关联交易披露"
     ],
-    "recent_shift": "近期明显更关注地缘政治事件对市场的影响，同时AI相关硬件成本上升及芯片自造趋势成为新焦点",
+    "recent_shift": "近期从早期关注AI公司财务转移至更宏观的地缘政治与央行储备动态，同时强化了SK Hynix上市和ETF产品的具体交易机会。",
     "representative_quotes": [
-      "Companies are shifting toward cheaper open‑source AI models to rein in costs, Amazon, $AMZN, CTO has said",
-      "Lockheed Martin, $LMT, which donated $1 million to Trump's inauguration...has received over $40 billion in in new and expanded government contracts.",
-      "Meta, $META, says it faces up to $1.4 trillion in potential penalties in a teen mental health lawsuit, roughly equal to its market value."
+      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction, per Bloomberg.",
+      "Companies are shifting toward cheaper open‑source AI models to rein in costs, Amazon, $AMZN, CTO has said.",
+      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg."
     ],
-    "generated_at": "2026-07-10T15:10:02.826451+00:00"
+    "generated_at": "2026-07-10T17:16:22.653684+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
