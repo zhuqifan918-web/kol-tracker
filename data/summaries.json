@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "META",
-      "AMZN",
-      "SKHY",
-      "MU"
+      "$SKHY",
+      "$META",
+      "$AMZN",
+      "$SPCX",
+      "$MU"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施投资与成本控制",
-      "地缘政治风险与能源安全",
-      "美股科技股领涨与泡沫担忧并存",
-      "中央行黄金增持与美元储备下降",
-      "特朗普政策与市场波动"
+      "半导体与AI芯片产业链",
+      "地缘政治与石油/黄金避险",
+      "宏观逆风（通胀/利率/美元）",
+      "AI投资成本高企与公司自主AI野心",
+      "散户情绪变化与机构调仓"
     ],
-    "recent_shift": "近期更关注AI成本上升和地缘政治冲击，但整体仍偏多，尤其看好SpaceX和半导体。",
+    "recent_shift": "近期从早前强烈看多科技AI转向关注地缘冲突、通胀粘性及美元减持风险，整体偏中性。",
     "representative_quotes": [
-      "Breaking: SpaceX, $SPCX, joins the Nasdaq-100 today in the fastest index inclusion on record.",
-      "Wall Street analysts are forecasting approximately 25% earnings growth for 2026 and nearly 18% growth for 2027, according to Bloomberg",
-      "Bryan Catanzaro, Nvidia’s vice president of applied deep learning, said the cost of compute for his team now far exceeds what the company spends on the employees using it"
+      "SK Hynix CEO: Memory chip shortage may persist past 2030",
+      "More of the world’s central banks plan to cut dollar allocations than increase them in the coming decade as political risks associated with the U.S. currency rise, an OMFIF survey of public investors released",
+      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them."
     ],
-    "generated_at": "2026-07-10T18:56:43.992673+00:00"
+    "generated_at": "2026-07-10T20:14:32.566390+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
