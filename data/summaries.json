@@ -25,26 +25,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "META",
-      "SKHY",
-      "SPCX",
+      "AAPL",
       "AMZN",
-      "AAPL"
+      "MSFT",
+      "SKHY"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与原油波动",
-      "AI估值泡沫与成本上升",
-      "央行去美元化与黄金储备增加",
-      "科技巨头监管与诉讼迫近",
-      "市场高估与散户信心减弱"
+      "市场风险与地缘政治紧张加剧",
+      "AI成本与回报失衡",
+      "利率政策不确定性"
     ],
-    "recent_shift": "从早前积极推广AI交易工具和展示正向回报，转向强调市场泡沫、通胀上升和地缘冲突加剧，整体语调更为谨慎。",
+    "recent_shift": "近期强调AI成本高涨与地缘冲突风险，早期更多关注增长与政策支持",
     "representative_quotes": [
-      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them.",
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
-      "AI costs more than the people it replaced, per Forbes."
+      "Bryan Catanzaro, Nvidia’s vice president of applied deep learning, said the cost of compute for his team now far exceeds what the company spends on the employees using it",
+      "BREAKING: US revokes Iran oil waivers after Iranian attacks in Strait of Hormuz, per Axios",
+      "Fed's Williams: I feel more positive about inflation in the near term due to energy prices"
     ],
-    "generated_at": "2026-07-10T22:51:38.439219+00:00"
+    "generated_at": "2026-07-10T23:49:29.764649+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
