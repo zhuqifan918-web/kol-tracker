@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SKHY",
-      "$META",
-      "$AMZN",
-      "$SPCX",
-      "$MU"
+      "META",
+      "SKHX",
+      "SKHZ",
+      "SPCX",
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "半导体与AI芯片产业链",
-      "地缘政治与石油/黄金避险",
-      "宏观逆风（通胀/利率/美元）",
-      "AI投资成本高企与公司自主AI野心",
-      "散户情绪变化与机构调仓"
+      "AI投资浪潮",
+      "半导体芯片紧缺",
+      "地缘政治风险（伊朗、海峡）",
+      "美联储政策与通胀预期",
+      "机构持仓变动"
     ],
-    "recent_shift": "近期从早前强烈看多科技AI转向关注地缘冲突、通胀粘性及美元减持风险，整体偏中性。",
+    "recent_shift": "近期从前期较为乐观的AI主题转向关注地缘冲突、通胀上行和中央银行的去美元化趋势，同时警醒市场估值泡沫迹象。",
     "representative_quotes": [
-      "SK Hynix CEO: Memory chip shortage may persist past 2030",
-      "More of the world’s central banks plan to cut dollar allocations than increase them in the coming decade as political risks associated with the U.S. currency rise, an OMFIF survey of public investors released",
-      "The S&P 500 was called “statistically expensive on 17 of 20 metrics,” and trades rich versus tech bubble metrics on eight of them."
+      "Companies are shifting toward cheaper open‑source AI models to rein in costs, Amazon, $AMZN, CTO has said",
+      "BREAKING: Iran has intensified attacks on ships in the Strait of Hormuz, per the Guardian",
+      "BREAKING: For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro, per Reuters"
     ],
-    "generated_at": "2026-07-10T20:14:32.566390+00:00"
+    "generated_at": "2026-07-10T21:33:05.098175+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

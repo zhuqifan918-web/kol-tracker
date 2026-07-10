@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2075694299841503694",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Many thousands of Costco’s U.S. hourly workers have over $1 million in their 401(k) accounts, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2075694299841503694",
+    "published_at": "2026-07-10T21:31:00+00:00",
+    "fetched_at": "2026-07-10T21:32:43.001751+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及Costco的许多美国时薪员工在401(k)账户中拥有超过100万美元的资产，这反映出公司员工财富积累显著，间接表明Costco的财务健康和投资价值，对Costco股票构成利好。",
+      "translation": "据《华尔街日报》报道，Costco数万名美国时薪员工的401(k)账户中拥有超过100万美元的资产。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075680140118609972",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Apple, $AAPL, has filed a lawsuit against OpenAI, alleging misappropriation of trade secrets.",
+    "tweet_url": "https://x.com/unusual_whales/status/2075680140118609972",
+    "published_at": "2026-07-10T20:34:44+00:00",
+    "fetched_at": "2026-07-10T21:32:48.157814+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果起诉OpenAI窃取商业机密，可能对苹果股价产生负面影响，增加法律风险和市场不确定性。",
+      "translation": "突发：苹果公司（$AAPL）已对OpenAI提起诉讼，指控其盗用商业机密。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2075660577331110311",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -644,6 +684,27 @@
       "direction": "neutral",
       "summary": "推文介绍了Unusual Whales平台的Mr. Whale功能，用于分析期权市场。",
       "translation": "看看Unusual Whales上的Mr. Whale。这是你进行所有期权操作的首选功能。详情见链接。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075330546864132350",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "These $META whales going to get paid soon https://t.co/ONDBNZQBrS",
+    "tweet_url": "https://x.com/unusual_whales/status/2075330546864132350",
+    "published_at": "2026-07-09T21:25:34+00:00",
+    "fetched_at": "2026-07-10T21:32:46.793817+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "该推文暗示META的鲸鱼投资者即将获利，表明对META股价持乐观态度。",
+      "translation": "这些$META的鲸鱼们很快就要发财了。",
       "confidence": "medium"
     }
   },
