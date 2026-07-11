@@ -413,6 +413,25 @@
     }
   },
   {
+    "tweet_id": "2075601078062879107",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "对于国内来说，可回收火箭搞卫星通信优势不大，但是商业航天搞全球火箭物流速运，优势极大，高速传输。全球公海上搞一堆火箭接收平台。\n满世界火箭发快递。\n全球物流的极速传递，国人有机会这么干。\n只要每公斤的单价卷到足够低的时候就是物流模式变革之日。",
+    "tweet_url": "https://x.com/xiaomustock/status/2075601078062879107",
+    "published_at": "2026-07-10T15:20:34+00:00",
+    "fetched_at": "2026-07-11T17:27:47.516092+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文看好可回收火箭在商业航天领域的应用，特别是用于全球火箭物流速运，认为当每公斤成本降低到足够低时，将引发物流模式变革，具有投资潜力。",
+      "translation": "对于国内来说，可回收火箭搞卫星通信优势不大，但是商业航天搞全球火箭物流速运，优势极大，高速传输。全球公海上搞一堆火箭接收平台。满世界火箭发快递。全球物流的极速传递，国人有机会这么干。只要每公斤的单价卷到足够低的时候就是物流模式变革之日。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075596586986754131",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
