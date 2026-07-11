@@ -1,5 +1,29 @@
 [
   {
+    "tweet_id": "2076030743655109063",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Apparently, Korean Beauty was where all the alpha is.\n\nAPR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC.\n\nEvery female I know talks about their \"Medicube\" stick, then buying products... where you put a whole salmon's family tree on your face for better skin. \n\nThe world's female population creates a bigger structural demand than hyperscalers for memory or lasers? Should have known...",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2076030743655109063",
+    "published_at": "2026-07-11T19:47:54+00:00",
+    "fetched_at": "2026-07-11T20:38:23.429037+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "APR",
+        "278470.KS",
+        "NVDA",
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "推文认为韩妆行业（以APR为代表）具有巨大投资价值，其涨幅远超科技股，且女性消费需求的结构性动力强于数据中心等科技需求。",
+      "translation": "显然，韩妆才是真正的阿尔法所在。APR（278470.KS）在过去两年上涨了529%，大幅跑赢NVDA和INTC。我认识的所有女性都在谈论她们的“Medicube”美容仪，然后购买各种产品……把一整条三文鱼的家族都涂在脸上以求更好皮肤。全球女性人口创造的结构性需求难道比超大规模数据中心对内存或激光的需求还要大？早该明白的……",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076016271049867685",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -57,6 +81,25 @@
       "summary": "该推文认为Sam Altman/OpenAI通过建立自有生态系统而非被巨头吸收，正在正确方向上挑战苹果、谷歌等大型科技公司，看多其颠覆效应。",
       "translation": "反向观点：如果Sam Altman/OpenAI正在惹恼每一个像苹果这样的Mag7巨头，那说明他做对了。通过构建自己的生态系统，而不是被另一个生态系统所吸纳。谷歌、苹果、微软等公司已经很久没有遇到真正的颠覆者了。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075882550548119877",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "반도체 쏟아붓는 와중에 K뷰티가 또 터지네. 1Q 순익 41% 폭증에 하반기 대장주 예고라. \n\n수출 150억 달러 시대 문턱인데, 미국·유럽 기초 카테고리 중심으로 구조적 성장 중. ODM 쪽 레버리지 제대로 먹는 기업들 영업이익률 30%대 찍는 거 보면 단순 소비재가 아니라 기술+브랜드 모멘텀 섞인 플레이임. \n\n반도체 사이클 타임 기다리는 동안 이쪽 돈줄도 무시 못 할 수준. 실적 확인되면 또 한 번 판 흔들릴 거.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075882550548119877",
+    "published_at": "2026-07-11T09:59:02+00:00",
+    "fetched_at": "2026-07-11T20:38:30.551361+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文看好韩国K-beauty行业的结构性增长，认为出口规模接近150亿美元，ODM企业营业利润率达30%以上，兼具技术与品牌动量。强调在半导体周期等待期间，K-beauty的钱流不可忽视，业绩验证后市场将再次震荡向上。",
+      "translation": "在大量投资半导体的同时，K-beauty又爆发了。一季度净利润暴增41%，预示下半年将成为龙头股。出口规模正迈向150亿美元时代，以美国和欧洲的基础品类为中心实现结构性增长。ODM领域杠杆作用明显的企业营业利润率达到30%以上，说明这不只是简单的消费品，而是技术与品牌动量的结合。等待半导体周期期间，这边的资金流也不可忽视。一旦业绩确认，市场将再次震荡。",
+      "confidence": "high"
     }
   },
   {
