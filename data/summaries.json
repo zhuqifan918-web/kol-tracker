@@ -24,25 +24,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "AAPL",
-      "AMZN",
-      "MSFT",
-      "SKHY"
+      "$META",
+      "$META",
+      "$META",
+      "$SKHY",
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场风险与地缘政治紧张加剧",
-      "AI成本与回报失衡",
-      "利率政策不确定性"
+      "地缘政治风险与石油供应链",
+      "AI成本与监管博弈",
+      "股市泡沫与散户信心减弱"
     ],
-    "recent_shift": "近期强调AI成本高涨与地缘冲突风险，早期更多关注增长与政策支持",
+    "recent_shift": "近期更多关注地缘政治紧张和美国政策不确定性，对股市估值泡沫的担忧增强。",
     "representative_quotes": [
-      "Bryan Catanzaro, Nvidia’s vice president of applied deep learning, said the cost of compute for his team now far exceeds what the company spends on the employees using it",
-      "BREAKING: US revokes Iran oil waivers after Iranian attacks in Strait of Hormuz, per Axios",
-      "Fed's Williams: I feel more positive about inflation in the near term due to energy prices"
+      "I'm not sure I'd be comfortable with that. But they are the ones who are making the decisions.",
+      "This is not just a matter of what we want to do, but what we have to do.",
+      "The system is designed to be resilient, but it still has its limits."
     ],
-    "generated_at": "2026-07-10T23:49:29.764649+00:00"
+    "generated_at": "2026-07-11T04:55:29.480440+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

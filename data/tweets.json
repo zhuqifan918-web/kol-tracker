@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2075791691232203049",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Burry believes prediction markets are currently exploiting regulatory loopholes and will eventually face oversight and taxation\n\nRead more: https://t.co/rvU2c5aBgm",
+    "tweet_url": "https://x.com/unusual_whales/status/2075791691232203049",
+    "published_at": "2026-07-11T03:58:00+00:00",
+    "fetched_at": "2026-07-11T04:54:57.447880+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "Burry指出预测市场正利用监管漏洞，未来将面临监管和税收，暗示相关领域投资风险增加。",
+      "translation": "Burry认为预测市场目前正在利用监管漏洞，最终将面临监管和税收。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075746392765612225",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The $800 target implies a market capitalization of roughly $10.5 trillion, which would make SpaceX the most valuable company ever if it played out.\n\nRead more: https://t.co/XqfHudGeIG",
+    "tweet_url": "https://x.com/unusual_whales/status/2075746392765612225",
+    "published_at": "2026-07-11T00:58:00+00:00",
+    "fetched_at": "2026-07-11T04:55:08.244943+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到SpaceX的$800目标价对应约10.5万亿美元市值，若实现将成为史上最值钱公司，暗示对SpaceX的估值持乐观态度。",
+      "translation": "$800的目标价意味着大约10.5万亿美元的市值，如果实现，将使SpaceX成为史上最值钱的公司。阅读更多：https://t.co/XqfHudGeIG",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2075739598303437257",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Defense officials asked Congress for an infusion of more than $67 billion in supplemental funding to ease the shortfall until the new budget in October.\n\nRead more: https://t.co/1h8HSU1DAe",
+    "tweet_url": "https://x.com/unusual_whales/status/2075739598303437257",
+    "published_at": "2026-07-11T00:31:00+00:00",
+    "fetched_at": "2026-07-11T04:55:09.914589+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "此消息显示国防部申请紧急补充资金，可能对国防承包商和相关ETF产生短期利好，但缺乏具体标的和方向指引。",
+      "translation": "国防官员向国会要求追加超过670亿美元的补充资金，以缓解预算缺口，直到10月新预算通过。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075728335624376475",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
