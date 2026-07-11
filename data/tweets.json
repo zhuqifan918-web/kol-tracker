@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076049138064453757",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We asked strangers which stocks they would drop $1,000 on.  \n\nDo you agree with their list?  \n\nWe ask Mr. Whale to rank their picks. https://t.co/m3m8TSqWem",
+    "tweet_url": "https://x.com/unusual_whales/status/2076049138064453757",
+    "published_at": "2026-07-11T21:01:00+00:00",
+    "fetched_at": "2026-07-11T21:40:03.905201+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到询问陌生人将1000美元投资于哪些股票，并邀请Mr. Whale对推荐进行排名，暗示了市场热点和投资观点，但未提供具体信息。",
+      "translation": "我们询问陌生人他们将1000美元投资于哪些股票。你同意他们的列表吗？我们请Mr. Whale对他们的选择进行排名。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2076030743655109063",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

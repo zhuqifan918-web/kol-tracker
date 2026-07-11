@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "SKHY",
-      "AAPL",
-      "MSFT",
-      "AMZN"
+      "$META",
+      "$AAPL",
+      "$AMZN",
+      "$SPCX",
+      "$SKHY"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治紧张与能源安全风险",
-      "AI投资成本高企及泡沫警告",
-      "央行去美元化与黄金增持",
-      "市场资金面压力与散户信心减退",
-      "期权与奇异工具交易活跃"
+      "地缘政治风险加剧",
+      "AI军备竞赛与成本压力",
+      "美元储备地位动摇与黄金受捧",
+      "股市估值泡沫预警",
+      "期权交易工具创新"
     ],
-    "recent_shift": "近期转向对中东局势升级和通胀持续压力的更强烈担忧，同时强调AI行业泡沫信号和央行减持美元的趋势。",
+    "recent_shift": "近期事件显示偏空情绪升温，如美联储降息预期降温、零售散户信心减弱，而此前更关注AI和能源机会。",
     "representative_quotes": [
-      "BREAKING: Iran rejects the U.S. ultimatum, saying the Strait of Hormuz will remain closed to all traffic except the northern Iranian route.",
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
-      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction, per Bloomberg."
+      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction",
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings",
+      "The $800 target implies a market capitalization of roughly $10.5 trillion, which would make SpaceX the most valuable company ever if it played out."
     ],
-    "generated_at": "2026-07-11T19:39:28.609369+00:00"
+    "generated_at": "2026-07-11T21:40:31.034584+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
