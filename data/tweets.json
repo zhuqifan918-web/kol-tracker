@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076016271049867685",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran rejects the U.S. ultimatum, saying the Strait of Hormuz will remain closed to all traffic except the northern Iranian route.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076016271049867685",
+    "published_at": "2026-07-11T18:50:24+00:00",
+    "fetched_at": "2026-07-11T19:39:00.278508+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗关闭霍尔木兹海峡将导致全球石油供应中断风险上升，油价可能大幅上涨，对依赖该海峡的航运和能源股构成利空。",
+      "translation": "突发：伊朗拒绝美国最后通牒，表示霍尔木兹海峡将维持关闭，除北部伊朗航线外，禁止所有交通。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076009504840573025",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
