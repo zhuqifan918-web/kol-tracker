@@ -25,25 +25,25 @@
     "focus_tickers": [
       "META",
       "SKHY",
-      "SPCX",
       "AAPL",
+      "MSFT",
       "AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI技术竞争与监管",
-      "地缘政治风险（化石燃料、海峡）",
-      "市场估值泡沫与央行转向",
-      "零售投资者情绪变化",
-      "半导体芯片短缺"
+      "地缘政治紧张与能源安全风险",
+      "AI投资成本高企及泡沫警告",
+      "央行去美元化与黄金增持",
+      "市场资金面压力与散户信心减退",
+      "期权与奇异工具交易活跃"
     ],
-    "recent_shift": "近期更关注政策面和地缘冲突对市场的直接影响，从前期对AI和科技股的乐观转向谨慎，同时增加对宏观风险（如美元储备下降、通胀预期上升）的提及。",
+    "recent_shift": "近期转向对中东局势升级和通胀持续压力的更强烈担忧，同时强调AI行业泡沫信号和央行减持美元的趋势。",
     "representative_quotes": [
-      "JUST IN: The odds of OpenAI hitting a $1 trillion valuation this year collapse 23%.",
-      "More of the world’s central banks plan to cut dollar allocations than increase them in the coming decade as political risks associated with the U.S. currency rise.",
-      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction, per Bloomberg"
+      "BREAKING: Iran rejects the U.S. ultimatum, saying the Strait of Hormuz will remain closed to all traffic except the northern Iranian route.",
+      "BREAKING: Earnings, not just valuations, are flashing bubble warnings, per FT.",
+      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction, per Bloomberg."
     ],
-    "generated_at": "2026-07-11T18:26:00.360092+00:00"
+    "generated_at": "2026-07-11T19:39:28.609369+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
