@@ -181,6 +181,25 @@
     }
   },
   {
+    "tweet_id": "2075776591758512197",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Gallup's latest survey indicates that only 26% of Americans have \"a great deal or quite a lot of confidence\" in key institutions\n\nRead more: https://t.co/zCL3RzvsYs",
+    "tweet_url": "https://x.com/unusual_whales/status/2075776591758512197",
+    "published_at": "2026-07-11T02:58:00+00:00",
+    "fetched_at": "2026-07-11T23:44:03.408918+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "这则推文引用盖洛普调查显示美国民众对关键机构的信心低迷，可能反映社会信任危机，间接利空整体经济和市场情绪，对投资者而言属于负面宏观信号。",
+      "translation": "盖洛普最新调查显示，只有26%的美国人对关键机构抱有“很大或相当大”的信心。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075746392765612225",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
