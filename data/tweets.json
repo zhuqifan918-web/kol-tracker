@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2075894311741440041",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. \n\nBy building their own ecosystem instead of being sucked into another. \n\nIt's been awhile since $GOOGL, Apple, Microsoft, and others had some genuine disruptors.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2075894311741440041",
+    "published_at": "2026-07-11T10:45:46+00:00",
+    "fetched_at": "2026-07-11T11:44:16.081266+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL",
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为Sam Altman/OpenAI通过建立自有生态系统而非被巨头吸收，正在正确方向上挑战苹果、谷歌等大型科技公司，看多其颠覆效应。",
+      "translation": "反向观点：如果Sam Altman/OpenAI正在惹恼每一个像苹果这样的Mag7巨头，那说明他做对了。通过构建自己的生态系统，而不是被另一个生态系统所吸纳。谷歌、苹果、微软等公司已经很久没有遇到真正的颠覆者了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075791691232203049",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
