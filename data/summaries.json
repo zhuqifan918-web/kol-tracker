@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$AAPL",
-      "$AMZN",
-      "$SPCX",
-      "$SKHY"
+      "META",
+      "MSFT",
+      "AMZN",
+      "AAPL",
+      "SPCX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险加剧",
-      "AI军备竞赛与成本压力",
-      "美元储备地位动摇与黄金受捧",
-      "股市估值泡沫预警",
-      "期权交易工具创新"
+      "地缘政治风险与能源安全",
+      "AI成本上升与监管收紧",
+      "科技巨头裁员与贸易摩擦"
     ],
-    "recent_shift": "近期事件显示偏空情绪升温，如美联储降息预期降温、零售散户信心减弱，而此前更关注AI和能源机会。",
+    "recent_shift": "近期推文更加强调地缘政治紧张局势和AI监管风险，但对市场整体仍保持中性",
     "representative_quotes": [
+      "Burry believes prediction markets are currently exploiting regulatory loopholes and will eventually face oversight and taxation",
       "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction",
-      "BREAKING: Earnings, not just valuations, are flashing bubble warnings",
-      "The $800 target implies a market capitalization of roughly $10.5 trillion, which would make SpaceX the most valuable company ever if it played out."
+      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics'"
     ],
-    "generated_at": "2026-07-11T21:40:31.034584+00:00"
+    "generated_at": "2026-07-11T22:38:07.135478+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
