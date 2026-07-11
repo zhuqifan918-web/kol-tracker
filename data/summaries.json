@@ -1,26 +1,25 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$LITE",
-      "$AAOI",
-      "$CCXI",
-      "$AXTI"
+      "SIVE",
+      "CCXI",
+      "LITE",
+      "AAOI",
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与CPO供应链瓶颈",
-      "人形机器人商业化浪潮",
-      "AI基础设施与算力军备竞赛",
-      "半导体上游材料与设备稀缺"
+      "AI基础建设供应链瓶颈",
+      "光子学及CPO路线图",
+      "人形机器人商业化"
     ],
-    "recent_shift": "近期对光子学板块短期波动保持乐观，认为CPO延迟和Meta计算新闻引发的抛售为买入机会，并强调机构资金正在逢低布局。",
+    "recent_shift": "从早期聚焦于存储和光子学个股，近期更加强调人形机器人整机及上游组件，并对机构资金流向保持高度关注。",
     "representative_quotes": [
-      "I feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.",
-      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
-      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
+      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
+      "If a thesis ends up correct, the valuation should be reflected in the long run."
     ],
-    "generated_at": "2026-07-10T18:56:40.133700+00:00"
+    "generated_at": "2026-07-11T11:45:05.908248+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
