@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076009504840573025",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: We have just launched a free trial of the Unusual Whales API.\n\nThe Unusual Whales API gives full access to live options, equities, prediction market data, and much more.  \n\nCheck it out here: https://t.co/JWOGQSKf9Y https://t.co/S5E1OJFpta",
+    "tweet_url": "https://x.com/unusual_whales/status/2076009504840573025",
+    "published_at": "2026-07-11T18:23:31+00:00",
+    "fetched_at": "2026-07-11T18:25:31.968729+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该公司推出了Unusual Whales API的免费试用版，提供实时期权、股票和预测市场数据访问。这本身不是直接的投资建议，但为投资者提供了数据工具。",
+      "translation": "突发：我们刚刚推出了Unusual Whales API的免费试用版。Unusual Whales API提供实时期权、股票、预测市场数据等完整访问权限。点击此处查看。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075894311741440041",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
