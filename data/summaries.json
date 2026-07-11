@@ -23,25 +23,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "MSFT",
-      "AMZN",
-      "AAPL",
-      "SPCX"
+      "$META",
+      "$MSFT",
+      "$SPCX",
+      "$SKHY",
+      "$AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与能源安全",
-      "AI成本上升与监管收紧",
-      "科技巨头裁员与贸易摩擦"
+      "地缘政治风险升温",
+      "美国科技股估值过高",
+      "AI竞争与成本压力",
+      "美元储备地位下降"
     ],
-    "recent_shift": "近期推文更加强调地缘政治紧张局势和AI监管风险，但对市场整体仍保持中性",
+    "recent_shift": "近期言论更聚焦于地缘冲突和宏观风险，对市场乐观情绪减弱",
     "representative_quotes": [
-      "Burry believes prediction markets are currently exploiting regulatory loopholes and will eventually face oversight and taxation",
+      "Gallup's latest survey indicates that only 26% of Americans have 'a great deal or quite a lot of confidence' in key institutions",
       "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction",
-      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics'"
+      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics', and trades rich versus tech bubble metrics on eight of them."
     ],
-    "generated_at": "2026-07-11T22:38:07.135478+00:00"
+    "generated_at": "2026-07-11T23:44:10.098076+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
