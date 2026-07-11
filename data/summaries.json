@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$SPCX",
-      "$SKHY",
-      "$AMZN",
-      "$AAPL"
+      "META",
+      "SKHY",
+      "SPCX",
+      "AAPL",
+      "AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险加剧",
-      "AI行业成本与监管",
-      "市场估值泡沫与降息预期",
-      "能源与大宗商品波动",
-      "去美元化趋势"
+      "AI技术竞争与监管",
+      "地缘政治风险（化石燃料、海峡）",
+      "市场估值泡沫与央行转向",
+      "零售投资者情绪变化",
+      "半导体芯片短缺"
     ],
-    "recent_shift": "从前期关注AI利好转向更多警示监管、成本压力和市场泡沫风险",
+    "recent_shift": "近期更关注政策面和地缘冲突对市场的直接影响，从前期对AI和科技股的乐观转向谨慎，同时增加对宏观风险（如美元储备下降、通胀预期上升）的提及。",
     "representative_quotes": [
-      "Burry believes prediction markets are currently exploiting regulatory loopholes and will eventually face oversight and taxation",
-      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction",
-      "The S&P 500 was called statistically expensive on 17 of 20 metrics, and trades rich versus tech bubble metrics on eight of them"
+      "JUST IN: The odds of OpenAI hitting a $1 trillion valuation this year collapse 23%.",
+      "More of the world’s central banks plan to cut dollar allocations than increase them in the coming decade as political risks associated with the U.S. currency rise.",
+      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction, per Bloomberg"
     ],
-    "generated_at": "2026-07-11T07:07:03.368674+00:00"
+    "generated_at": "2026-07-11T18:26:00.360092+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
