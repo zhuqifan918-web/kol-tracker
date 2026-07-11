@@ -97,6 +97,25 @@
     }
   },
   {
+    "tweet_id": "2075709399306580177",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The ban also extends to contracts tied to macroeconomic data and geopolitics.\n\nRead more: https://t.co/q0sT7A1XDj",
+    "tweet_url": "https://x.com/unusual_whales/status/2075709399306580177",
+    "published_at": "2026-07-10T22:31:00+00:00",
+    "fetched_at": "2026-07-11T07:06:53.733698+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该禁令扩展至宏观经济和地缘政治相关合约，可能限制基于此类数据的交易策略，增加市场不确定性，投资者需警惕相关风险。",
+      "translation": "该禁令还延伸至与宏观经济数据和地缘政治相关的合约。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2075694299841503694",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

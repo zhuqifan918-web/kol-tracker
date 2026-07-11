@@ -25,24 +25,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$META",
-      "$META",
-      "$META",
+      "$SPCX",
       "$SKHY",
+      "$AMZN",
       "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与石油供应链",
-      "AI成本与监管博弈",
-      "股市泡沫与散户信心减弱"
+      "地缘政治风险加剧",
+      "AI行业成本与监管",
+      "市场估值泡沫与降息预期",
+      "能源与大宗商品波动",
+      "去美元化趋势"
     ],
-    "recent_shift": "近期更多关注地缘政治紧张和美国政策不确定性，对股市估值泡沫的担忧增强。",
+    "recent_shift": "从前期关注AI利好转向更多警示监管、成本压力和市场泡沫风险",
     "representative_quotes": [
-      "I'm not sure I'd be comfortable with that. But they are the ones who are making the decisions.",
-      "This is not just a matter of what we want to do, but what we have to do.",
-      "The system is designed to be resilient, but it still has its limits."
+      "Burry believes prediction markets are currently exploiting regulatory loopholes and will eventually face oversight and taxation",
+      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction",
+      "The S&P 500 was called statistically expensive on 17 of 20 metrics, and trades rich versus tech bubble metrics on eight of them"
     ],
-    "generated_at": "2026-07-11T04:55:29.480440+00:00"
+    "generated_at": "2026-07-11T07:07:03.368674+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
