@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2076090971503431692",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: This $BRKB trade is one of my favorite @unusual_whales examples because it shows what a complete flow story can actually look like.\n\nNot one screenshot.\nNot one alert.\nThe entire progression.\n\nThe $BRKB 6/18 480C went from roughly a 4.00 average to a high of 19.30, a maximum move of about 382.50%.\n\nBut the return is not even the biggest lesson.\n\nI walk through:\n• Why the original flow stood out\n• Repeated ask side activity\n• Volume vs open interest\n• Open interest carryover\n• Contract expansion\n• How the stock reacted\n• Later activity that may have pointed to exits\n• How the whale appeared to size into and out of the position\n\nThis is why I always say options flow is not about blindly following whales.\n\nThe original flow gets your attention.\nThe full contract structure tells the story.\n\nWatch here:\nhttps://t.co/4dsiHyBf9V\n\nIf you want access to the live Flow Feed, contract lookup, volume and open interest data, Market Map, Market Tide and more, you can save 10% on your @unusual_whales annual or monthly subscription here:\nhttps://t.co/xNtvfox5Lf",
+    "tweet_url": "https://x.com/unusual_whales/status/2076090971503431692",
+    "published_at": "2026-07-11T23:47:14+00:00",
+    "fetched_at": "2026-07-12T01:48:10.682871+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRKB"
+      ],
+      "direction": "bullish",
+      "summary": "该推文详细分析了$BRKB的一笔期权交易，展示了期权流分析如何从最初的异常信号到完整的合约结构变化，最终实现约382.5%的涨幅。强调了通过交易量、未平仓量、合约扩张等指标理解完整故事的重要性，而非盲目跟单。",
+      "translation": "RT @AnthonySandford: 这笔$BRKB交易是我最喜欢的@unusual_whales例子之一，因为它展示了一个完整的资金流故事实际上可以是什么样子。\n\n不是一张截图。\n不是一个警报。\n而是整个进展过程。\n\n$BRKB 6月18日480C期权从平均约4.00上涨到最高19.30，最大涨幅约382.50%。\n\n但回报并不是最大的教训。\n\n我逐步讲解：\n• 原始资金流为何引人注目\n• 反复出现的ask侧活动\n• 交易量与未平仓量对比\n• 未平仓量的延续\n• 合约扩张\n• 股票如何反应\n• 后期可能指示退出的活动\n• 大资金如何调整进出仓位\n\n这就是为什么我一直说期权流不是盲目跟随大资金。\n\n最初的资金流引起你的注意。\n完整的合约结构讲述故事。\n\n观看视频：https://t.co/4dsiHyBf9V\n\n如果你想访问实时资金流Feed、合约查询、交易量与未平仓量数据、市场地图、市场潮汐等，可通过以下链接享受@unusual_whales年订阅或月订阅10%折扣：https://t.co/xNtvfox5Lf",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076064237412036764",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -18,6 +39,25 @@
       "summary": "微软裁员4800人（含Xbox部门1600人）的同时获批雇佣2273名外籍劳工，可能引发市场对成本控制与人才策略的关注，短期影响中性，需观察后续业绩表现。",
       "translation": "据福克斯报道，微软$MSFT在宣布裁员4800人（包括Xbox部门的1600人）之际，USCIS数据显示该公司今年已获批通过H-1B签证计划雇佣2273名外国工人，此举引发 backlash。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076056687358726642",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: We have just launched a free trial of the Unusual Whales API. \n\nThe Unusual Whales API gives full access to live options, equities, prediction market data, and much more.  \n\nCheck it out here: https://t.co/JWOGQSJHkq https://t.co/oMbojShi0I",
+    "tweet_url": "https://x.com/unusual_whales/status/2076056687358726642",
+    "published_at": "2026-07-11T21:31:00+00:00",
+    "fetched_at": "2026-07-12T01:48:13.526581+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文宣布推出Unusual Whales API的免费试用，该API提供实时期权、股票、预测市场数据等。这可能对量化交易者和数据分析投资者有潜在价值，但推文本身未给出具体投资建议或方向。",
+      "translation": "突发：我们刚刚推出了Unusual Whales API的免费试用。Unusual Whales API提供完全的实时期权、股票、预测市场数据等。在这里查看：https://t.co/JWOGQSJHkq https://t.co/oMbojShi0I",
+      "confidence": null
     }
   },
   {
