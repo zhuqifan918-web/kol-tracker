@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076320928896893411",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US fossil fuel power investments are outpacing China's for the first time in decades, per FT: https://t.co/JNKHYWHOon",
+    "tweet_url": "https://x.com/unusual_whales/status/2076320928896893411",
+    "published_at": "2026-07-12T15:01:00+00:00",
+    "fetched_at": "2026-07-12T15:31:36.629071+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到美国化石燃料发电投资数十年来首次超过中国，这可能影响能源板块和相关ETF的投资方向，但未给出明确看多或看空信号。",
+      "translation": "根据金融时报报道，美国化石燃料发电投资数十年来首次超过中国。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076290731019317381",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
