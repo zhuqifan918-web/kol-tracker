@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076109535823962331",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AI remains top reason for US job cuts for third straight month, per FOX",
+    "tweet_url": "https://x.com/unusual_whales/status/2076109535823962331",
+    "published_at": "2026-07-12T01:01:00+00:00",
+    "fetched_at": "2026-07-12T05:18:09.281523+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "AI导致美国裁员持续增加，反映出AI对就业市场的负面影响，可能削弱消费和经济前景，对投资市场构成利空。",
+      "translation": "AI连续第三个月成为美国裁员的首要原因，据福克斯报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076090971503431692",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
