@@ -1,25 +1,26 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$META",
-      "$NVDA",
-      "$CCXI",
-      "$LITE"
+      "SIVE",
+      "LITE",
+      "AXTI",
+      "CCXI",
+      "AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与光学瓶颈",
-      "人形机器人商业化加速",
-      "存储与半导体高端涨价周期"
+      "人工智慧基础设施与光子学供应链瓶颈",
+      "人形机器人商业化与美国供应链建设",
+      "存储与光学组件的结构性涨价与供应紧张",
+      "近云与数据中心扩建持续增长"
     ],
-    "recent_shift": "近期更加强调机构资金入场带来的底部确认，以及CPO延迟被证伪后的光学板块V型反弹机会",
+    "recent_shift": "近期观点从对光子学、内存等细分领域的深度分析，扩展到人形机器人整机与上游零部件，并增加了对市场情绪反转和机构建仓时机的关注。",
     "representative_quotes": [
-      "Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. And they end up panic selling after seeing swiggly line TAs... I see it as long term ownership... At cheaper valuations.",
-      "What's X view on today? Journalism created the dip. Insiders bought it.",
-      "I personally think $SIVE can be the next $LITE. In the past few months alone, we've seen... Partnerships with O-Net pushing ELS into mass production..."
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
+      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
+      "Being included in the pluggable 1.6T ramp to CPO scale out (Which Sivers is included in), helps bridge revenue waiting gaps until scale up inflection point H2 2027."
     ],
-    "generated_at": "2026-07-11T20:39:26.609708+00:00"
+    "generated_at": "2026-07-12T11:05:34.996371+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
