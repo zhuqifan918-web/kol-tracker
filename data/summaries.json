@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$META",
-      "$SPCX",
       "$MSFT",
       "$AAPL",
+      "$MU",
       "$AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济与地缘政治风险",
-      "人工智能与科技行业变革",
-      "期权交易与资金流分析",
-      "政界交易跟踪",
-      "市场情绪与机构观点"
+      "地缘政治风险与能源危机",
+      "AI成本失控与裁员潮",
+      "宏观经济衰退预期",
+      "机构减持美元与黄金新高",
+      "期权流量挖掘与政治交易监控"
     ],
-    "recent_shift": "近期言论更关注地缘政治紧张局势（如霍尔木兹海峡）和宏观经济逆风，同时突出交易工具的实用价值。",
+    "recent_shift": "近两日从宽松乐观转向聚焦伊朗局势引发的能源冲击和通胀上行风险，同时强调AI成本高于替代劳动力、企业外迁等结构性利空。",
     "representative_quotes": [
-      "Political trading posts get shared everywhere. But most of the time, people only see the headline. The @unusual_whales Political Trading Dashboard lets you actually dig into the data behind those disclosures.",
-      "This $BRKB trade is one of my favorite @unusual_whales examples because it shows what a complete flow story can actually look like. Not one screenshot. Not one alert. The entire progression.",
-      "We just changed the options game. Now, ask Mr Whale to help you navigate the options flow. It can create the filters you want, help determine unusual flow, and so much more."
+      "AI costs more than the people it replaced, per Forbes.",
+      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction.",
+      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics,' and trades rich versus tech bubble metrics on eight of them."
     ],
-    "generated_at": "2026-07-12T14:02:55.922810+00:00"
+    "generated_at": "2026-07-12T15:31:50.560711+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
