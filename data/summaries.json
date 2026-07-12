@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "LMT",
-      "MSFT",
-      "SKHY",
-      "AMZN"
+      "$META",
+      "$LMT",
+      "$MSFT",
+      "$SKHY",
+      "$MU"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与国防开支",
-      "AI行业成本与劳动力替代争议",
-      "通胀预期与美元信用动摇",
-      "市场估值泡沫与央行降息预期",
-      "金融市场新工具与数据透明化"
+      "政治交易数据挖掘工具推广",
+      "实时期权流分析与交易信号",
+      "地缘政治风险与能源市场动态"
     ],
-    "recent_shift": "近期更强调地缘冲突和通胀顽固性，对AI和科技股态度趋于谨慎。",
+    "recent_shift": "近期多个推文转向强调实时1分钟Periscope更新和Mr Whale AI工具对交易决策的辅助作用，与早期更多关注政治交易披露形成对比",
     "representative_quotes": [
-      "Breaking: In March, Trump said the Iran conflict was easing. Meanwhile, his account bought Lockheed Martin, $LMT.",
-      "AI remains top reason for US job cuts for third straight month, per FOX",
-      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg"
+      "We watched gamma positioning change minute by minute, used those changes alongside Market Tide, and took multiple live scalps based on what the structure was showing us in real time.",
+      "The biggest takeaway was seeing how much faster the 1 minute Periscope updates let us react to changing market structure.",
+      "Don't just follow the flow; control it."
     ],
-    "generated_at": "2026-07-12T17:51:57.924154+00:00"
+    "generated_at": "2026-07-12T20:02:28.720636+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
