@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2076290731019317381",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Delta Air Lines CEO Ed Bastian has stated that ticket prices will remain high, despite fuel costs decreasing.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076290731019317381",
+    "published_at": "2026-07-12T13:01:00+00:00",
+    "fetched_at": "2026-07-12T14:02:39.761186+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DAL"
+      ],
+      "direction": "bullish",
+      "summary": "达美航空CEO表示尽管燃油成本下降，机票价格仍将维持高位，这可能提升航空公司利润率，对达美航空股价构成利好。",
+      "translation": "达美航空CEO埃德·巴斯蒂安表示，尽管燃油成本下降，机票价格仍将保持高位。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076266613675069628",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
