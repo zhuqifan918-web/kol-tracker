@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "MSFT",
-      "SPCX",
-      "AAPL",
-      "AMZN"
+      "$META",
+      "$MSFT",
+      "$SPCX",
+      "$SKHY",
+      "$AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI裁员与成本权衡",
-      "地缘政治紧张（霍尔木兹海峡、伊朗）",
-      "市场泡沫与央行去美元化",
-      "台积电等芯片投资与产业布局",
-      "机构与零售情绪分化（通胀、降息预期）"
+      "政治人物交易追踪与数据深度分析",
+      "AI成本与就业影响",
+      "地缘政治风险与能源市场波动",
+      "期权流分析与交易策略",
+      "逆向投资策略（如逆克莱默组合）"
     ],
-    "recent_shift": "从早期偏积极的产品推广和个股利好，转向更多关注负面经济数据、裁员新闻、地缘冲突和央行去美元化，整体偏空情绪加重。",
+    "recent_shift": "近期增加了对地缘政治事件（如伊朗、能源）和AI监管（如Meta、OpenAI）的关注，同时强化了期权流工具推广。",
     "representative_quotes": [
-      "AI remains top reason for US job cuts for third straight month, per FOX",
-      "Midsize companies that employ millions of workers are now shedding jobs and relocating overseas to cut costs, per WSJ",
-      "For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro, per Reuters"
+      "The headline gets your attention. The data gives you the context.",
+      "This is why I always say options flow is not about blindly following whales. The original flow gets your attention. The full contract structure tells the story.",
+      "Don't just follow the flow; control it."
     ],
-    "generated_at": "2026-07-12T07:39:54.898991+00:00"
+    "generated_at": "2026-07-12T09:43:33.575822+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

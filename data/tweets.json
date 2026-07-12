@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076128735569555626",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: Political trading posts get shared everywhere.\nBut most of the time, people only see the headline.\n\nThe @unusual_whales Political Trading Dashboard lets you actually dig into the data behind those disclosures.\n\nIn this video, I walk through how to look up:\n• Recent politician trades\n• Trade dates\n• Notification dates\n• Late disclosures\n• Individual politicians\n• Specific tickers\n• Politician portfolios\n• Alerts\n• Trading activity by name\n\nThat context matters.\n\nA screenshot might tell you that a politician bought or sold something.\n\nThe dashboard lets you go deeper and see when the transaction actually happened, when it was disclosed, what else that politician holds, and how their activity has developed over time.\n\nThe headline gets your attention.\nThe data gives you the context.\n\nWatch here:\nhttps://t.co/olAOKr4QEM\n\nIf you want access to politician portfolios, disclosure tracking, live options flow, Market Tide, Market Map and more, you can save 10% on your @unusual_whales annual or monthly subscription here:\nhttps://t.co/xNtvfox5Lf",
+    "tweet_url": "https://x.com/unusual_whales/status/2076128735569555626",
+    "published_at": "2026-07-12T02:17:17+00:00",
+    "fetched_at": "2026-07-12T09:43:13.551522+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文由@unusual_whales推广其政治交易仪表板，强调深入分析政客交易数据的重要性，包括交易日期、披露时间、持仓变化等，但未提供具体投资建议或市场方向。",
+      "translation": "RT @AnthonySandford: 政治交易帖子到处被分享。但大多数时候，人们只看到标题。@unusual_whales 的政治交易仪表板让你能深入挖掘这些披露背后的数据。在这个视频中，我介绍了如何查询：• 近期政客交易 • 交易日期 • 通知日期 • 延迟披露 • 个别政客 • 具体股票代码 • 政客投资组合 • 提醒 • 按名称分类的交易活动。这些背景信息很重要。截图可能告诉你某个政客买了或卖了什么。而仪表板让你深入了解，查看交易实际发生的时间、披露时间、该政客还持有哪些资产，以及他们的交易活动随时间如何变化。标题吸引你的注意，数据提供背景。观看地址：https://t.co/olAOKr4QEM 如果你想访问政客投资组合、披露追踪、实时期权流、市场潮汐、市场地图等，你可以通过以下链接在@unusual_whales 年度或月度订阅上节省10%：https://t.co/xNtvfox5Lf",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2076109535823962331",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
