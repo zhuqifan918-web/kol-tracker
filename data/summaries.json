@@ -23,26 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$MSFT",
-      "$SPCX",
-      "$SKHY",
-      "$AMZN"
+      "META",
+      "MSFT",
+      "SPCX",
+      "SKHY",
+      "AAPL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险升温",
-      "美国科技股估值过高",
-      "AI竞争与成本压力",
-      "美元储备地位下降"
+      "期权流分析与交易策略",
+      "人工智能芯片竞争与投资",
+      "地缘政治与大宗商品（石油、黄金）",
+      "科技巨头财报与监管风险",
+      "市场情绪与央行政策变化"
     ],
-    "recent_shift": "近期言论更聚焦于地缘冲突和宏观风险，对市场乐观情绪减弱",
+    "recent_shift": "近期更多关注地缘政治风险（如霍尔木兹海峡紧张局势）及央行减持美元、增持黄金的长期趋势，同时强调交易工具升级（如Mr Whale助手）和期权流实时分析。",
     "representative_quotes": [
-      "Gallup's latest survey indicates that only 26% of Americans have 'a great deal or quite a lot of confidence' in key institutions",
-      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction",
-      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics', and trades rich versus tech bubble metrics on eight of them."
+      "This $BRKB trade is one of my favorite @unusual_whales examples because it shows what a complete flow story can actually look like.",
+      "Don't just follow the flow; control it.",
+      "Central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro."
     ],
-    "generated_at": "2026-07-11T23:44:10.098076+00:00"
+    "generated_at": "2026-07-12T01:48:28.844922+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
