@@ -28,22 +28,24 @@
       "$META",
       "$LMT",
       "$MSFT",
-      "$SKHY",
-      "$MU"
+      "$BRKB",
+      "$SPCX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "政治交易数据挖掘工具推广",
-      "实时期权流分析与交易信号",
-      "地缘政治风险与能源市场动态"
+      "地缘政治紧张与军工受益",
+      "AI与科技巨头投资分化",
+      "期权交易工具与数据驱动策略",
+      "宏观经济不确定性（通胀、利率、就业）",
+      "去美元化趋势与黄金"
     ],
-    "recent_shift": "近期多个推文转向强调实时1分钟Periscope更新和Mr Whale AI工具对交易决策的辅助作用，与早期更多关注政治交易披露形成对比",
+    "recent_shift": "账户近期更频繁推广 Unusual Whales 产品和订阅，同时加强了对伊朗/美国局势的报道，倾向用实时数据工具捕捉波动机会。",
     "representative_quotes": [
       "We watched gamma positioning change minute by minute, used those changes alongside Market Tide, and took multiple live scalps based on what the structure was showing us in real time.",
-      "The biggest takeaway was seeing how much faster the 1 minute Periscope updates let us react to changing market structure.",
-      "Don't just follow the flow; control it."
+      "Inverse Cramer continues to put up strong numbers, outperforming even Pelosi on Autopilot. His portfolio just passed $100,000,000 AUM.",
+      "The $800 target implies a market capitalization of roughly $10.5 trillion, which would make SpaceX the most valuable company ever if it played out."
     ],
-    "generated_at": "2026-07-12T20:02:28.720636+00:00"
+    "generated_at": "2026-07-12T23:15:01.084361+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2076426625336606868",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The average US home is now more unaffordable to the average American than at any point in history, per CBS",
+    "tweet_url": "https://x.com/unusual_whales/status/2076426625336606868",
+    "published_at": "2026-07-12T22:01:00+00:00",
+    "fetched_at": "2026-07-12T23:14:45.224164+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出美国房价创历史新高，普通人负担能力降至最低点，可能对房地产相关投资（如REITs、建筑商）构成利空，但未直接提及具体交易品种。",
+      "translation": "突发：据CBS报道，美国普通住房对普通美国人来说，其不可负担程度已达到历史最高点。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076411525598753024",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Elon Musk: AI+Robots will be able to do everything, resulting in universal high income. Work will be optional.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076411525598753024",
+    "published_at": "2026-07-12T21:01:00+00:00",
+    "fetched_at": "2026-07-12T23:14:48.425311+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "马斯克提到AI和机器人将能完成所有工作，带来普遍高收入并让工作变得可选，这暗示自动化技术的巨大潜力，对AI和机器人相关行业构成长期利好。",
+      "translation": "埃隆·马斯克：AI+机器人将能够做所有事情，导致普遍的高收入。工作将成为可选。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076390260238602369",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
