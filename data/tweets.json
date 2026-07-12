@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2076390260238602369",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: The new 1 minute Periscope updates on @unusual_whales completely changed how we were able to scalp during this live stream.\n\nWe watched gamma positioning change minute by minute, used those changes alongside Market Tide, and took multiple live scalps based on what the structure was showing us in real time.\n\nThis was not hindsight.\nYou can watch the actual decision process happen live.\n\nWe used Periscope to help decide:\n• When to stay patient inside heavy negative gamma\n• When positioning started favoring a quick long\n• When to take profits during chop\n• When a short setup was developing\n• When changing gamma meant it was time to get out quickly\n\nWe had successful scalps, worked through a small losing trade, and then made that loss back with another quick short into the close.\n\nThe biggest takeaway was seeing how much faster the 1 minute Periscope updates let us react to changing market structure.\n\nWatch here:\nhttps://t.co/6Rk1anlt7Y\n\nIf you want access to 1 minute Periscope updates, live Flow Feed, Market Tide, gamma positioning and more, you can save 10% on your @unusual_whales annual or monthly subscription here:\nhttps://t.co/xNtvfoxDAN",
+    "tweet_url": "https://x.com/unusual_whales/status/2076390260238602369",
+    "published_at": "2026-07-12T19:36:30+00:00",
+    "fetched_at": "2026-07-12T20:02:13.569942+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广名为Periscope的实时市场数据工具，强调其1分钟更新频率如何帮助交易者根据伽马定位变化进行短线剥头皮交易，并提供了订阅折扣链接。",
+      "translation": "RT @AnthonySandford: 新的@unusual_whales的1分钟Periscope更新彻底改变了我们在直播期间进行剥头皮交易的方式。\n我们逐分钟观察伽马定位变化，结合Market Tide使用这些变化，并根据结构实时显示的信号进行了多次短线剥头皮操作。\n这不是事后诸葛亮。\n你可以观看实际的决策过程实时发生。\n我们使用Periscope帮助决定：\n• 何时在重负伽马区间保持耐心\n• 何时定位开始有利于快速做多\n• 何时在盘整中获利了结\n• 何时做空机会正在形成\n• 何时变化的伽马意味着需要迅速离场\n我们成功进行了剥头皮交易，经历了一笔小额亏损交易，然后在收盘前通过另一笔快速做空回补了损失。\n最大的收获是看到1分钟Periscope更新让我们能更快地对变化的市场结构做出反应。\n观看地址：\nhttps://t.co/6Rk1anlt7Y\n如果你想获取1分钟Periscope更新、实时流数据、Market Tide、伽马定位等，可以通过此链接在@unusual_whales年度或月度订阅上节省10%：\nhttps://t.co/xNtvfoxDAN",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076366227052916849",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We just changed the options game.\n\nNow, ask Mr Whale to help you navigate the options flow.\n\nIt can create the filters you want, help determine unusual flow, and so much more.\n\nDon't just follow the flow; control it.\n\nCheck it out: https://t.co/HrgxqpXsL8 https://t.co/twT2JHa0wG",
+    "tweet_url": "https://x.com/unusual_whales/status/2076366227052916849",
+    "published_at": "2026-07-12T18:01:00+00:00",
+    "fetched_at": "2026-07-12T20:02:17.466935+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广一个名为'Mr Whale'的期权流分析工具，声称能帮助用户筛选、识别异常期权交易等，但未提供具体投资建议或市场观点，因此投资相关性较低。",
+      "translation": "我们刚刚改变了期权游戏。现在，请Mr Whale帮助你导航期权流。它可以创建你想要的过滤器，帮助识别异常交易流，以及更多功能。不要只是跟随潮流，要控制它。去看看：https://t.co/HrgxqpXsL8 https://t.co/Tw2JHa0wG",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2076351127788925011",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
