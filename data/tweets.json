@@ -40,6 +40,25 @@
     }
   },
   {
+    "tweet_id": "2076079336977813684",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Midsize companies that employ millions of workers are now shedding jobs and relocating overseas to cut costs,\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2076079336977813684",
+    "published_at": "2026-07-11T23:01:00+00:00",
+    "fetched_at": "2026-07-12T07:39:35.006925+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中型企业裁员并迁往海外以降低成本，这可能导致就业市场疲软，消费支出减少，对整体经济构成利空，进而影响股市表现。",
+      "translation": "根据《华尔街日报》报道，雇佣数百万员工的中型企业现在正在裁员，并将业务迁往海外以削减成本。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076064237412036764",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -2157,6 +2176,25 @@
       "summary": "三星开始量产最先进的数据中心存储驱动器，将用于英伟达即将推出的Vera Rubin平台。这一消息对英伟达是利好，表明其高端计算平台供应链稳定，可能推动硬件需求增长。",
       "translation": "据彭博社报道，三星已开始批量生产其最先进的数据中心存储驱动器，该产品将用于英伟达即将推出的Vera Rubin平台。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2074796670551031899",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这是正主@Gate  @jheioff \n查一下这个盗币怎么做到的，\n我本以为有了谷歌验证已经是天下无敌，\n查查是不是内部人作案，不然不可能突破这么多安全项拿到这么多资料信息。 https://t.co/mZMS1ygDHT",
+    "tweet_url": "https://x.com/xiaomustock/status/2074796670551031899",
+    "published_at": "2026-07-08T10:04:08+00:00",
+    "fetched_at": "2026-07-12T07:39:21.460252+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "用户质疑加密货币交易所Gate的安全漏洞，怀疑有内部人员作案导致资产被盗。此类安全事件可能影响用户对平台的信任，对Gate的声誉和币价产生负面影响。",
+      "translation": "这是正主@Gate @jheioff\n查一下这个盗币怎么做到的，\n我本以为有了谷歌验证已经是天下无敌，\n查查是不是内部人作案，不然不可能突破这么多安全项拿到这么多资料信息。",
+      "confidence": "medium"
     }
   },
   {

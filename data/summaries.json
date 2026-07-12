@@ -25,48 +25,47 @@
     "focus_tickers": [
       "META",
       "MSFT",
-      "SKHY",
       "SPCX",
-      "AAPL"
+      "AAPL",
+      "AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI行业成本与就业矛盾",
-      "地缘政治风险（伊朗/霍尔木兹海峡）",
-      "期权交易与资金流分析",
-      "央行去美元化与黄金增持",
-      "科技巨头监管与法律挑战"
+      "AI裁员与成本权衡",
+      "地缘政治紧张（霍尔木兹海峡、伊朗）",
+      "市场泡沫与央行去美元化",
+      "台积电等芯片投资与产业布局",
+      "机构与零售情绪分化（通胀、降息预期）"
     ],
-    "recent_shift": "近期更关注地缘政治紧张局势对市场的影响，同时强调期权流分析而非盲目跟随，整体从早前的积极看多转为谨慎中性。",
+    "recent_shift": "从早期偏积极的产品推广和个股利好，转向更多关注负面经济数据、裁员新闻、地缘冲突和央行去美元化，整体偏空情绪加重。",
     "representative_quotes": [
       "AI remains top reason for US job cuts for third straight month, per FOX",
-      "Burry believes prediction markets are currently exploiting regulatory loopholes and will eventually face oversight and taxation",
-      "Don't just follow the flow; control it."
+      "Midsize companies that employ millions of workers are now shedding jobs and relocating overseas to cut costs, per WSJ",
+      "For the first time, central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro, per Reuters"
     ],
-    "generated_at": "2026-07-12T05:18:28.707258+00:00"
+    "generated_at": "2026-07-12T07:39:54.898991+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
-      "海力士",
       "$MU",
       "$NVDA",
-      "$AMAT"
+      "$AMAT",
+      "$LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基建与存储需求长期看涨",
-      "康宁玻璃基板成为下一代算力核心",
-      "可回收火箭与全球物流革命",
-      "隐私安全在AI时代的重要性",
-      "杠杆交易风险与仓位管理"
+      "AI产业链持续增长，存储和半导体设备需求旺盛",
+      "玻璃基板和光纤技术是下一代AI芯片的关键",
+      "可回收火箭和商业航天带来全球物流变革",
+      "AI的安全漏洞和隐私保护问题日益突出"
     ],
-    "recent_shift": "近期从单纯看好存储转向同时押注康宁和半导体设备，认为AI基建远未饱和，但短期市场波动加剧。",
+    "recent_shift": "近期观点从短期投机转向长期持有，强调仓位管理和风险控制，避免杠杆带来的风险。",
     "representative_quotes": [
-      "存储的地位一年内都难以改变，安心等海力士7月23号发的1300亿美金的季度利润财报。",
-      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，市场里的傻瓜太多了。",
-      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
+      "存储起来，说明ai未来光明，其他概念才有机会，才值得抄底",
+      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
+      "活下去才有机会，仓位管理比买对啥更重要"
     ],
-    "generated_at": "2026-07-11T17:28:28.011814+00:00"
+    "generated_at": "2026-07-12T07:39:50.824685+00:00"
   }
 }
