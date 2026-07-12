@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2076336028563001493",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: In March, Trump said the Iran conflict was easing.\n\nMeanwhile, his account bought Lockheed Martin, $LMT. \n\nAfter the conflict depleted much of the US THAAD missile stockpile, the Pentagon awarded Lockheed roughly $35 billion in contracts to replenish the missiles.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076336028563001493",
+    "published_at": "2026-07-12T16:01:00+00:00",
+    "fetched_at": "2026-07-12T16:46:11.949780+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LMT"
+      ],
+      "direction": "bullish",
+      "summary": "推文暗示特朗普在缓和伊朗冲突的同时，其账户买入洛克希德·马丁股票，而冲突后美国导弹库存耗尽，五角大楼向该公司授予约350亿美元合同补充库存，这对LMT是重大利好。",
+      "translation": "突发：3月份，特朗普称伊朗冲突正在缓和。同时，他的账户买入了洛克希德·马丁（$LMT）。冲突消耗了美国大量THAAD导弹库存后，五角大楼授予洛克希德约350亿美元合同以补充这些导弹。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076320928896893411",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
