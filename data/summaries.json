@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$LMT",
       "$META",
       "$MSFT",
       "$AAPL",
-      "$MU",
       "$AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与能源危机",
-      "AI成本失控与裁员潮",
-      "宏观经济衰退预期",
-      "机构减持美元与黄金新高",
-      "期权流量挖掘与政治交易监控"
+      "地缘政治风险与国防支出",
+      "人工智能成本与人才替代",
+      "宏观经济放缓与通胀压力",
+      "零售交易者信心减弱",
+      "科技巨头监管与诉讼"
     ],
-    "recent_shift": "近两日从宽松乐观转向聚焦伊朗局势引发的能源冲击和通胀上行风险，同时强调AI成本高于替代劳动力、企业外迁等结构性利空。",
+    "recent_shift": "最近一些推文强调市场泡沫警告、通胀预期上升以及零售交易者信心减弱，整体偏向警惕和防御性，较早期更谨慎。",
     "representative_quotes": [
-      "AI costs more than the people it replaced, per Forbes.",
-      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction.",
-      "The S&P 500 was called 'statistically expensive on 17 of 20 metrics,' and trades rich versus tech bubble metrics on eight of them."
+      "BREAKING: In March, Trump said the Iran conflict was easing. Meanwhile, his account bought Lockheed Martin, $LMT. After the conflict depleted much of the US THAAD missile stockpile, the Pentagon awarded Lockheed roughly $35 billion in contracts to replenish the missiles.",
+      "AI remains top reason for US job cuts for third straight month, per FOX",
+      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction, per Bloomberg"
     ],
-    "generated_at": "2026-07-12T15:31:50.560711+00:00"
+    "generated_at": "2026-07-12T16:46:27.107285+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
