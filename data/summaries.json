@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$LMT",
-      "$META",
-      "$MSFT",
-      "$AAPL",
-      "$AMZN"
+      "META",
+      "LMT",
+      "MSFT",
+      "SKHY",
+      "AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与国防支出",
-      "人工智能成本与人才替代",
-      "宏观经济放缓与通胀压力",
-      "零售交易者信心减弱",
-      "科技巨头监管与诉讼"
+      "地缘政治风险与国防开支",
+      "AI行业成本与劳动力替代争议",
+      "通胀预期与美元信用动摇",
+      "市场估值泡沫与央行降息预期",
+      "金融市场新工具与数据透明化"
     ],
-    "recent_shift": "最近一些推文强调市场泡沫警告、通胀预期上升以及零售交易者信心减弱，整体偏向警惕和防御性，较早期更谨慎。",
+    "recent_shift": "近期更强调地缘冲突和通胀顽固性，对AI和科技股态度趋于谨慎。",
     "representative_quotes": [
-      "BREAKING: In March, Trump said the Iran conflict was easing. Meanwhile, his account bought Lockheed Martin, $LMT. After the conflict depleted much of the US THAAD missile stockpile, the Pentagon awarded Lockheed roughly $35 billion in contracts to replenish the missiles.",
+      "Breaking: In March, Trump said the Iran conflict was easing. Meanwhile, his account bought Lockheed Martin, $LMT.",
       "AI remains top reason for US job cuts for third straight month, per FOX",
-      "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction, per Bloomberg"
+      "Gold may be retreating for now, but the price of diamonds, sapphires, emeralds and other precious stones has soared, per Bloomberg"
     ],
-    "generated_at": "2026-07-12T16:46:27.107285+00:00"
+    "generated_at": "2026-07-12T17:51:57.924154+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

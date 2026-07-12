@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076351127788925011",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We asked strangers which stocks they would drop $1,000 on.\n\nDo you agree with their list?\n\nWe ask Mr. Whale to rank their picks. https://t.co/ZSn3JxxyTy",
+    "tweet_url": "https://x.com/unusual_whales/status/2076351127788925011",
+    "published_at": "2026-07-12T17:01:00+00:00",
+    "fetched_at": "2026-07-12T17:51:46.288537+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及向路人询问他们愿意投资1000美元的股票，并邀请一位投资大佬（Mr. Whale）对这些股票进行排名。内容涉及股票推荐和投资观点，但未提及具体股票代码，因此投资相关性较低。",
+      "translation": "我们向路人询问他们愿意投入1000美元的股票。你认同他们的名单吗？我们请投资大佬对它们进行排名。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2076336028563001493",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
