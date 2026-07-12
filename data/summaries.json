@@ -25,25 +25,25 @@
     "focus_tickers": [
       "META",
       "MSFT",
-      "SPCX",
       "SKHY",
+      "SPCX",
       "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "期权流分析与交易策略",
-      "人工智能芯片竞争与投资",
-      "地缘政治与大宗商品（石油、黄金）",
-      "科技巨头财报与监管风险",
-      "市场情绪与央行政策变化"
+      "AI行业成本与就业矛盾",
+      "地缘政治风险（伊朗/霍尔木兹海峡）",
+      "期权交易与资金流分析",
+      "央行去美元化与黄金增持",
+      "科技巨头监管与法律挑战"
     ],
-    "recent_shift": "近期更多关注地缘政治风险（如霍尔木兹海峡紧张局势）及央行减持美元、增持黄金的长期趋势，同时强调交易工具升级（如Mr Whale助手）和期权流实时分析。",
+    "recent_shift": "近期更关注地缘政治紧张局势对市场的影响，同时强调期权流分析而非盲目跟随，整体从早前的积极看多转为谨慎中性。",
     "representative_quotes": [
-      "This $BRKB trade is one of my favorite @unusual_whales examples because it shows what a complete flow story can actually look like.",
-      "Don't just follow the flow; control it.",
-      "Central banks plan to cut U.S. dollar holdings over the next decade while increasing allocations to gold and the euro."
+      "AI remains top reason for US job cuts for third straight month, per FOX",
+      "Burry believes prediction markets are currently exploiting regulatory loopholes and will eventually face oversight and taxation",
+      "Don't just follow the flow; control it."
     ],
-    "generated_at": "2026-07-12T01:48:28.844922+00:00"
+    "generated_at": "2026-07-12T05:18:28.707258+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
