@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2076266613675069628",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Apparently there’s a new popular trend to bearpost trillion dollar companies.\n\nLike $NVDA or $TSM.\n\nBy finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed.\n\n-> if the company doesn’t respond, stock prices/sentiment are damaged. \n\n-> if the company issues a response, they can’t go into detail since supply chains are confidential… but people still doubt them\n\n-> Poster gain more impressions, then does it again with more views the next time.\n\nDon’t quite think this is very healthy, with more folks copying that playbook. Especially around incentive structures.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2076266613675069628",
+    "published_at": "2026-07-12T11:25:10+00:00",
+    "fetched_at": "2026-07-12T12:11:32.670303+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "TSM"
+      ],
+      "direction": "bearish",
+      "summary": "帖子指出存在一种新趋势：通过放大技术细节问题来做空万亿级公司（如NVDA、TSM），破坏股价和情绪，且公司因供应链机密难以回应，导致负面影响持续。作者认为这种趋势不健康，尤其对激励结构有影响。",
+      "translation": "显然有一个新趋势，就是通过找出一万亿级公司的孤立技术细节，然后夸大其词，声称整个项目被推迟，从而做空这些公司（如$NVDA或$TSM）。如果公司不回应，股价和情绪就会受损；如果公司回应，由于供应链机密无法透露细节，人们仍然怀疑。发帖者获得更多曝光，然后下次再重复。我不认为这很健康，尤其当更多人模仿这种模式时。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076260409221456071",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

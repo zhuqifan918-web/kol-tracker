@@ -1,26 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "LITE",
-      "AXTI",
-      "CCXI",
-      "AAOI"
+      "$SIVE",
+      "$LITE",
+      "$CCXI",
+      "$AXTI",
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智慧基础设施与光子学供应链瓶颈",
-      "人形机器人商业化与美国供应链建设",
-      "存储与光学组件的结构性涨价与供应紧张",
-      "近云与数据中心扩建持续增长"
+      "光子学/CPO投资主题",
+      "上游供应链瓶颈",
+      "人形机器人产业链",
+      "美国制造与国家安全",
+      "数据中心/超算资本支出持续增长"
     ],
-    "recent_shift": "近期观点从对光子学、内存等细分领域的深度分析，扩展到人形机器人整机与上游零部件，并增加了对市场情绪反转和机构建仓时机的关注。",
+    "recent_shift": "从广泛关注AI基础设施，近期明显加强了对人形机器人主题的仓位，同时认为光通信板块回调是买入机会。",
     "representative_quotes": [
-      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
-      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "Being included in the pluggable 1.6T ramp to CPO scale out (Which Sivers is included in), helps bridge revenue waiting gaps until scale up inflection point H2 2027."
+      "I think photonics sector is starting to bottom. $SIVE",
+      "I prefer US humanoid players...Agility Robotics is my personal favorite as of now.",
+      "We think short sellers...do not actually strongly believe in the thesis."
     ],
-    "generated_at": "2026-07-12T11:05:34.996371+00:00"
+    "generated_at": "2026-07-12T12:12:19.013965+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
