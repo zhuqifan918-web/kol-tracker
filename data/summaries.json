@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
-      "$CCXI",
-      "$NVDA",
       "$LITE",
-      "$TSM"
+      "$COHR",
+      "$AAOI",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "CPO光子学与激光器瓶颈",
-      "人形机器人美国供应链崛起",
-      "AI基础设施持续资本开支",
-      "内存与NAND短缺延续",
-      "上游材料及光学供应链稀缺性"
+      "光通信与CPO供应链瓶颈",
+      "人形机器人产业加速",
+      "AI算力军备竞赛",
+      "材料与设备国产化替代",
+      "记忆体与NAND供需紧张"
     ],
-    "recent_shift": "从早期关注广泛AI基础设施，近期更聚焦于光子学激光器（如SIVE）和人形机器人整机（如Agility Robotics），认为市场误解造成买点。",
+    "recent_shift": "从原先聚焦光通信和记忆体供应瓶颈，近期更关注人形机器人商业化进展和CPO技术进展，并强调光通信板块被低估。",
     "representative_quotes": [
-      "I've been long on CPO sector, but seems like institutions want entry points, just a bit later on.",
+      "Prob most important takeaway as a whole was 800G demand revision (also longer tail demand). Which is a bullish read through on US transceiver makers like $AAOI, $COHR, $LITE.",
       "I personally think $SIVE can be the next $LITE.",
-      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo."
+      "It's hard to see a world where US AI hyperscaler capex drops dramatically... when China entities like 360 go and claim they have a 'AI cyber nuclear weapon'."
     ],
-    "generated_at": "2026-07-13T20:53:01.611639+00:00"
+    "generated_at": "2026-07-13T23:43:50.349611+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
