@@ -28,24 +28,24 @@
       "META",
       "SKHY",
       "LMT",
-      "SPCX",
-      "NFLX"
+      "NFLX",
+      "AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
       "地缘政治风险加剧",
-      "AI投资热潮但存在泡沫",
-      "美股估值过高",
-      "科技行业主导市场",
-      "防御性资产如黄金受青睐"
+      "科技股依然强势但面临不确定性",
+      "就业市场疲软与AI替代",
+      "能源与航运紧张",
+      "可选消费与娱乐并购"
     ],
-    "recent_shift": "近期更加关注伊朗冲突升级对油价和军工股的推动作用，同时强调科技股回调可能",
+    "recent_shift": "近期从关注科技股和期权交易转向更多聚焦地缘政治冲突及对市场的负面影响。",
     "representative_quotes": [
-      "High-earner families are ditching traditional schools for life skills and AI",
-      "The average US home is now more unaffordable to the average American than at any point in history",
-      "Tech feels like the only game in town"
+      "Jim Cramer: Tech feels like the only game in town.",
+      "Iran's Revolutionary Guards Spokesperson: By interfering in the Strait of Hormuz, the US seriously jeopardized the security of global oil and gas supplies.",
+      "BREAKING: The average US home is now more unaffordable to the average American than at any point in history, per CBS"
     ],
-    "generated_at": "2026-07-13T21:45:34.475906+00:00"
+    "generated_at": "2026-07-13T22:45:33.650223+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

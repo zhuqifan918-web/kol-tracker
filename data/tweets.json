@@ -19,6 +19,28 @@
     }
   },
   {
+    "tweet_id": "2076773158456377398",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Twelve Democratic states filed a lawsuit to block Paramount’s $111 billion acquisition of Warner Bros, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2076773158456377398",
+    "published_at": "2026-07-13T20:58:00+00:00",
+    "fetched_at": "2026-07-13T22:45:17.792826+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PARA",
+        "WBD"
+      ],
+      "direction": "bearish",
+      "summary": "该推文提及美国12个民主党州提起诉讼，阻止派拉蒙以1110亿美元收购华纳兄弟的交易。该收购案面临反垄断审查，可能对相关公司股票造成压力，投资者需关注诉讼进展对交易完成的影响。",
+      "translation": "据《纽约时报》，12个民主党州提起诉讼，阻止派拉蒙以1110亿美元收购华纳兄弟。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076748688559587338",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
