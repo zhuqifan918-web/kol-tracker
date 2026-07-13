@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$META",
-      "$LMT",
       "$MSFT",
-      "$BRKB",
-      "$SPCX"
+      "$LMT",
+      "$SKHY",
+      "$MU"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治紧张与军工受益",
-      "AI与科技巨头投资分化",
-      "期权交易工具与数据驱动策略",
-      "宏观经济不确定性（通胀、利率、就业）",
-      "去美元化趋势与黄金"
+      "地缘政治与能源安全",
+      "人工智能投资与成本矛盾",
+      "期权市场数据驱动交易",
+      "大型科技公司与监管博弈",
+      "通胀与利率预期变化"
     ],
-    "recent_shift": "账户近期更频繁推广 Unusual Whales 产品和订阅，同时加强了对伊朗/美国局势的报道，倾向用实时数据工具捕捉波动机会。",
+    "recent_shift": "近期更关注地缘冲突（伊朗/霍尔木兹）对能源和国防的影响，同时AI成本问题和监管争议增多，但整体市场观点无明显转向。",
     "representative_quotes": [
-      "We watched gamma positioning change minute by minute, used those changes alongside Market Tide, and took multiple live scalps based on what the structure was showing us in real time.",
-      "Inverse Cramer continues to put up strong numbers, outperforming even Pelosi on Autopilot. His portfolio just passed $100,000,000 AUM.",
-      "The $800 target implies a market capitalization of roughly $10.5 trillion, which would make SpaceX the most valuable company ever if it played out."
+      "Political trading posts get shared everywhere. But most of the time, people only see the headline. The @unusual_whales Political Trading Dashboard lets you actually dig into the data behind those disclosures.",
+      "This $BRKB trade is one of my favorite @unusual_whales examples because it shows what a complete flow story can actually look like. Not one screenshot. Not one alert. The entire progression.",
+      "We just changed the options game. Now, ask Mr Whale to help you navigate the options flow. It can create the filters you want, help determine unusual flow, and so much more."
     ],
-    "generated_at": "2026-07-12T23:15:01.084361+00:00"
+    "generated_at": "2026-07-13T00:59:51.892402+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
