@@ -28,24 +28,24 @@
       "META",
       "SKHY",
       "LMT",
-      "NFLX",
-      "TSMC"
+      "SPCX",
+      "NFLX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与能源安全",
-      "AI与科技巨头投资浪潮",
-      "期权流动与市场结构交易",
-      "美国经济与就业市场分化",
-      "政治人物持仓与政策联动"
+      "地缘政治风险加剧",
+      "AI投资热潮但存在泡沫",
+      "美股估值过高",
+      "科技行业主导市场",
+      "防御性资产如黄金受青睐"
     ],
-    "recent_shift": "近期明显增加了地缘冲突（伊朗局势、原油市场）的讨论，同时积极推广自家期权分析工具，对市场的关注点从宏观数据转向事件驱动交易。",
+    "recent_shift": "近期更加关注伊朗冲突升级对油价和军工股的推动作用，同时强调科技股回调可能",
     "representative_quotes": [
-      "Trump: We will make things safer for oil. Oil will be very free, very easy, very fast",
-      "Meta, $META, says it will spend more than $40 billion on Louisiana data center.",
-      "The entire $BRKB 6/18 480C went from roughly a 4.00 average to a high of 19.30, a maximum move of about 382.50%."
+      "High-earner families are ditching traditional schools for life skills and AI",
+      "The average US home is now more unaffordable to the average American than at any point in history",
+      "Tech feels like the only game in town"
     ],
-    "generated_at": "2026-07-13T20:52:58.036357+00:00"
+    "generated_at": "2026-07-13T21:45:34.475906+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

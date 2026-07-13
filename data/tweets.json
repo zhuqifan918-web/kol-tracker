@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076779449895588242",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump notified Congress that the US is in a new war with Iran, and is able to wager battle for 60 days without congressional approval, per POLITICO",
+    "tweet_url": "https://x.com/unusual_whales/status/2076779449895588242",
+    "published_at": "2026-07-13T21:23:00+00:00",
+    "fetched_at": "2026-07-13T21:45:17.346648+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国与伊朗冲突升级，可能引发地缘政治风险，导致市场波动、油价上涨，对投资者情绪造成负面影响。",
+      "translation": "突发：特朗普通知国会，美国与伊朗进入新的战争状态，且可在未经国会批准的情况下进行长达60天的战斗，据POLITICO报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076748688559587338",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
