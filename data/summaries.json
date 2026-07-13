@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$MSFT",
-      "$LMT",
-      "$SKHY",
-      "$MU"
+      "META",
+      "NVDA",
+      "NCLH",
+      "BRKB",
+      "LMT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治与能源安全",
-      "人工智能投资与成本矛盾",
-      "期权市场数据驱动交易",
-      "大型科技公司与监管博弈",
-      "通胀与利率预期变化"
+      "期权流分析与伽马水平交易",
+      "人工智能成本与就业市场影响",
+      "地缘政治风险与防御类股机会",
+      "数据驱动投资工具推广"
     ],
-    "recent_shift": "近期更关注地缘冲突（伊朗/霍尔木兹）对能源和国防的影响，同时AI成本问题和监管争议增多，但整体市场观点无明显转向。",
+    "recent_shift": "近日更多关注宏观经济数据和地缘政治事件（如伊朗、霍木兹海峡）对市场的影响，同时加大了对人工智能工具在期权分析中应用的强调。",
     "representative_quotes": [
+      "One of my favorite ways to use @unusual_whales is combining Gamma Heat Zones, net premium imbalances, options flow, daily gamma, and absolute gamma to build a complete setup.",
       "Political trading posts get shared everywhere. But most of the time, people only see the headline. The @unusual_whales Political Trading Dashboard lets you actually dig into the data behind those disclosures.",
-      "This $BRKB trade is one of my favorite @unusual_whales examples because it shows what a complete flow story can actually look like. Not one screenshot. Not one alert. The entire progression.",
-      "We just changed the options game. Now, ask Mr Whale to help you navigate the options flow. It can create the filters you want, help determine unusual flow, and so much more."
+      "The whole idea is simple: Price can often gravitate toward heavy gamma levels, while large net premium gaps may fill over time as price and positioning reconnect."
     ],
-    "generated_at": "2026-07-13T00:59:51.892402+00:00"
+    "generated_at": "2026-07-13T04:31:21.499470+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
