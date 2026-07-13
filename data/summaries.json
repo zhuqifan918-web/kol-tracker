@@ -2,50 +2,50 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
+      "$CCXI",
       "$NVDA",
-      "$META",
       "$LITE",
-      "$CCXI"
+      "$TSM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/CPO供应链瓶颈与多架构需求",
-      "人形机器人/物理AI商业化与美中竞争",
-      "存储芯片涨价与产能紧缺",
-      "AI基础设施持续大规模资本开支",
-      "上游材料/设备瓶颈与稀有资源"
+      "CPO光子学与激光器瓶颈",
+      "人形机器人美国供应链崛起",
+      "AI基础设施持续资本开支",
+      "内存与NAND短缺延续",
+      "上游材料及光学供应链稀缺性"
     ],
-    "recent_shift": "近期更强调CPO延迟非基本面问题，且关注机器人整机商及美国本土供应链，同时对市场恐慌性抛售持逆势看多态度。",
+    "recent_shift": "从早期关注广泛AI基础设施，近期更聚焦于光子学激光器（如SIVE）和人形机器人整机（如Agility Robotics），认为市场误解造成买点。",
     "representative_quotes": [
-      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
-      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "It's clear to me and VC apparently that we’ve just hit the inflection point where soon: majority of labor you think is human-only, can be replaced by robotics/humanoids."
+      "I've been long on CPO sector, but seems like institutions want entry points, just a bit later on.",
+      "I personally think $SIVE can be the next $LITE.",
+      "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo."
     ],
-    "generated_at": "2026-07-13T19:56:58.919419+00:00"
+    "generated_at": "2026-07-13T20:53:01.611639+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SKHY",
-      "$META",
-      "$LMT",
-      "$NFLX",
-      "$MSFT"
+      "META",
+      "SKHY",
+      "LMT",
+      "NFLX",
+      "TSMC"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险升高（霍尔木兹海峡、伊朗核设施）",
-      "科技巨头资本支出扩张（AI建设、数据中心）",
-      "宏观经济不确定性（失业、房市、通胀）",
-      "期权交易与数据处理工具创新",
-      "传统能源与新能源长期博弈"
+      "地缘政治风险与能源安全",
+      "AI与科技巨头投资浪潮",
+      "期权流动与市场结构交易",
+      "美国经济与就业市场分化",
+      "政治人物持仓与政策联动"
     ],
-    "recent_shift": "近期更加强调地缘政治事件（如霍尔木兹海峡封锁、伊朗导弹）对油市和军工股的直接影响，此前偏向科技股和流动性格局分析。",
+    "recent_shift": "近期明显增加了地缘冲突（伊朗局势、原油市场）的讨论，同时积极推广自家期权分析工具，对市场的关注点从宏观数据转向事件驱动交易。",
     "representative_quotes": [
-      "Trump: maybe we'll do some things that could increase the oil price.",
-      "Jim Cramer: Tech feels like the only game in town.",
-      "Meta plans to start manufacturing an AI chip from September as part of its plan to boost overall computing power to 14 gigawatts next year, per Reuters"
+      "Trump: We will make things safer for oil. Oil will be very free, very easy, very fast",
+      "Meta, $META, says it will spend more than $40 billion on Louisiana data center.",
+      "The entire $BRKB 6/18 480C went from roughly a 4.00 average to a high of 19.30, a maximum move of about 382.50%."
     ],
-    "generated_at": "2026-07-13T19:56:55.216171+00:00"
+    "generated_at": "2026-07-13T20:52:58.036357+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

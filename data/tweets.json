@@ -49,6 +49,25 @@
     }
   },
   {
+    "tweet_id": "2076736164665638993",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US CENTCOM forces will resume blockading maritime traffic entering and exiting Iranian ports on July 14 at 4 p.m. ET.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076736164665638993",
+    "published_at": "2026-07-13T18:31:00+00:00",
+    "fetched_at": "2026-07-13T20:52:46.818155+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该消息表明美国即将对伊朗港口实施海上封锁，可能加剧中东地缘政治紧张局势，导致能源价格波动，对航运和石油相关资产构成利空。",
+      "translation": "突发：美国中央司令部部队将于美国东部时间7月14日下午4点恢复对进出伊朗港口的海上交通封锁。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076727608172298647",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -754,6 +773,33 @@
       "summary": "用户分析了日本化学公司NCI的多个供应链瓶颈，包括红磷、MLCC、磷化氢气体、磷酸等，认为其处于多个关键产业链的核心位置，但受日本文化影响定价保守，收入增长有限，投资上持长期看多但需深入研究的观点。",
       "translation": "刚才在深入研究日本化学工业（NCI），因为我之前写过关于光供应链中断的文章：NCI的红磷（与Rasa并列世界第一）→ AXTI和InP基板→ IQE/TSEM | LITE/COHR等。还有MLCC链条的高纯度碳酸钡/钛酸钡：→ TDK（他们有陶瓷合资企业）→ MLCC（当前瓶颈），他们与村田有合作关系，对MLCC也有信心。有趣的是他们大约持有村田0.05%的股份，现在价值约5500万美元。还有280,000股Adeka。还有磷化氢气体：→ 进入Entegris→ 铠侠/MU/SK海力士/TSM类晶圆厂。这也可能最终进入IQE、Landmark、VPEC、COHR，所以有双重敞口。我在研究磷酸，可能涉及NAND/铠侠工艺和ADEKA合作。基本上我是在该公司市值约1.8亿美元时发现的，有趣的是它如此容易打破这么多供应链？感觉像是世界上最重要的公司之一。但这些下游瓶颈导致材料收入/营业利润增长微乎其微。只是因为日本文化不想提价。我仍在做大量研究，像SIVE或NCI这样的公司对我来说更有趣，只是想看看这个兔子洞有多深。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076248337863639506",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (307950) / integration\n- Hyundai Mobis (012330) / actuators\n\nAs for humanoid volume ramps: \n\nThey're modeling for, 11.29K in 2028, 20k 2029, 30k in 2030... 40k in 2031, and 50k in 2032. \n\nNot quite sure why IBK and other institutions are a fan of linearly modeling S-curve volume ramps... \n\nLike adding +10K per year, don't quite think it's volume ramp is going to work like that... if I had to guess it would look more like: \n\n- 15-20k 2028\n- 40k-70k 2029\n- 90k-140k for 2030\n\nSince Boston Dynamics is projecting 30k capacity by 2028 (I'm sure they'd aim to get more online by 2029-2030), as China collectively is already doing 100k EOY in 2026.  \n\nIn terms of competitive landscape they name:\n\n- $TSLA, Figure, Apptronik, $CCXI (Agility), as US  players. Then Boston Dynamics (Korea parent owned now)\n- Unitree, Fourier, AGibot, UBtech, $XPEV as the Chinese leaders. \n- Neura, Pal Robotics, Wandercraft, Oversonic, as the EU leaders.  \n\nThey also did quite a lot of valuation modeling around Hyundai Mobis/Hyundai Autoever/Glovis. \n\nRegarding the BD economic ownership from 27.9% from Hyundai Motor, 11.3% from Mobis, and 11.3% from Glovis. So at least institution are valuing humanoid segments inside companies lot more now. \n\nThen from report assumptions:\n- 31 actuators per Atlas\n- $1K per actuator in 2028\n- $134K Atlas ASP,\n\nWhich implies actuator cost of final selling price is roughly 23–28%. \n\nProbably the more interesting statement was IBK stated that actuator capacity is biggest signal for volume ramp. eg. every 310,000 units of actuator capacity supports 10,000 more robots. \n\nSo tracking actuator outputs, yields, ASP is a cleaner read on 2028-2030 ramp.\n\nI didn't have much personal takeaways, but hopefully others find it interesting, maybe around Hwashin as a core supplier or around actuator capacity as an indicator.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2076248337863639506",
+    "published_at": "2026-07-12T10:12:33+00:00",
+    "fetched_at": "2026-07-13T20:52:18.725905+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "010690",
+        "373220",
+        "307950",
+        "012330",
+        "TSLA",
+        "CCXI",
+        "XPEV"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了IBK研究报告中关于波士顿动力人形机器人Atlas的供应链、产量预测及竞争格局，提及多家韩国和中国供应商，并认为执行器产能是判断量产爬坡的关键指标，整体对相关股票持乐观态度。",
+      "translation": "上个月有一份IBK关于波士顿动力价值链的研究报告。摘要如下：IBK将以下公司列为Atlas的供应商：Hwashin（车体、手臂、腿）、LG能源（电池）、现代Autoever（集成）、现代Mobis（执行器）。关于人形机器人量产爬坡：他们的模型预测2028年1.129万台，2029年2万台，2030年3万台，2031年4万台，2032年5万台。我不太明白为什么IBK和其他机构喜欢用线性模型来模拟S曲线爬坡……比如每年增加1万台，我不认为产量会这样增长……我猜测更像是：2028年1.5-2万台，2029年4-7万台，2030年9-14万台。因为波士顿动力计划2028年产能达到3万台（他们肯定会在2029-2030年争取更多），而中国整体在2026年年底就能达到10万台。竞争格局方面，他们提到了：$TSLA、Figure、Apptronik、$CCXI（Agility）作为美国玩家，波士顿动力（现由韩国母公司所有）；Unitree、Fourier、AGibot、UBtech、$XPEV作为中国领先企业；Neura、Pal Robotics、Wandercraft、Oversonic作为欧盟领先企业。他们还对现代Mobis、现代Autoever、Glovis做了大量估值建模。关于BD的经济股权：现代汽车占27.9%，Mobis占11.3%，Glovis占11.3%。所以机构现在更看重公司内部的人形机器人板块。报告假设：每台Atlas有31个执行器，2028年每个执行器1000美元，Atlas售价13.4万美元。这意味着执行器成本占最终售价的23-28%。更有趣的是，IBK指出执行器产能是量产爬坡的最大信号，例如每31万个执行器产能支持1万台机器人。因此，跟踪执行器产量、良率、单价是判断2028-2030年爬坡的清晰指标。我个人没有太多收获，但希望其他人觉得有趣，特别是关于Hwashin作为核心供应商或执行器产能作为指标。",
+      "confidence": "high"
     }
   },
   {
