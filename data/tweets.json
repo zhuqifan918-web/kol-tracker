@@ -60,6 +60,38 @@
     }
   },
   {
+    "tweet_id": "2076467953995071881",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL.\n\n- PCB supply shortages are projected to persist until 2028, and component shortages/price hikes are already forcing ODMs like Inventec to issue  conservative H2 shipment\n\n- DeepSeek and Zhipu are developing custom ASICs to bypass $NVDA (kinda expected by now). \n\n- Anthropic has achieved a $30B ARR and is projected to hit >$1B in Q3 profit. Turns out these frontier labs are more profitable than people think. \n\n- US admin pressured $AAPL to source from $INTC, in exchange for tariff exception. Kinda pressuring alignment away from TSM.  \n\n- $TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC)  capacity by 2028, growing from 500 to 25,000 wafers per month\n\n- Hanmi Semiconductor is entering the CoWoS packaging equipment market\n\n- $NVDA and NTT hosting a conference July 24th to discuss CPO strategies. \n\n- 5x general NAND flash price hike this year, market size $489B by next year triggered by RAG/inference. Samsung and SK Hynix make emergency fab investments, NAND equipment suppliers go brrrr.  \n\n- Gas turbine bottleneck, 40% supply gap accompanied by staggering 5-year delivery cycles (mega-fabs need them for mass production).\n\n- AI probe card assembly has hit a severe bottleneck apparently. Which is attempted to by solved with things like Innovation Service's machines. \n\n- Nanya, 79.5% gross margins reported, memory go brr. 4x capex for capacity/advanced packaging. \n\n- CXMT's STAR Market IPO on July 16, so should bring a lot of attention to memory players in that supply chain. \n\n- KYEC $1.4B investment into US for $TSM Arizona output test facilities. Lot of these players like $AMKR and others should go brr in 2028.\n\n- $INTC CEO warned last month that helium could hinder the manufacturing costs and delivery times of AI chips\n\n- 3D NAND word lines are shifting from Tungsten to Molybdenum starting at the 375-layer node\n\n- SambaNova secured JPM for AI inference and raised $1B at an $11B valuation.\n\n- HBM prices projections to double in 2027 as $NVDA Rubin platform drives demand.\n\n- $MU provides $500 million in funding to support GlobalWafers' US manufacturing capacity \n\n- $META 'Iris' will enter mass production in September  via $AVGO and TSMC and Meta aims to double computing power to 14GW by 2027.\n\n- Largan Precision has secured its first CPO FAU order, mass production slated for middle of next year (kinda indication around Foci and others). \n\n- Samsung and SK Hynix have delayed the implementation of hybrid bonding packaging technology for HBM4 apparently \n\n- Memory costs (DRAM/NAND) have reached 60% of the BOM for sub-$400 smartphones, causing a severe volume contraction.\n\n- SK Hynix successfully rasied $26.5 billion through a Nasdaq ADR\n\n- $TSLA issued procurement guidelines requiring suppliers to reach weekly production of 1,000 units by September and double to 2,000-2,500 by year end for its 3rd gen Optimus robot. Apparently Alliance Technology and A-Link may be in this supply chain harmonic reducers and vision lenses?\n\nKinda go through all this stuff every day, but don't wanna be a news reporter so just consolidated stuff I found interesting.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2076467953995071881",
+    "published_at": "2026-07-13T00:45:13+00:00",
+    "fetched_at": "2026-07-13T10:50:10.882369+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLW",
+        "SPCX",
+        "NVDA",
+        "AAPL",
+        "INTC",
+        "TSM",
+        "MU",
+        "META",
+        "AVGO",
+        "TSLA",
+        "AMKR",
+        "FOCI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文汇总了多个领域的投资机会，包括光通信（GLW、FOCI）、AI芯片（NVDA、DeepSeek）、存储（NAND、HBM）、半导体设备（TSM、Hanmi）、智能机器人（TSLA）等，整体偏向看涨，但需注意供应链瓶颈和价格波动风险。",
+      "translation": "以下是关于市场动态的半周回顾：$GLW的玻璃桥接技术被摩根士丹利看好，但短期内难以取代FAU（如FOCI）；$SPCX的星链Gen3规模扩大至10万台，可能造成交换机供应商产能瓶颈；PCB供应短缺预计持续到2028年，组件短缺导致ODM如Inventec下调下半年出货预期；DeepSeek和智谱正在开发定制ASIC以绕过$NVDA；Anthropic实现$300亿ARR，Q3利润预计超$10亿；美国施压$AAPL使用$INTC芯片以换取关税豁免；$TSM计划2028年前将光子集成电路产能扩大30倍；韩美半导体进入CoWoS封装设备市场；$NVDA和NTT于7月24日举办CPO策略会议；NAND闪存价格今年上涨5倍，市场规模明年达$4890亿；燃气轮机供应缺口40%，交付周期长达5年；AI探针卡组装出现严重瓶颈；南亚科技毛利率79.5%，资本支出增加4倍；长鑫存储7月16日科创板IPO；京元电子投资$14亿为台积电亚利桑那厂提供测试服务；$INTC CEO警告氦气可能影响AI芯片制造成本；3D NAND字线从钨转向钼；SambaNova获摩根大通AI推理订单，融资$10亿估值$110亿；HBM价格预计2027年翻倍；$MU向环球晶圆提供$5亿资助；$META的“Iris”9月量产，目标2027年计算能力翻倍至14GW；大立光获首批CPO FAU订单；三星和SK海力士推迟HBM4混合键合技术；DRAM/NAND占低价手机BOM的60%；SK海力士通过ADR融资$265亿；$TSLA要求供应商9月前每周生产1000台Optimus机器人，年底翻倍；可能涉及谐波减速器和视觉镜头的供应商。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076426625336606868",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
