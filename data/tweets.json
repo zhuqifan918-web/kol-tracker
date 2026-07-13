@@ -1,5 +1,65 @@
 [
   {
+    "tweet_id": "2076523396859654146",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: One of my favorite ways to use @unusual_whales is combining Gamma Heat Zones, net premium imbalances, options flow, daily gamma, and absolute gamma to build a complete setup.\n\nIn my latest recap, I break down two real setups from the week:\n$NVDA — bullish net premium and gamma setup\n• Multiple spikes in net call premium\n• Positive gamma stacked above spot\n• Absolute gamma at 200 acting as the strongest magnet and pin\n• Price moved roughly +7.9% at the high of the week\n\n$NCLH — bullish gamma setup\n• Heavy positive gamma above spot\n• Absolute gamma above price\n• Flow confirmation\n• Tracked over a two-week window\n\nThe whole idea is simple:\nPrice can often gravitate toward heavy gamma levels, while large net premium gaps may fill over time as price and positioning reconnect.\n\nThese are not automatic trade signals. The real edge comes from combining the data with flow, price structure, expirations, and risk management.\n\nFull recap:\nhttps://t.co/vVd2kU9YVw\n\nSave 10% on your @unusual_whales annual or monthly subscription using my link below:\nhttps://t.co/xNtvfoxDAN",
+    "tweet_url": "https://x.com/unusual_whales/status/2076523396859654146",
+    "published_at": "2026-07-13T04:25:32+00:00",
+    "fetched_at": "2026-07-13T04:30:56.704907+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "NCLH"
+      ],
+      "direction": "bullish",
+      "summary": "推文介绍了使用Unusual Whales工具分析$NVDA和$NCLH的看涨伽马设置，包括净溢价不平衡、绝对伽马等指标，并指出价格倾向于向伽马水平靠拢。该分析提供了具体的交易思路，但强调需要结合其他因素进行风险管理。",
+      "translation": "RT @AnthonySandford：我最喜欢使用@unusual_whales的方式之一，是将伽马热区、净溢价不平衡、期权流、日伽马和绝对伽马结合起来，构建完整的交易设置。在我最新的回顾中，我分解了本周的两个真实设置：$NVDA——看涨的净溢价和伽马设置。• 多次净看涨溢价飙升。• 正伽马堆积在现货上方。• 绝对伽马在200处充当最强磁铁和支点。• 价格周内最高上涨约7.9%。$NCLH——看涨伽马设置。• 现货上方大量正伽马。• 绝对伽马高于价格。• 流量确认。• 追踪了两周窗口。整体思路很简单：价格往往会被吸引到强伽马水平附近，而大的净溢价缺口可能随着价格和头寸重新连接而随时间填补。这些并不是自动的交易信号。真正的优势来自于将数据与流量、价格结构、到期日和风险管理相结合。完整回顾：https://t.co/vVd2kU9YVw。使用我的链接（下方）订阅@unusual_whales年度或月度会员，可享10%折扣：https://t.co/xNtvfoxDAN",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076504161500405765",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: AI tools are only useful when they actually help you understand the data better.\n\nThat is how I look at Mr. Whale inside @unusual_whales.\n\nIn this beginner friendly walkthrough, I show how I use the AI dashboard to help with:\n• Finding options flow\n• Breaking down ticker activity\n• Reading Market Tide\n• Building better prompts\n• Studying Periscope and gamma screenshots\n• Looking at earnings and implied moves\n• Learning how to navigate the platform\n\nThe goal is not blindly asking AI for a trade.\nThe goal is using it as another tool to help you work through the data faster and understand what you are looking at.\n\nWatch here:\nhttps://t.co/sBwlnEOIzh\n\nIf you want access to Mr. Whale, live Flow Feed, Market Tide, Market Map, Periscope and more, you can save 10% on your @unusual_whales annual or monthly subscription here:\nhttps://t.co/xNtvfox5Lf",
+    "tweet_url": "https://x.com/unusual_whales/status/2076504161500405765",
+    "published_at": "2026-07-13T03:09:06+00:00",
+    "fetched_at": "2026-07-13T04:31:00.591733+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文推广了@unusual_whales平台的AI工具“Mr. Whale”，强调其能帮助用户更快分析数据、发现期权流、解读市场趋势等，但未提供具体投资方向或建议，因此方向为空。",
+      "translation": "RT @AnthonySandford：AI工具只有在真正帮助你更好地理解数据时才有用。\n\n这也是我看待@unusual_whales中Mr. Whale的方式。\n\n在这个面向初学者的演练中，我展示了如何使用AI仪表板来帮助：\n• 发现期权流\n• 分析股票活动\n• 解读市场潮汐\n• 构建更好的提示词\n• 研究Periscope和伽马截图\n• 查看盈利和隐含波动\n• 学习如何导航平台\n\n目标不是盲目问AI要交易。\n目标是将其作为另一个工具，帮助你更快地处理数据并理解你所看到的内容。\n\n在此观看：\nhttps://t.co/sBwlnEOIzh\n\n如果您想访问Mr. Whale、实时Flow Feed、Market Tide、Market Map、Periscope等，您可以在@unusual_whales年度或月度订阅上节省10%：\nhttps://t.co/xNtvfox5Lf",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2076487023159062620",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: We have just launched a free trial of the Unusual Whales API. \n\nThe Unusual Whales API gives full access to live options, equities, prediction market data, and much more.    \n\nCheck it out here: https://t.co/JWOGQSKf9Y https://t.co/MbiQ02Kt3b",
+    "tweet_url": "https://x.com/unusual_whales/status/2076487023159062620",
+    "published_at": "2026-07-13T02:01:00+00:00",
+    "fetched_at": "2026-07-13T04:31:03.277505+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文宣布推出Unusual Whales API的免费试用版，该API提供实时期权、股票、预测市场等数据访问。对于关注期权和股票数据的投资者来说，这是一个获取工具的信息，但本身不构成投资建议或方向性判断。",
+      "translation": "突发消息：我们刚刚推出了Unusual Whales API的免费试用版。Unusual Whales API提供对实时期权、股票、预测市场数据等的完全访问。立即查看：https://t.co/JWOGQSKf9Y https://t.co/MbiQ02Kt3b",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076426625336606868",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
