@@ -25,47 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "LMT",
-      "NVDA",
-      "SKHY",
-      "MU"
+      "$META",
+      "$NVDA",
+      "$LMT",
+      "$MSFT",
+      "$AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "结合伽马热区、净权利金失衡、期权流与技术分析构建完整交易框架",
-      "AI工具与数据平台（如Unusual Whales）辅助期权交易决策",
-      "跟踪政客交易披露（如特朗普）与地缘政治事件影响"
+      "人工智能投资与风险",
+      "地缘政治不确定性（伊朗、特朗普政策）",
+      "宏观经济与就业市场疲软",
+      "期权市场数据与工具",
+      "科技股主导但成本压力显现"
     ],
-    "recent_shift": "近期从侧重技术工具与期权流教育转向更多关注地缘政治事件（伊朗局势、特朗普交易）及宏观市场数据（就业、房价、通胀）的分享。",
+    "recent_shift": "近期从整体看多转向强调数据依赖和风险对冲，更多关注地缘政治与价值股机会。",
     "representative_quotes": [
-      "Political trading posts get shared everywhere. But most of the time, people only see the headline. The @unusual_whales Political Trading Dashboard lets you actually dig into the data behind those disclosures.",
-      "This $BRKB trade is one of my favorite @unusual_whales examples because it shows what a complete flow story can actually look like. Not one screenshot. Not one alert. The entire progression.",
-      "We just changed the options game. Now, ask Mr Whale to help you navigate the options flow. It can create the filters you want, help determine unusual flow, and so much more."
+      "Tech feels like the only game in town.",
+      "AI costs more than the people it replaced, per Forbes.",
+      "Price can often gravitate toward heavy gamma levels, while large net premium gaps may fill over time as price and positioning reconnect."
     ],
-    "generated_at": "2026-07-13T07:49:17.560984+00:00"
+    "generated_at": "2026-07-13T13:13:02.407405+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$GLW",
+      "#海力士",
       "$MU",
       "$NVDA",
-      "$AMAT",
-      "$LRCX"
+      "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI产业链持续增长，存储和半导体设备需求旺盛",
-      "玻璃基板和光纤技术是下一代AI芯片的关键",
-      "可回收火箭和商业航天带来全球物流变革",
-      "AI的安全漏洞和隐私保护问题日益突出"
+      "存储芯片（海力士、美光）的长期增长与HBM需求",
+      "玻璃基板与光纤龙头康宁（$GLW）的垄断性机会",
+      "AI基础设施投资泡沫但长期乐观",
+      "半导体设备（$LRCX、$AMAT）受益于存储扩产",
+      "韩国股市波动带来的抄底机会"
     ],
-    "recent_shift": "近期观点从短期投机转向长期持有，强调仓位管理和风险控制，避免杠杆带来的风险。",
+    "recent_shift": "近期从热衷2x杠杆ETF转为重仓正股海力士和康宁，强调去杠杆和风险管理。",
     "representative_quotes": [
-      "存储起来，说明ai未来光明，其他概念才有机会，才值得抄底",
-      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
-      "活下去才有机会，仓位管理比买对啥更重要"
+      "康宁 $GLW 最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达 $NVDA 给康宁的定心丸。",
+      "存储的地位一年内都难以改变，安心等海力士7月23号发的1300亿美金的季度利润财报。",
+      "海力士正股没有杠杆，跌成这逼样只能装死了。正股今天都回撤2m太几把惨。"
     ],
-    "generated_at": "2026-07-12T07:39:50.824685+00:00"
+    "generated_at": "2026-07-13T13:12:59.966683+00:00"
   }
 }

@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2076652110867988580",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jim Cramer: Tech feels like the only game in town.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076652110867988580",
+    "published_at": "2026-07-13T12:57:00+00:00",
+    "fetched_at": "2026-07-13T13:12:39.593444+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "Jim Cramer认为科技股是当前市场唯一值得关注的领域，暗示对科技板块持乐观态度。",
+      "translation": "吉姆·克莱默：科技感觉像是唯一的游戏。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076631978137567628",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Netflix, $NFLX, is considering adding always-on TV channels, like ones that play shows or movies from the same genre, per NYMag",
+    "tweet_url": "https://x.com/unusual_whales/status/2076631978137567628",
+    "published_at": "2026-07-13T11:37:00+00:00",
+    "fetched_at": "2026-07-13T13:12:44.605086+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NFLX"
+      ],
+      "direction": "neutral",
+      "summary": "Netflix考虑添加常开电视频道功能，属于业务拓展，但缺乏具体财务细节，不构成明确投资信号。",
+      "translation": "Netflix，$NFLX，正在考虑增加常开电视频道，比如那些播放相同类型节目或电影的电视频道，根据NYMag",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2076621911757615463",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "TSMC, the world’s largest contract chipmaker, reports 68% surge in June revenue, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2076621911757615463",
+    "published_at": "2026-07-13T10:57:00+00:00",
+    "fetched_at": "2026-07-13T13:12:47.288876+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "台积电（TSMC）6月营收同比增长68%，远高于预期，显示芯片需求强劲。该消息利好台积电及整个半导体板块，投资者可关注相关行业ETF。",
+      "translation": "全球最大芯片代工商台积电，据CNBC报道，6月营收激增68%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076585478808281292",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "过去一个月利润最高50%全还回去，\n还倒贴13%，棒子是真该死呐，一群精神病。 https://t.co/IOyoplHXcN",
+    "tweet_url": "https://x.com/xiaomustock/status/2076585478808281292",
+    "published_at": "2026-07-13T08:32:13+00:00",
+    "fetched_at": "2026-07-13T13:12:23.888212+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "用户抱怨过去一个月利润回吐并亏损13%，表达了对市场或具体品种（棒子？）的强烈看空情绪。",
+      "translation": "过去一个月利润最高50%全还回去，还倒贴13%，棒子是真该死呐，一群精神病。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076523396859654146",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -593,6 +673,27 @@
       "summary": "推文看好韩国K-beauty行业的结构性增长，认为出口规模接近150亿美元，ODM企业营业利润率达30%以上，兼具技术与品牌动量。强调在半导体周期等待期间，K-beauty的钱流不可忽视，业绩验证后市场将再次震荡向上。",
       "translation": "在大量投资半导体的同时，K-beauty又爆发了。一季度净利润暴增41%，预示下半年将成为龙头股。出口规模正迈向150亿美元时代，以美国和欧洲的基础品类为中心实现结构性增长。ODM领域杠杆作用明显的企业营业利润率达到30%以上，说明这不只是简单的消费品，而是技术与品牌动量的结合。等待半导体周期期间，这边的资金流也不可忽视。一旦业绩确认，市场将再次震荡。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2075873886185697351",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我觉得只要客户能证明不是自己操作的，平台就该赔，不然我为什么放你这。\n如果是支付宝ai换脸，手持验证钱被盗了支付宝赔不赔？\n@Gate  你是真牛逼你不赔？没操作所有安全项都开了钱都能丢我钱为什么放你这，有啥安全保障？ https://t.co/XB5fp4Y12h",
+    "tweet_url": "https://x.com/xiaomustock/status/2075873886185697351",
+    "published_at": "2026-07-11T09:24:36+00:00",
+    "fetched_at": "2026-07-13T13:12:30.344816+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GATE"
+      ],
+      "direction": "bearish",
+      "summary": "用户投诉Gate平台安全漏洞导致资金丢失，对平台安全性和赔付责任提出质疑，暗示投资者应警惕类似风险。",
+      "translation": "I think as long as the customer can prove it wasn't their operation, the platform should compensate, otherwise why would I keep my money with you? If Alipay's AI face-swapping or hand-verification leads to money being stolen, will Alipay compensate? @Gate, are you really that awesome? You won't compensate? With all security measures enabled and no operations done, my money still disappeared. Why should I keep my money with you? What security guarantees do you have? https://t.co/XB5fp4Y12h",
+      "confidence": "medium"
     }
   },
   {
