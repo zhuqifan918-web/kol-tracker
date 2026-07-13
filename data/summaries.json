@@ -26,24 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "$META",
-      "$NVDA",
       "$LMT",
-      "$SPCX",
+      "$NFLX",
+      "$MSFT",
       "$AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与能源安全",
-      "人工智能与科技股主导地位",
-      "政府合同与国防支出"
+      "AI与科技投资",
+      "伊朗地缘政治风险",
+      "期权流与伽马交易策略"
     ],
-    "recent_shift": "近期从关注伊朗-美国对峙带来的能源波动，转向更多聚焦于AI与半导体行业的长期机遇。",
+    "recent_shift": "近期增加对伊朗危机和政经因素的关注，但对科技股长期偏向不变",
     "representative_quotes": [
-      "Iran's Revolutionary Guards Spokesperson: By interfering in the Strait of Hormuz, the US seriously jeopardized the security of global oil and gas supplies.",
+      "Meta, $META, says it will spend more than $40 billion on Louisiana data center.",
       "Jim Cramer: Tech feels like the only game in town.",
-      "BREAKING: Trump administration lifts restrictions on OpenAI's GPT 5.6, per Axios"
+      "Trump: We will make things safer for oil. Oil will be very free, very easy, very fast"
     ],
-    "generated_at": "2026-07-13T16:03:59.888725+00:00"
+    "generated_at": "2026-07-13T18:16:29.143779+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
