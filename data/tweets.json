@@ -136,6 +136,25 @@
     }
   },
   {
+    "tweet_id": "2076381326601572485",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US entry-level job market is at its weakest in 37 years, with the share of unemployed new entrants hitting 13.3%, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2076381326601572485",
+    "published_at": "2026-07-12T19:01:00+00:00",
+    "fetched_at": "2026-07-13T07:49:09.672899+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国入门级就业市场为37年来最疲软，失业新毕业生比例达13.3%，可能预示经济放缓，对整体市场情绪偏空，影响消费和投资信心。",
+      "translation": "美国入门级就业市场处于37年来的最弱水平，新进入者的失业率达到了13.3%，据YF报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076366227052916849",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
