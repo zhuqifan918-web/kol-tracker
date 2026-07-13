@@ -1,5 +1,121 @@
 [
   {
+    "tweet_id": "2076727608172298647",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Iran: US-Iran memorandum of understanding in ‘crisis phase'.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076727608172298647",
+    "published_at": "2026-07-13T17:57:00+00:00",
+    "fetched_at": "2026-07-13T18:15:52.328200+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗与美国谅解备忘录陷入危机，可能引发地缘政治紧张，对风险资产如股市和加密货币构成利空影响。",
+      "translation": "快讯：伊朗：美国-伊朗谅解备忘录进入‘危机阶段’。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076722575141487071",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, says it will spend more than $40 billion on Louisiana data center.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076722575141487071",
+    "published_at": "2026-07-13T17:37:00+00:00",
+    "fetched_at": "2026-07-13T18:15:54.106526+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "Meta宣布将花费超过400亿美元在路易斯安那州建设数据中心，这一大规模资本支出表明公司对人工智能和云计算业务的长期看好，可能推动其未来增长，对股价构成正面影响。",
+      "translation": "Meta（$META）表示将花费超过400亿美元在路易斯安那州建设数据中心。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076713515696714210",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says the US is reinstaing the Iranian blockade.\n\nAxios says it hasn't come into effect yet, due to a legal requirement to notify ship owners 24 hours in advance",
+    "tweet_url": "https://x.com/unusual_whales/status/2076713515696714210",
+    "published_at": "2026-07-13T17:01:00+00:00",
+    "fetched_at": "2026-07-13T18:15:57.786395+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国重启伊朗封锁可能推高全球油价，利好能源板块如石油公司及ETF。",
+      "translation": "突发：特朗普称美国将重新实施伊朗封锁。Axios报道称该措施尚未生效，因需提前24小时通知船东。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076704796728574122",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says the Hormuz Strait is OPEN and will remain OPEN, with or without Iran.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076704796728574122",
+    "published_at": "2026-07-13T16:26:21+00:00",
+    "fetched_at": "2026-07-13T18:16:00.715327+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普宣布霍尔木兹海峡保持开放，降低中东地缘政治风险，利好全球石油供应稳定和油价下行，间接利好能源消费类及运输类股票。",
+      "translation": "突发：特朗普表示霍尔木兹海峡是开放的，并将保持开放，无论有没有伊朗。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076702114768924745",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Trump says the US charges a 20% fee on all cargo shipped through the Strait of Hormuz",
+    "tweet_url": "https://x.com/unusual_whales/status/2076702114768924745",
+    "published_at": "2026-07-13T16:15:42+00:00",
+    "fetched_at": "2026-07-13T18:16:02.457344+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普宣布对通过霍尔木兹海峡的货物加征20%费用，这可能导致全球运输成本上升，尤其是石油和货物运输，对航运、能源和相关市场构成利空。投资者需关注油价波动及地缘政治风险。",
+      "translation": "最新消息：特朗普表示美国对通过霍尔木兹海峡的所有货物收取20%的费用。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076697157688574463",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NEWS: Trump: May see a governmental shutdown in September if filibuster does not end.",
+    "tweet_url": "https://x.com/unusual_whales/status/2076697157688574463",
+    "published_at": "2026-07-13T15:56:00+00:00",
+    "fetched_at": "2026-07-13T18:16:03.860996+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普言论暗示政府可能停摆，可能引发市场不确定性，利空风险资产。",
+      "translation": "新闻：特朗普：如果阻挠议事不能结束，9月可能会看到政府停摆。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076682309777096939",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -78,6 +194,25 @@
     }
   },
   {
+    "tweet_id": "2076656075072286814",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales live trading show WhaleWatch is live now!\n\nStarting pre-market prep: join below for open interest changes and flow requests:\n\nhttps://t.co/eJe1bs0tIJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2076656075072286814",
+    "published_at": "2026-07-13T13:12:45+00:00",
+    "fetched_at": "2026-07-13T18:16:10.585708+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广了一个关注期权市场未平仓合约变化和资金流动的直播节目，适合短线交易者参考。",
+      "translation": "最新消息：Unusual Whales的实盘交易节目WhaleWatch正在直播！从盘前准备开始：加入下方链接，了解未平仓合约变化和资金流请求：https://t.co/eJe1bs0tIJ",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076652110867988580",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -93,6 +228,25 @@
       "direction": "bullish",
       "summary": "Jim Cramer认为科技股是当前市场唯一值得关注的领域，暗示对科技板块持乐观态度。",
       "translation": "吉姆·克莱默：科技感觉像是唯一的游戏。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076647077749329997",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "New satellite imagery reveals Iran may be rebuilding suspected nuclear facilities, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2076647077749329997",
+    "published_at": "2026-07-13T12:37:00+00:00",
+    "fetched_at": "2026-07-13T18:16:13.420111+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该消息表明伊朗可能重启核设施建设，地缘政治风险上升，可能引发原油价格波动和避险情绪，对风险资产构成压力。",
+      "translation": "据CNN报道，新的卫星图像显示伊朗可能正在重建疑似核设施。",
       "confidence": "medium"
     }
   },
