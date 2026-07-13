@@ -2,48 +2,50 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
-      "$CCXI",
       "$NVDA",
+      "$META",
       "$LITE",
-      "$AAOI"
+      "$CCXI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/CPO供应链瓶颈",
-      "人形机器人商业化与美中竞争",
-      "AI基础设施与记忆体涨价",
-      "上游半导体材料自主可控",
-      "供应短缺驱动的估值重构"
+      "光子学/CPO供应链瓶颈与多架构需求",
+      "人形机器人/物理AI商业化与美中竞争",
+      "存储芯片涨价与产能紧缺",
+      "AI基础设施持续大规模资本开支",
+      "上游材料/设备瓶颈与稀有资源"
     ],
-    "recent_shift": "从早期广泛讨论多个主题转向高度聚焦光子学上游和机器人整机，并对媒体负面叙事导致的市场过度反应形成强烈逆势交易认知",
+    "recent_shift": "近期更强调CPO延迟非基本面问题，且关注机器人整机商及美国本土供应链，同时对市场恐慌性抛售持逆势看多态度。",
     "representative_quotes": [
-      "I personally think $SIVE can be the next $LITE. In the past few months alone, we've seen... partnerships with O-Net pushing ELS into mass production... $JBL 1.6T LRO mass production signals... $GFS SCALE reference level laser for hyperscalers...",
-      "Retail thinks a 30-60% drop is a 'falling knife' where bagholders will never recover... I see it as long term ownership over the next hyperscaler with $NBIS, 40% of the InP supply chain with $AXTI, leader of the next optical shift with $SIVE...",
-      "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA. Quantum barely has any revenue. $LITE is completely sold out for the next 2 years... $COHR is bottlenecked... All the CW capacity from independent players... are likely to become scarce resources."
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
+      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
+      "It's clear to me and VC apparently that we’ve just hit the inflection point where soon: majority of labor you think is human-only, can be replaced by robotics/humanoids."
     ],
-    "generated_at": "2026-07-13T10:50:55.688078+00:00"
+    "generated_at": "2026-07-13T19:56:58.919419+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$SKHY",
       "$META",
       "$LMT",
       "$NFLX",
-      "$MSFT",
-      "$AAPL"
+      "$MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技投资",
-      "伊朗地缘政治风险",
-      "期权流与伽马交易策略"
+      "地缘政治风险升高（霍尔木兹海峡、伊朗核设施）",
+      "科技巨头资本支出扩张（AI建设、数据中心）",
+      "宏观经济不确定性（失业、房市、通胀）",
+      "期权交易与数据处理工具创新",
+      "传统能源与新能源长期博弈"
     ],
-    "recent_shift": "近期增加对伊朗危机和政经因素的关注，但对科技股长期偏向不变",
+    "recent_shift": "近期更加强调地缘政治事件（如霍尔木兹海峡封锁、伊朗导弹）对油市和军工股的直接影响，此前偏向科技股和流动性格局分析。",
     "representative_quotes": [
-      "Meta, $META, says it will spend more than $40 billion on Louisiana data center.",
+      "Trump: maybe we'll do some things that could increase the oil price.",
       "Jim Cramer: Tech feels like the only game in town.",
-      "Trump: We will make things safer for oil. Oil will be very free, very easy, very fast"
+      "Meta plans to start manufacturing an AI chip from September as part of its plan to boost overall computing power to 14 gigawatts next year, per Reuters"
     ],
-    "generated_at": "2026-07-13T18:16:29.143779+00:00"
+    "generated_at": "2026-07-13T19:56:55.216171+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

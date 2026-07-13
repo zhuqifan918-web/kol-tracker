@@ -1,5 +1,54 @@
 [
   {
+    "tweet_id": "2076748688559587338",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Morgan Stanley note on CPO today. Key participants include:\n\n- $SIVE, $COHR, and $LITE in laser supply\n- Broadcom and Nvidia in switch platforms\n- Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, \n- $TSM, $GFS, and $TSEM in silicon photonics foundry capacity\n\nI’ve covered all of these before, like Tower Semi. \n\nBut I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO.\n\nA small $1.5B laser company next to your two leading $60B+ companies…\n\nIf you also synthesize Rosenblatt Securities recent note that China laser suppliers were quite far from having CPO lasers.\n\nThis kinda magnifies importance of the three Western leaders of that laser chokepoint.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+    "published_at": "2026-07-13T19:20:46+00:00",
+    "fetched_at": "2026-07-13T19:56:04.964004+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "COHR",
+        "LITE",
+        "TSM",
+        "GFS",
+        "TSEM"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调摩根士丹利对共封装光学（CPO）领域的报告，特别指出$SIVE在激光供应中的关键作用，并认为西方三大激光供应商（SIVE、COHR、LITE）构成行业瓶颈，具有投资价值。",
+      "translation": "摩根士丹利今日关于CPO的纪要。关键参与者包括：激光供应领域的$SIVE、$COHR和$LITE；交换平台的博通和英伟达；光学引擎和光子学的Lightmatter、Ayar Labs、Marvell/Celestial及POET；硅光子代工产能的$TSM、$GFS和$TSEM。我之前都覆盖过，比如Tower Semi。但我特别高兴摩根士丹利验证了我的研究，即$SIVE是CPO全球关键参与者之一。一家15亿美元的小型激光公司，毗邻两家600亿美元以上的领先公司……如果你再结合Rosenblatt Securities最近的报告——中国激光供应商远未达到CPO激光的水平。这就进一步凸显了西方三大激光供应商作为这一瓶颈的重要性。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076748522771329404",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "TRADERS WATCH OUT FOR THIS COMING TOMORROW MORNING\n\nThe Leveraged and Inverse single stock ETFs on SK Hynix $SKHY stock will begin trading tomorrow at 4AM ET ... here are the tickers to watch out for:\n\n$SKHX - 2x Long SK Hynix ETF\n$SKHZ - 1x Short SK Hynix ETF https://t.co/LcW3PnqD9V",
+    "tweet_url": "https://x.com/unusual_whales/status/2076748522771329404",
+    "published_at": "2026-07-13T19:20:06+00:00",
+    "fetched_at": "2026-07-13T19:56:34.500767+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHY",
+        "SKHX",
+        "SKHZ"
+      ],
+      "direction": "neutral",
+      "summary": "推文提醒交易者关注明日即将推出的SK海力士单股杠杆和反向ETF，包括2倍做多ETF $SKHX和1倍做空ETF $SKHZ，但未给出明确买卖建议。",
+      "translation": "交易者们注意了，明天早上将会有新的杠杆和反向单股ETF在SK海力士股票上开始交易，时间为东部时间凌晨4点。以下是需要关注的代码：$SKHX - 2倍做多SK海力士ETF；$SKHZ - 1倍做空SK海力士ETF。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076727608172298647",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -55,6 +104,27 @@
       "direction": "bullish",
       "summary": "美国重启伊朗封锁可能推高全球油价，利好能源板块如石油公司及ETF。",
       "translation": "突发：特朗普称美国将重新实施伊朗封锁。Axios报道称该措施尚未生效，因需提前24小时通知船东。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076705839365378110",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "I challenged the MSFT Excel World Champion to a battle.\n\nAI beat humans at Chess, then Go. But those are games\n\nWe built an agent to surpass humans on the most important app in the history of work\n\nMeet Shortcut: The Excel AI Agent\n\nComment SATYA and I'll send you free credits",
+    "tweet_url": "https://x.com/unusual_whales/status/2076705839365378110",
+    "published_at": "2026-07-13T16:30:30+00:00",
+    "fetched_at": "2026-07-13T19:56:42.726210+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "推文展示了微软Excel的AI代理功能，暗示微软在办公软件领域的技术创新和竞争力提升，对MSFT构成利好。",
+      "translation": "我向微软Excel世界冠军发起了挑战。AI在象棋和围棋上击败了人类，但这些只是游戏。我们构建了一个代理，在工作史上最重要的应用上超越人类。认识Shortcut：Excel AI代理。评论SATYA，我会赠送你免费积分。",
       "confidence": "medium"
     }
   },
@@ -132,6 +202,25 @@
       "summary": "该推文暗示地缘政治紧张局势可能扰乱霍尔木兹海峡的石油和天然气供应，利空能源市场，投资者需警惕油价波动风险。",
       "translation": "伊朗革命卫队发言人：美国干涉霍尔木兹海峡，严重危及全球石油和天然气供应的安全。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076677528337691068",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Dubai plans new port to bypass the Strait of Hormuz, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2076677528337691068",
+    "published_at": "2026-07-13T14:38:00+00:00",
+    "fetched_at": "2026-07-13T19:56:48.547772+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "迪拜计划建设新港口以绕过霍尔木兹海峡，这有助于减少中东石油运输的瓶颈风险，对全球能源供应链安全和相关基础设施建设公司可能构成长期利好。",
+      "translation": "刚刚：据金融时报报道，迪拜计划建设新港口以绕过霍尔木兹海峡。",
+      "confidence": "medium"
     }
   },
   {
