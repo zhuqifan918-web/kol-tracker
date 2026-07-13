@@ -28,24 +28,22 @@
       "$META",
       "$NVDA",
       "$LMT",
-      "$MSFT",
+      "$SPCX",
       "$AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能投资与风险",
-      "地缘政治不确定性（伊朗、特朗普政策）",
-      "宏观经济与就业市场疲软",
-      "期权市场数据与工具",
-      "科技股主导但成本压力显现"
+      "地缘政治风险与能源安全",
+      "人工智能与科技股主导地位",
+      "政府合同与国防支出"
     ],
-    "recent_shift": "近期从整体看多转向强调数据依赖和风险对冲，更多关注地缘政治与价值股机会。",
+    "recent_shift": "近期从关注伊朗-美国对峙带来的能源波动，转向更多聚焦于AI与半导体行业的长期机遇。",
     "representative_quotes": [
-      "Tech feels like the only game in town.",
-      "AI costs more than the people it replaced, per Forbes.",
-      "Price can often gravitate toward heavy gamma levels, while large net premium gaps may fill over time as price and positioning reconnect."
+      "Iran's Revolutionary Guards Spokesperson: By interfering in the Strait of Hormuz, the US seriously jeopardized the security of global oil and gas supplies.",
+      "Jim Cramer: Tech feels like the only game in town.",
+      "BREAKING: Trump administration lifts restrictions on OpenAI's GPT 5.6, per Axios"
     ],
-    "generated_at": "2026-07-13T13:13:02.407405+00:00"
+    "generated_at": "2026-07-13T16:03:59.888725+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
