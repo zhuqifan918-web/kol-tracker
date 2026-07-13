@@ -38,6 +38,25 @@
     }
   },
   {
+    "tweet_id": "2076396426234306561",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump personally earned more from crypto than every publicly traded US crypto company: https://t.co/I0uEbrTHlT",
+    "tweet_url": "https://x.com/unusual_whales/status/2076396426234306561",
+    "published_at": "2026-07-12T20:01:00+00:00",
+    "fetched_at": "2026-07-13T00:59:42.468514+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出特朗普个人在加密货币上的收益超过了所有美国上市加密公司，暗示政治人物与加密货币行业的深度关联及潜在监管影响。",
+      "translation": "特朗普个人从加密货币中赚取的收益超过了每一家美国上市加密公司。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076390260238602369",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
