@@ -27,42 +27,46 @@
       "META",
       "AAPL",
       "LMT",
-      "SPCX"
+      "IBM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与海峡航运",
-      "科技巨头与AI军备竞赛",
-      "半导体供应链与存算需求"
+      "市场恐慌与波动加剧",
+      "地缘政治风险与能源安全",
+      "科技公司裁员与AI影响",
+      "国防开支与军工机会",
+      "通胀降温与经济失衡"
     ],
-    "recent_shift": "近期对海峡局势和AI监管的担忧升温，但科技股和半导体板块依然受到关注。",
+    "recent_shift": "近期观点从关注科技股和地缘局势转向强调市场恐慌性抛售和经济失衡风险。",
     "representative_quotes": [
-      "BREAKING: Trump says the US is reinstating the Iranian blockade.",
-      "SK Hynix CEO: Memory chip shortage may persist past 2030",
-      "Fed's Warsh: Job creation has kept pace with the workforce. The unemployment rate is low and has changed little over the past year."
+      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap.",
+      "Holy. Look at this. Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
+      "The stock market and economy seem out of sync."
     ],
-    "generated_at": "2026-07-14T17:04:18.064002+00:00"
+    "generated_at": "2026-07-14T18:36:25.239051+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
-      "GLW",
-      "NVDA",
-      "MU",
-      "ASX"
+      "$SKHYX",
+      "$GLW",
+      "$MU",
+      "$NVDA",
+      "$ASX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（海力士、美光）作为AI基础设施核心，需求将因视频数据暴增而大幅增长",
-      "康宁（GLW）有望在玻璃基板和光互连领域受益于英伟达扩产，长期市值看涨",
-      "AI发展仍早期，物理AI和智能体需海量存储和设备，行业泡沫在AGI到来前不会破"
+      "存储芯片需求爆发与HBM溢价",
+      "物理AI推动存储和算力需求",
+      "康宁玻璃基板与英伟达扩产",
+      "杠杆风险与仓位管理",
+      "AI基建早期与巨头垄断"
     ],
-    "recent_shift": "近期从专注存储（海力士）转向康宁（GLW），认为其扩产10倍对应业绩10倍增长，长期确定性更高，并接受短期波动。",
+    "recent_shift": "近期态度从关注存储反弹转变为更坚定看好AI长期需求，认为短期波动是入场机会，并强调康宁的确定性高于存储。",
     "representative_quotes": [
-      "如果物理AI能突破，处理的资料都是视频资料…存储的需求量是天量…要坚信你的存储。",
-      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
-      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
+      "AI能干的事情过去2年，慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。",
+      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
+      "要么早信要么坚决不信，先信卖后信。"
     ],
-    "generated_at": "2026-07-14T17:04:15.018974+00:00"
+    "generated_at": "2026-07-14T18:36:22.303264+00:00"
   }
 }
