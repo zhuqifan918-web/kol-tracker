@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2076876646037307471",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "克服恐惧的最好办法就是面对恐惧，\n海力士不行，整个AI产业链都在一起崩。\n刚抄了南海2x，成本51.5。\n甭管什么Ai几把概念，都是和存储一荣俱荣 https://t.co/AcCG2Xr7xK",
+    "tweet_url": "https://x.com/xiaomustock/status/2076876646037307471",
+    "published_at": "2026-07-14T03:49:13+00:00",
+    "fetched_at": "2026-07-14T04:24:51.025018+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NANHAI2X"
+      ],
+      "direction": "bullish",
+      "summary": "用户认为AI产业链与存储芯片紧密相关，海力士的走势影响整个板块。他抄底了南海2x（成本51.5），表达了对存储芯片和AI概念的看涨态度。",
+      "translation": "The best way to overcome fear is to face it. If Hynix fails, the entire AI industry chain collapses together. I just bottom-fished Nanhai 2x at a cost of 51.5. Regardless of any AI concepts, they all rise and fall with memory chips.",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076871790325051547",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "71% chance there is a Fed rate hike in 2026, per Polymarket: https://t.co/65J9Yq1g64",
+    "tweet_url": "https://x.com/unusual_whales/status/2076871790325051547",
+    "published_at": "2026-07-14T03:29:55+00:00",
+    "fetched_at": "2026-07-14T04:25:05.323396+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用Polymarket数据，显示市场预期2026年美联储加息概率为71%。这属于宏观货币政策预期，虽不直接涉及具体资产，但对利率敏感的股票和债券市场有潜在影响。",
+      "translation": "根据Polymarket，2026年美联储加息的可能性为71%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076846994614792663",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So Jensen himself went out to do damage control with $NVDA delays reports apparently:\n\n1. Jensen Huang said no delays: \n\n- 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. \n\n- Debunked the rumor that the next-generation flagship, Rubin Ultra, would be delayed until 2028 and said it would be on track to ship next year\n\n- Rack system optimizations, like replacing Kyber with a new design are architectural optimizations, not impacting delivery timelines.\n\n2. On ASIC competition: no loss of market share.\n\n- Talked about how a leading frontier lab that previously relied heavily on internal ASICs has shifted nearly 50% of its compute load to Nvidia\n\n3. On over-reliance on hyperscalers.\n\n- AI frontier labs currently contributing to ~20% of demand.\n- Traditional cloud providers, Nvidia provides Vera CPUs and high-speed networking\n- Sovereign AI",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2076846994614792663",
+    "published_at": "2026-07-14T01:51:24+00:00",
+    "fetched_at": "2026-07-14T04:24:41.173564+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "黄仁勋亲自辟谣NVDA延迟传闻，确认产品按计划推进，ASIC竞争未导致份额流失，且需求来源多元化（包括前沿实验室和主权AI）。整体利好，消除市场担忧。",
+      "translation": "Jensen本人亲自出面进行危机公关，回应NVDA延迟报告：1. 否认延迟：800V和机架到机架光互连按原计划推进无重大延迟；辟谣Rubin Ultra推迟至2028年，称其明年按计划出货；机架系统优化属于架构调整，不影响交付时间。2. 关于ASIC竞争：未失去市场份额，提到某前沿实验室从内部ASIC转向将约50%计算负载交给Nvidia。3. 关于过度依赖超大规模云厂商：前沿实验室贡献约20%需求；传统云提供商方面，Nvidia提供Vera CPU和高速网络；主权AI也构成需求。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076841861193343212",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Home prices have risen for 36 straight months.\n\nRead more: https://t.co/CgOY82eIsZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2076841861193343212",
+    "published_at": "2026-07-14T01:31:00+00:00",
+    "fetched_at": "2026-07-14T04:25:15.637018+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出房价连续36个月上涨，表明房地产投资市场持续看涨，可能带动相关板块和ETF的投资机会。",
+      "translation": "房价已经连续上涨了36个月。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076833556295467052",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
