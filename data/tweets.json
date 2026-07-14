@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2077128751637221572",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "DeepSeek is said to be preparing for an IPO filing as soon as this year, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2077128751637221572",
+    "published_at": "2026-07-14T20:31:00+00:00",
+    "fetched_at": "2026-07-14T21:28:33.341438+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "DeepSeek计划今年IPO，可能为投资者带来新的投资机会，属于积极信号。但缺乏具体定价和时间细节，需持续关注。",
+      "translation": "据彭博社报道，DeepSeek据说正在准备最快于今年提交IPO申请。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077123703226413448",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "未来各大巨头搞物理AI的军备竞赛的时候，\n他们绝对的需求量不是gpu，cpu，\n只有存储。\n存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。\n未来俩年内会看到这个观点和变化。",
+    "tweet_url": "https://x.com/xiaomustock/status/2077123703226413448",
+    "published_at": "2026-07-14T20:10:56+00:00",
+    "fetched_at": "2026-07-14T21:28:22.451889+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者认为未来科技巨头在物理AI领域的军备竞赛中，存储需求将远超GPU和CPU，因为音频数据规模巨大，存储量决定训练数据量。看好存储相关投资机会。",
+      "translation": "未来各大巨头搞物理AI的军备竞赛的时候，他们绝对的需求量不是gpu，cpu，只有存储。存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。未来俩年内会看到这个观点和变化。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077116270483529769",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
