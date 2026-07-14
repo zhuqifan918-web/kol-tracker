@@ -24,47 +24,48 @@
   "unusual_whales": {
     "focus_tickers": [
       "$SKHY",
-      "$SKHX",
-      "$NVDA",
       "$META",
+      "$NVDA",
+      "$AAPL",
       "$LCID"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治与市场风险",
-      "股指ETF与期权新工具",
-      "行业巨头动态与业绩"
+      "地缘政治风险加剧（伊朗、霍尔木兹海峡）",
+      "科技股分化与AI泡沫担忧",
+      "消费与就业市场疲软信号",
+      "防御性行业（国防、稳定币）受关注",
+      "期权流动与伽马交易策略"
     ],
-    "recent_shift": "近期更关注SK Hynix相关ETF上市和伊朗局势变化。",
+    "recent_shift": "近期观点从关注科技股机遇转向警惕地缘冲突和通胀数据回落带来的市场不确定性，同时强调IPO与做空工具（如SK Hynix ETF）的新机会。",
     "representative_quotes": [
-      "This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap.",
-      "Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
-      "The stock market and economy seem out of sync."
+      "Holy. Look at this. Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
+      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today.",
+      "Iran will consider all of Elon Musk's companies in the Middle East, including SpaceX's Starlink internet service, as military targets."
     ],
-    "generated_at": "2026-07-14T20:05:44.879954+00:00"
+    "generated_at": "2026-07-14T21:28:53.823759+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SKHYX",
-      "$GLW",
-      "$MU",
-      "$NVDA",
-      "$ASX"
+      "SKHYX",
+      "GLW",
+      "MU",
+      "ASX",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求爆发与HBM溢价",
-      "物理AI推动存储和算力需求",
-      "康宁玻璃基板与英伟达扩产",
-      "杠杆风险与仓位管理",
-      "AI基建早期与巨头垄断"
+      "存储芯片结构性需求爆发，尤其物理AI三维数据推动需求百倍增长",
+      "康宁玻璃基板在下一代AI芯片中具有垄断地位，业绩确定性高",
+      "AI基建尚处早期，大厂资本开支持续投入，存储涨价周期未结束",
+      "韩国股市高波动性下杠杆风险巨大，需严控仓位"
     ],
-    "recent_shift": "近期态度从关注存储反弹转变为更坚定看好AI长期需求，认为短期波动是入场机会，并强调康宁的确定性高于存储。",
+    "recent_shift": "近期观点从前期的极端乐观（海力士目标价看极高）转为更均衡，强调仓位管理和正股持仓，减少杠杆依赖，并重视康宁等新标的的长期价值。",
     "representative_quotes": [
-      "AI能干的事情过去2年，慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。",
       "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
-      "要么早信要么坚决不信，先信卖后信。"
+      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
+      "要么早信要么坚决不信，先信卖后信，每次下撤暴跌亏惨的要么是信最晚的，相当于49年入国军。"
     ],
-    "generated_at": "2026-07-14T18:36:22.303264+00:00"
+    "generated_at": "2026-07-14T21:28:50.191082+00:00"
   }
 }
