@@ -24,47 +24,49 @@
   "unusual_whales": {
     "focus_tickers": [
       "META",
+      "SKHX",
       "SKHY",
       "LMT",
-      "MSFT",
-      "AAPL"
+      "SPCX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与伊朗冲突升级",
-      "人工智能与科技投资持续扩张",
-      "劳动力市场与宏观经济分化",
-      "能源与海峡通道博弈",
-      "期权交易与数据驱动策略"
+      "AI基建与芯片投资",
+      "地缘冲突与国防开支",
+      "美联储政策与通胀博弈",
+      "宏观分化与避险情绪",
+      "创新金融工具与杠杆ETF"
     ],
-    "recent_shift": "近期关注点从宏观经济不确定性转向地缘政治危机，尤其是伊朗局势和海峡封锁，同时强调人工智能和科技投资趋势。",
+    "recent_shift": "早期偏乐观解读内幕交易与AI爆发，后期转为警惕就业疲软、地缘升级及市场脱节。",
     "representative_quotes": [
-      "The stock market and economy seem out of sync",
-      "56% chance Strait of Hormuz traffic returns to normal by December, 31",
-      "71% chance there is a Fed rate hike in 2026"
+      "Fed's Warsh: Job creation has kept pace with the workforce... Solid growth in nominal wages.",
+      "BREAKING: US CPI YoY: 3.5%, forecast: 3.8%, previous: 4.2%",
+      "Trump said war has restarted with Iran.",
+      "Meta plans to start manufacturing an AI chip from September...",
+      "The stock market and economy seem out of sync, per CNBC"
     ],
-    "generated_at": "2026-07-14T12:06:08.461307+00:00"
+    "generated_at": "2026-07-14T14:22:34.410277+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK Hynix",
+      "海力士",
       "GLW",
+      "ASX",
       "MU",
-      "NVDA",
-      "AMAT"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片长期供需紧张",
-      "AI基建与物理AI",
-      "康宁玻璃基板替代"
+      "存储芯片与AI产业链的波动性及长期机会",
+      "康宁玻璃基板与光学互连的垄断地位",
+      "AI基建的早期阶段与资本支出需求"
     ],
-    "recent_shift": "近期观点从恐慌抄底转向看涨反弹，聚焦存储和康宁的长期确定性。",
+    "recent_shift": "最初对存储反弹持乐观态度，并在7月14日抄底南海2x，但随后显示账户被盗的愤怒，以及强调仓位管理和低杠杆的重要性。",
     "representative_quotes": [
-      "存储起来，说明ai未来光明，其他概念才有机会。",
-      "克服恐惧的最好办法就是面对恐惧，海力士不行，整个AI产业链都在一起崩。",
-      "康宁在玻璃这一块有无与伦比的话语权。"
+      "克服恐惧的最好办法就是面对恐惧，海力士不行，整个AI产业链都在一起崩。刚抄了南海2x，成本51.5。",
+      "康宁 $GLW 在玻璃这一块有无与伦比的话语权。",
+      "要么早信要么坚决不信，先信卖后信。"
     ],
-    "generated_at": "2026-07-14T10:48:53.546519+00:00"
+    "generated_at": "2026-07-14T14:22:31.015824+00:00"
   }
 }
