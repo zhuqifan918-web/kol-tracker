@@ -25,48 +25,44 @@
     "focus_tickers": [
       "SKHY",
       "META",
-      "SPCX",
+      "AAPL",
       "LMT",
-      "SKHX"
+      "SPCX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与伊朗冲突",
-      "人工智能对就业与市场的双重影响",
-      "半导体与芯片行业扩张",
-      "通胀与利率预期博弈",
-      "能源与基础设施投资转变"
+      "地缘政治风险与海峡航运",
+      "科技巨头与AI军备竞赛",
+      "半导体供应链与存算需求"
     ],
-    "recent_shift": "近期关于伊朗和Strait of Hormuz的冲突加剧，推高了军工和能源板块的关注度，同时通胀数据超预期缓解了部分市场担忧。",
+    "recent_shift": "近期对海峡局势和AI监管的担忧升温，但科技股和半导体板块依然受到关注。",
     "representative_quotes": [
-      "The stock market and economy seem out of sync",
-      "BREAKING: US CPI YoY: 3.5%, forecast: 3.8%, previous: 4.2%",
-      "BREAKING: Trump notified Congress that the US is in a new war with Iran"
+      "BREAKING: Trump says the US is reinstating the Iranian blockade.",
+      "SK Hynix CEO: Memory chip shortage may persist past 2030",
+      "Fed's Warsh: Job creation has kept pace with the workforce. The unemployment rate is low and has changed little over the past year."
     ],
-    "generated_at": "2026-07-14T15:55:49.897276+00:00"
+    "generated_at": "2026-07-14T17:04:18.064002+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SKHYX",
-      "$GLW",
-      "$MU",
-      "$ASX",
-      "$NVDA"
+      "SKHYX",
+      "GLW",
+      "NVDA",
+      "MU",
+      "ASX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI存储需求爆发",
-      "物理AI视频数据驱动存储量级百倍增长",
-      "康宁玻璃基板与光互连作为下一代AI底座",
-      "存储扩产周期与供需缺口",
-      "高杠杆风险与仓位管理"
+      "存储芯片（海力士、美光）作为AI基础设施核心，需求将因视频数据暴增而大幅增长",
+      "康宁（GLW）有望在玻璃基板和光互连领域受益于英伟达扩产，长期市值看涨",
+      "AI发展仍早期，物理AI和智能体需海量存储和设备，行业泡沫在AGI到来前不会破"
     ],
-    "recent_shift": "近期从聚焦海力士正股转向康宁和日月光，并强调存储为AI核心基石，同时提醒杠杆风险，但整体看多立场未变。",
+    "recent_shift": "近期从专注存储（海力士）转向康宁（GLW），认为其扩产10倍对应业绩10倍增长，长期确定性更高，并接受短期波动。",
     "representative_quotes": [
-      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
-      "康宁 $GLW 简直是下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
-      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，好比49年入国军，溥仪下台入宫当太监。"
+      "如果物理AI能突破，处理的资料都是视频资料…存储的需求量是天量…要坚信你的存储。",
+      "康宁最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！",
+      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-07-14T15:55:43.818993+00:00"
+    "generated_at": "2026-07-14T17:04:15.018974+00:00"
   }
 }

@@ -1,5 +1,105 @@
 [
   {
+    "tweet_id": "2077069863617503373",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, has received a rare bearish rating as KeyBanc downgraded the stock to underweight, citing concerns over both demand and valuation",
+    "tweet_url": "https://x.com/unusual_whales/status/2077069863617503373",
+    "published_at": "2026-07-14T16:37:00+00:00",
+    "fetched_at": "2026-07-14T17:03:29.415192+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "KeyBanc将苹果股票评级下调至低配，罕见看空，原因是需求与估值担忧。",
+      "translation": "苹果公司（$AAPL）获得了罕见的看跌评级，KeyBanc将股票评级下调至低配，理由是需求和估值方面的担忧。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077067346838159763",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has walked back threats to charge a 20 percent fee on all cargo ships that pass through the Strait of Hormuz, per POLITICO",
+    "tweet_url": "https://x.com/unusual_whales/status/2077067346838159763",
+    "published_at": "2026-07-14T16:27:00+00:00",
+    "fetched_at": "2026-07-14T17:03:31.606513+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普撤销对霍尔木兹海峡航运征收20%费用的威胁，这可能缓解中东航运紧张局势，对原油运输成本及能源市场产生潜在利空影响，但未直接涉及具体投资标的。",
+      "translation": "突发：据政客媒体报道，特朗普已收回对所有通过霍尔木兹海峡货船征收20%费用的威胁。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077065422822904063",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "盈透证券支持了稳定币的充提。 https://t.co/iTycyG0FVb",
+    "tweet_url": "https://x.com/xiaomustock/status/2077065422822904063",
+    "published_at": "2026-07-14T16:19:21+00:00",
+    "fetched_at": "2026-07-14T17:03:15.269504+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "盈透证券宣布支持稳定币充值和提现，这标志着主流金融机构进一步接纳加密货币，对加密市场是积极信号。",
+      "translation": "盈透证券支持了稳定币的充提。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077064830490378570",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Inflation had its biggest monthly decline in six years,\" per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2077064830490378570",
+    "published_at": "2026-07-14T16:17:00+00:00",
+    "fetched_at": "2026-07-14T17:03:33.364558+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "通胀出现六年来最大月度降幅，可能缓解加息压力，对股市构成利好。",
+      "translation": "据CNBC报道，通胀出现了六年来最大的月度降幅。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077059797128769564",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Samsung is exploring a potential US share sale after rival chipmaker SK Hynix's blockbuster listing last week, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2077059797128769564",
+    "published_at": "2026-07-14T15:57:00+00:00",
+    "fetched_at": "2026-07-14T17:03:35.361019+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Samsung",
+        "SK Hynix"
+      ],
+      "direction": "neutral",
+      "summary": "三星考虑在美上市，继竞争对手SK海力士上市后，此消息可能影响半导体板块投资情绪。需关注三星上市细节及市场反应。",
+      "translation": "突发：据彭博社报道，三星正在探索在美上市的可能性，此前其竞争对手芯片制造商SK海力士上周进行了大规模上市。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077055927786885527",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -185,6 +285,25 @@
       "summary": "SK海力士2倍做多ETF（SKHX）刚上市两分钟即成交18万股，显示市场对该基金及SK海力士前景强烈看好，资金涌入迅速。",
       "translation": "2倍做多SK海力士的SKHX刚刚开始交易，开盘两分钟内已成交18万股。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077014498754584577",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US sent out $49.1 billion in tariff refunds in June to businesses, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2077014498754584577",
+    "published_at": "2026-07-14T12:57:00+00:00",
+    "fetched_at": "2026-07-14T17:03:40.715022+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国6月发放491亿美元关税退款，显示政府对企业补贴增加，可能刺激经济活动和股市利好。",
+      "translation": "突发：据YF报道，美国6月向企业发放了491亿美元的关税退款。",
+      "confidence": "medium"
     }
   },
   {
