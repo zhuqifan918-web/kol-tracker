@@ -2,73 +2,71 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
-      "$LITE",
-      "$COHR",
-      "$AAOI",
-      "$NVDA"
+      "$NVDA",
+      "$CCXI",
+      "$META",
+      "$LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信与CPO供应链瓶颈",
-      "人形机器人产业加速",
-      "AI算力军备竞赛",
-      "材料与设备国产化替代",
-      "记忆体与NAND供需紧张"
+      "光子学/CPO供应链瓶颈与长期增长",
+      "美国与中国在人形机器人领域的竞争",
+      "AI基建（Neocloud、存储器、光学）的结构性需求"
     ],
-    "recent_shift": "从原先聚焦光通信和记忆体供应瓶颈，近期更关注人形机器人商业化进展和CPO技术进展，并强调光通信板块被低估。",
+    "recent_shift": "近期市场恐慌性抛售（如Meta算力新闻、CPO延迟谣言）被视为错杀，认为基本面未变，反而是加仓良机。",
     "representative_quotes": [
-      "Prob most important takeaway as a whole was 800G demand revision (also longer tail demand). Which is a bullish read through on US transceiver makers like $AAOI, $COHR, $LITE.",
       "I personally think $SIVE can be the next $LITE.",
-      "It's hard to see a world where US AI hyperscaler capex drops dramatically... when China entities like 360 go and claim they have a 'AI cyber nuclear weapon'."
+      "Obviously overall ASIC market goes up, but many of these challengers feel like they’re taking on more hyperscaler-adjacent projects.",
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
     ],
-    "generated_at": "2026-07-13T23:43:50.349611+00:00"
+    "generated_at": "2026-07-14T04:25:43.614017+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "LMT",
-      "SKHY",
-      "MSFT",
-      "BRKB"
+      "$META",
+      "$LMT",
+      "$SKHY",
+      "$NVDA",
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "科技股投资机会",
-      "AI与自动化影响",
-      "地缘政治风险",
-      "期权波动策略",
-      "劳动力市场疲软"
+      "美伊冲突升级与能源安全",
+      "AI与科技投资周期",
+      "宏观紧缩与衰退风险",
+      "军工与政府合同受益",
+      "期权流与伽玛交易策略"
     ],
-    "recent_shift": "近期观点更偏向地缘政治紧张局势和宏观经济不确定性，相较于早期对科技股的乐观情绪有所下降。",
+    "recent_shift": "近期从关注科技公司（Meta、台积电等）的积极扩张，转向强调地缘政治风险、能源封锁和军工板块的突发机会。",
     "representative_quotes": [
-      "Jim Cramer: Tech feels like the only game in town.",
-      "BREAKING: Trump says the US is reinstaing the Iranian blockade.",
-      "Iran's Revolutionary Guards Spokesperson: By interfering in the Strait of Hormuz, the US seriously jeopardized the security of global oil and gas supplies."
+      "Trump said war has restarted with Iran.",
+      "The average US home is now more unaffordable to the average American than at any point in history.",
+      "AI remains top reason for US job cuts for third straight month."
     ],
-    "generated_at": "2026-07-14T01:28:03.048013+00:00"
+    "generated_at": "2026-07-14T04:25:40.289405+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "#海力士",
-      "$MU",
-      "$NVDA",
-      "$AMAT"
+      "海力士",
+      "康宁",
+      "美光",
+      "英伟达",
+      "应用材料"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（海力士、美光）的长期增长与HBM需求",
-      "玻璃基板与光纤龙头康宁（$GLW）的垄断性机会",
-      "AI基础设施投资泡沫但长期乐观",
-      "半导体设备（$LRCX、$AMAT）受益于存储扩产",
-      "韩国股市波动带来的抄底机会"
+      "AI存储产业链持续看好，海力士为核心持仓",
+      "康宁玻璃基板与光纤技术为下一代AI底座，长期持有看10倍收益",
+      "警惕高杠杆风险，强调仓位管理与正股持仓的稳定性",
+      "关注AI泡沫但认为AGI未到来前泡沫难破",
+      "市场波动中寻找确定性机会，如芯片设备与封测环节"
     ],
-    "recent_shift": "近期从热衷2x杠杆ETF转为重仓正股海力士和康宁，强调去杠杆和风险管理。",
+    "recent_shift": "近期从杠杆ETF转向正股持有，增加康宁和日月光仓位，强调仓位管理与风险控制，对市场短期情绪波动表示担忧但仍坚持长期看多AI核心标的。",
     "representative_quotes": [
-      "康宁 $GLW 最大的魅力在于未来的确定性。英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达 $NVDA 给康宁的定心丸。",
-      "存储的地位一年内都难以改变，安心等海力士7月23号发的1300亿美金的季度利润财报。",
-      "海力士正股没有杠杆，跌成这逼样只能装死了。正股今天都回撤2m太几把惨。"
+      "存储不起来，其他所有概念都别想起来。",
+      "康宁玻璃基板未来将完全决定英伟达产能，扩产10倍对应业绩10倍。",
+      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
     ],
-    "generated_at": "2026-07-13T13:12:59.966683+00:00"
+    "generated_at": "2026-07-14T04:25:37.119447+00:00"
   }
 }
