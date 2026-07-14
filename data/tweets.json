@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2076902928359755987",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩国看来是要从向下熔断\n变成接下来向上熔断 https://t.co/btNUvdK7cJ",
+    "tweet_url": "https://x.com/xiaomustock/status/2076902928359755987",
+    "published_at": "2026-07-14T05:33:39+00:00",
+    "fetched_at": "2026-07-14T06:32:30.495001+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文认为韩国市场可能从下行熔断转为上行熔断，暗示市场情绪可能逆转，可能出现强劲反弹。",
+      "translation": "韩国看来是要从向下熔断变成接下来向上熔断。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076889799848591595",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "51.5抄到大底了艹她妈的，\n南海2x海力士午盘开了估计也是爆拉。\n哪有小孩天天哭。 https://t.co/SHvQgg657O",
+    "tweet_url": "https://x.com/xiaomustock/status/2076889799848591595",
+    "published_at": "2026-07-14T04:41:29+00:00",
+    "fetched_at": "2026-07-14T06:32:33.792564+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者在51.5价位买入，认为这是大底，并预期海力士相关标的会暴涨，情绪乐观。",
+      "translation": "51.5抄到底了，妈的，南海2x海力士午盘开了估计也是暴涨。哪有小孩天天哭。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076886212716134783",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "后面只希望存储反弹一波整体稳住撸一发，\n存储稳住别的概念才有机会。\n找未来还有10倍以上营收增长预期的标，\n2x这种短撸一下没毛病，长拿命就没了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2076886212716134783",
+    "published_at": "2026-07-14T04:27:14+00:00",
+    "fetched_at": "2026-07-14T06:32:36.127767+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者认为存储板块有望迎来反弹，应在反弹中稳住，为其他概念创造机会。建议寻找未来营收增长预期超过10倍的标的，短期操作可做2x杠杆，但长期持有风险高，不建议长拿。",
+      "translation": "后面只希望存储反弹一波整体稳住撸一发，存储稳住别的概念才有机会。找未来还有10倍以上营收增长预期的标，2x这种短撸一下没毛病，长拿命就没了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076878854799675593",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Costco deliberately pays hourly workers well above the retail average, driving turnover down to roughly 7 to 8 percent a year versus an industry average near 60 percent.\n\nRead more: https://t.co/becVVBJiWc",
+    "tweet_url": "https://x.com/unusual_whales/status/2076878854799675593",
+    "published_at": "2026-07-14T03:58:00+00:00",
+    "fetched_at": "2026-07-14T06:32:49.715254+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "COST"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调Costco通过高于行业平均的薪资策略将员工流动率降低至7-8%，远低于行业60%的水平，这有助于提升运营效率和客户体验，对Costco股价构成积极因素。",
+      "translation": "Costco故意将小时工的薪酬支付得远高于零售业平均水平，从而将员工流动率降至每年约7%到8%，而行业平均水平接近60%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076876646037307471",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
