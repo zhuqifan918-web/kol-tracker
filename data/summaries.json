@@ -23,50 +23,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$LMT",
-      "$SKHY",
-      "$NVDA",
-      "$AAPL"
+      "META",
+      "META",
+      "NONE"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "美伊冲突升级与能源安全",
-      "AI与科技投资周期",
-      "宏观紧缩与衰退风险",
-      "军工与政府合同受益",
-      "期权流与伽玛交易策略"
+      "地缘政治风险与伊朗冲突升级",
+      "美联储利率政策与宏观经济展望",
+      "AI技术与芯片行业扩张",
+      "房地产与就业市场疲软",
+      "期权策略与市场工具推广"
     ],
-    "recent_shift": "近期从关注科技公司（Meta、台积电等）的积极扩张，转向强调地缘政治风险、能源封锁和军工板块的突发机会。",
+    "recent_shift": "近期更多关注地缘冲突对市场的影响，以及AI和芯片股的持续热度，前期较少提及伊朗局势。",
     "representative_quotes": [
+      "71% chance there is a Fed rate hike in 2026, per Polymarket",
       "Trump said war has restarted with Iran.",
-      "The average US home is now more unaffordable to the average American than at any point in history.",
-      "AI remains top reason for US job cuts for third straight month."
+      "Home prices have risen for 36 straight months."
     ],
-    "generated_at": "2026-07-14T04:25:40.289405+00:00"
+    "generated_at": "2026-07-14T06:33:21.676651+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "海力士",
-      "康宁",
-      "美光",
-      "英伟达",
-      "应用材料"
+      "$GLW",
+      "#海力士",
+      "$MU",
+      "$NVDA",
+      "$ASX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI存储产业链持续看好，海力士为核心持仓",
-      "康宁玻璃基板与光纤技术为下一代AI底座，长期持有看10倍收益",
-      "警惕高杠杆风险，强调仓位管理与正股持仓的稳定性",
-      "关注AI泡沫但认为AGI未到来前泡沫难破",
-      "市场波动中寻找确定性机会，如芯片设备与封测环节"
+      "存储芯片供需紧张与AI基建早期",
+      "康宁玻璃基板为下一代AI芯片唯一解决方案",
+      "AI泡沫未到破裂时点需等待AGI",
+      "大市值科技股趋势确定性强",
+      "杠杆风险巨大需谨慎管理仓位"
     ],
-    "recent_shift": "近期从杠杆ETF转向正股持有，增加康宁和日月光仓位，强调仓位管理与风险控制，对市场短期情绪波动表示担忧但仍坚持长期看多AI核心标的。",
+    "recent_shift": "前期大幅回撤后仓位从高度集中海力士正股转向分散配置康宁和日月光，并放弃2x杠杆ETF以避免杠杆风险。",
     "representative_quotes": [
-      "存储不起来，其他所有概念都别想起来。",
-      "康宁玻璃基板未来将完全决定英伟达产能，扩产10倍对应业绩10倍。",
-      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。"
+      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
+      "这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力，而且他们几乎不会随意操作，会拿非常久。",
+      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。所有的脏活累活AI机器人干，所有复杂耗时的脑力活动AI干，现在的agent还很弱智。"
     ],
-    "generated_at": "2026-07-14T04:25:37.119447+00:00"
+    "generated_at": "2026-07-14T06:33:26.113464+00:00"
   }
 }
