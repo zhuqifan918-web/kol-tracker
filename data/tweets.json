@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076989333010006484",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The stock market and economy seem out of sync,\" per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2076989333010006484",
+    "published_at": "2026-07-14T11:17:00+00:00",
+    "fetched_at": "2026-07-14T12:05:40.041430+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用CNBC观点，指出股市与实体经济走势分歧，暗示市场情绪与经济基本面脱节，可能预示波动或调整风险，但未给出明确方向性判断。",
+      "translation": "据CNBC报道，股市与实体经济似乎步调不一致。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076979266559131669",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -134,6 +153,25 @@
       "summary": "用户认为AI产业链与存储芯片紧密相关，海力士的走势影响整个板块。他抄底了南海2x（成本51.5），表达了对存储芯片和AI概念的看涨态度。",
       "translation": "The best way to overcome fear is to face it. If Hynix fails, the entire AI industry chain collapses together. I just bottom-fished Nanhai 2x at a cost of 51.5. Regardless of any AI concepts, they all rise and fall with memory chips.",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076875030508839375",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "56% chance Strait of Hormuz traffic returns to normal by December, 31, per Polymarket: https://t.co/s68kRj6pf9",
+    "tweet_url": "https://x.com/unusual_whales/status/2076875030508839375",
+    "published_at": "2026-07-14T03:42:48+00:00",
+    "fetched_at": "2026-07-14T12:05:45.027085+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用Polymarket概率数据，表明霍尔木兹海峡航运12月底前恢复正常可能性为56%，虽未直接提及具体资产，但该海峡的通行状况对全球石油供应和运输成本有重要影响，投资者需关注地缘政治风险对能源市场的潜在影响。",
+      "translation": "根据Polymarket数据，霍尔木兹海峡航运在12月31日前恢复正常概率为56%。",
+      "confidence": "medium"
     }
   },
   {
