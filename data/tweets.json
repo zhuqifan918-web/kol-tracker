@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2076833556295467052",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump said war has restarted with Iran.\n\nRead more: https://t.co/n1Gzrk6hx7",
+    "tweet_url": "https://x.com/unusual_whales/status/2076833556295467052",
+    "published_at": "2026-07-14T00:58:00+00:00",
+    "fetched_at": "2026-07-14T01:27:40.827111+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普称与伊朗冲突再起，地缘政治风险加剧，可能引发油价上涨、市场避险情绪升温，对风险资产构成压力。",
+      "translation": "特朗普表示与伊朗的战争已经重新开始。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2076808331453415674",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
