@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2077096539256692883",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This is not a meme stock.\n\nThis is $IBM, a multi billion dollar company.\n\nIt is down 28% today.\n\nIt lost billions in marketcap. https://t.co/kgstpDA7Z5",
+    "tweet_url": "https://x.com/unusual_whales/status/2077096539256692883",
+    "published_at": "2026-07-14T18:23:00+00:00",
+    "fetched_at": "2026-07-14T18:35:46.841535+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IBM"
+      ],
+      "direction": "bearish",
+      "summary": "IBM股价暴跌28%，市值蒸发数十亿美元，尽管公司并非meme股票，但市场反应强烈，投资者需警惕短期风险。",
+      "translation": "这不是一只meme股票。\n这是IBM，一家价值数十亿美元的公司。\n它今天下跌了28%。\n它损失了数十亿美元的市值。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077092512750068214",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Holy.\n\nLook at this.\n\nLucid, $LCID, is down 40% TODAY on bankruptcy news. https://t.co/NU3jAN7iGu",
+    "tweet_url": "https://x.com/unusual_whales/status/2077092512750068214",
+    "published_at": "2026-07-14T18:07:00+00:00",
+    "fetched_at": "2026-07-14T18:35:48.446069+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LCID"
+      ],
+      "direction": "bearish",
+      "summary": "Lucid（LCID）因破产消息今日暴跌40%，呈现强烈看跌信号，投资者需警惕相关风险。",
+      "translation": "天啊。看看这个。Lucid（$LCID）今天因破产消息暴跌40%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077079145587294555",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。",
+    "tweet_url": "https://x.com/xiaomustock/status/2077079145587294555",
+    "published_at": "2026-07-14T17:13:53+00:00",
+    "fetched_at": "2026-07-14T18:35:33.143562+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了A股和H股之间的溢价现象，指出当H股流通量仅为A股流通量的1/10或1/20时，若概念不错，通常会出现100%溢价。这是对市场规律的分析，不涉及具体投资建议。",
+      "translation": "另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077077950504259787",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "做海力士差价收敛的长期都会死，\n看看港股和a股有几个收敛的，\n差价100%都是常事。",
+    "tweet_url": "https://x.com/xiaomustock/status/2077077950504259787",
+    "published_at": "2026-07-14T17:09:08+00:00",
+    "fetched_at": "2026-07-14T18:35:35.240340+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出，做海力士（Hynix）差价收敛策略的长期投资者都会亏损，并引用港股和A股市场差价收敛失败的例子（差价常达100%），表达了对该策略的悲观态度。",
+      "translation": "做海力士差价收敛的长期都会死，看看港股和A股有几个收敛的，差价100%都是常事。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077069863617503373",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
