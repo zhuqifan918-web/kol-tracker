@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SKHY",
-      "META",
-      "AAPL",
-      "LMT",
-      "IBM"
+      "$SKHY",
+      "$SKHX",
+      "$NVDA",
+      "$META",
+      "$LCID"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "市场恐慌与波动加剧",
-      "地缘政治风险与能源安全",
-      "科技公司裁员与AI影响",
-      "国防开支与军工机会",
-      "通胀降温与经济失衡"
+      "地缘政治与市场风险",
+      "股指ETF与期权新工具",
+      "行业巨头动态与业绩"
     ],
-    "recent_shift": "近期观点从关注科技股和地缘局势转向强调市场恐慌性抛售和经济失衡风险。",
+    "recent_shift": "近期更关注SK Hynix相关ETF上市和伊朗局势变化。",
     "representative_quotes": [
-      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap.",
-      "Holy. Look at this. Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
+      "This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap.",
+      "Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
       "The stock market and economy seem out of sync."
     ],
-    "generated_at": "2026-07-14T18:36:25.239051+00:00"
+    "generated_at": "2026-07-14T20:05:44.879954+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
