@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "META",
-      "SKHY",
       "LMT",
-      "NFLX",
-      "AAPL"
+      "SKHY",
+      "MSFT",
+      "BRKB"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧",
-      "科技股依然强势但面临不确定性",
-      "就业市场疲软与AI替代",
-      "能源与航运紧张",
-      "可选消费与娱乐并购"
+      "科技股投资机会",
+      "AI与自动化影响",
+      "地缘政治风险",
+      "期权波动策略",
+      "劳动力市场疲软"
     ],
-    "recent_shift": "近期从关注科技股和期权交易转向更多聚焦地缘政治冲突及对市场的负面影响。",
+    "recent_shift": "近期观点更偏向地缘政治紧张局势和宏观经济不确定性，相较于早期对科技股的乐观情绪有所下降。",
     "representative_quotes": [
       "Jim Cramer: Tech feels like the only game in town.",
-      "Iran's Revolutionary Guards Spokesperson: By interfering in the Strait of Hormuz, the US seriously jeopardized the security of global oil and gas supplies.",
-      "BREAKING: The average US home is now more unaffordable to the average American than at any point in history, per CBS"
+      "BREAKING: Trump says the US is reinstaing the Iranian blockade.",
+      "Iran's Revolutionary Guards Spokesperson: By interfering in the Strait of Hormuz, the US seriously jeopardized the security of global oil and gas supplies."
     ],
-    "generated_at": "2026-07-13T22:45:33.650223+00:00"
+    "generated_at": "2026-07-14T01:28:03.048013+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
