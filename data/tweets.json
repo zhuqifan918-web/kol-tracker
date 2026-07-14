@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2077034632067907756",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Warsh: Job creation has kept pace with the workforce. The unemployment rate is low and has changed little over the past year. Seeing relatively few layoffs. Solid growth in nominal wages.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077034632067907756",
+    "published_at": "2026-07-14T14:17:00+00:00",
+    "fetched_at": "2026-07-14T14:21:43.415222+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美联储官员沃什评论劳动力市场稳定，失业率低且裁员少，工资稳健增长，这对股市是利好信号，暗示经济健康。",
+      "translation": "美联储的沃什表示：就业创造与劳动力增长保持同步。失业率很低，过去一年变化不大。裁员相对较少。名义工资稳健增长。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077031468795396177",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "2x Long SKY Hynix, $SKHX, has just begun trading and after 2 minutes into the market open, 180,000 shares of SKHX had already been traded",
+    "tweet_url": "https://x.com/unusual_whales/status/2077031468795396177",
+    "published_at": "2026-07-14T14:04:26+00:00",
+    "fetched_at": "2026-07-14T14:21:46.481117+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHX"
+      ],
+      "direction": "bullish",
+      "summary": "SK海力士2倍做多ETF（SKHX）刚上市两分钟即成交18万股，显示市场对该基金及SK海力士前景强烈看好，资金涌入迅速。",
+      "translation": "2倍做多SK海力士的SKHX刚刚开始交易，开盘两分钟内已成交18万股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077008363842658763",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US CPI YoY: 3.5%, forecast: 3.8%, previous: 4.2%",
+    "tweet_url": "https://x.com/unusual_whales/status/2077008363842658763",
+    "published_at": "2026-07-14T12:32:37+00:00",
+    "fetched_at": "2026-07-14T14:21:50.854792+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国CPI数据低于预期，通胀放缓，可能利好股市和风险资产。",
+      "translation": "突发：美国CPI同比3.5%，预期3.8%，前值4.2%",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077004433154621730",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US Representative John James filed a financial disclosure reporting the purchase of up to $50,000 in SpaceX, $SPCX, stock.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077004433154621730",
+    "published_at": "2026-07-14T12:17:00+00:00",
+    "fetched_at": "2026-07-14T14:21:52.577252+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "美国众议员约翰·詹姆斯披露购买了至多5万美元的SpaceX股票（代码SPCX），该消息本身未明确看涨或看跌，但议员购买行为可能被视为对公司的信心信号。",
+      "translation": "突发：美国众议员约翰·詹姆斯提交财务披露报告，显示其购买了至多5万美元的SpaceX股票（代码SPCX）。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2076989333010006484",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -735,6 +815,25 @@
       "direction": "bearish",
       "summary": "用户抱怨过去一个月利润回吐并亏损13%，表达了对市场或具体品种（棒子？）的强烈看空情绪。",
       "translation": "过去一个月利润最高50%全还回去，还倒贴13%，棒子是真该死呐，一群精神病。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076532128049992073",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这市场谁在赚钱啊，亏了整整一个月了 https://t.co/ZnX3MqibFd",
+    "tweet_url": "https://x.com/xiaomustock/status/2076532128049992073",
+    "published_at": "2026-07-13T05:00:14+00:00",
+    "fetched_at": "2026-07-14T14:21:36.297110+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文表达了投资者对市场持续亏损的沮丧情绪，暗示市场走势不佳，投资难度大。",
+      "translation": "这市场谁在赚钱啊，亏了整整一个月了",
       "confidence": "medium"
     }
   },
