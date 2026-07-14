@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SKHY",
-      "$META",
-      "$NVDA",
-      "$AAPL",
-      "$LCID"
+      "SKHY",
+      "META",
+      "AAPL",
+      "LMT",
+      "NVDA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治风险加剧（伊朗、霍尔木兹海峡）",
-      "科技股分化与AI泡沫担忧",
-      "消费与就业市场疲软信号",
-      "防御性行业（国防、稳定币）受关注",
-      "期权流动与伽马交易策略"
+      "AI芯片和数据中心投资热潮",
+      "地缘政治风险与能源博弈",
+      "宏观通胀与利率政策预期"
     ],
-    "recent_shift": "近期观点从关注科技股机遇转向警惕地缘冲突和通胀数据回落带来的市场不确定性，同时强调IPO与做空工具（如SK Hynix ETF）的新机会。",
+    "recent_shift": "从早期关注宏观数据转向重点推广自家产品功能和追踪SK Hynix等事件",
     "representative_quotes": [
+      "We believe that current revenue momentum should remain sustainable even if fuel prices moderate. The message to the Street: model higher fares as the new baseline.",
       "Holy. Look at this. Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
-      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today.",
-      "Iran will consider all of Elon Musk's companies in the Middle East, including SpaceX's Starlink internet service, as military targets."
+      "2x Long SKY Hynix, $SKHX, has just begun trading and after 2 minutes into the market open, 180,000 shares of SKHX had already been traded"
     ],
-    "generated_at": "2026-07-14T21:28:53.823759+00:00"
+    "generated_at": "2026-07-14T23:25:52.814716+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
