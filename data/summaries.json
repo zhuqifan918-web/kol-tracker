@@ -23,48 +23,46 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "META",
-      "NONE"
+      "$META",
+      "$LMT",
+      "$SKHY",
+      "$NFLX",
+      "$AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与伊朗冲突升级",
-      "美联储利率政策与宏观经济展望",
-      "AI技术与芯片行业扩张",
-      "房地产与就业市场疲软",
-      "期权策略与市场工具推广"
+      "地缘政治风险升级（伊朗冲突、霍尔木兹海峡）",
+      "AI与科技投资扩张",
+      "劳动力市场与宏观经济压力"
     ],
-    "recent_shift": "近期更多关注地缘冲突对市场的影响，以及AI和芯片股的持续热度，前期较少提及伊朗局势。",
+    "recent_shift": "较早期推文（7月9-10日）明显更频繁提及伊朗冲突升级和美联储利率预期，避险情绪有所增强",
     "representative_quotes": [
-      "71% chance there is a Fed rate hike in 2026, per Polymarket",
       "Trump said war has restarted with Iran.",
-      "Home prices have risen for 36 straight months."
+      "71% chance there is a Fed rate hike in 2026, per Polymarket",
+      "AI remains top reason for US job cuts for third straight month"
     ],
-    "generated_at": "2026-07-14T06:33:21.676651+00:00"
+    "generated_at": "2026-07-14T10:48:56.174375+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
-      "#海力士",
-      "$MU",
-      "$NVDA",
-      "$ASX"
+      "SK Hynix",
+      "GLW",
+      "MU",
+      "NVDA",
+      "AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张与AI基建早期",
-      "康宁玻璃基板为下一代AI芯片唯一解决方案",
-      "AI泡沫未到破裂时点需等待AGI",
-      "大市值科技股趋势确定性强",
-      "杠杆风险巨大需谨慎管理仓位"
+      "存储芯片长期供需紧张",
+      "AI基建与物理AI",
+      "康宁玻璃基板替代"
     ],
-    "recent_shift": "前期大幅回撤后仓位从高度集中海力士正股转向分散配置康宁和日月光，并放弃2x杠杆ETF以避免杠杆风险。",
+    "recent_shift": "近期观点从恐慌抄底转向看涨反弹，聚焦存储和康宁的长期确定性。",
     "representative_quotes": [
-      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
-      "这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力，而且他们几乎不会随意操作，会拿非常久。",
-      "AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。所有的脏活累活AI机器人干，所有复杂耗时的脑力活动AI干，现在的agent还很弱智。"
+      "存储起来，说明ai未来光明，其他概念才有机会。",
+      "克服恐惧的最好办法就是面对恐惧，海力士不行，整个AI产业链都在一起崩。",
+      "康宁在玻璃这一块有无与伦比的话语权。"
     ],
-    "generated_at": "2026-07-14T06:33:26.113464+00:00"
+    "generated_at": "2026-07-14T10:48:53.546519+00:00"
   }
 }
