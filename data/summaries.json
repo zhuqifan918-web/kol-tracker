@@ -23,50 +23,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "SKHX",
       "SKHY",
+      "META",
+      "SPCX",
       "LMT",
-      "SPCX"
+      "SKHX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基建与芯片投资",
-      "地缘冲突与国防开支",
-      "美联储政策与通胀博弈",
-      "宏观分化与避险情绪",
-      "创新金融工具与杠杆ETF"
+      "地缘政治风险与伊朗冲突",
+      "人工智能对就业与市场的双重影响",
+      "半导体与芯片行业扩张",
+      "通胀与利率预期博弈",
+      "能源与基础设施投资转变"
     ],
-    "recent_shift": "早期偏乐观解读内幕交易与AI爆发，后期转为警惕就业疲软、地缘升级及市场脱节。",
+    "recent_shift": "近期关于伊朗和Strait of Hormuz的冲突加剧，推高了军工和能源板块的关注度，同时通胀数据超预期缓解了部分市场担忧。",
     "representative_quotes": [
-      "Fed's Warsh: Job creation has kept pace with the workforce... Solid growth in nominal wages.",
+      "The stock market and economy seem out of sync",
       "BREAKING: US CPI YoY: 3.5%, forecast: 3.8%, previous: 4.2%",
-      "Trump said war has restarted with Iran.",
-      "Meta plans to start manufacturing an AI chip from September...",
-      "The stock market and economy seem out of sync, per CNBC"
+      "BREAKING: Trump notified Congress that the US is in a new war with Iran"
     ],
-    "generated_at": "2026-07-14T14:22:34.410277+00:00"
+    "generated_at": "2026-07-14T15:55:49.897276+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "海力士",
-      "GLW",
-      "ASX",
-      "MU",
-      "NVDA"
+      "$SKHYX",
+      "$GLW",
+      "$MU",
+      "$ASX",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片与AI产业链的波动性及长期机会",
-      "康宁玻璃基板与光学互连的垄断地位",
-      "AI基建的早期阶段与资本支出需求"
+      "AI存储需求爆发",
+      "物理AI视频数据驱动存储量级百倍增长",
+      "康宁玻璃基板与光互连作为下一代AI底座",
+      "存储扩产周期与供需缺口",
+      "高杠杆风险与仓位管理"
     ],
-    "recent_shift": "最初对存储反弹持乐观态度，并在7月14日抄底南海2x，但随后显示账户被盗的愤怒，以及强调仓位管理和低杠杆的重要性。",
+    "recent_shift": "近期从聚焦海力士正股转向康宁和日月光，并强调存储为AI核心基石，同时提醒杠杆风险，但整体看多立场未变。",
     "representative_quotes": [
-      "克服恐惧的最好办法就是面对恐惧，海力士不行，整个AI产业链都在一起崩。刚抄了南海2x，成本51.5。",
-      "康宁 $GLW 在玻璃这一块有无与伦比的话语权。",
-      "要么早信要么坚决不信，先信卖后信。"
+      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
+      "康宁 $GLW 简直是下一代AI算力的底座，中了狗屎运。黄仁勋也是190买的，长个俩三倍到个5000亿美金不过分吧。",
+      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的，好比49年入国军，溥仪下台入宫当太监。"
     ],
-    "generated_at": "2026-07-14T14:22:31.015824+00:00"
+    "generated_at": "2026-07-14T15:55:43.818993+00:00"
   }
 }
