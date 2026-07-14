@@ -23,25 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$LMT",
-      "$SKHY",
-      "$NFLX",
-      "$AAPL"
+      "META",
+      "SKHY",
+      "LMT",
+      "MSFT",
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险升级（伊朗冲突、霍尔木兹海峡）",
-      "AI与科技投资扩张",
-      "劳动力市场与宏观经济压力"
+      "地缘政治风险与伊朗冲突升级",
+      "人工智能与科技投资持续扩张",
+      "劳动力市场与宏观经济分化",
+      "能源与海峡通道博弈",
+      "期权交易与数据驱动策略"
     ],
-    "recent_shift": "较早期推文（7月9-10日）明显更频繁提及伊朗冲突升级和美联储利率预期，避险情绪有所增强",
+    "recent_shift": "近期关注点从宏观经济不确定性转向地缘政治危机，尤其是伊朗局势和海峡封锁，同时强调人工智能和科技投资趋势。",
     "representative_quotes": [
-      "Trump said war has restarted with Iran.",
-      "71% chance there is a Fed rate hike in 2026, per Polymarket",
-      "AI remains top reason for US job cuts for third straight month"
+      "The stock market and economy seem out of sync",
+      "56% chance Strait of Hormuz traffic returns to normal by December, 31",
+      "71% chance there is a Fed rate hike in 2026"
     ],
-    "generated_at": "2026-07-14T10:48:56.174375+00:00"
+    "generated_at": "2026-07-14T12:06:08.461307+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
