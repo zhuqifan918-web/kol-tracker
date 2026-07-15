@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SKHY",
       "$NVDA",
+      "$AAPL",
       "$META",
-      "$PYPL",
-      "$AAPL"
+      "$SKHY",
+      "$PYPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与能源安全",
-      "人工智能驱动自动化与就业影响",
-      "科技巨头资本支出与半导体产业链",
-      "通胀回落与美联储政策预期",
-      "政治人物交易与合规披露"
+      "AI与科技投资",
+      "通胀与经济数据",
+      "地缘政治风险",
+      "能源与大宗商品",
+      "就业与劳动力市场"
     ],
-    "recent_shift": "近期内容从7月13日前的积极推销自身产品、对冲伊朗局势等相对中立和技术导向，转向7月14日后更突出对巴菲特减持伯克希尔、CPI数据超预期等宏观利空因素的关注，整体情绪趋于谨慎。",
+    "recent_shift": "近期更关注地缘政治紧张局势及通胀回落对市场的影响，同时强调AI芯片需求与就业市场变化。",
     "representative_quotes": [
-      "BREAKING: US CPI YoY: 3.5%, forecast: 3.8%, previous: 4.2%",
-      "Warren Buffett plans to offload his entire remaining stake in Berkshire Hathaway over the next eight years, culminating in a complete exit by December 31, 2034, per YF",
-      "Iran's IRGC: As long as the US stays in the region, not a drop of oil and gas will be exported from the region."
+      "Jim Cramer has said that tech remains the market's best place to find big winners",
+      "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.\"",
+      "Fed's Williams: \"There are encouraging reasons to expect that inflation has peaked and should edge down in coming quarters.\""
     ],
-    "generated_at": "2026-07-15T17:18:18.588519+00:00"
+    "generated_at": "2026-07-15T18:36:35.619274+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
