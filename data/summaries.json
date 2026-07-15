@@ -26,22 +26,24 @@
       "SKHY",
       "META",
       "AAPL",
-      "LMT",
-      "NVDA"
+      "NVDA",
+      "LCID"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI芯片和数据中心投资热潮",
-      "地缘政治风险与能源博弈",
-      "宏观通胀与利率政策预期"
+      "地缘政治紧张与能源议题",
+      "人工智能对就业与市场的重塑",
+      "科技与芯片行业增长及分化",
+      "宏观经济数据与政策预期",
+      "数据驱动交易与工具体验"
     ],
-    "recent_shift": "从早期关注宏观数据转向重点推广自家产品功能和追踪SK Hynix等事件",
+    "recent_shift": "近期转向更关注实质性经济与企业数据，减少对地缘冲突直接交易影响的分析。",
     "representative_quotes": [
-      "We believe that current revenue momentum should remain sustainable even if fuel prices moderate. The message to the Street: model higher fares as the new baseline.",
-      "Holy. Look at this. Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
-      "2x Long SKY Hynix, $SKHX, has just begun trading and after 2 minutes into the market open, 180,000 shares of SKHX had already been traded"
+      "“This is not a meme stock. This is IBM, a multi billion dollar company. It is down 28% today.”",
+      "“Inflation had its biggest monthly decline in six years,” per CNBC",
+      "“The stock market and economy seem out of sync,” per CNBC"
     ],
-    "generated_at": "2026-07-14T23:25:52.814716+00:00"
+    "generated_at": "2026-07-15T00:12:05.987697+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

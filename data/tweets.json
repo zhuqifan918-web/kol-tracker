@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2077180844813263256",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Coinbase, the largest and most profitable publicly traded US crypto company, earned $1.26 billion in net income the same year. Trump beat Coinbase by roughly $140 million.\n\nRead more: https://t.co/3vrbT0SAgu",
+    "tweet_url": "https://x.com/unusual_whales/status/2077180844813263256",
+    "published_at": "2026-07-14T23:58:00+00:00",
+    "fetched_at": "2026-07-15T00:11:44.976647+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "COIN"
+      ],
+      "direction": "neutral",
+      "summary": "推文对比了Coinbase与特朗普的盈利情况，但未明确给出投资建议。Coinbase作为美国上市最大盈利加密货币公司，收入12.6亿美元，特朗普则多赚约1.4亿美元。",
+      "translation": "Coinbase，这家美国最大且盈利最多的上市加密货币公司，同年净利润为12.6亿美元。而特朗普比Coinbase多赚了大约1.4亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077179790214545477",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump threatens to hit Iran power plants next week if no deal",
+    "tweet_url": "https://x.com/unusual_whales/status/2077179790214545477",
+    "published_at": "2026-07-14T23:53:48+00:00",
+    "fetched_at": "2026-07-15T00:11:47.496956+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普威胁对伊朗发电厂进行打击，可能引发地缘政治紧张局势升级，导致石油和能源市场波动，对全球股市和投资者信心产生负面影响。投资者应关注能源价格波动和避险资产（如黄金）的需求变化。",
+      "translation": "突发消息：特朗普威胁说，如果下周没有达成协议，将打击伊朗发电厂。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077165745193287897",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
