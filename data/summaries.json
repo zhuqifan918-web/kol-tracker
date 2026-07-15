@@ -28,22 +28,24 @@
       "$PYPL",
       "$AAPL",
       "$NVDA",
-      "$SKHY",
-      "$META"
+      "$SKHX",
+      "$LCID"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治风险与市场动荡",
-      "AI泡沫与科技股失衡",
-      "通胀回落但经济放缓"
+      "AI与科技增长",
+      "地缘政治风险",
+      "宏观通胀与利率",
+      "个股期权异动",
+      "市场避险资产"
     ],
-    "recent_shift": "从早期聚焦AI机遇转向地缘冲突和就业市场疲软",
+    "recent_shift": "近期从关注地缘政治风险转向更多强调AI和数据中心投资机会。",
     "representative_quotes": [
-      "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.\"",
-      "Iran's IRGC: As long as the US stays in the region, not a drop of oil and gas will be exported from the region.",
-      "Trump: One of the biggest driving forces in the future for jobs is data centers"
+      "A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%.",
+      "Fed's Chair Warsh: There is no limit to how fast the economy can grow.",
+      "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.\""
     ],
-    "generated_at": "2026-07-15T21:27:51.051820+00:00"
+    "generated_at": "2026-07-15T22:28:47.955641+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2077506239072788848",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: New York should change its policy on data centers immediately",
+    "tweet_url": "https://x.com/unusual_whales/status/2077506239072788848",
+    "published_at": "2026-07-15T21:31:00+00:00",
+    "fetched_at": "2026-07-15T22:28:37.976402+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "前总统特朗普表示纽约应立即调整其数据中心政策，这可能会影响数据中心及相关科技、房地产行业。投资者需关注政策变化对云计算、人工智能等领域的影响。",
+      "translation": "特朗普：纽约应立即改变其数据中心政策。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077491139532497073",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
