@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SKHY",
-      "META",
-      "AAPL",
-      "NVDA",
-      "LMT"
+      "$SKHY",
+      "$META",
+      "$NVDA",
+      "$AAPL",
+      "$IBM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治紧张与避险",
-      "人工智能与自动化",
-      "科技股分化与估值",
-      "通胀与货币政策",
-      "政治交易与监管"
+      "地缘政治紧张局势升级",
+      "股市与宏观经济脱节",
+      "企业裁员与外包加剧",
+      "AI与自动化对就业的冲击",
+      "大宗商品价格波动与供应链风险"
     ],
-    "recent_shift": "近期更多关注地缘风险和AI监管，而非单纯科技成长。",
+    "recent_shift": "近期更强调地缘冲突与央行政策的不确定性，对科技股和宏观经济的悲观情绪加重。",
     "representative_quotes": [
-      "This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap.",
-      "Jim Cramer: Tech feels like the only game in town.",
-      "The stock market and economy seem out of sync, per CNBC"
+      "The stock market and economy seem out of sync.",
+      "China’s economy slowed in the second quarter of this year, expanding at a 4.3% annualized pace.",
+      "Trump threatens to hit Iran power plants next week if no deal"
     ],
-    "generated_at": "2026-07-15T06:07:56.515694+00:00"
+    "generated_at": "2026-07-15T08:40:58.384780+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
