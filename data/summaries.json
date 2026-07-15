@@ -25,49 +25,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SKHY",
-      "$META",
-      "$NVDA",
-      "$AAPL",
-      "$IBM"
+      "SKHY",
+      "META",
+      "AAPL",
+      "NVDA",
+      "LMT"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治紧张局势升级",
-      "股市与宏观经济脱节",
-      "企业裁员与外包加剧",
-      "AI与自动化对就业的冲击",
-      "大宗商品价格波动与供应链风险"
+      "地缘政治风险加剧（伊朗、胡尔木兹海峡）",
+      "通胀降温但消费疲软",
+      "科技股一枝独秀但分化严重",
+      "AI驱动裁员与劳动力市场压力",
+      "加密货币与政治人物交易备受关注"
     ],
-    "recent_shift": "近期更强调地缘冲突与央行政策的不确定性，对科技股和宏观经济的悲观情绪加重。",
+    "recent_shift": "早期对科技股的乐观情绪（如Jim Cramer不断强调科技是赢家之地）被后续大量利空消息（通胀回落但消费疲软、地缘冲突升级、多家公司裁员及业绩预警）所抵消，整体基调转向偏空。",
     "representative_quotes": [
-      "The stock market and economy seem out of sync.",
-      "China’s economy slowed in the second quarter of this year, expanding at a 4.3% annualized pace.",
-      "Trump threatens to hit Iran power plants next week if no deal"
+      "Jim Cramer has said that tech remains the market's best place to find big winners",
+      "PepsiCo, $PEP, CEO Ramon Laguarta said that inflation is causing consumers to spend less on snacks and soda",
+      "The stock market and economy seem out of sync, per CNBC"
     ],
-    "generated_at": "2026-07-15T08:40:58.384780+00:00"
+    "generated_at": "2026-07-15T12:10:22.931083+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SKHYX",
-      "$GLW",
-      "$MU",
-      "$AMAT",
-      "$LRCX"
+      "SKHYX",
+      "GLW",
+      "MU",
+      "NVDA",
+      "ASX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张及AI需求驱动长期增长",
-      "康宁玻璃基板作为下一代AI芯片关键材料",
-      "AI从文本向视频/物理世界进化带来存储需求暴增",
-      "半导体设备景气度随存储扩产提升"
+      "存储芯片长期需求暴增，尤其是HBM和AI驱动下的存储",
+      "康宁玻璃基板在AI芯片中的关键地位及扩产带来的十倍业绩预期",
+      "AI从文本向物理世界、视频数据进化，存储需求将指数级增长",
+      "对市场恐慌和短期波动的蔑视，强调长期持有和仓位管理"
     ],
-    "recent_shift": "近期从极度看好存储转向同时强调康宁等设备材料股的确定性，并因杠杆亏损更注重仓位管理。",
+    "recent_shift": "近期从极度乐观、重仓海力士并抄底，转向对市场波动的反思，强调仓位管理和长期持有，同时关注康宁和半导体设备等新机会。",
     "representative_quotes": [
-      "AI能干的事情过去2年，慢慢从一维数据到二维数据再到未来的三维数据进化...存储需求的数量级可能是百倍于现在",
-      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
-      "能健康的管理自己仓位已经赢过绝大多数人"
+      "物理AI如果突破，存储数据内容从一维到三维，需求是天量。",
+      "康宁 $GLW 自跟英伟达合作扩产10倍，这都没有被机构冲烂冲爆炸。",
+      "要么早信要么坚决不信，先信卖后信。"
     ],
-    "generated_at": "2026-07-15T06:07:59.603986+00:00"
+    "generated_at": "2026-07-15T12:10:19.148223+00:00"
   }
 }
