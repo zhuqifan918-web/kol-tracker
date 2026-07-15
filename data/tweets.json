@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2077387493134016689",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Market is open! We're trading futures using our GEX tool, Periscope, and taking live flow requests!\n\nJoin in, trade, and let us know what you want us to break down: https://t.co/xUHZ3PO2TI",
+    "tweet_url": "https://x.com/unusual_whales/status/2077387493134016689",
+    "published_at": "2026-07-15T13:39:09+00:00",
+    "fetched_at": "2026-07-15T14:17:42.637853+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文宣传其GEX工具、Periscope以及实时交易分析服务，邀请用户参与交易并提出分析需求。虽提及市场开盘和期货交易，但未给出具体投资建议或方向性判断。",
+      "translation": "市场开盘！我们使用GEX工具、Periscope进行期货交易，并接受实时交易请求！加入我们，进行交易，并告诉我们你想让我们分析什么：https://t.co/xUHZ3PO2TI",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2077380353031905495",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Unusual Whales live trading show WhaleWatch is live now!\n\nGoing through pre-market prep, and checking $PYPL options flow before the news\n\nJoin below:\n\nhttps://t.co/xUHZ3PO2TI",
+    "tweet_url": "https://x.com/unusual_whales/status/2077380353031905495",
+    "published_at": "2026-07-15T13:10:46+00:00",
+    "fetched_at": "2026-07-15T14:17:40.615534+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PYPL"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及正在关注$PYPL期权流，但没有明确的方向性观点。它更像是在推广一个交易节目。",
+      "translation": "Unusual Whales的实况交易节目WhaleWatch现已直播！正在进行盘前准备，并在新闻发布前查看$PYPL期权流。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077371853363089415",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley says that the US hyperscaler capital expenditures will exceed $1.2 trillion by 2027",
+    "tweet_url": "https://x.com/unusual_whales/status/2077371853363089415",
+    "published_at": "2026-07-15T12:37:00+00:00",
+    "fetched_at": "2026-07-15T14:17:46.330168+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根士丹利预测美国超大规模数据中心资本支出到2027年将超过1.2万亿美元，这暗示科技基础设施领域持续增长，可能利好相关供应商和投资标的。",
+      "translation": "摩根士丹利表示，到2027年，美国超大规模云服务商的资本支出将超过1.2万亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077361787117388115",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -36,6 +95,25 @@
       "direction": "bullish",
       "summary": "吉姆·克莱默认为科技股仍是市场中最有可能找到大赢家的领域，整体看涨科技板块。",
       "translation": "吉姆·克莱默表示，科技股仍然是市场中最能发现大赢家的地方。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077346687664673025",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran's IRGC: As long as the US stays in the region, not a drop of oil and gas will be exported from the region.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077346687664673025",
+    "published_at": "2026-07-15T10:57:00+00:00",
+    "fetched_at": "2026-07-15T14:17:50.164619+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗威胁阻止地区石油和天然气出口，可能导致全球能源供应紧张，推高油价，利空能源进口国和依赖地区能源的企业。",
+      "translation": "伊朗革命卫队：只要美国留在该地区，一滴石油和天然气都不会从该地区出口。",
       "confidence": "high"
     }
   },
