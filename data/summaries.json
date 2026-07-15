@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SKHY",
-      "META",
-      "AAPL",
-      "NVDA",
-      "LMT"
+      "$LCID",
+      "$IBM",
+      "$AAPL",
+      "$PYPL",
+      "$SKHY"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧（伊朗、胡尔木兹海峡）",
-      "通胀降温但消费疲软",
-      "科技股一枝独秀但分化严重",
-      "AI驱动裁员与劳动力市场压力",
-      "加密货币与政治人物交易备受关注"
+      "地缘政治风险加剧（伊朗紧张局势、霍尔木兹海峡封锁）",
+      "通胀放缓但消费者支出疲软（PepsiCo警告）",
+      "科技行业裁员与AI替代劳动（Meta、Microsoft）",
+      "散户信心减弱与市场与经济脱节",
+      "能源与防御板块逆势上涨（Lockheed Martin）"
     ],
-    "recent_shift": "早期对科技股的乐观情绪（如Jim Cramer不断强调科技是赢家之地）被后续大量利空消息（通胀回落但消费疲软、地缘冲突升级、多家公司裁员及业绩预警）所抵消，整体基调转向偏空。",
+    "recent_shift": "近两日从相对中性转向明显看跌，因Lucid暴跌40%、IBM跌28%以及地缘冲突升级。",
     "representative_quotes": [
-      "Jim Cramer has said that tech remains the market's best place to find big winners",
-      "PepsiCo, $PEP, CEO Ramon Laguarta said that inflation is causing consumers to spend less on snacks and soda",
-      "The stock market and economy seem out of sync, per CNBC"
+      "This is $IBM, a multi billion dollar company. It is down 28% today.",
+      "Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
+      "The stock market and economy seem out of sync."
     ],
-    "generated_at": "2026-07-15T12:10:22.931083+00:00"
+    "generated_at": "2026-07-15T14:18:23.972240+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
