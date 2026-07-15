@@ -4,68 +4,71 @@
       "$SIVE",
       "$NVDA",
       "$META",
-      "$NBIS",
-      "$LITE"
+      "$CCXI",
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与CPO架构",
-      "人形机器人商用化",
-      "内存与NAND涨价周期",
-      "AI基础设施与Neocloud",
-      "供应链瓶颈与地缘竞争"
+      "AI基础设施建设与上游供应链瓶颈",
+      "硅光/CPO（共封装光学）及激光器稀缺性",
+      "人形机器人/物理AI商业化竞赛",
+      "半导体记忆体（DRAM/NAND）涨价周期",
+      "美股新上市标的（SK Hynix ADR、Agility Robotics）"
     ],
-    "recent_shift": "近期观点没有明显变化，继续看好光子学、机器人、内存等题材，并认为短期的市场暴跌是机构洗盘机会。",
+    "recent_shift": "近期从宏观恐慌中迅速反弹，认为CPO延迟、Meta等利空被误解，继续看多光学和记忆体等瓶颈环节。",
     "representative_quotes": [
       "If a thesis ends up correct, the valuation should be reflected in the long run.",
-      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "Thematically, next 2 years is 9x TAM to US$154B per GS reports, especially with 16x/45x dollar content increase in scale out/scale up."
+      "I personally think $SIVE can be the next $LITE.",
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
     ],
-    "generated_at": "2026-07-15T15:59:57.922481+00:00"
+    "generated_at": "2026-07-15T17:18:15.261533+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$NVDA",
       "$SKHY",
-      "$AAPL",
-      "$GME"
+      "$NVDA",
+      "$META",
+      "$PYPL",
+      "$AAPL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
       "地缘政治风险与能源安全",
+      "人工智能驱动自动化与就业影响",
+      "科技巨头资本支出与半导体产业链",
       "通胀回落与美联储政策预期",
-      "科技股表现与AI投资热潮"
+      "政治人物交易与合规披露"
     ],
-    "recent_shift": "近期从关注美联储政策转向更强调地缘冲突对市场的直接冲击",
+    "recent_shift": "近期内容从7月13日前的积极推销自身产品、对冲伊朗局势等相对中立和技术导向，转向7月14日后更突出对巴菲特减持伯克希尔、CPI数据超预期等宏观利空因素的关注，整体情绪趋于谨慎。",
     "representative_quotes": [
-      "BREAKING: JPMorgan, BlackRock, and Goldman Sachs join 50-firm DTCC pilot to tokenize Russell 1000 stocks and US Treasurys, per WSJ",
-      "Fed's Williams: While the effects of the Middle East conflict pose significant risks, the US economy so far has absorbed these events fairly well",
+      "BREAKING: US CPI YoY: 3.5%, forecast: 3.8%, previous: 4.2%",
+      "Warren Buffett plans to offload his entire remaining stake in Berkshire Hathaway over the next eight years, culminating in a complete exit by December 31, 2034, per YF",
       "Iran's IRGC: As long as the US stays in the region, not a drop of oil and gas will be exported from the region."
     ],
-    "generated_at": "2026-07-15T15:59:54.759048+00:00"
+    "generated_at": "2026-07-15T17:18:18.588519+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
-      "GLW",
-      "MU",
-      "NVDA",
-      "ASX"
+      "$SKHYX",
+      "$GLW",
+      "$ASX",
+      "$MU",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片长期需求暴增，尤其是HBM和AI驱动下的存储",
-      "康宁玻璃基板在AI芯片中的关键地位及扩产带来的十倍业绩预期",
-      "AI从文本向物理世界、视频数据进化，存储需求将指数级增长",
-      "对市场恐慌和短期波动的蔑视，强调长期持有和仓位管理"
+      "存储芯片中长期受益于AI数据量爆发",
+      "玻璃基板与光互连技术成下一代AI芯片关键",
+      "AI尚处早期，算力与存储需求远未达峰值",
+      "杠杆交易风险高，仓位管理比选股更重要",
+      "物理AI及视频数据将推动存储需求指数级增长"
     ],
-    "recent_shift": "近期从极度乐观、重仓海力士并抄底，转向对市场波动的反思，强调仓位管理和长期持有，同时关注康宁和半导体设备等新机会。",
+    "recent_shift": "前期因市场回调亏损而情绪悲观，后期坚定看多存储并强调AI长期趋势未变，态度从恐慌转向坚决持有。",
     "representative_quotes": [
-      "物理AI如果突破，存储数据内容从一维到三维，需求是天量。",
-      "康宁 $GLW 自跟英伟达合作扩产10倍，这都没有被机构冲烂冲爆炸。",
+      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
+      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
       "要么早信要么坚决不信，先信卖后信。"
     ],
-    "generated_at": "2026-07-15T12:10:19.148223+00:00"
+    "generated_at": "2026-07-15T17:18:21.820479+00:00"
   }
 }

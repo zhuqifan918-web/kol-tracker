@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2077437150715666900",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Anthropic to IPO as early as October per Bloomberg.\n\nThis is following their $65B financing at a $965 billion  valuation last May.\n\nHmm, would you all invest in Anthropic at a $1T+ valuation? https://t.co/iFIY1WulvO",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077437150715666900",
+    "published_at": "2026-07-15T16:56:28+00:00",
+    "fetched_at": "2026-07-15T17:17:21.451088+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "彭博报道Anthropic最早可能在10月进行IPO，此前该公司在去年5月以9650亿美元估值完成650亿美元融资。该推文询问读者是否愿意以超过1万亿美元的估值投资Anthropic，对IPO时机和估值水平表示关注，但未明确给出看多或看空立场。",
+      "translation": "彭博报道，Anthropic最早可能在10月进行IPO。此前他们在去年5月以9650亿美元的估值完成了650亿美元融资。嗯，你们会在超过1万亿美元的估值下投资Anthropic吗？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077430770302685530",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士已经跌的不是大力士也不是海公公了，只能叫它海狗 https://t.co/Urf4pHZyvA",
+    "tweet_url": "https://x.com/xiaomustock/status/2077430770302685530",
+    "published_at": "2026-07-15T16:31:07+00:00",
+    "fetched_at": "2026-07-15T17:17:31.202696+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "原意指海力士（SK Hynix）股价跌幅巨大，从“大力士”和“海公公”的昵称变成了贬义的“海狗”，表明对该股近期走势极度悲观。",
+      "translation": "海力士已经跌得不是大力士也不是海公公了，只能叫它海狗。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077427218205282396",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Warren Buffett has said he was personally involved in purchasing Google $GOOGL stock at Berkshire Hathaway, and admitted it was a mistake not buying it sooner.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077427218205282396",
+    "published_at": "2026-07-15T16:17:00+00:00",
+    "fetched_at": "2026-07-15T17:17:42.449671+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "沃伦·巴菲特透露他个人参与了伯克希尔·哈撒韦购买谷歌（GOOGL）股票的操作，并承认未早点买入是个错误。这暗示巴菲特对谷歌的长期价值持积极看法，但承认错失早期机会。",
+      "translation": "沃伦·巴菲特表示，他个人参与了伯克希尔·哈撒韦购买谷歌（GOOGL）股票的操作，并承认未早点买入是个错误。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077422185216352394",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
