@@ -3,23 +3,25 @@
     "focus_tickers": [
       "$SIVE",
       "$NVDA",
+      "$NBIS",
       "$CCXI",
-      "$META",
-      "$LITE"
+      "$AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学/CPO供应链瓶颈与长期增长",
-      "美国与中国在人形机器人领域的竞争",
-      "AI基建（Neocloud、存储器、光学）的结构性需求"
+      "硅光和CPO供应链瓶颈",
+      "内存和NAND涨价周期",
+      "人形机器人和物理AI商业化",
+      "AI基础设施资本开支持续扩大",
+      "地缘政治和供应链自主化"
     ],
-    "recent_shift": "近期市场恐慌性抛售（如Meta算力新闻、CPO延迟谣言）被视为错杀，认为基本面未变，反而是加仓良机。",
+    "recent_shift": "近期观点没有明显变化，持续看多光通信和机器人主题，认为近期下跌是媒体误导造成的买入机会。",
     "representative_quotes": [
-      "I personally think $SIVE can be the next $LITE.",
-      "Obviously overall ASIC market goes up, but many of these challengers feel like they’re taking on more hyperscaler-adjacent projects.",
-      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
+      "If a thesis ends up correct, the valuation should be reflected in the long run.",
+      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
+      "The amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others."
     ],
-    "generated_at": "2026-07-14T04:25:43.614017+00:00"
+    "generated_at": "2026-07-15T03:43:41.130559+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -27,23 +29,23 @@
       "META",
       "AAPL",
       "NVDA",
-      "LCID"
+      "LMT"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治紧张与能源议题",
-      "人工智能对就业与市场的重塑",
-      "科技与芯片行业增长及分化",
-      "宏观经济数据与政策预期",
-      "数据驱动交易与工具体验"
+      "地缘政治紧张与伊朗冲突升级",
+      "科技股业绩强劲但面临监管与AI裁员",
+      "通胀降温与美联储政策不确定性",
+      "能源物流瓶颈与运输成本上升",
+      "金融创新与ETF新产品推出"
     ],
-    "recent_shift": "近期转向更关注实质性经济与企业数据，减少对地缘冲突直接交易影响的分析。",
+    "recent_shift": "从早期关注SK Hynix上市和AI乐观情绪转为强调伊朗战争风险、股市与经济脱节以及多家公司负面消息导致的暴跌。",
     "representative_quotes": [
-      "“This is not a meme stock. This is IBM, a multi billion dollar company. It is down 28% today.”",
-      "“Inflation had its biggest monthly decline in six years,” per CNBC",
-      "“The stock market and economy seem out of sync,” per CNBC"
+      "Berkshire Hathaway’s 95-year-old chairman said his goal is to dispose of all of his Berkshire shares within about eight years, with hope that the disposal is carried out by December 31, 2034.",
+      "Trump said war has restarted with Iran.",
+      "\"The stock market and economy seem out of sync,\" per CNBC"
     ],
-    "generated_at": "2026-07-15T00:12:05.987697+00:00"
+    "generated_at": "2026-07-15T03:43:44.164471+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
