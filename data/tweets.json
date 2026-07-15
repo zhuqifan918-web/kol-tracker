@@ -1,5 +1,109 @@
 [
   {
+    "tweet_id": "2077235070247797188",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: China’s economy slowed in the second quarter of this year, expanding at a 4.3% annualized pace, per AP.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077235070247797188",
+    "published_at": "2026-07-15T03:33:28+00:00",
+    "fetched_at": "2026-07-15T03:43:08.537761+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中国经济增速放缓至4.3%，低于预期，可能对全球市场尤其是商品和新兴市场产生负面影响，投资者应关注相关风险。",
+      "translation": "突发新闻：据美联社报道，中国今年第二季度经济放缓，年化增速为4.3%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077228758491386121",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. \n\nThere's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be:\n\n1. Winbond (2344): ~15% of the SLC NAND market\n2. Macronix (2337): ~11% market share\n3. SkyHigh Memory via Puya Semi: ~14% market share\n\nGiven Micron at $1T and others are a bit large relative to SLC NAND TAM. \n\n(source: Q1 2026 Winbond presentation/Trendforce).",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077228758491386121",
+    "published_at": "2026-07-15T03:08:23+00:00",
+    "fetched_at": "2026-07-15T03:42:42.390722+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "2344",
+        "2337"
+      ],
+      "direction": "bullish",
+      "summary": "该推文引用Trendforce预测SLC NAND在2026年下半年价格将上涨120-170%，并指出Winbond、Macronix等中小型厂商是更明确的受益者，暗示相关股票有投资机会。",
+      "translation": "看起来，根据Trendforce的预测，SLC NAND的价格在2026年下半年预计将上涨120-170%。美光（21%）、铠侠（20%）是最大份额的持有者，但更明确的受益者似乎是：1. 华邦电子（2344）：约占SLC NAND市场的15%；2. 旺宏电子（2337）：约11%市场份额；3. 通过普冉半导体（Puya Semi）的SkyHigh Memory：约14%市场份额。考虑到美光市值达1万亿美元，而其他公司相对于SLC NAND的总市场规模来说有些偏大。（来源：华邦电子2026年第一季度报告/Trendforce）",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077226143325778202",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Berkshire Hathaway’s 95-year-old chairman said his goal is to dispose of all of his Berkshire shares within about eight years, with hope that the disposal is carried out by December 31, 2034.\n\nRead more: https://t.co/yW6xm7uWlP",
+    "tweet_url": "https://x.com/unusual_whales/status/2077226143325778202",
+    "published_at": "2026-07-15T02:58:00+00:00",
+    "fetched_at": "2026-07-15T03:43:13.833935+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK"
+      ],
+      "direction": "neutral",
+      "summary": "巴菲特计划在未来8年内清仓其持有的伯克希尔股票，这可能对伯克希尔股价产生长期影响，但短期内影响有限。",
+      "translation": "伯克希尔·哈撒韦95岁高龄的董事长表示，他的目标是在大约八年内处置完其所有伯克希尔股票，并希望处置工作能在2034年12月31日前完成。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077208587005542464",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AEHR back up +36.4% today off earnings!\n\n2027 guide: $130-$150m (160-200% growth) from 2026 revenue.  Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer).\n\nQ4 bookings: $60.7M, effective backlog is $100.6M.\n\n- Lead AI processor wafer-level burn-in customer is significantly ramping their products. \n\n- Engaged with additional AI processor customers who are evaluating wafer-level burn-in. \n\n- Benchmark customer, which was a “major supplier of AI accelerators, CPUs and network processors” “exceeded their expectations. \n\nFrom management: The potential revenue opportunity from one of these devices is \"significant to Aehr\". So another benchmark win for potential HVM in the future.\n\n- Wafer level burn-in benchmark with a \"global leader in NAND flash completed\". Now evaluating a development agreement for HBM/NAND\n\nSeems like $SNDK since there was HBF related discussions from last quarter I think.\n\n- \"Our package level burn-in business for AI processors also gained  momentum over the year … from our lead hyperscale customer for Sonoma systems\"\n\n- Silicon photonics customer already ramping, newer networking customers     has forecast additional systems  \n\nBasically the amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others. \n\nI don’t quite think that $130-$150m guidance is representative of actualized revenue for 2027 if these hyperscalers/semi companies convert to HVM. \n\nTypically with these types of qualification into HVM players, markets don’t really judge it by current quarter, but what’s to come.  \n\nAnd it looks very positive so far in terms of reactions...\n\n$116 -> $60 -> $94 all in the span of a month is pretty insane volatility tho, so good to know what you're holding.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077208587005542464",
+    "published_at": "2026-07-15T01:48:14+00:00",
+    "fetched_at": "2026-07-15T03:42:50.876593+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AEHR",
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "AEHR在发布业绩后大涨36.4%，2027年营收指引大幅增长（1.6-2倍），且有多项积极进展：主要AI处理器客户加速量产、新客户评估、基准测试客户超预期、NAND闪存完成基准测试、硅光子和网络客户需求强劲。尽管股价波动剧烈，但长期前景正面。",
+      "translation": "$AEHR今天因财报上涨36.4%！2027年营收指引：1.3亿-1.5亿美元（同比增长160-200%），管理层认为有机会上调指引（假设没有记忆体或新AI客户的收入）。第四季度订单量6070万美元，有效积压1.006亿美元。主要AI处理器晶圆级老化测试客户正在大幅增产。已与其他评估晶圆级老化测试的AI处理器客户接洽。基准测试客户（“AI加速器、CPU和网络处理器的主要供应商”）“超出预期”。管理层表示：其中一个设备的潜在收入机会“对Aehr意义重大”，因此未来可能再获一个量产基准测试订单。与“全球NAND闪存领导者”完成晶圆级老化测试基准测试，现正评估HBM/NAND的开发协议。似乎涉及$SNDK，因为上一季度有HBF相关讨论。“我们的AI处理器封装级老化测试业务也在年内获得动力……来自我们的主要超大规模客户，用于Sonoma系统”。硅光子客户已开始量产，较新的网络客户已预测额外系统需求。基本上，映射到$AEHR的全球半导体公司数量惊人，覆盖硅光子、记忆体、AI处理器等。我不认为13-15亿美元的营收指引能代表2027年的实际收入，如果这些超大规模/半导体公司转为量产的话。通常，对于这类进入量产玩家的认证，市场并非根据当前季度来判断，而是看未来。而到目前为止，反应看起来非常积极……一个月内从116美元跌至60美元再反弹至94美元，波动性确实很大，但知道自己持有的是什么很重要。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077189149589983523",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The comment landed in a reply to Chamath Palihapitiya and reignited debate over how AI-driven automation reshapes labor, wages, and asset prices.\n\nRead more: https://t.co/SMeO3u97WK",
+    "tweet_url": "https://x.com/unusual_whales/status/2077189149589983523",
+    "published_at": "2026-07-15T00:31:00+00:00",
+    "fetched_at": "2026-07-15T03:43:25.621179+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引发了对AI驱动自动化如何重塑劳动力、工资和资产价格的讨论，但未直接提及具体投资标的或推荐。投资者需关注其宏观影响。",
+      "translation": "这条回复出现在对Chamath Palihapitiya的回应中，重新引发了关于AI驱动的自动化如何重塑劳动力、工资和资产价格的辩论。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2077180844813263256",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
