@@ -1,5 +1,147 @@
 [
   {
+    "tweet_id": "2077422185216352394",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: JPMorgan, BlackRock, and Goldman Sachs join 50-firm DTCC pilot to tokenize Russell 1000 stocks and US Treasurys, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2077422185216352394",
+    "published_at": "2026-07-15T15:57:00+00:00",
+    "fetched_at": "2026-07-15T15:59:12.903681+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "三大金融巨头加入代币化试点，表明机构对数字资产和区块链技术的认可，可能推动相关概念股和加密货币市场上涨。但缺乏具体代码，难以直接推荐个股。",
+      "translation": "突发：据华尔街日报报道，摩根大通、贝莱德和高盛加入由50家公司组成的DTCC试点项目，对罗素1000指数股票和美国国债进行代币化。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077421268991926703",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? \n\nA possible scenario is that they revise capex largely upward for their own AI buildout. \n\nSince they probably witnessed Google cutting off Meta from compute constraints... or what happens when you partner with OpenAI for LLMs. \n\nThen learned how important it is to have your own infrastructure. \n\nThis scenario would be quite bullish thematically from optical networking to foundries and something markets would not expect? We'll see what happens.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077421268991926703",
+    "published_at": "2026-07-15T15:53:21+00:00",
+    "fetched_at": "2026-07-15T15:58:49.219792+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "推特指出苹果若通过并购进入AI基础设施领域，可能大幅上调资本支出，利好光网络和晶圆代工产业链，市场或未充分预期。",
+      "translation": "推特：$AAPL 据悉考虑收购AI芯片公司（来源：The Information）。目前$MSFT、$META、亚马逊、谷歌承担AI资本支出。但如果苹果通过并购加入，可能大幅上调自身AI建设的资本支出。鉴于他们可能目睹谷歌对Meta的计算资源限制，以及合作OpenAI的教训，拥有自有基础设施变得重要。这一情景对光网络和晶圆代工主题相当利好，且市场可能未预期？我们拭目以待。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077417151816970483",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "India has pledged a further 1.9 trillion rupees ($19.7 billion) to boost domestic chip and smartphone production, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2077417151816970483",
+    "published_at": "2026-07-15T15:37:00+00:00",
+    "fetched_at": "2026-07-15T15:59:14.588267+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "印度政府宣布追加1.9万亿卢比（197亿美元）用于支持本土芯片和智能手机生产，这对印度半导体和电子制造行业构成政策利好，中长期可能提升相关企业竞争力并吸引投资。",
+      "translation": "据彭博社报道，印度已承诺再投入1.9万亿卢比（197亿美元）用于推动国内芯片和智能手机生产。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077407085868831143",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Williams: While the effects of the Middle East conflict pose significant risks, the US economy so far has absorbed these events fairly well",
+    "tweet_url": "https://x.com/unusual_whales/status/2077407085868831143",
+    "published_at": "2026-07-15T14:57:00+00:00",
+    "fetched_at": "2026-07-15T15:59:16.975221+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美联储官员威廉姆斯表示中东冲突虽构成风险，但美国经济表现稳健，这暗示了当前经济韧性，对市场情绪构成支撑。",
+      "translation": "美联储的威廉姆斯：虽然中东冲突的影响带来了显著风险，但美国经济到目前为止已经较好地吸收了这些事件。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077406548012466390",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA CEO, Jensen Huang in Tokyo today said:\n\n\"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\"\n\nAs a flat denial to the accusation that their AI servers would be delayed. \n\nJensen appears to be using the Umbrella term for Rubin Ultra/Kyber, then pointed to current gen ramp. \n\nRegardless, lot of damage has been done already to Nvidia supply chains stock prices, after the multiple delay reports. Even if Nvidia refuted them by clarifying Kyber change was an architecture optimization, not impacting timelines.\n\nIt's a very dangerous and growing trend for folks to post  overreaching broader claims from technical nuances to grow viewcount... Especially if they get Jensen has to respond.\n\nIn the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077406548012466390",
+    "published_at": "2026-07-15T14:54:52+00:00",
+    "fetched_at": "2026-07-15T15:58:55.715402+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "尽管近期有关于AI服务器延迟的负面报道冲击了NVDA供应链股价，但CEO黄仁勋明确否认并强调Vera Rubin已投产，且公司对自身供应链有最佳洞察力。分析师认为市场反应过度，应信任Nvidia的时间表。",
+      "translation": "推特内容：$NVDA CEO黄仁勋今天在东京表示：“报道不实。Vera Rubin已在生产中，大量生产即将到来。”这直接否认了AI服务器延迟的指控。黄仁勋似乎用Rubin作为Rubin Ultra/Kyber的总称，然后指向当前代际的产能爬坡。尽管如此，在多次延迟报道后，NVDA供应链股价已遭受重大损害。即使Nvidia通过澄清Kyber变更是架构优化、不影响时间表来反驳，但情况依然严峻。这是一个非常危险且日益增长的趋势：人们为了增加浏览量，将技术细节过度引申为更广泛的断言——尤其是当这种断言需要黄仁勋亲自回应时。最终，我信任$NVDA的时间表，因为他们很可能对自己供应链有最清晰的可见性。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077404568988848359",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "GameStop, $GME, is working with Uber Technologies, $UBER, to deliver video games and collectibles via the ride-sharing platform.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077404568988848359",
+    "published_at": "2026-07-15T14:47:00+00:00",
+    "fetched_at": "2026-07-15T15:59:18.629383+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GME",
+        "UBER"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到GameStop与Uber Technologies合作，通过其叫车平台配送电子游戏和收藏品。这可能对双方合作充满想象空间，但未直接给出投资建议或市场展望，因此投资相关性中等。",
+      "translation": "GameStop（$GME）正在与Uber Technologies（$UBER）合作，通过其叫车平台配送电子游戏和收藏品。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077399787511615730",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed Williams: \"There are encouraging reasons to expect that inflation has peaked and should edge down in coming quarters.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2077399787511615730",
+    "published_at": "2026-07-15T14:28:00+00:00",
+    "fetched_at": "2026-07-15T15:59:21.277254+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美联储官员威廉姆斯表示通胀已见顶并将回落，这对市场是积极信号，可能缓解加息压力，利好风险资产。",
+      "translation": "美联储威廉姆斯：有令人鼓舞的理由预期通胀已见顶，并在未来几个季度将逐渐下降。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077387493134016689",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -223,6 +365,25 @@
     }
   },
   {
+    "tweet_id": "2077211043688759329",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US housing hits record unaffordability.\n\nRead more: https://t.co/CgOY82eIsZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2077211043688759329",
+    "published_at": "2026-07-15T01:58:00+00:00",
+    "fetched_at": "2026-07-15T15:59:41.901015+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国住房市场创下历史新高，该消息对房地产投资及相关板块可能构成负面影响，暗示房价过高可能抑制需求和销售。",
+      "translation": "美国住房达到历史最高的不可负担水平。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077208587005542464",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -338,6 +499,27 @@
       "direction": "bullish",
       "summary": "该推文引用航空公司高管言论，认为即使燃油价格回落，当前的收入势头仍可持续，并暗示票价将维持在高位。这反映了对航空公司盈利能力及收入增长的乐观预期。",
       "translation": "巴斯蒂安表示：“我们认为，即使燃油价格趋于平稳，当前的收入势头也应能持续。” 这向市场传达的信息是：将更高票价视为新的基准。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077150645895807234",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "XBOX CEO Asha Sharma cited the company’s financial health for the layoffs.\n\nRead more: https://t.co/ILdOSknbW2",
+    "tweet_url": "https://x.com/unusual_whales/status/2077150645895807234",
+    "published_at": "2026-07-14T21:58:00+00:00",
+    "fetched_at": "2026-07-15T15:59:50.569702+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bearish",
+      "summary": "Xbox CEO提及公司财务状况导致裁员，暗示微软游戏业务面临压力，可能影响投资者情绪。",
+      "translation": "XBOX首席执行官Asha Sharma以公司财务状况为由进行裁员。",
       "confidence": "medium"
     }
   },

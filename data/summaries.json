@@ -3,49 +3,47 @@
     "focus_tickers": [
       "$SIVE",
       "$NVDA",
+      "$META",
       "$NBIS",
-      "$CCXI",
-      "$AAOI"
+      "$LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "硅光和CPO供应链瓶颈",
-      "内存和NAND涨价周期",
-      "人形机器人和物理AI商业化",
-      "AI基础设施资本开支持续扩大",
-      "地缘政治和供应链自主化"
+      "光子学与CPO架构",
+      "人形机器人商用化",
+      "内存与NAND涨价周期",
+      "AI基础设施与Neocloud",
+      "供应链瓶颈与地缘竞争"
     ],
-    "recent_shift": "近期观点没有明显变化，持续看多光通信和机器人主题，认为近期下跌是媒体误导造成的买入机会。",
+    "recent_shift": "近期观点没有明显变化，继续看好光子学、机器人、内存等题材，并认为短期的市场暴跌是机构洗盘机会。",
     "representative_quotes": [
       "If a thesis ends up correct, the valuation should be reflected in the long run.",
       "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "The amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others."
+      "Thematically, next 2 years is 9x TAM to US$154B per GS reports, especially with 16x/45x dollar content increase in scale out/scale up."
     ],
-    "generated_at": "2026-07-15T03:43:41.130559+00:00"
+    "generated_at": "2026-07-15T15:59:57.922481+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$LCID",
-      "$IBM",
+      "$META",
+      "$NVDA",
+      "$SKHY",
       "$AAPL",
-      "$PYPL",
-      "$SKHY"
+      "$GME"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧（伊朗紧张局势、霍尔木兹海峡封锁）",
-      "通胀放缓但消费者支出疲软（PepsiCo警告）",
-      "科技行业裁员与AI替代劳动（Meta、Microsoft）",
-      "散户信心减弱与市场与经济脱节",
-      "能源与防御板块逆势上涨（Lockheed Martin）"
+      "地缘政治风险与能源安全",
+      "通胀回落与美联储政策预期",
+      "科技股表现与AI投资热潮"
     ],
-    "recent_shift": "近两日从相对中性转向明显看跌，因Lucid暴跌40%、IBM跌28%以及地缘冲突升级。",
+    "recent_shift": "近期从关注美联储政策转向更强调地缘冲突对市场的直接冲击",
     "representative_quotes": [
-      "This is $IBM, a multi billion dollar company. It is down 28% today.",
-      "Lucid, $LCID, is down 40% TODAY on bankruptcy news.",
-      "The stock market and economy seem out of sync."
+      "BREAKING: JPMorgan, BlackRock, and Goldman Sachs join 50-firm DTCC pilot to tokenize Russell 1000 stocks and US Treasurys, per WSJ",
+      "Fed's Williams: While the effects of the Middle East conflict pose significant risks, the US economy so far has absorbed these events fairly well",
+      "Iran's IRGC: As long as the US stays in the region, not a drop of oil and gas will be exported from the region."
     ],
-    "generated_at": "2026-07-15T14:18:23.972240+00:00"
+    "generated_at": "2026-07-15T15:59:54.759048+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
