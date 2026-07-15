@@ -31,43 +31,43 @@
       "NVDA",
       "LMT"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治紧张与伊朗冲突升级",
-      "科技股业绩强劲但面临监管与AI裁员",
-      "通胀降温与美联储政策不确定性",
-      "能源物流瓶颈与运输成本上升",
-      "金融创新与ETF新产品推出"
+      "地缘政治紧张与避险",
+      "人工智能与自动化",
+      "科技股分化与估值",
+      "通胀与货币政策",
+      "政治交易与监管"
     ],
-    "recent_shift": "从早期关注SK Hynix上市和AI乐观情绪转为强调伊朗战争风险、股市与经济脱节以及多家公司负面消息导致的暴跌。",
+    "recent_shift": "近期更多关注地缘风险和AI监管，而非单纯科技成长。",
     "representative_quotes": [
-      "Berkshire Hathaway’s 95-year-old chairman said his goal is to dispose of all of his Berkshire shares within about eight years, with hope that the disposal is carried out by December 31, 2034.",
-      "Trump said war has restarted with Iran.",
-      "\"The stock market and economy seem out of sync,\" per CNBC"
+      "This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap.",
+      "Jim Cramer: Tech feels like the only game in town.",
+      "The stock market and economy seem out of sync, per CNBC"
     ],
-    "generated_at": "2026-07-15T03:43:44.164471+00:00"
+    "generated_at": "2026-07-15T06:07:56.515694+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
-      "GLW",
-      "MU",
-      "ASX",
-      "NVDA"
+      "$SKHYX",
+      "$GLW",
+      "$MU",
+      "$AMAT",
+      "$LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片结构性需求爆发，尤其物理AI三维数据推动需求百倍增长",
-      "康宁玻璃基板在下一代AI芯片中具有垄断地位，业绩确定性高",
-      "AI基建尚处早期，大厂资本开支持续投入，存储涨价周期未结束",
-      "韩国股市高波动性下杠杆风险巨大，需严控仓位"
+      "存储芯片供需紧张及AI需求驱动长期增长",
+      "康宁玻璃基板作为下一代AI芯片关键材料",
+      "AI从文本向视频/物理世界进化带来存储需求暴增",
+      "半导体设备景气度随存储扩产提升"
     ],
-    "recent_shift": "近期观点从前期的极端乐观（海力士目标价看极高）转为更均衡，强调仓位管理和正股持仓，减少杠杆依赖，并重视康宁等新标的的长期价值。",
+    "recent_shift": "近期从极度看好存储转向同时强调康宁等设备材料股的确定性，并因杠杆亏损更注重仓位管理。",
     "representative_quotes": [
-      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
-      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
-      "要么早信要么坚决不信，先信卖后信，每次下撤暴跌亏惨的要么是信最晚的，相当于49年入国军。"
+      "AI能干的事情过去2年，慢慢从一维数据到二维数据再到未来的三维数据进化...存储需求的数量级可能是百倍于现在",
+      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
+      "能健康的管理自己仓位已经赢过绝大多数人"
     ],
-    "generated_at": "2026-07-14T21:28:50.191082+00:00"
+    "generated_at": "2026-07-15T06:07:59.603986+00:00"
   }
 }

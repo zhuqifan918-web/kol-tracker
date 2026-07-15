@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2077241505262313546",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "51.5抄的78跑了40%，\n非常后悔，\n因为跑了一部分发现完全不知道买什么，\n全市场都是垃圾股，没有比海力士更好的。 https://t.co/6K278Zl24U",
+    "tweet_url": "https://x.com/xiaomustock/status/2077241505262313546",
+    "published_at": "2026-07-15T03:59:02+00:00",
+    "fetched_at": "2026-07-15T06:07:18.716845+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "作者以51.5元买入海力士，78元卖出40%仓位，但后悔卖出，因为市场缺乏优质标的，认为海力士是唯一值得投资的选择。表达了对海力士的看涨观点。",
+      "translation": "在51.5买了，78跑了40%，非常后悔，因为跑了一部分发现完全不知道买什么，全市场都是垃圾股，没有比海力士更好的。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077235070247797188",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -82,6 +103,25 @@
       "summary": "AEHR在发布业绩后大涨36.4%，2027年营收指引大幅增长（1.6-2倍），且有多项积极进展：主要AI处理器客户加速量产、新客户评估、基准测试客户超预期、NAND闪存完成基准测试、硅光子和网络客户需求强劲。尽管股价波动剧烈，但长期前景正面。",
       "translation": "$AEHR今天因财报上涨36.4%！2027年营收指引：1.3亿-1.5亿美元（同比增长160-200%），管理层认为有机会上调指引（假设没有记忆体或新AI客户的收入）。第四季度订单量6070万美元，有效积压1.006亿美元。主要AI处理器晶圆级老化测试客户正在大幅增产。已与其他评估晶圆级老化测试的AI处理器客户接洽。基准测试客户（“AI加速器、CPU和网络处理器的主要供应商”）“超出预期”。管理层表示：其中一个设备的潜在收入机会“对Aehr意义重大”，因此未来可能再获一个量产基准测试订单。与“全球NAND闪存领导者”完成晶圆级老化测试基准测试，现正评估HBM/NAND的开发协议。似乎涉及$SNDK，因为上一季度有HBF相关讨论。“我们的AI处理器封装级老化测试业务也在年内获得动力……来自我们的主要超大规模客户，用于Sonoma系统”。硅光子客户已开始量产，较新的网络客户已预测额外系统需求。基本上，映射到$AEHR的全球半导体公司数量惊人，覆盖硅光子、记忆体、AI处理器等。我不认为13-15亿美元的营收指引能代表2027年的实际收入，如果这些超大规模/半导体公司转为量产的话。通常，对于这类进入量产玩家的认证，市场并非根据当前季度来判断，而是看未来。而到目前为止，反应看起来非常积极……一个月内从116美元跌至60美元再反弹至94美元，波动性确实很大，但知道自己持有的是什么很重要。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077204249004454052",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The new port would be built in the city of Fujairah on the Gulf of Oman, which already has an existing harbor, but it lacks the necessary infrastructure to serve as a major export hub for the UAE.\n\nRead more: https://t.co/ZjDUOJbHBT",
+    "tweet_url": "https://x.com/unusual_whales/status/2077204249004454052",
+    "published_at": "2026-07-15T01:31:00+00:00",
+    "fetched_at": "2026-07-15T06:07:39.555011+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到阿联酋计划在富查伊拉建设新港口以增强出口能力，但未直接提及具体投资机会；这属于基础设施发展信息，可能间接影响相关行业，但缺乏明确投资方向。",
+      "translation": "新港口将建在阿曼湾的富查伊拉市，该市已有一个现有港口，但缺乏必要的基础设施来作为阿联酋的主要出口枢纽。",
+      "confidence": "medium"
     }
   },
   {
