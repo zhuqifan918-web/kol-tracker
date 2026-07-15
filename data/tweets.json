@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2077361787117388115",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "PepsiCo, $PEP, CEO Ramon Laguarta said that inflation is causing consumers to spend less on snacks and soda",
+    "tweet_url": "https://x.com/unusual_whales/status/2077361787117388115",
+    "published_at": "2026-07-15T11:57:00+00:00",
+    "fetched_at": "2026-07-15T12:09:51.534518+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PEP"
+      ],
+      "direction": "bearish",
+      "summary": "百事公司CEO表示通胀导致消费者减少零食和饮料消费，这对PEP的营收构成利空。",
+      "translation": "百事公司CEO拉蒙·拉瓜尔塔表示，通胀导致消费者在零食和汽水上的支出减少。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077351720770753019",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jim Cramer has said that tech remains the market's best place to find big winners",
+    "tweet_url": "https://x.com/unusual_whales/status/2077351720770753019",
+    "published_at": "2026-07-15T11:17:00+00:00",
+    "fetched_at": "2026-07-15T12:09:54.279679+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "吉姆·克莱默认为科技股仍是市场中最有可能找到大赢家的领域，整体看涨科技板块。",
+      "translation": "吉姆·克莱默表示，科技股仍然是市场中最能发现大赢家的地方。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077285644704071829",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -922,6 +962,25 @@
       "summary": "该推文引用Polymarket数据，显示市场预期2026年美联储加息概率为71%。这属于宏观货币政策预期，虽不直接涉及具体资产，但对利率敏感的股票和债券市场有潜在影响。",
       "translation": "根据Polymarket，2026年美联储加息的可能性为71%。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2076860930718302553",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "保持有一定数量的散户涨跌都赚不到钱对国家生产活动很重要，各行各业需要他们专心干活，不伤国本。 https://t.co/z49OHIPHR7",
+    "tweet_url": "https://x.com/xiaomustock/status/2076860930718302553",
+    "published_at": "2026-07-14T02:46:46+00:00",
+    "fetched_at": "2026-07-15T12:09:44.279534+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文认为散户在股市中难以获利，但对国家生产活动有重要意义，建议散户专心工作以维护经济稳定。这不构成具体的投资建议，但反映了对市场参与者的风险警示。",
+      "translation": "保持有一定数量的散户涨跌都赚不到钱，这对国家的生产活动很重要。各行各业需要他们专心干活，这样才不会损伤国家的根本。",
+      "confidence": "low"
     }
   },
   {
