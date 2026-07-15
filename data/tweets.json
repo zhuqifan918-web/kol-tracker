@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2077491139532497073",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bank of England Governor Andrew Bailey warns that the fallout from an AI bubble bursting would reach the UK economy and could prompt a response in interest rates",
+    "tweet_url": "https://x.com/unusual_whales/status/2077491139532497073",
+    "published_at": "2026-07-15T20:31:00+00:00",
+    "fetched_at": "2026-07-15T21:27:41.706275+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "英国央行行长警告AI泡沫破裂可能冲击英国经济并影响利率政策，暗示科技股或整体市场面临回调风险，投资者需警惕高估值板块。",
+      "translation": "英国央行行长安德鲁·贝利警告称，人工智能泡沫破裂的影响将波及英国经济，并可能引发利率方面的回应。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077481290908229923",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -56,6 +75,25 @@
       "summary": "该推文指出，有人在Stripe收购PayPal的消息公布前，投入30万美元购买了PayPal的看涨期权，获得超过500%的收益，暗示可能存在内幕交易或市场异常，但整体对PYPL股价持积极态度。",
       "translation": "天哪。看这个。有人在Stripe收购PayPal的消息公布前，投入30万美元购买了8月7日到期的50美元看涨期权（以及其他行权价）。他们现在涨了超过500%。几千美元变成了几百万美元。异常情况。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077462198587105639",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Chair Warsh: There is no limit to how fast the economy can grow.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077462198587105639",
+    "published_at": "2026-07-15T18:36:00+00:00",
+    "fetched_at": "2026-07-15T21:27:45.227875+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美联储主席Warsh表示经济增速没有上限，这暗示了宽松的货币政策可能持续，对市场整体情绪有提振作用。",
+      "translation": "美联储主席Warsh：经济增速没有上限。",
+      "confidence": "medium"
     }
   },
   {
