@@ -28,24 +28,22 @@
       "$PYPL",
       "$AAPL",
       "$NVDA",
-      "$SKHX",
-      "$LCID"
+      "$SKHY",
+      "$GME"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技增长",
-      "地缘政治风险",
-      "宏观通胀与利率",
-      "个股期权异动",
-      "市场避险资产"
+      "地缘政治风险与市场波动",
+      "AI产业与资本支出大潮",
+      "期权异常交易与数据驱动交易"
     ],
-    "recent_shift": "近期从关注地缘政治风险转向更多强调AI和数据中心投资机会。",
+    "recent_shift": "近期更多聚焦于一次性事件（如PayPal收购案、SK Hynix上市套利）和中东局势，而对长期牛市的信心有所减弱。",
     "representative_quotes": [
-      "A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%.",
-      "Fed's Chair Warsh: There is no limit to how fast the economy can grow.",
-      "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.\""
+      "Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%. They turned thousands into millions. Unusual.",
+      "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'",
+      "BREAKING: JPMorgan, BlackRock, and Goldman Sachs join 50-firm DTCC pilot to tokenize Russell 1000 stocks and US Treasurys, per WSJ"
     ],
-    "generated_at": "2026-07-15T22:28:47.955641+00:00"
+    "generated_at": "2026-07-15T23:28:09.895309+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

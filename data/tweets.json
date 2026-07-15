@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2077523374109286660",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: US House rejects amendment cutting aid from Israel",
+    "tweet_url": "https://x.com/unusual_whales/status/2077523374109286660",
+    "published_at": "2026-07-15T22:39:05+00:00",
+    "fetched_at": "2026-07-15T23:27:56.730905+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国众议院拒绝削减对以色列的援助法案，表明美国继续支持以色列。这可能影响中东地缘政治局势，进而对能源价格、国防股等产生间接影响，但未直接影响具体投资品种。",
+      "translation": "最新消息：美国众议院否决了削减对以色列援助的修正案。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2077506239072788848",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
