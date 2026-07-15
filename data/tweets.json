@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2077285644704071829",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Payments company Stripe and private equity firm Advent International have made a joint offer to ​acquire PayPal Holdings, $PYPL, for $60.50 per share, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2077285644704071829",
+    "published_at": "2026-07-15T06:54:26+00:00",
+    "fetched_at": "2026-07-15T08:40:31.192394+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PYPL"
+      ],
+      "direction": "bullish",
+      "summary": "支付公司Stripe和私募股权公司Advent International联合以每股60.50美元收购PayPal Holdings（$PYPL），显示出市场对PayPal价值的认可，收购溢价可能推动股价上涨。",
+      "translation": "支付公司Stripe和私募股权公司Advent International已联合提出以每股60.50美元收购PayPal Holdings（$PYPL），据路透社报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077241505262313546",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
