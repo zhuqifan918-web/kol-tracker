@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2077481290908229923",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Anthropic to IPO as early as October, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077481290908229923",
+    "published_at": "2026-07-15T19:51:52+00:00",
+    "fetched_at": "2026-07-15T20:02:43.481680+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "Anthropic计划最早于10月IPO，可能推动AI板块估值。作为未上市AI公司，IPO消息对持有相关ETF或受益标的的投资者为利好信号。",
+      "translation": "突发：据彭博社报道，Anthropic最早将于10月进行首次公开募股。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077472768434622495",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We have just launched a free trial of the Unusual Whales API. \n\nThe Unusual Whales API gives full access to live options, equities, prediction market data, and much more.        \n\nCheck it out here: https://t.co/JWOGQSJHkq https://t.co/NuFJzXBbdP",
+    "tweet_url": "https://x.com/unusual_whales/status/2077472768434622495",
+    "published_at": "2026-07-15T19:18:00+00:00",
+    "fetched_at": "2026-07-15T20:02:46.800575+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "Unusual Whales推出了其API的免费试用版，该API提供实时期权、股票和预测市场数据，对交易者和投资者有一定参考价值。",
+      "translation": "我们刚刚推出了Unusual Whales API的免费试用版。Unusual Whales API提供对实时期权、股票、预测市场数据等内容的完整访问。请点击这里查看：https://t.co/JWOGQSJHkq",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077465391761445279",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Holy. \n\nLook at this.\n\nSomeone knew about Stripe's acquisition offer about Paypal, $PYPL.\n\nA trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes).\n\nThey are up over 500%.\n\nThey turned thousands into millions.\n\nUnusual. https://t.co/Zu5A0Zonco",
+    "tweet_url": "https://x.com/unusual_whales/status/2077465391761445279",
+    "published_at": "2026-07-15T18:48:41+00:00",
+    "fetched_at": "2026-07-15T20:02:49.380429+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PYPL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出，有人在Stripe收购PayPal的消息公布前，投入30万美元购买了PayPal的看涨期权，获得超过500%的收益，暗示可能存在内幕交易或市场异常，但整体对PYPL股价持积极态度。",
+      "translation": "天哪。看这个。有人在Stripe收购PayPal的消息公布前，投入30万美元购买了8月7日到期的50美元看涨期权（以及其他行权价）。他们现在涨了超过500%。几千美元变成了几百万美元。异常情况。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077457668785234265",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -218,6 +277,25 @@
       "direction": "bullish",
       "summary": "印度政府宣布追加1.9万亿卢比（197亿美元）用于支持本土芯片和智能手机生产，这对印度半导体和电子制造行业构成政策利好，中长期可能提升相关企业竞争力并吸引投资。",
       "translation": "据彭博社报道，印度已承诺再投入1.9万亿卢比（197亿美元）用于推动国内芯片和智能手机生产。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077412118991679837",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Germany’s Chancellor Merz: US tariffs have badly damaged the German economy.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077412118991679837",
+    "published_at": "2026-07-15T15:17:00+00:00",
+    "fetched_at": "2026-07-15T20:02:53.791878+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "德国总理默茨表示美国关税严重损害德国经济，可能引发市场对德国及欧洲经济前景的担忧，对相关资产构成利空。",
+      "translation": "突发：德国总理默茨：美国关税严重损害了德国经济。",
       "confidence": "medium"
     }
   },
