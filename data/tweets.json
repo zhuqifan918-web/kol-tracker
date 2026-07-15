@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2077457668785234265",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Warsh: I'm not happy with any of the inflation measures.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077457668785234265",
+    "published_at": "2026-07-15T18:18:00+00:00",
+    "fetched_at": "2026-07-15T18:35:58.178029+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员Warsh对通胀数据表示不满，暗示通胀可能高于预期或顽固，这可能导致美联储维持或收紧货币政策，对股市构成利空。",
+      "translation": "美联储的Warsh表示：我对任何通胀指标都不满意。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077448860671021319",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia CEO Jensen Huang met former Sega CEO Shoichiro Irimajiri and game designer Yu Suzuki in Tokyo to thank them for a $5 million investment in 1995 that saved Nvidia from bankruptcy after the company failed to deliver a chip Sega had ordered",
+    "tweet_url": "https://x.com/unusual_whales/status/2077448860671021319",
+    "published_at": "2026-07-15T17:43:00+00:00",
+    "fetched_at": "2026-07-15T18:36:01.257657+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达早期曾因Sega的500万美元投资而避免破产，这段历史彰显了英伟达的韧性和战略眼光，对公司长期发展构成积极信号。",
+      "translation": "英伟达CEO黄仁勋在东京会见了前世嘉CEO入交昭一郎和游戏设计师铃木裕，感谢他们在1995年提供的500万美元投资。这笔投资在英伟达未能交付世嘉订购的芯片后，挽救了公司免于破产。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077445080567472300",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Apple's, $AAPL, in-house M2 Ultra chips have fallen short for advanced AI workloads, forcing the company to rely on Nvidia, according to The Information.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077445080567472300",
+    "published_at": "2026-07-15T17:27:58+00:00",
+    "fetched_at": "2026-07-15T18:36:03.068927+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL",
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "报道称苹果自研M2 Ultra芯片在高级AI工作负载上表现不足,被迫依赖英伟达,这对苹果(AAPL)是利空,而对英伟达(NVDA)可能有利。投资者需关注苹果AI能力短板及英伟达的潜在受益。",
+      "translation": "突发:据The Information报道,苹果(AAPL)自研的M2 Ultra芯片在高级AI工作负载上表现不足,迫使公司依赖英伟达。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077437150715666900",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -15,6 +77,46 @@
       "direction": "neutral",
       "summary": "彭博报道Anthropic最早可能在10月进行IPO，此前该公司在去年5月以9650亿美元估值完成650亿美元融资。该推文询问读者是否愿意以超过1万亿美元的估值投资Anthropic，对IPO时机和估值水平表示关注，但未明确给出看多或看空立场。",
       "translation": "彭博报道，Anthropic最早可能在10月进行IPO。此前他们在去年5月以9650亿美元的估值完成了650亿美元融资。嗯，你们会在超过1万亿美元的估值下投资Anthropic吗？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077434826479788245",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: One of the biggest driving forces in the future for jobs is data centers",
+    "tweet_url": "https://x.com/unusual_whales/status/2077434826479788245",
+    "published_at": "2026-07-15T16:47:14+00:00",
+    "fetched_at": "2026-07-15T18:36:04.798026+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DATA"
+      ],
+      "direction": "neutral",
+      "summary": "特朗普提到数据中心是未来就业的主要驱动力，这暗示着相关科技行业可能获得政策支持。数据中心行业（如云计算、AI基础设施）可能受益，但未明确提及具体投资标的。",
+      "translation": "特朗普：未来就业的最大驱动力之一是数据中心。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077432251655037041",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077432251655037041",
+    "published_at": "2026-07-15T16:37:00+00:00",
+    "fetched_at": "2026-07-15T18:36:06.604749+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "巴菲特指出，多数人更倾向于投机而非投资，因此服务于投机者（如赌博行为）比培养投资者更有利可图。这暗示市场存在过度投机，长期价值投资可能被忽视。",
+      "translation": "沃伦·巴菲特谈市场：“既然人类如此热爱赌博，那么培养赌徒实际上比培养投资者更能赚钱。”",
       "confidence": "high"
     }
   },
