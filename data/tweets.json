@@ -1,5 +1,89 @@
 [
   {
+    "tweet_id": "2077822321545380105",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump Media to sell \"faster access\" to President Trump's Truth Social posts, which will let traders and investors pay for real-time feed of Truth Social posts.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077822321545380105",
+    "published_at": "2026-07-16T18:27:00+00:00",
+    "fetched_at": "2026-07-16T18:37:43.395357+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DJT"
+      ],
+      "direction": "neutral",
+      "summary": "特朗普媒体公司计划出售对特朗普Truth Social帖文的“快速访问”服务，允许交易者和投资者付费获取实时推送。此举可能影响公司股价，但具体影响需取决于定价和市场需求。",
+      "translation": "突发：特朗普媒体公司将出售对特朗普Truth Social帖文的“快速访问”，允许交易者和投资者付费获取Truth Social帖文的实时推送。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077808981247238213",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "全网现在都是清仓的，看空的，做空的。\n怎么能让你们所有人都对呢，\n意见越统一的时候傻逼越多。",
+    "tweet_url": "https://x.com/xiaomustock/status/2077808981247238213",
+    "published_at": "2026-07-16T17:33:59+00:00",
+    "fetched_at": "2026-07-16T18:37:31.567626+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "当前市场情绪极度一致，普遍看空和清仓。作者认为这种一致性往往意味着大多数人会犯错，暗示市场可能出现反转，实际上是一种反指的看多信号。",
+      "translation": "全网现在都是清仓的，看空的，做空的。怎么能让你们所有人都对呢，意见越统一的时候傻逼越多。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077804705510793341",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "CZ of Binance has said: AI is great, but it does not protect you against inflation.  Bitcoin does.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077804705510793341",
+    "published_at": "2026-07-16T17:17:00+00:00",
+    "fetched_at": "2026-07-16T18:37:48.266855+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "bullish",
+      "summary": "CZ认为比特币是对抗通胀的工具，而AI不具备此功能，暗示对比特币的看好态度。",
+      "translation": "币安CZ表示：AI很强大，但它不能保护你免受通胀影响。比特币可以。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077803489942802814",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "全网看起来都清仓了，\n抄了soxl，muu，snxx，\n三个成本142/27.2/15 https://t.co/M3aK3g1VDD",
+    "tweet_url": "https://x.com/xiaomustock/status/2077803489942802814",
+    "published_at": "2026-07-16T17:12:10+00:00",
+    "fetched_at": "2026-07-16T18:37:33.385657+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOXL",
+        "MUU",
+        "SNXX"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为市场普遍清仓时是抄底机会，因此买入SOXL、MUU和SNXX，成本分别为142、27.2和15。",
+      "translation": "全网看起来都清仓了，我抄底了SOXL、MUU、SNXX，三个成本分别是142/27.2/15。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077794639298404510",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
