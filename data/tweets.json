@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2077868626741522435",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Yemen's Houthi Leader: All Saudi oil and vital facilities would be targets for group's missiles if Riyadh gets involved in comprehensive aggression against Yemen and escalates.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077868626741522435",
+    "published_at": "2026-07-16T21:31:00+00:00",
+    "fetched_at": "2026-07-16T21:58:25.937554+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "胡塞武装威胁袭击沙特石油设施，可能推高油价并对相关能源资产产生负面影响。",
+      "translation": "也门胡塞武装领导人：如果沙特卷入对也门的全面侵略并升级行动，沙特的所有石油和重要设施都将成为该组织导弹的目标。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077860322128368121",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Logan: Inflation does not appear to be heading sustainably back to 2% on its own.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077860322128368121",
+    "published_at": "2026-07-16T20:58:00+00:00",
+    "fetched_at": "2026-07-16T21:58:27.488360+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员Logan表示通胀未能持续回落至2%目标，暗示可能维持或进一步收紧货币政策，对市场构成利空。",
+      "translation": "美联储的Logan表示：通胀似乎并未自行可持续地回到2%的水平。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077848446112031091",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -56,6 +94,25 @@
       "summary": "该推文报道在韩国，过去一周有120万投资者面临追加保证金通知，相当于每30名劳动年龄成年人中就有1人。这暗示市场正经历重大抛售或杠杆去化，可能预示韩国股市及加密货币市场短期将面临进一步下行压力。",
       "translation": "据报道，上周有120万韩国投资者收到了追加保证金通知，相当于每30名劳动年龄成年人中就有1人。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077824466604994617",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales stream is live.\n\nJoin us as we talk about new features (free API trial), check on the most unusual flow, and look at the tickers you want to see.\n\nJoin here: https://t.co/CoJuJLvGHm",
+    "tweet_url": "https://x.com/unusual_whales/status/2077824466604994617",
+    "published_at": "2026-07-16T18:35:31+00:00",
+    "fetched_at": "2026-07-16T21:58:33.319625+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布Unusual Whales直播，讨论新功能（免费API试用）和异常期权流动，未给出具体投资建议或方向。",
+      "translation": "最新消息：Unusual Whales直播正在进行中。加入我们，一起谈论新功能（免费API试用），查看最不寻常的资金流向，以及你想看到的股票代码。点击这里加入：https://t.co/CoJuJLvGHm",
+      "confidence": "medium"
     }
   },
   {
