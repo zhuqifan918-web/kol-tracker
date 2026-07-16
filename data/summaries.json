@@ -24,26 +24,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$AAPL",
       "$PYPL",
+      "$SKHY",
       "$META",
-      "$TSM"
+      "$GME"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与芯片短缺",
-      "地缘政治风险与能源安全",
-      "通胀与货币政策",
-      "企业并购与市场波动",
-      "加密资产与价值投资"
+      "人工智能与半导体",
+      "地缘政治风险",
+      "美国通胀与货币政策",
+      "科技巨头财报与市场波动",
+      "投资情绪分化"
     ],
-    "recent_shift": "近期对通胀和关税退款的关注增加，但对AI长期看好的立场不变",
+    "recent_shift": "近期更关注地缘政治和通胀数据，对AI和半导体长期前景保持乐观但短期波动风险增加。",
     "representative_quotes": [
-      "We are at the beginning of the cycle.",
-      "Tough to find value when everyone is gambling",
-      "Iran will consider all of Elon Musk's companies in the Middle East, including SpaceX's Starlink internet service, as military targets"
+      "CZ of Binance has said: AI is great, but it does not protect you against inflation. Bitcoin does.",
+      "Warren Buffett: 'Tough to find value' when everyone is gambling",
+      "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'"
     ],
-    "generated_at": "2026-07-16T18:38:04.544591+00:00"
+    "generated_at": "2026-07-16T19:57:07.094184+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
