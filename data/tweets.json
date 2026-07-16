@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2077794639298404510",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Japan is building the world's first national AI factory with Nvidia $NVDA, powered by 13,750 Vera CPUs, 27,500 Rubin GPUs, and 140 MW of data center capacity, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077794639298404510",
+    "published_at": "2026-07-16T16:37:00+00:00",
+    "fetched_at": "2026-07-16T17:11:39.367803+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "日本与英伟达合作建设全球首座国家级AI工厂，涉及大量Vera CPU和Rubin GPU的部署，凸显英伟达在AI基础设施中的核心地位，对其业务增长有积极影响。",
+      "translation": "据彭博社报道，日本正在与英伟达（$NVDA）合作建设全球首座国家级AI工厂，该工厂将配备13,750个Vera CPU、27,500个Rubin GPU以及140兆瓦的数据中心容量。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077789606301381103",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Korea is temporarily halting new listing of single-stock leveraged ETFs to control market volatility, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077789606301381103",
+    "published_at": "2026-07-16T16:17:00+00:00",
+    "fetched_at": "2026-07-16T17:11:40.908742+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "韩国暂停单只股票杠杆ETF新上市以控制市场波动，此举可能抑制投机热情，短期内对韩国股市和相关金融产品构成利空。",
+      "translation": "突发：据彭博社报道，韩国暂时停止单只股票杠杆ETF的新上市，以控制市场波动。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077784594959725056",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -184,6 +224,25 @@
       "direction": "bullish",
       "summary": "高盛预测AI代理将推动代币消费量在2030年前增长24倍，并在未来12-18个月加剧芯片短缺，暗示芯片相关资产可能受益。",
       "translation": "高盛表示，AI代理可能在2030年前推动代币消费量增长24倍，并在未来12至18个月内加剧芯片短缺。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077714108800282951",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China AI models have rapidly gained traction, per FT: https://t.co/Im4Ohf1fKr",
+    "tweet_url": "https://x.com/unusual_whales/status/2077714108800282951",
+    "published_at": "2026-07-16T11:17:00+00:00",
+    "fetched_at": "2026-07-16T17:11:50.465240+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "中国AI模型快速崛起，可能带动相关科技板块和AI概念股的投资机会，市场情绪偏正面。",
+      "translation": "据金融时报报道，中国AI模型迅速获得关注。",
       "confidence": "medium"
     }
   },
