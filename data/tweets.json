@@ -1,5 +1,81 @@
 [
   {
+    "tweet_id": "2077581736532226088",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Defense officials asked Congress for an infusion of more than $67 billion in supplemental funding to ease the shortfall until the new budget in October, but Congress is wary of approving the funding even as the cost of the war with Iran swells.\n\nRead more: https://t.co/3rsoipevS5",
+    "tweet_url": "https://x.com/unusual_whales/status/2077581736532226088",
+    "published_at": "2026-07-16T02:31:00+00:00",
+    "fetched_at": "2026-07-16T03:55:48.064976+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出国防部请求补充资金以应对伊朗战争成本上升，但国会犹豫不决，表明国防开支面临不确定性，可能对国防相关行业造成压力。",
+      "translation": "国防官员向国会请求超过670亿美元的补充资金，以缓解直到十月新预算前的资金短缺，但国会即使在与伊朗战争成本膨胀的情况下，也对批准这笔资金持谨慎态度。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077573431600550042",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "For the first time in two decades, Buffett decided to skip his midyear donations to the Gates Foundation\n\nRead more: https://t.co/yW6xm7uWlP",
+    "tweet_url": "https://x.com/unusual_whales/status/2077573431600550042",
+    "published_at": "2026-07-16T01:58:00+00:00",
+    "fetched_at": "2026-07-16T03:55:49.998003+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "巴菲特首次在20年来中断年中向盖茨基金会捐款，这一行为可能反映其投资策略或税务考量变化，对市场情绪有中性影响。",
+      "translation": "二十年来首次，巴菲特决定跳过年中向盖茨基金会的捐款。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077551537509843434",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The June figures reflect the accelerating pace of repayments flowing from the Supreme Court’s Feb. 20 ruling that struck down the broad tariffs by President Donald Trump.\n\nRead more: https://t.co/vHVZt61zNb",
+    "tweet_url": "https://x.com/unusual_whales/status/2077551537509843434",
+    "published_at": "2026-07-16T00:31:00+00:00",
+    "fetched_at": "2026-07-16T03:55:55.269973+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及最高法院裁定废除特朗普广泛关税后，6月退款速度加快，这可能影响相关行业及市场情绪，但未指定具体投资标的。",
+      "translation": "6月份的数据反映出，因最高法院2月20日裁定废除特朗普总统的广泛关税，退款速度正在加快。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2077543232523690031",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "he latest notification comes as the two countries fight over control of the Strait of Hormuz, a key international passageway through which around 20 percent of the world’s oil and gas typically flows.\n\nRead more: https://t.co/vN9ZvovSXy",
+    "tweet_url": "https://x.com/unusual_whales/status/2077543232523690031",
+    "published_at": "2026-07-15T23:58:00+00:00",
+    "fetched_at": "2026-07-16T03:55:57.299153+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "霍尔木兹海峡的地缘政治紧张局势可能扰乱全球约20%的石油和天然气运输，对能源价格和依赖该航道的公司构成风险。",
+      "translation": "最新通知发布之际，两国正在争夺霍尔木兹海峡的控制权，该海峡是关键的国际化通道，全球约20%的石油和天然气通常通过此处运输。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077543232620187852",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

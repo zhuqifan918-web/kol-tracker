@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "PYPL",
-      "NVDA",
-      "AAPL",
-      "META",
-      "GME"
+      "$PYPL",
+      "$NVDA",
+      "$AAPL",
+      "$SKHY",
+      "$GME"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "宏观经济与通胀",
-      "科技与AI投资",
-      "地缘政治风险",
-      "期权市场异常交易",
-      "加密货币与新兴市场"
+      "通胀与利率预期分化",
+      "地缘政治风险加剧",
+      "AI与科技支出扩张",
+      "市场结构性机会与风险并存",
+      "政策与监管不确定性"
     ],
-    "recent_shift": "近期更关注通胀数据改善和科技股机会，但伊朗冲突和关税风险加剧市场不确定性。",
+    "recent_shift": "近期观点无明显方向性转变，仍强调地缘风险与通胀放缓并存，同时关注科技股业绩和新兴投资工具。",
     "representative_quotes": [
-      "Holy. Look at this. Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%. They turned thousands into millions.",
-      "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.\"",
-      "Fed's Chair Warsh: There is no limit to how fast the economy can grow."
+      "Holy. Look at this. Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls... They are up over 500%.",
+      "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'",
+      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today."
     ],
-    "generated_at": "2026-07-16T00:55:45.395072+00:00"
+    "generated_at": "2026-07-16T03:56:13.833483+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
