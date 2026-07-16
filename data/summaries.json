@@ -23,26 +23,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "PYPL",
-      "TSM",
-      "AAPL",
-      "SKHY"
+      "$NVDA",
+      "$PYPL",
+      "$SKHY",
+      "$AAPL",
+      "$TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与能源供应链紧张",
-      "AI与芯片行业持续高景气",
-      "通胀放缓与货币政策不确定性",
-      "市场投机情绪与监管动态"
+      "地缘政治风险升温",
+      "通胀持续高企",
+      "AI产业泡沫疑虑",
+      "宏观经济增长放缓"
     ],
-    "recent_shift": "近期更聚焦地缘冲突与能源扰动，同时持续追踪AI和半导体机会，通胀缓和增强市场信心。",
+    "recent_shift": "近期观点从早期对AI和科技股的热情转向更多关注通胀和地缘政治风险",
     "representative_quotes": [
-      "Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”",
-      "Warren Buffett: \"Tough to find value\" when everyone is gambling",
-      "A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news... They are up over 500%."
+      "Call your semiconductor.",
+      "Warren Buffett: 'Tough to find value' when everyone is gambling",
+      "The stock market and economy seem out of sync, per CNBC"
     ],
-    "generated_at": "2026-07-16T21:58:44.190910+00:00"
+    "generated_at": "2026-07-16T22:51:47.918489+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

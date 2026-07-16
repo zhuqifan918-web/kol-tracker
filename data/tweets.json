@@ -59,6 +59,25 @@
     }
   },
   {
+    "tweet_id": "2077845869219676389",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Call your semiconductor. https://t.co/klcXNwGlfE",
+    "tweet_url": "https://x.com/unusual_whales/status/2077845869219676389",
+    "published_at": "2026-07-16T20:00:34+00:00",
+    "fetched_at": "2026-07-16T22:51:35.710192+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文提示关注半导体行业投资机会，但未提供具体方向或分析。",
+      "translation": "给你的半导体打电话。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2077839937634722077",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -134,6 +153,25 @@
       "summary": "特朗普媒体公司计划出售对特朗普Truth Social帖文的“快速访问”服务，允许交易者和投资者付费获取实时推送。此举可能影响公司股价，但具体影响需取决于定价和市场需求。",
       "translation": "突发：特朗普媒体公司将出售对特朗普Truth Social帖文的“快速访问”，允许交易者和投资者付费获取Truth Social帖文的实时推送。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077819805013512235",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The FDA has announced a recall of more than 735,000 packages of Pillsbury bread rolls due to possible glass contamination, per ABC",
+    "tweet_url": "https://x.com/unusual_whales/status/2077819805013512235",
+    "published_at": "2026-07-16T18:17:00+00:00",
+    "fetched_at": "2026-07-16T22:51:39.457091+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及美国食品药品监督管理局（FDA）召回超过73.5万包Pillsbury面包卷，原因是可能存在玻璃污染。这一事件对生产商（如通用磨坊公司）的股价可能产生负面影响，属于利空消息。",
+      "translation": "美国食品药品监督管理局（FDA）宣布召回超过73.5万包Pillsbury面包卷，原因是可能含有玻璃污染，据ABC报道。",
+      "confidence": "high"
     }
   },
   {
