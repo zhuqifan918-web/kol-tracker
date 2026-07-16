@@ -1,5 +1,65 @@
 [
   {
+    "tweet_id": "2077759407098839244",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran has reportedly instructed Yemen's Houthis to prepare to shut the Bab el-Mandeb Strait if the U.S. targets Iranian power infrastructure, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2077759407098839244",
+    "published_at": "2026-07-16T14:17:00+00:00",
+    "fetched_at": "2026-07-16T14:30:40.069066+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文涉及地缘政治紧张局势，可能影响全球航运和能源供应链，导致石油和天然气价格上涨，对相关行业产生负面影响。",
+      "translation": "据路透社报道，伊朗已指示也门胡塞武装准备在美军攻击伊朗电力基础设施时关闭曼德海峡。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077753660592033828",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Today, $MU announced it signed memory LTAs with $QCOM.\n\nInteresting reaction to see Micron proceeded to drop 5.37% right after.\n\nDoesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?\n\nMore like the tail end of deleveraging / margin cascades.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+    "published_at": "2026-07-16T13:54:10+00:00",
+    "fetched_at": "2026-07-16T14:30:20.044115+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "QCOM"
+      ],
+      "direction": "neutral",
+      "summary": "作者认为美光（MU）宣布与高通（QCOM）签署长期协议后股价下跌5.37%，并非基本面恶化，而是市场去杠杆/保证金追缴的尾部效应，对AI和存储股的结构性前景仍保持中性偏多。",
+      "translation": "今天，$MU 宣布与 $QCOM 签署了内存长期协议。有趣的是，美光随即下跌了5.37%。这并不像是存储或AI个股本身有什么问题，毕竟有这么多结构性协议在签署。更像是去杠杆/保证金追缴的尾声。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077744307604209890",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Home prices in the US have risen for 36 straight months, per CBS",
+    "tweet_url": "https://x.com/unusual_whales/status/2077744307604209890",
+    "published_at": "2026-07-16T13:17:00+00:00",
+    "fetched_at": "2026-07-16T14:30:42.563873+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国房价连续36个月上涨，表明房地产市场持续走强，可能利好房地产相关投资，如房地产信托基金（REITs）和住房建筑商股票。",
+      "translation": "突发：据CBS报道，美国房价已连续36个月上涨。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077719141809598762",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -15,6 +75,25 @@
       "direction": "bullish",
       "summary": "高盛预测AI代理将推动代币消费量在2030年前增长24倍，并在未来12-18个月加剧芯片短缺，暗示芯片相关资产可能受益。",
       "translation": "高盛表示，AI代理可能在2030年前推动代币消费量增长24倍，并在未来12至18个月内加剧芯片短缺。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077709075337429427",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US government paid out nearly double the amount of tariff refunds to businesses than it actually collected in June, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2077709075337429427",
+    "published_at": "2026-07-16T10:57:00+00:00",
+    "fetched_at": "2026-07-16T14:30:50.179249+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出美国政府在6月支付的关税退款几乎是其实际征收关税的两倍，暗示政府财政赤字或贸易政策的异常可能对市场构成负面影响。",
+      "translation": "美国政府6月支付的关税退款金额几乎是实际征收关税的两倍，据YF报道。",
       "confidence": "medium"
     }
   },
