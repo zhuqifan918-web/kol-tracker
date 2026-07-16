@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2077848446112031091",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Netflix, $NFLX, earnings:\n\n- Revenue: $12.58 billion, est: 12.56 billion\n- EPS: $0.8, est: $0.79",
+    "tweet_url": "https://x.com/unusual_whales/status/2077848446112031091",
+    "published_at": "2026-07-16T20:10:48+00:00",
+    "fetched_at": "2026-07-16T20:51:29.298062+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NFLX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文报道了Netflix（$NFLX）的财报数据，营收和每股收益均略超预期，对股价构成利好。",
+      "translation": "Netflix（$NFLX）财报：营收125.8亿美元，预期125.6亿美元；每股收益0.8美元，预期0.79美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077839937634722077",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The average U.S. 30-year fixed mortgage rate has hit 6.55%, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077839937634722077",
+    "published_at": "2026-07-16T19:37:00+00:00",
+    "fetched_at": "2026-07-16T20:51:32.100088+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "30年期固定抵押贷款利率上升至6.55%，可能对房地产市场、建筑及相关金融板块产生负面影响，投资者需警惕高利率环境对经济的压制。",
+      "translation": "快讯：据彭博社报道，美国平均30年期固定抵押贷款利率已达6.55%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077829871318057045",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

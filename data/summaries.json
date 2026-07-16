@@ -24,26 +24,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
+      "$AAPL",
+      "$TSM",
       "$PYPL",
-      "$SKHY",
-      "$META",
-      "$GME"
+      "$SKHX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与半导体",
-      "地缘政治风险",
-      "美国通胀与货币政策",
-      "科技巨头财报与市场波动",
-      "投资情绪分化"
+      "AI与半导体基础设施投资",
+      "地缘政治风险（伊朗、中美）",
+      "通胀与货币政策走向",
+      "企业财报与估值调整",
+      "加密资产与去中心化金融"
     ],
-    "recent_shift": "近期更关注地缘政治和通胀数据，对AI和半导体长期前景保持乐观但短期波动风险增加。",
+    "recent_shift": "近期从关注通胀数据与宏观风险，转向AI、半导体及地缘政治事件对市场的即时影响。",
     "representative_quotes": [
-      "CZ of Binance has said: AI is great, but it does not protect you against inflation. Bitcoin does.",
-      "Warren Buffett: 'Tough to find value' when everyone is gambling",
-      "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'"
+      "We are at the beginning of the cycle.",
+      "Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.",
+      "AI is great, but it does not protect you against inflation. Bitcoin does."
     ],
-    "generated_at": "2026-07-16T19:57:07.094184+00:00"
+    "generated_at": "2026-07-16T20:51:46.915059+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
