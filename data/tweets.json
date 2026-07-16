@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2077543232620187852",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Annual core inflation eased to 2.6% from 2.9%, below forecasts of 2.8%. Compared to the previous month, core CPI steadied, compared to forecasts of a 0.2% rise.\n\nRead more: https://t.co/fjWYtKmQSd",
+    "tweet_url": "https://x.com/unusual_whales/status/2077543232620187852",
+    "published_at": "2026-07-15T23:58:00+00:00",
+    "fetched_at": "2026-07-16T00:55:28.180307+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "核心通胀率低于预期，环比持平，这表明通胀压力减弱，可能缓解市场对加息的担忧，对股市和债市构成利好。",
+      "translation": "年化核心通胀率从2.9%降至2.6%，低于预期2.8%。与上月相比，核心CPI保持稳定，而预期为上升0.2%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077523374109286660",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
