@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2077890521046057340",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Previously, Cramer said $IBM was a buy.\n\nTo get updates like this, subscribe to Unusual Whales.\n\nSee more: https://t.co/KYhYEgQk9a",
+    "tweet_url": "https://x.com/unusual_whales/status/2077890521046057340",
+    "published_at": "2026-07-16T22:58:00+00:00",
+    "fetched_at": "2026-07-16T23:50:30.517727+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IBM"
+      ],
+      "direction": "bullish",
+      "summary": "推特提到Cramer曾推荐买入IBM股票，暗示看涨信号。Unusual Whales推广提供类似更新，但未提供具体分析。",
+      "translation": "之前，Cramer说$IBM是买入的。要获取此类更新，请订阅Unusual Whales。查看更多：https://t.co/KYhYEgQk9a",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2077868626741522435",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
