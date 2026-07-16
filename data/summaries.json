@@ -26,49 +26,47 @@
   "unusual_whales": {
     "focus_tickers": [
       "$PYPL",
-      "$NVDA",
       "$AAPL",
+      "$NVDA",
       "$SKHY",
-      "$GME"
+      "$META"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "通胀与利率预期分化",
       "地缘政治风险加剧",
-      "AI与科技支出扩张",
-      "市场结构性机会与风险并存",
-      "政策与监管不确定性"
+      "通胀数据低于预期",
+      "科技行业分化明显",
+      "宏观经济增长放缓",
+      "市场波动性增加"
     ],
-    "recent_shift": "近期观点无明显方向性转变，仍强调地缘风险与通胀放缓并存，同时关注科技股业绩和新兴投资工具。",
+    "recent_shift": "近期更关注地缘冲突和通胀回落对市场的冲击，此前更侧重科技股和期权交易机会。",
     "representative_quotes": [
-      "Holy. Look at this. Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls... They are up over 500%.",
-      "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'",
-      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today."
+      "Real GDP has slowed from roughly 3.3% growth in 2023 to about 1.9% so far this year.",
+      "A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%.",
+      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap."
     ],
-    "generated_at": "2026-07-16T03:56:13.833483+00:00"
+    "generated_at": "2026-07-16T06:11:06.265830+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$SKHYX",
       "$GLW",
-      "$ASX",
       "$MU",
-      "$NVDA"
+      "$NVDA",
+      "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片中长期受益于AI数据量爆发",
-      "玻璃基板与光互连技术成下一代AI芯片关键",
-      "AI尚处早期，算力与存储需求远未达峰值",
-      "杠杆交易风险高，仓位管理比选股更重要",
-      "物理AI及视频数据将推动存储需求指数级增长"
+      "存储芯片长期看涨，受益于AI从文本向视频数据进化",
+      "康宁玻璃基板作为英伟达下一代芯片关键材料，业绩有10倍增长潜力",
+      "半导体设备厂受益于存储扩产周期"
     ],
-    "recent_shift": "前期因市场回调亏损而情绪悲观，后期坚定看多存储并强调AI长期趋势未变，态度从恐慌转向坚决持有。",
+    "recent_shift": "近期从极度看多存储并持有单一仓位，转向配置康宁和半导体设备以分散风险，但仍坚信存储为核心。",
     "representative_quotes": [
-      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
-      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
-      "要么早信要么坚决不信，先信卖后信。"
+      "AI能干的事情过去2年，慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去。",
+      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
+      "在未来某个时刻存储降价开启的时刻，可以第一时间梭哈苹果，因为售价不变利润率飙升，预期财报利润暴涨。"
     ],
-    "generated_at": "2026-07-15T17:18:21.820479+00:00"
+    "generated_at": "2026-07-16T06:11:03.876269+00:00"
   }
 }
