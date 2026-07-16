@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2077653260094284052",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "投降了，剩下60%刚58卖了，太贪心了，\n本来买的时候就想着有个75就走，\n真到了反而贪心了，\n几把人性呐，\n太恶心丑陋。",
+    "tweet_url": "https://x.com/xiaomustock/status/2077653260094284052",
+    "published_at": "2026-07-16T07:15:12+00:00",
+    "fetched_at": "2026-07-16T08:38:39.286253+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该用户卖出持仓，因贪婪未能及时止盈，目前以亏损或较低价格卖出，情绪消极，对后市看法不乐观。",
+      "translation": "投降了，剩下的60%刚刚58块卖了，太贪心了。本来买的时候想着有75就走，真到了反而贪心了，几把人性呐，太恶心丑陋。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077644495764758555",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: $TSM earnings:\n\n- EPS: $4.31, est: $3.77 \n- Revenue: $40.20 billion, est: $39.7 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2077644495764758555",
+    "published_at": "2026-07-16T06:40:23+00:00",
+    "fetched_at": "2026-07-16T08:38:46.806505+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "台积电公布的财报显示每股收益和营收均超出市场预期，分别达到4.31美元和402亿美元，高于预估的3.77美元和397亿美元。这通常被视为公司基本面强劲的信号，对股价有正面影响。",
+      "translation": "突发：$TSM财报：每股收益：4.31美元，预期：3.77美元；营收：402亿美元，预期：397亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077629816715784370",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This is why Unusual Whales was made.\n\nWe are constantly working to make these trades more visible for you.\n\nSubscribe to Unusual Whales to get access.\n\nSee more: https://t.co/Ylny1dtn9r",
+    "tweet_url": "https://x.com/unusual_whales/status/2077629816715784370",
+    "published_at": "2026-07-16T05:42:03+00:00",
+    "fetched_at": "2026-07-16T08:38:49.651261+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣传Unusual Whales服务，强调其监控异常交易并提供可见性，但未明确提及具体投资方向或标的。相关指标为中性。",
+      "translation": "这就是Unusual Whales诞生的原因。我们不断努力让这些交易更加可见。订阅Unusual Whales以获取访问权限。查看更多：https://t.co/Ylny1dtn9r",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2077625606771278043",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1872,6 +1931,25 @@
       "direction": "bearish",
       "summary": "该推文提及美国12个民主党州提起诉讼，阻止派拉蒙以1110亿美元收购华纳兄弟的交易。该收购案面临反垄断审查，可能对相关公司股票造成压力，投资者需关注诉讼进展对交易完成的影响。",
       "translation": "据《纽约时报》，12个民主党州提起诉讼，阻止派拉蒙以1110亿美元收购华纳兄弟。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076763531039654092",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump notifies Congress of new war against Iran, per POLITICO",
+    "tweet_url": "https://x.com/unusual_whales/status/2076763531039654092",
+    "published_at": "2026-07-13T20:19:44+00:00",
+    "fetched_at": "2026-07-16T08:38:53.899447+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普通知国会美国对伊朗发动新战争的消息将加剧地缘政治紧张局势，可能引发能源价格飙升、避险资产上涨（如黄金、美元），并对全球股市（尤其是风险资产）构成压力。投资者需警惕波动性上升及相关军工、能源板块的短期交易机会。",
+      "translation": "突发：据POLITICO报道，特朗普通知国会美国将对伊朗发动新的战争。",
       "confidence": "high"
     }
   },

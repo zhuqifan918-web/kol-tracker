@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$PYPL",
+      "$TSM",
       "$AAPL",
       "$NVDA",
-      "$SKHY",
-      "$META"
+      "$GME"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险加剧",
-      "通胀数据低于预期",
-      "科技行业分化明显",
-      "宏观经济增长放缓",
-      "市场波动性增加"
+      "半导体制造与AI芯片需求",
+      "地缘政治与能源市场波动",
+      "通胀与美联储政策",
+      "期权交易与异常流动性监测",
+      "企业并购与杠杆ETP创新"
     ],
-    "recent_shift": "近期更关注地缘冲突和通胀回落对市场的冲击，此前更侧重科技股和期权交易机会。",
+    "recent_shift": "近期观点从关注宏观数据和美联储转向科技股业绩推动与地缘政治风险，但对市场整体依然保持中性。",
     "representative_quotes": [
-      "Real GDP has slowed from roughly 3.3% growth in 2023 to about 1.9% so far this year.",
-      "A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%.",
-      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap."
+      "Holy. Look at this. Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%. They turned thousands into millions. Unusual.",
+      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap.",
+      "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'"
     ],
-    "generated_at": "2026-07-16T06:11:06.265830+00:00"
+    "generated_at": "2026-07-16T08:39:11.204552+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
@@ -57,16 +57,16 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片长期看涨，受益于AI从文本向视频数据进化",
-      "康宁玻璃基板作为英伟达下一代芯片关键材料，业绩有10倍增长潜力",
-      "半导体设备厂受益于存储扩产周期"
+      "存储芯片长期需求爆发",
+      "AI硬件基建确定性增长",
+      "玻璃基板技术替代传统方案"
     ],
-    "recent_shift": "近期从极度看多存储并持有单一仓位，转向配置康宁和半导体设备以分散风险，但仍坚信存储为核心。",
+    "recent_shift": "近期从极度乐观转为恐慌性抛售并后悔，但仍坚持长期看多存储和AI基础设施",
     "representative_quotes": [
-      "AI能干的事情过去2年，慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去。",
-      "康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
-      "在未来某个时刻存储降价开启的时刻，可以第一时间梭哈苹果，因为售价不变利润率飙升，预期财报利润暴涨。"
+      "未来各大巨头搞物理AI的军备竞赛的时候，他们绝对的需求量不是gpu，cpu，只有存储。",
+      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
+      "投降了，剩下60%刚58卖了，太贪心了，本来买的时候就想着有个75就走，真到了反而贪心了。"
     ],
-    "generated_at": "2026-07-16T06:11:03.876269+00:00"
+    "generated_at": "2026-07-16T08:39:08.140877+00:00"
   }
 }
