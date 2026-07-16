@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2077704042264813642",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Warren Buffett: \"Tough to find value\" when everyone is gambling",
+    "tweet_url": "https://x.com/unusual_whales/status/2077704042264813642",
+    "published_at": "2026-07-16T10:37:00+00:00",
+    "fetched_at": "2026-07-16T10:49:42.407371+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "巴菲特指出当前市场投机氛围浓厚，价值投资机会稀缺，暗示投资者应警惕市场泡沫和短期炒作风险。",
+      "translation": "沃伦·巴菲特：“当所有人都在赌博时，很难找到价值。”",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077653260094284052",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",

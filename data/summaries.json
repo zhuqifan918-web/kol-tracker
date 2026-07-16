@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$PYPL",
-      "$TSM",
-      "$AAPL",
-      "$NVDA",
-      "$GME"
+      "PYPL",
+      "AAPL",
+      "NVDA",
+      "GME",
+      "META"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "半导体制造与AI芯片需求",
-      "地缘政治与能源市场波动",
-      "通胀与美联储政策",
-      "期权交易与异常流动性监测",
-      "企业并购与杠杆ETP创新"
+      "地缘政治风险与供应链不确定性",
+      "AI与科技投资热潮",
+      "通胀与货币政策博弈",
+      "企业兼并收购与重组",
+      "市场投机与价值投资的背离"
     ],
-    "recent_shift": "近期观点从关注宏观数据和美联储转向科技股业绩推动与地缘政治风险，但对市场整体依然保持中性。",
+    "recent_shift": "从对经济放缓和地缘冲突的担忧，转向关注AI驱动增长和结构性交易机会，但整体态度仍较谨慎。",
     "representative_quotes": [
-      "Holy. Look at this. Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%. They turned thousands into millions. Unusual.",
-      "This is not a meme stock. This is $IBM, a multi billion dollar company. It is down 28% today. It lost billions in marketcap.",
-      "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'"
+      "Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.",
+      "Tough to find value when everyone is gambling",
+      "Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%."
     ],
-    "generated_at": "2026-07-16T08:39:11.204552+00:00"
+    "generated_at": "2026-07-16T10:50:00.270532+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
