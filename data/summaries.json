@@ -24,45 +24,49 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
+      "$AAPL",
       "$PYPL",
       "$META",
-      "$AAPL",
-      "$SKHY"
+      "$TSM"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮与芯片需求",
+      "人工智能与芯片短缺",
       "地缘政治风险与能源安全",
-      "美国经济通胀与政策博弈"
+      "通胀与货币政策",
+      "企业并购与市场波动",
+      "加密资产与价值投资"
     ],
-    "recent_shift": "从强调AI泡沫风险转向关注具体投资机会，如Nvidia和AI基础设施",
+    "recent_shift": "近期对通胀和关税退款的关注增加，但对AI长期看好的立场不变",
     "representative_quotes": [
-      "Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”",
-      "AI agents could drive a 24-fold increase in token consumption by 2030, worsening chip shortages over the next 12 to 18 months, per Goldman Sachs.",
-      "Warren Buffett: 'Tough to find value' when everyone is gambling"
+      "We are at the beginning of the cycle.",
+      "Tough to find value when everyone is gambling",
+      "Iran will consider all of Elon Musk's companies in the Middle East, including SpaceX's Starlink internet service, as military targets"
     ],
-    "generated_at": "2026-07-16T17:11:55.064507+00:00"
+    "generated_at": "2026-07-16T18:38:04.544591+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SKHYX",
-      "$GLW",
-      "$MU",
-      "$NVDA",
-      "$AMAT"
+      "SKHYX",
+      "GLW",
+      "MU",
+      "NVDA",
+      "AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片长期需求爆发",
-      "AI硬件基建确定性增长",
-      "玻璃基板技术替代传统方案"
+      "存储芯片长期需求爆发，受AI视频数据驱动",
+      "康宁玻璃基板技术成为AI芯片关键，业绩有望十倍增长",
+      "AI基建仍早期，大厂投入巨大但存储产能不足",
+      "杠杆和仓位管理重要性，避免爆仓风险",
+      "韩国股市波动剧烈，但存储龙头长期看好"
     ],
-    "recent_shift": "近期从极度乐观转为恐慌性抛售并后悔，但仍坚持长期看多存储和AI基础设施",
+    "recent_shift": "近期从强烈看多海力士并多次加仓抄底，到后期因下跌出现情绪波动和后悔，但总体仍坚信存储长期前景，并转向康宁等新标的。",
     "representative_quotes": [
-      "未来各大巨头搞物理AI的军备竞赛的时候，他们绝对的需求量不是gpu，cpu，只有存储。",
+      "AI能干的事情过去2年，慢慢从一维数据到二维数据再到未来的三维数据进化……存储需求的数量级可能是百倍于现在，要坚信你的存储。",
       "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了。",
-      "投降了，剩下60%刚58卖了，太贪心了，本来买的时候就想着有个75就走，真到了反而贪心了。"
+      "要么早信要么坚决不信，先信卖后信，每次下撤暴跌亏惨的要么是信最晚的，要么是杠杆打满的。"
     ],
-    "generated_at": "2026-07-16T08:39:08.140877+00:00"
+    "generated_at": "2026-07-16T18:38:01.803246+00:00"
   }
 }
