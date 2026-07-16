@@ -1,5 +1,81 @@
 [
   {
+    "tweet_id": "2077625606771278043",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "78% chance Anthropic IPOs on December 31, 2026, per Polymarket: https://t.co/PkXffaoCbE",
+    "tweet_url": "https://x.com/unusual_whales/status/2077625606771278043",
+    "published_at": "2026-07-16T05:25:19+00:00",
+    "fetched_at": "2026-07-16T06:10:40.375467+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Polymarket预测市场显示Anthropic在2026年12月31日IPO的概率为78%，但未对投资价值或方向给出明确判断。",
+      "translation": "根据Polymarket数据，Anthropic在2026年12月31日IPO的概率为78%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077619451550405047",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 74% chance Stripe will acquire any part of Paypal in 20206, per Polymarket:",
+    "tweet_url": "https://x.com/unusual_whales/status/2077619451550405047",
+    "published_at": "2026-07-16T05:00:52+00:00",
+    "fetched_at": "2026-07-16T06:10:42.091357+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Polymarket上关于Stripe在2026年收购PayPal部分业务的概率预测，属于市场事件讨论，但未直接提供明确的投资建议或方向性判断。",
+      "translation": "根据Polymarket数据，Stripe在2026年收购PayPal任何部分的可能性为74%。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2077605283707462081",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "刚睡醒，又后悔没把剩下的60%也78卖掉，韩国人是真疯呐。",
+    "tweet_url": "https://x.com/xiaomustock/status/2077605283707462081",
+    "published_at": "2026-07-16T04:04:34+00:00",
+    "fetched_at": "2026-07-16T06:10:29.984160+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文表达了卖出后（或未卖出）的后悔情绪，暗示对市场（尤其是韩国市场）极度亢奋的担忧，可能认为短期泡沫风险大。",
+      "translation": "刚睡醒，又后悔没把剩下的60%也在78卖出，韩国人真是疯啊。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077603378901770270",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Real GDP has slowed from roughly 3.3% growth in 2023 to about 1.9% so far this year.\n\nRead more: https://t.co/UTuUfAmZlj",
+    "tweet_url": "https://x.com/unusual_whales/status/2077603378901770270",
+    "published_at": "2026-07-16T03:57:00+00:00",
+    "fetched_at": "2026-07-16T06:10:46.997214+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "实际GDP增速从2023年的约3.3%放缓至今年迄今的约1.9%，表明经济增长势头减弱，可能对股市构成负面影响。",
+      "translation": "实际GDP增速已从2023年的约3.3%放缓至今年迄今的约1.9%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077581736532226088",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -449,6 +525,27 @@
       "summary": "印度政府宣布追加1.9万亿卢比（197亿美元）用于支持本土芯片和智能手机生产，这对印度半导体和电子制造行业构成政策利好，中长期可能提升相关企业竞争力并吸引投资。",
       "translation": "据彭博社报道，印度已承诺再投入1.9万亿卢比（197亿美元）用于推动国内芯片和智能手机生产。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077415078706753927",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: PayPal shareholders call the takeover offer too low as odds of a deal jump to 74%. https://t.co/uWQdxlcnNv",
+    "tweet_url": "https://x.com/unusual_whales/status/2077415078706753927",
+    "published_at": "2026-07-15T15:28:45+00:00",
+    "fetched_at": "2026-07-16T06:10:43.669728+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PYPL"
+      ],
+      "direction": "bullish",
+      "summary": "PayPal股东认为收购报价过低，交易概率上升至74%，表明市场预期收购可能溢价上调，利好股价。",
+      "translation": "最新消息：PayPal股东认为收购报价过低，交易概率跃升至74%。",
+      "confidence": "high"
     }
   },
   {
