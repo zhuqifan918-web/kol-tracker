@@ -1,5 +1,114 @@
 [
   {
+    "tweet_id": "2077784594959725056",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "My guess is we’re close to market bottom on semis from $INTC to $LITE.\n\nA good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077784594959725056",
+    "published_at": "2026-07-16T15:57:05+00:00",
+    "fetched_at": "2026-07-16T15:57:29.610835+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC",
+        "LITE",
+        "RDDT"
+      ],
+      "direction": "bullish",
+      "summary": "用户推测半导体板块（如英特尔、LITE）接近市场底部，并用Reddit散户爆仓作为反向指标，暗示买入机会。",
+      "translation": "我猜测我们接近半导体市场底部，从英特尔到LITE。一个好的指标是Reddit上的每个人都把他们的投资组合亏到零。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077784572797002239",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”",
+    "tweet_url": "https://x.com/unusual_whales/status/2077784572797002239",
+    "published_at": "2026-07-16T15:57:00+00:00",
+    "fetched_at": "2026-07-16T15:58:06.441717+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达CEO黄仁勋表示AI繁荣仍处于早期阶段，这暗示当前投资时机尚早，市场增长潜力巨大。",
+      "translation": "突发：英伟达（$NVDA）CEO黄仁勋表示AI繁荣仍处于早期阶段，宣称“我们正处于周期的起点”。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077774506899169471",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The FDA approved a daily pill from Merck that can lower cholesterol levels far below what statins can, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2077774506899169471",
+    "published_at": "2026-07-16T15:17:00+00:00",
+    "fetched_at": "2026-07-16T15:58:09.454899+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRK"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提及默克（Merck）的每日药片获得FDA批准，能大幅降低胆固醇水平，可能对默克股票构成利好，暗示其市场竞争力增强。",
+      "translation": "据《纽约时报》，FDA批准了默克公司的一款每日药片，可以将胆固醇水平降低至远低于他汀类药物的水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077769473591845004",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has promoted more than 20 companies on his Truth Social account days after buying stock in those firms, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2077769473591845004",
+    "published_at": "2026-07-16T14:57:00+00:00",
+    "fetched_at": "2026-07-16T15:58:11.365793+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普在Truth Social上推广其持股的公司，可能旨在拉升股价，但存在利益冲突和误导风险。投资者需谨慎对待此类信息。",
+      "translation": "突发：据CNN报道，特朗普在购买超过20家公司的股票数天后，在其Truth Social账号上推广了这些公司。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077768896061563339",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others):\n\nUsing 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP):\n\nSivers would support $341-$512M worth of annual array revenue. Given upper end of managements 50-60%+ gross margin target, would be roughly:\n\n$205–307M of annual gross profit.\n\nAgainst Sivers current ~$1.1B MC, would be ~:\n\n3.6–5.4× MC/gross profit if this capacity scenario plays out in 2028.  \n\nAnd at 15% would be $307–461M in gross profit (2.4–3.6× MC/gross profit)\n\nSivers CEO also replied that they're working with more fabs for capacity. And from an older deck, there looks to be more qualifications since 2024.  \n\nSo capacity targets might be larger than what's stated here as CPO takes off. \n\nI also expect to see revenue pipeline projections hiked in future quarters, as more qualification suppliers to into HVM. \n_\n\nAs for demand side, CW also happens to be very bottlenecked. \n\nLumentum are buying CW off the open market due to EML obligations from their ER transcript. \n\nAnd $AMD are signing LTAs to secure CW capacity (from Trendforce). So when Sivers is ramping with $GFS, $JBL, Ayar, $POET, O-NET and others... \n\nGiven the current constraints, it's highly likely any  independent qualified capacity that comes online would be absorbed.  \n\nAnd as a cherry on top, Morgan Stanley named $SIVE (~$1.1B) as one of the three leading CPO laser players .\n\nAlongside $55B+ players Coherent and Lumentum in their recent note for a reason...\n\n_\n\nTLDR: Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations. \n\nI think the largest revenue upside that isn't modeled in if they TAM expansion with M&A after US NASDAQ listing. \n\nBy copying the Lumentum playbook with Cloud Light to build out entire transceiver modules or with optical engines.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077768896061563339",
+    "published_at": "2026-07-16T14:54:42+00:00",
+    "fetched_at": "2026-07-16T15:57:39.332511+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "$SIVE",
+        "$AMD",
+        "$GFS",
+        "$JBL",
+        "$POET"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好Sivers（$SIVE）的投资前景，认为其通过晶圆产能（如Win Semi）的低端分配即可产生可观利润，并指出CPO（共封装光学）市场需求旺盛，产能紧缺，公司有望受益。",
+      "translation": "很多人好奇$SIVE通过无晶圆厂（Win Semi等）的产能容量建模：使用Win的10%晶圆产能作为低端分配（假设良率65%，ASP $50-$75）：Sivers将支持每年$341-$512M的阵列收入。按照管理层50-60%+的毛利率目标，大约是$205-$307M的年度毛利润。相对于Sivers目前约$11亿市值，如果2028年实现该产能情景，MC/毛利润大约为3.6-5.4倍。而以15%计算，毛利润为$307-$461M（MC/毛利润2.4-3.6倍）。Sivers CEO还回复说他们正在与更多晶圆厂合作。从之前的资料看，自2024年以来还有更多认证。因此，随着CPO起飞，产能目标可能比这里陈述的更大。我还预计未来几个季度收入管道预测会上调，因为更多认证供应商进入HVM。\n\n需求方面，CW（连续波激光器）也非常瓶颈。Lumentum因EML义务从其财报电话会议中购买CW。$AMD正在签署LTA以锁定CW产能（来自Trendforce）。因此当Sivers与$GFS、$JBL、Ayar、$POET、O-NET等合作时，鉴于当前限制，任何独立认证的产能上线很可能被吸收。\n更值得一提的是，摩根士丹利将$SIVE（约$11亿市值）列为三大CPO激光器玩家之一，与$550亿+的Coherent和Lumentum同列。\n\n总结：Sivers只需从Win获得低端分配，就能相对于当前估值产生可观的总收入。我认为如果在美国纳斯达克上市后通过M&A进行TAM扩张，最大的收入上行空间未被建模。通过复制Lumentum收购Cloud Light的剧本，来构建整个收发器模块或光学引擎。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2077759407098839244",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -618,6 +727,27 @@
       "direction": "bearish",
       "summary": "原意指海力士（SK Hynix）股价跌幅巨大，从“大力士”和“海公公”的昵称变成了贬义的“海狗”，表明对该股近期走势极度悲观。",
       "translation": "海力士已经跌得不是大力士也不是海公公了，只能叫它海狗。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2077427816870646183",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Your assumptions are wrong. Win Semiconductors has a InP capacity of 35.000 wafers per year. Assume even a low number 10% of that is 3500 wafers. There are approximately 3000 CW arrays on a wafer, price per Array >$50. At only 10% of this capacity Sivers could sell for more than $500m just for arrays..then you have pluggables, wireless...at 20% capacity...even more. Production qual has been ongoing for sometime, as WIN mgmt confirmed, hence should not be too far away.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077427816870646183",
+    "published_at": "2026-07-15T16:19:22+00:00",
+    "fetched_at": "2026-07-16T15:57:45.001987+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Sivers"
+      ],
+      "direction": "bullish",
+      "summary": "推文质疑对Sivers的负面假设，指出Win Semiconductors的InP产能中仅10%用于阵列即可带来5亿美元以上收入，且生产验证接近完成，强烈看多。",
+      "translation": "你的假设是错误的。稳懋半导体拥有每年3.5万片InP晶圆产能。假设其中的10%（即3500片）被用于CW阵列，每片晶圆约有3000个阵列，每个阵列售价超过50美元。仅10%的产能，Sivers就能通过阵列获得超过5亿美元的收入。此外还有可插拔模块、无线产品等……若产能利用率达20%，收入将更高。生产认证已进行一段时间，稳懋管理层已确认，因此应该不会太远了。",
       "confidence": "high"
     }
   },
