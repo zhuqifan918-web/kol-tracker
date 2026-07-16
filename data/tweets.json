@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2077719141809598762",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AI agents could drive a 24-fold increase in token consumption by 2030, worsening chip shortages over the next 12 to 18 months, per Goldman Sachs.",
+    "tweet_url": "https://x.com/unusual_whales/status/2077719141809598762",
+    "published_at": "2026-07-16T11:37:00+00:00",
+    "fetched_at": "2026-07-16T12:14:34.551658+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "高盛预测AI代理将推动代币消费量在2030年前增长24倍，并在未来12-18个月加剧芯片短缺，暗示芯片相关资产可能受益。",
+      "translation": "高盛表示，AI代理可能在2030年前推动代币消费量增长24倍，并在未来12至18个月内加剧芯片短缺。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077704042264813642",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

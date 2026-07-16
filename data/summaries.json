@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "PYPL",
-      "AAPL",
-      "NVDA",
-      "GME",
-      "META"
+      "$NVDA",
+      "$AAPL",
+      "$PYPL",
+      "$TSM",
+      "$META"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与供应链不确定性",
-      "AI与科技投资热潮",
-      "通胀与货币政策博弈",
-      "企业兼并收购与重组",
-      "市场投机与价值投资的背离"
+      "AI芯片短缺与算力需求",
+      "中东地缘政治风险",
+      "宏观经济放缓与通胀缓和",
+      "科技巨头资本支出扩张",
+      "加密货币与支付行业整合"
     ],
-    "recent_shift": "从对经济放缓和地缘冲突的担忧，转向关注AI驱动增长和结构性交易机会，但整体态度仍较谨慎。",
+    "recent_shift": "近期从关注AI机会转向警告芯片短缺和地缘风险，同时强调高估值下的价值投资困境。",
     "representative_quotes": [
-      "Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.",
-      "Tough to find value when everyone is gambling",
-      "Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%."
+      "Warren Buffett: \"Tough to find value\" when everyone is gambling",
+      "AI agents could drive a 24-fold increase in token consumption by 2030, worsening chip shortages over the next 12 to 18 months, per Goldman Sachs.",
+      "Trump: One of the biggest driving forces in the future for jobs is data centers"
     ],
-    "generated_at": "2026-07-16T10:50:00.270532+00:00"
+    "generated_at": "2026-07-16T12:14:51.580774+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
