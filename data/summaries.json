@@ -27,23 +27,25 @@
     "focus_tickers": [
       "$NVDA",
       "$AAPL",
-      "$NFLX",
       "$PYPL",
-      "$GME"
+      "$GME",
+      "$NFLX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与半导体",
-      "地缘政治风险",
-      "通胀与美联储政策"
+      "人工智能与半导体增长",
+      "地缘政治风险与市场波动",
+      "通胀与货币政策不确定性",
+      "企业并购与资本运作",
+      "消费者支出与行业分化"
     ],
-    "recent_shift": "近期推文反映出市场情绪从科技股强势转向对地缘冲突和通胀粘性的担忧。",
+    "recent_shift": "从早期看好科技股转向关注通胀和地缘政治风险，无明显方向性改变",
     "representative_quotes": [
-      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg",
-      "Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment.",
-      "Warren Buffett: \"Tough to find value\" when everyone is gambling"
+      "Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”",
+      "Warren Buffett: 'Tough to find value' when everyone is gambling",
+      "Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment."
     ],
-    "generated_at": "2026-07-17T19:38:44.250985+00:00"
+    "generated_at": "2026-07-17T20:43:36.813521+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
