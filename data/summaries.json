@@ -24,25 +24,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$NFLX",
-      "$TSM",
       "$PYPL",
+      "$AAPL",
+      "$TSM",
       "$IBM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "通胀持续但放缓",
-      "地缘政治风险升温",
-      "消费者支出疲软",
-      "技术面与基本面分化"
+      "人工智能和芯片产业",
+      "地缘政治风险与能源安全",
+      "通胀与货币政策变化",
+      "企业与市场情绪分化"
     ],
-    "recent_shift": "近期更强调经济放缓信号和地缘冲突风险，对市场乐观情绪减弱",
+    "recent_shift": "从早期聚焦企业数据和通胀利好，转向关注地缘冲突升级和个别企业暴跌风险",
     "representative_quotes": [
-      "Spending at US retailers last month was weaker than expected, despite the World Cup drawing tourists from around the world and online sales events, per CNN",
-      "The stock market and economy seem out of sync, per CNBC",
-      "Warren Buffett: 'Tough to find value' when everyone is gambling"
+      "Holy. Look at this. Someone knew about Stripe's acquisition offer about Paypal, $PYPL. A trader slammed $300k into $PYPL 50 calls expiring 08/07/2026 before the news last week (and other strikes). They are up over 500%. They turned thousands into millions. Unusual.",
+      "Warren Buffett: 'Tough to find value' when everyone is gambling",
+      "Holy. Look at this. Lucid, $LCID, is down 40% TODAY on bankruptcy news."
     ],
-    "generated_at": "2026-07-17T11:03:53.010088+00:00"
+    "generated_at": "2026-07-17T12:40:58.953372+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
