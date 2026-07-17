@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$PYPL",
-      "$GME",
       "$AAPL",
-      "$NFLX"
+      "$NFLX",
+      "$PYPL",
+      "$GME"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与芯片",
+      "AI与半导体",
       "地缘政治风险",
-      "通胀与利率",
-      "企业盈利与估值",
-      "另类资产与投机"
+      "通胀与美联储政策"
     ],
-    "recent_shift": "近期态度从偏多转向更谨慎，关注通胀顽固和地缘冲突风险，但仍看好AI长期趋势。",
+    "recent_shift": "近期推文反映出市场情绪从科技股强势转向对地缘冲突和通胀粘性的担忧。",
     "representative_quotes": [
-      "GameStop, $GME, CEO Ryan Cohen said “we’re coming for eBay, $EBAY, one way or another.\"",
+      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg",
       "Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment.",
       "Warren Buffett: \"Tough to find value\" when everyone is gambling"
     ],
-    "generated_at": "2026-07-17T18:08:51.490095+00:00"
+    "generated_at": "2026-07-17T19:38:44.250985+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
