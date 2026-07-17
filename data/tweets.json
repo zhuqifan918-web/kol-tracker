@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2078246114269282724",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump sent more than 6,000 Truth Social posts last year and his managers made more than 20,000 stock purchases or sales in that same time frame.\n\nRead more: https://t.co/IzYl7TCnTa",
+    "tweet_url": "https://x.com/unusual_whales/status/2078246114269282724",
+    "published_at": "2026-07-17T22:31:00+00:00",
+    "fetched_at": "2026-07-17T23:43:09.267059+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DJT"
+      ],
+      "direction": "neutral",
+      "summary": "推文提及特朗普及其公司Truth Social的高管进行了大量股票交易，暗示可能对迪杰特（DJT）股价产生影响，但未明确给出操作建议。",
+      "translation": "特朗普去年发布了超过6000条Truth Social帖子，而他的管理层在同一时间段内进行了超过20000次股票买卖。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078228019584668121",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -22,6 +43,27 @@
       "summary": "高盛大幅上调中际旭创目标价及2026-2028年盈利预测，基于硅光子模块量增、1.6T/3.2T提升ASP和利润率、AI资本开支增加等因素，这对整个光子学生态系统构成积极信号，尤其利好CW激光器、SOI晶圆需求以及800G光模块相关标的。",
       "translation": "谢谢，喜欢读评论！高盛将中际旭创目标价上调至2581元人民币，较当前估值约有163.6%的上涨空间。更重要的是，2026-2028年盈利预测大幅上调65%/108%/119%，依据是：硅光子模块量大幅增长、扩展规模/升级/横向扩展、1.6T/3.2T提升混合平均售价和利润率、AI资本开支增加。这对光学板块具有重大传导意义，因为我认为中际旭创类似台积电在半导体资本开支方面的指示作用。例如，硅光子渗透率提高意味着CW激光器（如SIVE）和SOI晶圆需求（SOI）的TAM扩大。未来一代ASP上调对其他光学厂商也是积极信号。报告之外的另一个收获是，中际旭创在12日电话会议中表示800G需求增长远超预期，这预示着AAOI、LITE等公司下次财报将有更好表现。总结：高盛在大幅回调期间给出了很高的盈利预期。从基本面上看，整个光子学生态系统在财报季应该会感到高兴。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078222709922894303",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jensen Huang's of Nvidia, $NVDA, jacket just auctioned for nearly $1 million at Sotheby's.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078222709922894303",
+    "published_at": "2026-07-17T20:58:00+00:00",
+    "fetched_at": "2026-07-17T23:43:13.662642+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "黄仁勋的夹克在苏富比拍出近100万美元，事件本身不直接影响NVIDIA股价，但体现其个人品牌价值。",
+      "translation": "英伟达CEO黄仁勋的夹克在苏富比拍卖会上以近100万美元成交。",
+      "confidence": "low"
     }
   },
   {
