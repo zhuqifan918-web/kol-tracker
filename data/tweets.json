@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2078066467980083408",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "无需多言，给你们抄底的信心。 https://t.co/VH1lyd2lsG",
+    "tweet_url": "https://x.com/xiaomustock/status/2078066467980083408",
+    "published_at": "2026-07-17T10:37:09+00:00",
+    "fetched_at": "2026-07-17T11:03:04.658370+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文鼓励投资者在低位抄底，表达了对市场后续上涨的信心，但未提及具体标的。",
+      "translation": "无需多言，给你们抄底的信心。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2078066430185013437",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Spending at US retailers last month was weaker than expected, despite the World Cup drawing tourists from around the world and online sales events, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2078066430185013437",
+    "published_at": "2026-07-17T10:37:00+00:00",
+    "fetched_at": "2026-07-17T11:03:21.042411+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国零售支出低于预期，尽管有世界杯和线上促销活动推动，表明消费疲软，可能对零售相关股票不利。",
+      "translation": "上个月美国零售商的支出低于预期，尽管世界杯吸引了世界各地游客且线上促销活动不断，据CNN报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078058246259216419",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "反弹来了，\n人生最有价值的一句建议，Do not fear！\n跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2078058246259216419",
+    "published_at": "2026-07-17T10:04:29+00:00",
+    "fetched_at": "2026-07-17T11:03:06.295964+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推特认为股市暴跌后即将反弹，鼓励不要恐惧，暗示巴菲特可能会大举买入，整体看多市场。",
+      "translation": "反弹来了，人生最有价值的一句建议，不要恐惧！跌成这个样子，再跌下去巴菲特得把几千亿美金梭哈了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078022313266803156",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
