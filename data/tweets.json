@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2078130772121399553",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Agreed! It’s nice to remember your thesis during a market crash.\n\nFrom my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. \n\nIs it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly earnings… when it’s 2026?\n\nSame applies to my CPO sector exposure like $SIVE, an architecture shift led by $NVDA. \n\nIf scale out volume ramps from H2 2026 into 2027, and scale up heavily volume ramps into 2028.\n\nIs it “over” that $0 -> $91B TAM expansion (per GS) hasn’t even hit yet?\n\nWith robotics like Agility, is it over in 2026 if the listing hasn’t even happened yet and humanoids haven’t ramped?\n\nI personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.\n\nIt’s brutal for everyone to see KOSPI, TW, Nikkei, and AI, space, robotics sector stocks crash recently. \n\nEspecially when there’s a lot of irrational behavior stemming from those leverage.\n\nIn the end, we can’t tell you what stocks to buy, what timeframe you should sell, how to size your positions, or what you should do. \n\nOnly share personal thoughts or research and track if they get validated over time.\n\nSo it’s extremely important to build your own thesis, since everyone has unique risk tolerance or investing timeframes.\n\nAnd that usually leads to having higher conviction during crashes.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2078130772121399553",
+    "published_at": "2026-07-17T14:52:40+00:00",
+    "fetched_at": "2026-07-17T15:52:41.764739+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "SIVE",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为当前市场下跌主要由流动性和杠杆驱动，而非基本面恶化；强调坚持自己的投资逻辑，看好AAOI在2027年实现季度营收14亿美元、SIVE等CPO领域受益于英伟达架构变革、以及机器人（如Agility）的长远增长潜力，认为恐慌是建立信念的机会。",
+      "translation": "我同意！在市场崩盘时记住自己的投资逻辑是件好事。根据我个人观点，如果$AAOI在2027年第三季度初达到14亿美元的季度营收，按年化计算相当于56亿美元，市值80亿美元。那么，如果这个营收增长在2026年的季度财报中尚未体现，公司就“完蛋”了吗？同样适用于我的CPO板块持仓，比如$SIVE，这一架构转变由$NVDA主导。如果从2026年下半年到2027年放量规模逐步扩大，而2028年大规模量产，那么从0到910亿美元（高盛数据）的TAM扩张尚未实现就“完蛋”了吗？至于机器人公司Agility，如果2026年上市尚未发生、人形机器人尚未放量，就“完蛋”了吗？我个人认为当前市场状况反映的是流动性和杠杆问题，而非个股基本面。看到KOSPI、TW、Nikkei以及AI、太空、机器人板块近期暴跌，尤其其中大量非理性行为源于杠杆，对所有人来说都很残酷。最后，我们无法告诉你们买什么股票、何时卖出、如何分配仓位或该做什么。只能分享个人想法或研究，并跟踪它们是否随时间得到验证。因此，建立自己的投资逻辑至关重要，因为每个人的风险承受能力和投资时间框架不同。这通常能让你在崩盘时更有信心。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078126828225437940",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078126828225437940",
+    "published_at": "2026-07-17T14:37:00+00:00",
+    "fetched_at": "2026-07-17T15:53:14.581382+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员Hammack表示通胀过高且劳动力市场接近充分就业，暗示可能维持紧缩货币政策，对股市流动性形成压制。",
+      "translation": "美联储的Hammack：通胀过高。劳动力市场正接近我眼中的最大就业水平。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078121794909983162",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -212,6 +254,25 @@
       "summary": "该推文提到梅尔茨认为15%的关税协议未能达到柏林在谈判中的预期，这暗示贸易谈判或关税政策可能导致市场不确定性或负面影响，对相关行业和投资者情绪构成潜在利空。",
       "translation": "梅尔茨认为，与华盛顿达成的15%关税协议未能达到柏林在谈判中期望的结果。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077937700246626632",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Stop panicking.\n\nTake a second and really evaluate what you’re holding in your portfolio.\n\nNow ask yourself…\n\nWhy did you buy it in the first place?\n\nWhat was your investment thesis?\n\nRelax.\n\nTake a deep breath.\n\nDid you buy it for a quick trade?\n\nOr did you invest because you believe in where the company will be years from now?\n\nIf your long term thesis hasn’t changed…\n\nClose your brokerage app.\n\nGo live your life.\n\nBe present with your family.\n\nGood night fam. 💚",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2077937700246626632",
+    "published_at": "2026-07-17T02:05:28+00:00",
+    "fetched_at": "2026-07-17T15:52:47.103175+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文鼓励投资者在市场波动中保持冷静，评估自己的投资组合，区分短期交易与长期投资，并建议若长期逻辑未变则无需恐慌。",
+      "translation": "停止恐慌。\n花一秒钟真正评估你投资组合中的资产。\n现在问自己...\n你当初为什么买入？\n你的投资逻辑是什么？\n放松。\n深呼吸。\n你买入是为了短期交易？\n还是因为相信公司多年后的前景？\n如果你的长期逻辑没有改变...\n关闭你的券商App。\n去生活。\n陪伴家人。\n晚安，家人们。💚",
+      "confidence": "high"
     }
   },
   {
