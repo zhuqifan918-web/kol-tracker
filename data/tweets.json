@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2078096629102748072",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US beef herds are at all-time lows, per CNBC: https://t.co/ZqUh6z2ItE",
+    "tweet_url": "https://x.com/unusual_whales/status/2078096629102748072",
+    "published_at": "2026-07-17T12:37:00+00:00",
+    "fetched_at": "2026-07-17T12:40:31.277202+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国肉牛存栏量创历史新低，可能推高牛肉价格，利好相关畜牧业上市公司和牛肉替代品公司。",
+      "translation": "根据CNBC报道，美国肉牛存栏量处于历史最低水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078091596600336447",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "DRAM memory prices have surged up to 300%, per the Verge.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078091596600336447",
+    "published_at": "2026-07-17T12:17:00+00:00",
+    "fetched_at": "2026-07-17T12:40:32.833931+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "DRAM内存价格暴涨最多300%，对存储芯片行业相关公司（如三星、SK海力士、美光）构成显著利好，可能推动其股价上涨。",
+      "translation": "据The Verge报道，DRAM内存价格已飙升高达300%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078066467980083408",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -133,6 +171,25 @@
       "direction": "bullish",
       "summary": "分析师认为市场对半导体行业过度悲观，DRAM供应将持续紧张，2026-2027年供应缺口扩大，SK海力士和三星远期市盈率极低，内存需求具有结构性，建议持有或买入。",
       "translation": "Meritz证券的金善宇表示：“现在不是卖出三星电子和SK海力士的时候。”他们声称市场对半导体状况存在过度误解，且DRAM短缺将在下半年加剧。 - 2026下半年：“供应商仅能满足75%–80%的DRAM需求”。 - 2027年：“满足率预计将降至60%区间。”文中附有的市场预测显示，SK海力士2027年市盈率为3.5倍，三星为3.9倍。英特尔CEO关于时间框架的说法最为贴切：“内存供应或定价至少在2028年之前不会有缓解。”尤其是美光签署了16份长期协议，包含有利的照付不议数量合同...内存需求似乎是结构性的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077944124452336092",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Merz has argued that the 15% tariff arrangement with Washington fell short of what Berlin had hoped for in negotiations.\n\nRead more: https://t.co/L81Fm0KA6J",
+    "tweet_url": "https://x.com/unusual_whales/status/2077944124452336092",
+    "published_at": "2026-07-17T02:31:00+00:00",
+    "fetched_at": "2026-07-17T12:40:42.008967+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到梅尔茨认为15%的关税协议未能达到柏林在谈判中的预期，这暗示贸易谈判或关税政策可能导致市场不确定性或负面影响，对相关行业和投资者情绪构成潜在利空。",
+      "translation": "梅尔茨认为，与华盛顿达成的15%关税协议未能达到柏林在谈判中期望的结果。",
       "confidence": "medium"
     }
   },
