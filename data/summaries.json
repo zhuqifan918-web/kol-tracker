@@ -24,26 +24,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$IBM",
       "$PYPL",
-      "$AAPL",
-      "$TSM"
+      "$LCID",
+      "$TSM",
+      "$NFLX"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "通胀高于预期与美联储政策分歧",
-      "地缘政治冲突加剧（中东、美伊、红海）",
-      "AI泡沫与经济脱节风险",
-      "房地产市场持续承压",
-      "散户投机与巴菲特价值投资背离"
+      "AI行业长期增长但面临芯片短缺",
+      "地缘政治风险加剧（伊朗冲突、胡塞武装威胁）",
+      "通胀持续高位、经济放缓与消费疲软",
+      "市场投机行为引发估值担忧",
+      "科技巨头财报表现分化"
     ],
-    "recent_shift": "近期观点明显转向悲观，从关注通胀回落转向强调经济放缓、地缘冲突和AI泡沫风险。",
+    "recent_shift": "近两日从较为乐观（如强调AI机会）转向更悲观，突出地缘冲突、通胀顽固及市场风险。",
     "representative_quotes": [
       "Warren Buffett: \"Tough to find value\" when everyone is gambling",
-      "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.",
-      "B of England Governor Andrew Bailey warns that the fallout from an AI bubble bursting would reach the UK economy and could prompt a response in interest rates"
+      "Fed's Logan: Inflation does not appear to be heading sustainably back to 2% on its own.",
+      "Iran's IRGC: As long as the US stays in the region, not a drop of oil and gas will be exported from the region."
     ],
-    "generated_at": "2026-07-16T23:50:44.282288+00:00"
+    "generated_at": "2026-07-17T01:48:05.986277+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
