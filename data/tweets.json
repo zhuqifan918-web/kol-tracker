@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2078121794909983162",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Netflix, $NFLX, said it used AI to produce 17 minutes of a documentary ‘twice as fast and at half the cost’",
+    "tweet_url": "https://x.com/unusual_whales/status/2078121794909983162",
+    "published_at": "2026-07-17T14:17:00+00:00",
+    "fetched_at": "2026-07-17T14:25:20.426888+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NFLX"
+      ],
+      "direction": "bullish",
+      "summary": "Netflix利用AI制作纪录片，成本减半、速度翻倍，展示AI对内容生产效率的提升，有助于降低成本、扩大利润空间，对NFLX构成利好。",
+      "translation": "Netflix（$NFLX）表示，他们利用AI制作了一部纪录片的17分钟内容，速度是原来的两倍，成本只有一半。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078096629102748072",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
