@@ -1,5 +1,30 @@
 [
   {
+    "tweet_id": "2078228019584668121",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Thanks, love reading the comments!\n\nGoldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations.\n\nBut the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on:\n\n-  Much higher silicon photonics module volumes\n- scale out, scale up, scale across volumes\n- 1.6T/3.2T lifting blended ASP + margins\n- increase in AI capex\n\nThis is typically very material read through on the optical sector since:\n\nI tend to think of Innolight as a $TSM (semi capex) type read on how the photonics landscape is doing.\n\nEg. Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI. ASP hikes for future gen is positive for the other optical markers too.\n\nThink my other takeaway outside the report was Innolight stating 800g demand was growing more significantly than expected from their transcript on the 12th. \n\nWhich in turn signals more demand for names like $AAOI to $LITE next earnings.\n\nTLDR: GS gives high earnings projections during a time of massive corrections. \n\nFundamentally, broader photonics ecosystem should be happy when it’s ER time.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+    "published_at": "2026-07-17T21:19:06+00:00",
+    "fetched_at": "2026-07-17T21:42:03.146557+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM",
+        "SIVE",
+        "SOI",
+        "AAOI",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "高盛大幅上调中际旭创目标价及2026-2028年盈利预测，基于硅光子模块量增、1.6T/3.2T提升ASP和利润率、AI资本开支增加等因素，这对整个光子学生态系统构成积极信号，尤其利好CW激光器、SOI晶圆需求以及800G光模块相关标的。",
+      "translation": "谢谢，喜欢读评论！高盛将中际旭创目标价上调至2581元人民币，较当前估值约有163.6%的上涨空间。更重要的是，2026-2028年盈利预测大幅上调65%/108%/119%，依据是：硅光子模块量大幅增长、扩展规模/升级/横向扩展、1.6T/3.2T提升混合平均售价和利润率、AI资本开支增加。这对光学板块具有重大传导意义，因为我认为中际旭创类似台积电在半导体资本开支方面的指示作用。例如，硅光子渗透率提高意味着CW激光器（如SIVE）和SOI晶圆需求（SOI）的TAM扩大。未来一代ASP上调对其他光学厂商也是积极信号。报告之外的另一个收获是，中际旭创在12日电话会议中表示800G需求增长远超预期，这预示着AAOI、LITE等公司下次财报将有更好表现。总结：高盛在大幅回调期间给出了很高的盈利预期。从基本面上看，整个光子学生态系统在财报季应该会感到高兴。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078197292428058700",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -37,6 +62,25 @@
       "summary": "ASML向全球员工发放一次性奖金22,862美元，显示公司财务状况良好，可能对股价有积极影响。",
       "translation": "$ASML正根据彭博社报道，向全球员工发放一次性奖金22,862美元。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078183628807528616",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit long time lurker, just wanted to update you on a recent development: Goldman Sachs updated Innolights price target to an insane 2581 Yuan/share during this downturn. Today's trading session saw the stock trading at 979.46 a share.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2078183628807528616",
+    "published_at": "2026-07-17T18:22:42+00:00",
+    "fetched_at": "2026-07-17T21:42:08.248449+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文提到高盛在低迷时期将Innolight目标价大幅上调至2581元/股，而当前股价仅为979.46元，暗示存在巨大上涨空间，属于明显的看多信号。",
+      "translation": "长期潜水者，只是想告诉您一个最新进展：高盛在本次低迷期间将Innolight目标价大幅上调至每股2581元人民币。今日交易时段该股交易价格为979.46元。",
+      "confidence": "high"
     }
   },
   {
@@ -201,6 +245,25 @@
       "direction": "neutral",
       "summary": "苹果公司市值超越英伟达，成为全球市值最高的公司，反映了科技板块的市值排名变化。投资者可关注这两只股票的相对表现。",
       "translation": "苹果公司（AAPL）已超越英伟达（NVDA），成为全球市值最高的公司。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078131861486817776",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran's IRGC warns the US and countries hosting its bases, saying further attacks on Iran will trigger \"more crushing\" retaliation",
+    "tweet_url": "https://x.com/unusual_whales/status/2078131861486817776",
+    "published_at": "2026-07-17T14:57:00+00:00",
+    "fetched_at": "2026-07-17T21:42:46.155065+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗伊斯兰革命卫队对美国和其军事基地发出报复威胁，可能升级中东地缘政治紧张局势，增加市场避险情绪，对风险资产构成短期压力。",
+      "translation": "伊朗伊斯兰革命卫队警告美国和其有军事基地的国家，表示对伊朗的进一步攻击将引发“更严厉”的报复。",
       "confidence": "high"
     }
   },
