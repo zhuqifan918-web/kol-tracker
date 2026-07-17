@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2078022313266803156",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "目前gate被盗的这笔钱用户这边立案成功了，\ngate自己的人脸系统和人工手持验证被攻破，\n也不去报警也不立案就隔那一天到晚嘲讽用户，\n💰是保管在你交易所 @Gate 被盗的啊",
+    "tweet_url": "https://x.com/xiaomustock/status/2078022313266803156",
+    "published_at": "2026-07-17T07:41:41+00:00",
+    "fetched_at": "2026-07-17T09:25:46.179302+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "用户称Gate交易所发生资产被盗事件，其自身安保系统被攻破且未积极处理，暗示交易所安全风险高，可能引发用户信任危机和资金流出，对Gate平台及相关加密资产产生利空影响。",
+      "translation": null,
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077988665767432262",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "真是股灾了，哪哪都在暴跌\n我自己金融危机了",
+    "tweet_url": "https://x.com/xiaomustock/status/2077988665767432262",
+    "published_at": "2026-07-17T05:27:59+00:00",
+    "fetched_at": "2026-07-17T09:25:47.718417+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "用户抱怨市场全面暴跌，并称自己遭遇个人金融危机，表达了对市场极度悲观的情绪。",
+      "translation": "真是股灾了，哪哪都在暴跌。我自己金融危机了。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2077974663393919061",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -57,6 +95,25 @@
       "direction": "bearish",
       "summary": "伊朗革命卫队称美军行动只会延迟霍尔木兹海峡重开，暗示地缘政治紧张加剧，可能推高油价并影响全球能源市场，对原油相关投资构成短期负面影响。",
       "translation": "伊朗革命卫队表示，美国的军事行动只会延迟霍尔木兹海峡的重新开放。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077913925266411553",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The proposal, submitted earlier this month, is backed by approximately $50 billion in committed bank financing\n\nRead more: https://t.co/WMNfkeO6L2",
+    "tweet_url": "https://x.com/unusual_whales/status/2077913925266411553",
+    "published_at": "2026-07-17T00:31:00+00:00",
+    "fetched_at": "2026-07-17T09:26:11.784261+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该提案获得约500亿美元的银行融资承诺，表明大型项目融资能力强，可能对相关行业或市场情绪产生积极影响。",
+      "translation": "本月早些时候提交的提案获得了约500亿美元的银行承诺融资支持。",
       "confidence": "medium"
     }
   },
