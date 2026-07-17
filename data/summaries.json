@@ -1,25 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$NVDA",
-      "$SIVE",
-      "$MU",
-      "$META",
-      "$CCXI"
+      "SIVE",
+      "NVDA",
+      "META",
+      "MU",
+      "AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设与上游供应链瓶颈",
-      "光通信与激光器结构性需求",
-      "人形机器人商业化加速"
+      "光模块与硅光芯片的长期结构性短缺",
+      "内存（DRAM/NAND）价格持续上涨与供应紧张",
+      "人形机器人产业化与供应链国产化",
+      "半导体上游瓶颈（如衬底、激光器）",
+      "NVDA及其生态的主导地位与市场误解"
     ],
-    "recent_shift": "近期观点从对光电板块短期恐慌转为坚信基本面未变，认为因Meta误读和CPO延迟谣言造成的抛售是买入机会。",
+    "recent_shift": "从短期关注市场恐慌抛售转为强调流动性驱动的非理性行为，并更坚定地依赖长期基本面叙事。",
     "representative_quotes": [
-      "If a thesis ends up correct, the valuation should be reflected in the long run.",
-      "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
-      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
+      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life. Be present with your family.",
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
+      "$AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly earnings… when it’s 2026?"
     ],
-    "generated_at": "2026-07-16T14:31:03.140995+00:00"
+    "generated_at": "2026-07-17T15:53:56.276272+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -27,21 +29,23 @@
       "$NFLX",
       "$PYPL",
       "$TSM",
-      "$IBM"
+      "$AAPL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI与半导体需求增长",
-      "地缘政治风险与供应链中断",
-      "通胀与货币政策不确定性"
+      "人工智能与芯片需求",
+      "通胀与货币政策",
+      "地缘政治风险",
+      "消费疲软",
+      "企业盈利分化"
     ],
-    "recent_shift": "近期偏空情绪有所加重，因通胀数据缓和但零售疲软、企业利润受压。",
+    "recent_shift": "近期更强调AI泡沫风险和地缘冲突的负面冲击，而对降息和芯片增长的乐观情绪有所减弱",
     "representative_quotes": [
       "Netflix, $NFLX, said it used AI to produce 17 minutes of a documentary ‘twice as fast and at half the cost’",
-      "US beef herds are at all-time lows, per CNBC: https://t.co/ZqUh6z2ItE",
-      "DRAM memory prices have surged up to 300%, per the Verge."
+      "Warren Buffett: \"Tough to find value\" when everyone is gambling",
+      "The stock market and economy seem out of sync"
     ],
-    "generated_at": "2026-07-17T14:26:00.577740+00:00"
+    "generated_at": "2026-07-17T15:53:58.533006+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
