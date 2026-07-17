@@ -1,5 +1,91 @@
 [
   {
+    "tweet_id": "2078177159592726737",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "GameStop, $GME, CEO Ryan Cohen said “we’re coming for eBay, $EBAY, one way or another.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2078177159592726737",
+    "published_at": "2026-07-17T17:57:00+00:00",
+    "fetched_at": "2026-07-17T18:08:05.985888+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GME",
+        "EBAY"
+      ],
+      "direction": "bullish",
+      "summary": "GameStop CEO Ryan Cohen 表示将挑战 eBay，对 GME 持有者而言是看涨信号，暗示公司可能进军电商拍卖领域，与 eBay 直接竞争。",
+      "translation": "GameStop（$GME）CEO Ryan Cohen 表示“我们迟早要挑战 eBay（$EBAY）。”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078175882620059719",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework.\n\nSource: NYT https://t.co/3Mu3UXQtFT",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2078175882620059719",
+    "published_at": "2026-07-17T17:51:55+00:00",
+    "fetched_at": "2026-07-17T18:07:40.417334+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "SPCX",
+        "NBIS",
+        "IREN"
+      ],
+      "direction": "bullish",
+      "summary": "推特认为Meta向Anthropic租赁10亿美元算力的交易，验证了Neocloud商业模式的成功，并暗示类似$NBIS、$IREN等Neocloud公司具有投资价值。",
+      "translation": "推特提到：$META正在与Anthropic商谈一笔100亿美元的算力租赁交易。看起来他们看到了$SPCX 450亿美元算力交易带来的利润。但这进一步验证了如$NBIS、$IREN等Neocloud业务模式的成功，因为超大规模公司正在模仿他们的做法。来源：纽约时报",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078172126536946049",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump Media is reportedly seeking as much as $100,000 per month to provide banks and trading firms with the fastest access to President Trump's Truth Social posts, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078172126536946049",
+    "published_at": "2026-07-17T17:37:00+00:00",
+    "fetched_at": "2026-07-17T18:08:07.457237+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DJT"
+      ],
+      "direction": "neutral",
+      "summary": "特朗普媒体公司寻求每月高达10万美元费用，向银行和交易公司提供最快访问特朗普Truth Social帖子的特权。",
+      "translation": "突发：据彭博报道，特朗普媒体公司正寻求每月向银行和交易公司收取高达10万美元的费用，以提供最快访问特朗普Truth Social帖子的权限。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078164123289002167",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "爽呐，他娘的终于扛到回本了 https://t.co/g1PvN1QIYO",
+    "tweet_url": "https://x.com/xiaomustock/status/2078164123289002167",
+    "published_at": "2026-07-17T17:05:12+00:00",
+    "fetched_at": "2026-07-17T18:07:53.605958+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文表达了投资者终于等到持仓回本（即回到买入成本价）的激动心情，但没有指明具体标的或市场观点。",
+      "translation": "爽啊，他妈的终于扛到回本了",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078161322769068533",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -408,6 +494,25 @@
       "direction": "bullish",
       "summary": "该提案获得约500亿美元的银行融资承诺，表明大型项目融资能力强，可能对相关行业或市场情绪产生积极影响。",
       "translation": "本月早些时候提交的提案获得了约500亿美元的银行承诺融资支持。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2077910320673443953",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Now this is cool.\n\nYou can see which way the market is moving with Market Maps.\n\nThis lets you follow the change in a market, noticing specific trends in a given sector.\n\nCheck it out: https://t.co/M0skwOZ4Qd https://t.co/PDkzBk3mXq",
+    "tweet_url": "https://x.com/unusual_whales/status/2077910320673443953",
+    "published_at": "2026-07-17T00:16:40+00:00",
+    "fetched_at": "2026-07-17T18:08:38.261435+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了一个名为Market Maps的工具，可帮助用户观察市场走势和特定行业趋势，但未提供具体投资建议或方向。",
+      "translation": "这很酷。你可以通过市场地图查看市场走势。这让你能追踪市场变化，发现特定行业的趋势。查看详情：https://t.co/M0skwOZ4Qd https://t.co/PDkzBk3mXq",
       "confidence": "medium"
     }
   },

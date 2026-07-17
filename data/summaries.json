@@ -3,68 +3,72 @@
     "focus_tickers": [
       "$SIVE",
       "$NVDA",
-      "$CCXI",
+      "$AAOI",
       "$META",
-      "$AAOI"
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件与半导体的结构增长",
-      "共封装光学与上游激光瓶颈",
-      "人形机器人与物理AI",
-      "市场恐慌中的逆周期信念",
-      "数据中心和AI基础设施需求"
+      "人工智能基础设施与光模块瓶颈",
+      "内存与半导体的结构性紧缺",
+      "人形机器人与物理AI商业化",
+      "云端计算与Neocloud算力租赁模式",
+      "市场恐慌中的价值投资与仓位管理"
     ],
-    "recent_shift": "近期观点强化了市场下跌主要源于杠杆清算和误读，而非基本面变化，对持仓主题的信心未动摇。",
+    "recent_shift": "面对全球AI板块大幅回调，作者仍坚定看多光通信、内存、机器人等核心主题，但承认短期波动剧烈，需降低杠杆并耐心等待H2 2027的业绩拐点。",
     "representative_quotes": [
-      "My portfolio is mainly AI chokepoints and bottlenecks... I see a lot of people making fun of the drop... But I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
-      "I think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
-      "If your long term thesis hasn't changed… Close your brokerage app. Go live your life."
+      "I personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out.",
+      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
+      "Volatility from indiscriminate thematic selloffs isn’t typically representative of individual company fundamentals."
     ],
-    "generated_at": "2026-07-17T17:01:27.810691+00:00"
+    "generated_at": "2026-07-17T18:08:55.019854+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$AAPL",
-      "$NFLX",
       "$PYPL",
-      "$TSM"
+      "$GME",
+      "$AAPL",
+      "$NFLX"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "科技与AI推动市场结构性变化",
-      "地缘政治风险加剧",
-      "消费疲软和通胀回落"
+      "人工智能与芯片",
+      "地缘政治风险",
+      "通胀与利率",
+      "企业盈利与估值",
+      "另类资产与投机"
     ],
-    "recent_shift": "近期言论更多关注地缘冲突和消费弱化，相较此前科技乐观基调转向谨慎。",
+    "recent_shift": "近期态度从偏多转向更谨慎，关注通胀顽固和地缘冲突风险，但仍看好AI长期趋势。",
     "representative_quotes": [
+      "GameStop, $GME, CEO Ryan Cohen said “we’re coming for eBay, $EBAY, one way or another.\"",
       "Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment.",
-      "Warren Buffett: \"Tough to find value\" when everyone is gambling",
-      "Fed's Logan: Inflation does not appear to be heading sustainably back to 2% on its own."
+      "Warren Buffett: \"Tough to find value\" when everyone is gambling"
     ],
-    "generated_at": "2026-07-17T17:01:23.964131+00:00"
+    "generated_at": "2026-07-17T18:08:51.490095+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SKHYX",
       "$GLW",
+      "海力士",
       "$MU",
-      "$NVDA",
-      "$AMAT"
+      "$AMAT",
+      "$LRCX"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片长期需求，特别是HBM和SK海力士",
-      "AI基础设施投资与扩产周期",
-      "康宁玻璃基板在下一代芯片中的关键作用"
+      "存储芯片长期需求看涨（AI视频等拉动）",
+      "康宁玻璃基板作为英伟达芯片散热必选项，扩产10倍对应业绩10倍",
+      "AI产业门槛极高，只有巨头能参与，赢家范围小",
+      "投资要基于'观点'的时效性，先信卖后信，管理仓位至关重要",
+      "韩国股市波动大，杠杆风险高需谨慎"
     ],
-    "recent_shift": "近期从分散关注转向高度聚焦康宁和存储，并强调短期暴跌是上车机会，体现从防御到积极抄底的转变。",
+    "recent_shift": "近期从聚焦海力士和存储芯片，转向更多关注康宁（$GLW）作为英伟达芯片散热唯一解决方案，并认定其长期价值；同时从早期极度看多存储（如2025年推荐海力士翻倍）到近期强调仓位管理和现金为王，警惕杠杆风险。",
     "representative_quotes": [
-      "跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。",
-      "全网现在都是清仓的，看空的，做空的。怎么能让你们所有人都对呢，意见越统一的时候傻逼越多。",
-      "康宁 $GLW 正式称将按照老黄的要求扩产10倍，这意味着业绩也要10倍。"
+      "康宁 $GLW 涨的无敌寂寞！262刀了...10倍扩产就是10倍业绩暴增",
+      "要么早信要么坚决不信，先信卖后信",
+      "能健康的管理自己仓位已经赢过绝大多数人"
     ],
-    "generated_at": "2026-07-17T11:03:50.622914+00:00"
+    "generated_at": "2026-07-17T18:08:48.682657+00:00"
   }
 }
