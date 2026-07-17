@@ -26,45 +26,45 @@
       "$NVDA",
       "$PYPL",
       "$AAPL",
-      "$SKHY",
-      "$IBM"
+      "$IBM",
+      "$LCID"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧",
-      "通胀与货币政策不确定性",
-      "AI与科技股分化",
-      "市场波动与散户投机",
-      "关键个股业绩与事件驱动"
+      "地缘政治风险升温",
+      "通胀与利率不确定性",
+      "科技股分化与AI泡沫担忧",
+      "消费者支出疲软",
+      "市场流动性风险"
     ],
-    "recent_shift": "近期从积极关注AI和科技股转向警告地缘政治、通胀和央行政策风险，整体悲观情绪加重",
+    "recent_shift": "近期增加了对地缘冲突和市场流动性风险的关注，对科技股持更谨慎态度。",
     "representative_quotes": [
+      "Warren Buffett: \"Tough to find value\" when everyone is gambling",
       "Fed's Logan: Inflation does not appear to be heading sustainably back to 2% on its own.",
-      "Warren Buffett: 'Tough to find value' when everyone is gambling",
       "Iran's IRGC: As long as the US stays in the region, not a drop of oil and gas will be exported from the region."
     ],
-    "generated_at": "2026-07-17T04:55:37.114264+00:00"
+    "generated_at": "2026-07-17T09:26:29.104570+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SKHYX",
-      "$GLW",
-      "$MU",
-      "$NVDA",
-      "$LRCX"
+      "SKHYX",
+      "GLW",
+      "MU",
+      "NVDA",
+      "AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（海力士/三星/美光）是AI产业链核心，需求将因物理AI和数据量暴增而天量增长",
-      "康宁玻璃基板是英伟达下一代芯片的关键，扩产10倍预示业绩10倍潜力，未来万亿市值",
-      "AI基础设施建设远未完成，大厂融资和限制使用证明真实需求，泡沫在AGI来临前难破"
+      "存储芯片长期需求看涨",
+      "康宁玻璃基板为AI硬件核心",
+      "AI基建尚处早期阶段"
     ],
-    "recent_shift": "近日因海力士大跌和账户被盗事件，情绪从自信积极转为痛苦失望，但长期看多存储不变",
+    "recent_shift": "近期从极度看多转为更注重仓位控制，认为市场波动加剧，但仍不改变存储和康宁的长期逻辑",
     "representative_quotes": [
-      "存储三家海力士三星美光合起来市值应该要比英伟达值钱。三家可以不造hbm直接卖dram，但英伟达不买hbm，营收就归零了。话语权更大的一方应该享受更大的市值。",
-      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了，英伟达合作扩产10倍=康宁业绩*10倍。",
-      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。"
+      "存储的地位一年内都难以改变，安心等海力士7月23号发的1300亿美金的季度利润财报。",
+      "物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。",
+      "海力士不行，整个AI产业链都在一起崩。刚抄了南海2x，成本51.5。"
     ],
-    "generated_at": "2026-07-17T04:55:31.050651+00:00"
+    "generated_at": "2026-07-17T09:26:26.384938+00:00"
   }
 }
