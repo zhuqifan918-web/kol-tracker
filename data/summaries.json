@@ -27,22 +27,23 @@
       "$NVDA",
       "$AAPL",
       "$NFLX",
-      "$GME",
-      "$PYPL"
+      "$PYPL",
+      "$GME"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI与半导体扩张",
-      "地缘政治风险加剧",
-      "通胀与宏观压力"
+      "全球地缘政治风险升级",
+      "AI投资热潮持续但分化",
+      "美国经济放缓与通胀粘性",
+      "市场波动加大，风险偏好下降"
     ],
-    "recent_shift": "从早期关注科技股潜力转向强调宏观风险和地缘冲突影响",
+    "recent_shift": "近期语调从关注企业动态转向更多强调地缘政治风险和市场下跌事件，如IBm和LCID暴跌。",
     "representative_quotes": [
-      "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”",
+      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg",
       "Warren Buffett: \"Tough to find value\" when everyone is gambling",
-      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg"
+      "Real GDP has slowed from roughly 3.3% growth in 2023 to about 1.9% so far this year."
     ],
-    "generated_at": "2026-07-17T21:42:51.839657+00:00"
+    "generated_at": "2026-07-17T23:43:24.986273+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
