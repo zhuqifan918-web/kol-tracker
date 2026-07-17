@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2077900439123898625",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Shredded iceberg lettuce supplied by Taylor Farms and sold at some Taco Bell restaurants has been linked to a multistate outbreak of cyclosporiasis, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2077900439123898625",
+    "published_at": "2026-07-16T23:37:24+00:00",
+    "fetched_at": "2026-07-17T01:47:52.657890+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "YUM"
+      ],
+      "direction": "bearish",
+      "summary": "泰勒农场的生菜与环孢子虫疫情相关，可能影响塔可钟的销售，对YUM品牌构成负面消息。",
+      "translation": "突发：泰勒农场供应的切碎冰山生菜，在部分塔可钟餐厅销售，已被认为与多州环孢子虫疫情有关，据CNN报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2077890521046057340",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -18,6 +39,27 @@
       "summary": "推特提到Cramer曾推荐买入IBM股票，暗示看涨信号。Unusual Whales推广提供类似更新，但未提供具体分析。",
       "translation": "之前，Cramer说$IBM是买入的。要获取此类更新，请订阅Unusual Whales。查看更多：https://t.co/KYhYEgQk9a",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2077883726332383624",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get stock market updates on stocks like $LCID, subscribe to Unusual Whales.\n\nYou can create stock and options filters as you need.\n\nSee more: https://t.co/dywfSeQYmx",
+    "tweet_url": "https://x.com/unusual_whales/status/2077883726332383624",
+    "published_at": "2026-07-16T22:31:00+00:00",
+    "fetched_at": "2026-07-17T01:47:55.969656+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LCID"
+      ],
+      "direction": "neutral",
+      "summary": "推文推广一个提供股票和期权过滤器服务的订阅平台，提及$LCID股票，但未提供具体的投资建议或市场分析。",
+      "translation": "要获取像$LCID这样的股票的市场更新，请订阅Unusual Whales。您可以根据需要创建股票和期权过滤器。查看更多：https://t.co/dywfSeQYmx",
+      "confidence": "medium"
     }
   },
   {
