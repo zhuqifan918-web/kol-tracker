@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2078306512167174627",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley, Goldman Sachs, and JPMorgan Chase have been appointed as underwriters, the standard heavyweight lineup for a deal of this size.\n\nRead more: https://t.co/ZVV0wzYUta",
+    "tweet_url": "https://x.com/unusual_whales/status/2078306512167174627",
+    "published_at": "2026-07-18T02:31:00+00:00",
+    "fetched_at": "2026-07-18T04:24:48.513269+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到摩根士丹利、高盛和摩根大通被任命为某大型交易的承销商，这是该规模交易的典型豪华阵容。虽未直接提及具体股票或投资建议，但暗示该交易可能具有重要市场影响。",
+      "translation": "摩根士丹利、高盛和摩根大通已被任命为承销商，这是该规模交易的标准豪华阵容。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078283847612186739",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -35,6 +54,25 @@
       "summary": "该推文引用某人对市场过度投机的批评，将当前市场比作附带赌场的教堂，特别指出一日期权交易为赌博行为，表达对短期投机风险的担忧，投资相关性较低但属市场评论。",
       "translation": "他在五月将市场比作‘附带赌场的教堂’，特别指出一日期权交易的激增是‘赌博’。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2078252908768879045",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The U.S. median sales price increased 1.8% in June from a year earlier to $440,600, an all-time high on data going back to 1999, NAR said\n\nRead more: https://t.co/b4nEOMwLe1",
+    "tweet_url": "https://x.com/unusual_whales/status/2078252908768879045",
+    "published_at": "2026-07-17T22:58:00+00:00",
+    "fetched_at": "2026-07-18T04:25:00.837338+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国房价中位数同比上涨1.8%至440,600美元，创历史新高，表明房地产市场强劲，可能利好房地产相关投资。",
+      "translation": "美国房价中位数在6月同比上涨1.8%至440,600美元，创下自1999年有数据以来的历史新高，全美地产经纪商协会表示。",
+      "confidence": "medium"
     }
   },
   {
