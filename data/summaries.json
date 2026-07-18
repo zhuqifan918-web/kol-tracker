@@ -24,26 +24,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "$GME",
-      "$EBAY",
       "$NVDA",
       "$AAPL",
-      "$PYPL"
+      "$PYPL",
+      "$NFLX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI算力与芯片短缺",
-      "地缘政治风险与供应链",
-      "美国通胀与利率政策",
-      "并购与金融创新",
-      "消费与住房市场"
+      "股票市场投机和赌博文化",
+      "AI技术与产业变革",
+      "地缘政治风险影响"
     ],
-    "recent_shift": "近期强调AI泡沫风险和地缘冲突对市场的影响，表明其从科技乐观转向审慎评估",
+    "recent_shift": "近期内容更关注地缘政治和监管政策对市场的影响，相比之前对投机行为的批评有所增加。",
     "representative_quotes": [
-      "BREAKING: GameStop, $GME, now owns nearly 10% of eBay, $EBAY, per Reuters",
-      "Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment.",
-      "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”"
+      "In May, he likened the market to “a church with a casino attached,” specifically calling out the surge in one-day options trading as “gambling.”",
+      "Warren Buffett: \"Tough to find value\" when everyone is gambling",
+      "GameStop, $GME, CEO Ryan Cohen said “we’re coming for eBay, $EBAY, one way or another.\""
     ],
-    "generated_at": "2026-07-18T14:16:23.227154+00:00"
+    "generated_at": "2026-07-18T20:38:17.036890+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
