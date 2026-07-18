@@ -23,49 +23,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$GME",
-      "$PYPL",
-      "$IBM"
+      "NVDA",
+      "AAPL",
+      "GME",
+      "PYPL",
+      "TSM"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与泡沫风险",
-      "地缘政治影响（伊朗、美军冲突）",
-      "加密资产与市场投机",
-      "消费与住房市场通胀"
+      "人工智能与半导体投资",
+      "宏观经济与通胀风险",
+      "市场投机与监管动态"
     ],
-    "recent_shift": "近期观点转向强调AI泡沫破灭风险和宏观不确定性加剧，但未完全看空科技板块。",
+    "recent_shift": "从早期关注GME投机转向强调AI基础设施和地缘政治风险。",
     "representative_quotes": [
-      "He likened the market to 'a church with a casino attached,' specifically calling out the surge in one-day options trading as 'gambling.'",
-      "AI agents could drive a 24-fold increase in token consumption by 2030, worsening chip shortages over the next 12 to 18 months, per Goldman Sachs.",
-      "Warren Buffett: 'Tough to find value' when everyone is gambling"
+      "Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'",
+      "Warren Buffett: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'",
+      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg"
     ],
-    "generated_at": "2026-07-18T06:27:29.767447+00:00"
+    "generated_at": "2026-07-18T08:16:56.244455+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$GLW",
       "海力士",
+      "$GLW",
+      "$NVDA",
       "$MU",
-      "$AMAT",
-      "$LRCX"
+      "$AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片长期需求看涨（AI视频等拉动）",
-      "康宁玻璃基板作为英伟达芯片散热必选项，扩产10倍对应业绩10倍",
-      "AI产业门槛极高，只有巨头能参与，赢家范围小",
-      "投资要基于'观点'的时效性，先信卖后信，管理仓位至关重要",
-      "韩国股市波动大，杠杆风险高需谨慎"
+      "存储芯片长期需求爆发（AI视频数据驱动）",
+      "康宁玻璃基板将成为芯片散热必选方案",
+      "AI门槛极高，赢家范围小，存储供需紧张长期持续",
+      "市场短期恐慌是买入机会，尤其存储龙头",
+      "杠杆和仓位管理是生存关键"
     ],
-    "recent_shift": "近期从聚焦海力士和存储芯片，转向更多关注康宁（$GLW）作为英伟达芯片散热唯一解决方案，并认定其长期价值；同时从早期极度看多存储（如2025年推荐海力士翻倍）到近期强调仓位管理和现金为王，警惕杠杆风险。",
+    "recent_shift": "早期坚定持有多头仓位，近期经历暴跌后更强调风险控制和正股持有，但仍看好存储和康宁的长期前景。",
     "representative_quotes": [
-      "康宁 $GLW 涨的无敌寂寞！262刀了...10倍扩产就是10倍业绩暴增",
-      "要么早信要么坚决不信，先信卖后信",
-      "能健康的管理自己仓位已经赢过绝大多数人"
+      "如果物理AI能突破，处理的资料都是视频资料……存储需求的数量级可能是百倍于现在，要坚信你的存储。",
+      "英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！这是英伟达给康宁的定心丸。",
+      "要么早信要么坚决不信，先信卖后信。每次下撤暴跌亏惨的要么是信最晚的……要么是杠杆打满的，看得再对也承受不住市场的跳动。"
     ],
-    "generated_at": "2026-07-17T18:08:48.682657+00:00"
+    "generated_at": "2026-07-18T08:16:59.822293+00:00"
   }
 }
