@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2078283847612186739",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Thanks! I’ve always shared personal research and core thoughts for free. Not trying to sell anything or tell others what to do.\n\nAnd above all, just being transparent about my own returns (win or loss)\n\nMaybe this information democratization upsets some business models…\n\nWhen others try and pitch their $40 TA subscriptions that are always right and predicted the semis crash.\n\nBut if they really believed it, they would have made 5000%+ buying puts and wouldn’t need to market a paywall.\n\nYes, if I’m on 1.4x leverage, and if a portfolio concentrated in memory/photonics underlying crashes -35% on avg… you get a 49% drawdown.\n\nI’m just sharing what happens. \n\nBut I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2078283847612186739",
+    "published_at": "2026-07-18T01:00:56+00:00",
+    "fetched_at": "2026-07-18T01:28:29.805198+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "用户分享了个人投资透明回报，批评付费分析订阅，虽然提及高杠杆风险（1.4倍杠杆下半导体板块跌35%导致49%回撤），但看好AI相关板块的恢复，认为从计算、能源到存储、网络的结构性需求将持续。",
+      "translation": "谢谢！我一直免费分享个人研究和核心想法。不是试图销售任何东西或告诉别人该做什么。最重要的是，只是对我的回报（无论输赢）保持透明。也许这种信息民主化扰乱了某些商业模式……当其他人试图推销那些永远正确并预测了半导体崩盘的40美元技术分析订阅时。但如果他们真的相信，他们就会通过买入看跌期权赚取5000%以上的收益，也就无需营销付费墙了。是的，如果我使用1.4倍杠杆，如果集中在存储/光子学的投资组合平均下跌35%……你会看到49%的回撤。我只是分享发生了什么。但我预计AI相关股票会恢复，因为我看到从计算到能源到存储到网络的需求是结构性的。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078283107854393816",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "In May, he likened the market to “a church with a casino attached,” specifically calling out the surge in one-day options trading as “gambling.”\n\nRead more: https://t.co/XoVkyxFldC",
+    "tweet_url": "https://x.com/unusual_whales/status/2078283107854393816",
+    "published_at": "2026-07-18T00:58:00+00:00",
+    "fetched_at": "2026-07-18T01:28:56.436313+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用某人对市场过度投机的批评，将当前市场比作附带赌场的教堂，特别指出一日期权交易为赌博行为，表达对短期投机风险的担忧，投资相关性较低但属市场评论。",
+      "translation": "他在五月将市场比作‘附带赌场的教堂’，特别指出一日期权交易的激增是‘赌博’。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2078246114269282724",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

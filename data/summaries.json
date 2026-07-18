@@ -24,26 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$NFLX",
-      "$PYPL",
-      "$GME"
+      "NVDA",
+      "AAPL",
+      "GME",
+      "PYPL",
+      "TSM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "全球地缘政治风险升级",
-      "AI投资热潮持续但分化",
-      "美国经济放缓与通胀粘性",
-      "市场波动加大，风险偏好下降"
+      "AI与半导体投资热潮",
+      "地缘政治风险与避险情绪",
+      "美股内部交易与异常期权流动",
+      "通胀与利率政策不确定性",
+      "企业债务与消费疲软"
     ],
-    "recent_shift": "近期语调从关注企业动态转向更多强调地缘政治风险和市场下跌事件，如IBm和LCID暴跌。",
+    "recent_shift": "近期更关注地缘政治风险（伊朗局势、霍木兹海峡）对市场的影响，同时强调AI泡沫讨论增多。",
     "representative_quotes": [
-      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg",
-      "Warren Buffett: \"Tough to find value\" when everyone is gambling",
-      "Real GDP has slowed from roughly 3.3% growth in 2023 to about 1.9% so far this year."
+      "0. Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.",
+      "1. US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg",
+      "2. BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'"
     ],
-    "generated_at": "2026-07-17T23:43:24.986273+00:00"
+    "generated_at": "2026-07-18T01:29:22.297288+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
