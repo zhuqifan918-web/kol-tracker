@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2078480156637938097",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: GameStop, $GME, now owns nearly 10% of eBay, $EBAY, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2078480156637938097",
+    "published_at": "2026-07-18T14:01:00+00:00",
+    "fetched_at": "2026-07-18T14:16:02.366311+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GME",
+        "EBAY"
+      ],
+      "direction": "neutral",
+      "summary": "GameStop（GME）收购了 eBay（EBAY）近10%的股份，这可能是重大的投资布局或战略举措，短期内可能引发市场关注和波动。",
+      "translation": "突发新闻：据路透社报道，GameStop（$GME）现在持有 eBay（$EBAY）近10%的股份。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078338950150959558",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -37,6 +59,25 @@
       "summary": "该推文讲述了黄仁勋劝说世嘉高层将未支付的合同款项转为股权投资，并表示资金很可能亏损，但世嘉董事会仍决定投资。这反映了创业早期的风险投资决策，与特定股票或市场分析无关。",
       "translation": "黄仁勋去找入交，要求他把剩余的合同付款转为股权投资，并告诉他这笔钱很可能会亏损。入交说服了世嘉董事会，还是写下了这张支票。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2078328406371103230",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This significant gap highlights the M2 Ultra's limitations in handling intensive AI processes.\n\nRead more: https://t.co/NyoFHh1U6W",
+    "tweet_url": "https://x.com/unusual_whales/status/2078328406371103230",
+    "published_at": "2026-07-18T03:58:00+00:00",
+    "fetched_at": "2026-07-18T14:16:09.372979+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出M2 Ultra在处理密集型AI任务时存在显著局限，可能对苹果及其供应链企业（如台积电）的AI芯片业务产生负面影响，建议关注相关投资风险。",
+      "translation": "这一显著差距凸显了M2 Ultra在处理密集型AI流程时的局限性。",
+      "confidence": "medium"
     }
   },
   {

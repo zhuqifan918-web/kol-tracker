@@ -23,25 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AAPL",
-      "GME",
-      "PYPL",
-      "TSM"
+      "$GME",
+      "$EBAY",
+      "$NVDA",
+      "$AAPL",
+      "$PYPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与半导体投资",
-      "宏观经济与通胀风险",
-      "市场投机与监管动态"
+      "AI算力与芯片短缺",
+      "地缘政治风险与供应链",
+      "美国通胀与利率政策",
+      "并购与金融创新",
+      "消费与住房市场"
     ],
-    "recent_shift": "从早期关注GME投机转向强调AI基础设施和地缘政治风险。",
+    "recent_shift": "近期强调AI泡沫风险和地缘冲突对市场的影响，表明其从科技乐观转向审慎评估",
     "representative_quotes": [
-      "Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'",
-      "Warren Buffett: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'",
-      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg"
+      "BREAKING: GameStop, $GME, now owns nearly 10% of eBay, $EBAY, per Reuters",
+      "Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment.",
+      "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”"
     ],
-    "generated_at": "2026-07-18T08:16:56.244455+00:00"
+    "generated_at": "2026-07-18T14:16:23.227154+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
