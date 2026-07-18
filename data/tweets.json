@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2078570753356976519",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Homebuyers shouldn't expect affordability to return to pre-2022 levels anytime soon, per Morgan Stanely.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078570753356976519",
+    "published_at": "2026-07-18T20:01:00+00:00",
+    "fetched_at": "2026-07-18T20:37:54.587357+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根士丹利认为，住房负担能力在2022年前难以恢复，这对房地产及相关行业构成利空，投资者需谨慎。",
+      "translation": "潜在购房者不应期望负担能力在短期内回到2022年前的水平，据摩根士丹利。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078480156637938097",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
