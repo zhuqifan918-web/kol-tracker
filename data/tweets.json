@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2078585852859650137",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"This will be the summer of the everything rally,\" per Wells Fargo.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078585852859650137",
+    "published_at": "2026-07-18T21:01:00+00:00",
+    "fetched_at": "2026-07-18T21:40:55.340454+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "富国银行预测将出现'万物上涨'行情，暗示夏季市场整体看涨，投资环境乐观。",
+      "translation": "据富国银行称，'这将是一个万物上涨的夏天'。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078570753356976519",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16,6 +35,25 @@
       "summary": "摩根士丹利认为，住房负担能力在2022年前难以恢复，这对房地产及相关行业构成利空，投资者需谨慎。",
       "translation": "潜在购房者不应期望负担能力在短期内回到2022年前的水平，据摩根士丹利。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078549658331427153",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 30% chance US will invade Iran before 2027, per Polymarket.\n\nRead more: https://t.co/JZJyK3cPIo",
+    "tweet_url": "https://x.com/unusual_whales/status/2078549658331427153",
+    "published_at": "2026-07-18T18:37:10+00:00",
+    "fetched_at": "2026-07-18T21:41:01.208106+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用Polymarket预测市场数据，显示美国在2027年前入侵伊朗的概率为30%。此信息可能影响地缘政治风险定价，对国防、能源及中东相关资产产生潜在波动，但无明确投资建议。",
+      "translation": "根据Polymarket，美国在2027年前入侵伊朗的概率为30%。",
+      "confidence": "medium"
     }
   },
   {
