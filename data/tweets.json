@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2078338950150959558",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares:\n\nThe ADRs and local shares become convertible on July 29.\n\nShould open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. \n\n2.5% currently is the US ADR stock, so an additional 22.5% can be converted.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2078338950150959558",
+    "published_at": "2026-07-18T04:39:54+00:00",
+    "fetched_at": "2026-07-18T06:26:35.947720+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHY"
+      ],
+      "direction": "neutral",
+      "summary": "7月29日起，SK海力士美国存托凭证（ADR）与韩国本地股票可转换，目前ADR溢价25%以上，套利空间将压缩溢价，可能推高韩国股价或压低美国股价。当前美国ADR仅占2.5%，另有22.5%可转换。",
+      "translation": "对于关注$SKHY相比SK海力士韩国股票溢价超过25%的人：美国存托凭证与韩国本地股票将于7月29日起可转换。这将为套利打开大门，并可能压缩ADR溢价。可能推高韩国股价或压低美国股价。目前美国ADR仅占2.5%，因此另有22.5%可以转换。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078336711244075207",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Huang went to Irimajiri and asked him to convert the remaining contract payment into an equity investment, telling him the money would most likely be lost. Irimajiri persuaded Sega’s board to write the check anyway.\n\nRead more: https://t.co/nsEO00ewcH",
+    "tweet_url": "https://x.com/unusual_whales/status/2078336711244075207",
+    "published_at": "2026-07-18T04:31:00+00:00",
+    "fetched_at": "2026-07-18T06:27:02.174497+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讲述了黄仁勋劝说世嘉高层将未支付的合同款项转为股权投资，并表示资金很可能亏损，但世嘉董事会仍决定投资。这反映了创业早期的风险投资决策，与特定股票或市场分析无关。",
+      "translation": "黄仁勋去找入交，要求他把剩余的合同付款转为股权投资，并告诉他这笔钱很可能会亏损。入交说服了世嘉董事会，还是写下了这张支票。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2078321611753824598",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "He said Governor Kathy Hochul, for political reasons, has terminated all data centers being built, or to be built, in New York State, and that these companies are now being sought in Alabama, Florida, Texas, Arizona, and many other states.\n\nRead more: https://t.co/ZVvOEQyKyj",
+    "tweet_url": "https://x.com/unusual_whales/status/2078321611753824598",
+    "published_at": "2026-07-18T03:31:00+00:00",
+    "fetched_at": "2026-07-18T06:27:04.954015+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出纽约州因政治原因终止数据中心建设，相关公司转向其他州，可能影响数据中心相关投资布局和市场情绪。",
+      "translation": "他说，州长凯西·霍楚出于政治原因，终止了纽约州所有正在建设或计划建设的数据中心，这些公司现在正在往阿拉巴马州、佛罗里达州、得克萨斯州、亚利桑那州和其他许多州寻求发展。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078306512167174627",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -54,6 +113,25 @@
       "summary": "该推文引用某人对市场过度投机的批评，将当前市场比作附带赌场的教堂，特别指出一日期权交易为赌博行为，表达对短期投机风险的担忧，投资相关性较低但属市场评论。",
       "translation": "他在五月将市场比作‘附带赌场的教堂’，特别指出一日期权交易的激增是‘赌博’。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2078268008493928488",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "In May, AI led all reasons for job cuts for the third month in a row, with 38,579 announced cuts.\n\nRead more: https://t.co/giKSdPqpMU",
+    "tweet_url": "https://x.com/unusual_whales/status/2078268008493928488",
+    "published_at": "2026-07-17T23:58:00+00:00",
+    "fetched_at": "2026-07-18T06:27:13.636194+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "AI导致大规模裁员，可能暗示AI技术对就业市场的冲击，进而影响相关行业和企业的盈利能力。投资者需关注AI对劳动力结构和企业成本的影响。",
+      "translation": "5月份，AI连续第三个月成为裁员的首要原因，宣布裁员38579人。",
+      "confidence": "medium"
     }
   },
   {
