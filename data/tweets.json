@@ -38,6 +38,25 @@
     }
   },
   {
+    "tweet_id": "2078550330078564604",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 30% chance US will invade Iran before 2027, per Polymarket.\n\nRead more: https://t.co/JZJyK3cPIo",
+    "tweet_url": "https://x.com/unusual_whales/status/2078550330078564604",
+    "published_at": "2026-07-18T18:39:50+00:00",
+    "fetched_at": "2026-07-18T22:39:05.879498+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文引用Polymarket数据指出，到2027年美国入侵伊朗的概率为30%。地缘政治风险上升可能影响全球市场，尤其是能源、国防和航运板块，但具体投资方向不明确。",
+      "translation": "根据Polymarket数据，美国在2027年前入侵伊朗的概率为30%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078549658331427153",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
