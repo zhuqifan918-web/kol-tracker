@@ -24,27 +24,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AAPL",
-      "GME",
-      "PYPL",
-      "TSM"
+      "$NVDA",
+      "$AAPL",
+      "$PYPL",
+      "$GME",
+      "$NFLX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI与半导体投资热潮",
-      "地缘政治风险与避险情绪",
-      "美股内部交易与异常期权流动",
-      "通胀与利率政策不确定性",
-      "企业债务与消费疲软"
+      "市场波动与地缘政治风险",
+      "通胀压力与美联储政策",
+      "科技股与AI板块分化"
     ],
-    "recent_shift": "近期更关注地缘政治风险（伊朗局势、霍木兹海峡）对市场的影响，同时强调AI泡沫讨论增多。",
+    "recent_shift": "近期从相对平衡转向更偏悲观，强调地缘冲突、通胀粘性和市场投机风险。",
     "representative_quotes": [
-      "0. Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.",
-      "1. US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg",
-      "2. BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'"
+      "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.",
+      "Fed's Hammack: Inflation is too high.",
+      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg"
     ],
-    "generated_at": "2026-07-18T01:29:22.297288+00:00"
+    "generated_at": "2026-07-18T04:25:12.534493+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
