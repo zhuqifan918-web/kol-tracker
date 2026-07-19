@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2078948240754716707",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"There will be a summer stock market pullback before possible year-end rally,\" per Bank of America.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078948240754716707",
+    "published_at": "2026-07-19T21:01:00+00:00",
+    "fetched_at": "2026-07-19T21:12:03.246177+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国银行预测夏季股市将出现回调，但可能在年底前反弹。投资者需警惕短期风险，关注长期机会。",
+      "translation": "据美国银行称，夏季股市将出现回调，随后可能在年底前出现反弹。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078933141561954515",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: A record 556,850 people worldwide now have a net worth exceeding $30 million, up 14.4% in 2025 alone, marking the fastest growth since 2017., per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2078933141561954515",
+    "published_at": "2026-07-19T20:01:00+00:00",
+    "fetched_at": "2026-07-19T21:12:04.853596+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "全球高净值人群数量创纪录增长，暗示财富效应和高端消费可能持续强劲，利好奢侈品、财富管理及高端服务行业。",
+      "translation": "重磅消息：全球净资产超3000万美元的人数达到创纪录的556,850人，仅2025年就增长了14.4%，创下2017年以来的最快增速。据《华尔街日报》报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078918041635877375",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Prices for new homes sink below resales for the first time ever, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078918041635877375",
+    "published_at": "2026-07-19T19:01:00+00:00",
+    "fetched_at": "2026-07-19T21:12:06.116419+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "新房价格首次低于二手房，表明房地产市场疲软，可能对相关板块和整体经济产生负面影响。",
+      "translation": "突发新闻：根据彭博社报道，新房价格首次低于二手房价格。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078914447180263438",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
