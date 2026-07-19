@@ -26033,6 +26033,30 @@
     }
   },
   {
+    "tweet_id": "1955626771514364358",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "$Lite 做光模块是英伟达供应商，国内新易盛都拉到300亿美金，lite是美区供应商才不到100m.\n$TEM 做解放医疗数据给ai训练的生意.\n$MU 天量级“AI推理端算力需求”，催生爆炸式HBM存储系统需求.\n$ATNF 做借债融资买eth，不是bmnr和sbet这种卖股融资的币股公司，最像mstr.\n对买股的散户是一种保护.\n\n以上四个是我最近最看好的美股🙏",
+    "tweet_url": "https://x.com/xiaomustock/status/1955626771514364358",
+    "published_at": "2025-08-13T13:45:30+00:00",
+    "fetched_at": "2026-07-19T01:46:14.814510+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "$Lite",
+        "$TEM",
+        "$MU",
+        "$ATNF"
+      ],
+      "direction": "bullish",
+      "summary": "作者分享了四个最看好的美股投资方向：Lite作为英伟达的光模块供应商，市值远低于国内同类新易盛，有补涨潜力；TEM专注解放医疗数据给AI训练；MU受益于AI推理端对HBM存储的爆炸性需求；ATNF通过借债融资购买ETH，类似MicroStrategy模式，对散户保护更好。整体偏积极看多。",
+      "translation": "$Lite做光模块是英伟达供应商，国内新易盛都已经拉到300亿美金了，Lite作为美区供应商才不到100m市值。$TEM做解放医疗数据给AI训练的生意。$MU天量级的“AI推理端算力需求”催生爆炸式HBM存储系统需求。$ATNF做借债融资买ETH，不是BMNR和SBET那种卖股融资的币股公司，最像MSTR，对买股的散户是一种保护。以上四个是我最近最看好的美股🙏",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "1938152835419693370",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
