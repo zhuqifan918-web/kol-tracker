@@ -1,5 +1,46 @@
 [
   {
+    "tweet_id": "2078872580476535295",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。 https://t.co/SpcfnEi0VS",
+    "tweet_url": "https://x.com/xiaomustock/status/2078872580476535295",
+    "published_at": "2026-07-19T16:00:21+00:00",
+    "fetched_at": "2026-07-19T16:44:45.244860+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN",
+        "GOOGL"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出市场真正担忧的是云厂商（尤其是谷歌和亚马逊）削减2027年资本开支，这两家公司占全球总支出的近一半，约4000亿美元。这暗示了云服务需求或投资可能放缓，对相关科技股和产业链构成负面预期。",
+      "translation": "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078869561403941324",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "假如说此时kimi高价买了一大堆推理卡内存卡，等能到货安装运行的时候，如果被gpt或者ds或者别的claude反超远远拉开，这买的推理卡和内存卡是不是打水漂了或者收效甚低也错过了在模型领先时刻爆赚的红利。\n云厂恰恰能解决所有大模型公司的这种顾虑。",
+    "tweet_url": "https://x.com/xiaomustock/status/2078869561403941324",
+    "published_at": "2026-07-19T15:48:21+00:00",
+    "fetched_at": "2026-07-19T16:44:39.882471+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文指出大模型公司自购推理卡存在被竞争对手反超的风险，而云厂商能化解这一顾虑，暗示云服务板块有投资机会。",
+      "translation": "假如说此时kimi高价买了一大堆推理卡内存卡，等能到货安装运行的时候，如果被gpt或者ds或者别的claude反超远远拉开，这买的推理卡和内存卡是不是打水漂了或者收效甚低也错过了在模型领先时刻爆赚的红利。云厂恰恰能解决所有大模型公司的这种顾虑。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078868708840349890",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -62,6 +103,25 @@
     }
   },
   {
+    "tweet_id": "2078863449321533538",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这倒不是，现在主要需求是内存和推理卡，这部分是面向客户的，内存和推理卡越多能转化成的收入越多。\n能达到kimi这个水平只是说明训练卡可能不需要特别顶尖一堆烂卡依然能训练出来顶尖模型，\n但你你想转化成收入那就需要海量内存和推理卡为用户服务了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2078863449321533538",
+    "published_at": "2026-07-19T15:24:04+00:00",
+    "fetched_at": "2026-07-19T16:44:47.619383+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了AI模型训练与商业化所需的硬件差异，指出低端训练卡也能训练出顶尖模型，但收入转化需要大量内存和推理卡。这暗示对内存和推理卡供应商（如英伟达或其他硬件厂商）有潜在需求，但对训练卡需求可能不那么关键。",
+      "translation": "这倒不是，现在主要需求是内存和推理卡，这部分是面向客户的，内存和推理卡越多能转化成的收入越多。能达到kimi这个水平只是说明训练卡可能不需要特别顶尖一堆烂卡依然能训练出来顶尖模型，但你想转化成收入那就需要海量内存和推理卡为用户服务了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078862027855220760",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -101,6 +161,25 @@
       "summary": "用户担心美股下跌，将SOXL转投韩国SK Hynix以求稳定；同时认为Kimi等大模型竞争使市场重新评估护城河，长期看好谷歌。",
       "translation": "明天又要拼命了，感觉SOXL没有SK Hynix稳，害怕美股再跌10%亏大了，直接换成了韩国SK。这两天Kimi太热，导致老外认识到大模型公司没有护城河，没几天就被别人干掉，今天GPT干Gemini，明天Claude干GPT。市场可能会重新思考什么类型的公司有真正的护城河。能被Kimi竞争登顶，可能会被华尔街视为长期利好谷歌，因为任何大模型公司谁能熬得过谷歌？谷歌有稳固的现金流和业务作为护城河，不管哪个模型领先，最终谷歌都可能靠慢追赶上，等到其他公司耗尽资源，谷歌还能继续投资Gemini。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078857894511124667",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "对于顶尖的模型来的算力和内存一直紧缺，\n差生只是文具多才出租算力。 https://t.co/WHa4lOgR4q",
+    "tweet_url": "https://x.com/xiaomustock/status/2078857894511124667",
+    "published_at": "2026-07-19T15:02:00+00:00",
+    "fetched_at": "2026-07-19T16:44:49.603021+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出顶尖模型对算力和内存需求紧张，暗示高性能算力资源紧缺，对算力提供商（如英伟达等）可能有利；而能力较弱的模型则因算力过剩而出租，形成对比。整体观点偏向看好算力相关投资。",
+      "translation": "对于顶尖模型来说，算力和内存一直紧缺，差生只是文具多才出租算力。",
+      "confidence": "medium"
     }
   },
   {
