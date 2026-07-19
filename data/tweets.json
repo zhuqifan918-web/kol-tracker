@@ -183,6 +183,25 @@
     }
   },
   {
+    "tweet_id": "2078857644278759668",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Cumulative change in nonfarm jobs since December 2024, per WSJ: https://t.co/C6yyQJcjyF",
+    "tweet_url": "https://x.com/unusual_whales/status/2078857644278759668",
+    "published_at": "2026-07-19T15:01:00+00:00",
+    "fetched_at": "2026-07-19T17:49:44.598602+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用华尔街日报数据，展示了自2024年12月以来非农就业人数的累计变化，属于宏观经济指标，对市场有中性影响。",
+      "translation": "自2024年12月以来非农就业人数的累计变化，数据来源：华尔街日报。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078842544352575605",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
