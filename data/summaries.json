@@ -27,23 +27,21 @@
       "$GME",
       "$AAPL",
       "$PYPL",
-      "$NFLX"
+      "$TSM"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI和半導體投資熱潮",
-      "地緣政治風險影響市場",
-      "通膨與利率政策不確定性",
-      "散戶交易與迷因股動向",
-      "數據中心建設與需求爆發"
+      "AI投资热潮与泡沫警告",
+      "中美地缘政治与能源冲突",
+      "市场结构性机会（数据中心、房地产、信贷）"
     ],
-    "recent_shift": "近期更多關注地緣政治風險及宏觀經濟放緩信號，但同時持續聚焦AI領域的長期機會。",
+    "recent_shift": "近期推文显示出对美国经济数据（通胀、GDP）的谨慎态度增强，并持续关注伊朗局势对市场的影响。",
     "representative_quotes": [
-      "Now this is cool. You can see which way the market is moving with Market Maps. This lets you follow the change in a market, noticing specific trends in a given sector.",
-      "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'",
-      "BREAKING: GameStop, $GME, now owns nearly 10% of eBay, $EBAY, per Reuters"
+      "AI agents could drive a 24-fold increase in token consumption by 2030, worsening chip shortages over the next 12 to 18 months",
+      "Warren Buffett: \"Tough to find value\" when everyone is gambling",
+      "The US is spending $50 billion on data center construction, exceeding the combined spending on airports, ports, and mass transit"
     ],
-    "generated_at": "2026-07-19T13:59:31.226876+00:00"
+    "generated_at": "2026-07-19T14:54:58.377534+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

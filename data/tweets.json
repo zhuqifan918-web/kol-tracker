@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2078842544352575605",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China has been steadily trimming its holdings of U.S. Treasuries, diversifying reserves into assets such as gold and other currencies while reducing exposure to dollar-denominated debt, per SCMP\n\nBut China modestly increased its holdings of US Treasuries in May after they hit an 18-year low in April, per SCMP",
+    "tweet_url": "https://x.com/unusual_whales/status/2078842544352575605",
+    "published_at": "2026-07-19T14:01:00+00:00",
+    "fetched_at": "2026-07-19T14:54:33.425641+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "中国长期减持美债并增持黄金等资产，但5月小幅增持美债。投资者应关注中国外汇储备结构调整对美债市场的影响。",
+      "translation": "据南华早报，中国持续减持美国国债，将储备分散至黄金和其他货币资产，减少对美元计价债务的敞口。但5月中国小幅增持了美债，此前4月美债持仓创18年新低。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078827445159862580",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
