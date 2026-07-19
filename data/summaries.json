@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GME",
-      "$EBAY",
       "$NVDA",
+      "$PYPL",
+      "$GME",
       "$AAPL",
-      "$PYPL"
+      "$NFLX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI泡沫与芯片短缺",
-      "地缘政治风险加剧",
-      "零售消费疲软与住房市场热度",
-      "科技巨头的 AI 军备竞赛",
-      "投机交易与赌博心态"
+      "地缘政治风险升级",
+      "通胀持续与经济放缓",
+      "AI投资泡沫与裁员",
+      "政府干预，主权风险增加",
+      "住房可负担性恶化"
     ],
-    "recent_shift": "近期整体基调从早期对科技牛市的乐观转向关注通胀顽固、地缘冲突升级以及过度投机风险，同时仍强调 AI 和半导体领域的结构性机会。",
+    "recent_shift": "近期对市场前景的看法从乐观转为谨慎，更多关注风险因素和政策不确定性。",
     "representative_quotes": [
-      "This will be the summer of the everything rally, per Wells Fargo.",
+      "There is a 30% chance US will invade Iran before 2027, per Polymarket.",
       "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg",
-      "Warren Buffett: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'"
+      "Warren Buffett: 'Tough to find value' when everyone is gambling"
     ],
-    "generated_at": "2026-07-18T21:41:17.439759+00:00"
+    "generated_at": "2026-07-19T05:12:50.522269+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
