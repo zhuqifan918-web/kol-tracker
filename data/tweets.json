@@ -1,5 +1,109 @@
 [
   {
+    "tweet_id": "2078868708840349890",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "真正利好的是谷歌和亚马逊这种云厂。\n不管谁的模型突然又又领先，\n那么云厂都能给调配算力过去，\n而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。\n云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。\n而谷歌兼具大模型和云厂俩大业务真可能被他笑到最后，模型一时的领先对谷歌来说不重要了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2078868708840349890",
+    "published_at": "2026-07-19T15:44:58+00:00",
+    "fetched_at": "2026-07-19T15:46:47.001021+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出，真正的受益者是谷歌和亚马逊这类云厂商，因为它们可以通过调配算力盈利，不受单一模型领先与否的影响，尤其看好谷歌兼具云和模型业务。",
+      "translation": "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去，而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。而谷歌兼具大模型和云厂俩大业务真可能被他笑到最后，模型一时的领先对谷歌来说不重要了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078867140480827782",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "Kimi因为算力熔断暂停订阅，直接扯下了云端AI的最后遮羞布：需求确实极其旺盛，推理卡和内存也确实是历史级大通胀利好。但问题是，云端大模型根本“养不起”海量用户带来的边际成本黑洞。\n\n用户越多，云端的推理卡和海量内存开支就越是无底洞。当云端算力被逼到物理极限时，华尔街才会真正看懂为什么端侧AI王者苹果（Apple）才是这场战役的终极黄雀。\n\n云端承载不了的推理和内存压力，必然会走向端侧化。苹果的高明之处在于，它直接把推理压力和内存升级成本转嫁给了消费者——你想用最丝滑、不限流的AI？请升级最新的高配硬件。苹果卡死了端侧生态和流量入口，在大模型公司为了云端算力耗尽家财的时候，顺理成章地开启全球几亿存量老用户的刚性超级换机潮。\n\n最稳的商业闭环，永远是硬件+生态。",
+    "tweet_url": "https://x.com/xiaomustock/status/2078867140480827782",
+    "published_at": "2026-07-19T15:38:44+00:00",
+    "fetched_at": "2026-07-19T15:46:51.126702+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文从Kimi服务熔断事件切入，指出云端AI算力成本随用户增长而急剧攀升，形成无底洞式的成本黑洞。进而推断苹果凭借端侧AI的硬件+生态闭环，能将推理和内存压力转嫁给消费者，驱动存量用户换机潮，是此轮AI需求爆发的最大受益者。整体对苹果（AAPL）持强烈看多观点。",
+      "translation": "Kimi因算力熔断暂停订阅，直接扯下了云端AI的最后一块遮羞布：需求确实极其旺盛，推理卡和内存也确实是历史级的大通胀利好。但问题是，云端大模型根本“养不起”海量用户带来的边际成本黑洞。用户越多，云端的推理卡和海量内存开支就越是无底洞。当云端算力被逼到物理极限时，华尔街才会真正看懂为什么端侧AI王者苹果才是这场战役的终极黄雀。云端承载不了的推理和内存压力，必然会走向端侧化。苹果的高明之处在于，它直接把推理压力和内存升级成本转嫁给了消费者——你想用最丝滑、不限流的AI？请升级最新的高配硬件。苹果卡死了端侧生态和流量入口，在大模型公司为了云端算力耗尽家财的时候，顺理成章地开启全球几亿存量老用户的刚性超级换机潮。最稳的商业闭环，永远是硬件+生态。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078865618779205687",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "再牛逼的模型，想把模型实力转化成收入，\n那你就必须要有海量的内存卡和推理卡，\n不然破天的富贵你把握不住，\n所以你说内存和推理卡缺不缺？\nkimi再牛逼能怎么样，富贵来了新增订阅都接不住。 https://t.co/PXKbuIwOOQ",
+    "tweet_url": "https://x.com/xiaomustock/status/2078865618779205687",
+    "published_at": "2026-07-19T15:32:41+00:00",
+    "fetched_at": "2026-07-19T15:46:53.299100+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文讨论AI模型商业化对内存卡和推理卡（如GPU）的强烈需求，认为这是把握市场机遇的关键，暗示相关硬件供应商受益。虽未提具体标的，但隐含对算力基础设施的看多观点。",
+      "translation": "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡，不然破天的富贵你把握不住，所以你说内存和推理卡缺不缺？kimi再牛逼能怎么样，富贵来了新增订阅都接不住。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078862027855220760",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "@xiaomustock 不止如此，kimi用国内的条件（我理解N卡不多，存储什么的也不一定多）完成的训练，那是不是可以讲整个AI产业链的鬼故事了？而不光光是应用层",
+    "tweet_url": "https://x.com/xiaomustock/status/2078862027855220760",
+    "published_at": "2026-07-19T15:18:25+00:00",
+    "fetched_at": "2026-07-19T15:46:56.763337+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文指出Kimi在算力有限的条件下完成训练，暗示AI产业链（如N卡、存储等）可能面临需求低于预期的风险，对AI产业链构成利空。",
+      "translation": "不仅于此，Kimi在受限的国内条件下（我理解N卡不多，存储等也不一定充裕）完成训练，这岂不是可以讲整个AI产业链的鬼故事了？而不仅仅是应用层面。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078861372805501074",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "明天又要搏命了，感觉soxl没skhynix稳，怕他娘的美股再跌个10%亏个大的我人没了直接换成了韩股sk。\n这俩天kimi这个太热了，导致老外认识到大模型公司没有任何护城河，没几天就被别人干掉，今天gpt干gemini，明天claude干gpt。\n市场可能会重新思考什么类型的公司是真正有稳固的护城河的。\n\n能被kimi竞争登顶出现，很可能会被华尔街觉得长期利好谷歌，因为目前任何一家大模型公司谁能熬得过谷歌？稳固的现金流稳固的业务作为护城河，现在不管哪个模型领先，最终可能都是谷歌领先，它可以慢慢追，追到所有ai军备竞赛的大模型都耗尽家财，谷歌还有源源不断的血液继续干gemini。",
+    "tweet_url": "https://x.com/xiaomustock/status/2078861372805501074",
+    "published_at": "2026-07-19T15:15:49+00:00",
+    "fetched_at": "2026-07-19T15:47:00.509994+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOXL",
+        "SK",
+        "kimi"
+      ],
+      "direction": "bullish",
+      "summary": "用户担心美股下跌，将SOXL转投韩国SK Hynix以求稳定；同时认为Kimi等大模型竞争使市场重新评估护城河，长期看好谷歌。",
+      "translation": "明天又要拼命了，感觉SOXL没有SK Hynix稳，害怕美股再跌10%亏大了，直接换成了韩国SK。这两天Kimi太热，导致老外认识到大模型公司没有护城河，没几天就被别人干掉，今天GPT干Gemini，明天Claude干GPT。市场可能会重新思考什么类型的公司有真正的护城河。能被Kimi竞争登顶，可能会被华尔街视为长期利好谷歌，因为任何大模型公司谁能熬得过谷歌？谷歌有稳固的现金流和业务作为护城河，不管哪个模型领先，最终谷歌都可能靠慢追赶上，等到其他公司耗尽资源，谷歌还能继续投资Gemini。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078842544352575605",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
