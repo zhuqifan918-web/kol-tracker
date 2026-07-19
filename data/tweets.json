@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2078914447180263438",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There’s nothing quite like the scent of more AI capex on a Sunday.\n\nProbably some ways to go if leading frontier models are out of capacity from too much demand. https://t.co/d8mnuAQdLz",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2078914447180263438",
+    "published_at": "2026-07-19T18:46:43+00:00",
+    "fetched_at": "2026-07-19T18:51:21.904010+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文暗示AI领域资本支出强劲，前沿模型因需求过大而容量不足，表明AI相关投资需求旺盛，可能利好AI基础设施和技术公司。",
+      "translation": "没有什么比周日的AI资本支出气息更令人期待了。如果领先的前沿模型因需求过大而容量不足，可能还有一段路要走。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078902942573162923",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Bonds have been less effective equity hedges since the pandemic,\" per the IMF",
+    "tweet_url": "https://x.com/unusual_whales/status/2078902942573162923",
+    "published_at": "2026-07-19T18:01:00+00:00",
+    "fetched_at": "2026-07-19T18:51:42.268455+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "国际货币基金组织指出，自新冠疫情以来，债券作为股票对冲工具的有效性下降，可能增加投资组合风险。",
+      "translation": "根据国际货币基金组织的说法，自疫情以来，债券作为股票对冲工具的效果已不如从前。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078872580476535295",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",

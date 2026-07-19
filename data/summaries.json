@@ -24,26 +24,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$AAPL",
       "$GME",
-      "$EBAY",
+      "$AAPL",
+      "$PYPL",
       "$NFLX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与数据中心的增长",
-      "地缘政治风险（伊朗/中东）",
-      "通胀与货币政策不确定性",
-      "市场投机行为与监管变化",
-      "企业高管减持与宏观经济放缓"
+      "AI与科技股泡沫风险及机遇",
+      "市场波动与地缘政治不确定性",
+      "通胀与美联储政策分歧",
+      "数据经济与算力投资热潮",
+      "零售投机与机构行为分化"
     ],
-    "recent_shift": "近期从关注通胀和就业数据转向强调AI投资热潮和地缘政治风险，同时增加对市场投机和监管变化的关注。",
+    "recent_shift": "近期强调数据中心和AI基建的长期价值，同时警示短期投机过度。",
     "representative_quotes": [
       "Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”",
-      "Warren Buffett: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'",
-      "Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment."
+      "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'",
+      "Fed's Warsh: I'm not happy with any of the inflation measures."
     ],
-    "generated_at": "2026-07-19T17:50:06.430672+00:00"
+    "generated_at": "2026-07-19T18:52:10.299131+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
