@@ -24,24 +24,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$GME",
       "$AAPL",
-      "$PYPL",
-      "$NFLX"
+      "$GME",
+      "$EBAY",
+      "$PYPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
       "人工智能与芯片",
       "地缘政治风险",
-      "市场投机与赌博"
+      "市场投机与赌博",
+      "通胀与利率",
+      "数据中心与基建"
     ],
-    "recent_shift": "近期增加了对市场投机行为和数据中心建设的关注，但对通胀和地缘政治风险的担忧持续",
+    "recent_shift": "近日重点转向市场赌博行为、地缘冲突对油价影响及AI泡沫警告，与此前的科技股乐观情绪形成对比。",
     "representative_quotes": [
       "Warren Buffett on the markets: \"Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.\"",
-      "Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, \"We are at the beginning of the cycle.\"",
-      "There is a 30% chance US will invade Iran before 2027, per Polymarket."
+      "Iran's IRGC: As long as the US stays in the region, not a drop of oil and gas will be exported from the region.",
+      "Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, “We are at the beginning of the cycle.”"
     ],
-    "generated_at": "2026-07-19T07:38:35.435701+00:00"
+    "generated_at": "2026-07-19T12:11:49.413284+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
