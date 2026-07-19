@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2078827445159862580",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Now this is cool.\n\nYou can see which way the market is moving with Market Maps.  \n\nThis lets you follow the change in a market, noticing specific trends in a given sector.  \n\nCheck it out: https://t.co/M0skwOYx0F https://t.co/B7bzVlw96Z",
+    "tweet_url": "https://x.com/unusual_whales/status/2078827445159862580",
+    "published_at": "2026-07-19T13:01:00+00:00",
+    "fetched_at": "2026-07-19T13:59:05.071533+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文介绍了一种名为Market Maps的工具，可以观察市场整体走势和行业趋势，但未提供具体投资建议或方向性判断。",
+      "translation": "这很酷。你可以通过Market Maps看到市场的走向。这让你能够跟随市场的变化，注意到特定行业的趋势。查看详情：https://t.co/M0skwOYx0F https://t.co/B7bzVl96wZ",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2078812345489666092",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
