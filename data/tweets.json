@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2078699099063456172",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "As a percentage of total employment, this group has reached 3.8%, higher than the 3.6% peak during the 2001 recession and approaching the 4.3% seen in 2008.\n\nRead more: https://t.co/qnohBGj78H",
+    "tweet_url": "https://x.com/unusual_whales/status/2078699099063456172",
+    "published_at": "2026-07-19T04:31:00+00:00",
+    "fetched_at": "2026-07-19T07:38:14.479571+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出某群体占总就业的比例已升至3.8%，超过2001年衰退时的峰值（3.6%），并接近2008年金融危机时的4.3%。这暗示就业市场压力增大，可能预示经济衰退风险上升，对投资市场偏空。",
+      "translation": "作为总就业人数的百分比，这一群体已达到3.8%，高于2001年经济衰退期间3.6%的峰值，并接近2008年4.3%的水平。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078691549437640934",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
