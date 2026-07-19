@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2078691549437640934",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This surge has outpaced the growth rates of other commodities, including gold.\n\nRead more: https://t.co/9Z8XCim89w",
+    "tweet_url": "https://x.com/unusual_whales/status/2078691549437640934",
+    "published_at": "2026-07-19T04:01:00+00:00",
+    "fetched_at": "2026-07-19T05:12:26.905599+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出某种商品（推测为加密货币或其他资产）的涨势超过了包括黄金在内的其他大宗商品，暗示其具有更强的投资吸引力。",
+      "translation": "这一涨势已经超过了其他大宗商品（包括黄金）的增长率。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078661350343991457",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US is spending $50 billion on data center construction, exceeding the combined spending on airports, ports, and mass transit, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2078661350343991457",
+    "published_at": "2026-07-19T02:01:00+00:00",
+    "fetched_at": "2026-07-19T05:12:32.254653+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国在数据中心建设上投入500亿美元，超过机场、港口和公共交通的合计支出，凸显科技行业基础设施投资的快速增长，可能利好相关基建和科技股。",
+      "translation": "美国在数据中心建设上花费500亿美元，超过了机场、港口和公共交通的合计支出，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2078585852859650137",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
