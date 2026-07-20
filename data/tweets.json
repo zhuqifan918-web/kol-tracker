@@ -1,5 +1,90 @@
 [
   {
+    "tweet_id": "2079217361542856787",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Our traders rocked 4 for 5 on scalps using Unusual Whales Periscope this morning!\n\nNow on to Flow in Motion! Join below and tell us what flow you want us to look at:  \nhttps://t.co/ROOPTiQrlm",
+    "tweet_url": "https://x.com/unusual_whales/status/2079217361542856787",
+    "published_at": "2026-07-20T14:50:23+00:00",
+    "fetched_at": "2026-07-20T15:13:52.532694+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": null,
+      "translation": null,
+      "confidence": null
+    }
+  },
+  {
+    "tweet_id": "2079209713879994592",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: AMC, $AMC, delivers the highest quarterly revenue and adjusted EBITDA in its 106-year history.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079209713879994592",
+    "published_at": "2026-07-20T14:20:00+00:00",
+    "fetched_at": "2026-07-20T15:13:55.243032+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMC"
+      ],
+      "direction": "bullish",
+      "summary": "AMC院线公司公布了其106年历史上最高的季度营业收入和调整后EBITDA，业绩表现强劲，对投资者是积极信号。",
+      "translation": "突发消息：AMC，$AMC，在其106年历史上实现了最高的季度营业收入和调整后EBITDA。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079205435710513171",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Google, $GOOGL, to launch new Frozen chip in 2028, per Blooomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079205435710513171",
+    "published_at": "2026-07-20T14:03:00+00:00",
+    "fetched_at": "2026-07-20T15:13:57.090646+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文报道谷歌（$GOOGL）计划于2028年推出新型Frozen芯片，可能推动公司长期增长，对股价构成潜在利好。",
+      "translation": "根据彭博社报道，谷歌（$GOOGL）将于2028年推出新的Frozen芯片。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079193860169732159",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079193860169732159",
+    "published_at": "2026-07-20T13:17:00+00:00",
+    "fetched_at": "2026-07-20T15:14:01.170932+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+      ],
+      "direction": "bearish",
+      "summary": "高盛指出，Meta、微软、亚马逊和谷歌母公司Alphabet计划到2030年投入5.3万亿美元用于人工智能，这可能对债券市场造成压力，暗示利率上升或资金紧张，对股市整体构成利空。",
+      "translation": "高盛表示，Meta、微软、亚马逊和谷歌母公司Alphabet到2030年投入5.3万亿美元用于人工智能，可能对债券市场造成压力。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079188825809756312",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
