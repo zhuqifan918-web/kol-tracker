@@ -26,24 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$GME",
-      "$EBAY",
       "$AAPL",
-      "$NFLX"
+      "$NFLX",
+      "$GME",
+      "$EBAY"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资过热与泡沫风险",
-      "地缘政治紧张与能源安全",
-      "市场高估值与内部人抛售"
+      "市场波动与回调风险",
+      "地缘政治紧张局势",
+      "美国经济放缓与通胀高企",
+      "AI行业投资与半导体竞争",
+      "企业高管抛售与投资者情绪"
     ],
-    "recent_shift": "近期更多关注地缘政治风险和AI泡沫警示，整体转向谨慎。",
+    "recent_shift": "从早期对AI热潮的乐观转向关注地缘冲突、通胀压力及市场回调信号",
     "representative_quotes": [
       "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "Bonds have been less effective equity hedges since the pandemic, per the IMF",
+      "There will be a summer stock market pullback before possible year-end rally, per Bank of America.",
       "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'"
     ],
-    "generated_at": "2026-07-20T04:38:21.551816+00:00"
+    "generated_at": "2026-07-20T10:41:37.780715+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
