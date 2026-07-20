@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2079153593832128785",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: China is accelerating efforts to stop its severe equity selloff, deploying two major state funds to buy domestic equities and stabilize capital markets, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079153593832128785",
+    "published_at": "2026-07-20T10:37:00+00:00",
+    "fetched_at": "2026-07-20T10:41:10.351293+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "中国通过两大国家基金购买国内股票以稳定市场，此举表明政府积极干预，对A股市场构成短期利好，投资者可关注相关指数ETF。",
+      "translation": "突发：中国正加速努力阻止其严重的股票抛售，动用两大国家基金购买国内股票以稳定资本市场，据彭博社报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079089592385610023",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -45,6 +64,25 @@
     }
   },
   {
+    "tweet_id": "2079063926554136736",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "14% there is a chance of a US recession by end of 2026, per Polymarket: https://t.co/ByIGCNxnC9",
+    "tweet_url": "https://x.com/unusual_whales/status/2079063926554136736",
+    "published_at": "2026-07-20T04:40:41+00:00",
+    "fetched_at": "2026-07-20T10:41:20.554608+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用Polymarket数据，指出美国在2026年底前有14%的概率陷入衰退，对市场情绪偏空，但未直接指向具体投资标的。",
+      "translation": "根据Polymarket，到2026年底美国有14%的几率出现衰退。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079061487155310864",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -60,6 +98,27 @@
       "direction": "bearish",
       "summary": "该推文指出，当前内部人减持水平与互联网泡沫时期相似，暗示市场可能面临大幅回调。分析认为这是对市场过度乐观的警示信号。",
       "translation": "上一次内部人减持达到类似水平是在互联网泡沫期间，随后出现了显著的市场调整。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079046387405332723",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The product will deliver posts from the 10 most influential accounts to customers at a significantly faster pace than a regular push notification on the Truth Social platform.\n\nRead more: https://t.co/ZZLK27cJ9J",
+    "tweet_url": "https://x.com/unusual_whales/status/2079046387405332723",
+    "published_at": "2026-07-20T03:31:00+00:00",
+    "fetched_at": "2026-07-20T10:41:23.809609+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DJT"
+      ],
+      "direction": "bullish",
+      "summary": "此推文提及Truth Social平台将推出新功能，通过更快推送10个最有影响力账户的帖子来提升用户体验，可能推动平台活跃度和广告价值，对关联股票（如DJT）构成利好。",
+      "translation": "该产品将以比Truth Social平台上的常规推送通知明显更快的速度，向客户推送来自10个最有影响力账户的帖子。",
       "confidence": "high"
     }
   },
