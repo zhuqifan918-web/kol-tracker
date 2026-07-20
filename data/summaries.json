@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$AAPL",
-      "$NFLX",
+      "$TSM",
       "$GME",
-      "$EBAY"
+      "$AAPL",
+      "$NFLX"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "市场波动与回调风险",
-      "地缘政治紧张局势",
-      "美国经济放缓与通胀高企",
-      "AI行业投资与半导体竞争",
-      "企业高管抛售与投资者情绪"
+      "人工智能与芯片投资",
+      "市场波动与避险",
+      "地缘政治风险",
+      "财富转移与资本流动",
+      "房地产市场变化"
     ],
-    "recent_shift": "从早期对AI热潮的乐观转向关注地缘冲突、通胀压力及市场回调信号",
+    "recent_shift": "近期更关注AI泡沫风险和地缘政治事件对市场的冲击，而早期偏乐观科技股",
     "representative_quotes": [
+      "The biggest wealth transfer in history is here... Trillions of dollars are set to pass from founders to younger generations worldwide.",
       "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "There will be a summer stock market pullback before possible year-end rally, per Bank of America.",
-      "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'"
+      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg"
     ],
-    "generated_at": "2026-07-20T10:41:37.780715+00:00"
+    "generated_at": "2026-07-20T13:01:02.799551+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
