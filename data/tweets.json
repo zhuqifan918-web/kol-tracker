@@ -1,5 +1,84 @@
 [
   {
+    "tweet_id": "2079292543465050578",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Now this is cool.  \n\nYou can see which way the market is moving with Market Maps.    \n\nThis lets you follow the change in a market, noticing specific trends in a given sector.    \n\nCheck it out: https://t.co/M0skwOZ4Qd https://t.co/aLw2tLfLda",
+    "tweet_url": "https://x.com/unusual_whales/status/2079292543465050578",
+    "published_at": "2026-07-20T19:49:08+00:00",
+    "fetched_at": "2026-07-20T20:16:31.119538+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了一个名为Market Maps的市场分析工具，可用于追踪市场动向和特定行业趋势，但没有提供具体的投资建议或方向性观点。",
+      "translation": "这很酷。你可以通过Market Maps看到市场的走向。这让你能够追踪市场的变化，注意到特定行业的趋势。来看看吧：https://t.co/M0skwOZ4Qd https://t.co/aLw2tLfLda",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079289335351062693",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "TBH, casually posting novel information discovery to X is how research should be done. \n\nApparently this was #16 on the Smale's list of Mathematical Problems for the Next Century?\n\nKinda shows that the value generated from AI does not scale linearly with token costs... After seeing this, bears are still probably going to say: \n\n\"B-but where's the profit coming from after AI usage?\"\n\nAI + capex is likely going to keep going brrr.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079289335351062693",
+    "published_at": "2026-07-20T19:36:23+00:00",
+    "fetched_at": "2026-07-20T20:16:05.313986+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文认为AI的价值创造并不随token成本线性增长，暗示AI和资本支出（capex）将继续蓬勃发展，对AI相关投资持乐观态度。",
+      "translation": "说实话，随便在X上发布新信息发现才是研究该有的做法。这好像是斯梅尔下一世纪数学问题清单上的第16个？这有点表明AI产生的价值并不随代币成本线性增长...看到这一点后，空头可能还是会说：“但AI使用后利润从哪里来？”AI+资本支出很可能继续飙升。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079284456012042275",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "People talk about options simply.  \n\nWhat if you saw how the pros do it instead?  \n\nWhat if you saw their strategies live?\n\nCheck out the Unusual Whales Multi-Leg Flow tool.  \n\nIt lets you see the pros in action, as they put their trades.  \n\nSee more: https://t.co/eKeyYPleRO https://t.co/7fW3q089kc",
+    "tweet_url": "https://x.com/unusual_whales/status/2079284456012042275",
+    "published_at": "2026-07-20T19:17:00+00:00",
+    "fetched_at": "2026-07-20T20:16:33.209831+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文推广Unusual Whales的多腿期权流动工具，仅提及专业交易策略展示，未给出具体投资建议或市场方向。",
+      "translation": "人们谈论期权很简单。\n\n但如果让你看到专业人士是怎么做的呢？\n\n如果他们实时展示策略呢？\n\n查看Unusual Whales的多腿期权流动工具。\n\n它让你看到专业人士在行动，在他们进行交易时。\n\n查看更多：https://t.co/eKeyYPleRO https://t.co/7fW3q089kc",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2079279422729838781",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BlackRock, $BLK, is leading a debt sale targeting at least $12 billion for its new El Paso data-center project backed by Meta, $META, Platforms, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2079279422729838781",
+    "published_at": "2026-07-20T18:57:00+00:00",
+    "fetched_at": "2026-07-20T20:16:35.333862+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BLK",
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "贝莱德（BLK）与Meta合作，主导至少120亿美元债务融资用于新建数据中心项目，该合作体现了大型科技公司对AI基础设施的强劲需求，利好BLK的资产管理和META的算力扩张前景。",
+      "translation": "据《华尔街日报》报道，贝莱德正在主导一笔至少120亿美元的债务发售，为其与Meta Platforms合作的新埃尔帕索数据中心项目融资。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079274389615308842",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -86,6 +165,25 @@
       "direction": "bullish",
       "summary": "推文指出多个云/AI相关股票因新催化剂（如Kimi算力短缺消息和新合约）而大幅上涨，明确表达了对这些NEO云/托管板块走势看好的态度。",
       "translation": "推特内容：$IREN 因更新ARR目标至40亿美元以上（来自新的AI云合约）上涨19.69%，其客户包括微软、英伟达、Perplexity和Figure。$HUT 因一项为期15年、价值98亿美元的AI数据中心租赁协议上涨10.45%。$CIFR 涨16.76%，$CLSK 涨13.7%，$WYFI 涨9.18%。$NBIS 和 $CRWV 还在“洗澡”（指尚未明显表现）。但看起来，在Kimi算力短缺消息和新合约等催化剂推动下，NEO云/托管板块正在强劲复苏。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079239157897924987",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iranian Army Spokesperson: Equipment cannot pass through the Strait of Hormuz if it is intended to be used against the Iranian people.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079239157897924987",
+    "published_at": "2026-07-20T16:17:00+00:00",
+    "fetched_at": "2026-07-20T20:16:41.546288+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及伊朗军方可能封锁霍尔木兹海峡，对全球石油运输构成威胁，可能导致油价上涨，对依赖石油进口的经济体和相关行业不利。",
+      "translation": "伊朗陆军发言人：如果设备被用于对抗伊朗人民，则无法通过霍尔木兹海峡。",
       "confidence": "high"
     }
   },

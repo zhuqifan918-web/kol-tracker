@@ -1,50 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$NVDA",
-      "$SIVE",
-      "$META",
-      "$MU",
-      "$AAOI"
+      "SIVE",
+      "NVDA",
+      "AAOI",
+      "META",
+      "CCXI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力瓶颈与基础设施持续扩张",
-      "光学/硅光供应链紧缺与国产替代",
-      "人形机器人量产竞赛与美国追赶",
-      "存储器结构性需求与价格上升周期",
-      "边缘计算与Neocloud新基建崛起"
+      "AI基础设施与算力瓶颈",
+      "光子学与CPO技术路线",
+      "人形机器人商业化",
+      "记忆体与上游半导体供给紧张",
+      "市场恐慌与基本面背离"
     ],
-    "recent_shift": "",
+    "recent_shift": "从前期关注宏观避险，转向强调基本面未变及供应链瓶颈带来的结构性机会，对短期恐慌性抛售转为批判性乐观。",
     "representative_quotes": [
-      "If a thesis ends up correct, the valuation should be reflected in the long run.",
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
-      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before."
+      "I’m personally not panicking when something drops if the thesis didn’t change.",
+      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
+      "There's nothing quite like the scent of more AI capex on a Sunday."
     ],
-    "generated_at": "2026-07-20T18:49:30.608624+00:00"
+    "generated_at": "2026-07-20T20:16:52.407673+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$AMC",
-      "$TSM",
-      "$GME",
-      "$NFLX"
+      "NVDA",
+      "TSM",
+      "GME",
+      "META",
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与芯片供应链",
-      "地缘政治风险加剧（伊朗、沙特、也门）",
-      "宏观经济数据与政策转变（通胀、就业、利率）",
-      "市场波动与资金流向（对冲基金撤退、内部人抛售）"
+      "人工智能与芯片投资",
+      "地缘政治风险",
+      "市场波动与避险"
     ],
-    "recent_shift": "近期偏向持续关注AI和地缘政治风险，但未出现明显的多空转向。",
+    "recent_shift": "近期更关注地缘政治（伊朗、也门）对能源和航运的冲击，以及美国通胀和就业数据对市场的影响。",
     "representative_quotes": [
-      "BREAKING: House Representative William Timmons bought up $100,000 of SpaceX, $SPCX on 06/15/2026.",
+      "Goldman Sachs has said that the $5.5. trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets.",
       "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
-      "34% chance US invades Iran by 2027, per Polymarket: https://t.co/849AbbTWaX"
+      "BREAKING: China is accelerating efforts to stop its severe equity selloff, deploying two major state funds to buy domestic equities and stabilize capital markets, per Bloomberg."
     ],
-    "generated_at": "2026-07-20T18:49:33.813746+00:00"
+    "generated_at": "2026-07-20T20:16:55.323697+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
