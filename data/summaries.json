@@ -25,29 +25,27 @@
     "focus_tickers": [
       "$NVDA",
       "$GME",
-      "$AAPL",
       "$EBAY",
-      "$PYPL"
+      "$AAPL",
+      "$NFLX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "人工智能与芯片投资",
-      "地缘政治风险与市场影响",
-      "房地产市场变化",
-      "消费者支出放缓",
-      "债券避险有效性下降"
+      "AI投资过热与泡沫风险",
+      "地缘政治紧张与能源安全",
+      "市场高估值与内部人抛售"
     ],
-    "recent_shift": "近期偏悲观，强调市场回调风险，但早期有反弹预期",
+    "recent_shift": "近期更多关注地缘政治风险和AI泡沫警示，整体转向谨慎。",
     "representative_quotes": [
-      "There will be a summer stock market pullback before possible year-end rally, per Bank of America.",
-      "Jensen Huang's of Nvidia, $NVDA, jacket just auctioned for nearly $1 million at Sotheby's.",
-      "Warren Buffett on the markets: Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors."
+      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
+      "Bonds have been less effective equity hedges since the pandemic, per the IMF",
+      "Warren Buffett on the markets: 'Since humans love to gamble so much, there's more money in actually cultivating gamblers than there are cultivating investors.'"
     ],
-    "generated_at": "2026-07-19T21:12:25.849482+00:00"
+    "generated_at": "2026-07-20T04:38:21.551816+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
+      "SKHynix",
       "GLW",
       "MU",
       "NVDA",
@@ -55,17 +53,16 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片与内存需求旺盛，尤其是HBM和推理卡",
-      "云厂商受益于AI模型竞争，护城河稳固",
-      "端侧AI与苹果硬件生态的长期价值",
-      "AI基建供不应求，历史级硬件需求"
+      "存储芯片需求长期看好",
+      "云厂商和端侧AI的机会",
+      "玻璃基板技术成为下一代关键"
     ],
-    "recent_shift": "近期关注点从通用AI模型竞争转向云厂商和存储芯片的确定性需求，强调端侧AI和硬件生态的护城河。",
+    "recent_shift": "近期从短期波动担忧转为更坚定看多存储和康宁，强调AI长期需求被低估。",
     "representative_quotes": [
-      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去",
-      "云厂恰恰能解决所有大模型公司的这种顾虑。",
-      "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支"
+      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡",
+      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了",
+      "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金"
     ],
-    "generated_at": "2026-07-19T16:45:22.325069+00:00"
+    "generated_at": "2026-07-20T04:38:14.183713+00:00"
   }
 }
