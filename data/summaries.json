@@ -26,26 +26,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
+      "$AMC",
       "$GME",
-      "$AAPL",
-      "$EBAY",
-      "$PYPL"
+      "$TSM",
+      "$AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮",
-      "地缘政治风险（伊朗、中美）",
-      "市场波动与回调预期",
-      "内部人减持信号",
-      "住房市场与通胀"
+      "人工智能投资热潮与基础设施支出",
+      "市场波动与地缘政治风险",
+      "内部人抛售与流动性问题",
+      "投机交易与期权活动"
     ],
-    "recent_shift": "近期偏重AI相关消息和地缘风险，同时强调内部人减持和可能回调的信号。",
+    "recent_shift": "后期更多关注地缘政治事件（如胡塞武装封锁）和宏观经济风险（衰退概率、债券市场紧张），以及ETF等监管限制。",
     "representative_quotes": [
-      "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'",
-      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "There will be a summer stock market pullback before possible year-end rally, per Bank of America."
+      "\"Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'\"",
+      "\"Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets.\"",
+      "\"The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.\""
     ],
-    "generated_at": "2026-07-20T15:14:33.485414+00:00"
+    "generated_at": "2026-07-20T16:52:09.528633+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

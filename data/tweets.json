@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2079224058260918727",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NEWS: Houthis of Yemen announce a a \"maritime embargo\" against Saudi Arabia, \"effective immediately,\" per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079224058260918727",
+    "published_at": "2026-07-20T15:17:00+00:00",
+    "fetched_at": "2026-07-20T16:51:35.483590+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "胡塞武装对沙特实施海上禁运可能推高全球油价，影响中东航运和能源市场。",
+      "translation": "新闻：据彭博社报道，也门胡塞武装宣布立即对沙特阿拉伯实施“海上禁运”。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079217361542856787",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -82,6 +101,25 @@
       "summary": "高盛指出，Meta、微软、亚马逊和谷歌母公司Alphabet计划到2030年投入5.3万亿美元用于人工智能，这可能对债券市场造成压力，暗示利率上升或资金紧张，对股市整体构成利空。",
       "translation": "高盛表示，Meta、微软、亚马逊和谷歌母公司Alphabet到2030年投入5.3万亿美元用于人工智能，可能对债券市场造成压力。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079192596459450715",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales live trading and options flow show WhaleWatch is live now!\n\nStarting off, as always, with pre-market prep and open interest changes\n\n9am - 9:30am: Premarket Pulse \n9:30am - 10:30am: Open Waters \n10:30am - 11:30am: Flow in Motion\n\nJoin below:\nhttps://t.co/AHD3kw1RvJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2079192596459450715",
+    "published_at": "2026-07-20T13:11:59+00:00",
+    "fetched_at": "2026-07-20T16:51:38.491184+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布Unusual Whales的实时交易和期权流分析工具WhaleWatch已上线，并预告了当天不同时段的市场分析节目安排，但未提供具体交易信号或方向性判断。",
+      "translation": "最新消息：Unusual Whales的实时交易和期权流显示WhaleWatch现已上线！一如既往，从盘前准备和未平仓合约变化开始。上午9点至9:30：盘前脉搏；9:30至10:30：公海水域；10:30至11:30：流动进行中。下方加入：https://t.co/AHD3kw1RvJ",
+      "confidence": "low"
     }
   },
   {
