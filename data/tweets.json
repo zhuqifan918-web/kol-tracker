@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2079061487155310864",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.\n\nRead more: https://t.co/m98Hu1bCKI",
+    "tweet_url": "https://x.com/unusual_whales/status/2079061487155310864",
+    "published_at": "2026-07-20T04:31:00+00:00",
+    "fetched_at": "2026-07-20T04:37:52.668959+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出，当前内部人减持水平与互联网泡沫时期相似，暗示市场可能面临大幅回调。分析认为这是对市场过度乐观的警示信号。",
+      "translation": "上一次内部人减持达到类似水平是在互联网泡沫期间，随后出现了显著的市场调整。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079035312031039598",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "均价52.3海力士2x我又来了\n梭完了，生死有命富贵在天，买定离手了。 https://t.co/ql5MnSYqeQ",
+    "tweet_url": "https://x.com/xiaomustock/status/2079035312031039598",
+    "published_at": "2026-07-20T02:46:59+00:00",
+    "fetched_at": "2026-07-20T04:37:43.302058+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "该用户以均价52.3再次买入海力士（SK Hynix），并表达“梭哈”态度，显示其对该股票短期走势极度看涨，认为风险与收益并存。",
+      "translation": "均价52.3海力士我又来了。梭完了，生死有命富贵在天，买定离手了。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2078948240754716707",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -4606,6 +4646,25 @@
       "summary": "美国入门级就业市场为37年来最疲软，失业新毕业生比例达13.3%，可能预示经济放缓，对整体市场情绪偏空，影响消费和投资信心。",
       "translation": "美国入门级就业市场处于37年来的最弱水平，新进入者的失业率达到了13.3%，据YF报道。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2076372905450188998",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Looks like the Strait of Hormuz is open for the 50th time this year per Trump.\n\nI’m getting tired looking at macro. https://t.co/GuYgkwC2Q8",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2076372905450188998",
+    "published_at": "2026-07-12T18:27:32+00:00",
+    "fetched_at": "2026-07-20T04:37:33.023211+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及特朗普称霍尔木兹海峡本年已开放第50次，暗示地缘政治风险常态化可能影响油价和能源市场，暂无明确多空信号。",
+      "translation": "看起来特朗普说霍尔木兹海峡今年第50次开放。我看宏观都看累了。",
+      "confidence": "low"
     }
   },
   {
