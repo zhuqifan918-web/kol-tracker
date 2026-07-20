@@ -1,50 +1,50 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "NVDA",
-      "AAOI",
-      "META",
-      "LITE"
+      "$NVDA",
+      "$SIVE",
+      "$META",
+      "$MU",
+      "$AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础建设与上游半导体瓶颈",
-      "硅光通信与共封装光学（CPO）",
-      "记忆体与存储芯片结构性需求",
-      "人形机器人商业化",
-      "数据中心算力扩张"
+      "AI算力瓶颈与基础设施持续扩张",
+      "光学/硅光供应链紧缺与国产替代",
+      "人形机器人量产竞赛与美国追赶",
+      "存储器结构性需求与价格上升周期",
+      "边缘计算与Neocloud新基建崛起"
     ],
-    "recent_shift": "近一周在强调AI主题未因市场恐慌改变，并针对META算力缩减传闻及CPO延期报告进行反驳，认为恐慌源自杠杆清算而非基本面，观点仓位维持不变。",
+    "recent_shift": "",
     "representative_quotes": [
-      "I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
-      "One of the dumbest thematic selloffs I’ve seen to to date off: $META compute news that’s not new / CPO delay report 1, that got refuted by $NVDA.",
-      "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... probably doesn't have anything to do with individual fundamentals."
+      "If a thesis ends up correct, the valuation should be reflected in the long run.",
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
+      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before."
     ],
-    "generated_at": "2026-07-20T07:52:39.946287+00:00"
+    "generated_at": "2026-07-20T18:49:30.608624+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
+      "$SPCX",
       "$AMC",
-      "$GME",
       "$TSM",
-      "$AAPL"
+      "$GME",
+      "$NFLX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能投资热潮与基础设施支出",
-      "市场波动与地缘政治风险",
-      "内部人抛售与流动性问题",
-      "投机交易与期权活动"
+      "AI投资与芯片供应链",
+      "地缘政治风险加剧（伊朗、沙特、也门）",
+      "宏观经济数据与政策转变（通胀、就业、利率）",
+      "市场波动与资金流向（对冲基金撤退、内部人抛售）"
     ],
-    "recent_shift": "后期更多关注地缘政治事件（如胡塞武装封锁）和宏观经济风险（衰退概率、债券市场紧张），以及ETF等监管限制。",
+    "recent_shift": "近期偏向持续关注AI和地缘政治风险，但未出现明显的多空转向。",
     "representative_quotes": [
-      "\"Nvidia CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'\"",
-      "\"Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets.\"",
-      "\"The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.\""
+      "BREAKING: House Representative William Timmons bought up $100,000 of SpaceX, $SPCX on 06/15/2026.",
+      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
+      "34% chance US invades Iran by 2027, per Polymarket: https://t.co/849AbbTWaX"
     ],
-    "generated_at": "2026-07-20T16:52:09.528633+00:00"
+    "generated_at": "2026-07-20T18:49:33.813746+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
