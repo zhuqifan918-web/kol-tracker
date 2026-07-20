@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2079188825809756312",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Humans have endless things they want to do, Bezos of $AMZN has said, and are currently held back only by barriers that AI will lower.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079188825809756312",
+    "published_at": "2026-07-20T12:57:00+00:00",
+    "fetched_at": "2026-07-20T13:00:36.339101+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "贝索斯认为人类有无限需求，AI将降低当前阻碍这些需求的障碍，这对亚马逊（AMZN）长期发展构成利好，暗示AI投资价值。",
+      "translation": "人类有无数想要做的事情，亚马逊的贝索斯表示，目前只是被AI将降低的障碍所限制。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079168693313958342",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The biggest wealth transfer in history is here,\" per CNBC: Trillions of dollars are set to pass from founders to younger generations worldwide.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079168693313958342",
+    "published_at": "2026-07-20T11:37:00+00:00",
+    "fetched_at": "2026-07-20T13:00:41.554134+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及历史上最大的财富转移即将发生，涉及数万亿美元从创始人传给年轻一代，可能对资本市场和投资风向产生长期影响。",
+      "translation": "据CNBC报道：‘历史上最大的财富转移即将到来’：全球范围内，数万亿美元将从创始人手中传给年轻一代。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079158626854576368",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: TSMC, $TSM, CFO Wendell Huang has confirmed an additional $100 billion investment in the company's US Arizona operations to meet soaring, structural demand for AI chips, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2079158626854576368",
+    "published_at": "2026-07-20T10:57:00+00:00",
+    "fetched_at": "2026-07-20T13:00:44.749595+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "台积电确认将额外投资1000亿美元于美国亚利桑那州的业务，以满足AI芯片的结构性需求，这是对公司长期增长前景的强烈看好信号。",
+      "translation": "突发：台积电（TSM）财务长黄仁昭确认，将在公司美国亚利桑那州业务上额外投资1000亿美元，以满足对AI芯片持续增长的结构性需求。来源：YF",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079153593832128785",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
