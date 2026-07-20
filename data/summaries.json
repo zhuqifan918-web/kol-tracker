@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$TSM",
       "$GME",
       "$AAPL",
-      "$NFLX"
+      "$EBAY",
+      "$PYPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与芯片投资",
-      "市场波动与避险",
-      "地缘政治风险",
-      "财富转移与资本流动",
-      "房地产市场变化"
+      "AI投资热潮",
+      "地缘政治风险（伊朗、中美）",
+      "市场波动与回调预期",
+      "内部人减持信号",
+      "住房市场与通胀"
     ],
-    "recent_shift": "近期更关注AI泡沫风险和地缘政治事件对市场的冲击，而早期偏乐观科技股",
+    "recent_shift": "近期偏重AI相关消息和地缘风险，同时强调内部人减持和可能回调的信号。",
     "representative_quotes": [
-      "The biggest wealth transfer in history is here... Trillions of dollars are set to pass from founders to younger generations worldwide.",
+      "BREAKING: Nvidia, $NVDA, CEO Jensen Huang says the AI boom is still in its early stages, declaring, 'We are at the beginning of the cycle.'",
       "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "US executives are selling shares at the second-fastest pace in more than 20 years, per Bloomberg"
+      "There will be a summer stock market pullback before possible year-end rally, per Bank of America."
     ],
-    "generated_at": "2026-07-20T13:01:02.799551+00:00"
+    "generated_at": "2026-07-20T15:14:33.485414+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
