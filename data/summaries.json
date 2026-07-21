@@ -1,70 +1,71 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "NVDA",
-      "AAOI",
-      "META",
-      "CCXI"
+      "$SIVE",
+      "$AMD",
+      "$NVDA",
+      "$MU",
+      "$CCXI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力瓶颈",
-      "光子学与CPO技术路线",
-      "人形机器人商业化",
-      "记忆体与上游半导体供给紧张",
-      "市场恐慌与基本面背离"
+      "AI算力基础设施与瓶颈投资",
+      "光电/CPO激光器供应链升级",
+      "人形机器人产业化与中美竞赛",
+      "内存及存储结构性短缺",
+      "Neocloud/数据中心租赁需求爆发"
     ],
-    "recent_shift": "从前期关注宏观避险，转向强调基本面未变及供应链瓶颈带来的结构性机会，对短期恐慌性抛售转为批判性乐观。",
+    "recent_shift": "从前期市场恐慌（仓位回调近50%）转向强调基本面未变，并预期V型反弹，尤其看好光电板块。",
     "representative_quotes": [
-      "I’m personally not panicking when something drops if the thesis didn’t change.",
-      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
-      "There's nothing quite like the scent of more AI capex on a Sunday."
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
+      "It's slightly more nuanced. Basically, $AMD SF event is tomorrow... If they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition.",
+      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before."
     ],
-    "generated_at": "2026-07-20T20:16:52.407673+00:00"
+    "generated_at": "2026-07-21T21:57:06.173583+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
+      "AAPL",
       "TSM",
       "GME",
-      "META",
-      "AMZN"
+      "AMC"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与芯片投资",
-      "地缘政治风险",
-      "市场波动与避险"
+      "AI投资与硬件需求",
+      "地缘政治风险（伊朗、也门、中美）",
+      "利率与通胀预期",
+      "市场波动与资产配置转变"
     ],
-    "recent_shift": "近期更关注地缘政治（伊朗、也门）对能源和航运的冲击，以及美国通胀和就业数据对市场的影响。",
+    "recent_shift": "近期更加强调地缘政治风险和利率上升对市场的压力，但依然看好AI的长期趋势。",
     "representative_quotes": [
-      "Goldman Sachs has said that the $5.5. trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets.",
-      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
-      "BREAKING: China is accelerating efforts to stop its severe equity selloff, deploying two major state funds to buy domestic equities and stabilize capital markets, per Bloomberg."
+      "Jim Cramer has said to 'look beyond tech as AI uncertainty rattles the market.'",
+      "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets.",
+      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs."
     ],
-    "generated_at": "2026-07-20T20:16:55.323697+00:00"
+    "generated_at": "2026-07-21T21:57:02.114086+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHynix",
-      "GLW",
+      "SKHYX",
       "MU",
-      "NVDA",
-      "AMAT"
+      "GLW",
+      "GOOGL",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求长期看好",
-      "云厂商和端侧AI的机会",
-      "玻璃基板技术成为下一代关键"
+      "存储芯片与AI算力需求爆发",
+      "云厂作为AI核心基础设施的长期护城河",
+      "端侧AI与硬件生态（苹果）的潜在机遇"
     ],
-    "recent_shift": "近期从短期波动担忧转为更坚定看多存储和康宁，强调AI长期需求被低估。",
+    "recent_shift": "从早期集中押注存储和杠杆ETF，转向强调云厂和端侧AI的稳定性，并因市场波动而更注重仓位管理。",
     "representative_quotes": [
-      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡",
-      "康宁自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍，只能说明市场里的傻瓜太多了",
-      "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金"
+      "不管哪个模型今天牛逼，AI猛增云厂都爆赚。",
+      "全市场都是垃圾股，没有比海力士更好的。",
+      "云端承载不了的推理和内存压力，必然会走向端侧化。苹果卡死了端侧生态和流量入口。"
     ],
-    "generated_at": "2026-07-20T04:38:14.183713+00:00"
+    "generated_at": "2026-07-21T21:56:59.653398+00:00"
   }
 }

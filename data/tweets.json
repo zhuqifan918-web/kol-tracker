@@ -1,5 +1,580 @@
 [
   {
+    "tweet_id": "2079680566124036118",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, is officially in full production of its next-generation \"Vera Rubin\" AI computing systems, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2079680566124036118",
+    "published_at": "2026-07-21T21:31:00+00:00",
+    "fetched_at": "2026-07-21T21:56:29.938206+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达下一代“Vera Rubin”AI计算系统已正式量产，这对其股价是积极信号，可能推动未来营收增长。",
+      "translation": "英伟达，$NVDA，已正式全面投产其下一代“Vera Rubin”AI计算系统，据雅虎财经报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079665467061375072",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: London Stock Exchange to launch round-the-clock trading next year",
+    "tweet_url": "https://x.com/unusual_whales/status/2079665467061375072",
+    "published_at": "2026-07-21T20:31:00+00:00",
+    "fetched_at": "2026-07-21T21:56:33.645589+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "伦敦证券交易所计划明年推出24小时交易，这标志着传统交易所向加密货币式全天候交易模式转型，可能提升市场流动性和交易量，对金融市场基础设施建设构成利好。",
+      "translation": "突发：伦敦证券交易所计划明年推出全天候交易。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079646843773108236",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "People talk about options simply. \n\nWhat if you saw how the pros do it instead?\n\nWhat if you saw their strategies live?  \n\nCheck out the Unusual Whales Multi-Leg Flow tool.\n\nIt lets you see the pros in action, as they put their trades. \n\nSee more: https://t.co/eKeyYPlMHm https://t.co/114TPHosPz",
+    "tweet_url": "https://x.com/unusual_whales/status/2079646843773108236",
+    "published_at": "2026-07-21T19:17:00+00:00",
+    "fetched_at": "2026-07-21T21:56:37.905269+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣传Unusual Whales的多腿期权流工具，让用户实时观察专业交易者的期权策略，属于投资工具推广，未提及具体标的或方向性信号。",
+      "translation": "人们简单谈论期权。\n\n如果你看到专业人士怎么做呢？\n\n如果你实时看到他们的策略呢？\n\n查看Unusual Whales的多腿期权流工具。\n\n它让你看到专业人士行动，就像他们进行交易时一样。\n\n了解更多：https://t.co/eKeyYPlMHm https://t.co/114TPHosPz",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079636669108772957",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump to add fresh tariffs ‌on dozens of countries as soon as ​this week, ⁠with his temporary ​10% global tariff scheduled ​to expire on Friday, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2079636669108772957",
+    "published_at": "2026-07-21T18:36:34+00:00",
+    "fetched_at": "2026-07-21T21:56:40.684134+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普计划本周对多国加征新关税，并让临时10%全球关税周五到期，这可能加剧贸易紧张局势，对全球市场构成利空，投资者需警惕风险。",
+      "translation": "突发：据金融时报报道，特朗普最早将于本周对数十个国家加征新关税，其临时10%的全球关税定于本周五到期。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079625855677125035",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "64% chance of Fed rate hike in 2026, per Polymarket: https://t.co/AfgZ9dMetZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2079625855677125035",
+    "published_at": "2026-07-21T17:53:36+00:00",
+    "fetched_at": "2026-07-21T21:56:43.130166+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "Polymarket预测2026年美联储加息概率为64%。这反映了市场对长期利率走势的预期，可能影响债券和股市估值。投资者应关注货币政策变化对资产价格的潜在影响。",
+      "translation": "根据Polymarket数据，2026年美联储加息概率为64%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079622706572804368",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, a historic single day recovery.\n\n$SIVEF +30.89%\n$IQEF +28.6%\n$AEHR +26.53%\n$CIFR +17.82%\n$NBIS +17.3%\n$AAOI +15.6%\n$LPK +14.48%\n$AXTI +14.12%\n$MU +12.54%\n$SNDK +12.8%\n$SOI +11.1%\n$TSEM +10.39%\n$LITE +9.25%\n$INTC +8.22%\n$AMD +8.11%\n$MRVL +7.27%",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079622706572804368",
+    "published_at": "2026-07-21T17:41:05+00:00",
+    "fetched_at": "2026-07-21T21:55:27.799579+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVEF",
+        "IQEF",
+        "AEHR",
+        "CIFR",
+        "NBIS",
+        "AAOI",
+        "LPK",
+        "AXTI",
+        "MU",
+        "SNDK",
+        "SOI",
+        "TSEM",
+        "LITE",
+        "INTC",
+        "AMD",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文列出了在单日大幅反弹中涨幅显著的股票，显示市场情绪积极，投资者可关注这些超跌反弹机会。",
+      "translation": "哇，历史性的单日复苏。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079621677982392587",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Yesterday, $AMC popped up to 28% after strong earnings.\n\nWhat were insiders doing with the stock?\n\nRecently, they've been buying.\n\nTake CEO Adam. \n\nHe bought stock in May. https://t.co/DoD4xbvbTI",
+    "tweet_url": "https://x.com/unusual_whales/status/2079621677982392587",
+    "published_at": "2026-07-21T17:37:00+00:00",
+    "fetched_at": "2026-07-21T21:56:44.894337+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMC"
+      ],
+      "direction": "bullish",
+      "summary": "AMC股价因强劲财报大涨28%，内部人士（包括CEO）近期持续买入，显示对公司前景看好。",
+      "translation": "昨天，$AMC在强劲财报后飙涨28%。内部人士在做什么？最近，他们一直在买入。以CEO亚当为例，他在五月买入了股票。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079614403327250604",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Apple, $AAPL, is partnering with Klarna to launch Apple Upgrade, a new leasing program that will let customers lease iPhones, Macs, iPads, and Apple Watches.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079614403327250604",
+    "published_at": "2026-07-21T17:08:05+00:00",
+    "fetched_at": "2026-07-21T21:56:47.747358+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "苹果与Klarna合作推出新的租赁计划，可能增加设备销量但需关注利润影响，短期对股价影响中性。",
+      "translation": "突发新闻：苹果公司与Klarna合作推出Apple Upgrade，一项新的租赁计划，让客户可以租赁iPhone、Mac、iPad和Apple Watch。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079606578580488437",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The Iran war has restarted. But America does not have a plausible plan for victory,\" per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2079606578580488437",
+    "published_at": "2026-07-21T16:37:00+00:00",
+    "fetched_at": "2026-07-21T21:56:50.141877+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用FT报道称伊朗战争已重启，且美国缺乏明确的胜利计划，这暗示地缘政治风险上升，可能引发市场避险情绪，对风险资产构成压力。",
+      "translation": "据FT报道，伊朗战争已经重启。但美国并没有一个可行的胜利计划。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079596512464527777",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jim Cramer has said to \"look beyond tech as AI uncertainty rattles the market.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2079596512464527777",
+    "published_at": "2026-07-21T15:57:00+00:00",
+    "fetched_at": "2026-07-21T21:56:53.007383+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "Jim Cramer建议投资者关注科技股以外的领域，因为人工智能的不确定性导致市场波动。这暗示着市场情绪转向防御性或多元化策略。",
+      "translation": "吉姆·克莱默表示，随着人工智能的不确定性冲击市场，要‘放眼科技股之外’。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079568310665195599",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "有点后悔减仓1/3的韩股海力士，\n刚追回来又加仓到4000，\n万一下周一a股长鑫市值拉特别高把韩股海力士带起来，仓位不够重只能做小孩一桌。",
+    "tweet_url": "https://x.com/xiaomustock/status/2079568310665195599",
+    "published_at": "2026-07-21T14:04:56+00:00",
+    "fetched_at": "2026-07-21T21:56:03.400343+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SK Hynix",
+        "长鑫"
+      ],
+      "direction": "bullish",
+      "summary": "用户之前减仓了韩股海力士，但随后追回并加仓至4000股，担心下周一A股长鑫市值拉升带动海力士上涨，仓位不够重只能坐小孩桌。",
+      "translation": "有点后悔减仓1/3的韩股海力士，刚追回来又加仓到4000，万一下周一a股长鑫市值拉特别高把韩股海力士带起来，仓位不够重只能做小孩一桌。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079565433947177281",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "把闪迪和美光卖飞了我日 https://t.co/mYbL9AWEfu",
+    "tweet_url": "https://x.com/xiaomustock/status/2079565433947177281",
+    "published_at": "2026-07-21T13:53:30+00:00",
+    "fetched_at": "2026-07-21T21:56:07.468847+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "闪迪",
+        "美光"
+      ],
+      "direction": "bearish",
+      "summary": "用户后悔卖出了闪迪和美光的股票，认为卖飞了，因此当前对这两只股票持看空（卖出）方向，但情绪上是后悔的。",
+      "translation": "我把闪迪和美光卖飞了我日",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079504430500868500",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "长鑫如果市值被国内炒到6万亿跟海力士一个市值，那能变相的直接把韩股海力士拉飞。",
+    "tweet_url": "https://x.com/xiaomustock/status/2079504430500868500",
+    "published_at": "2026-07-21T09:51:06+00:00",
+    "fetched_at": "2026-07-21T21:56:10.633843+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CXMT",
+        "SK Hynix"
+      ],
+      "direction": "neutral",
+      "summary": "讨论如果长鑫存储（CXMT）在中国A股市场被炒到6万亿市值，与海力士市值相当，将间接推高韩国股市中海力士的股价。属于跨市场联动推测，未明确看多或看空。",
+      "translation": "如果长鑫存储的市值在中国A股市场被炒到6万亿，与海力士市值相当，那会变相地把韩国股市中的海力士股价拉飞。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079497152200655322",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩股海力士减了1/3，剩下2000股，\n再卖剁手，卖顺手就想着全卖，\n最难的事情真是不是买啥卖啥，\n而是拿着钱或者股票保持定力不买或者不卖。太难了。 https://t.co/rRatH0hN0m",
+    "tweet_url": "https://x.com/xiaomustock/status/2079497152200655322",
+    "published_at": "2026-07-21T09:22:10+00:00",
+    "fetched_at": "2026-07-21T21:56:05.611213+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Hynix"
+      ],
+      "direction": "neutral",
+      "summary": "作者反思了投资中的心理挑战，提到减仓了SK海力士1/3后剩2000股，并警示自己再卖就剁手，强调最难的是在持有现金或股票时保持定力，不盲目买卖。",
+      "translation": "韩国股市的SK海力士减了1/3，剩下2000股，再卖就剁手，卖顺手就想着全卖。最难的事情真的不是买什么卖什么，而是拿着钱或者股票保持定力不买或者不卖。太难了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079495178793201678",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23).\n\nFrom Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. \n\nIf they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition. \n\nAs for $SIVE, we'll get a better read if they're directly in AMD supply chains. \n\nSince right now, it's possible to map it through $GFS (reportedly involved in AMD MI500 CPO work) or AYAR (which AMD invested in). But no formal confirmations. \n\nSo if you're turning in: \n\n- CPO thematic positive: MI500 explicitly commits to CPO/optical UALink.\n\n- AMD gives details using Ayar Labs or GF SCALE for MI500 CPO:  That would be extremely positive for $SIVE, given they're the upstream laser supplier / reference laser.  \n\nCurrently, Blayne Curtis from Jefferies expect AMD to work with $ALAB on UAL and $AVGO on ESUN... but juicy details are here: \n\n\"We are looking for whether AMD commits to a CPO based scale up solution and who supplies the optical engine\"\n\nWe'll get a broader read through on the supply chain come Wednesday/Thursday, too early to tell today.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079495178793201678",
+    "published_at": "2026-07-21T09:14:20+00:00",
+    "fetched_at": "2026-07-21T21:55:35.534406+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "SIVE",
+        "GFS",
+        "ALAB",
+        "AVGO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了AMD即将举行的SF活动对CPO（共封装光学）路线的影响，并指出若AMD确认采用CPO方案，将对上游激光器供应商SIVE构成利好。目前虽无正式确认，但Jefferies分析师预计AMD可能与ALAB合作，整体主题偏正面。",
+      "translation": "情况稍微复杂一些。基本上，$AMD的SF活动在明天，周三/周四（7月22日、23日）。根据Jefferies的客户报告，AMD预计将提供关于其可能扩大CPO路线图以及MI500的额外披露。如果他们确认CPO路线，那将积极于主题，因为这不仅仅是$NVDA在推动转型。至于$SIVE，我们将更好地了解他们是否直接进入AMD供应链。因为目前，有可能通过$GFS（据报道参与了AMD MI500 CPO工作）或AYAR（AMD投资了）来映射。但没有正式确认。所以，如果你在关注：- CPO主题积极：MI500明确承诺使用CPO/光学UALink。- AMD提供使用Ayar Labs或GF SCALE用于MI500 CPO的细节：这对$SIVE极为积极，因为他们是上游激光供应商/参考激光。目前，Jefferies的Blayne Curtis预计AMD会与$ALAB在UAL上合作，与$AVGO在ESUN上合作……但细节在这里：“我们正在寻找AMD是否承诺基于CPO的扩展解决方案，以及谁提供光学引擎。”周三/周四我们将对整个供应链有更广泛的了解，今天还太早无法判断。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079481084870361239",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit You going to unpack the AMD - GFS news? Looks pretty tasty for sivers…",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079481084870361239",
+    "published_at": "2026-07-21T08:18:20+00:00",
+    "fetched_at": "2026-07-21T21:55:39.858947+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD",
+        "GFS"
+      ],
+      "direction": "bullish",
+      "summary": "推文认为AMD和GFS（GlobalFoundries）的消息可能对投资者有利，建议关注这一潜在机会。",
+      "translation": "你会分析AMD和GFS的消息吗？这对投资者来说似乎很诱人……",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079479755481776221",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. \n\nOptical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery, all up 4%+. \n\nNeoclouds from $NBIS to $IREN all up 4%+ premarket. \n\n$INTC to $AMD to $MRVL all up 4%+. \n\nDoes the Cramer effect work on the entire AI trade?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079479755481776221",
+    "published_at": "2026-07-21T08:13:03+00:00",
+    "fetched_at": "2026-07-21T21:55:45.023386+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KIOXIA",
+        "SIVE",
+        "LITE",
+        "AAOI",
+        "NBIS",
+        "IREN",
+        "INTC",
+        "AMD",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出多家AI相关公司（如内存、光通信、云服务、半导体）股价普遍上涨，显示出市场对AI板块的积极情绪，但需要警惕是否只是短期情绪驱动（如Cramer效应）。",
+      "translation": "Kioxia等内存股大涨17.18%，三星上涨6.15%。光通信板块（$SIVE、$LITE、$AAOI）显示出复苏迹象，均上涨4%以上。Neoclouds从$NBIS到$IREN盘前上涨4%以上。$INTC、$AMD、$MRVL均上涨4%以上。Cramer效应是否对整个AI交易有效？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079457465599742072",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天科创50的190期权涨了十几倍，\n随时能买随时能卖，\n太几把离谱。 https://t.co/jNXSv48Dft",
+    "tweet_url": "https://x.com/xiaomustock/status/2079457465599742072",
+    "published_at": "2026-07-21T06:44:28+00:00",
+    "fetched_at": "2026-07-21T21:56:01.434326+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "科创50"
+      ],
+      "direction": "bullish",
+      "summary": "科创50的190期权今日涨幅巨大，流动性极佳，反映市场对科创50短期上涨的强烈预期。",
+      "translation": "今天科创50的190期权涨了十几倍，随时能买随时能卖，太离谱了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079454924686103020",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "光互连的迈威尔 $MRVL 205.6抄了一下。\n现在看着mrvl和康宁都很有性价比，\n不过mrvl故事的业绩来的更快 https://t.co/Fc6PvBD7w7",
+    "tweet_url": "https://x.com/xiaomustock/status/2079454924686103020",
+    "published_at": "2026-07-21T06:34:23+00:00",
+    "fetched_at": "2026-07-21T21:56:12.442170+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL",
+        "GLW"
+      ],
+      "direction": "bullish",
+      "summary": "用户表示以205.6美元抄底迈威尔（MRVL），并认为MRVL和康宁（GLW）都具有较高性价比，其中MRVL的业绩增长故事将更快兑现。整体看多。",
+      "translation": "迈威尔（MRVL）光互连，我在205.6抄底了。现在看着MRVL和康宁都很有性价比，不过MRVL故事的业绩来得更快。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079451551576584311",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "祖传u扫货了谷歌 $GOOGL 和 $GGLL\n成本356和111.9\n云厂说不定是AI最终赢家，不管哪个模型今天牛逼，AI猛增云厂都爆赚。 https://t.co/Nj5UMYQbBJ",
+    "tweet_url": "https://x.com/xiaomustock/status/2079451551576584311",
+    "published_at": "2026-07-21T06:20:58+00:00",
+    "fetched_at": "2026-07-21T21:56:14.402618+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "GGLL"
+      ],
+      "direction": "bullish",
+      "summary": "用户以356和111.9的成本买入谷歌（GOOGL）和其做多ETF（GGLL），认为云厂商有可能成为AI最终赢家，无论哪个模型成功，AI增长都会让云厂商大幅获利。",
+      "translation": "祖传u扫货了谷歌 $GOOGL 和 $GGLL 成本356和111.9 云厂说不定是AI最终赢家，不管哪个模型今天牛逼，AI猛增云厂都爆赚。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079437217060327818",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "去他娘的都不想要了。snxx，muu，7709全卖了，\n留了韩股正股。 https://t.co/6npnqCq0cI",
+    "tweet_url": "https://x.com/xiaomustock/status/2079437217060327818",
+    "published_at": "2026-07-21T05:24:01+00:00",
+    "fetched_at": "2026-07-21T21:56:15.946290+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNSXX",
+        "MUU",
+        "7709"
+      ],
+      "direction": "bearish",
+      "summary": "用户清仓了SNSXX、MUU、7709等股票，仅保留韩国股票正股，表达了对当前持仓的失望和看空情绪。",
+      "translation": "去他娘的都不想要了。SNSXX、MUU、7709全卖了，留了韩股正股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079425218918105099",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "回本路上遥遥无期呐，\n过去一个月亏的疼的一逼。\n别的品种不敢搞呐，希望下午韩股海力士涨停熔断。 https://t.co/5SFwraACLF",
+    "tweet_url": "https://x.com/xiaomustock/status/2079425218918105099",
+    "published_at": "2026-07-21T04:36:20+00:00",
+    "fetched_at": "2026-07-21T21:56:20.412682+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "005930.KS",
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "用户因过去一个月亏损严重，对其他品种缺乏信心，但期望下午韩股海力士涨停熔断，表明对其持看涨态度。",
+      "translation": "回本路上遥遥无期，过去一个月亏损严重，别的品种不敢碰，希望下午韩股海力士涨停熔断。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079424189354905847",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "韩股海力士这个成本非常满意，\n所以也不想卖，极其便宜他娘的，历史大底，\n韩国佬自己就不能争点气，赚那么多钱维护一下自己股价。",
+    "tweet_url": "https://x.com/xiaomustock/status/2079424189354905847",
+    "published_at": "2026-07-21T04:32:15+00:00",
+    "fetched_at": "2026-07-21T21:56:21.915390+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士"
+      ],
+      "direction": "bullish",
+      "summary": "用户对韩股海力士当前成本非常满意，认为处于历史大底且极其便宜，没有卖出意愿，并抱怨韩国企业不积极维护股价。",
+      "translation": "韩股海力士这个成本非常满意，所以也不想卖，极其便宜他娘的，历史大底，韩国佬自己就不能争点气，赚那么多钱维护一下自己股价。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079422236650570055",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "soxl没了，剩muu和snxx还在，\n打算把snxx也清仓跑掉，留个muu，\n然后看看能买个啥后面再考虑考虑。 https://t.co/tlzam3crqK",
+    "tweet_url": "https://x.com/xiaomustock/status/2079422236650570055",
+    "published_at": "2026-07-21T04:24:29+00:00",
+    "fetched_at": "2026-07-21T21:56:17.647092+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOXL",
+        "MUU",
+        "SNXX"
+      ],
+      "direction": "bearish",
+      "summary": "用户计划清仓SOXL和SNXX，仅保留MUU，显示出对杠杆ETF的看空态度，并考虑后续投资标的。",
+      "translation": "SOXL没了，还剩MUU和SNXX还在，打算把SNXX也清仓跑掉，留个MUU，然后看看能买个啥后面再考虑考虑。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079421210895745119",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "海力士2x在59跑了20万股剩50万股，\nkoru撸了25万刀跑了，\n留了韩股海力士sk打算先一直捏着。 https://t.co/BGYCqafRDO",
+    "tweet_url": "https://x.com/xiaomustock/status/2079421210895745119",
+    "published_at": "2026-07-21T04:20:25+00:00",
+    "fetched_at": "2026-07-21T21:56:24.022131+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "海力士",
+        "SK海力士"
+      ],
+      "direction": "neutral",
+      "summary": "用户卖出部分海力士2x仓位（20万股），剩余50万股，并平仓KORU（获利25万美元）。保留韩股SK海力士长期持有。",
+      "translation": "海力士2x在59跑了20万股剩50万股，koru撸了25万刀跑了，留了韩股海力士sk打算先一直捏着。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079319999915925938",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "If you’re curious why $NBIS is up after hours.\n\n$NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings.\n\nNot exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares.\n\nBut great for sentiment having Nvidia be a large shareholder of the Neocloud leader.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079319999915925938",
+    "published_at": "2026-07-20T21:38:14+00:00",
+    "fetched_at": "2026-07-21T21:55:50.994448+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "$NBIS",
+        "$NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出英伟达通过SEC文件披露持有Nebius 9.3%的实益所有权，尽管这一信息并非全新，但增强了市场对Nebius作为Neocloud领导者的信心，投资情绪偏乐观。",
+      "translation": "如果你好奇为什么$NBIS盘后上涨。$NVDA通过SEC文件披露其持有Nebius 9.3%的实益所有权。这并非全新消息，因为英伟达此前已持有119万股，并持有价值20亿美元的预付费认股权证（约2100万股）。但英伟达成为Neocloud领导者的重要股东，对市场情绪是大利好。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079292543465050578",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
