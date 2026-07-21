@@ -1,50 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AMD",
-      "$NVDA",
-      "$MU",
-      "$CCXI"
+      "SIVE",
+      "NVDA",
+      "AMD",
+      "MU",
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力基础设施与瓶颈投资",
-      "光电/CPO激光器供应链升级",
-      "人形机器人产业化与中美竞赛",
-      "内存及存储结构性短缺",
-      "Neocloud/数据中心租赁需求爆发"
+      "AI基础设施与算力投资持续扩张",
+      "光子学与CPO技术革命",
+      "存储器与半导体供应链瓶颈"
     ],
-    "recent_shift": "从前期市场恐慌（仓位回调近50%）转向强调基本面未变，并预期V型反弹，尤其看好光电板块。",
+    "recent_shift": "近期从宏观恐慌转向基本面确认，强调利多催化剂而非延迟担忧",
     "representative_quotes": [
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
-      "It's slightly more nuanced. Basically, $AMD SF event is tomorrow... If they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition.",
-      "I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before."
+      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
+      "I’m personally holding long term, since I haven’t seen a ~$1.4B company mapping to this many hyperscalers before.",
+      "Probably doesn’t have anything to do with individual fundamentals. Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves."
     ],
-    "generated_at": "2026-07-21T21:57:06.173583+00:00"
+    "generated_at": "2026-07-21T22:45:46.303411+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AAPL",
-      "TSM",
-      "GME",
-      "AMC"
+      "$NVDA",
+      "$AMC",
+      "$AAPL",
+      "$TSM",
+      "$GME"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI投资与硬件需求",
-      "地缘政治风险（伊朗、也门、中美）",
-      "利率与通胀预期",
-      "市场波动与资产配置转变"
+      "市场回调风险增大",
+      "科技股资金流出",
+      "通胀与利率担忧",
+      "地缘政治紧张升级",
+      "AI投资泡沫质疑"
     ],
-    "recent_shift": "近期更加强调地缘政治风险和利率上升对市场的压力，但依然看好AI的长期趋势。",
+    "recent_shift": "近期更强调市场回调信号和地缘风险，而此前较关注AI长期发展机会",
     "representative_quotes": [
-      "Jim Cramer has said to 'look beyond tech as AI uncertainty rattles the market.'",
-      "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets.",
-      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs."
+      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said.",
+      "Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
+      "Warren Buffett: \"Tough to find value\" when everyone is gambling"
     ],
-    "generated_at": "2026-07-21T21:57:02.114086+00:00"
+    "generated_at": "2026-07-21T22:45:42.881442+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
