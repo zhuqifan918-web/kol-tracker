@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2079709859461906907",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says the US will impose a 100% tariff on imported generic drugs beginning in August 2028, rising to 200% in August 2029.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079709859461906907",
+    "published_at": "2026-07-21T23:27:24+00:00",
+    "fetched_at": "2026-07-21T23:48:26.480856+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国前总统特朗普提议对进口仿制药征收高额关税，将从2028年8月的100%逐步升至2029年8月的200%。这一政策预期将大幅提高仿制药进口成本，可能利好美国本土制药企业，但对依赖进口仿制药的公司和消费者不利，投资者需关注相关行业股票走势。",
+      "translation": "突发：特朗普表示，美国将从2028年8月起对进口仿制药征收100%的关税，并于2029年8月升至200%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079702282443293037",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump is overhauling federal science funding by directing the roughly $200 billion annual research budget away from traditional university grants and toward artificial intelligence and individual scientists, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2079702282443293037",
+    "published_at": "2026-07-21T22:57:17+00:00",
+    "fetched_at": "2026-07-21T23:48:28.116841+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普将联邦科研资金转向人工智能和个体科学家，利好AI相关产业和初创企业，可能推动科技股上行。",
+      "translation": "突发：据《华尔街日报》报道，特朗普正在改革联邦科学资金，将约2000亿美元的年研究预算从传统大学拨款转向人工智能和个体科学家。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079687360778846716",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -37,6 +75,25 @@
       "summary": "英伟达下一代“Vera Rubin”AI计算系统已正式量产，这对其股价是积极信号，可能推动未来营收增长。",
       "translation": "英伟达，$NVDA，已正式全面投产其下一代“Vera Rubin”AI计算系统，据雅虎财经报道。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079673469567226149",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "OpenAI models reportedly escaped from its controlled environment, with no internet access.\n\nExploited zero day vulnerabilities and hacked into Hugging Face to cheat on benchmarks.\n\nHugging face then used China GLM models to carry out its defense. \n\nOpenAI said it was an “an unprecedented cyber incident.”\n\nWe’re getting closer and closer to Skynet. \n\nAnd I’m sure markets will love it.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079673469567226149",
+    "published_at": "2026-07-21T21:02:48+00:00",
+    "fetched_at": "2026-07-21T23:48:07.234177+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了OpenAI模型安全漏洞事件，暗示AI发展可能加速，但未明确提及具体投资标的或市场方向。投资相关性低，仅作为科技风险事件提及。",
+      "translation": "据报道，OpenAI模型从其受控环境中逃脱，没有互联网接入。利用了零日漏洞并入侵了Hugging Face以在基准测试中作弊。Hugging Face随后使用中国GLM模型进行防御。OpenAI称这是一起“前所未有的网络事件”。我们越来越接近天网。我相信市场会喜欢。",
+      "confidence": "low"
     }
   },
   {

@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "NVDA",
-      "AMD",
-      "MU",
-      "NBIS"
+      "$SIVE",
+      "$NVDA",
+      "$MU",
+      "$NBIS",
+      "$LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力投资持续扩张",
-      "光子学与CPO技术革命",
-      "存储器与半导体供应链瓶颈"
+      "AI基础设施和供应链瓶颈",
+      "CPO光通信和硅光子学",
+      "记忆体与NAND结构性短缺",
+      "新云/新基建和算力租赁",
+      "人形机器人与物理AI"
     ],
-    "recent_shift": "近期从宏观恐慌转向基本面确认，强调利多催化剂而非延迟担忧",
+    "recent_shift": "近期大盘回调中，该账户更强调市场下跌是流动性去杠杆而非基本面变化，并多次抄底或重申长期持有信心。",
     "representative_quotes": [
-      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
-      "I’m personally holding long term, since I haven’t seen a ~$1.4B company mapping to this many hyperscalers before.",
-      "Probably doesn’t have anything to do with individual fundamentals. Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves."
+      "I think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
+      "Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included).",
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
     ],
-    "generated_at": "2026-07-21T22:45:46.303411+00:00"
+    "generated_at": "2026-07-21T23:48:45.882528+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AMC",
-      "$AAPL",
-      "$TSM",
-      "$GME"
+      "NVDA",
+      "AAPL",
+      "GME",
+      "AMC",
+      "TSM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场回调风险增大",
-      "科技股资金流出",
-      "通胀与利率担忧",
-      "地缘政治紧张升级",
-      "AI投资泡沫质疑"
+      "AI与科技投资热潮",
+      "地缘政治风险加剧",
+      "市场回调与波动性增加",
+      "关税与贸易政策变化",
+      "通胀与利率前景不明"
     ],
-    "recent_shift": "近期更强调市场回调信号和地缘风险，而此前较关注AI长期发展机会",
+    "recent_shift": "近期从看好AI和科技股转向关注市场回调、地缘冲突及政策风险。",
     "representative_quotes": [
-      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said.",
-      "Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
-      "Warren Buffett: \"Tough to find value\" when everyone is gambling"
+      "BREAKING: Trump says the US will impose a 100% tariff on imported generic drugs beginning in August 2028, rising to 200% in August 2029.",
+      "Jim Cramer has said to \"look beyond tech as AI uncertainty rattles the market.\"",
+      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs."
     ],
-    "generated_at": "2026-07-21T22:45:42.881442+00:00"
+    "generated_at": "2026-07-21T23:48:48.281740+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
