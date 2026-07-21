@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2079687360778846716",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said.\n\nRead more: https://t.co/8r6AcjZRSO",
+    "tweet_url": "https://x.com/unusual_whales/status/2079687360778846716",
+    "published_at": "2026-07-21T21:58:00+00:00",
+    "fetched_at": "2026-07-21T22:45:29.898310+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出，估值过高、动能减弱、保证金债务快速增长以及季节性模式等因素，都预示着夏季市场可能出现回调或横盘整理，整体观点偏空。",
+      "translation": "其他人已指出，估值过高、动能减弱、保证金债务快速增长以及季节性模式，都预示着夏季将出现回调或横盘整理。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079680566124036118",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -572,6 +591,25 @@
       "summary": "该推文指出英伟达通过SEC文件披露持有Nebius 9.3%的实益所有权，尽管这一信息并非全新，但增强了市场对Nebius作为Neocloud领导者的信心，投资情绪偏乐观。",
       "translation": "如果你好奇为什么$NBIS盘后上涨。$NVDA通过SEC文件披露其持有Nebius 9.3%的实益所有权。这并非全新消息，因为英伟达此前已持有119万股，并持有价值20亿美元的预付费认股权证（约2100万股）。但英伟达成为Neocloud领导者的重要股东，对市场情绪是大利好。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079305844290724272",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Miserable close... Miserable market for the moment. watch tonight....",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079305844290724272",
+    "published_at": "2026-07-20T20:41:59+00:00",
+    "fetched_at": "2026-07-21T22:45:07.455280+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文表达了市场收盘表现糟糕，当前市场状况令人沮丧，暗示看跌情绪。",
+      "translation": "收盘惨淡...目前市场令人沮丧。今晚关注....",
+      "confidence": "medium"
     }
   },
   {
