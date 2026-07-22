@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2079996045745111262",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Senate panel has advanced a China auto bill that could bar Mercedes-Benz from the USA, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2079996045745111262",
+    "published_at": "2026-07-22T18:24:36+00:00",
+    "fetched_at": "2026-07-22T18:57:33.995576+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国参议院小组推进一项针对中国汽车的法案，可能禁止奔驰在美国销售，这将对汽车行业尤其是依赖中国供应链的公司在美业务产生负面影响。",
+      "translation": "突发：据CNBC报道，参议院小组推进了一项中国汽车法案，可能禁止奔驰进入美国市场。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079979032729489450",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -100,6 +119,25 @@
     }
   },
   {
+    "tweet_id": "2079963826007736375",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US House will vote on the Stop Insider Trading Act, a bill meant to curb insider trading, per CNBC\n\nLawmakers would not be able to purchase new stocks while in office under the proposal, but they could retain existing investments.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079963826007736375",
+    "published_at": "2026-07-22T16:16:34+00:00",
+    "fetched_at": "2026-07-22T18:57:41.505255+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该法案禁止在任议员购买新股，但允许持有现有投资，可能减少因内幕交易导致的市场不公平，对整体市场长期公平性有正面影响，但短期内对具体资产影响不明确。",
+      "translation": "突发：据CNBC报道，美国众议院将对《停止内幕交易法案》进行投票，该法案旨在遏制内幕交易。提案规定，议员在任期间不得购买新股票，但可以保留现有投资。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079947242455335379",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -178,6 +216,28 @@
       "summary": "该推文暗示美伊局势升级，可能引发中东石油供应中断风险，对原油价格构成上行压力，同时增加全球市场不确定性，利空风险资产。",
       "translation": "突发：特朗普：从现在起，每当伊朗伊斯兰共和国在霍尔木兹海峡向船只开火，美国将轰炸一座桥梁或发电厂。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079919930451919135",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wall Street is expecting Tesla’s earnings to reverse its recent slide. In case it doesn’t, @SPYJared explains how investors could use options as an insurance policy. \n\nReal-time options data, powered by @unusual_whales,  is live in AlphaSpace. You can explore a live options chain for any ticker or use the options flow screener to monitor for noteworthy trades.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079919930451919135",
+    "published_at": "2026-07-22T13:22:09+00:00",
+    "fetched_at": "2026-07-22T18:57:38.459757+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA",
+        "SPY"
+      ],
+      "direction": "neutral",
+      "summary": "推文讨论了特斯拉财报可能逆转近期下滑的预期，并介绍了如果未达预期时如何使用期权作为保险策略。同时提到了实时期权数据工具。",
+      "translation": "华尔街预期特斯拉的财报将扭转近期下滑。如果未能实现，@SPYJared 解释了投资者如何利用期权作为保险策略。由 @unusual_whales 提供的实时期权数据已在 AlphaSpace 上线。您可以探索任何标的的实时期权链，或使用期权流筛选器监控值得注意的交易。",
+      "confidence": "high"
     }
   },
   {

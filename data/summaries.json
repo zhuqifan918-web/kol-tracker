@@ -27,25 +27,25 @@
     "focus_tickers": [
       "$NVDA",
       "$AAPL",
-      "$AMD",
       "$AMC",
-      "$GME"
+      "$GME",
+      "$AMD"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场顶部与杠杆风险",
-      "地缘政治紧张局势",
-      "人工智能投资与基础设施",
-      "贸易与关税政策",
-      "住房与消费者压力"
+      "AI投资与技术地缘政治",
+      "市场高杠杆与回调风险",
+      "中美贸易冲突与制裁",
+      "住房市场与生活成本危机",
+      "地缘政治紧张局势"
     ],
-    "recent_shift": "近期隐忧增加，从关注AI增长转向市场回调风险和避险情绪。",
+    "recent_shift": "近期观点更趋谨慎，强调杠杆率接近历史高位、季节性调整以及AI泡沫风险。",
     "representative_quotes": [
       "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
-      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said."
+      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
+      "AI sales start to justify data-center spending boom"
     ],
-    "generated_at": "2026-07-22T17:47:40.312071+00:00"
+    "generated_at": "2026-07-22T18:57:51.750372+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
