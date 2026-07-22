@@ -1,5 +1,214 @@
 [
   {
+    "tweet_id": "2080042954077691971",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "U.S. gas prices have jumped to an average of $4 a gallon again as the U.S. and Iran launch more attacks, per AP",
+    "tweet_url": "https://x.com/unusual_whales/status/2080042954077691971",
+    "published_at": "2026-07-22T21:31:00+00:00",
+    "fetched_at": "2026-07-22T21:34:55.667295+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国汽油价格因美伊冲突升级而回升至每加仑4美元，可能加剧通胀压力，影响能源板块和整体市场，但无明显方向性投资建议。",
+      "translation": "据美联社报道，随着美国和伊朗发动更多袭击，美国汽油价格再次飙升至平均每加仑4美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080040289268637787",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The U.S. House of Representatives has passed legislation that would make a series of changes to federal banking regulations, including easing certain capital, supervisory and merger requirements for community banks and other smaller financial institutions",
+    "tweet_url": "https://x.com/unusual_whales/status/2080040289268637787",
+    "published_at": "2026-07-22T21:20:24+00:00",
+    "fetched_at": "2026-07-22T21:34:57.463703+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国众议院通过的放宽银行监管法案对社区银行和小型金融机构构成利好，可能提升其竞争力和盈利能力，但具体影响需结合后续细节。总体对银行板块中性偏多。",
+      "translation": "突发：美国众议院已通过一项法案，将对联邦银行监管规定进行一系列修改，包括放宽对社区银行和其他小型金融机构的资本、监管和合并要求。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080035769062916479",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$GOOGL updates FY 2026 capex guidance:\n\nTo $195B-$205B. Up from $180B-$190B. \n\nGoogle is also expected to significantly increase capex in 2027.  \n\nThis is perhaps the most bullish read through on upstream semis from a hyperscaler. https://t.co/dXiI0Ien8X",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080035769062916479",
+    "published_at": "2026-07-22T21:02:27+00:00",
+    "fetched_at": "2026-07-22T21:34:23.458428+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "谷歌上调2026年资本支出指引至1950-2050亿美元，高于此前指引，并预计2027年继续大幅增加。这对上游半导体行业是极为利好的信号，表明大型云服务商对算力基础设施的投入持续增长。",
+      "translation": "$GOOGL更新2026年资本支出指引：上调至1950亿-2050亿美元，高于此前的1800亿-1900亿美元。谷歌还预计2027年将大幅增加资本支出。这可能是来自超大规模云厂商对上游半导体最看好的解读。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080034900887920977",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Moody’s Ratings upgraded Argentina’s credit score, giving the nation its third sovereign upgrade in less than three months",
+    "tweet_url": "https://x.com/unusual_whales/status/2080034900887920977",
+    "published_at": "2026-07-22T20:59:00+00:00",
+    "fetched_at": "2026-07-22T21:34:59.130395+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "穆迪上调阿根廷信用评级，这是不到三个月内的第三次主权评级上调，表明阿根廷经济和信用状况改善，可能吸引外资流入，对阿根廷相关资产形成利好。",
+      "translation": "穆迪评级上调了阿根廷的信用评分，这是该国在不到三个月内第三次获得主权评级上调。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080031508656746874",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. \n\nCompared to 750M back in February. \n\nAbsurd growth adding 200 million more users in a few months.  Kinda explains why they ran out of compute, then cut allocations to $META and others. \n\nVery unlikely AI capex will slow down given.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080031508656746874",
+    "published_at": "2026-07-22T20:45:31+00:00",
+    "fetched_at": "2026-07-22T21:34:28.751146+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "推特指出谷歌（GOOGL）Gemini用户数从7.5亿暴增至9.5亿，API处理量达220亿/分钟，增长强劲导致算力短缺并削减对Meta等公司的分配。这表明AI资本支出不太可能放缓，对谷歌构成利好。",
+      "translation": "$GOOGL现在每月有9.5亿Gemini用户，每分钟处理220亿个API令牌。相比2月份的7.5亿用户。增长惊人，在几个月内新增了2亿用户。这解释了为什么它们算力耗尽，然后削减了对$META等的分配。考虑到这一点，AI资本支出不太可能放缓。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080028609511846122",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Tesla, $TSLA: \"We have decommissioned the manufacturing lines for Models S & X at our Fremont Factory and are installing the first-generation lines for Optimus, where we expect to start production soon.\"\n\n\"Cybercab began production at Gigafactory Texas, and Tesla Semi remains on track for production this year at our new factory in Nevada.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2080028609511846122",
+    "published_at": "2026-07-22T20:34:00+00:00",
+    "fetched_at": "2026-07-22T21:35:02.108928+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "特斯拉正在将Model S/X的生产线改造为Optimus机器人生产线，并推进Cybercab和Semi的生产，显示公司正积极转型并扩大产能，对长期投资者构成正面信号。",
+      "translation": "特斯拉：我们已经拆除了弗雷蒙特工厂中Model S和X的生产线，正在安装Optimus的首代生产线，预计很快将开始生产。Cybercab已在德克萨斯超级工厂开始生产，特斯拉Semi仍按时推进，今年将在内华达新工厂生产。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080027058063958323",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$GOOGL reported earnings today:\n\nEPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. \n\nRevenue: $119.7B actual vs. $116.98B expected\n\nGoogle Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. \n\nCloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. \n\nCapex: $44.92B vs ~$44.15B (basically in line).\n\nSo initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand.\n\nTheir former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... \n\nShould be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). \n\nHyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. \n\nAnd that should be in 3 minutes.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080027058063958323",
+    "published_at": "2026-07-22T20:27:50+00:00",
+    "fetched_at": "2026-07-22T21:34:34.611175+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "SPCX",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了谷歌财报，指出云业务收入超预期且利润率提升，验证了AI需求强劲，建议关注光通信/网络相关标的（如LITE），认为超大规模云厂商财报对AI资本开支交易至关重要。",
+      "translation": "$GOOGL今日公布财报：每股收益实际9.11美元 vs 预期2.91美元——零售对EPS大幅超标的反应只是会计噪音，因为$SPCX、Anthropic等可能贡献了很大部分。营收实际1197亿美元 vs 预期1169.8亿美元。谷歌云收入实际247.7亿美元，同比增长82%，远超预期的63-65%（约222-226亿美元）——这是最大的超预期点，也是最重要的部分。云业务营业利润约88.1亿美元，利润率35.6%，高于第一季度的32.9%。资本支出实际449.2亿美元 vs 约441.5亿美元（基本符合预期）。初步解读：谷歌云增长加速且利润率提升，这验证了AI需求强劲。他们此前1800-1900亿美元的资本支出指引已经非常大，只要我们在财报电话会议和未来预测中得到接近这些数字... 那么$LITE和其他光学/网络交易应该没问题（例如，上次财报中他们提到数据中心和网络将占资本支出的约40%）。超大规模云厂商的财报电话会议记录可能是AI资本支出交易中最值得关注的内容。而且应该在三分钟内开始。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080024772164071915",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Tesla, $TSLA, has reportedly not sold any of its Bitcoin in latest earnings",
+    "tweet_url": "https://x.com/unusual_whales/status/2080024772164071915",
+    "published_at": "2026-07-22T20:18:45+00:00",
+    "fetched_at": "2026-07-22T21:35:03.505305+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA",
+        "BTC"
+      ],
+      "direction": "bullish",
+      "summary": "特斯拉未出售其持有的比特币，表明公司对比特币长期看好的态度，可能提振市场信心，利好比特币及特斯拉股价。",
+      "translation": "最新消息：特斯拉（$TSLA）据称在最新财报中未出售任何比特币。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080023441315680340",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: $IBM earnings:\n\n- EPS: $2.93, est: $2.93\n- Revenue: $17.1 billion, est: $17.2 billion\n\nServiceNow, $NOW, earnings:\n\n- EPS: $0.9, est: $0.86\n- Revenue: $3.98 billion, est: $3.93 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2080023441315680340",
+    "published_at": "2026-07-22T20:13:28+00:00",
+    "fetched_at": "2026-07-22T21:35:05.301921+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IBM",
+        "NOW"
+      ],
+      "direction": "neutral",
+      "summary": "IBM的每股收益符合预期，营收略低于预期；ServiceNow的每股收益和营收均超预期。整体消息偏中性，IBM表现平平，NOW业绩略好。",
+      "translation": "突发：$IBM财报：每股收益2.93美元，预期2.93美元；营收171亿美元，预期172亿美元。ServiceNow，$NOW财报：每股收益0.9美元，预期0.86美元；营收39.8亿美元，预期39.3亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080022455498969128",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Google, $GOOGL, earnings:\n\n- EPS: $9.1, est: $2.91\n- Revenue: $119 billion, est: $116 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2080022455498969128",
+    "published_at": "2026-07-22T20:09:32+00:00",
+    "fetched_at": "2026-07-22T21:35:06.860974+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "谷歌财报显示每股收益为9.1美元，远超预期的2.91美元，营收1190亿美元也高于预期的1160亿美元，表现强劲，利好投资。",
+      "translation": "突发：谷歌（$GOOGL）财报：每股收益：9.1美元，预期：2.91美元；营收：1190亿美元，预期：1160亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080022337249014162",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -281,6 +490,25 @@
       "summary": "AMD计划向Anthropic投资高达50亿美元，这显示AMD在AI领域的积极布局，可能增强其AI芯片业务的增长预期，对AMD股票构成正面影响。",
       "translation": "AMD，$AMD，据华尔街日报报道，将向Anthropic进行高达50亿美元的股权投资。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079934741176819849",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX and xAI explores data center expansion in Texas, per the Information",
+    "tweet_url": "https://x.com/unusual_whales/status/2079934741176819849",
+    "published_at": "2026-07-22T14:21:00+00:00",
+    "fetched_at": "2026-07-22T21:35:17.497066+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "SpaceX和xAI在得克萨斯州探索扩建数据中心，可能推动其人工智能和太空技术发展，对相关行业具有积极意义。",
+      "translation": "据The Information报道，SpaceX和xAI探索在得克萨斯州扩建数据中心。",
+      "confidence": "medium"
     }
   },
   {
