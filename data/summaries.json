@@ -25,48 +25,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$GME",
       "$AMC",
-      "$NFLX"
+      "$AAPL",
+      "$NVDA",
+      "$GME",
+      "$TSM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场波动与回调预期",
-      "地缘政治风险加剧",
-      "AI投资泡沫与结构性支出",
-      "美股内部人抛售与机构撤退",
-      "宏观政策不确定性（关税、利率、能源）"
+      "AI投资热潮与基建扩张",
+      "地缘政治风险与制裁升级",
+      "住房市场与通胀困境",
+      "市场回调预期与风险信号",
+      "科技巨头变革与财报关注"
     ],
-    "recent_shift": "最近观点从早前的技术股驱动乐观转向对地缘冲突、高估值和流动性收紧的全面担忧，同时强调AI投资可能压垮债券市场。",
+    "recent_shift": "近期观点整体转向审慎，强调市场估值过高、动能减弱及夏季回调风险，但持续关注AI长期机遇",
     "representative_quotes": [
-      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer.",
-      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets."
+      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said.",
+      "Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
+      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction."
     ],
-    "generated_at": "2026-07-22T10:15:43.749895+00:00"
+    "generated_at": "2026-07-22T12:10:48.857645+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
-      "GOOGL",
+      "SKHynix",
       "MU",
+      "GLW",
       "MRVL",
-      "GLW"
+      "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片长期需求爆发",
-      "端侧AI与硬件生态",
-      "云厂为AI最终赢家"
+      "存储芯片供需矛盾与长期需求被低估",
+      "云端与端侧AI的博弈及云厂护城河",
+      "AI军备竞赛中的物理AI与数据采集"
     ],
-    "recent_shift": "近期从看好存储反弹转向关注云厂护城河，并强调端侧AI硬件机会",
+    "recent_shift": "近期情绪从恐慌抄底转向对存储和云厂长期逻辑的坚定信心，但短期操作上因市场剧烈波动而表现出频繁调整和后悔。",
     "representative_quotes": [
-      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去",
-      "Kimi因为算力熔断暂停订阅，直接扯下了云端AI的最后遮羞布",
-      "海力士这个成本非常满意，所以也不想卖，极其便宜他娘的，历史大底"
+      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡，不然破天的富贵你把握不住。",
+      "不管谁的模型突然又又领先，那么云厂都能给调配算力过去，而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。",
+      "物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。然后复刻文本AI节奏后期进入推理卡重新主导。"
     ],
-    "generated_at": "2026-07-22T07:35:01.150361+00:00"
+    "generated_at": "2026-07-22T12:10:52.109150+00:00"
   }
 }
