@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2079793057231405164",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China Reform Holdings Corp led the intervention, channeling capital through special relending mechanisms and private funds to prop up centrally managed state-owned enterprises\n\nRead more: https://t.co/9eM3vrMtxG",
+    "tweet_url": "https://x.com/unusual_whales/status/2079793057231405164",
+    "published_at": "2026-07-22T04:58:00+00:00",
+    "fetched_at": "2026-07-22T04:59:28.024712+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "中国政府通过中国国新控股运用专项再贷款和私募基金等渠道，对央企进行资本注入，构成积极的市场提振信号，可能推动相关央企股价上涨。",
+      "translation": "中国国新控股主导了此次干预，通过专项再贷款机制和私募基金渠道，向中央管理的国有企业注入资金以支撑其股价。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079756063834886646",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The company reported adjusted earnings per share of $0.14 for the second quarter, exceeding analyst forecasts of a $0.02 loss per share by $0.16.\n\nReaed more: https://t.co/wWacahcpje",
+    "tweet_url": "https://x.com/unusual_whales/status/2079756063834886646",
+    "published_at": "2026-07-22T02:31:00+00:00",
+    "fetched_at": "2026-07-22T04:59:37.234439+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "公司第二季度调整后每股收益0.14美元，远高于分析师预期的每股亏损0.02美元，业绩超预期，利好股价。",
+      "translation": "该公司公布的第二季度调整后每股收益为0.14美元，超过分析师预期的每股亏损0.02美元，高出0.16美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079749684835541160",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Trump has formally approved a landmark agreement with Saudi Arabia that will provide the country with a civilian nuclear program and potentially open the door to uranium enrichment in the kingdom’s territory, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2079749684835541160",
+    "published_at": "2026-07-22T02:05:39+00:00",
+    "fetched_at": "2026-07-22T04:59:38.900247+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普正式批准与沙特阿拉伯的民用核协议，可能允许沙特进行铀浓缩，对铀矿和核能相关公司可能产生中长期影响，但具体投资标的需进一步分析。",
+      "translation": "最新消息：特朗普正式批准与沙特阿拉伯的一项里程碑式协议，该协议将为沙特提供民用核计划，并可能打开沙特领土上铀浓缩的大门，据《华尔街日报》报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079709859461906907",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -999,6 +1056,25 @@
       "summary": "贝索斯认为人类有无限需求，AI将降低当前阻碍这些需求的障碍，这对亚马逊（AMZN）长期发展构成利好，暗示AI投资价值。",
       "translation": "人类有无数想要做的事情，亚马逊的贝索斯表示，目前只是被AI将降低的障碍所限制。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079178759773511959",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Cloudflare CEO Matthew Prince: “I think AI is going to destroy small businesses.”",
+    "tweet_url": "https://x.com/unusual_whales/status/2079178759773511959",
+    "published_at": "2026-07-20T12:17:00+00:00",
+    "fetched_at": "2026-07-22T04:59:40.675416+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文未提供具体的投资建议或方向，但提及AI可能对小企业造成冲击，这或对持有小企业的投资者或相关行业基金有潜在影响。",
+      "translation": "Cloudflare首席执行官Matthew Prince：'我认为AI将会摧毁小企业。'",
+      "confidence": "low"
     }
   },
   {

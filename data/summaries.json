@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AAPL",
-      "GME",
-      "AMC",
-      "TSM"
+      "$NVDA",
+      "$AAPL",
+      "$AMC",
+      "$GME",
+      "$TSLA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI与科技投资热潮",
-      "地缘政治风险加剧",
-      "市场回调与波动性增加",
-      "关税与贸易政策变化",
-      "通胀与利率前景不明"
+      "人工智能和芯片投资热潮",
+      "市场波动与回调风险",
+      "地缘政治与贸易政策影响",
+      "能源和基础设施投资",
+      "内部交易和市场情绪"
     ],
-    "recent_shift": "近期从看好AI和科技股转向关注市场回调、地缘冲突及政策风险。",
+    "recent_shift": "近期关注点从科技股回调风险转向AI长期增长叙事，同时强调市场存在过度乐观和回调可能。",
     "representative_quotes": [
-      "BREAKING: Trump says the US will impose a 100% tariff on imported generic drugs beginning in August 2028, rising to 200% in August 2029.",
-      "Jim Cramer has said to \"look beyond tech as AI uncertainty rattles the market.\"",
-      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs."
+      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said.",
+      "Jensen Huang's of Nvidia, $NVDA, jacket just auctioned for nearly $1 million at Sotheby's.",
+      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction."
     ],
-    "generated_at": "2026-07-21T23:48:48.281740+00:00"
+    "generated_at": "2026-07-22T04:59:59.173396+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
