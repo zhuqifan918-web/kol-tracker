@@ -95,6 +95,25 @@
     }
   },
   {
+    "tweet_id": "2079695665773371497",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "By Redfin’s math, a household earning the average U.S. income would need to spend about 40% of its pay on the median-priced home, versus the 30% level financial planners consider affordable.\n\nRead more: https://t.co/pC6xVW1MCp",
+    "tweet_url": "https://x.com/unusual_whales/status/2079695665773371497",
+    "published_at": "2026-07-21T22:31:00+00:00",
+    "fetched_at": "2026-07-22T10:15:37.709143+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出美国平均收入家庭需将40%的收入用于支付中等价位住房月供，远超金融顾问建议的30%可负担水平，暗示房地产市场需求可能承压，对房地产及相关行业投资构成利空。",
+      "translation": "根据Redfin的计算，收入为美国平均水平的家庭需要将大约40%的收入用于支付中等价位的住房，而金融顾问认为可负担的水平是30%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079687360778846716",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1316,6 +1335,27 @@
       "summary": "该用户以均价52.3再次买入海力士（SK Hynix），并表达“梭哈”态度，显示其对该股票短期走势极度看涨，认为风险与收益并存。",
       "translation": "均价52.3海力士我又来了。梭完了，生死有命富贵在天，买定离手了。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2078993539183341572",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: 46% of home sellers have offered concessions to buyers, an all time high, per Redfin",
+    "tweet_url": "https://x.com/unusual_whales/status/2078993539183341572",
+    "published_at": "2026-07-20T00:01:00+00:00",
+    "fetched_at": "2026-07-22T10:15:31.439925+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RDFN"
+      ],
+      "direction": "bearish",
+      "summary": "Redfin数据显示，46%的房屋卖方向买家提供让步，创历史新高，这表明房地产市场可能正在降温，对房地产相关股票不利。",
+      "translation": "突发新闻：根据Redfin的数据，46%的房屋卖方向买家提供了让步，创历史新高。",
+      "confidence": "medium"
     }
   },
   {
