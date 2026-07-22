@@ -31,41 +31,44 @@
       "AMC",
       "GME"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能投资与数据中心的爆发",
-      "地缘政治风险加剧（伊朗冲突、关税战）",
-      "市场估值高企，杠杆交易达历史高位",
-      "内幕交易与监管改革争议"
+      "科技与AI投资热潮",
+      "地缘政治风险（中东、中美）",
+      "市场泡沫与回调警告",
+      "政策与监管变化（加密禁令、内幕交易法案）",
+      "大宗商品与通胀（油价、金价）"
     ],
-    "recent_shift": "近期观点从技术股乐观转向强调市场风险，尤其关注AI泡沫、地缘冲突和债务杠杆的负面影响。",
+    "recent_shift": "近期对市场情绪更为谨慎，反复提及泡沫信号（保证金债务创新高、内幕交易频繁）和地缘风险，但未明确转向看空。",
     "representative_quotes": [
-      "Buying stock with borrowed money reaches level of past market tops: ‘Very bearish looking’",
-      "The AI backlash is only getting started",
-      "34% chance of Fed rate hike in 2026"
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
+      "There will be a summer stock market pullback before possible year-end rally, per Bank of America."
     ],
-    "generated_at": "2026-07-22T21:35:29.092956+00:00"
+    "generated_at": "2026-07-22T23:55:30.100589+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHynix",
+      "SKHYX",
       "MU",
-      "GLW",
       "MRVL",
+      "GLW",
       "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需矛盾与长期需求被低估",
-      "云端与端侧AI的博弈及云厂护城河",
-      "AI军备竞赛中的物理AI与数据采集"
+      "存储芯片（HBM/NAND）供需紧张",
+      "云端AI算力租赁与模型竞争",
+      "端侧AI与硬件生态（苹果）",
+      "物理AI与三维数据存储需求",
+      "玻璃基板（康宁）在高端芯片中的垄断地位"
     ],
-    "recent_shift": "近期情绪从恐慌抄底转向对存储和云厂长期逻辑的坚定信心，但短期操作上因市场剧烈波动而表现出频繁调整和后悔。",
+    "recent_shift": "近期从看好存储芯片正股转向加仓杠杆ETF（如2x海力士），并因市场波动频繁调仓，同时对云厂（谷歌）的护城河和端侧AI（苹果）长期逻辑更加坚定。",
     "representative_quotes": [
       "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡，不然破天的富贵你把握不住。",
-      "不管谁的模型突然又又领先，那么云厂都能给调配算力过去，而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。",
-      "物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。然后复刻文本AI节奏后期进入推理卡重新主导。"
+      "云厂恰恰能解决所有大模型公司的这种顾虑。不管谁的模型突然又又领先，那么云厂都能给调配算力过去。",
+      "最稳的商业闭环，永远是硬件+生态。"
     ],
-    "generated_at": "2026-07-22T12:10:52.109150+00:00"
+    "generated_at": "2026-07-22T23:55:27.269786+00:00"
   }
 }
