@@ -1,5 +1,48 @@
 [
   {
+    "tweet_id": "2079947242455335379",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AMD to invest $5B in Anthropic.\n\nAnthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars.\n\nLooks like they’re copying the $NVDA playbook with Anthropic last year. https://t.co/SXBUq65u6P",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2079947242455335379",
+    "published_at": "2026-07-22T15:10:40+00:00",
+    "fetched_at": "2026-07-22T16:14:39.699262+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD",
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "AMD计划向Anthropic投资50亿美元，作为交换，Anthropic将签订一份价值数百亿美元的2GW芯片采购协议，购买AMD最新芯片。这被视为复制英伟达去年的合作模式，可能对AMD股价有积极影响，但需关注执行风险。",
+      "translation": "$AMD计划向Anthropic投资50亿美元。作为回报，Anthropic将签署一份2GW的协议，购买AMD最新芯片，价值数百亿美元。看起来他们正在复制去年$NVDA与Anthropic的合作模式。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079939271285162169",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AMD, $AMD, to make equity investment of up to $5 billion in Anthropic, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2079939271285162169",
+    "published_at": "2026-07-22T14:39:00+00:00",
+    "fetched_at": "2026-07-22T16:15:03.957272+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "AMD计划向Anthropic投资高达50亿美元，这显示AMD在AI领域的积极布局，可能增强其AI芯片业务的增长预期，对AMD股票构成正面影响。",
+      "translation": "AMD，$AMD，据华尔街日报报道，将向Anthropic进行高达50亿美元的股权投资。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079930211580473647",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
