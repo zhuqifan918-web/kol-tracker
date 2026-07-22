@@ -1,5 +1,105 @@
 [
   {
+    "tweet_id": "2079979032729489450",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NVIDIA, $NVDA, CEO jensen Huang: American companies should absolutely be allowed to use Chinese AI models",
+    "tweet_url": "https://x.com/unusual_whales/status/2079979032729489450",
+    "published_at": "2026-07-22T17:17:00+00:00",
+    "fetched_at": "2026-07-22T17:47:16.900823+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "NVIDIA CEO黄仁勋表示美国公司应被允许使用中国AI模型。此言论不直接表明股价方向，但反映了AI领域的开放性态度，可能对行业竞争格局有潜在影响。",
+      "translation": "NVIDIA，$NVDA，CEO黄仁勋：美国公司绝对应该被允许使用中国的AI模型。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079974251403137334",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2079974251403137334",
+    "published_at": "2026-07-22T16:58:00+00:00",
+    "fetched_at": "2026-07-22T17:47:18.448112+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用CNBC报道，指出使用借入资金购买股票的水平已达到过去市场顶部时的水平，暗示市场可能过热，存在回调风险，对投资者来说是一个警示信号。",
+      "translation": "突发新闻：据CNBC报道，使用借入资金购买股票的水平已达到过去市场顶部时的水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079968966446067794",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The yen slid past 163 per dollar for the first time since 1986, extending its decline and further testing Japanese authorities’ resolve to intervene,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2079968966446067794",
+    "published_at": "2026-07-22T16:37:00+00:00",
+    "fetched_at": "2026-07-22T17:47:20.782823+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPY",
+        "USD"
+      ],
+      "direction": "bearish",
+      "summary": "日元兑美元汇率跌破163，创1986年以来新低，表明日元持续贬值，可能引发日本当局干预。对投资者而言，这暗示日元相关资产和外汇交易存在风险，需关注干预带来的波动。",
+      "translation": "据彭博社报道，日元兑美元汇率跌破163，为1986年以来首次，延续跌势并进一步考验日本当局干预的决心。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079968714879819919",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Presidents and other federal officials would be banned from issuing or sponsoring cryptocurrency and other digital assets, under an updated measure already under consideration in the Clarity Act, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2079968714879819919",
+    "published_at": "2026-07-22T16:36:00+00:00",
+    "fetched_at": "2026-07-22T17:47:23.106621+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该消息表明美国可能出台更严格的加密监管政策，禁止联邦官员发行或赞助加密货币，短期内可能对加密市场情绪造成负面影响，增加政策不确定性。",
+      "translation": "突发：根据CNBC报道，《清晰法案》正在考虑一项更新措施，将禁止总统及其他联邦官员发行或赞助加密货币及其他数字资产。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079968710396391823",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: A bill, the Clarity Act, has been updated to ban Presidents and other federal officials from issuing or sponsoring cryptocurrency and other digital assets, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2079968710396391823",
+    "published_at": "2026-07-22T16:35:59+00:00",
+    "fetched_at": "2026-07-22T17:47:24.739019+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该草案禁止总统等联邦官员发行或赞助加密货币，可能对加密市场情绪产生负面影响，增加监管不确定性。",
+      "translation": "突发：据CNBC报道，一项名为《清晰法案》的法案已更新，禁止总统及其他联邦官员发行或赞助加密货币和其他数字资产。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079947242455335379",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

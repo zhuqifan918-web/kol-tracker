@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AMD",
       "$NVDA",
       "$AAPL",
+      "$AMD",
       "$AMC",
       "$GME"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI投资与基础设施建设",
-      "地缘政治风险与市场影响",
-      "市场估值与回调预警",
-      "央行政策与通胀预期",
-      "住房市场与消费趋势"
+      "市场顶部与杠杆风险",
+      "地缘政治紧张局势",
+      "人工智能投资与基础设施",
+      "贸易与关税政策",
+      "住房与消费者压力"
     ],
-    "recent_shift": "从早期强调AI基础设施建设和牛市预期，转向更多关注地缘政治风险、市场回调信号和债务水平。",
+    "recent_shift": "近期隐忧增加，从关注AI增长转向市场回调风险和避险情绪。",
     "representative_quotes": [
-      "BREAKING: Wells Fargo says it is 'big time bullish on the US.'",
-      "Buying stock with borrowed money reaches level of past market tops: ‘Very bearish looking’",
-      "The AI backlash is only getting started"
+      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
+      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said."
     ],
-    "generated_at": "2026-07-22T16:15:16.418865+00:00"
+    "generated_at": "2026-07-22T17:47:40.312071+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
