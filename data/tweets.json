@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2080064848201667069",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "People talk about options simply. \n\nWhat if you saw how the pros do it instead?\n\nWhat if you saw their strategies live?\n\nCheck out the Unusual Whales Multi-Leg Flow tool.\n\nIt lets you see the pros in action, as they put their trades.\n\nSee more: https://t.co/eKeyYPleRO https://t.co/RvfaHhr9z2",
+    "tweet_url": "https://x.com/unusual_whales/status/2080064848201667069",
+    "published_at": "2026-07-22T22:58:00+00:00",
+    "fetched_at": "2026-07-22T23:55:05.148148+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文推广Unusual Whales的多腿期权流工具，暗示关注专业交易者的期权策略可能带来更好的投资视角。虽未提及具体标的，但对期权策略工具的推广隐含对市场机会的积极看法。",
+      "translation": "人们谈论期权很简单。但如果你能看到专业人士的做法呢？如果你能实时看到他们的策略呢？查看Unusual Whales多腿期权流工具。它能让你在专业人士进行交易时看到他们的操作。查看更多：https://t.co/eKeyYPleRO",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2080042954077691971",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -468,6 +487,25 @@
       "direction": "neutral",
       "summary": "AMD计划向Anthropic投资50亿美元，作为交换，Anthropic将签订一份价值数百亿美元的2GW芯片采购协议，购买AMD最新芯片。这被视为复制英伟达去年的合作模式，可能对AMD股价有积极影响，但需关注执行风险。",
       "translation": "$AMD计划向Anthropic投资50亿美元。作为回报，Anthropic将签署一份2GW的协议，购买AMD最新芯片，价值数百亿美元。看起来他们正在复制去年$NVDA与Anthropic的合作模式。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079943800978276678",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: If ships are attacked, we will bomb, including in Tehran",
+    "tweet_url": "https://x.com/unusual_whales/status/2079943800978276678",
+    "published_at": "2026-07-22T14:57:00+00:00",
+    "fetched_at": "2026-07-22T23:55:20.686275+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普威胁轰炸伊朗（包括德黑兰）的言论加剧中东地缘政治风险，可能推高油价、避险资产如黄金，并打压全球股市风险偏好。",
+      "translation": "特朗普：如果船只遭到攻击，我们将进行轰炸，包括在德黑兰。",
       "confidence": "medium"
     }
   },
@@ -1092,6 +1130,25 @@
       "summary": "用户后悔卖出了闪迪和美光的股票，认为卖飞了，因此当前对这两只股票持看空（卖出）方向，但情绪上是后悔的。",
       "translation": "我把闪迪和美光卖飞了我日",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079554587095339447",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "亏完的时候就躺着天天放羊了。 https://t.co/PXPx1unM8k",
+    "tweet_url": "https://x.com/xiaomustock/status/2079554587095339447",
+    "published_at": "2026-07-21T13:10:24+00:00",
+    "fetched_at": "2026-07-22T23:54:56.596867+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文表达了一种消极的投资心态，认为亏损到一无所有时只能选择躺平放羊，暗示投资失败后的无奈与放弃。",
+      "translation": "亏完的时候就躺着天天放羊了。",
+      "confidence": "low"
     }
   },
   {
