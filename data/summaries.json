@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AMC",
-      "$AAPL",
       "$NVDA",
+      "$AAPL",
+      "$AMC",
       "$GME",
       "$TSM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮与基建扩张",
-      "地缘政治风险与制裁升级",
-      "住房市场与通胀困境",
-      "市场回调预期与风险信号",
-      "科技巨头变革与财报关注"
+      "中国经济干预与市场稳定",
+      "地缘政治风险与避险",
+      "AI泡沫与数据中心的矛盾",
+      "住房与通胀压力",
+      "降息与衰退预期"
     ],
-    "recent_shift": "近期观点整体转向审慎，强调市场估值过高、动能减弱及夏季回调风险，但持续关注AI长期机遇",
+    "recent_shift": "早期偏乐观，近期加入更多警告性信号，如AI回调、高债务风险和夏季调整预期。",
     "representative_quotes": [
+      "BREAKING: Trump says the US will impose a 100% tariff on imported generic drugs beginning in August 2028, rising to 200% in August 2029.",
       "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said.",
-      "Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
-      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction."
+      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs."
     ],
-    "generated_at": "2026-07-22T12:10:48.857645+00:00"
+    "generated_at": "2026-07-22T14:32:26.078843+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

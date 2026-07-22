@@ -1,5 +1,81 @@
 [
   {
+    "tweet_id": "2079930211580473647",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Wells Fargo says it is \"big time bullish on the US.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2079930211580473647",
+    "published_at": "2026-07-22T14:03:00+00:00",
+    "fetched_at": "2026-07-22T14:32:00.329800+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国银行富国银行表示对美国市场持强烈看涨态度，暗示整体市场前景乐观。",
+      "translation": "突发：富国银行表示对美国市场“极度看涨”。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079927946350076179",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump: From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, the US will bomb one bridge or or power plant.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079927946350076179",
+    "published_at": "2026-07-22T13:54:00+00:00",
+    "fetched_at": "2026-07-22T14:32:02.106478+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文暗示美伊局势升级，可能引发中东石油供应中断风险，对原油价格构成上行压力，同时增加全球市场不确定性，利空风险资产。",
+      "translation": "突发：特朗普：从现在起，每当伊朗伊斯兰共和国在霍尔木兹海峡向船只开火，美国将轰炸一座桥梁或发电厂。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079918635028488210",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US data-center developers are working with bankers to sell majority equity stakes worth tens of billions of dollars this summer, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2079918635028488210",
+    "published_at": "2026-07-22T13:17:00+00:00",
+    "fetched_at": "2026-07-22T14:32:05.004122+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国数据中心开发商正与银行合作，计划今年夏天出售价值数百亿美元的多数股权，这表明数据中心行业前景看好，可能带来相关基础设施投资机会。",
+      "translation": "据《华尔街日报》报道，美国数据中心开发商正在与银行家合作，计划今年夏天出售价值数百亿美元的多数股权。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079908569214841042",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Buying stock with borrowed money reaches level of past market tops: ‘Very bearish looking’,\" per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2079908569214841042",
+    "published_at": "2026-07-22T12:37:00+00:00",
+    "fetched_at": "2026-07-22T14:32:07.854099+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "据CNBC报道，借钱买入股票的水平已达到过去市场顶部的水平，呈现非常看空的信号。该观点认为当前市场可能处于高位，投资者需警惕风险。",
+      "translation": "据CNBC报道，借钱买入股票的水平已达到过去市场顶部的水平，呈现“非常看空”的迹象。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079898502226739563",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
