@@ -27,25 +27,25 @@
     "focus_tickers": [
       "$NVDA",
       "$AAPL",
-      "$AMC",
       "$GME",
-      "$TSM"
+      "$AMC",
+      "$NFLX"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险升级",
-      "AI投资热潮与经济结构转型",
-      "通胀粘性与货币政策不确定性",
-      "市场估值过高与回调风险",
-      "内幕交易与资金流向信号"
+      "市场波动与回调预期",
+      "地缘政治风险加剧",
+      "AI投资泡沫与结构性支出",
+      "美股内部人抛售与机构撤退",
+      "宏观政策不确定性（关税、利率、能源）"
     ],
-    "recent_shift": "近期内容更强调市场回调风险（夏季回调、高估值、内幕减持），并增加对地缘冲突（伊朗、胡塞武装）的担忧。",
+    "recent_shift": "最近观点从早前的技术股驱动乐观转向对地缘冲突、高估值和流动性收紧的全面担忧，同时强调AI投资可能压垮债券市场。",
     "representative_quotes": [
-      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer",
+      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer.",
       "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "People talk about options simply. What if you saw how the pros do it instead?"
+      "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets."
     ],
-    "generated_at": "2026-07-22T07:34:58.776832+00:00"
+    "generated_at": "2026-07-22T10:15:43.749895+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
