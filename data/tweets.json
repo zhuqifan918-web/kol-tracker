@@ -1,5 +1,89 @@
 [
   {
+    "tweet_id": "2080022337249014162",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Tesla, $TSLA, earnings:\n\n- EPS: $0.33, est: $0.54\n- Revenue: $28.2 billion, est: $26.4 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2080022337249014162",
+    "published_at": "2026-07-22T20:09:04+00:00",
+    "fetched_at": "2026-07-22T20:09:27.369535+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "neutral",
+      "summary": "特斯拉财报显示每股收益低于预期，但营收超出预期，市场反应可能复杂，需综合评估。",
+      "translation": "突发：特斯拉，$TSLA，财报：\n- 每股收益：$0.33，预期：$0.54\n- 营收：282亿美元，预期：264亿美元",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080013239472275667",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Oklahoma Senator Alan Armstrong, the former CEO of Williams Companies, $WMB,  just disclosed selling up to $28.4 million worth of Williams stock, $WMB.\n\nThe sale took place on June 24, but wasn't disclosed until July 21.\n\nThe disclosure was part of a filing containing 703 trades totaling over $10 million in reported volume, with 701 filed well beyond the STOCK Act's 45-day deadline.\n\nThe penalty? \n\n$200.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080013239472275667",
+    "published_at": "2026-07-22T19:32:55+00:00",
+    "fetched_at": "2026-07-22T20:09:30.688771+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WMB"
+      ],
+      "direction": "bearish",
+      "summary": "俄克拉荷马州参议员、Williams Companies前CEO Alan Armstrong披露出售高达2840万美元的WMB股票，且交易延迟近一个月才报告，违规行为仅被罚款200美元，引发对内部人交易和公司治理的担忧。",
+      "translation": "突发：俄克拉荷马州参议员、Williams Companies前CEO Alan Armstrong刚刚披露出售高达2840万美元的Williams股票，$WMB。该交易发生在6月24日，但直到7月21日才披露。该披露是一份包含703笔交易、报告交易额超过1000万美元的文件的一部分，其中701笔交易远远超过了STOCK Act规定的45天期限。罚款？200美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080010844881261047",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Clarity Act odds dropping after changes to the bill have been made, per Polymarket: https://t.co/prOWiH65te",
+    "tweet_url": "https://x.com/unusual_whales/status/2080010844881261047",
+    "published_at": "2026-07-22T19:23:24+00:00",
+    "fetched_at": "2026-07-22T20:09:32.418489+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "POLYMARKET"
+      ],
+      "direction": "bearish",
+      "summary": "该推文提到涉Clarity Act的预测市场（Polymarket）中该法案通过的概率下降，暗示市场对法案前景看空。投资者应关注政策变化对相关资产的影响。",
+      "translation": "最新：根据Polymarket的数据，由于法案修改，Clarity Act的通过概率正在下降。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080008127718851063",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Tesla, $TSLA, earnings are in after hours.  \n\nYou can see the expected vs actual move, right on Unusual Whales.  \n\nIt has the most historical moves around earnings, as well as all expectations.\n\nTake a look here: https://t.co/9tV4A1wcnf https://t.co/rWo7Qcpdwm",
+    "tweet_url": "https://x.com/unusual_whales/status/2080008127718851063",
+    "published_at": "2026-07-22T19:12:36+00:00",
+    "fetched_at": "2026-07-22T20:09:35.155674+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "neutral",
+      "summary": "推特内容关于特斯拉（TSLA）盘后财报，提及可以通过Unusual Whales查看预期与实际价格波动，以及历史财报表现。未明确表达看涨或看跌倾向，仅提供信息参考。",
+      "translation": "突发：特斯拉（$TSLA）盘后财报公布。你可以在Unusual Whales上看到预期价格波动与实际价格波动。该平台收录了最多历史财报走势及所有预期数据。点击此处查看：https://t.co/9tV4A1wcnf https://t.co/rWo7Qcpdwm",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2079996045745111262",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -134,6 +218,25 @@
       "direction": null,
       "summary": "该法案禁止在任议员购买新股，但允许持有现有投资，可能减少因内幕交易导致的市场不公平，对整体市场长期公平性有正面影响，但短期内对具体资产影响不明确。",
       "translation": "突发：据CNBC报道，美国众议院将对《停止内幕交易法案》进行投票，该法案旨在遏制内幕交易。提案规定，议员在任期间不得购买新股票，但可以保留现有投资。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079958900032655634",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: OpenAI has said an AI agent caused a major cyber breach by itself, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2079958900032655634",
+    "published_at": "2026-07-22T15:57:00+00:00",
+    "fetched_at": "2026-07-22T20:09:40.883036+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "OpenAI的AI代理自主导致重大网络入侵，显示AI安全风险加剧，可能冲击科技板块和网络安全相关投资。",
+      "translation": "突发：据《金融时报》报道，OpenAI表示一个人工智能代理单独引发了一起重大网络入侵事件。",
       "confidence": "medium"
     }
   },
