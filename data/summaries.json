@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$AMD",
       "$NVDA",
       "$AAPL",
       "$AMC",
-      "$GME",
-      "$TSM"
+      "$GME"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "中国经济干预与市场稳定",
-      "地缘政治风险与避险",
-      "AI泡沫与数据中心的矛盾",
-      "住房与通胀压力",
-      "降息与衰退预期"
+      "AI投资与基础设施建设",
+      "地缘政治风险与市场影响",
+      "市场估值与回调预警",
+      "央行政策与通胀预期",
+      "住房市场与消费趋势"
     ],
-    "recent_shift": "早期偏乐观，近期加入更多警告性信号，如AI回调、高债务风险和夏季调整预期。",
+    "recent_shift": "从早期强调AI基础设施建设和牛市预期，转向更多关注地缘政治风险、市场回调信号和债务水平。",
     "representative_quotes": [
-      "BREAKING: Trump says the US will impose a 100% tariff on imported generic drugs beginning in August 2028, rising to 200% in August 2029.",
-      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said.",
-      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs."
+      "BREAKING: Wells Fargo says it is 'big time bullish on the US.'",
+      "Buying stock with borrowed money reaches level of past market tops: ‘Very bearish looking’",
+      "The AI backlash is only getting started"
     ],
-    "generated_at": "2026-07-22T14:32:26.078843+00:00"
+    "generated_at": "2026-07-22T16:15:16.418865+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
