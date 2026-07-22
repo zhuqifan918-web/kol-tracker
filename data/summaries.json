@@ -3,49 +3,48 @@
     "focus_tickers": [
       "$SIVE",
       "$NVDA",
+      "$AAOI",
       "$MU",
-      "$NBIS",
-      "$LITE"
+      "$AMZN"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施和供应链瓶颈",
-      "CPO光通信和硅光子学",
-      "记忆体与NAND结构性短缺",
-      "新云/新基建和算力租赁",
-      "人形机器人与物理AI"
+      "AI资本开支结构性增长，上游半导体瓶颈受益",
+      "共封装光学（CPO）与硅光子技术革命",
+      "内存/DRAM供给持续紧张，价格上行周期",
+      "人形机器人加速商业化，中美竞争格局",
+      "Neocloud和超大规模数据中心需求爆炸"
     ],
-    "recent_shift": "近期大盘回调中，该账户更强调市场下跌是流动性去杠杆而非基本面变化，并多次抄底或重申长期持有信心。",
+    "recent_shift": "最近观点从对市场恐慌的反思转向关注具体财报和供应链验证，强调基本面未变而情绪已过度。",
     "representative_quotes": [
-      "I think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
-      "Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included).",
+      "I see it as long term ownership over... the next hyperscaler, 40% of the InP supply chain, leader of the next optical shift... And so on… At cheaper valuations.",
+      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
       "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
     ],
-    "generated_at": "2026-07-21T23:48:45.882528+00:00"
+    "generated_at": "2026-07-22T21:35:26.365443+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$TSLA",
-      "$NVDA",
-      "$GME",
-      "$AMC",
-      "$AAPL"
+      "TSLA",
+      "GOOGL",
+      "NVDA",
+      "AMC",
+      "GME"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "科技与AI投资热潮与分化",
-      "地缘政治风险加剧（伊朗、中国、关税）",
-      "市场估值偏高与流动性风险（保证金债务、内幕交易）",
-      "政策监管收紧（加密货币禁令、内幕交易法案）",
-      "房地产与消费疲软"
+      "人工智能投资与数据中心的爆发",
+      "地缘政治风险加剧（伊朗冲突、关税战）",
+      "市场估值高企，杠杆交易达历史高位",
+      "内幕交易与监管改革争议"
     ],
-    "recent_shift": "近期转向温和看空，强调市场顶部风险、地缘冲突升级和高估值下的回调压力。",
+    "recent_shift": "近期观点从技术股乐观转向强调市场风险，尤其关注AI泡沫、地缘冲突和债务杠杆的负面影响。",
     "representative_quotes": [
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs."
+      "Buying stock with borrowed money reaches level of past market tops: ‘Very bearish looking’",
+      "The AI backlash is only getting started",
+      "34% chance of Fed rate hike in 2026"
     ],
-    "generated_at": "2026-07-22T20:10:01.204385+00:00"
+    "generated_at": "2026-07-22T21:35:29.092956+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
