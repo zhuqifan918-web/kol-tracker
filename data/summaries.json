@@ -29,44 +29,44 @@
       "$AAPL",
       "$AMC",
       "$GME",
-      "$TSLA"
+      "$TSM"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "bearish",
     "key_themes": [
-      "人工智能和芯片投资热潮",
-      "市场波动与回调风险",
-      "地缘政治与贸易政策影响",
-      "能源和基础设施投资",
-      "内部交易和市场情绪"
+      "地缘政治风险升级",
+      "AI投资热潮与经济结构转型",
+      "通胀粘性与货币政策不确定性",
+      "市场估值过高与回调风险",
+      "内幕交易与资金流向信号"
     ],
-    "recent_shift": "近期关注点从科技股回调风险转向AI长期增长叙事，同时强调市场存在过度乐观和回调可能。",
+    "recent_shift": "近期内容更强调市场回调风险（夏季回调、高估值、内幕减持），并增加对地缘冲突（伊朗、胡塞武装）的担忧。",
     "representative_quotes": [
-      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer, other have said.",
-      "Jensen Huang's of Nvidia, $NVDA, jacket just auctioned for nearly $1 million at Sotheby's.",
-      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction."
+      "Stretched valuations, weakening momentum, rapid margin debt growth, and seasonal patterns all point to a pullback or consolidation over the summer",
+      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
+      "People talk about options simply. What if you saw how the pros do it instead?"
     ],
-    "generated_at": "2026-07-22T04:59:59.173396+00:00"
+    "generated_at": "2026-07-22T07:34:58.776832+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SKHYX",
-      "MU",
-      "GLW",
       "GOOGL",
-      "MRVL"
+      "MU",
+      "MRVL",
+      "GLW"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片与AI算力需求爆发",
-      "云厂作为AI核心基础设施的长期护城河",
-      "端侧AI与硬件生态（苹果）的潜在机遇"
+      "存储芯片长期需求爆发",
+      "端侧AI与硬件生态",
+      "云厂为AI最终赢家"
     ],
-    "recent_shift": "从早期集中押注存储和杠杆ETF，转向强调云厂和端侧AI的稳定性，并因市场波动而更注重仓位管理。",
+    "recent_shift": "近期从看好存储反弹转向关注云厂护城河，并强调端侧AI硬件机会",
     "representative_quotes": [
-      "不管哪个模型今天牛逼，AI猛增云厂都爆赚。",
-      "全市场都是垃圾股，没有比海力士更好的。",
-      "云端承载不了的推理和内存压力，必然会走向端侧化。苹果卡死了端侧生态和流量入口。"
+      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去",
+      "Kimi因为算力熔断暂停订阅，直接扯下了云端AI的最后遮羞布",
+      "海力士这个成本非常满意，所以也不想卖，极其便宜他娘的，历史大底"
     ],
-    "generated_at": "2026-07-21T21:56:59.653398+00:00"
+    "generated_at": "2026-07-22T07:35:01.150361+00:00"
   }
 }

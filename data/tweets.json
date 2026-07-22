@@ -598,6 +598,25 @@
     }
   },
   {
+    "tweet_id": "2079427422731288973",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "卸载同花顺就暴力v，\n他这个被量化可能抓取成操作指标了。 https://t.co/cUIwoP1qm1",
+    "tweet_url": "https://x.com/xiaomustock/status/2079427422731288973",
+    "published_at": "2026-07-21T04:45:06+00:00",
+    "fetched_at": "2026-07-22T07:34:26.011606+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到卸载同花顺（一款股票交易软件）后出现暴力拉升，暗示量化交易系统可能将用户卸载行为误判为操作信号。观点偏空，认为这种机制不可靠或存在误导。",
+      "translation": "卸载同花顺就暴力拉升，他这个被量化可能抓取成操作指标了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079425218918105099",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -1055,6 +1074,25 @@
       "direction": "bullish",
       "summary": "贝索斯认为人类有无限需求，AI将降低当前阻碍这些需求的障碍，这对亚马逊（AMZN）长期发展构成利好，暗示AI投资价值。",
       "translation": "人类有无数想要做的事情，亚马逊的贝索斯表示，目前只是被AI将降低的障碍所限制。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079183792728924241",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The days of waiting for housing affordability to \"go back to normal\" are over,\" per FOX.",
+    "tweet_url": "https://x.com/unusual_whales/status/2079183792728924241",
+    "published_at": "2026-07-20T12:37:00+00:00",
+    "fetched_at": "2026-07-22T07:34:33.979679+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用福克斯新闻的评论，指出住房可负担性不会回归正常，暗示房地产市场和相关投资可能面临长期价格高企的现状。",
+      "translation": "福克斯新闻称：等待住房可负担性“回归正常”的日子已经结束了。",
       "confidence": "medium"
     }
   },
