@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2079898502226739563",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The AI backlash is only getting started, per the Economist",
+    "tweet_url": "https://x.com/unusual_whales/status/2079898502226739563",
+    "published_at": "2026-07-22T11:57:00+00:00",
+    "fetched_at": "2026-07-22T12:10:19.779023+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文提到《经济学人》认为AI反弹才刚刚开始，暗示AI相关投资可能面临负面情绪或回调风险。投资者需谨慎对待AI板块，关注市场对AI发展的质疑趋势。",
+      "translation": "《经济学人》表示，AI反弹才刚刚开始。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079893469116436512",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"AI sales start to justify data-center spending boom,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2079893469116436512",
+    "published_at": "2026-07-22T11:37:00+00:00",
+    "fetched_at": "2026-07-22T12:10:21.173420+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "据彭博社报道，AI销售开始证明数据中心支出的合理性，这对AI相关行业是积极信号。",
+      "translation": "据彭博社报道，AI销售开始证明数据中心支出的繁荣是合理的。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079801442282734061",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "棒子自杀了，我昨天正股加仓价1280，现在1264 https://t.co/PdmZsjTvb2",
+    "tweet_url": "https://x.com/xiaomustock/status/2079801442282734061",
+    "published_at": "2026-07-22T05:31:19+00:00",
+    "fetched_at": "2026-07-22T12:10:09.899358+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "用户提到昨天以1280的价格加仓某标的，现在价格跌至1264，暗示该标的近期下跌，投资可能面临亏损。",
+      "translation": "棒子自杀了，我昨天以1280的价格加仓正股，现在价格是1264。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2079793057231405164",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -189,6 +246,25 @@
       "summary": "伦敦证券交易所计划明年推出24小时交易，这标志着传统交易所向加密货币式全天候交易模式转型，可能提升市场流动性和交易量，对金融市场基础设施建设构成利好。",
       "translation": "突发：伦敦证券交易所计划明年推出全天候交易。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079652409014673823",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Now this is cool.\n\nYou can see which way the market is moving with Market Maps. \n\nThis lets you follow the change in a market, noticing specific trends in a given sector. \n\nCheck it out: https://t.co/M0skwOZ4Qd https://t.co/vtYj0hKu46",
+    "tweet_url": "https://x.com/unusual_whales/status/2079652409014673823",
+    "published_at": "2026-07-21T19:39:07+00:00",
+    "fetched_at": "2026-07-22T12:10:27.381257+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了Market Maps工具，可用于观察市场走势和特定行业趋势，对投资者有一定参考价值。",
+      "translation": "这很酷。你可以通过市场地图查看市场动向。这让你能够跟踪市场变化，注意到特定行业的趋势。查看详情：https://t.co/M0skwOZ4Qd https://t.co/vtYj0hKu46",
+      "confidence": "medium"
     }
   },
   {
