@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "AMC",
       "TSLA",
       "NVDA",
-      "AAPL",
       "GOOGL",
-      "AMC"
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "科技与AI投资",
-      "地缘政治风险与油价",
-      "监管政策变化",
-      "市场波动与资金流向",
-      "住房市场与通胀"
+      "地缘政治风险与市场波动",
+      "AI投资与数据中心建设热潮",
+      "监管与政策变化（如STOCK法案、Clarity法案）",
+      "市场杠杆与估值过高警告",
+      "住房市场与消费能力问题"
     ],
-    "recent_shift": "近期对市场风险（如保证金贷款、地缘冲突、AI泡沫担忧）的关注增多，而早期更强调机会（如特斯拉、AMC的利好）。",
+    "recent_shift": "近期更多关注政治事件和风险警告，而此前偏重科技股和期权策略推广。",
     "representative_quotes": [
-      "Buying stocks with borrowed money hits levels seen at past market tops",
-      "The AI backlash is only getting started",
-      "There will be a summer stock market pullback before possible year-end rally"
+      "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range.",
+      "BREAKING: Senator Alan Armstrong just disclosed more than 700 stock trades totaling over $10 million in volume, with nearly all filed well beyond the STOCK Act's 45-day reporting deadline.",
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
     ],
-    "generated_at": "2026-07-23T05:17:32.054731+00:00"
+    "generated_at": "2026-07-23T07:55:17.986527+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

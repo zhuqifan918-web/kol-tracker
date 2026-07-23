@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2080163749965836741",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range.\n\nRead more: https://t.co/8r6Ack0pIm",
+    "tweet_url": "https://x.com/unusual_whales/status/2080163749965836741",
+    "published_at": "2026-07-23T05:31:00+00:00",
+    "fetched_at": "2026-07-23T07:54:55.957175+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "对冲基金在动量策略上的持仓已经过度拉伸，且总杠杆率接近五年区间顶部，暗示市场回调风险增加。",
+      "translation": "对冲基金在动量策略上的持仓也已经过度拉伸，并且总杠杆率仍接近其五年区间的顶部。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2080153334888182065",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -98,6 +117,25 @@
       "direction": "neutral",
       "summary": "该推文披露了参议员Alan Armstrong（前WMB CEO）大量迟报的交易，包括买入AAPL、NVDA、GOOG等科技股，卖出WMB等。虽涉及具体标的，但核心是关注违规延迟披露及低额罚款问题，而非明确看多或看空。",
       "translation": "突发：参议员Alan Armstrong披露了超过700笔股票交易，总金额逾1000万美元，几乎所有交易均远超《STOCK法案》规定的45天报告截止日期。作为俄克拉荷马州新任参议员及Williams Companies前CEO，Armstrong于7月21日披露了703笔交易，包括654笔买入和49笔卖出，交易日期可追溯至2026年3月。其中701笔在交易执行后112至119天才报告，意味着其开仓首周的几乎所有持仓在近四个月内未公开。他的早期买入包括价值25万至50万美元的苹果，以及各5万至10万美元的英伟达、Alphabet、ASML和伯克希尔·哈撒韦。他还披露卖出500万至2500万美元的Williams Companies，以及额外卖出康宁、辉瑞、Phillips 66、NextEra Energy、纳斯达克和Teledyne。尽管有数百份迟报，但《STOCK法案》的罚款通常仅为200美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080095047194726403",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The United States recently conducted airstrikes on Iranian positions to degrade Iran's ability to threaten commercial shipping in the Strait of Hormuz.\n\nRead more: https://t.co/qQGIG2ty2S",
+    "tweet_url": "https://x.com/unusual_whales/status/2080095047194726403",
+    "published_at": "2026-07-23T00:58:00+00:00",
+    "fetched_at": "2026-07-23T07:55:04.851582+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国空袭伊朗目标以削弱其在霍尔木兹海峡威胁商业航运的能力。此事件可能加剧中东地缘政治风险，影响全球油价及航运安全，对相关市场构成潜在下行压力。",
+      "translation": "美国最近对伊朗阵地进行了空袭，以削弱伊朗威胁霍尔木兹海峡商业航运的能力。",
       "confidence": "high"
     }
   },
