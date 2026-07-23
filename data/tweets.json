@@ -1,5 +1,88 @@
 [
   {
+    "tweet_id": "2080346453935845775",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran: We will not allow the United States to use deceptive ceasefires to replenish its oil and ammunition reserves and then resume attacks",
+    "tweet_url": "https://x.com/unusual_whales/status/2080346453935845775",
+    "published_at": "2026-07-23T17:37:00+00:00",
+    "fetched_at": "2026-07-23T17:53:40.666912+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "direction": "bearish",
+      "summary": "该推文暗示地缘政治紧张局势可能导致油价上涨，对能源板块（如USO、XLE）可能产生短期利好，但整体市场风险偏好下降。",
+      "translation": "伊朗：我们不会允许美国利用欺骗性的停火来补充其石油和弹药储备，然后恢复攻击。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080341420574138470",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran Navy has said that the Strait of Hormuz remains closed",
+    "tweet_url": "https://x.com/unusual_whales/status/2080341420574138470",
+    "published_at": "2026-07-23T17:17:00+00:00",
+    "fetched_at": "2026-07-23T17:53:42.000267+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "霍尔木兹海峡关闭的声明可能对全球石油供应造成影响，推高油价并负面冲击能源相关股票和航运业，投资者需关注地缘政治风险。",
+      "translation": "伊朗海军表示，霍尔木兹海峡仍然关闭。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080334612807758136",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I have this feeling that Lisa from $AMD likes AI.\n\nIt’s cool getting to meet some of you at the event! https://t.co/AWdGS349xF",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080334612807758136",
+    "published_at": "2026-07-23T16:49:57+00:00",
+    "fetched_at": "2026-07-23T17:53:22.233718+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "推文暗示AMD在AI领域有积极发展，作者对AMD的AI前景持乐观态度，建议关注AMD的投资机会。",
+      "translation": "我有一种感觉，Lisa（AMD CEO）喜欢AI。很高兴在活动中见到你们中的一些人！https://t.co/AWdGS349xF",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2080331354248823194",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080331354248823194",
+    "published_at": "2026-07-23T16:37:00+00:00",
+    "fetched_at": "2026-07-23T17:53:45.787487+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出黄金在央行外汇储备中已超越美国国债，表明央行对黄金的需求增加，这对黄金及相关资产（如ETF GLD）构成利好信号。",
+      "translation": "突发：据彭博社报道，黄金在央行外汇储备中已超越美国国债。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080321287894020430",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
