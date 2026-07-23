@@ -1,5 +1,89 @@
 [
   {
+    "tweet_id": "2080321287894020430",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NEWS: Oil prices have hit $100 a barrel for the first time since May, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2080321287894020430",
+    "published_at": "2026-07-23T15:57:00+00:00",
+    "fetched_at": "2026-07-23T16:19:57.634285+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "油价突破100美元/桶，可能影响能源股和相关ETF，但需进一步分析市场反应。",
+      "translation": "新闻：据英国《金融时报》报道，油价自5月以来首次突破100美元/桶。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080311221560266839",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Google, $GOOGL, has said they hold $94 billion in SpaceX, $SPCX, shares after IPO.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080311221560266839",
+    "published_at": "2026-07-23T15:17:00+00:00",
+    "fetched_at": "2026-07-23T16:20:00.111963+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "谷歌披露持有SpaceX大量股份，凸显其对SpaceX未来价值的看好，可能间接利好谷歌自身股价。",
+      "translation": "谷歌，$GOOGL，表示在SpaceX，$SPCX，IPO后持有其940亿美元股份。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080303930479972472",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "抄谷歌赌财报结果跌成麻瓜，按照梁总的卡10个月回本周期，谷歌的定价更贵云厂投入回本不成问题。存储反弹起来的时候把其他的清了留了韩股sk结果最垃圾。其他的存储天天涨。美光和sndk卖掉的钱买的谷歌🌚\n太几把脸黑了我日呐",
+    "tweet_url": "https://x.com/xiaomustock/status/2080303930479972472",
+    "published_at": "2026-07-23T14:48:01+00:00",
+    "fetched_at": "2026-07-23T16:19:50.236756+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "SK",
+        "MU",
+        "SNDK"
+      ],
+      "direction": "bearish",
+      "summary": "用户抄底谷歌赌财报，结果亏损严重；并投资了韩股SK海力士，认为其表现最差，而其他存储股如美光、闪迪却在上涨。表达了对投资决策失误的后悔和情绪低落。",
+      "translation": "抄底谷歌赌财报结果跌成了麻瓜，按照梁总的10个月回本周期，谷歌的定价更贵云厂投入回本不成问题。存储反弹起来的时候把其他的清了留了韩股SK，结果最垃圾。其他的存储天天涨。美光和闪迪卖掉的钱买的谷歌🌚太几把脸黑了我日呐",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080301155385852230",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: US will hold Iran responsible for Houthi attacks.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080301155385852230",
+    "published_at": "2026-07-23T14:37:00+00:00",
+    "fetched_at": "2026-07-23T16:20:02.718078+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美伊紧张局势升级可能推高石油和国防类股，但整体市场可能因地缘政治风险承压。",
+      "translation": "特朗普：美国将追究伊朗对胡塞武装袭击的责任。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2080296122271355360",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1370,6 +1454,25 @@
       "summary": "该推文表达了一种消极的投资心态，认为亏损到一无所有时只能选择躺平放羊，暗示投资失败后的无奈与放弃。",
       "translation": "亏完的时候就躺着天天放羊了。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2079526047918203372",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Industries that heavily employ men are losing jobs, and the share of men working has flatlined,\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2079526047918203372",
+    "published_at": "2026-07-21T11:17:00+00:00",
+    "fetched_at": "2026-07-23T16:20:14.361608+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出男性主导行业就业岗位减少，男性就业率停滞，可能暗示劳动力市场结构性变化，对消费和整体经济构成压力，投资需谨慎。",
+      "translation": "据《华尔街日报》报道，大量雇佣男性的行业正在失去工作岗位，男性就业比例已停滞不前。",
+      "confidence": "medium"
     }
   },
   {
