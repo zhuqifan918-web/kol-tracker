@@ -1,5 +1,89 @@
 [
   {
+    "tweet_id": "2080383324028317713",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Intel, $INTC, earnings:\n\n- EPS: $0.42, est: $0.22\n- Revenue: $16.1 billion, est: $14.4 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2080383324028317713",
+    "published_at": "2026-07-23T20:03:30+00:00",
+    "fetched_at": "2026-07-23T20:13:29.442771+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "英特尔财报显示每股收益0.42美元远超预期的0.22美元，营收161亿美元也高于预期的144亿美元，业绩强劲，利好股价。",
+      "translation": "突发：英特尔（$INTC）财报：每股收益0.42美元，预期0.22美元；营收161亿美元，预期144亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080379612736221325",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AMD reached out directly to hand me some special swag!\n\nApparently they only made 30 of these bandanas? \n\nI love AMD and Lisa Su now. https://t.co/KgcYjBUcTv",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080379612736221325",
+    "published_at": "2026-07-23T19:48:45+00:00",
+    "fetched_at": "2026-07-23T20:13:12.378393+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "推文表达了作者对AMD和其CEO Lisa Su的强烈喜爱，通过收到限量版赠品增强了情感联系，可能暗示对AMD品牌和股票的积极情绪。",
+      "translation": "AMD直接联系我，送给我一些特别的周边！他们似乎只做了30条这种头巾？我现在太爱AMD和Lisa Su了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080372122937926035",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This is not a memestock.\n\nThis is Google, $GOOGL, one of the most valuable companies in the world.\n\nIt is down nearly 7% today, after earnings.\n\nIt is down more than 13% this week.\n\nIt has lost billions in marketcap. https://t.co/wdZDsVNUh9",
+    "tweet_url": "https://x.com/unusual_whales/status/2080372122937926035",
+    "published_at": "2026-07-23T19:19:00+00:00",
+    "fetched_at": "2026-07-23T20:13:33.872739+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "推特认为$GOOGL并非迷因股，而是全球最有价值的公司之一，强调其近期因财报导致股价大幅下跌（单日跌近7%，本周跌超13%），市值蒸发数十亿，但基本面坚实，暗示当前下跌可能是买入机会。",
+      "translation": "这不是一只迷因股。这是谷歌，$GOOGL，全球最有价值的公司之一。今天它在财报后下跌了近7%。本周它下跌了超过13%。它蒸发了数十亿市值。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080367776162787419",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Tesla, $TSLA, is down nearly 14% today after earnings. https://t.co/MNMMxxugK7",
+    "tweet_url": "https://x.com/unusual_whales/status/2080367776162787419",
+    "published_at": "2026-07-23T19:01:43+00:00",
+    "fetched_at": "2026-07-23T20:13:35.210086+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bearish",
+      "summary": "特斯拉股价因财报不及预期今日大跌近14%，市场情绪负面，短期看空。",
+      "translation": "特斯拉（$TSLA）今日在财报发布后下跌近14%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080362962045567154",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -159,6 +243,25 @@
       "summary": "谷歌披露持有SpaceX大量股份，凸显其对SpaceX未来价值的看好，可能间接利好谷歌自身股价。",
       "translation": "谷歌，$GOOGL，表示在SpaceX，$SPCX，IPO后持有其940亿美元股份。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080306188424720805",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: The Civil Nuclear Deal (There will be no enrichment of material!) being made between the United States Department of Energy and Saudi Arabia, which pertains only to non-military use such as the ones that Iran and UAE (and others) already have, will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080306188424720805",
+    "published_at": "2026-07-23T14:57:00+00:00",
+    "fetched_at": "2026-07-23T20:13:43.227921+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及美国与沙特阿拉伯的民用核能协议将获批，但前提是沙特加入《亚伯拉罕协议》。这可能影响地缘政治格局及能源相关投资情绪，但未直接涉及具体资产或操作建议。",
+      "translation": "特朗普：美国能源部与沙特阿拉伯正在达成的民用核协议（不会有材料浓缩！）将获批，该协议仅涉及非军事用途（如伊朗和阿联酋等已有之用途），但完全取决于沙特加入备受尊重且成功的《亚伯拉罕协议》。",
+      "confidence": "low"
     }
   },
   {

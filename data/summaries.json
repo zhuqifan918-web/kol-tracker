@@ -1,49 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
       "$AMD",
-      "$NVDA",
+      "$SIVE",
+      "$TSLA",
       "$MU",
-      "$TSLA"
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施资本支出持续增长",
-      "人形机器人规模化商业应用",
-      "光通信与硅光子技术瓶颈",
-      "存储芯片结构性短缺",
-      "AI模型需求驱动上游半导体"
+      "AI算力基础设施投资",
+      "光学与光子学瓶颈",
+      "人形机器人产业链",
+      "存储芯片结构性需求",
+      "超大规模云资本支出"
     ],
-    "recent_shift": "尽管近期市场因Meta算力传闻和CPO延迟报道出现抛售，但该账号认为基本面未变，并视回调为买入机会，对AI结构性需求保持高度信心。",
+    "recent_shift": "近期市场下跌后，作者多次强调基本面未变，认为波动来自流动性清算而非逻辑变化，并增持了相关标的。",
     "representative_quotes": [
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
-      "I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.",
-      "It's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise."
+      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life. Be present with your family. Good night fam. 💚",
+      "In the end, we can’t tell you what stocks to buy, what timeframe you should sell, how to size your positions, or what you should do. Only share personal thoughts or research and track if they get validated over time.",
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
     ],
-    "generated_at": "2026-07-23T17:54:03.639339+00:00"
+    "generated_at": "2026-07-23T20:13:51.886745+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$TSLA",
-      "$GOOGL",
-      "$AMC",
-      "$NVDA",
-      "$AAPL"
+      "TSLA",
+      "GOOGL",
+      "SPCX",
+      "INTC",
+      "AMC"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "美股大盘高位风险",
-      "地缘政治（伊朗冲突）冲击能源市场",
-      "AI投资泡沫与数据中心建设"
+      "能源与地缘政治风险",
+      "科技巨头的盈利与股价分化",
+      "美联储加息预期与市场杠杆风险"
     ],
-    "recent_shift": "近期对美国经济衰退预期升温，从偏乐观转向警示市场回调风险",
+    "recent_shift": "近期态度从均衡转向明显看空，强调地缘冲突、利率上涨与杠杆过高的风险",
     "representative_quotes": [
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets."
+      "Tesla, $TSLA, is down nearly 14% today after earnings.",
+      "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range.",
+      "Iran: We will not allow the United States to use deceptive ceasefires to replenish its oil and ammunition reserves and then resume attacks"
     ],
-    "generated_at": "2026-07-23T18:59:53.708636+00:00"
+    "generated_at": "2026-07-23T20:13:48.272349+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
