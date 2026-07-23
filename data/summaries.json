@@ -24,48 +24,49 @@
   "unusual_whales": {
     "focus_tickers": [
       "$TSLA",
+      "$GOOGL",
       "$NVDA",
-      "$AAPL",
       "$AMC",
-      "$GOOGL"
+      "$AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "科技与人工智能投资主题",
-      "地缘政治风险",
-      "宏观经济与市场情绪",
-      "立法与监管变化"
+      "中东地缘政治风险与能源价格波动",
+      "AI投资热潮与数据中心扩张",
+      "宏观货币政策与市场流动性压力",
+      "美国政治人物股票交易争议",
+      "住房市场与消费信贷压力"
     ],
-    "recent_shift": "近期推文强调市场顶部信号和杠杆风险，但未改变整体中性立场",
+    "recent_shift": "近期更强调地缘冲突升级和宏观风险，掩盖了之前对AI和科技股的乐观情绪。",
     "representative_quotes": [
-      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
-      "BREAKING: The US House will vote on the Stop Insider Trading Act, a bill meant to curb insider trading, per CNBC"
+      "BREAKING: Google, $GOOGL, earnings: - EPS: $9.1, est: $2.91 - Revenue: $119 billion, est: $116 billion",
+      "BREAKING: Tesla, $TSLA, earnings: - EPS: $0.33, est: $0.54 - Revenue: $28.2 billion, est: $26.4 billion",
+      "Trump: From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, the US will bomb one bridge or or power plant."
     ],
-    "generated_at": "2026-07-23T14:39:38.412533+00:00"
+    "generated_at": "2026-07-23T16:20:23.066629+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
-      "MU",
-      "GLW",
-      "GOOGL",
-      "MRVL"
+      "$SKHYX",
+      "$MU",
+      "$GLW",
+      "$GOOGL",
+      "$MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片是AI产业链的核心，长期需求强劲",
-      "云厂商是AI最终赢家，谷歌尤为突出",
-      "端侧AI和硬件生态形成闭环",
-      "韩国股市波动大，但存储正股有长期价值",
-      "AI物理化趋势将驱动存储需求暴增"
+      "存储是AI基石，需求长期爆发",
+      "云厂是AI最终赢家，护城河深",
+      "端侧AI硬件生态（苹果）是终极闭环",
+      "韩国股市极端波动下的杠杆风险",
+      "AI算力产业链暴涨暴跌源于市场调节与业绩匹配"
     ],
-    "recent_shift": "近期从全面看多转为更谨慎，强调仓位管理和风险控制，但长期看好存储和云厂商的逻辑未变",
+    "recent_shift": "近期从对存储整体乐观转为侧重云厂和端侧AI，同时因杠杆亏损和回调更加重视仓位管理与基本面匹配",
     "representative_quotes": [
-      "存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片",
-      "云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价",
-      "先信卖后信，要么早信要么别信，半路信亏钱活该你傻逼"
+      "云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。",
+      "存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。",
+      "对于顶尖的模型来的算力和内存一直紧缺，差生只是文具多才出租算力。"
     ],
-    "generated_at": "2026-07-23T14:39:35.601251+00:00"
+    "generated_at": "2026-07-23T16:20:20.270009+00:00"
   }
 }
