@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2080405341955936466",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NEWS: Senate Democrats have reintroduced the Cannabis Administration and Opportunity Act, aiming to completely remove marijuana from the federal Controlled Substances Act and legalize it nationally.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080405341955936466",
+    "published_at": "2026-07-23T21:31:00+00:00",
+    "fetched_at": "2026-07-23T21:33:13.916658+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国参议院民主党重新提出《大麻管理与机会法案》，旨在将大麻从联邦管制物质名单中移除并实现全国合法化。这一政策进展对大麻产业及相关上市公司构成利好，可能推动行业增长和投资机会。",
+      "translation": "新闻：参议院民主党重新提出了《大麻管理与机会法案》，旨在将大麻从联邦管制物质名单中完全移除，并在全国范围内合法化。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080397037045186917",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Donald Trump Jr's investment firm has posted a return of 200%, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2080397037045186917",
+    "published_at": "2026-07-23T20:58:00+00:00",
+    "fetched_at": "2026-07-23T21:33:15.746780+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "唐纳德·特朗普儿子的投资公司获得了200%的回报，表明其投资策略非常成功，可能暗示家族相关投资标的具有高回报潜力。",
+      "translation": "突发：据《纽约时报》报道，小唐纳德·特朗普的投资公司已实现200%的回报率。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080394259535221222",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "From $AMD Advancing AI, channel checks:\n\nHelios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking. \n\nAnd expects other hyperscalers + industry to go down the CPO route.\n\nOne AI infra executive at a company involved in a hyperscaler CPO programs said they had seen no indication of CPO scale up supply chain delays.\n\nPushing back on recent 3rd party delay reports.\n\nThis was informal commentary, not official AMD or partner guidance.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+    "published_at": "2026-07-23T20:46:57+00:00",
+    "fetched_at": "2026-07-23T21:32:55.917805+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "该推文通过渠道检查显示AMD的CPO技术计划进展顺利，且无供应链延迟迹象，对AMD未来AI网络产品构成利好。",
+      "translation": "来自AMD推进AI的渠道检查：Helios网络合作伙伴告诉我，他们预计AMD将追求CPO用于未来几代Helios规模扩展网络。并且预计其他超大规模云服务商和行业也将走CPO路线。一家参与超大规模CPO项目的AI基础设施公司高管表示，他们没有看到CPO规模化供应链有任何延迟迹象。这反驳了近期第三方的延迟报告。这是非正式评论，并非AMD或合作伙伴的官方指导。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080383324028317713",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -18,6 +77,27 @@
       "summary": "英特尔财报显示每股收益0.42美元远超预期的0.22美元，营收161亿美元也高于预期的144亿美元，业绩强劲，利好股价。",
       "translation": "突发：英特尔（$INTC）财报：每股收益0.42美元，预期0.22美元；营收161亿美元，预期144亿美元。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080382724951720433",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Call your Google. https://t.co/zAtRmFy3FV",
+    "tweet_url": "https://x.com/unusual_whales/status/2080382724951720433",
+    "published_at": "2026-07-23T20:01:07+00:00",
+    "fetched_at": "2026-07-23T21:33:18.491466+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文建议购买谷歌股票，表示看好其投资价值。",
+      "translation": "买入你的谷歌股票。",
+      "confidence": "medium"
     }
   },
   {
