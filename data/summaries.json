@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "NVDA",
-      "AMD",
-      "MU",
-      "AAOI"
+      "$SIVE",
+      "$AMD",
+      "$NVDA",
+      "$MU",
+      "$TSLA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件供应链瓶颈",
-      "CPO架构与硅光技术升级",
-      "人形机器人商业化加速"
+      "AI基础设施资本支出持续增长",
+      "人形机器人规模化商业应用",
+      "光通信与硅光子技术瓶颈",
+      "存储芯片结构性短缺",
+      "AI模型需求驱动上游半导体"
     ],
-    "recent_shift": "从专注于存储和光学瓶颈，近期更强调人形机器人和上游激光/光学供应商的结构性需求增长。",
+    "recent_shift": "尽管近期市场因Meta算力传闻和CPO延迟报道出现抛售，但该账号认为基本面未变，并视回调为买入机会，对AI结构性需求保持高度信心。",
     "representative_quotes": [
-      "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23). From Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. If they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition.",
-      "From my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it 'over' for the company if that revenue ramp hasn't even shown up in the quarterly earnings… when it's 2026?",
-      "Elon Musk: 'I think Optimus will be the biggest product ever' from Q2 earnings transcripts... It's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise."
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
+      "I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.",
+      "It's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise."
     ],
-    "generated_at": "2026-07-23T05:17:29.679110+00:00"
+    "generated_at": "2026-07-23T17:54:03.639339+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$TSLA",
       "$GOOGL",
+      "$TSLA",
       "$NVDA",
-      "$AMC",
-      "$AAPL"
+      "$AAPL",
+      "$AMC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "中东地缘政治风险与能源价格波动",
-      "AI投资热潮与数据中心扩张",
-      "宏观货币政策与市场流动性压力",
-      "美国政治人物股票交易争议",
-      "住房市场与消费信贷压力"
+      "地缘政治风险升温（美伊冲突/霍尔木兹海峡封锁）",
+      "能源价格飙升与通胀压力",
+      "市场估值偏高与杠杆达到过去顶部水平",
+      "内幕交易与监管缺失",
+      "AI行业泡沫与回调风险"
     ],
-    "recent_shift": "近期更强调地缘冲突升级和宏观风险，掩盖了之前对AI和科技股的乐观情绪。",
+    "recent_shift": "从月初对科技股和AI的乐观情绪转为警惕市场回调、地缘风险加剧和宏观失衡。",
     "representative_quotes": [
-      "BREAKING: Google, $GOOGL, earnings: - EPS: $9.1, est: $2.91 - Revenue: $119 billion, est: $116 billion",
-      "BREAKING: Tesla, $TSLA, earnings: - EPS: $0.33, est: $0.54 - Revenue: $28.2 billion, est: $26.4 billion",
-      "Trump: From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, the US will bomb one bridge or or power plant."
+      "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range.",
+      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+      "The Iran war has restarted. But America does not have a plausible plan for victory, per FT"
     ],
-    "generated_at": "2026-07-23T16:20:23.066629+00:00"
+    "generated_at": "2026-07-23T17:54:00.514149+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
