@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
-      "GOOGL",
-      "NVDA",
-      "AMC",
-      "GME"
+      "$TSLA",
+      "$NVDA",
+      "$GOOGL",
+      "$AMC",
+      "$WMB"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "科技与AI投资热潮",
-      "地缘政治风险（中东、中美）",
-      "市场泡沫与回调警告",
-      "政策与监管变化（加密禁令、内幕交易法案）",
-      "大宗商品与通胀（油价、金价）"
+      "AI基础设施与数据中心投资热潮",
+      "地缘政治风险与能源市场波动",
+      "科技巨头财报与市场预期",
+      "监管政策变化与政治人物交易",
+      "期权与专业交易策略"
     ],
-    "recent_shift": "近期对市场情绪更为谨慎，反复提及泡沫信号（保证金债务创新高、内幕交易频繁）和地缘风险，但未明确转向看空。",
+    "recent_shift": "最近从关注市场普遍看涨信号转向强调地缘政治风险和潜在市场回调，同时突出专业期权交易工具和STOCK Act违规案例。",
     "representative_quotes": [
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
-      "There will be a summer stock market pullback before possible year-end rally, per Bank of America."
+      "BREAKING: Senator Alan Armstrong just disclosed more than 700 stock trades totaling over $10 million in volume, with nearly all filed well beyond the STOCK Act's 45-day reporting deadline.",
+      "BREAKING: Tesla, $TSLA, earnings: EPS: $0.33, est: $0.54; Revenue: $28.2 billion, est: $26.4 billion",
+      "BREAKING: The US House will vote on the Stop Insider Trading Act, a bill meant to curb insider trading, per CNBC"
     ],
-    "generated_at": "2026-07-22T23:55:30.100589+00:00"
+    "generated_at": "2026-07-23T01:52:44.230498+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
