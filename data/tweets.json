@@ -1,5 +1,37 @@
 [
   {
+    "tweet_id": "2080103352340230205",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Senator Alan Armstrong just disclosed more than 700 stock trades totaling over $10 million in volume, with nearly all filed well beyond the STOCK Act's 45-day reporting deadline.\n\nArmstrong, Oklahoma's newest senator and former CEO of Williams Companies ($WMB), disclosed 703 trades on July 21, including 654 purchases and 49 sales dating back to March 2026. Of those, 701 were reported 112 to 119 days after execution, meaning almost his entire opening-week portfolio remained undisclosed for nearly four months.\n\nHis early purchases included Apple ($AAPL) worth $250,000 to $500,000, along with NVIDIA ($NVDA), Alphabet ($GOOG), ASML ($ASML), and Berkshire Hathaway ($BRK.B) at $50,000 to $100,000 each.\n\nHe also disclosed selling between $5 million and $25 million of Williams Companies ($WMB), plus additional sales of Corning ($GLW), Pfizer ($PFE), Phillips 66 ($PSX), NextEra Energy ($NEE), Nasdaq ($NDAQ), and Teledyne ($TDY).\n\nDespite hundreds of late disclosures, the penalty under the STOCK Act is typically just $200.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080103352340230205",
+    "published_at": "2026-07-23T01:31:00+00:00",
+    "fetched_at": "2026-07-23T01:52:24.719141+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WMB",
+        "AAPL",
+        "NVDA",
+        "GOOG",
+        "ASML",
+        "BRK.B",
+        "GLW",
+        "PFE",
+        "PSX",
+        "NEE",
+        "NDAQ",
+        "TDY"
+      ],
+      "direction": "neutral",
+      "summary": "该推文披露了参议员Alan Armstrong（前WMB CEO）大量迟报的交易，包括买入AAPL、NVDA、GOOG等科技股，卖出WMB等。虽涉及具体标的，但核心是关注违规延迟披露及低额罚款问题，而非明确看多或看空。",
+      "translation": "突发：参议员Alan Armstrong披露了超过700笔股票交易，总金额逾1000万美元，几乎所有交易均远超《STOCK法案》规定的45天报告截止日期。作为俄克拉荷马州新任参议员及Williams Companies前CEO，Armstrong于7月21日披露了703笔交易，包括654笔买入和49笔卖出，交易日期可追溯至2026年3月。其中701笔在交易执行后112至119天才报告，意味着其开仓首周的几乎所有持仓在近四个月内未公开。他的早期买入包括价值25万至50万美元的苹果，以及各5万至10万美元的英伟达、Alphabet、ASML和伯克希尔·哈撒韦。他还披露卖出500万至2500万美元的Williams Companies，以及额外卖出康宁、辉瑞、Phillips 66、NextEra Energy、纳斯达克和Teledyne。尽管有数百份迟报，但《STOCK法案》的罚款通常仅为200美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080064848201667069",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1129,6 +1161,27 @@
       "direction": "bearish",
       "summary": "用户后悔卖出了闪迪和美光的股票，认为卖飞了，因此当前对这两只股票持看空（卖出）方向，但情绪上是后悔的。",
       "translation": "我把闪迪和美光卖飞了我日",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079564824258941221",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran's Islamic Revolutionary Guard Corps has claimed that it launched cruise missiles at Amazon's, $AMZN, central data infrastructure in Bahrain, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2079564824258941221",
+    "published_at": "2026-07-21T13:51:05+00:00",
+    "fetched_at": "2026-07-23T01:52:29.905289+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bearish",
+      "summary": "该消息指出伊朗革命卫队声称向亚马逊在巴林的数据基础设施发射了巡航导弹，这可能威胁到亚马逊的运营稳定性和数据安全，对股价构成负面影响。",
+      "translation": "突发新闻：据CNBC报道，伊朗伊斯兰革命卫队声称已向亚马逊在巴林的核心数据基础设施发射了巡航导弹。",
       "confidence": "high"
     }
   },
