@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2080362962045567154",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The WhaleWatch livestream is up.\n\nCome check in on how the features are doing, and check in with your favourite tickers.\n\nWe're updating a lot, so come join to see the tools.\n\nSee more: https://t.co/GEly8NCElD",
+    "tweet_url": "https://x.com/unusual_whales/status/2080362962045567154",
+    "published_at": "2026-07-23T18:42:36+00:00",
+    "fetched_at": "2026-07-23T18:59:36.015325+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣传WhaleWatch的直播，展示其功能及热门股票代码更新，但未提供具体投资建议或方向。",
+      "translation": "最新消息：WhaleWatch直播已上线。快来查看功能运行情况，并关注您最喜欢的股票代码。我们正在大量更新，欢迎加入查看工具。更多信息：https://t.co/GEly8NCElD",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2080356165339546021",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The chance of a Fed rate hike this year has kept climbing, per Polymarket: https://t.co/u2GzDzbptU",
+    "tweet_url": "https://x.com/unusual_whales/status/2080356165339546021",
+    "published_at": "2026-07-23T18:15:35+00:00",
+    "fetched_at": "2026-07-23T18:59:37.546701+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推特指出美联储今年加息的可能性在上升，这对股市可能构成压力，属于偏空的市场情绪。",
+      "translation": "根据Polymarket的数据，美联储今年加息的可能性不断上升。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2080346453935845775",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
