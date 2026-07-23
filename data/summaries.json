@@ -1,49 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AMD",
-      "$SIVE",
-      "$TSLA",
-      "$MU",
-      "$NVDA"
+      "AMD",
+      "NVDA",
+      "SIVE",
+      "GOOGL",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力基础设施投资",
-      "光学与光子学瓶颈",
-      "人形机器人产业链",
-      "存储芯片结构性需求",
-      "超大规模云资本支出"
+      "AI算力军备竞赛推动上游半导体需求",
+      "光通信/CPO技术迭代带来激光器瓶颈",
+      "内存/存储结构性供不应求"
     ],
-    "recent_shift": "近期市场下跌后，作者多次强调基本面未变，认为波动来自流动性清算而非逻辑变化，并增持了相关标的。",
+    "recent_shift": "近期强调无需恐慌，认为回调主因是杠杆平仓而非基本面恶化",
     "representative_quotes": [
-      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life. Be present with your family. Good night fam. 💚",
-      "In the end, we can’t tell you what stocks to buy, what timeframe you should sell, how to size your positions, or what you should do. Only share personal thoughts or research and track if they get validated over time.",
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
+      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
+      "I personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out.",
+      "Retail tends to build conviction over price movements and imaginary charts, then lose that when a stock drops."
     ],
-    "generated_at": "2026-07-23T20:13:51.886745+00:00"
+    "generated_at": "2026-07-23T21:33:33.493553+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
       "GOOGL",
-      "SPCX",
-      "INTC",
-      "AMC"
+      "TSLA",
+      "NVDA",
+      "AMC",
+      "AAPL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "能源与地缘政治风险",
-      "科技巨头的盈利与股价分化",
-      "美联储加息预期与市场杠杆风险"
+      "盈利报告引发的市场波动",
+      "地缘政治风险与能源价格",
+      "科技股回调与人工智能投资",
+      "宏观经济与利率预期",
+      "政策变化与监管动向"
     ],
-    "recent_shift": "近期态度从均衡转向明显看空，强调地缘冲突、利率上涨与杠杆过高的风险",
+    "recent_shift": "近期表现出对盈利后的科技股下跌更为关注，并强调地缘政治风险上升。",
     "representative_quotes": [
+      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week.",
       "Tesla, $TSLA, is down nearly 14% today after earnings.",
-      "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range.",
-      "Iran: We will not allow the United States to use deceptive ceasefires to replenish its oil and ammunition reserves and then resume attacks"
+      "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets."
     ],
-    "generated_at": "2026-07-23T20:13:48.272349+00:00"
+    "generated_at": "2026-07-23T21:33:30.525499+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
