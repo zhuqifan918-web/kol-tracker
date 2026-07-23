@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GOOGL",
       "$TSLA",
+      "$GOOGL",
+      "$AMC",
       "$NVDA",
-      "$AAPL",
-      "$AMC"
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险升温（美伊冲突/霍尔木兹海峡封锁）",
-      "能源价格飙升与通胀压力",
-      "市场估值偏高与杠杆达到过去顶部水平",
-      "内幕交易与监管缺失",
-      "AI行业泡沫与回调风险"
+      "美股大盘高位风险",
+      "地缘政治（伊朗冲突）冲击能源市场",
+      "AI投资泡沫与数据中心建设"
     ],
-    "recent_shift": "从月初对科技股和AI的乐观情绪转为警惕市场回调、地缘风险加剧和宏观失衡。",
+    "recent_shift": "近期对美国经济衰退预期升温，从偏乐观转向警示市场回调风险",
     "representative_quotes": [
-      "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range.",
-      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "The Iran war has restarted. But America does not have a plausible plan for victory, per FT"
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+      "The last time insider selling reached similar levels was during the dot-com bubble, which was followed by a significant market correction.",
+      "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets."
     ],
-    "generated_at": "2026-07-23T17:54:00.514149+00:00"
+    "generated_at": "2026-07-23T18:59:53.708636+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
