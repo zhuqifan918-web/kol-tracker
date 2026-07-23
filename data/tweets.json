@@ -1,5 +1,75 @@
 [
   {
+    "tweet_id": "2080153334888182065",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-month increases topping 10% for some products\n\nCPUs were already a bottleneck, following CPU ratios due to AI inference... \n\nBut the broader trend of LTAs seems to be appearing from: \n\n- Memory, with $MU, Samsung, $SNDK, and SK Hynix signing DRAM/NAND LTAs.\n\n- Photonics, with $LITE, $COHR signing EML LTAs. And recent Trendforce reports that $AMD and hyperscalers are now pursuing CW LTAs. \n\nAnd I'm sure there's many more from MLCCs to all the way to substrates. \n\n+1 for the bottleneck investors... hard to be a \"bubble that pops\" if you have take or pay demand spanning multiple years.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080153334888182065",
+    "published_at": "2026-07-23T04:49:37+00:00",
+    "fetched_at": "2026-07-23T05:16:42.033857+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC",
+        "AMD",
+        "MU",
+        "SNDK",
+        "LITE",
+        "COHR"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出CPU、内存、光子等芯片领域出现长期供应协议（LTA），显示AI需求强劲且持续。价格大幅上涨且供应瓶颈明显，投资视角偏乐观，认为市场并非泡沫。",
+      "translation": "$INTC 和 $AMD 将与中国客户签署用于AI数据中心的CPU长期协议（路透社）。自年初以来，中国部分CPU产品价格涨幅超过40%。某些产品环比涨幅超过10%。CPU曾是瓶颈，需关注AI推理的CPU比例……但LTA的广泛趋势似乎正在出现：内存方面，$MU、三星、$SNDK、SK海力士签署DRAM/NAND LTA。光子方面，$LITE、$COHR签署EML LTA。Trendforce最新报告显示，$AMD和超大规模客户现在正在寻求CW LTA。我相信从MLCC到基板还有很多类似的案例。+1分给瓶颈投资者……如果你有多年期的保供保量需求，就很难成为“泡沫破裂”的一方。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080149813065396454",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product ever.\n\nAnd I remain convinced of that conclusion\". \n\nIt's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise.\n\nIn terms of upstream suppliers opportunities, Karn Budhiraj, VP of $TSLA supply chains stated: \n\n\"We’re seeing the same level of investment going to memory and also new specific items like metal injection molded parts, flexible printed circuits, and all sorts of nonlinear technologies...\" \n\nAnd that they had to build new supply chains from scratch. So would be interesting to look at for new supply chain supplier opportunities apart from the known ones.  \n\nJust pulled older slides and it looks like capacity targets for Fremont are 1M and Giga Texas was 10M, so at scale, $TSLA seems to be the clear US leader. If you're looking at that S-Curve opportunity ramp. \n\nOn a side note, Elon also gave a shoutout to $MU with likely reasonably priced LTAs, given his statement: \n\n\"We really appreciate Micron making room for Tesla in the years to come and giving us actually a very significant allocation on reasonable terms given the pretty insane pricing of memory these days.\" (Just for structural memory demand).  \n\nElon also gave a shoutout to Panasonic which had invested many billions in increasing battery cell production (will need to do deeper DD into Panasonic after this), then Samsung and $TSM. \n\nJust takeaways from Tesla earnings TLDR: \n\nElon tends to be directionally correct on where the future is heading, such as with EV or Space. \n\nHe seems extremely bullish on humanoids.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080149813065396454",
+    "published_at": "2026-07-23T04:35:37+00:00",
+    "fetched_at": "2026-07-23T05:16:49.887669+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA",
+        "MU",
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "埃隆·马斯克重申Optimus人形机器人将是史上最大产品，特斯拉产能目标高达百万至千万级别，同时提及美光、松下、三星和台积电作为供应链合作伙伴，对特斯拉及人形机器人相关供应链持积极看法。",
+      "translation": "这是一条来自$TSLA财报电话会议记录的推文：埃隆·马斯克在Q2财报电话会议上说：“我认为Optimus将是有史以来最伟大的产品。”甚至在Q1，埃隆就表示：“我认为Optimus将是我们最大的产品，不仅是特斯拉有史以来最大的产品，而且很可能是有史以来最大的产品。我仍然坚信这一结论。”埃隆对人形机器人的方向性和总可寻址市场如此高的信心非常罕见。在供应链上游机会方面，特斯拉供应链副总裁Karn Budhiraj表示：“我们看到同样水平的投资进入存储以及金属注射成型零件、柔性印刷电路和各种非线性技术等新特定项目。”他们不得不从零开始建立新的供应链。因此，除了已知的供应商外，寻找新的供应链供应商机会将很有趣。根据早前的幻灯片，弗里蒙特产能目标为100万，德州超级工厂为1000万，所以规模化后$TSLA显然是美国领导者。如果你在关注S曲线机会的上升期。此外，埃隆还点名感谢$MU，可能签订了合理价格的长期协议，他说：“我们非常感谢美光在未来几年为特斯拉腾出空间，并在当前内存定价相当疯狂的情况下，以合理条款给了我们非常重要的分配。”（针对结构性内存需求）。埃隆还感谢了投资数十亿美元扩大电池产量的松下（之后需要对松下进行更深入的尽职调查），以及三星和$TSM。总结特斯拉财报要点：埃隆在方向性上通常是正确的，比如电动汽车或太空领域。他对人形机器人非常看好。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080133551970742450",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get $AMC updates, subscribe to Unusual Whales.\n\nYou can see all options, stock, GEX and much more.\n\nSee more: https://t.co/tPJ0Nf7DS9",
+    "tweet_url": "https://x.com/unusual_whales/status/2080133551970742450",
+    "published_at": "2026-07-23T03:31:00+00:00",
+    "fetched_at": "2026-07-23T05:17:10.663302+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales服务，提供AMC期权、GEX等数据订阅，未给出明确投资方向。",
+      "translation": "要获取$AMC的更新，请订阅Unusual Whales。您可以查看所有期权、股票、GEX等更多信息。查看更多：https://t.co/tPJ0Nf7DS9",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080103352340230205",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

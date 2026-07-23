@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$NVDA",
-      "$AAOI",
-      "$MU",
-      "$AMZN"
+      "SIVE",
+      "NVDA",
+      "AMD",
+      "MU",
+      "AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI资本开支结构性增长，上游半导体瓶颈受益",
-      "共封装光学（CPO）与硅光子技术革命",
-      "内存/DRAM供给持续紧张，价格上行周期",
-      "人形机器人加速商业化，中美竞争格局",
-      "Neocloud和超大规模数据中心需求爆炸"
+      "AI硬件供应链瓶颈",
+      "CPO架构与硅光技术升级",
+      "人形机器人商业化加速"
     ],
-    "recent_shift": "最近观点从对市场恐慌的反思转向关注具体财报和供应链验证，强调基本面未变而情绪已过度。",
+    "recent_shift": "从专注于存储和光学瓶颈，近期更强调人形机器人和上游激光/光学供应商的结构性需求增长。",
     "representative_quotes": [
-      "I see it as long term ownership over... the next hyperscaler, 40% of the InP supply chain, leader of the next optical shift... And so on… At cheaper valuations.",
-      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
-      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
+      "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23). From Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. If they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition.",
+      "From my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it 'over' for the company if that revenue ramp hasn't even shown up in the quarterly earnings… when it's 2026?",
+      "Elon Musk: 'I think Optimus will be the biggest product ever' from Q2 earnings transcripts... It's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise."
     ],
-    "generated_at": "2026-07-22T21:35:26.365443+00:00"
+    "generated_at": "2026-07-23T05:17:29.679110+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$TSLA",
-      "$NVDA",
-      "$GOOGL",
-      "$AMC",
-      "$WMB"
+      "TSLA",
+      "NVDA",
+      "AAPL",
+      "GOOGL",
+      "AMC"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施与数据中心投资热潮",
-      "地缘政治风险与能源市场波动",
-      "科技巨头财报与市场预期",
-      "监管政策变化与政治人物交易",
-      "期权与专业交易策略"
+      "科技与AI投资",
+      "地缘政治风险与油价",
+      "监管政策变化",
+      "市场波动与资金流向",
+      "住房市场与通胀"
     ],
-    "recent_shift": "最近从关注市场普遍看涨信号转向强调地缘政治风险和潜在市场回调，同时突出专业期权交易工具和STOCK Act违规案例。",
+    "recent_shift": "近期对市场风险（如保证金贷款、地缘冲突、AI泡沫担忧）的关注增多，而早期更强调机会（如特斯拉、AMC的利好）。",
     "representative_quotes": [
-      "BREAKING: Senator Alan Armstrong just disclosed more than 700 stock trades totaling over $10 million in volume, with nearly all filed well beyond the STOCK Act's 45-day reporting deadline.",
-      "BREAKING: Tesla, $TSLA, earnings: EPS: $0.33, est: $0.54; Revenue: $28.2 billion, est: $26.4 billion",
-      "BREAKING: The US House will vote on the Stop Insider Trading Act, a bill meant to curb insider trading, per CNBC"
+      "Buying stocks with borrowed money hits levels seen at past market tops",
+      "The AI backlash is only getting started",
+      "There will be a summer stock market pullback before possible year-end rally"
     ],
-    "generated_at": "2026-07-23T01:52:44.230498+00:00"
+    "generated_at": "2026-07-23T05:17:32.054731+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
