@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "GOOGL",
-      "TSLA",
-      "NVDA",
-      "AMC",
-      "AAPL"
+      "$GOOGL",
+      "$TSLA",
+      "$NVDA",
+      "$AAPL",
+      "$TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "盈利报告引发的市场波动",
-      "地缘政治风险与能源价格",
-      "科技股回调与人工智能投资",
-      "宏观经济与利率预期",
-      "政策变化与监管动向"
+      "地缘政治风险升级（伊朗、胡塞武装、关税战）",
+      "科技巨头财报分化与AI泡沫担忧",
+      "宏观经济衰退信号（房价、利率、失业救济）",
+      "大宗商品与能源价格飙升（黄金、石油）",
+      "内幕交易与监管缺失"
     ],
-    "recent_shift": "近期表现出对盈利后的科技股下跌更为关注，并强调地缘政治风险上升。",
+    "recent_shift": "近期观点从分散关注转向集中看空科技巨头，并强化地缘风险对市场的压制。",
     "representative_quotes": [
-      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week.",
       "Tesla, $TSLA, is down nearly 14% today after earnings.",
-      "Goldman Sachs has said that the $5.3 trillion in AI spending by Meta, Microsoft, Amazon, and Alphabet through 2030 could put pressure on bond markets."
+      "BREAKING: Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg.",
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
     ],
-    "generated_at": "2026-07-23T21:33:30.525499+00:00"
+    "generated_at": "2026-07-23T22:47:33.430855+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
