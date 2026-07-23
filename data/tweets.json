@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2080420478867673317",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Dozens of America’s trading partners from Europe to China to India will face new tariffs of 10% to 12.5% on goods shipped to the United State, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2080420478867673317",
+    "published_at": "2026-07-23T22:31:09+00:00",
+    "fetched_at": "2026-07-23T22:47:17.269365+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文宣布美国将对多个贸易伙伴加征10%至12.5%的关税，这可能引发贸易摩擦升级，对依赖进口的行业和全球供应链造成负面影响，市场情绪可能承压。",
+      "translation": "突发：据CNN报道，美国对从欧洲到中国再到印度的数十个贸易伙伴运往美国的商品加征10%至12.5%的新关税。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080418899217301522",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 36% chance the Fed does 2 rate hikes in 2026, per Polymarket: https://t.co/3T898JEn8V",
+    "tweet_url": "https://x.com/unusual_whales/status/2080418899217301522",
+    "published_at": "2026-07-23T22:24:52+00:00",
+    "fetched_at": "2026-07-23T22:47:18.844913+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用了Polymarket关于美联储2026年加息两次的预测概率（36%），属于货币政策相关市场信息，对投资有参考价值，但未给出明确的方向性判断。",
+      "translation": "根据Polymarket的预测，美联储在2026年加息两次的概率为36%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080410352907690262",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Oracle, $ORCL, has signed a 10-year software contract with Pentagon worth up to $7 billion.\n\nOf note, CEO Larry Ellison recently gave $45 million to Pro-Trump groups, and has numerous initiatives with the Trump administration including a $500 billion \"Stargate\" AI data center initiative and its central data security involvement with TikTok USA, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2080410352907690262",
+    "published_at": "2026-07-23T21:50:54+00:00",
+    "fetched_at": "2026-07-23T22:47:23.065105+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ORCL"
+      ],
+      "direction": "bullish",
+      "summary": "甲骨文与五角大楼签署了高达70亿美元的10年软件合同，加上CEO拉里·埃里森与特朗普政府的密切关系推动了星门AI数据中心和TikTok美国数据安全项目，这些对ORCL股价构成多重利好。",
+      "translation": "突发：甲骨文（$ORCL）与五角大楼签署了一份价值高达70亿美元的10年软件合同。值得注意的是，CEO拉里·埃里森近期向亲特朗普团体捐赠了4500万美元，并且与特朗普政府有多个合作计划，包括价值5000亿美元的“星门”AI数据中心项目以及TikTok美国的数据安全核心参与（据CNBC报道）。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080405341955936466",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
