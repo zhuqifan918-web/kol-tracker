@@ -1,5 +1,65 @@
 [
   {
+    "tweet_id": "2080296122271355360",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ford, $F, will use Apple, $AAPL, software in its new self-driving system, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2080296122271355360",
+    "published_at": "2026-07-23T14:17:00+00:00",
+    "fetched_at": "2026-07-23T14:39:11.667791+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "F",
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "福特（F）与苹果（AAPL）合作开发新自动驾驶系统，可能提升福特的技术实力和市场信心，利好股价。苹果软件的引入也可能为苹果带来新的收入来源。",
+      "translation": "福特（$F）将在其新的自动驾驶系统中使用苹果（$AAPL）的软件，据《纽约时报》报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080287911199842804",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Initial applications for US unemployment benefits fell last week to the lowest level since 1969, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080287911199842804",
+    "published_at": "2026-07-23T13:44:22+00:00",
+    "fetched_at": "2026-07-23T14:39:14.220400+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国失业救济申请人数降至1969年以来最低，表明劳动力市场强劲，有助于提振市场信心和经济增长，对股市构成利好。",
+      "translation": "突发：据彭博社报道，上周美国初次申请失业救济金人数降至1969年以来的最低水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080285184080118126",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "最近亏的也不想说话了，\n早晨看完梁文锋的这个总结觉得有意思的点划了一下。做个记录。 https://t.co/jH0o4X3hgz",
+    "tweet_url": "https://x.com/xiaomustock/status/2080285184080118126",
+    "published_at": "2026-07-23T13:33:32+00:00",
+    "fetched_at": "2026-07-23T14:39:03.225054+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文提到最近亏损，心情不佳，但早晨阅读了梁文锋的总结，认为有趣并做了记录，内容涉及投资或市场分析。",
+      "translation": "最近亏得也不想说话了，早晨看完梁文锋的这个总结觉得有意思的点划了一下。做个记录。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2080163749965836741",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

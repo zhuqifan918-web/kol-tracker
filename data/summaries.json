@@ -23,50 +23,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AMC",
-      "TSLA",
-      "NVDA",
-      "GOOGL",
-      "AAPL"
+      "$TSLA",
+      "$NVDA",
+      "$AAPL",
+      "$AMC",
+      "$GOOGL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与市场波动",
-      "AI投资与数据中心建设热潮",
-      "监管与政策变化（如STOCK法案、Clarity法案）",
-      "市场杠杆与估值过高警告",
-      "住房市场与消费能力问题"
+      "科技与人工智能投资主题",
+      "地缘政治风险",
+      "宏观经济与市场情绪",
+      "立法与监管变化"
     ],
-    "recent_shift": "近期更多关注政治事件和风险警告，而此前偏重科技股和期权策略推广。",
+    "recent_shift": "近期推文强调市场顶部信号和杠杆风险，但未改变整体中性立场",
     "representative_quotes": [
-      "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range.",
-      "BREAKING: Senator Alan Armstrong just disclosed more than 700 stock trades totaling over $10 million in volume, with nearly all filed well beyond the STOCK Act's 45-day reporting deadline.",
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
+      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+      "BREAKING: Hedge funds pulled back from US tech stocks at a record pace over the past two months, per Goldman Sachs.",
+      "BREAKING: The US House will vote on the Stop Insider Trading Act, a bill meant to curb insider trading, per CNBC"
     ],
-    "generated_at": "2026-07-23T07:55:17.986527+00:00"
+    "generated_at": "2026-07-23T14:39:38.412533+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SKHYX",
       "MU",
-      "MRVL",
       "GLW",
-      "GOOGL"
+      "GOOGL",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（HBM/NAND）供需紧张",
-      "云端AI算力租赁与模型竞争",
-      "端侧AI与硬件生态（苹果）",
-      "物理AI与三维数据存储需求",
-      "玻璃基板（康宁）在高端芯片中的垄断地位"
+      "存储芯片是AI产业链的核心，长期需求强劲",
+      "云厂商是AI最终赢家，谷歌尤为突出",
+      "端侧AI和硬件生态形成闭环",
+      "韩国股市波动大，但存储正股有长期价值",
+      "AI物理化趋势将驱动存储需求暴增"
     ],
-    "recent_shift": "近期从看好存储芯片正股转向加仓杠杆ETF（如2x海力士），并因市场波动频繁调仓，同时对云厂（谷歌）的护城河和端侧AI（苹果）长期逻辑更加坚定。",
+    "recent_shift": "近期从全面看多转为更谨慎，强调仓位管理和风险控制，但长期看好存储和云厂商的逻辑未变",
     "representative_quotes": [
-      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡，不然破天的富贵你把握不住。",
-      "云厂恰恰能解决所有大模型公司的这种顾虑。不管谁的模型突然又又领先，那么云厂都能给调配算力过去。",
-      "最稳的商业闭环，永远是硬件+生态。"
+      "存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片",
+      "云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价",
+      "先信卖后信，要么早信要么别信，半路信亏钱活该你傻逼"
     ],
-    "generated_at": "2026-07-22T23:55:27.269786+00:00"
+    "generated_at": "2026-07-23T14:39:35.601251+00:00"
   }
 }
