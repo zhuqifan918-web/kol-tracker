@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "GOOGL",
       "TSLA",
+      "GOOGL",
       "NVDA",
-      "INTC",
+      "AMC",
       "TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "人工智能投资热潮",
-      "地缘政治风险升级",
-      "市场回调信号",
-      "能源与通胀压力",
-      "政策监管动态"
+      "人工智能基础设施建设与投资",
+      "地缘政治风险加剧",
+      "房地产市场泡沫担忧"
     ],
-    "recent_shift": "近期偏向关注AI基础设施巨额投资与地缘冲突对市场的影响，同时对高估值和杠杆风险发出警告",
+    "recent_shift": "近期偏向警告市场风险，强调高估值和杠杆水平，与前期宣传工具功能形成对比",
     "representative_quotes": [
-      "Alphabet Inc. plans to spend up to $185 billion in 2026, more than doubling its previous year's investment, to expand data centers critical for AI development.",
-      "There is a 36% chance the Fed does 2 rate hikes in 2026, per Polymarket.",
-      "Iran Navy has said that the Strait of Hormuz remains closed"
+      "This is not a memestock. This is Google, $GOOGL, ... It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
+      "The price‑to‑income ratio for young buyers is now 3.5, matching mid‑2000s bubble levels, and the modeled monthly payment on a median‑priced home is up about 64%.",
+      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
     ],
-    "generated_at": "2026-07-24T01:48:52.913538+00:00"
+    "generated_at": "2026-07-24T05:12:11.841811+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
