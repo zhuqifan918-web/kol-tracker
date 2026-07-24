@@ -27,23 +27,25 @@
     "focus_tickers": [
       "TSLA",
       "GOOGL",
-      "NVDA",
       "AMZN",
-      "SPCX"
+      "NVDA",
+      "AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "科技股波动与盈利不及预期",
-      "地缘政治风险加剧（伊朗/霍尔木兹海峡）",
-      "美联储加息预期与市场杠杆风险"
+      "宏观经济不确定性",
+      "地缘政治风险加剧",
+      "AI投资热潮下的市场泡沫",
+      "住房市场供求失衡",
+      "监管政策收紧"
     ],
-    "recent_shift": "近期态度从对AI和数据中心投资的正面预期转向关注市场杠杆水平高、地缘冲突加剧以及科技巨头股价大幅回调带来的下行风险。",
+    "recent_shift": "近几周从看多AI算力转向担忧高杠杆和地缘冲突风险叠加。",
     "representative_quotes": [
-      "Tesla, $TSLA, is down nearly 14% today after earnings.",
-      "This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
-      "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range."
+      "Hedge funds pulled back from US tech stocks at a record pace over the past two months",
+      "The U.S. is issuing record debt into a market increasingly unfriendly to profligate governments",
+      "Buying stocks with borrowed money hits levels seen at past market tops"
     ],
-    "generated_at": "2026-07-24T07:44:42.887515+00:00"
+    "generated_at": "2026-07-24T13:44:59.004613+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

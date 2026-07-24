@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2080643410734748107",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The Treasury market looks healthy, but underneath, a combustible mix is brewing: the U.S. is issuing record debt into a market increasingly unfriendly to profligate governments,\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2080643410734748107",
+    "published_at": "2026-07-24T13:17:00+00:00",
+    "fetched_at": "2026-07-24T13:44:40.108355+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引述华尔街日报，警告美国国债市场表面健康但内部风险积聚，因美国发行创纪录债务而市场对财政不负责任的政府越发不友好，暗示债市潜在负面，间接对风险资产构成压力。",
+      "translation": "华尔街日报称，国债市场看似健康，但底下正在酝酿一个易燃的组合：美国正发行创纪录债务，而市场对挥霍无度的政府越来越不友好。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080638377326510414",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Foreclosures hit highest level since 2019, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2080638377326510414",
+    "published_at": "2026-07-24T12:57:00+00:00",
+    "fetched_at": "2026-07-24T13:44:41.444442+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "止赎房屋数量达到自2019年以来的最高水平，表明房地产市场可能面临下行压力，对相关投资构成利空。",
+      "translation": "突发：自2019年以来，止赎房屋数量达到最高水平，据YF报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080517832929149120",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
