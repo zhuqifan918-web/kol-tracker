@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
-      "GOOGL",
-      "AMZN",
-      "NVDA",
-      "AAPL"
+      "$GOOGL",
+      "$TSLA",
+      "$NVDA",
+      "$AMC",
+      "$SPCX"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济不确定性",
-      "地缘政治风险加剧",
-      "AI投资热潮下的市场泡沫",
-      "住房市场供求失衡",
-      "监管政策收紧"
+      "宏观经济风险",
+      "科技股回调",
+      "地缘政治紧张"
     ],
-    "recent_shift": "近几周从看多AI算力转向担忧高杠杆和地缘冲突风险叠加。",
+    "recent_shift": "最近推文更强调市场脆弱性和回调风险，而早期推文较多关注行业利好。",
     "representative_quotes": [
-      "Hedge funds pulled back from US tech stocks at a record pace over the past two months",
-      "The U.S. is issuing record debt into a market increasingly unfriendly to profligate governments",
-      "Buying stocks with borrowed money hits levels seen at past market tops"
+      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
+      "Tesla, $TSLA, is down nearly 14% today after earnings.",
+      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
     ],
-    "generated_at": "2026-07-24T13:44:59.004613+00:00"
+    "generated_at": "2026-07-24T15:21:06.981503+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

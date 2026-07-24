@@ -1,5 +1,86 @@
 [
   {
+    "tweet_id": "2080673609572552790",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bond investors are looking for significantly higher yields on a new BlackRock-led deal compared with the terms secured just nine months ago, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2080673609572552790",
+    "published_at": "2026-07-24T15:17:00+00:00",
+    "fetched_at": "2026-07-24T15:20:44.302590+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "贝莱德主导的新债券交易要求收益率显著高于九个月前，表明融资环境趋紧，投资者需关注利率风险与信用利差变化。",
+      "translation": "债券投资者正在寻求贝莱德主导的新交易中，收益率显著高于九个月前商定的条件——据《金融时报》报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080668577443516837",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bank of Japan to keep key rate unchanged at next week's policy meeting, per Nikkei.",
+    "tweet_url": "https://x.com/unusual_whales/status/2080668577443516837",
+    "published_at": "2026-07-24T14:57:00+00:00",
+    "fetched_at": "2026-07-24T15:20:45.754727+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "日本央行下周会议预计维持利率不变，对市场影响中性，投资者需关注后续政策信号。",
+      "translation": "日本央行将在下周的政策会议上保持关键利率不变，据日经新闻。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080658510254416036",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Japanese retail traders have built their largest net short position against the U.S. dollar since records began in 2008, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2080658510254416036",
+    "published_at": "2026-07-24T14:17:00+00:00",
+    "fetched_at": "2026-07-24T15:20:48.249391+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USD"
+      ],
+      "direction": "bearish",
+      "summary": "日本散户交易者自2008年以来建立了最大的美元净空头头寸，表明对美元看跌情绪强烈，可能影响外汇市场和相关资产。",
+      "translation": "日本散户交易者自2008年以来建立了最大的美元净空头头寸，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080653728496185413",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Chinese gold imports rose to a two-year high in June, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2080653728496185413",
+    "published_at": "2026-07-24T13:58:00+00:00",
+    "fetched_at": "2026-07-24T15:20:49.953169+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GLD",
+        "IAU"
+      ],
+      "direction": "bullish",
+      "summary": "中国黄金进口量在6月升至两年高位，表明需求强劲，对黄金及相关ETF（如GLD、IAU）构成利好，黄金价格可能上涨。",
+      "translation": "据彭博社报道，中国黄金进口量在6月升至两年高位。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080643410734748107",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -35,6 +116,25 @@
       "summary": "止赎房屋数量达到自2019年以来的最高水平，表明房地产市场可能面临下行压力，对相关投资构成利空。",
       "translation": "突发：自2019年以来，止赎房屋数量达到最高水平，据YF报道。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080526137902649848",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has created the most robust earnings platform.\n\nGet all updates right on site.\n\nSee more: https://t.co/lNGVHeG6RW",
+    "tweet_url": "https://x.com/unusual_whales/status/2080526137902649848",
+    "published_at": "2026-07-24T05:31:00+00:00",
+    "fetched_at": "2026-07-24T15:21:00.894051+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文介绍Unusual Whales创建了强大的盈利平台，暗示其数据分析工具对投资者有利，但未具体涉及个股或市场方向。",
+      "translation": "Unusual Whales创建了最强大的盈利平台。所有更新可直接在网站上查看。",
+      "confidence": "low"
     }
   },
   {
