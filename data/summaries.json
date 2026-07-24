@@ -28,45 +28,45 @@
       "TSLA",
       "GOOGL",
       "NVDA",
-      "AMC",
-      "TSM"
+      "AMZN",
+      "SPCX"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "人工智能基础设施建设与投资",
-      "地缘政治风险加剧",
-      "房地产市场泡沫担忧"
+      "科技股波动与盈利不及预期",
+      "地缘政治风险加剧（伊朗/霍尔木兹海峡）",
+      "美联储加息预期与市场杠杆风险"
     ],
-    "recent_shift": "近期偏向警告市场风险，强调高估值和杠杆水平，与前期宣传工具功能形成对比",
+    "recent_shift": "近期态度从对AI和数据中心投资的正面预期转向关注市场杠杆水平高、地缘冲突加剧以及科技巨头股价大幅回调带来的下行风险。",
     "representative_quotes": [
-      "This is not a memestock. This is Google, $GOOGL, ... It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
-      "The price‑to‑income ratio for young buyers is now 3.5, matching mid‑2000s bubble levels, and the modeled monthly payment on a median‑priced home is up about 64%.",
-      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
+      "Tesla, $TSLA, is down nearly 14% today after earnings.",
+      "This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
+      "Hedge fund positioning in momentum is also stretched, and gross leverage remains near the top of its five-year range."
     ],
-    "generated_at": "2026-07-24T05:12:11.841811+00:00"
+    "generated_at": "2026-07-24T07:44:42.887515+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SKHYX",
-      "$MU",
-      "$GLW",
-      "$GOOGL",
-      "$MRVL"
+      "SKHYX",
+      "GOOGL",
+      "GLW",
+      "MU",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储是AI基石，需求长期爆发",
-      "云厂是AI最终赢家，护城河深",
-      "端侧AI硬件生态（苹果）是终极闭环",
-      "韩国股市极端波动下的杠杆风险",
-      "AI算力产业链暴涨暴跌源于市场调节与业绩匹配"
+      "AI存储需求爆发：物理AI、视频数据驱动存储量级增长",
+      "云厂长期受益：谷歌等云厂为AI军备竞赛最终赢家",
+      "端侧AI与苹果：云端算力瓶颈促使端侧换机潮",
+      "存储作为AI核心基石：无存储则无AI服务转化",
+      "可回收火箭与商业航天：中国版SpaceX利好供应链"
     ],
-    "recent_shift": "近期从对存储整体乐观转为侧重云厂和端侧AI，同时因杠杆亏损和回调更加重视仓位管理与基本面匹配",
+    "recent_shift": "从早期关注存储与AI模型竞争、杠杆爆亏，转向强调云厂护城河、端侧AI与潜在换机潮，并开始关注可回收火箭等新主题。",
     "representative_quotes": [
-      "云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。",
-      "存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。",
-      "对于顶尖的模型来的算力和内存一直紧缺，差生只是文具多才出租算力。"
+      "过去一个月利润最高50%全还回去，还倒贴13%，棒子是真该死呐，一群精神病。",
+      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去。",
+      "AI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？"
     ],
-    "generated_at": "2026-07-23T16:20:20.270009+00:00"
+    "generated_at": "2026-07-24T07:44:45.947460+00:00"
   }
 }

@@ -38,6 +38,25 @@
     }
   },
   {
+    "tweet_id": "2080505226398994837",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "如果爆亏了，\n交易也是全球最大的知识付费市场，\n就问你获没获得知识，\n花没花钱。",
+    "tweet_url": "https://x.com/xiaomustock/status/2080505226398994837",
+    "published_at": "2026-07-24T04:07:54+00:00",
+    "fetched_at": "2026-07-24T07:44:14.280423+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "作者用幽默讽刺的方式将爆亏比喻为知识付费，强调交易亏损带来的教训本身也有价值，但未给出具体投资建议或市场判断。",
+      "translation": "如果爆亏了，交易也是全球最大的知识付费市场，就问你获没获得知识，花没花钱。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2080495938909692200",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -91,6 +110,44 @@
       "direction": "bearish",
       "summary": "地缘政治冲突持续，石油基础设施再次成为攻击目标，可能对油价产生上涨压力，但供应链中断风险加剧，投资者需谨慎关注能源板块。",
       "translation": "这些评论发布之际，双方的冲突又拖入新的一周，石油基础设施再次成为攻击目标。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080472534491734036",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The bank has roughly $1.9 trillion in balance sheet assets across consumer banking, commercial banking, corporate and investment banking, and wealth and investment management, and is almost entirely focused on the US.\n\nRead more: https://t.co/Y3hiEwutsV",
+    "tweet_url": "https://x.com/unusual_whales/status/2080472534491734036",
+    "published_at": "2026-07-24T01:58:00+00:00",
+    "fetched_at": "2026-07-24T07:44:25.881340+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了某银行约1.9万亿美元的资产负债表资产配置，主要聚焦美国市场，属于基本面信息，未给出明确投资建议。",
+      "translation": "该银行在消费者银行、商业银行、企业和投资银行以及财富和投资管理方面拥有约1.9万亿美元的资产负债表资产，几乎完全专注于美国市场。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080450640359153911",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has created the most robust earnings platform.\n\nGet all updates right on site.\n\nSee more: https://t.co/lNGVHeFz2o",
+    "tweet_url": "https://x.com/unusual_whales/status/2080450640359153911",
+    "published_at": "2026-07-24T00:31:00+00:00",
+    "fetched_at": "2026-07-24T07:44:32.217455+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推特介绍了一个新的财报分析平台，该平台提供实时的财报数据和更新，有助于投资者跟踪和评估公司业绩。",
+      "translation": "Unusual Whales 创建了最强大的财报平台。立即在网站上获取所有更新。查看更多：https://t.co/lNGVHeFz2o",
       "confidence": "medium"
     }
   },
