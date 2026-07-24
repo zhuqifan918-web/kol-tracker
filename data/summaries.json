@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AMD",
-      "NVDA",
-      "SIVE",
-      "GOOGL",
-      "MU"
+      "$SIVE",
+      "$AMD",
+      "$NVDA",
+      "$MU",
+      "$AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力军备竞赛推动上游半导体需求",
-      "光通信/CPO技术迭代带来激光器瓶颈",
-      "内存/存储结构性供不应求"
+      "AI基础设施与半导体瓶颈",
+      "CPO与光子学投资机会",
+      "人形机器人与制造自动化",
+      "内存与NAND结构性短缺",
+      "Neocloud与数据中心算力增长"
     ],
-    "recent_shift": "近期强调无需恐慌，认为回调主因是杠杆平仓而非基本面恶化",
+    "recent_shift": "近期观点偏向于在回调中加仓，认为市场恐慌是流动性问题而非基本面改变，坚信光子学和机器人主题将长期跑赢。",
     "representative_quotes": [
-      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
+      "Pluggables will be around for the next 10 years. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "I personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out.",
-      "Retail tends to build conviction over price movements and imaginary charts, then lose that when a stock drops."
+      "I think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
     ],
-    "generated_at": "2026-07-23T21:33:33.493553+00:00"
+    "generated_at": "2026-07-24T01:48:50.160668+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GOOGL",
-      "$TSLA",
-      "$NVDA",
-      "$AAPL",
-      "$TSM"
+      "GOOGL",
+      "TSLA",
+      "NVDA",
+      "INTC",
+      "TSM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险升级（伊朗、胡塞武装、关税战）",
-      "科技巨头财报分化与AI泡沫担忧",
-      "宏观经济衰退信号（房价、利率、失业救济）",
-      "大宗商品与能源价格飙升（黄金、石油）",
-      "内幕交易与监管缺失"
+      "人工智能投资热潮",
+      "地缘政治风险升级",
+      "市场回调信号",
+      "能源与通胀压力",
+      "政策监管动态"
     ],
-    "recent_shift": "近期观点从分散关注转向集中看空科技巨头，并强化地缘风险对市场的压制。",
+    "recent_shift": "近期偏向关注AI基础设施巨额投资与地缘冲突对市场的影响，同时对高估值和杠杆风险发出警告",
     "representative_quotes": [
-      "Tesla, $TSLA, is down nearly 14% today after earnings.",
-      "BREAKING: Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg.",
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
+      "Alphabet Inc. plans to spend up to $185 billion in 2026, more than doubling its previous year's investment, to expand data centers critical for AI development.",
+      "There is a 36% chance the Fed does 2 rate hikes in 2026, per Polymarket.",
+      "Iran Navy has said that the Strait of Hormuz remains closed"
     ],
-    "generated_at": "2026-07-23T22:47:33.430855+00:00"
+    "generated_at": "2026-07-24T01:48:52.913538+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
