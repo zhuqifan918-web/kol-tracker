@@ -1,5 +1,71 @@
 [
   {
+    "tweet_id": "2080445777395298454",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggables will be around for the next 10 years\".\n\nThere's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay.\n\nAnd that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). \n\nAs for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. \n\nFrom the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. \n\nSo it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light.\n\nBut TLDR:\n\nLot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. \n\nFeels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+    "published_at": "2026-07-24T00:11:40+00:00",
+    "fetched_at": "2026-07-24T01:47:59.848657+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "SIVE",
+        "JBL",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "推特分析光电行业投资前景，指出插拔式光模块将长期存在，CPO是未来方向，行业需求增长快于产能，对激光器供应商利好。",
+      "translation": "不完全是针对$AAOI（他们也在研发CPO，只是商业化稍落后）。有一期播客邀请了$SIVE的CEO，名为“市场洞察：光子学与AI”。最有趣的看法是：“插拔式光模块在未来10年内仍将存在。”近期有很多关于CPO和RNG/MRC优化TAM蚕食插拔式市场的争论，但它似乎会持续下去。而且未来将有多条架构路径（CEO还提到NPO和CPO是未来5年的重要机遇）。关于挑战：Vickram表示制造能力和原材料可用性是主要瓶颈，可能指的是上游CW激光器产量瓶颈。从播客看，重点似乎放在插拔式市场因为近期TAM更大（这一点可以理解，参考$JBL和其他玩家），而CPO是北极星。所以$SIVE的并购意图如果是为了获取更多插拔式光收发器IP可能会很有趣，就像$LITE收购Cloud Light那样。但总结：未来路径多样，插拔式长期存在，CPO是行业北极星。考虑到行业需求增长速度超过所有合格激光器供应商的产能总和，每个供应商都有发展空间。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080442335499088081",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Alphabet Inc. plans to spend up to $185 billion in 2026, more than doubling its previous year's investment, to expand data centers critical for AI development. \n\nRead more: https://t.co/dzL50V3bWD",
+    "tweet_url": "https://x.com/unusual_whales/status/2080442335499088081",
+    "published_at": "2026-07-23T23:58:00+00:00",
+    "fetched_at": "2026-07-24T01:48:30.818969+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "Alphabet计划在2026年投入高达1850亿美元，是前一年的两倍多，用于扩建AI开发所需的数据中心，这反映出公司对AI基础设施的强劲投资，预示其长期增长前景乐观。",
+      "translation": "Alphabet公司计划在2026年投入高达1850亿美元，是前一年投资的两倍多，以扩建对人工智能开发至关重要的数据中心。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080433273587777597",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Is AAOI in trouble if CPO is coming soon?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080433273587777597",
+    "published_at": "2026-07-23T23:21:59+00:00",
+    "fetched_at": "2026-07-24T01:48:04.564730+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI"
+      ],
+      "direction": "bearish",
+      "summary": "该推文询问AAOI是否会因CPO即将推出而陷入困境，暗示CPO可能对AAOI构成利空，市场关注竞争或技术替代风险。",
+      "translation": "@aleabitoreddit 如果CPO即将推出，AAOI是否会有麻烦？",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2080420478867673317",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
