@@ -1,5 +1,100 @@
 [
   {
+    "tweet_id": "2080517832929149120",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The planned facilities are expected to match or exceed the size of the Memphis data centers, significantly boosting AI processing capabilities.\n\nRead more: https://t.co/PusZPuEYY5",
+    "tweet_url": "https://x.com/unusual_whales/status/2080517832929149120",
+    "published_at": "2026-07-24T04:58:00+00:00",
+    "fetched_at": "2026-07-24T05:11:39.861515+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到计划中的设施规模将匹配或超越孟菲斯数据中心，显著提升AI处理能力，对AI基础设施投资构成利好。",
+      "translation": "计划中的设施预计将匹配或超越孟菲斯数据中心的规模，大幅增强AI处理能力。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080511038424752573",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The CLARITY Act seeks to establish a comprehensive federal regulatory framework for cryptocurrencies.\n\nRead more: https://t.co/qtcgGp0KE6",
+    "tweet_url": "https://x.com/unusual_whales/status/2080511038424752573",
+    "published_at": "2026-07-24T04:31:00+00:00",
+    "fetched_at": "2026-07-24T05:11:41.319542+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及了旨在建立加密货币全面监管框架的CLARITY法案，虽未直接推荐投资，但监管动向可能影响市场情绪与合法性预期。",
+      "translation": "《CLARITY法案》旨在建立一个全面的联邦加密货币监管框架。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080495938909692200",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ninety percent of respondents view a home as a valuable investment, up from 79% in 2025.\n\nRead more: https://t.co/72oWV6N5B4",
+    "tweet_url": "https://x.com/unusual_whales/status/2080495938909692200",
+    "published_at": "2026-07-24T03:31:00+00:00",
+    "fetched_at": "2026-07-24T05:11:45.959209+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "购房意愿上升，表明房地产市场看涨情绪增强，可能对房地产相关投资产生正面影响。",
+      "translation": "90%的受访者认为房屋是一项有价值的投资，高于2025年的79%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2080487634153979958",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The price‑to‑income ratio for young buyers is now 3.5, matching mid‑2000s bubble levels, and the modeled monthly payment on a median‑priced home is up about 64%.\n\nRead more: https://t.co/Igmd88d1zr",
+    "tweet_url": "https://x.com/unusual_whales/status/2080487634153979958",
+    "published_at": "2026-07-24T02:58:00+00:00",
+    "fetched_at": "2026-07-24T05:11:48.651364+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文警示当前年轻购房者的房价收入比已回到2000年代中期泡沫时期水平，且月供涨幅达64%，暗示房地产市场过热、存在泡沫风险，可能影响房地产相关投资及整体市场情绪。",
+      "translation": "年轻购房者的房价收入比目前为3.5，与2000年代中期泡沫时期的水平相当，而中位数价格房屋的月供上涨了约64%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080480839276662959",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The comments land as strikes between the two sides drag into another week, with oil infrastructure once again in the crosshairs.\n\nRead more: https://t.co/oJkgwrRFSM",
+    "tweet_url": "https://x.com/unusual_whales/status/2080480839276662959",
+    "published_at": "2026-07-24T02:31:00+00:00",
+    "fetched_at": "2026-07-24T05:11:51.073599+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "地缘政治冲突持续，石油基础设施再次成为攻击目标，可能对油价产生上涨压力，但供应链中断风险加剧，投资者需谨慎关注能源板块。",
+      "translation": "这些评论发布之际，双方的冲突又拖入新的一周，石油基础设施再次成为攻击目标。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2080445777395298454",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -1864,6 +1959,25 @@
       "summary": "该消息指出伊朗革命卫队声称向亚马逊在巴林的数据基础设施发射了巡航导弹，这可能威胁到亚马逊的运营稳定性和数据安全，对股价构成负面影响。",
       "translation": "突发新闻：据CNBC报道，伊朗伊斯兰革命卫队声称已向亚马逊在巴林的核心数据基础设施发射了巡航导弹。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2079556246974382394",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A majority of Americans now believe buying a home is a better option than renting, marking the first time since 2023, per NAHB",
+    "tweet_url": "https://x.com/unusual_whales/status/2079556246974382394",
+    "published_at": "2026-07-21T13:17:00+00:00",
+    "fetched_at": "2026-07-24T05:11:44.430249+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文显示美国多数人认为购房优于租房，为2023年以来首次，预示着住房需求上升，对房地产及相关行业构成利好。",
+      "translation": "大多数美国人现在认为买房比租房更好，这是自2023年以来首次出现这种情况，数据来自NAHB。",
+      "confidence": "medium"
     }
   },
   {
