@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GOOGL",
-      "$TSLA",
-      "$NVDA",
-      "$AMZN",
-      "$INTC"
+      "GOOGL",
+      "TSLA",
+      "NVDA",
+      "AMZN",
+      "INTC"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险加剧",
-      "美联储加息预期升温",
-      "科技巨头业绩分化与回调",
-      "通胀与能源价格高企",
-      "市场杠杆率过高"
+      "地缘政治风险升温",
+      "AI投资泡沫与分化",
+      "利率政策不确定性",
+      "消费者压力与房地产困境",
+      "政府监管与合规"
     ],
-    "recent_shift": "近期偏向悲观，强调地缘冲突、利率风险和科技股下行，与早期推广自有产品的乐观语气形成对比。",
+    "recent_shift": "近期推文明显增加对战争、利率风险和市场顶部信号的警告，与此前更偏重产品推广形成对比。",
     "representative_quotes": [
-      "Google, $GOOGL, is down nearly 7% today, after earnings. It is down more than 13% this week.",
-      "Tesla, $TSLA, is down nearly 14% today after earnings.",
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC."
+      "The bond market is telling investors it's time to start worrying about the war again",
+      "Buying stocks with borrowed money hits levels seen at past market tops",
+      "Gold has overtaken US Treasuries in Central Bank FX reserves"
     ],
-    "generated_at": "2026-07-26T16:48:26.706956+00:00"
+    "generated_at": "2026-07-26T17:55:05.882243+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

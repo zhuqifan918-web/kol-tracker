@@ -57,6 +57,25 @@
     }
   },
   {
+    "tweet_id": "2081213165115973708",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The push comes as US planners increasingly frame large-scale combat operations as a plausible scenario rather than a Cold War relic\n\nRead more: https://t.co/caM5T5Qlal",
+    "tweet_url": "https://x.com/unusual_whales/status/2081213165115973708",
+    "published_at": "2026-07-26T03:01:00+00:00",
+    "fetched_at": "2026-07-26T17:54:55.605925+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论美国将大规模作战视为可能场景的转变，暗示国防与军工行业可能受益。",
+      "translation": "推动力来自美国规划者越来越多地将大规模作战行动视为一种合理的场景，而非冷战遗物。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2081203163928109207",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
