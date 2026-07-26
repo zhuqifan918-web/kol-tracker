@@ -135,6 +135,25 @@
     }
   },
   {
+    "tweet_id": "2081142206212211086",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump reportedly ordered the U.S. military not to proceed with planned strikes on Iran on Friday, despite previously approving the attack plans, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2081142206212211086",
+    "published_at": "2026-07-25T22:19:02+00:00",
+    "fetched_at": "2026-07-26T21:24:27.025527+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普下令取消对伊朗的军事打击计划，这一地缘政治缓和举措可能降低原油供应中断风险，对油价及相关能源类资产构成潜在利空，但市场影响需进一步观察。",
+      "translation": "突发：据Axios报道，特朗普已下令美国军方不要按照原计划于周五对伊朗进行打击，尽管此前他已批准了袭击方案。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2081137667530694990",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
