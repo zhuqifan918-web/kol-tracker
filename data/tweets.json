@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2081491098300719198",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "72% chance of a US and Iran ceasefire by August 31, per Polymarket: https://t.co/WkNqhhIQcV",
+    "tweet_url": "https://x.com/unusual_whales/status/2081491098300719198",
+    "published_at": "2026-07-26T21:25:24+00:00",
+    "fetched_at": "2026-07-26T23:27:41.437768+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国与伊朗达成停火协议的概率增加，可能缓解中东地缘政治风险，利好原油供应稳定和全球市场情绪。",
+      "translation": "根据Polymarket预测市场，美国与伊朗在8月31日前达成停火协议的概率为72%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2081394359308587105",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
