@@ -1,5 +1,228 @@
 [
   {
+    "tweet_id": "2081203163928109207",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "市场还有一个非常严重的误区，\n大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多，\n但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。\n\n马斯克已经因为买卡赚死了。\n而我们大陆，只能买3倍价格的卡，\n\n美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的ai基建印钞机。\n其他成本占比如人力成本和电力成本占比都很低，\nai研究本身是人才密度极高的行业，员工数都极其少。\n电力成本是平民化的东西也非常低，而且电力建设一直都是养老的印钞机也不可能亏损。",
+    "tweet_url": "https://x.com/xiaomustock/status/2081203163928109207",
+    "published_at": "2026-07-26T02:21:15+00:00",
+    "fetched_at": "2026-07-26T11:13:52.608814+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出市场对中美AI投资的误区：美区1万亿美金投资主要流向算力卡等硬件，这些硬件能直接转化为收入；而大陆买卡成本高3倍，投资效率低。隐含看空大陆AI相关投资，看多美国AI基建硬件供应商（如NVIDIA），但对大陆AI板块偏空。",
+      "translation": "市场还有一个非常严重的误区，大陆AI投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多，但是投出去的钱大都买的是算力卡存储卡CPU卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。马斯克已经因为买卡赚死了。而我们大陆，只能买3倍价格的卡，美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的AI基建印钞机。其他成本如人力和电力成本占比都很低，AI研究本身是人才密度极高的行业，员工数都极其少。电力成本是平民化的东西也非常低，而且电力建设一直都是养老的印钞机也不可能亏损。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081183424342270321",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月，\n谷歌这些云厂和claude他们投资回报的转化速度可以更快。",
+    "tweet_url": "https://x.com/xiaomustock/status/2081183424342270321",
+    "published_at": "2026-07-26T01:02:49+00:00",
+    "fetched_at": "2026-07-26T11:13:54.652283+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了存储领域的真实需求缺口，并对比了华为与谷歌等云厂商的投资回报速度，暗示谷歌及Claude等云厂商的投资回报转化更快，但未明确给出买卖建议。",
+      "translation": "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月，谷歌这些云厂和claude他们投资回报的转化速度可以更快。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081182965879411036",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"AI could shrink income tax revenue and threaten economies,\" per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2081182965879411036",
+    "published_at": "2026-07-26T01:01:00+00:00",
+    "fetched_at": "2026-07-26T11:14:10.755710+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出AI技术可能减少所得税收入，进而对经济构成威胁，属于宏观经济和财政政策层面的讨论，对整体市场情绪有偏空影响，但未涉及具体投资标的。",
+      "translation": "据彭博社报道，人工智能可能会减少所得税收入并威胁到经济。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081137667530694990",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The bond market is telling investors it's time to start worrying about the war again,\" per BI",
+    "tweet_url": "https://x.com/unusual_whales/status/2081137667530694990",
+    "published_at": "2026-07-25T22:01:00+00:00",
+    "fetched_at": "2026-07-26T11:14:15.237826+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用BI的观点，认为债券市场信号表明投资者应开始担忧战争风险，暗示市场可能面临避险情绪和下行压力。",
+      "translation": "据商业内幕报道，债券市场正在告诉投资者，是时候再次担心战争了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081122568011219173",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Instagram, $META, is now banning pickup artists and pranksters who use Meta glasses, per BI",
+    "tweet_url": "https://x.com/unusual_whales/status/2081122568011219173",
+    "published_at": "2026-07-25T21:01:00+00:00",
+    "fetched_at": "2026-07-26T11:14:17.209004+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到Meta旗下Instagram因政策调整而屏蔽特定用户行为，短期内对META股价影响中性，但可能反映平台治理风险或用户增长隐忧，需关注后续监管及用户反应。",
+      "translation": "Instagram，即$META，现在正在禁止使用Meta眼镜的搭讪艺术家和恶作剧者，根据BI报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081107468428488844",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Trump's posts don't move markets like they used to,\" per Morgan Stanley",
+    "tweet_url": "https://x.com/unusual_whales/status/2081107468428488844",
+    "published_at": "2026-07-25T20:01:00+00:00",
+    "fetched_at": "2026-07-26T11:14:18.802862+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "摩根士丹利指出特朗普的推文对市场的影响力已经减弱，暗示市场对政治事件的敏感度降低。投资者可能需重新评估政治因素在交易决策中的权重。",
+      "translation": "摩根士丹利表示，特朗普的帖子不再像过去那样影响市场。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081062170025157020",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jeff Bezos of $AMZN is eyeing up a stake in Liverpool FC, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2081062170025157020",
+    "published_at": "2026-07-25T17:01:00+00:00",
+    "fetched_at": "2026-07-26T11:14:22.287521+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "neutral",
+      "summary": "杰夫·贝索斯有意收购利物浦足球俱乐部股份，这对$AMZN股价没有直接影响，但可能引发市场对亚马逊多元化投资的猜测。",
+      "translation": "据《财富》杂志报道，亚马逊的杰夫·贝索斯正在留意收购利物浦足球俱乐部的股份。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2081016871588155544",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Now this is cool.\n\nYou can see which way the market is moving with Market Maps. \n\nThis lets you follow the change in a market, noticing specific trends in a given sector. \n\nCheck it out: https://t.co/M0skwOZ4Qd https://t.co/h5p2TAhTxW",
+    "tweet_url": "https://x.com/unusual_whales/status/2081016871588155544",
+    "published_at": "2026-07-25T14:01:00+00:00",
+    "fetched_at": "2026-07-26T11:14:26.743218+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文介绍了一种名为Market Maps的工具，用于跟踪市场趋势和板块变化，但没有提供具体的投资方向或建议。",
+      "translation": "这真是太酷了。你可以通过市场地图看到市场的走势。这让你能够跟随市场的变化，注意到特定板块的趋势。快来看看：https://t.co/M0skwOZ4Qd https://t.co/h5p2TAhTxW",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2080889557877424462",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我不明白市场听了梁文峰的讲话，为啥还担心负现金流的问题。\n10个月回本哦，年华100%+的apr，这是什么生意，不借个倾家荡产都算保守吧。\nai真实有史以来最牛逼的生意\n存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了\nopenai claude：我定价贵十倍。\n尼玛，这是什么利润率啊，白粉都要哭出来",
+    "tweet_url": "https://x.com/xiaomustock/status/2080889557877424462",
+    "published_at": "2026-07-25T05:35:06+00:00",
+    "fetched_at": "2026-07-26T11:13:49.723201+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强烈看多AI产业链，认为英伟达等公司利润率极高，AI业务回本快、收益惊人，是历史最佳生意。",
+      "translation": "我不明白市场听了梁文峰的讲话，为啥还担心负现金流的问题。10个月回本哦，年化100%+的APR，这是什么生意，不借个倾家荡产都算保守吧。AI真实有史以来最牛逼的生意。存储利润率80%多，卖给英伟达，英伟达利润率66%卖给DS和OpenAI，DS说我赚得少，我10个月回本就够了。OpenAI和Claude：我定价贵十倍。尼玛，这是什么利润率啊，白粉都要哭出来。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080750537121874206",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that $NBIS Avride, other neutral players, or vertical integration would be the optimal path forward.\n\nNow their own partner Waymo looks to be the strongest disruptor to Uber.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080750537121874206",
+    "published_at": "2026-07-24T20:22:41+00:00",
+    "fetched_at": "2026-07-26T11:13:23.328885+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "UBER",
+        "NBIS"
+      ],
+      "direction": "bearish",
+      "summary": "推文分析Uber与Waymo分拆的影响，认为Waymo将成为Uber的强劲颠覆者，对Uber看空。",
+      "translation": "你看，$GOOGL Waymo正考虑与$UBER分拆，据《金融时报》报道。我去年就认为Uber与Waymo合作是个糟糕的选择……因为Uber只会成为谷歌在扩大规模时所需的分发漏斗。而$NBIS Avride、其他中立玩家或垂直整合才是最佳路径。现在，他们自己的合作伙伴Waymo看起来将成为Uber最强大的颠覆者。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080689966045348047",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Jensen from $NVDA has joined X for the first time to share his letter on open models.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080689966045348047",
+    "published_at": "2026-07-24T16:21:59+00:00",
+    "fetched_at": "2026-07-26T11:13:32.934225+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "英伟达CEO黄仁勋首次加入X平台并发布关于开放模型的公开信。这虽非直接投资建议，但可能暗示公司对开源生态的关注，影响长期战略。",
+      "translation": "来自$NVDA的Jensen首次加入X，分享了他关于开放模型的公开信。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2080673609572552790",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -77,6 +300,27 @@
       "direction": "bullish",
       "summary": "中国黄金进口量在6月升至两年高位，表明需求强劲，对黄金及相关ETF（如GLD、IAU）构成利好，黄金价格可能上涨。",
       "translation": "据彭博社报道，中国黄金进口量在6月升至两年高位。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080643682408321103",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2080643682408321103",
+    "published_at": "2026-07-24T13:18:05+00:00",
+    "fetched_at": "2026-07-26T11:13:37.337153+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "NVIDIA签署了一封支持开放模型重要性的公开信，强调开放模型有助于安全、创新和各国主权，暗示对AI行业利好，进而对NVIDIA前景积极。",
+      "translation": "在我的第一条帖子中，我分享了一封由@NVIDIA签署的关于开放模型重要性的信。AI将改变每个行业、赋能每家公司，并被每个国家构建。开放模型能加强安全性和网络安全，加速创新和扩散，并实现主权。世界需要前沿的封闭模型和前沿的开放模型。链接：https://t.co/AUKzoQ5Ikb",
       "confidence": "high"
     }
   },
@@ -29568,6 +29812,28 @@
       "summary": "该推文看好光子学板块，特别是AAOI和LITE。AAOI作为小型美制光子学公司，受益于800G升级周期、AWS和微软等超大规模客户，以及美国本土制造的地缘政治优势，当前估值较低，具有不对称风险收益比。",
       "translation": "我买入了$ALAB、$NBIS、$TSM和$LITE，因为Mag7的收入正涌入这些公司。LITE因其在GOOGL TPU v7、AMZN Trainium v3/4和NVDA Blackwell中的角色而独特。但我发现了一个新标的：一只市值低于30亿美元的小盘股——$AAOI。这是一家小型光子学公司，也是我投资的两家光子学公司之一：1. Lumentum在每一款芯片部署/升级中都有独特位置，其光路交换技术用于Blackwell、Trainium和Ironwood，作为‘横向扩展’技术。$LITE无论怎样都赢——超大规模ASIC vs GPU，因为它处于中心位置。2. Applied Optoelectronics更侧重于‘纵向扩展’连接，用于定制ASIC集群（如Trainium、Maia），通过400G和800G光缆和收发器。$AAOI同样无论怎样都赢，因为它在AWS的Trainium角色和微软的Maia ASIC中都有大客户。行业正处于由800G速度迁移驱动的‘超级周期’，AAOI处于核心。此外，AAOI有独特的地缘政治角度——美国优先。与许多无晶圆厂并将生产外包到台湾的公司不同，AAOI在德克萨斯州自己制造激光器。美国超大规模云商（特别是亚马逊和微软）正积极减少对中国供应链的依赖，这对AAOI的国内激光器制造能力有利。我们看到另一家‘主要超大规模云商’对其800G数据中心收发器下了大订单。但AAOI的交易价格像一家濒临破产的公司；然而，其与亚马逊权证协议隐含的收入在2025年第四季度和2026年800G升级中创造了不对称的风险收益比。AAOI似乎被结构性低估，考虑到其在AI建设中的角色和现有超大规模合同。市场终于开始重视LITE，但感觉$AAOI尚未启动，因其小市值和作为超大规模ASIC集群关键参与者及‘美国制造’的独特角度。市场正在大力重估光子学板块并给予高溢价，而AAOI今年仅上涨2.20%，似乎正要开始。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "1996371542369034395",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@Jason I'm 100% sure $UBER would not partner with Waymo in all cities. If you were Uber, why would you funnel all your users into the Waymo app one day?\n\nInstead of partnering with another FSD-4 player $NBIS avride that they partially own + doesn't have a standalone competitor? https://t.co/BE9J3sl72O",
+    "tweet_url": "https://x.com/aleabitoreddit/status/1996371542369034395",
+    "published_at": "2025-12-04T00:10:41+00:00",
+    "fetched_at": "2026-07-26T11:13:28.901070+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "UBER",
+        "NBIS"
+      ],
+      "direction": "bearish",
+      "summary": "该推文对Uber与Waymo的合作前景持悲观态度，认为Uber更可能支持其部分持股的自动驾驶公司Avride（NBIS），而非帮助竞争对手Waymo。这暗示Uber可能与NBIS更紧密合作，削弱Waymo的潜在优势，对投资者而言是Uber和NBIS的题材，但Waymo方面未上市，需注意NBIS的利好。",
+      "translation": "贾森，我百分百确定$UBER不会在所有城市与Waymo合作。如果你是Uber，为什么有一天要把所有用户引流到Waymo的应用程序里？为什么不与其部分持股、且没有独立竞争对手的另一个FSD-4玩家$NBIS avride合作？",
+      "confidence": "medium"
     }
   },
   {

@@ -25,48 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GOOGL",
       "$TSLA",
+      "$GOOGL",
       "$NVDA",
-      "$AMC",
-      "$SPCX"
+      "$AMZN",
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济风险",
-      "科技股回调",
-      "地缘政治紧张"
+      "地缘政治风险加剧",
+      "AI投资泡沫与回调",
+      "债券市场危机信号",
+      "美国债务与通胀压力",
+      "房产市场高估"
     ],
-    "recent_shift": "最近推文更强调市场脆弱性和回调风险，而早期推文较多关注行业利好。",
+    "recent_shift": "近期从关注AI和数据中心扩张，转向强调伊朗冲突、债券风险、滞涨信号以及个股（特斯拉、谷歌）大跌后的市场脆弱性",
     "representative_quotes": [
-      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
-      "Tesla, $TSLA, is down nearly 14% today after earnings.",
-      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
+      "This is not a memestock.\nThis is Google, $GOOGL, one of the most valuable companies in the world.\nIt is down nearly 7% today, after earnings.\nIt is down more than 13% this week.\nIt has lost billions in marketcap.",
+      "\"The Treasury market looks healthy, but underneath, a combustible mix is brewing: the U.S. is issuing record debt into a market increasingly unfriendly to profligate governments,\" per WSJ",
+      "BREAKING: Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg."
     ],
-    "generated_at": "2026-07-24T15:21:06.981503+00:00"
+    "generated_at": "2026-07-26T11:14:32.490966+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SKHYX",
       "GOOGL",
-      "GLW",
       "MU",
+      "GLW",
       "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI存储需求爆发：物理AI、视频数据驱动存储量级增长",
-      "云厂长期受益：谷歌等云厂为AI军备竞赛最终赢家",
-      "端侧AI与苹果：云端算力瓶颈促使端侧换机潮",
-      "存储作为AI核心基石：无存储则无AI服务转化",
-      "可回收火箭与商业航天：中国版SpaceX利好供应链"
+      "存储芯片（HBM/内存）是AI基础设施核心瓶颈",
+      "云计算厂商（谷歌、亚马逊）是AI最终赢家",
+      "端侧AI和苹果生态是长期商业闭环",
+      "康宁玻璃基板是高端芯片唯一解决方案",
+      "存储投资回报率高，AI军备竞赛带来巨大需求"
     ],
-    "recent_shift": "从早期关注存储与AI模型竞争、杠杆爆亏，转向强调云厂护城河、端侧AI与潜在换机潮，并开始关注可回收火箭等新主题。",
+    "recent_shift": "近期更强调存储和云厂的投资回报确定性，认为大模型公司护城河弱，云厂和存储才是长期受益者。",
     "representative_quotes": [
-      "过去一个月利润最高50%全还回去，还倒贴13%，棒子是真该死呐，一群精神病。",
-      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去。",
-      "AI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？"
+      "10个月回本哦，年华100%+的apr，这是什么生意，不借个倾家荡产都算保守吧。ai真实有史以来最牛逼的生意",
+      "不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。谷歌兼具大模型和云厂俩大业务真可能被他笑到最后",
+      "存储起来，说明ai未来光明，其他概念才有机会，才值得抄底"
     ],
-    "generated_at": "2026-07-24T07:44:45.947460+00:00"
+    "generated_at": "2026-07-26T11:14:35.781195+00:00"
   }
 }
