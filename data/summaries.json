@@ -29,23 +29,23 @@
       "$TSLA",
       "$NVDA",
       "$AMZN",
-      "$META"
+      "$INTC"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与战争溢价",
-      "AI投资与监管博弈",
-      "市场杠杆与泡沫风险",
-      "利率政策不确定性",
-      "住房与消费压力加剧"
+      "市场波动加剧与避险情绪",
+      "地缘政治风险与油价冲击",
+      "科技股剧烈回调与AI投资分歧",
+      "美联储政策不确定性",
+      "住房和消费者负担能力下降"
     ],
-    "recent_shift": "近期强调战争升级、债券市场担忧和AI负面新闻，与此前推广工具的乐观语气形成对比。",
+    "recent_shift": "近期明显转向更谨慎，突出市场泡沫风险、地缘冲突和经济压力，而早期更多关注产品发布和工具推广。",
     "representative_quotes": [
-      "The bond market is telling investors it's time to start worrying about the war again",
-      "Buying stocks with borrowed money hits levels seen at past market tops",
-      "AI could shrink income tax revenue and threaten economies"
+      "This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week.",
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+      "Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg."
     ],
-    "generated_at": "2026-07-26T14:24:41.202617+00:00"
+    "generated_at": "2026-07-26T15:36:41.827402+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
