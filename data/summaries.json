@@ -25,25 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
-      "GOOGL",
-      "NVDA",
-      "AAPL",
-      "AMZN"
+      "$GOOGL",
+      "$TSLA",
+      "$NVDA",
+      "$AMZN",
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险升温",
-      "科技巨头财报不及预期",
-      "市场风险偏好下降"
+      "地缘政治风险与战争溢价",
+      "科技股盈利分化与AI投资泡沫",
+      "央行政策转向与利率不确定性"
     ],
-    "recent_shift": "近期从对科技创新的乐观转向关注地缘紧张和经济逆风",
+    "recent_shift": "近期态度从谨慎转向偏空，强调战争风险、负债交易见顶及科技股回调",
     "representative_quotes": [
-      "Tesla, $TSLA, is down nearly 14% today after earnings.",
-      "The Iran war has restarted. But America does not have a plausible plan for victory.",
-      "Buying stocks with borrowed money hits levels seen at past market tops."
+      "The bond market is telling investors it's time to start worrying about the war again",
+      "Buying stocks with borrowed money hits levels seen at past market tops",
+      "Tesla, $TSLA, is down nearly 14% today after earnings."
     ],
-    "generated_at": "2026-07-26T21:24:30.992155+00:00"
+    "generated_at": "2026-07-26T23:28:02.415598+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
