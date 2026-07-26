@@ -28,24 +28,24 @@
       "$TSLA",
       "$GOOGL",
       "$NVDA",
-      "$AMZN",
-      "$AAPL"
+      "$AAPL",
+      "$AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险加剧",
-      "AI投资泡沫与回调",
-      "债券市场危机信号",
-      "美国债务与通胀压力",
-      "房产市场高估"
+      "AI与数据中心投资热潮",
+      "地缘政治风险与油价",
+      "美国利率与债券市场波动",
+      "住房与消费信贷压力",
+      "加密与内部交易监管"
     ],
-    "recent_shift": "近期从关注AI和数据中心扩张，转向强调伊朗冲突、债券风险、滞涨信号以及个股（特斯拉、谷歌）大跌后的市场脆弱性",
+    "recent_shift": "R近期更强调AI投资回报开始证明数据中心支出合理性，但同时也指出债券市场信号及战争风险重新抬头。",
     "representative_quotes": [
-      "This is not a memestock.\nThis is Google, $GOOGL, one of the most valuable companies in the world.\nIt is down nearly 7% today, after earnings.\nIt is down more than 13% this week.\nIt has lost billions in marketcap.",
+      "\"AI sales start to justify data-center spending boom,\" per Bloomberg",
       "\"The Treasury market looks healthy, but underneath, a combustible mix is brewing: the U.S. is issuing record debt into a market increasingly unfriendly to profligate governments,\" per WSJ",
-      "BREAKING: Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg."
+      "\"The bond market is telling investors it's time to start worrying about the war again,\" per BI"
     ],
-    "generated_at": "2026-07-26T11:14:32.490966+00:00"
+    "generated_at": "2026-07-26T12:36:56.909731+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
