@@ -33,19 +33,19 @@
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场波动加剧与避险情绪",
-      "地缘政治风险与油价冲击",
-      "科技股剧烈回调与AI投资分歧",
-      "美联储政策不确定性",
-      "住房和消费者负担能力下降"
+      "地缘政治风险加剧",
+      "美联储加息预期升温",
+      "科技巨头业绩分化与回调",
+      "通胀与能源价格高企",
+      "市场杠杆率过高"
     ],
-    "recent_shift": "近期明显转向更谨慎，突出市场泡沫风险、地缘冲突和经济压力，而早期更多关注产品发布和工具推广。",
+    "recent_shift": "近期偏向悲观，强调地缘冲突、利率风险和科技股下行，与早期推广自有产品的乐观语气形成对比。",
     "representative_quotes": [
-      "This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week.",
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg."
+      "Google, $GOOGL, is down nearly 7% today, after earnings. It is down more than 13% this week.",
+      "Tesla, $TSLA, is down nearly 14% today after earnings.",
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC."
     ],
-    "generated_at": "2026-07-26T15:36:41.827402+00:00"
+    "generated_at": "2026-07-26T16:48:26.706956+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
