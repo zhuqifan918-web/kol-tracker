@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$TSLA",
       "$GOOGL",
+      "$TSLA",
       "$NVDA",
-      "$AAPL",
-      "$AMZN"
+      "$AMZN",
+      "$META"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI与数据中心投资热潮",
-      "地缘政治风险与油价",
-      "美国利率与债券市场波动",
-      "住房与消费信贷压力",
-      "加密与内部交易监管"
+      "地缘政治风险与战争溢价",
+      "AI投资与监管博弈",
+      "市场杠杆与泡沫风险",
+      "利率政策不确定性",
+      "住房与消费压力加剧"
     ],
-    "recent_shift": "R近期更强调AI投资回报开始证明数据中心支出合理性，但同时也指出债券市场信号及战争风险重新抬头。",
+    "recent_shift": "近期强调战争升级、债券市场担忧和AI负面新闻，与此前推广工具的乐观语气形成对比。",
     "representative_quotes": [
-      "\"AI sales start to justify data-center spending boom,\" per Bloomberg",
-      "\"The Treasury market looks healthy, but underneath, a combustible mix is brewing: the U.S. is issuing record debt into a market increasingly unfriendly to profligate governments,\" per WSJ",
-      "\"The bond market is telling investors it's time to start worrying about the war again,\" per BI"
+      "The bond market is telling investors it's time to start worrying about the war again",
+      "Buying stocks with borrowed money hits levels seen at past market tops",
+      "AI could shrink income tax revenue and threaten economies"
     ],
-    "generated_at": "2026-07-26T12:36:56.909731+00:00"
+    "generated_at": "2026-07-26T14:24:41.202617+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
