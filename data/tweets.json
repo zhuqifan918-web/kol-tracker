@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2081531276755177915",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: Mr. Whale is a lot more useful when you know what to actually ask it.\n\nIn this @unusual_whales video, I use Mr. Whale to dig through real platform data instead of just asking random market questions.\n\nIn this video, you’ll learn how to use it for:\n• Finding high volume contracts\n• Reading Market Tide\n• Comparing tickers\n• Building charts and tables\n• Organizing flow data faster\n\nThe goal is not having AI make trades for you.\nIt is using it to understand the data quicker.\n\nWatch here:\nhttps://t.co/AI2zJhCKxb\n\nIf you’ve always wanted to try @unusual_whales, you can save 10% on your annual or monthly subscription with the link below:\nhttps://t.co/cNSsGRMLi1",
+    "tweet_url": "https://x.com/unusual_whales/status/2081531276755177915",
+    "published_at": "2026-07-27T00:05:04+00:00",
+    "fetched_at": "2026-07-27T01:06:56.668345+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales平台上的Mr. Whale AI工具，强调其帮助用户更快分析市场数据（如高成交量合约、市场潮汐）、比较股票、构建图表和表格，而非直接进行交易。目的是提升数据理解效率，并附带订阅折扣链接。",
+      "translation": "转发@AnthonySandford：当你知道要问什么时，Mr. Whale会更有用。在这个@unusual_whales视频中，我使用Mr. Whale深入挖掘真实平台数据，而不是随意问市场问题。视频中你将学习如何用它来：查找高成交量合约、解读市场潮汐、比较股票、构建图表和表格、更快整理流量数据。目标不是让AI替你交易，而是帮你更快理解数据。观看地址：https://t.co/AI2zJhCKxb 如果你想试试Unusual Whales，通过下方链接订阅年付或月付可省10%：https://t.co/cNSsGRMLi1",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081530254364209600",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Shoppers are buying fewer items than a year ago, and grocery sales are declining as weakening unit sales are now outweighing rising prices, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2081530254364209600",
+    "published_at": "2026-07-27T00:01:00+00:00",
+    "fetched_at": "2026-07-27T01:06:58.412389+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "消费者购买力下降，食品杂货销售下滑，单位销售下降已超过价格上涨的影响，暗示消费类股票和整体经济可能面临逆风。",
+      "translation": "突发消息：消费者购买的商品数量较一年前减少，食品杂货销售下滑，单位销售疲软已开始超过价格上涨的影响。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081525324416991520",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Nvidia, $NVDA, is in talks to provide a $250 billion financial backstop for OpenAI to lease a massive data center project in Ohio, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2081525324416991520",
+    "published_at": "2026-07-26T23:41:24+00:00",
+    "fetched_at": "2026-07-27T01:07:00.227634+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "英伟达（NVDA）正洽谈向OpenAI提供2500亿美元财务支持，用于俄亥俄州大型数据中心项目。该合作若达成，将强化NVDA在AI基础设施领域的领导地位，但具体条款和影响尚待确认。",
+      "translation": "突发：据《华尔街日报》报道，英伟达（NVDA）正在洽谈向OpenAI提供2500亿美元的财务支持，用于租赁俄亥俄州的一个大型数据中心项目。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2081491098300719198",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
