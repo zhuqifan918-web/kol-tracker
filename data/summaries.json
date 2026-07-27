@@ -1,74 +1,70 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "$NVDA",
       "$SIVE",
       "$AMD",
-      "$NVDA",
-      "$MU",
+      "$GOOGL",
       "$AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与半导体瓶颈",
-      "CPO与光子学投资机会",
-      "人形机器人与制造自动化",
-      "内存与NAND结构性短缺",
-      "Neocloud与数据中心算力增长"
+      "AI基础设施资本支出结构性增长",
+      "光子学/CPO架构转型",
+      "内存与光电供应链瓶颈",
+      "机器人与人类新产业",
+      "边缘计算与AI模型竞争"
     ],
-    "recent_shift": "近期观点偏向于在回调中加仓，认为市场恐慌是流动性问题而非基本面改变，坚信光子学和机器人主题将长期跑赢。",
+    "recent_shift": "最近更强调非基本面驱动的波动后反弹机会，并确认光子学路线图未变。",
     "representative_quotes": [
-      "Pluggables will be around for the next 10 years. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
-      "I personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out.",
-      "I think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
+      "Elon Musk: 'I think Optimus will be the biggest product ever' from Q2 earnings transcripts.",
+      "Basically the amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others.",
+      "I have conviction that all these themes are backed by structural revenue growth or technological shifts."
     ],
-    "generated_at": "2026-07-24T01:48:50.160668+00:00"
+    "generated_at": "2026-07-27T05:03:26.702937+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
-      "NVDA",
-      "GOOGL",
-      "AAPL",
-      "AMZN"
+      "$NVDA",
+      "$TSLA",
+      "$GOOGL",
+      "$AMZN",
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "经济和消费者数据疲软",
-      "地缘政治冲突升级",
-      "AI和科技投资热潮",
-      "市场估值和杠杆风险",
-      "加密货币和监管政策变化"
+      "地缘政治风险升级",
+      "科技股业绩波动与AI投资热潮",
+      "市场杠杆与泡沫风险"
     ],
-    "recent_shift": "",
+    "recent_shift": "从早期对AI和科技股的乐观转向关注大规模数据支出、高杠杆水平和地缘冲突带来的下行风险",
     "representative_quotes": [
-      "Shoppers are buying fewer items than a year ago, and grocery sales are declining as weakening unit sales are now outweighing rising prices",
-      "Buying stocks with borrowed money hits levels seen at past market tops",
-      "The bond market is telling investors it's time to start worrying about the war again"
+      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week.",
+      "\"Buying stock with borrowed money reaches level of past market tops: 'Very bearish looking',\" per CNBC",
+      "The bond market is telling investors it's time to start worrying about the war again, per BI"
     ],
-    "generated_at": "2026-07-27T01:07:19.469365+00:00"
+    "generated_at": "2026-07-27T05:03:23.308925+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SKHYX",
-      "GOOGL",
       "MU",
-      "GLW",
-      "MRVL"
+      "GOOGL",
+      "MRVL",
+      "GLW"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（HBM/内存）是AI基础设施核心瓶颈",
-      "云计算厂商（谷歌、亚马逊）是AI最终赢家",
-      "端侧AI和苹果生态是长期商业闭环",
-      "康宁玻璃基板是高端芯片唯一解决方案",
-      "存储投资回报率高，AI军备竞赛带来巨大需求"
+      "存储（HBM/内存）供不应求为核心AI基建",
+      "云厂（谷歌/亚马逊）是最稳固的AI赢家",
+      "长期看好AI推理卡与玻璃基板需求"
     ],
-    "recent_shift": "近期更强调存储和云厂的投资回报确定性，认为大模型公司护城河弱，云厂和存储才是长期受益者。",
+    "recent_shift": "近期从频繁短线交易转向强调仓位管理和长期持有，并更加关注云厂和康宁的长期价值",
     "representative_quotes": [
-      "10个月回本哦，年华100%+的apr，这是什么生意，不借个倾家荡产都算保守吧。ai真实有史以来最牛逼的生意",
-      "不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。谷歌兼具大模型和云厂俩大业务真可能被他笑到最后",
-      "存储起来，说明ai未来光明，其他概念才有机会，才值得抄底"
+      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
+      "云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。",
+      "持有康宁 $GLW 要强大的耐心，2年十倍。"
     ],
-    "generated_at": "2026-07-26T11:14:35.781195+00:00"
+    "generated_at": "2026-07-27T05:03:29.881062+00:00"
   }
 }

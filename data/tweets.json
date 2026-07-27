@@ -1,5 +1,90 @@
 [
   {
+    "tweet_id": "2081583233792413948",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "49.9和51.3抄了25万股南海2x，赌个反弹，相比于长鑫太夸张的便宜。\n199成本抄了5万股minimax，赌个八月初港股通。\n6.9和7.3hype上买了俩笔10万股长鑫，合计20万股\n赌一个下午因为t+1换手率枯竭，买盘远大于枯竭的卖盘，收盘清仓。 https://t.co/y3ubgRFhP9",
+    "tweet_url": "https://x.com/xiaomustock/status/2081583233792413948",
+    "published_at": "2026-07-27T03:31:31+00:00",
+    "fetched_at": "2026-07-27T05:02:51.128956+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "长鑫",
+        "南海2x",
+        "minimax",
+        "hype"
+      ],
+      "direction": "bullish",
+      "summary": "用户认为南海2x估值过于便宜，抄底25万股赌反弹；minimax以199成本抄5万股博港股通；长鑫分批买入20万股，赌下午T+1换手率枯竭后买盘优势，收盘清仓。整体为短线看涨操作。",
+      "translation": null,
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081579593815978273",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, $CMXT is up a very normal +469.98% after going public today.\n\nNow valuing it at ~$487.31 billion, up from $85.5 billion. \n\nDid any of my Chinese followers buy into the IPO? https://t.co/TlibjHe799",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2081579593815978273",
+    "published_at": "2026-07-27T03:17:03+00:00",
+    "fetched_at": "2026-07-27T05:02:28.159195+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CMXT"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到CMXT上市首日涨幅高达469.98%，市值从855亿美元飙升至4873.1亿美元，但未给出明确投资建议或方向。",
+      "translation": "哇，$CMXT今天上市后涨幅非常正常地达到了+469.98%。目前估值约4873.1亿美元，高于之前的855亿美元。有没有我的中国粉丝买入了IPO？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081565866039349715",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: Political trading screenshots get posted everywhere.\nThe problem is most people never look past the headline.\n\nIn this @unusual_whales video, I walk through the Political Trading Dashboard and show how to actually dig into the data.\n\nYou’ll learn how to check:\n• Trade dates vs report dates\n• Late disclosures\n• Politician portfolios\n• Ticker searches\n• Alerts and trading history\n\nA screenshot gets attention.\nThe dashboard gives you the context.\n\nWatch here:\nhttps://t.co/olAOKr4QEM\n\nIf you’ve always wanted to try @unusual_whales, you can save 10% on your annual or monthly subscription with the link below:\nhttps://t.co/cNSsGRMLi1",
+    "tweet_url": "https://x.com/unusual_whales/status/2081565866039349715",
+    "published_at": "2026-07-27T02:22:30+00:00",
+    "fetched_at": "2026-07-27T05:03:01.123962+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales的政治交易仪表板，强调分析政治人物交易数据的重要性，而非仅看表面截图。提供学习如何检查交易日期、延迟披露等功能的教程，并附带订阅折扣链接。",
+      "translation": "RT @AnthonySandford：政治交易截图到处被发布。问题是大多数人只看到标题。在这个@unusual_whales视频中，我讲解了政治交易仪表板，展示如何真正深入分析数据。你将学习如何检查：• 交易日期与报告日期 • 延迟披露 • 政治人物投资组合 • 股票代码搜索 • 提醒和交易历史。截图引人注意，而仪表板提供背景信息。观看这里：https://t.co/olAOKr4QEM 如果你想尝试@unusual_whales，通过以下链接的年付或月付订阅可以节省10%：https://t.co/cNSsGRMLi1",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081548360818004299",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nvidia in talks to backstop $250B worth of OpenAI DC financing.\n\n- Softbank’s SB energy develops 10 GW Ohio campus \n\n- OpenAI signs long term lease\n\n- $NVDA guarantees $250B in financing\n\n- OpenAI discussing separate agreement to buy up to $350B in Nvidia chips.\n\nNot quite sure if this circular financing is healthy long term, but given the massive size of AI infrastructure spending…\n\nFeels like capex beneficiaries will be extremely happy.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2081548360818004299",
+    "published_at": "2026-07-27T01:12:57+00:00",
+    "fetched_at": "2026-07-27T05:02:33.981321+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "推特讨论了NVIDIA参与OpenAI大型数据中心融资和芯片采购的循环结构，尽管对长期健康性存疑，但指出AI基础设施资本支出激增对资本支出受益方极为利好，隐含对NVIDIA和相关基础设施公司的看多态度。",
+      "translation": "NVIDIA正在谈判支持OpenAI的2500亿美元数据中心融资。软银的SB能源开发10 GW俄亥俄园区，OpenAI签署长期租约，NVIDIA担保2500亿美元融资，OpenAI另讨论购买多达3500亿美元的NVIDIA芯片。不完全确定这种循环融资长期是否健康，但鉴于AI基础设施支出的庞大规模...感觉资本支出受益方会非常高兴。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2081531276755177915",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
