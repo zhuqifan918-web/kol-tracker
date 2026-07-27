@@ -1,5 +1,138 @@
 [
   {
+    "tweet_id": "2081760773706047989",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China says the US agreed during trade talks to cap replacement tariffs on Chinese goods at 20%. Current tariffs are 12.5%, leaving room for tariffs to rise another 7.5 percentage points.",
+    "tweet_url": "https://x.com/unusual_whales/status/2081760773706047989",
+    "published_at": "2026-07-27T15:17:00+00:00",
+    "fetched_at": "2026-07-27T15:21:06.222555+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及中美贸易谈判中，美国同意将对中国商品替代关税上限设为20%，当前关税为12.5%，意味着未来关税可能再提高7.5个百分点，对投资市场构成潜在利空。",
+      "translation": "中国表示，美国在贸易谈判中同意将对华商品替代关税上限设定为20%。当前关税为12.5%，留有再提高7.5个百分点的空间。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081751480021946522",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我买到了美股百年大顶",
+    "tweet_url": "https://x.com/xiaomustock/status/2081751480021946522",
+    "published_at": "2026-07-27T14:40:04+00:00",
+    "fetched_at": "2026-07-27T15:20:56.348839+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文表达了对美股市场见顶的强烈担忧，认为当前处于历史高位，可能面临大幅回调风险。作者以悲观视角指出“百年大顶”，暗示投资者应警惕市场顶部。",
+      "translation": "我买到了美股百年大顶。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081750707040817478",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Japan's PM Takaichi: Japan is no longer in deflation, if deflation is defined as sustained price declines, as CPI and GDP deflator are in an uptrend",
+    "tweet_url": "https://x.com/unusual_whales/status/2081750707040817478",
+    "published_at": "2026-07-27T14:37:00+00:00",
+    "fetched_at": "2026-07-27T15:21:08.997979+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "日本首相表示日本已不再处于通缩状态，CPI和GDP平减指数呈上升趋势，这对日本经济是积极信号，可能推动股市和日元走强。",
+      "translation": "日本首相高市：如果通缩被定义为持续的价格下跌，那么日本已不再处于通缩状态，因为CPI和GDP平减指数呈上升趋势。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081741900760203558",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Yemen's Houthis targeted Saudi Crude oil transport infrastructure with drones, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2081741900760203558",
+    "published_at": "2026-07-27T14:02:00+00:00",
+    "fetched_at": "2026-07-27T15:21:11.528400+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "胡塞武装袭击沙特石油运输基础设施可能导致原油供应中断，短期推高油价，对能源板块和原油相关资产构成利好，但地缘风险增加市场不确定性。",
+      "translation": "根据路透社报道，也门胡塞武装使用无人机袭击了沙特阿拉伯的原油运输基础设施。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081734597297983737",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Markets are open, and WhaleWatch is live!\n\nJoin our hosts, trading futures and options live using Unusual Whales tools! Real traders, real trades; you see it all:\nhttps://t.co/qWhVT2jcYy",
+    "tweet_url": "https://x.com/unusual_whales/status/2081734597297983737",
+    "published_at": "2026-07-27T13:32:59+00:00",
+    "fetched_at": "2026-07-27T15:21:16.241706+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales的实时交易直播，展示使用其工具的期货和期权交易，但未提供具体投资建议或市场方向。",
+      "translation": "市场开放，鲸鱼观察直播开始！加入我们的主持人，使用Unusual Whales工具实时交易期货和期权！真实交易者，真实交易；您将看到一切：https://t.co/qWhVT2jcYy",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081727695260381260",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Unusual Whales live trading show WhaleWatch is live now!\n\nCovering open interest changes, then trading futures and options into the open!\n\nJoin below:\nhttps://t.co/qWhVT2jcYy",
+    "tweet_url": "https://x.com/unusual_whales/status/2081727695260381260",
+    "published_at": "2026-07-27T13:05:33+00:00",
+    "fetched_at": "2026-07-27T15:21:14.446727+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布Unusual Whales的实时交易节目WhaleWatch正在直播，内容涵盖未平仓合约变化及交易期货和期权进入开盘。虽无具体投资建议，但提供市场分析信息，对关注期权和期货交易的投资者有参考价值。",
+      "translation": "突发：Unusual Whales的实时交易节目WhaleWatch现在正在直播！涵盖未平仓合约变化，然后交易期货和期权进入开盘！在下方加入：https://t.co/qWhVT2jcYy",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081720507830071788",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry has said that about private equity and private credit are using life and offshore insurance firms as a \"state backstop\" to socialize high-risk tech and infrastructure debt.",
+    "tweet_url": "https://x.com/unusual_whales/status/2081720507830071788",
+    "published_at": "2026-07-27T12:37:00+00:00",
+    "fetched_at": "2026-07-27T15:21:20.310086+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里指出，私募股权和私募信贷公司正利用人寿和离岸保险公司作为国家后盾，将高风险科技和基础设施债务社会化。这可能意味着潜在的系统性风险，投资者需警惕相关领域的债务质量。",
+      "translation": "迈克尔·伯里曾表示，私募股权和私募信贷公司正在利用人寿和离岸保险公司作为国家后盾，将高风险的技术和基础设施债务社会化。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2081616765352903077",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
