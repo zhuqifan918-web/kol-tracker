@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2081775872994885743",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said he is aiming to end US dependence on Chinese critical minerals by January 2027.",
+    "tweet_url": "https://x.com/unusual_whales/status/2081775872994885743",
+    "published_at": "2026-07-27T16:17:00+00:00",
+    "fetched_at": "2026-07-27T17:15:19.356813+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普政府计划减少对中国关键矿产的依赖，可能推动美国本土矿业公司及替代供应国（如澳大利亚、加拿大）相关企业的发展，对稀土、锂等矿产ETF及个股构成长期利好。",
+      "translation": "特朗普表示，他致力于在2027年1月之前结束美国对中国关键矿产的依赖。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081770839360622929",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China has rejected U.S. tariffs imposed over forced labor allegations and is calling on Washington to lift the measures, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2081770839360622929",
+    "published_at": "2026-07-27T15:57:00+00:00",
+    "fetched_at": "2026-07-27T17:15:20.875439+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中美贸易摩擦升级，中国拒绝美国关税，市场不确定性增加，可能对全球供应链和股市造成压力。",
+      "translation": "中国拒绝了美国基于强迫劳动指控而施加的关税，并呼吁华盛顿取消这些措施，据路透社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2081760773706047989",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -311,6 +349,25 @@
       "direction": "bullish",
       "summary": "美国与伊朗达成停火协议的概率增加，可能缓解中东地缘政治风险，利好原油供应稳定和全球市场情绪。",
       "translation": "根据Polymarket预测市场，美国与伊朗在8月31日前达成停火协议的概率为72%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081484955813884282",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Boomers already dominate the housing market. Now, as empty nesters, they want even bigger homes,\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2081484955813884282",
+    "published_at": "2026-07-26T21:01:00+00:00",
+    "fetched_at": "2026-07-27T17:15:37.519809+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用华尔街日报指出，婴儿潮一代已主导住房市场，且作为空巢老人反而追求更大房屋，这暗示住房需求结构可能扭曲，对首次购房者和年轻人不友好，长期可能抑制房地产市场的健康循环，属于利空因素。",
+      "translation": "据《华尔街日报》，婴儿潮一代已经主导了住房市场。现在，作为空巢老人，他们想要更大的房子。",
       "confidence": "medium"
     }
   },
