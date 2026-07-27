@@ -25,25 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
       "$TSLA",
       "$GOOGL",
+      "$NVDA",
       "$ORCL",
       "$AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与大宗商品波动",
-      "AI基础设施巨额投资",
-      "科技巨头财报与市场情绪"
+      "地缘政治风险升温",
+      "人工智能支出持续扩张",
+      "宏观数据与市场情绪分歧"
     ],
-    "recent_shift": "近期关注点从宏观政策转向企业财报和AI商业化落地，同时强调高杠杆和估值风险。",
+    "recent_shift": "近期更关注地缘冲突及政策变化对市场的冲击，同时强调期权工具在波动中的使用",
     "representative_quotes": [
-      "BREAKING: China says the US agreed during trade talks to cap replacement tariffs on Chinese goods at 20%.",
-      "BREAKING: Nvidia, $NVDA, is in talks to provide a $250 billion financial backstop for OpenAI to lease a massive data center project in Ohio",
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
+      "Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg.",
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+      "BREAKING: Nvidia, $NVDA, is in talks to provide a $250 billion financial backstop for OpenAI to lease a massive data center project in Ohio, per WSJ"
     ],
-    "generated_at": "2026-07-27T15:21:53.184604+00:00"
+    "generated_at": "2026-07-27T17:15:53.939205+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
