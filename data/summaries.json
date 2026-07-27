@@ -28,45 +28,47 @@
       "$TSLA",
       "$GOOGL",
       "$NVDA",
-      "$ORCL",
-      "$AAPL"
+      "$AMZN",
+      "$INTC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险升温",
-      "人工智能支出持续扩张",
-      "宏观数据与市场情绪分歧"
+      "地缘政治风险与能源危机",
+      "美联储政策与利率不确定性",
+      "科技巨头财报分化与市场震荡",
+      "中国经济与贸易摩擦",
+      "AI投资泡沫与数据过热"
     ],
-    "recent_shift": "近期更关注地缘冲突及政策变化对市场的冲击，同时强调期权工具在波动中的使用",
+    "recent_shift": "从前期相对乐观的科技股看法转为关注地缘冲突、利率上行及消费下滑带来的避险情绪。",
     "representative_quotes": [
-      "Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg.",
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "BREAKING: Nvidia, $NVDA, is in talks to provide a $250 billion financial backstop for OpenAI to lease a massive data center project in Ohio, per WSJ"
+      "Trump has said that the Federal Reserve should cut interest rates",
+      "BREAKING: Trump ordered U.S. military not to proceed with planned strikes on Iran",
+      "The bond market is telling investors it's time to start worrying about the war again"
     ],
-    "generated_at": "2026-07-27T17:15:53.939205+00:00"
+    "generated_at": "2026-07-27T20:14:16.732628+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SKHYX",
       "MU",
-      "GLW",
       "GOOGL",
-      "MRVL"
+      "MRVL",
+      "GLW"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求与AI算力绑定",
-      "云厂作为AI基础设施的确定性",
-      "AI模型竞争无护城河，端侧硬件或为赢家",
-      "杠杆ETF的风险与机会",
-      "交易所安全披露系统漏洞"
+      "存储芯片（HBM与AI推理卡）持续紧缺与涨价逻辑",
+      "AI云厂商（谷歌、亚马逊）作为最终赢家的确定性",
+      "AI端侧化与苹果的硬件生态闭环",
+      "韩国股市的高波动性与杠杆工具（2x ETF）的风险",
+      "Gate交易所安全漏洞与用户资产保护"
     ],
-    "recent_shift": "从早期积极看多存储和AI产业链，转向关注云厂和康宁等硬件供应商，并对交易所安全问题感到愤怒和失望。",
+    "recent_shift": "近期从短期投机性交易（如2x杠杆、财报赌涨）转向更关注AI云厂和存储的长线价值，同时对Gate被盗事件表达了强烈不满和维权决心。",
     "representative_quotes": [
-      "市场还会重新思考什么类型的公司是真正有稳固的护城河的。能被kimi竞争登顶出现，很可能会被华尔街觉得长期利好谷歌，因为目前任何一家大模型公司谁能熬得过谷歌？",
-      "这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。",
-      "如果交易所把“资料验证通过”等同于“本人真实操作”，却无法识别资料冒用、AI合成和异常安全设置变更，那么任何将资产存放在交易所的人，都可能成为下一个受害者。"
+      "存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了 openai claude：我定价贵十倍。尼玛，这是什么利润率啊，白粉都要哭出来",
+      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去，而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。",
+      "如果交易所把“资料验证通过”等同于“本人真实操作”，却无法识别资料冒用、AI合成和异常安全设置变更，那么任何将资产存放在交易所的人，都可能成为下一个受害者"
     ],
-    "generated_at": "2026-07-27T15:21:50.583955+00:00"
+    "generated_at": "2026-07-27T20:14:21.104904+00:00"
   }
 }

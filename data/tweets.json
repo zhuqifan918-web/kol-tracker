@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2081821171859812715",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said that the Federal Reserve should cut interest rates",
+    "tweet_url": "https://x.com/unusual_whales/status/2081821171859812715",
+    "published_at": "2026-07-27T19:17:00+00:00",
+    "fetched_at": "2026-07-27T20:13:59.352013+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普呼吁美联储降息，这可能对股市和风险资产构成利好，降低借贷成本，刺激经济，推动资金流入金融市场。",
+      "translation": "特朗普表示，美联储应该降息。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081816137793224880",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has said, on pausing Iranian attacks; Oil dropped and stocks rose.",
+    "tweet_url": "https://x.com/unusual_whales/status/2081816137793224880",
+    "published_at": "2026-07-27T18:57:00+00:00",
+    "fetched_at": "2026-07-27T20:14:00.802334+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普暂停对伊朗攻击的言论导致油价下跌、股市上涨，这对股市是利好信号。",
+      "translation": "突发：特朗普表示暂停对伊朗的攻击；油价下跌，股市上涨。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2081775872994885743",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -2454,6 +2492,25 @@
       "summary": "中国政府通过中国国新控股运用专项再贷款和私募基金等渠道，对央企进行资本注入，构成积极的市场提振信号，可能推动相关央企股价上涨。",
       "translation": "中国国新控股主导了此次干预，通过专项再贷款机制和私募基金渠道，向中央管理的国有企业注入资金以支撑其股价。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2079785296787554614",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "量子闪存（Quantum Flash）\n是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。\n\n性能指标\n量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。\n\n去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。",
+    "tweet_url": "https://x.com/xiaomustock/status/2079785296787554614",
+    "published_at": "2026-07-22T04:27:09+00:00",
+    "fetched_at": "2026-07-27T20:13:52.571429+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该技术为室温单电子非易失性存储技术，性能突破显著，具备产业化潜力，可能对存储芯片行业带来重大影响，投资者可关注相关产学研动态。",
+      "translation": "量子闪存（Quantum Flash）是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。性能指标：量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。",
+      "confidence": "high"
     }
   },
   {
