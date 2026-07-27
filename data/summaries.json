@@ -28,45 +28,45 @@
       "$NVDA",
       "$TSLA",
       "$GOOGL",
-      "$AMZN",
+      "$ORCL",
       "$AAPL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险升级",
-      "科技股业绩波动与AI投资热潮",
-      "市场杠杆与泡沫风险"
+      "地缘政治风险与大宗商品波动",
+      "AI基础设施巨额投资",
+      "科技巨头财报与市场情绪"
     ],
-    "recent_shift": "从早期对AI和科技股的乐观转向关注大规模数据支出、高杠杆水平和地缘冲突带来的下行风险",
+    "recent_shift": "近期关注点从宏观政策转向企业财报和AI商业化落地，同时强调高杠杆和估值风险。",
     "representative_quotes": [
-      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week.",
-      "\"Buying stock with borrowed money reaches level of past market tops: 'Very bearish looking',\" per CNBC",
-      "The bond market is telling investors it's time to start worrying about the war again, per BI"
+      "BREAKING: China says the US agreed during trade talks to cap replacement tariffs on Chinese goods at 20%.",
+      "BREAKING: Nvidia, $NVDA, is in talks to provide a $250 billion financial backstop for OpenAI to lease a massive data center project in Ohio",
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
     ],
-    "generated_at": "2026-07-27T05:03:23.308925+00:00"
+    "generated_at": "2026-07-27T15:21:53.184604+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SKHYX",
-      "GOOGL",
-      "MRVL",
       "MU",
-      "GLW"
+      "GLW",
+      "GOOGL",
+      "MRVL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "存储芯片和AI算力需求长期缺口",
-      "云厂商（谷歌、亚马逊）是AI最终赢家",
-      "端侧AI（苹果）受益于云端算力瓶颈",
-      "韩国股市杠杆过高导致波动加剧",
-      "交易所安全风控漏洞（Gate被盗事件）"
+      "存储芯片需求与AI算力绑定",
+      "云厂作为AI基础设施的确定性",
+      "AI模型竞争无护城河，端侧硬件或为赢家",
+      "杠杆ETF的风险与机会",
+      "交易所安全披露系统漏洞"
     ],
-    "recent_shift": "早期极度看好存储和AI产业链，认为存储是AI刚需；近期因Meta出售算力资源、韩国股市暴跌及个人Gate被盗事件，转向对风险控制和仓位管理的重视，同时强调云厂商和端侧AI的稳定性。",
+    "recent_shift": "从早期积极看多存储和AI产业链，转向关注云厂和康宁等硬件供应商，并对交易所安全问题感到愤怒和失望。",
     "representative_quotes": [
-      "AI真实有史以来最牛逼的生意，存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了。",
-      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去。",
+      "市场还会重新思考什么类型的公司是真正有稳固的护城河的。能被kimi竞争登顶出现，很可能会被华尔街觉得长期利好谷歌，因为目前任何一家大模型公司谁能熬得过谷歌？",
+      "这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。",
       "如果交易所把“资料验证通过”等同于“本人真实操作”，却无法识别资料冒用、AI合成和异常安全设置变更，那么任何将资产存放在交易所的人，都可能成为下一个受害者。"
     ],
-    "generated_at": "2026-07-27T12:11:47.591133+00:00"
+    "generated_at": "2026-07-27T15:21:50.583955+00:00"
   }
 }
