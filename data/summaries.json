@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$TSLA",
-      "$GOOGL",
-      "$NVDA",
-      "$AMZN",
-      "$INTC"
+      "TSLA",
+      "GOOGL",
+      "NVDA",
+      "INTC",
+      "ORCL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与能源危机",
-      "美联储政策与利率不确定性",
-      "科技巨头财报分化与市场震荡",
-      "中国经济与贸易摩擦",
-      "AI投资泡沫与数据过热"
+      "地缘冲突升级",
+      "美联储政策不确定性",
+      "科技股盈利分化",
+      "期权与市场数据分析",
+      "房地产与消费疲软"
     ],
-    "recent_shift": "从前期相对乐观的科技股看法转为关注地缘冲突、利率上行及消费下滑带来的避险情绪。",
+    "recent_shift": "近期关注焦点转向地缘政治风险和市场杠杆高位，对科技股盈利和消费数据的担忧增加。",
     "representative_quotes": [
-      "Trump has said that the Federal Reserve should cut interest rates",
-      "BREAKING: Trump ordered U.S. military not to proceed with planned strikes on Iran",
-      "The bond market is telling investors it's time to start worrying about the war again"
+      "Tesla, $TSLA, is down nearly 14% today after earnings.",
+      "Google, $GOOGL, is down nearly 7% today, after earnings. It is down more than 13% this week.",
+      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
     ],
-    "generated_at": "2026-07-27T20:14:16.732628+00:00"
+    "generated_at": "2026-07-27T21:35:34.322356+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
