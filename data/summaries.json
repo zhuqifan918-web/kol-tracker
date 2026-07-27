@@ -28,24 +28,22 @@
       "TSLA",
       "GOOGL",
       "NVDA",
-      "INTC",
-      "ORCL"
+      "AAPL",
+      "INTC"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘冲突升级",
-      "美联储政策不确定性",
-      "科技股盈利分化",
-      "期权与市场数据分析",
-      "房地产与消费疲软"
+      "地缘政治风险与油价波动",
+      "联储政策与利率预期",
+      "科技巨头财报与AI投资"
     ],
-    "recent_shift": "近期关注焦点转向地缘政治风险和市场杠杆高位，对科技股盈利和消费数据的担忧增加。",
+    "recent_shift": "近期更多关注地缘政治事件和联储政策概率，相比前期偏重科技股财报和时机建议，态度更趋谨慎",
     "representative_quotes": [
-      "Tesla, $TSLA, is down nearly 14% today after earnings.",
-      "Google, $GOOGL, is down nearly 7% today, after earnings. It is down more than 13% this week.",
-      "Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
+      "Jim Cramer has said he is 'struggling to have reasons to buy' in this market",
+      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
+      "There is a 72% chance of the Fed not changing rates this Wednesday meeting, per Polymarket"
     ],
-    "generated_at": "2026-07-27T21:35:34.322356+00:00"
+    "generated_at": "2026-07-27T23:56:00.662795+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
