@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2081954751147876406",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "现在亏的呼吸都是痛的，\n上个月要是那天清仓真不玩了，\n真的他妈的天麻，现在是血亏，骨髓都亏出来了。 https://t.co/2XvOJjM2cr",
+    "tweet_url": "https://x.com/xiaomustock/status/2081954751147876406",
+    "published_at": "2026-07-28T04:07:48+00:00",
+    "fetched_at": "2026-07-28T04:55:01.864217+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "用户表达因未及时清仓导致严重亏损，情绪极度负面，暗示市场走势不利，投资损失惨重。",
+      "translation": "现在亏得呼吸都痛，上个月要是那天清仓真的不玩了，真的他妈的天麻，现在是血亏，骨髓都亏出来了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081933731833794688",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "亏钱亏的超出认知了，\n真他娘的最美的故事套最多的家人。\n反弹给个机会再不玩了",
+    "tweet_url": "https://x.com/xiaomustock/status/2081933731833794688",
+    "published_at": "2026-07-28T02:44:16+00:00",
+    "fetched_at": "2026-07-28T04:55:05.050161+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该用户因投资亏损严重，情绪崩溃，认为市场故事美好但实际是陷阱，决心反弹后退出，整体情绪极度悲观，属于典型割肉离场信号。",
+      "translation": "亏钱亏得超出认知了，这他妈最美的故事骗最多的家人。反弹给个机会，再也不玩了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081930390915449199",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Net dollar shorts held by Japanese retail accounts more than quadrupled in June to ¥2.79 trillion\n\nRead more: https://t.co/ef4Jkgygdr",
+    "tweet_url": "https://x.com/unusual_whales/status/2081930390915449199",
+    "published_at": "2026-07-28T02:31:00+00:00",
+    "fetched_at": "2026-07-28T04:55:23.001136+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出日本散户账户的净美元空头头寸在6月激增四倍，达到2.79万亿日元，暗示市场普遍看空美元，可能对美元相关资产产生压力。",
+      "translation": "日本散户账户持有的净美元空头头寸在6月增长超过四倍，达到2.79万亿日元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2081915569540915441",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
