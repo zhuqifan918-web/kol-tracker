@@ -1,5 +1,77 @@
 [
   {
+    "tweet_id": "2082232380794769817",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Equity strategist Ariana Salvatore wrote that “For equities, headline risks from social media posts are becoming less important outside of possible intraday trading.”\n\nRead more: https://t.co/xi93JarHJg",
+    "tweet_url": "https://x.com/unusual_whales/status/2082232380794769817",
+    "published_at": "2026-07-28T22:31:00+00:00",
+    "fetched_at": "2026-07-28T22:52:17.027851+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出，社交媒体帖子对股市的短期影响正在减弱，可能仅影响日内交易，长期影响有限。",
+      "translation": "股票策略师Ariana Salvatore写道：“对于股票而言，来自社交媒体帖子的头部风险正变得越来越不重要，除非是可能的日内交易。”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082230983487803755",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 104% Y/Y revenue growth with 300%+ EPS growth. \n\nYour leading optical players over in China reported amazing preliminary earnings + extremely strong read through for the Western photonics sector. \n\nThink earnings season tend to remind markets about continued AI acceleration. I'm expecting $LITE, $SNDK / SK Hynix, and sector leader ERs to continue that trend.   \n\nBut it does feel like markets are rewarding existing acceleration more rather than future growth a year out over near-term revisions as seen with $AMKR. \n\nBut as a TLDR, looks very positive for the themes I'm tracking.  \n\n- Then you have $GOOGL capex raised to $195-$205B, which is typically the biggest AI demand signal from hyperscalers. \n\n- 77% 0bps change est. next FOMC decision from prediction markets. Trump administration on Monday called for the Fed to lower interest rates. \n\nSo your 3x rate hikes fears this year seem kinda overblown. \n\n- Chinese fears from DUV to $CXMT overflooding are extremely overblown as well. We see this with every sector from time to time until people remember that lasers or HBM bottlenecks for a reason. \n\nAs for personal thoughts, it was unhealthy seeing everything rise up or down together, especially with these themes. But I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI. \n\n$META compute and $GOOGL GCP margins/growth shows increasing demand for $NBIS and similar neocloud business models. \n\n$META + other hyperscaler notes around LTAs with $SNDK and Samsung/SK Hynix, $MU point to structural memory demand. \n\nCan go on and on... \n\nBut when you have Jim Cramer telling every margined DC trader to \"sell everything\" at market open and news saying there's an AI bubble. \n\nI do hate it when others say \"it's dropping so sell\". My belief is that the important thing to look is accelerating revenue/EPS growth. And if that thesis stays in-tact with revenue acceleration in line with hyperscaler capex. \n\nTLDR: I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track. \n\nAnd my guess is that we'll see the theme recover broadly. But I can't predict what hour, day, or week that happens.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+    "published_at": "2026-07-28T22:25:27+00:00",
+    "fetched_at": "2026-07-28T22:51:53.209523+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE",
+        "TER",
+        "LITE",
+        "SNDK",
+        "GOOGL",
+        "CXMT",
+        "AMKR",
+        "SIVE",
+        "AAOI",
+        "META",
+        "NBIS",
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "推文认为短期内市场大幅去杠杆导致个股超跌，但AI需求仍在加速，超大规模资本支出强劲，看好相关板块反弹。",
+      "translation": "我将当前市场视为极端的短期去杠杆，许多个股被过度抛售。比如$BE和$TER公布了超预期的业绩，Bloom报告营收同比增长166%、利润率扩大并上调2026年指引...Teradyne营收同比增长104%，每股收益增长超300%。中国领先的光学器件公司也发布了惊人的初步财报，对西方光子学领域有极强的指示意义。我认为财报季往往会提醒市场AI加速的持续。我预计$LITE、$SNDK/ SK Hynix以及行业龙头的财报将继续这一趋势。但市场似乎更倾向于奖励已有的加速，而不是未来一年相对近期的修正（如$AMKR所示）。总之，我看好我追踪的主题。$GOOGL资本支出上调至1950-2050亿美元，这通常是超大规模厂商对AI需求的最大信号。预测市场显示下次FOMC决议维持不变的概率为77%，而特朗普政府周一呼吁美联储降息，所以今年的三次加息担忧有些过度。对DUV和$CXMT产能过剩的担忧也明显过度，每个行业都会出现这种情况，直到人们记起激光或HBM瓶颈的存在。个人来说，看到所有股票齐涨齐跌是不健康的，但我不担心，因为我对自己选中的标的有信心，尤其是光学互连如$SIVE或$AAOI。$META的算力和$GOOGL的GCP利润率/增长显示了对$NBIS及类似云模式的需求增加。$META和其他超大规模关于$SNDK、三星/SK Hynix、$MU的长期协议说明内存结构性需求存在。但当你看到Jim Cramer告诉所有杠杆交易者“清仓”，新闻说存在AI泡沫时...我讨厌别人说“跌了就卖”，我认为关键是关注营收和每股收益的加速增长，并且这种逻辑与超大规模资本支出一致。简而言之，我看到AI需求/收入加速的信号，超大规模资本支出是最重要的跟踪指标。我猜这个主题将广泛复苏，但我无法预测具体哪一天。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082224075859202223",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Cloudflare’s Radar dashboard puts bots at 57.5% of all HTTP requests to HTML content, with humans at 42.5%, marking the first time machines generate more web traffic than people.\n\nRead more: https://t.co/MBS5VHQEiU",
+    "tweet_url": "https://x.com/unusual_whales/status/2082224075859202223",
+    "published_at": "2026-07-28T21:58:00+00:00",
+    "fetched_at": "2026-07-28T22:52:19.536585+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NET"
+      ],
+      "direction": "bullish",
+      "summary": "Cloudflare的网络流量数据表明机器流量首次超过人类，可能暗示其网络安全和机器人管理服务的需求增长，对公司营收有积极影响。",
+      "translation": "Cloudflare的Radar仪表盘显示机器人占所有HTTP HTML内容请求的57.5%，人类占42.5%，标志着机器首次生成超过人类的网络流量。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082208498805256263",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
