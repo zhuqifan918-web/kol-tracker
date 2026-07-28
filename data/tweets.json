@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2082072829495820581",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: JPMorgan has said it has turned bullish on stocks.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082072829495820581",
+    "published_at": "2026-07-28T11:57:00+00:00",
+    "fetched_at": "2026-07-28T12:19:23.037329+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根大通表示已转为看涨股市，这暗示机构投资者对市场前景持乐观态度，可能推动大盘上行。",
+      "translation": "突发：摩根大通表示已转为看涨股票。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082062762969325827",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jim Cramer has said he won't sell Nvidia, $NVDA.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082062762969325827",
+    "published_at": "2026-07-28T11:17:00+00:00",
+    "fetched_at": "2026-07-28T12:19:25.507662+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "Jim Cramer表示他不会卖出Nvidia，这暗示了他对该股的长期看涨立场，可能被视为积极信号。",
+      "translation": "Jim Cramer表示他不会卖出Nvidia，$NVDA。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082052696576864353",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Citadel Securities said it expects the Federal Reserve to raise interest rates this week",
+    "tweet_url": "https://x.com/unusual_whales/status/2082052696576864353",
+    "published_at": "2026-07-28T10:37:00+00:00",
+    "fetched_at": "2026-07-28T12:19:28.329117+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "Citadel Securities预期美联储本周加息，这可能对股市和债市产生负面影响，导致资金成本上升和流动性收紧。投资者需警惕利率上升对高风险资产的压力。",
+      "translation": "突发：Citadel Securities表示，预计美联储本周将加息。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2081954751147876406",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
