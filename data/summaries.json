@@ -25,25 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "GOOGL",
-      "TSLA",
-      "INTC"
+      "$GOOGL",
+      "$TSLA",
+      "$NVDA",
+      "$AAPL",
+      "$INTC"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "美联储政策",
-      "地缘政治",
-      "科技巨头财报"
+      "宏观风险与地缘政治",
+      "科技巨头财报与AI投资",
+      "美联储政策与利率预期",
+      "美股市场内部结构脆弱性"
     ],
-    "recent_shift": "近期从关注科技股牛市转向强调利率风险与市场脆弱性",
+    "recent_shift": "近期从关注财报结果转向更强调地缘冲突和流动性风险。",
     "representative_quotes": [
-      "There is a 72% chance of the Fed not changing rates this Wednesday meeting, per Polymarket",
-      "BREAKING: Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg.",
+      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings.",
+      "Trump has said that the Federal Reserve should cut interest rates",
       "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
     ],
-    "generated_at": "2026-07-28T04:55:42.305799+00:00"
+    "generated_at": "2026-07-28T07:33:29.825610+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
