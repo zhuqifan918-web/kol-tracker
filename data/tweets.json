@@ -1,5 +1,106 @@
 [
   {
+    "tweet_id": "2082132473035518224",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, has hit a $5 trillion marketcap. https://t.co/NLbq90awkR",
+    "tweet_url": "https://x.com/unusual_whales/status/2082132473035518224",
+    "published_at": "2026-07-28T15:54:00+00:00",
+    "fetched_at": "2026-07-28T16:29:21.990408+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "苹果市值达到5万亿美元，是重大利好信号，表明市场对其业务增长和财务表现的高度认可。",
+      "translation": "苹果公司，$AAPL，市值已达到5万亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082128194698633366",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Cost of insuring against default by AI hyperscalers hits record levels, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2082128194698633366",
+    "published_at": "2026-07-28T15:37:00+00:00",
+    "fetched_at": "2026-07-28T16:29:25.065600+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "AI超大规模数据中心违约保险成本飙升至历史新高，反映出市场对其高负债率和盈利能力不确定性的担忧加剧，可能引发相关板块估值下修。",
+      "translation": "突发：根据金融时报报道，针对AI超大规模数据中心的违约保险成本飙升至历史新高。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082123161483596161",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "OPEC+ likely to pause oil output hikes after September for the rest of 2026, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2082123161483596161",
+    "published_at": "2026-07-28T15:17:00+00:00",
+    "fetched_at": "2026-07-28T16:29:26.740299+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USO",
+        "XLE",
+        "OIL"
+      ],
+      "direction": "bullish",
+      "summary": "OPEC+计划在9月后暂停2026年余下时间的增产，这可能导致原油供应收紧，对油价构成支撑，利好能源相关投资。",
+      "translation": "OPEC+可能在9月后暂停2026年余下时间的石油增产，据路透社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082118127870156943",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: New tariffs won't hurt the economy.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082118127870156943",
+    "published_at": "2026-07-28T14:57:00+00:00",
+    "fetched_at": "2026-07-28T16:29:28.293418+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及关税政策对经济的影响，可能影响市场情绪，但未提供具体投资策略或方向。",
+      "translation": "特朗普：新的关税不会损害经济。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2082113095019716935",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Lower-income households are now seeing slightly stronger card spending growth than higher-income households, marking the end of the K-shaped consumer spending trend, per Bank of America.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082113095019716935",
+    "published_at": "2026-07-28T14:37:00+00:00",
+    "fetched_at": "2026-07-28T16:29:30.612218+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国银行数据显示，低收入家庭信用卡支出增长开始超过高收入家庭，标志着K型消费趋势的结束。这可能预示消费者结构变化对零售、信贷等行业的影响，需关注消费板块及经济敏感型资产的表现。",
+      "translation": "美国银行数据显示，低收入家庭现在的信用卡支出增长略高于高收入家庭，标志着K型消费趋势的结束。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082108061838155857",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -136,6 +237,25 @@
       "summary": "Citadel Securities预期美联储本周加息，这可能对股市和债市产生负面影响，导致资金成本上升和流动性收紧。投资者需警惕利率上升对高风险资产的压力。",
       "translation": "突发：Citadel Securities表示，预计美联储本周将加息。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081969190198706642",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "释怀了，听泉也炒股，\n因为劝爸妈拿养老金炒股，\n被爹妈都拉黑掉😂 https://t.co/CbBdyd4MJj",
+    "tweet_url": "https://x.com/xiaomustock/status/2081969190198706642",
+    "published_at": "2026-07-28T05:05:10+00:00",
+    "fetched_at": "2026-07-28T16:29:13.759605+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "用户调侃自己因劝说父母用养老金炒股而被拉黑，反映出普通人对股市风险的认知差异以及家庭理财观念冲突。",
+      "translation": "释怀了，听泉也炒股，因为劝爸妈拿养老金炒股，被爹妈都拉黑掉😂",
+      "confidence": "medium"
     }
   },
   {

@@ -25,50 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "TSLA",
-      "GOOGL",
-      "INTC"
+      "$AAPL",
+      "$NVDA",
+      "$GOOGL",
+      "$TSLA",
+      "$AMZN"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "bearish",
     "key_themes": [
-      "科技巨头与AI投资",
-      "美联储政策与利率预期",
-      "地缘政治风险与能源",
-      "绩优股与财报驱动的波动",
-      "散户与机构博弈"
+      "地缘政治风险升级",
+      "美联储政策不确定性",
+      "科技巨头增长分化",
+      "消费者支出转弱",
+      "住房市场负担加重"
     ],
-    "recent_shift": "早期关注美联储降息和优质股，近期转向地缘政治紧张和AI数据中心建设带来的机会与风险。",
+    "recent_shift": "近期观点从偏多转向偏空，因关税、地缘冲突和美联储政策引发市场波动。",
     "representative_quotes": [
-      "Jim Cramer: \"If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.\"",
-      "BREAKING: JPMorgan has said it has turned bullish on stocks.",
-      "BREAKING: Nvidia, $NVDA, is in talks to provide a $250 billion financial backstop for OpenAI to lease a massive data center project in Ohio, per WSJ"
+      "Jim Cramer has said he is 'struggling to have reasons to buy' in this market",
+      "The bond market is telling investors it's time to start worrying about the war again",
+      "Shoppers are buying fewer items than a year ago, and grocery sales are declining as weakening unit sales are now outweighing rising prices"
     ],
-    "generated_at": "2026-07-28T14:57:12.211921+00:00"
+    "generated_at": "2026-07-28T16:29:46.905999+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SKHYX",
-      "GOOGL",
       "MU",
+      "GOOGL",
       "MRVL",
       "GLW"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "存储是AI算力的核心瓶颈，未来两到三年需求将暴增",
-      "云厂商最终是AI赢家，无论模型如何更替，云厂都能受益",
-      "存储股波动巨大，杠杆使用不当会导致爆亏",
-      "AI投资有周期性，高位买入后回撤痛苦，但长期持有或可新高",
-      "国产替代和量子闪存等新技术存在潜在投资机会"
+      "存储芯片供需错配，AI驱动长期需求增长",
+      "云厂商（谷歌、亚马逊）因AI需求旺盛具有稳固护城河",
+      "杠杆交易风险极大，仓位管理比选股更重要",
+      "端侧AI（苹果）和硬件生态将是长期赢家",
+      "量子闪存等新技术可能颠覆存储行业格局"
     ],
-    "recent_shift": "从早期坚定看好存储并重仓操作，到近期因持续亏损而反思杠杆和耐心，情绪明显转为悲观，但仍长期看好存储和谷歌。",
+    "recent_shift": "近期从极度乐观转为谨慎，强调杠杆爆亏和仓位管理，但长期仍看好存储和AI基础设施。",
     "representative_quotes": [
-      "人类往往高估了一年内的变化，同时也低估了10年后的变化。最近亏到迷茫和自我怀疑，存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。",
-      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
-      "市场还有一个非常严重的误区，大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多，但是投出去的钱大都买的是算力卡存储卡cpu卡..."
+      "我买到了美股百年大顶",
+      "市场还有一个非常严重的误区，大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多，但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。",
+      "如果爆亏了，交易也是全球最大的知识付费市场，就问你获没获得知识，花没花钱。"
     ],
-    "generated_at": "2026-07-28T14:57:09.418572+00:00"
+    "generated_at": "2026-07-28T16:29:44.606944+00:00"
   }
 }
