@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TSLA",
-      "GOOGL",
-      "NVDA",
-      "AAPL",
-      "INTC"
+      "$AAPL",
+      "$TSLA",
+      "$GOOGL",
+      "$NVDA",
+      "$AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与油价波动",
-      "联储政策与利率预期",
-      "科技巨头财报与AI投资"
+      "美联储政策与利率预期",
+      "地缘政治风险（伊朗、中国关税、也门胡塞武装）",
+      "科技巨头财报与AI投资",
+      "美国经济数据（就业、通胀、消费）",
+      "加密资产监管与政治交易"
     ],
-    "recent_shift": "近期更多关注地缘政治事件和联储政策概率，相比前期偏重科技股财报和时机建议，态度更趋谨慎",
+    "recent_shift": "近期偏向于关注美联储会议和地缘政治事件，对科技股盈利表现持谨慎态度。",
     "representative_quotes": [
-      "Jim Cramer has said he is 'struggling to have reasons to buy' in this market",
-      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC",
-      "There is a 72% chance of the Fed not changing rates this Wednesday meeting, per Polymarket"
+      "There is a 72% chance of the Fed not changing rates this Wednesday meeting, per Polymarket",
+      "BREAKING: Trump has said, on pausing Iranian attacks; Oil dropped and stocks rose.",
+      "BREAKING: Google, $GOOGL, earnings: EPS: $9.1, est: $2.91 Revenue: $119 billion, est: $116 billion"
     ],
-    "generated_at": "2026-07-27T23:56:00.662795+00:00"
+    "generated_at": "2026-07-28T01:42:40.195353+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
