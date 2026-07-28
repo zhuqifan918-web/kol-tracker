@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2082188592101892320",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "It's here.\n\nThe easiest way to automate your market research.\n\nCreate AI-powered automations for the tickers you follow, the events you care about, and the insights you want, all tailored to your workflow.\n\nBuild your first AI automation with Unusual Whales.\n\nSee more: https://t.co/F87f4VsuKC",
+    "tweet_url": "https://x.com/unusual_whales/status/2082188592101892320",
+    "published_at": "2026-07-28T19:37:00+00:00",
+    "fetched_at": "2026-07-28T20:40:02.196424+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了Unusual Whales推出的AI自动化市场研究工具，可针对关注的股票、事件和定制化洞察进行自动化分析，但未提供具体投资建议或方向判断。",
+      "translation": "它来了。\n自动化市场研究的最简单方法。\n为你关注的股票、关心的事件以及想要的洞察创建AI驱动的自动化流程，全部根据你的工作流定制。\n使用Unusual Whales构建你的第一个AI自动化。\n查看更多：https://t.co/F87f4VsuKC",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082175588555702410",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
