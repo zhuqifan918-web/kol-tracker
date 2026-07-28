@@ -25,50 +25,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$TSLA",
-      "$GOOGL",
-      "$NVDA",
-      "$AMZN"
+      "AAPL",
+      "NVDA",
+      "GOOGL",
+      "TSLA",
+      "INTC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "美联储政策与利率预期",
-      "地缘政治风险（伊朗、中国关税、也门胡塞武装）",
-      "科技巨头财报与AI投资",
-      "美国经济数据（就业、通胀、消费）",
-      "加密资产监管与政治交易"
+      "美联储政策",
+      "地缘政治",
+      "科技巨头财报"
     ],
-    "recent_shift": "近期偏向于关注美联储会议和地缘政治事件，对科技股盈利表现持谨慎态度。",
+    "recent_shift": "近期从关注科技股牛市转向强调利率风险与市场脆弱性",
     "representative_quotes": [
       "There is a 72% chance of the Fed not changing rates this Wednesday meeting, per Polymarket",
-      "BREAKING: Trump has said, on pausing Iranian attacks; Oil dropped and stocks rose.",
-      "BREAKING: Google, $GOOGL, earnings: EPS: $9.1, est: $2.91 Revenue: $119 billion, est: $116 billion"
+      "BREAKING: Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg.",
+      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
     ],
-    "generated_at": "2026-07-28T01:42:40.195353+00:00"
+    "generated_at": "2026-07-28T04:55:42.305799+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
-      "MU",
-      "GOOGL",
-      "MRVL",
-      "GLW"
+      "SK하이닉스",
+      "$GOOGL",
+      "$MRVL",
+      "$MU",
+      "$GLW"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "bearish",
     "key_themes": [
-      "存储芯片（HBM与AI推理卡）持续紧缺与涨价逻辑",
-      "AI云厂商（谷歌、亚马逊）作为最终赢家的确定性",
-      "AI端侧化与苹果的硬件生态闭环",
-      "韩国股市的高波动性与杠杆工具（2x ETF）的风险",
-      "Gate交易所安全漏洞与用户资产保护"
+      "存储芯片（HBM/DRAM/NAND）为核心主线，AI需求推动长期上涨",
+      "云厂商（谷歌、亚马逊）为AI最终赢家，大模型公司护城河薄弱",
+      "杠杆ETF和韩国股市波动剧烈，风险极高，仓位管理至关重要",
+      "AI换脸/身份验证漏洞成交易所安全风险，Gate被盗事件引发信任危机",
+      "物理AI发展将带来存储需求数量级增长，但短期市场情绪悲观"
     ],
-    "recent_shift": "近期从短期投机性交易（如2x杠杆、财报赌涨）转向更关注AI云厂和存储的长线价值，同时对Gate被盗事件表达了强烈不满和维权决心。",
+    "recent_shift": "近期从前期存储板块的极度乐观转向全面悲观，因个人在Gate交易所被盗170万美元及连续亏损导致情绪崩溃，并直言市场'血亏''股灾'",
     "representative_quotes": [
-      "存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了 openai claude：我定价贵十倍。尼玛，这是什么利润率啊，白粉都要哭出来",
-      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去，而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。",
-      "如果交易所把“资料验证通过”等同于“本人真实操作”，却无法识别资料冒用、AI合成和异常安全设置变更，那么任何将资产存放在交易所的人，都可能成为下一个受害者"
+      "现在亏的呼吸都是痛的，上个月要是那天清仓真不玩了，真的他妈的天麻，现在是血亏，骨髓都亏出来了。",
+      "市场还有一个非常严重的误区，大陆ai投1000亿人民币，美区投1万亿美金...美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的ai基建印钞机。",
+      "回本路上遥遥无期呐，过去一个月亏的疼的一逼。别的品种不敢搞呐，希望下午韩股海力士涨停熔断。"
     ],
-    "generated_at": "2026-07-27T20:14:21.104904+00:00"
+    "generated_at": "2026-07-28T04:55:40.143560+00:00"
   }
 }
