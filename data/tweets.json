@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2082208498805256263",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout",
+    "tweet_url": "https://x.com/unusual_whales/status/2082208498805256263",
+    "published_at": "2026-07-28T20:56:06+00:00",
+    "fetched_at": "2026-07-28T21:56:09.654353+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普政府禁止中国仿人机器人可能利好美国本土机器人及AI企业，削弱中国竞争，对相关美股板块有积极影响。",
+      "translation": "特朗普政府禁止新型中国仿人机器人，以保护美国AI建设。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082188592101892320",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -116,6 +135,25 @@
       "direction": "neutral",
       "summary": "吉姆·克莱默将人工智能的融资状况比作互联网泡沫，暗示当前对AI的热潮可能过度，存在泡沫风险，对投资者而言是谨慎信号。",
       "translation": "吉姆·克莱默表示，人工智能的融资就像互联网泡沫一样。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082138260386812071",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: FIFA president Gianni Infantino is now reportedly planning to sell stakes in the World Cup to private investors, per the Times",
+    "tweet_url": "https://x.com/unusual_whales/status/2082138260386812071",
+    "published_at": "2026-07-28T16:17:00+00:00",
+    "fetched_at": "2026-07-28T21:56:19.380994+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "FIFA主席因凡蒂诺计划将世界杯股份出售给私人投资者，这可能影响体育投资和赛事商业化。目前尚未具体提及上市公司或加密货币，但私人投资者参与可能带动相关行业（如体育营销、媒体版权）的关注。",
+      "translation": "爆炸新闻：据《泰晤士报》报道，FIFA主席詹尼·因凡蒂诺现计划将世界杯股份出售给私人投资者。",
       "confidence": "medium"
     }
   },
