@@ -29,22 +29,22 @@
       "$TSLA",
       "$NVDA",
       "$AAPL",
-      "$INTC"
+      "$ORCL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "宏观风险与地缘政治",
-      "科技巨头财报与AI投资",
-      "美联储政策与利率预期",
-      "美股市场内部结构脆弱性"
+      "利率政策与美联储",
+      "地缘冲突与能源价格",
+      "大规模AI投资与市场泡沫",
+      "住房成本与宏观经济"
     ],
-    "recent_shift": "近期从关注财报结果转向更强调地缘冲突和流动性风险。",
+    "recent_shift": "近期观点从关注科技股盈利转向地缘紧张和利率政策，偏向风险规避",
     "representative_quotes": [
-      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings.",
-      "Trump has said that the Federal Reserve should cut interest rates",
-      "BREAKING: Buying stocks with borrowed money hits levels seen at past market tops, per CNBC"
+      "Call your Google. It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
+      "The bond market is telling investors it's time to start worrying about the war again",
+      "The Treasury market looks healthy, but underneath, a combustible mix is brewing: the U.S. is issuing record debt into a market increasingly unfriendly to profligate governments."
     ],
-    "generated_at": "2026-07-28T07:33:29.825610+00:00"
+    "generated_at": "2026-07-28T10:25:35.598308+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

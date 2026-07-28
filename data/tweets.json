@@ -1155,6 +1155,25 @@
     }
   },
   {
+    "tweet_id": "2080613211716366456",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Homeownership has become far more expensive since 2019, with emergency repairs up 175%, maintenance up 85%, insurance up 72%, interest up 35%, property taxes up 31%, and principal payments up 22%, per WSJ: https://t.co/HnHA1IR9pi",
+    "tweet_url": "https://x.com/unusual_whales/status/2080613211716366456",
+    "published_at": "2026-07-24T11:17:00+00:00",
+    "fetched_at": "2026-07-28T10:25:13.959517+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用华尔街日报数据，显示自2019年以来购房成本大幅上升，包括紧急维修、维护、保险、利息、房产税和本金还款均显著增长，对房地产市场及相关投资（如REITs）构成利空信号。",
+      "translation": "自2019年以来，购房成本大幅上升，紧急维修费用上涨175%，维护费用上涨85%，保险费上涨72%，利息上涨35%，房产税上涨31%，本金还款上涨22%，据《华尔街日报》报道：https://t.co/HnHA1IR9pi",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2080526137902649848",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
