@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2082250751607497073",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$SKHY earnings:\n\n- Revenue: $54.5 billion, est: $57.7 billion\n- Operating profit: $41.6 billion, est: $44.2 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2082250751607497073",
+    "published_at": "2026-07-28T23:44:00+00:00",
+    "fetched_at": "2026-07-28T23:51:30.799702+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHY"
+      ],
+      "direction": "bearish",
+      "summary": "SKHY财报显示营收和营业利润均未达预期，分别低于估计值约3.2亿和2.6亿美元，表明业绩不及市场预期，可能对股价构成短期压力。",
+      "translation": "$SKHY 财报：营收：545亿美元，预期：577亿美元；营业利润：416亿美元，预期：442亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082247480222114128",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "It's here.\n\nThis will change how you engage with the stock market.\n\nGet the automations you want, for the tickers you want, with the information you want.\n\nAll how you want it.\n\nCheck out AI automations with Unusual Whales.\n\nSee more: https://t.co/oiANAmHUJ4 https://t.co/3tE6jCnN5n",
+    "tweet_url": "https://x.com/unusual_whales/status/2082247480222114128",
+    "published_at": "2026-07-28T23:31:00+00:00",
+    "fetched_at": "2026-07-28T23:51:34.332306+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文宣传Unusual Whales的AI自动化工具，声称将改变用户参与股市的方式，提供定制化的股票自动化交易信息。整体态度积极，暗示工具能提升交易效率，对股票市场参与者有利，但未提及具体股票。",
+      "translation": "它来了。这将改变你参与股市的方式。为你想要的标的，提供你想要的自动化功能，配合你想要的信息。一切如你所愿。查看Unusual Whales的AI自动化。更多信息：https://t.co/oiANAMHuJ4",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082232380794769817",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -110,6 +150,25 @@
     }
   },
   {
+    "tweet_id": "2082179473995444328",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @wannabepanacea 祝你早日康复，AI硬件要见底了吗？还要跌多少",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082179473995444328",
+    "published_at": "2026-07-28T19:00:46+00:00",
+    "fetched_at": "2026-07-28T23:51:06.631968+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "提及AI硬件底部问题，表达下跌未止的担忧，暗示当前仍处于下跌趋势中，需继续观察。",
+      "translation": "祝你早日康复。AI硬件要见底了吗？还要跌多少？",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082175588555702410",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -128,6 +187,25 @@
       "summary": "该推文报道美国FCC拟禁止进口中国的人形和四足机器人，利好美国本土企业如Agility Robotics（$CCXI），并暗示相关公司股价可能上涨。",
       "translation": "据路透社报道，美国联邦通信委员会（FCC）拟禁止进口中国的人形和四足机器人，以保护美国的人形机器人与机器人项目。对于Agility Robotics（$CCXI）及其他美国本土人形机器人公司而言，这应是个好消息。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082173492615680286",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: FIFA President Gianni Infantino plans to create a $20 billion company running the World Cup with private investors including the Kushner family, per TSN",
+    "tweet_url": "https://x.com/unusual_whales/status/2082173492615680286",
+    "published_at": "2026-07-28T18:37:00+00:00",
+    "fetched_at": "2026-07-28T23:51:42.154662+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "国际足联主席因凡蒂诺计划与包括库什纳家族在内的私人投资者共同创办一家价值200亿美元的公司来运营世界杯，这可能影响体育产业投资和相关商业机会。",
+      "translation": "突发：据TSN报道，国际足联主席詹尼·因凡蒂诺计划与包括库什纳家族在内的私人投资者共同创办一家价值200亿美元的公司来运营世界杯。",
+      "confidence": "medium"
     }
   },
   {
