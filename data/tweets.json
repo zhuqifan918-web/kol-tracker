@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2082153359885173232",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Visa, $V, has announced plans to cut 2,600 people.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082153359885173232",
+    "published_at": "2026-07-28T17:17:00+00:00",
+    "fetched_at": "2026-07-28T17:54:32.300375+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "V"
+      ],
+      "direction": "bearish",
+      "summary": "维萨（Visa）宣布裁员2600人，可能暗示公司面临成本压力或业务调整，短期内对股价构成利空，但需关注裁员是否旨在提升效率。",
+      "translation": "维萨，$V，宣布计划裁员2600人。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082143293689717141",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jim Cramer has said that AI's financing is like the dot-com bubble",
+    "tweet_url": "https://x.com/unusual_whales/status/2082143293689717141",
+    "published_at": "2026-07-28T16:37:00+00:00",
+    "fetched_at": "2026-07-28T17:54:34.952265+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "吉姆·克莱默将人工智能的融资状况比作互联网泡沫，暗示当前对AI的热潮可能过度，存在泡沫风险，对投资者而言是谨慎信号。",
+      "translation": "吉姆·克莱默表示，人工智能的融资就像互联网泡沫一样。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082132473035518224",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -178,6 +218,25 @@
       "summary": "Jim Cramer建议投资者在开盘时卖出所有与数据中心相关的投资，无论成本如何，认为此举不会后悔。这反映了他对数据中心板块的看空态度。",
       "translation": "吉姆·克莱默：“如果你借钱买任何与数据中心相关的东西，今天早上9:30，卖掉它。不管怎样。你不会后悔的。”",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082082896228086162",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AI companies are quietly obtaining rare books, ingesting their contents, and then destroying them, even if they're exceedingly rare, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2082082896228086162",
+    "published_at": "2026-07-28T12:37:00+00:00",
+    "fetched_at": "2026-07-28T17:54:43.462919+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了AI公司暗中获取稀有书籍并销毁的行为，可能对出版业、知识产权和数据安全领域产生影响，建议关注相关行业动态。",
+      "translation": "据《财富》杂志报道，AI公司正在暗中获取稀有书籍，消化其内容，然后将其销毁，即使这些书籍极其罕见。",
+      "confidence": "medium"
     }
   },
   {
