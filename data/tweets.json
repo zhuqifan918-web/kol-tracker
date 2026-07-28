@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2082175588555702410",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "FCC set to ban Chinese imports of humanoid and quadruped robots per Reuters.  \n\nTo protect American Humanoid/Robotics programs.\n\nAgility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this. https://t.co/s2dFWTA4EX",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082175588555702410",
+    "published_at": "2026-07-28T18:45:19+00:00",
+    "fetched_at": "2026-07-28T19:07:31.810192+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文报道美国FCC拟禁止进口中国的人形和四足机器人，利好美国本土企业如Agility Robotics（$CCXI），并暗示相关公司股价可能上涨。",
+      "translation": "据路透社报道，美国联邦通信委员会（FCC）拟禁止进口中国的人形和四足机器人，以保护美国的人形机器人与机器人项目。对于Agility Robotics（$CCXI）及其他美国本土人形机器人公司而言，这应是个好消息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082168459643756993",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Pentagon is moving to build commercial hyperscale AI data centers across multiple U.S. military bases, per POLITICO",
+    "tweet_url": "https://x.com/unusual_whales/status/2082168459643756993",
+    "published_at": "2026-07-28T18:17:00+00:00",
+    "fetched_at": "2026-07-28T19:07:59.715394+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到美国五角大楼计划在多个军事基地建设商业级超大规模AI数据中心，这预示着对AI算力基础设施的需求将大幅增长，可能利好相关科技公司如英伟达等。",
+      "translation": "据POLITICO报道，五角大楼正计划在多个美国军事基地建设商业级超大规模AI数据中心。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082163426332221653",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"AI is at an inflection point where more and more people are doing useful work, meaningful work,\" AMD, $AMD, CEO Lisa Su has said.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082163426332221653",
+    "published_at": "2026-07-28T17:57:00+00:00",
+    "fetched_at": "2026-07-28T19:08:01.525575+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "AMD CEO Lisa Su关于AI拐点的积极言论暗示了AI市场的增长机会，可能利好AMD。",
+      "translation": "AMD首席执行官Lisa Su表示，人工智能正处于一个转折点，越来越多的人正在从事有用且有意义的工作。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082153359885173232",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$NVDA",
-      "$GOOGL",
-      "$TSLA",
-      "$INTC"
+      "AAPL",
+      "GOOGL",
+      "NVDA",
+      "AMD",
+      "TSLA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能投资泡沫",
-      "地缘政治风险升温",
-      "消费疲软与通胀压力",
-      "美联储政策不确定性",
-      "防务与能源安全"
+      "AI与数据中心扩张",
+      "地缘政治风险与石油",
+      "美联储政策不确定性"
     ],
-    "recent_shift": "近期更加强调AI领域风险，与之前对科技股的相对乐观态度形成对比",
+    "recent_shift": "近期对AI泡沫和地缘冲突的担忧增加，同时关注美联储加息可能性",
     "representative_quotes": [
-      "Jim Cramer has said that AI's financing is like the dot-com bubble",
       "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
-      "“The bond market is telling investors it's time to start worrying about the war again,” per BI"
+      "BREAKING: Nvidia, $NVDA, is in talks to provide a $250 billion financial backstop for OpenAI to lease a massive data center project in Ohio, per WSJ",
+      "BREAKING: JPMorgan has said it has turned bullish on stocks."
     ],
-    "generated_at": "2026-07-28T17:54:48.887752+00:00"
+    "generated_at": "2026-07-28T19:08:13.889948+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
