@@ -19,6 +19,25 @@
     }
   },
   {
+    "tweet_id": "2081952284972568683",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Rank-and-file engineers and operators making top-quintile U.S. incomes are being outbid by peers holding pre-IPO equity in the hottest names in AI.\n\nRead more: https://t.co/auJ3fInpRp",
+    "tweet_url": "https://x.com/unusual_whales/status/2081952284972568683",
+    "published_at": "2026-07-28T03:58:00+00:00",
+    "fetched_at": "2026-07-28T07:33:09.394745+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出，顶尖收入阶层的工程师和操作员在竞逐热门AI公司的投资机会时，被持有这些公司pre-IPO股权的同行所超越。这反映了AI领域一级市场融资的优势，但未给出具体的投资建议或方向。",
+      "translation": "收入处于美国前五分之一的普通工程师和操作员，在竞逐最热门AI公司的投资机会时，被持有这些公司首次公开募股前股权的同行所超越。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2081933731833794688",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -1012,6 +1031,25 @@
       "summary": "日本央行下周会议预计维持利率不变，对市场影响中性，投资者需关注后续政策信号。",
       "translation": "日本央行将在下周的政策会议上保持关键利率不变，据日经新闻。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2080663543653785997",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Miami agreed to sell Ken Griffin a site across the street from the planned Citadel headquarters in the Brickell financial district that currently houses an historic cottage, completing the billionaire’s goal of owning the entire block, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2080663543653785997",
+    "published_at": "2026-07-24T14:37:00+00:00",
+    "fetched_at": "2026-07-28T07:33:15.915332+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "Citadel的创始人Ken Griffin在迈阿密Brickell金融区购买地块，完成全街区拥有目标，表明其持续投资和扩张态势，间接利好Citadel关联公司和房地产板块。",
+      "translation": "迈阿密同意出售一地块给Ken Griffin，该地块位于计划中的Citadel总部对面，在Brickell金融区，目前有一座历史小屋，这完成了亿万富翁拥有整个街区的目标，据彭博社报道。",
+      "confidence": "medium"
     }
   },
   {
