@@ -1,50 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$NVDA",
-      "$SIVE",
-      "$GOOGL",
-      "$MU",
-      "$LITE"
+      "SIVE",
+      "AAOI",
+      "NVDA",
+      "NBIS",
+      "LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力需求加速，超大规模资本支出结构性增长",
-      "光子学CPO架构转型，CW激光器成为瓶颈",
-      "内存结构性短缺，DRAM/NAND长期需求受LTA支撑",
-      "人形机器人量产拐点，美国供应链追赶中国",
-      "云计算/新云服务商受益于AI基础设施需求"
+      "AI基础设施和资本支出加速",
+      "光学互联和CPO（共封装光学）",
+      "人形机器人和物理AI",
+      "存储器结构性需求",
+      "美国制造业回流和供应链瓶颈"
     ],
-    "recent_shift": "近期市场恐慌性抛售后，更加坚定看多AI核心瓶颈领域，认为基本面未变，回调是布局机会。",
+    "recent_shift": "最近观点调仓后持续看多，认为恐慌性抛售是流动性和杠杆导致的，而非基本面变化。",
     "representative_quotes": [
       "I personally see it as extreme short term deleveraging that overshot many individual names.",
-      "Think earnings season tend to remind markets about continued AI acceleration.",
-      "My guess is that we'll see the theme recover broadly. But I can't predict what hour, day, or week that happens."
+      "My guess is we're close to market bottom on semis from $INTC to $LITE.",
+      "But as a TLDR, looks very positive for the themes I'm tracking."
     ],
-    "generated_at": "2026-07-28T22:52:34.248271+00:00"
+    "generated_at": "2026-07-28T23:51:49.367355+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AMD",
-      "$V",
-      "$AAPL",
-      "$NVDA",
-      "$GOOGL"
+      "AAPL",
+      "GOOGL",
+      "NVDA",
+      "TSLA",
+      "AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与数据中心扩张",
-      "地缘政治风险（美伊冲突、中美贸易）",
-      "货币政策与美联储动向",
-      "消费降级与住房成本上升"
+      "AI与数据中心投资热潮",
+      "地缘政治风险（伊朗、也门胡塞武装）",
+      "美联储利率政策不确定性",
+      "消费者支出与住房市场降温",
+      "科技巨头财报分化"
     ],
-    "recent_shift": "早期偏向科技股乐观情绪，近期转为警惕回调风险，如引用Cramer对数据中心融资泡沫的警告。",
+    "recent_shift": "近期从关注AI利好转向对AI泡沫风险、利率政策分歧及地缘冲突加剧的担忧，整体情绪转为谨慎。",
     "representative_quotes": [
-      "Jim Cramer has said that AI's financing is like the dot-com bubble",
-      "The Fed will hold rates in July, per Bank of America.",
-      "Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg."
+      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'",
+      "There is a 36% chance the Fed does 2 rate hikes in 2026, per Polymarket",
+      "BREAKING: JPMorgan has said it has turned bullish on stocks."
     ],
-    "generated_at": "2026-07-28T22:52:31.006874+00:00"
+    "generated_at": "2026-07-28T23:51:52.012580+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
