@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GOOGL",
-      "$TSLA",
       "$NVDA",
       "$AAPL",
-      "$ORCL"
+      "$TSLA",
+      "$GOOGL",
+      "$AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "利率政策与美联储",
-      "地缘冲突与能源价格",
-      "大规模AI投资与市场泡沫",
-      "住房成本与宏观经济"
+      "美联储利率决策与市场预期",
+      "地缘政治风险与关税影响",
+      "科技巨头盈利与资本支出",
+      "消费者与房地产市场压力",
+      "大宗商品与能源价格波动"
     ],
-    "recent_shift": "近期观点从关注科技股盈利转向地缘紧张和利率政策，偏向风险规避",
+    "recent_shift": "近期从关注企业盈利和利率转向更多聚焦地缘政治风险和油价冲击。",
     "representative_quotes": [
-      "Call your Google. It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
-      "The bond market is telling investors it's time to start worrying about the war again",
-      "The Treasury market looks healthy, but underneath, a combustible mix is brewing: the U.S. is issuing record debt into a market increasingly unfriendly to profligate governments."
+      "JPMorgan has said it has turned bullish on stocks.",
+      "There is a 70% chance that Apple, $AAPL, is the largest company by end of July, per Polymarket",
+      "Gold has overtaken US Treasuries in Central Bank FX reserves, per Bloomberg."
     ],
-    "generated_at": "2026-07-28T10:25:35.598308+00:00"
+    "generated_at": "2026-07-28T12:19:47.713000+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
