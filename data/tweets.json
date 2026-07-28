@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2082108061838155857",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, officially launches Klarna leasing in US to make iPhones and Macs more affordable.\n\nThe smallest iPhone leasing option is $17.99 per month",
+    "tweet_url": "https://x.com/unusual_whales/status/2082108061838155857",
+    "published_at": "2026-07-28T14:17:00+00:00",
+    "fetched_at": "2026-07-28T14:56:43.632061+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "苹果宣布在美国正式推出Klarna分期租赁服务，最低月付17.99美元即可租用iPhone，此举旨在降低产品购买门槛。对苹果而言，该合作可能刺激销量但需关注对利润率的影响，目前市场反应中性。",
+      "translation": "苹果公司（$AAPL）在美国正式推出Klarna租赁服务，使iPhone和Mac更易负担。最低的iPhone租赁选项为每月17.99美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082103028610449563",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The Fed will hold rates in July,\" per Bank of America.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082103028610449563",
+    "published_at": "2026-07-28T13:57:00+00:00",
+    "fetched_at": "2026-07-28T14:56:45.033781+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国银行预测美联储7月维持利率不变，市场解读为鸽派信号，利好股市。",
+      "translation": "据美国银行称，美联储将在7月维持利率不变。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082092997622280410",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "看到一句话，\n人类往往高估了一年内的变化，\n同时也低估了10年后的变化。\n最近亏到迷茫和自我怀疑，\n存储真是盈亏同源的一波，\n今年赚钱是因为存储，\n亏钱还是因为存储。\n巴菲特真是太牛逼，\n他能在资本市场活这么久，肉体也能活这么久，跟他没杠杆，一直没满仓的操作风格肯定多少有关系，像我们普通人可能为了暴富上杠杆焦虑得睡不着觉，或者富了以后一直带杠杆亏盈都焦虑。\n看他公司股价历史也无数次腰斩过，\n但过几年还是能不断新高。\n亏成这样，事已至此，\n我在想以后我应该以什么样心态炒股票，\n我应该以什么样眼光再看待未来，\n去年的时候跟朋友一起抄底过300左右联合健康，拿了小半年毫无反应跑了，最近每次想到巴菲特的时候都想起来他在任时候最后也抄了联合健康，再去看的时候已经400多。什么样的心态才能做到他这种耐心愿意等待非常久获得收益。\n对我们散户青春宝贵，\n每次大幅回撤我都有一种时间的蹉跎感，\n即使以后涨回来，除了劫后余生的轻松，\n我总感觉有一部分的我在承受亏损的过程中死了，少了少年气。\n但巴菲特面对回撤暴跌可能是真的兴奋，他的闲置仓位太多了全是货币资金，可能闲钱足够多就是他耐心和长寿的主因。",
+    "tweet_url": "https://x.com/xiaomustock/status/2082092997622280410",
+    "published_at": "2026-07-28T13:17:08+00:00",
+    "fetched_at": "2026-07-28T14:56:31.036810+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "UNH"
+      ],
+      "direction": "bullish",
+      "summary": "推文反思杠杆和满仓操作的风险，强调耐心和闲钱对长期投资的重要性，并以联合健康为例，指出长期持有可以获得可观回报。",
+      "translation": "看到一句话，人类往往高估了一年内的变化，同时也低估了10年后的变化。最近亏到迷茫和自我怀疑，存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。巴菲特真是太牛逼，他能在资本市场活这么久，肉体也能活这么久，跟他没杠杆，一直没满仓的操作风格肯定多少有关系，像我们普通人可能为了暴富上杠杆焦虑得睡不着觉，或者富了以后一直带杠杆亏盈都焦虑。看他公司股价历史也无数次腰斩过，但过几年还是能不断新高。亏成这样，事已至此，我在想以后我应该以什么样心态炒股票，我应该以什么样眼光再看待未来，去年的时候跟朋友一起抄底过300左右联合健康，拿了小半年毫无反应跑了，最近每次想到巴菲特的时候都想起来他在任时候最后也抄了联合健康，再去看的时候已经400多。什么样的心态才能做到他这种耐心愿意等待非常久获得收益。对我们散户青春宝贵，每次大幅回撤我都有一种时间的蹉跎感，即使以后涨回来，除了劫后余生的轻松，我总感觉有一部分的我在承受亏损的过程中死了，少了少年气。但巴菲特面对回撤暴跌可能是真的兴奋，他的闲置仓位太多了全是货币资金，可能闲钱足够多就是他耐心和长寿的主因。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082090769905582115",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
+    "tweet_url": "https://x.com/unusual_whales/status/2082090769905582115",
+    "published_at": "2026-07-28T13:08:17+00:00",
+    "fetched_at": "2026-07-28T14:56:49.304652+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "Jim Cramer建议投资者在开盘时卖出所有与数据中心相关的投资，无论成本如何，认为此举不会后悔。这反映了他对数据中心板块的看空态度。",
+      "translation": "吉姆·克莱默：“如果你借钱买任何与数据中心相关的东西，今天早上9:30，卖掉它。不管怎样。你不会后悔的。”",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082072829495820581",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -56,6 +136,25 @@
       "summary": "Citadel Securities预期美联储本周加息，这可能对股市和债市产生负面影响，导致资金成本上升和流动性收紧。投资者需警惕利率上升对高风险资产的压力。",
       "translation": "突发：Citadel Securities表示，预计美联储本周将加息。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2081960589836878008",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "While grocery prices have been on the rise, the volume of items sold has decreased.\n\nRead more: https://t.co/Wy1RlKGZmr",
+    "tweet_url": "https://x.com/unusual_whales/status/2081960589836878008",
+    "published_at": "2026-07-28T04:31:00+00:00",
+    "fetched_at": "2026-07-28T14:57:01.859246+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出食品杂货价格上涨但销量下降，反映消费疲软和通胀压力，可能暗示相关零售或消费品公司面临利润率压缩风险。",
+      "translation": "虽然食品杂货价格持续上涨，但售出的商品数量却减少了。",
+      "confidence": "medium"
     }
   },
   {
@@ -23192,6 +23291,25 @@
       "summary": "该推文关注$XFAB获得Bernstein outperform评级，暗示分析师看好该股票，可能带来投资机会。",
       "translation": "@aleabitoreddit 对$XFAB Bernstein的跑赢评级有什么看法？",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2069337580601225402",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我对上半年很知足，\n所以下半年只追求能睡得着的操作，\n或者操作了以后能睡得着，\n总之得睡得着😀 https://t.co/SsG6JCsBkG",
+    "tweet_url": "https://x.com/xiaomustock/status/2069337580601225402",
+    "published_at": "2026-06-23T08:31:40+00:00",
+    "fetched_at": "2026-07-28T14:56:33.969699+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文表达了作者对上半年投资业绩满意，下半年更倾向于稳健操作、追求能安心入睡的策略。整体投资心态偏向保守和风险控制。",
+      "translation": "我对上半年很知足，所以下半年只追求能睡得着的操作，或者操作了以后能睡得着，总之得睡得着😀",
+      "confidence": "low"
     }
   },
   {
