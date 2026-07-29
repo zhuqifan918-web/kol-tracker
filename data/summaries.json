@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "CAVA",
-      "INTC",
-      "AMD"
+      "$META",
+      "$CAVA",
+      "$NVDA",
+      "$AAPL",
+      "$AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济与利率预期",
-      "地缘政治风险（伊朗、也门）",
-      "人工智能基建与泡沫辩论",
-      "市场流动性及杠杆变化"
+      "美股市场整体承压",
+      "地缘政治风险（伊朗、韩国）加剧波动",
+      "利率预期分歧与FOMC关键事件",
+      "AI投资泡沫论与行业分化",
+      "消费者支出疲软与房产负担加重"
     ],
-    "recent_shift": "近期更关注美联储7月利率决议的定价分歧及地缘冲突对风险资产的压制，而早期更多聚焦AI结构性投资机会。",
+    "recent_shift": "近期更强调韩国股市暴跌、滞胀担忧以及美联储可能加息的风险，相较之前突出AI相关个股（如Apple市值新高）的乐观情绪，转向谨慎甚至看空。",
     "representative_quotes": [
+      "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today. It is down more than 30% this month alone.",
       "JPMorgan says it expects the Fed to hold rates today.",
-      "Trump's posts don't move markets like they used to.",
-      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'"
+      "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it.”"
     ],
-    "generated_at": "2026-07-29T14:43:41.254264+00:00"
+    "generated_at": "2026-07-29T16:16:23.613282+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
