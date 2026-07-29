@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "LITE",
-      "NVDA",
-      "AAOI",
-      "MU"
+      "$SIVE",
+      "$NVDA",
+      "$LITE",
+      "$AAOI",
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施支出持续增长",
-      "光通信/CPO产业链瓶颈",
-      "记忆体结构性需求",
-      "人形机器人规模化",
-      "市场错杀与技术性回调"
+      "AI基础设施与资本支出持续增长",
+      "光子学与CPO（共封装光学）结构性需求",
+      "内存与半导体瓶颈长期化",
+      "人形机器人规模化落地",
+      "美国制造业回流与供应链安全"
     ],
-    "recent_shift": "本周最初因Meta compute削减传闻和CPO延迟报告出现恐慌性下跌，但随后NVIDIA否认延迟、Meta澄清资金计划，叠加大量Q2财报超预期（Bloom Energy、Teradyne、Innolight等），分析师判断基本面未变，市场情绪从极度悲观转为逢低买入。",
+    "recent_shift": "近期观点未变，持续看多AI基础设施和光学互联，认为当前市场下跌是杠杆清算和非理性恐慌，基本面未恶化。",
     "representative_quotes": [
-      "“When you have Jim Cramer telling every margined DC trader to 'sell everything' at market open and news saying there's an AI bubble. I do hate it when others say 'it's dropping so sell'. My belief is that the important thing to look is accelerating revenue/EPS growth.”",
-      "“I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.”",
-      "“$GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. ... This is perhaps the most bullish read through on upstream semis from a hyperscaler.”"
+      "But when you have Jim Cramer telling every margined DC trader to 'sell everything' at market open and news saying there's an AI bubble. I do hate it when others say 'it's dropping so sell'. My belief is that the important thing to look is accelerating revenue/EPS growth.",
+      "I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track. And my guess is that we'll see the theme recover broadly.",
+      "Retail thinks a 30-60% drop is a 'falling knife' where bagholders will never recover... I see it as long term ownership over... leader of the next optical shift with $SIVE with CW DFB lasers... inside a future trillion dollar theme."
     ],
-    "generated_at": "2026-07-29T18:58:39.502396+00:00"
+    "generated_at": "2026-07-29T20:10:55.187073+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$NVDA",
-      "$META",
-      "$CAVA",
-      "$AMD"
+      "AAPL",
+      "NVDA",
+      "META",
+      "AMD",
+      "CAVA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "美联储政策与市场预期",
-      "AI建设与投资热潮",
-      "地缘政治风险（美伊冲突、韩国股市动荡）",
-      "消费者经济信号分化",
-      "市场波动与结构性机会"
+      "美联储政策与利率预期",
+      "AI投资泡沫与基础设施",
+      "地缘政治风险与市场波动"
     ],
-    "recent_shift": "近期观点从技术性看多转向中性，强调宏观不确定性增加，尤其是联储按兵不动和地缘事件对冲风险。",
+    "recent_shift": "近期对美联储降息预期减弱，转向关注通胀和利率上调风险",
     "representative_quotes": [
-      "73% chance the Fed hikes rates by October, per Polymarket",
+      "Fed's Warsh: If inflation stays high, rates could be part of the solution.",
       "JPMorgan has said stocks are flashing a 'buy signal.'",
-      "The bond market is telling investors it's time to start worrying about the war again, per BI"
+      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'"
     ],
-    "generated_at": "2026-07-29T18:58:34.640898+00:00"
+    "generated_at": "2026-07-29T20:10:58.260413+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
