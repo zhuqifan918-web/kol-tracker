@@ -1,5 +1,121 @@
 [
   {
+    "tweet_id": "2082557648298516918",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "To show solidarity with the $IREN holders:\n\nI now own 1 share of IREN.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082557648298516918",
+    "published_at": "2026-07-29T20:03:30+00:00",
+    "fetched_at": "2026-07-29T20:09:50.243351+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IREN"
+      ],
+      "direction": "bullish",
+      "summary": "该推文表明用户购买IREN股票以表达对其持有者的支持，暗示对IREN的看涨立场。",
+      "translation": "为了表达对$IREN持有者的声援：我现在持有1股IREN。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082549973346812373",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Fed swaps no longer fully price in a September rate hike, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082549973346812373",
+    "published_at": "2026-07-29T19:33:00+00:00",
+    "fetched_at": "2026-07-29T20:10:09.317703+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储互换市场不再完全定价9月加息，暗示市场对加息预期减弱，可能影响美元和风险资产。",
+      "translation": "突发：据彭博社报道，美联储互换市场不再完全定价9月加息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082545946785722406",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "FOMC IS TODAY\n\nWill the Fed cut rates?\n\nListen to the experts, including:\n\n@josephwang\n@MPelletierCIO\n@super_macro\n\n&amp; more.\n\nListen in today at 1255PM EST: https://t.co/dgiR3DNjUC",
+    "tweet_url": "https://x.com/unusual_whales/status/2082545946785722406",
+    "published_at": "2026-07-29T19:17:00+00:00",
+    "fetched_at": "2026-07-29T20:10:11.756418+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出今天是联邦公开市场委员会（FOMC）会议日，市场关注美联储是否降息。推荐了一些专家观点，并提供了一个收听链接。没有直接给出看涨或看跌信号，仅为事件提醒。",
+      "translation": "今天是FOMC会议日。美联储会降息吗？听听专家们的意见，包括@josephwang、@MPelletierCIO、@super_macro等。今天美国东部时间下午12:55收听：https://t.co/dgiR3DNjUC",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082545695022891031",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Warsh: AI investment is laying the groundwork for future growth.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082545695022891031",
+    "published_at": "2026-07-29T19:16:00+00:00",
+    "fetched_at": "2026-07-29T20:10:13.410350+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美联储官员Warsh认为AI投资正在为未来增长奠定基础，暗示对AI相关产业长期前景看好。",
+      "translation": "美联储的Warsh：AI投资正在为未来增长奠定基础。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082543665960902895",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Warsh: The bond market seems to be saying the economy is strong and steady.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082543665960902895",
+    "published_at": "2026-07-29T19:07:56+00:00",
+    "fetched_at": "2026-07-29T20:10:15.008234+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "联储官员Warsh称债券市场表明经济强劲稳定，暗示经济增长前景乐观，利好风险资产。",
+      "translation": "美联储的Warsh：债券市场似乎在表明经济强劲且稳定。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082542172155638252",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Warsh: If inflation stays high, rates could be part of the solution.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082542172155638252",
+    "published_at": "2026-07-29T19:02:00+00:00",
+    "fetched_at": "2026-07-29T20:10:16.901693+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员沃什表示若通胀持续高企，利率可能成为调控工具。这暗示未来可能继续加息，对市场流动性及资产估值构成压力，投资者需警惕债券收益率上升及股市承压风险。",
+      "translation": "美联储的沃什：如果通胀持续高企，利率可能成为解决方案的一部分。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082538444757008771",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
