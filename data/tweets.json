@@ -1,5 +1,81 @@
 [
   {
+    "tweet_id": "2082538444757008771",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Warsh: The bone market seems to be saying the economy is strong and steady.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082538444757008771",
+    "published_at": "2026-07-29T18:47:11+00:00",
+    "fetched_at": "2026-07-29T18:57:50.627067+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美联储官员Warsh表示，债券市场暗示美国经济强劲且稳定，市场情绪偏乐观，但未提及具体标的或投资建议。投资者可关注宏观政策动向，但需警惕过度解读单一言论。",
+      "translation": "美联储的Warsh：债券市场似乎在说经济强劲且稳定。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082529316655763703",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%.  \n\nSo far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already).   \n\nThink everyone is waiting for the Fed Chair commentary now. https://t.co/2bZtg5UKEb",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082529316655763703",
+    "published_at": "2026-07-29T18:10:55+00:00",
+    "fetched_at": "2026-07-29T18:57:32.792790+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储维持利率不变，市场对加息预期已提前消化，现在所有人都在等待美联储主席的讲话，整体市场情绪中性。",
+      "translation": "美联储将利率维持在3.50%-3.75%不变。目前来看还不错，因为如果立即加息，市场会抛售（似乎已经提前消化了加息预期）。我认为所有人都在等待美联储主席的讲话。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082529158777716816",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: 3 Fed members dissented to keep rates the same, the first time since 2016.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082529158777716816",
+    "published_at": "2026-07-29T18:10:17+00:00",
+    "fetched_at": "2026-07-29T18:57:53.345343+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储三位成员反对维持利率不变，暗示内部分歧加大，可能预示未来政策转向宽松，对市场构成潜在利空。",
+      "translation": "突发：3名美联储成员反对维持利率不变，自2016年以来首次出现这种情况。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082526635413123360",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Federal Reserve has held rates, with no cuts.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082526635413123360",
+    "published_at": "2026-07-29T18:00:16+00:00",
+    "fetched_at": "2026-07-29T18:57:54.621240+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储维持利率不变，未进行降息，这一决定可能对市场流动性产生影响，投资者需关注后续政策动向。",
+      "translation": "突发：美联储维持利率不变，未进行降息。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082514514004562200",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

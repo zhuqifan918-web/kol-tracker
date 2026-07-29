@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$LITE",
-      "$AAOI",
-      "$MU",
-      "$AMD"
+      "SIVE",
+      "LITE",
+      "NVDA",
+      "AAOI",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI 资本支出持续加速",
-      "光子学与 CPO 架构升级",
-      "内存与 HBM 结构性需求",
-      "机器人与人形机器人供应链",
-      "去杠杆后的板块修复"
+      "AI基础设施支出持续增长",
+      "光通信/CPO产业链瓶颈",
+      "记忆体结构性需求",
+      "人形机器人规模化",
+      "市场错杀与技术性回调"
     ],
-    "recent_shift": "近期对 CPO 延迟和 Meta 算力的恐慌性抛售被视为非基本面驱动，作者认为修复在即。",
+    "recent_shift": "本周最初因Meta compute削减传闻和CPO延迟报告出现恐慌性下跌，但随后NVIDIA否认延迟、Meta澄清资金计划，叠加大量Q2财报超预期（Bloom Energy、Teradyne、Innolight等），分析师判断基本面未变，市场情绪从极度悲观转为逢低买入。",
     "representative_quotes": [
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
-      "If a thesis ends up correct, the valuation should be reflected in the long run.",
-      "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves."
+      "“When you have Jim Cramer telling every margined DC trader to 'sell everything' at market open and news saying there's an AI bubble. I do hate it when others say 'it's dropping so sell'. My belief is that the important thing to look is accelerating revenue/EPS growth.”",
+      "“I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.”",
+      "“$GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. ... This is perhaps the most bullish read through on upstream semis from a hyperscaler.”"
     ],
-    "generated_at": "2026-07-29T17:46:20.941712+00:00"
+    "generated_at": "2026-07-29T18:58:39.502396+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -29,23 +29,23 @@
       "$NVDA",
       "$META",
       "$CAVA",
-      "$SKHY"
+      "$AMD"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "FOMC利率决议与市场预期",
-      "地缘政治风险（伊朗、韩国、也门胡塞武装）",
-      "AI基础设施建设与硬件泡沫讨论",
-      "美国经济衰退信号（消费者支出、房贷、违约率）",
-      "政策干预与监管（韩国股市稳定、特朗普关税）"
+      "美联储政策与市场预期",
+      "AI建设与投资热潮",
+      "地缘政治风险（美伊冲突、韩国股市动荡）",
+      "消费者经济信号分化",
+      "市场波动与结构性机会"
     ],
-    "recent_shift": "近期新增对FOMC会议的高度关注，并强调韩国股市暴跌和AI领涨股面临做空风险的反应加剧市场不确定性。",
+    "recent_shift": "近期观点从技术性看多转向中性，强调宏观不确定性增加，尤其是联储按兵不动和地缘事件对冲风险。",
     "representative_quotes": [
+      "73% chance the Fed hikes rates by October, per Polymarket",
       "JPMorgan has said stocks are flashing a 'buy signal.'",
-      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it.'",
-      "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today."
+      "The bond market is telling investors it's time to start worrying about the war again, per BI"
     ],
-    "generated_at": "2026-07-29T17:46:24.806070+00:00"
+    "generated_at": "2026-07-29T18:58:34.640898+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
