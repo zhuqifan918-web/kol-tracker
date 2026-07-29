@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2082425150784590177",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan has said stocks are flashing a \"buy signal.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2082425150784590177",
+    "published_at": "2026-07-29T11:17:00+00:00",
+    "fetched_at": "2026-07-29T12:30:31.231769+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根大通表示股市正在发出买入信号，这是对市场的积极看法，可能意味着短期内存在投资机会。",
+      "translation": "摩根大通表示股市正在发出“买入信号”。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082420117745684989",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "FOMC IS TODAY\n\nWill the Fed cut rates?\n\nListen to the experts, including:\n\n@josephwang\n@MPelletierCIO\n@super_macro\n\n&amp; more.\n\nListen in today at 1255PM EST: https://t.co/dgiR3DNRKa",
+    "tweet_url": "https://x.com/unusual_whales/status/2082420117745684989",
+    "published_at": "2026-07-29T10:57:00+00:00",
+    "fetched_at": "2026-07-29T12:30:33.452298+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提醒今日FOMC会议，讨论美联储是否降息，并引导收听专家分析，属于市场事件预告，未给出明确方向。",
+      "translation": "联邦公开市场委员会（FOMC）会议就在今天。美联储会降息吗？听听专家怎么说，包括约瑟夫·王、MPelletierCIO、super_macro等人。今天下午12:55（东部时间）收听：https://t.co/dgiR3DNRKa",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082415084618613205",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Cava, $CAVA, and its top leaders face a massive $2.2 billion insider trading and breach of fiduciary duty lawsuit filed by the Cleveland Bakers and Teamsters Pension Fund in the Delaware Chancery Court, per Bloomberg.\n\nThe unsealed complaint alleges executives and financial backers dumped stock while hiding slowing growth.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082415084618613205",
+    "published_at": "2026-07-29T10:37:00+00:00",
+    "fetched_at": "2026-07-29T12:30:36.301902+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CAVA"
+      ],
+      "direction": "bearish",
+      "summary": "该推文报道CAVA高管面临22亿美元内幕交易诉讼，指控其隐藏增长放缓并抛售股票，对于CAVA股票构成重大负面消息，建议投资者警惕风险。",
+      "translation": "Cava（$CAVA）及其高层领导面临由克利夫兰面包师和卡车司机养老金基金在特拉华州衡平法院提起的22亿美元内幕交易和违反信义义务诉讼，据彭博社报道。解封的诉状指控高管和财务支持者在隐瞒增长放缓的同时抛售股票。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082305858705215811",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1339,6 +1398,37 @@
       "summary": "该推文引用华尔街日报指出，婴儿潮一代已主导住房市场，且作为空巢老人反而追求更大房屋，这暗示住房需求结构可能扭曲，对首次购房者和年轻人不友好，长期可能抑制房地产市场的健康循环，属于利空因素。",
       "translation": "据《华尔街日报》，婴儿潮一代已经主导了住房市场。现在，作为空巢老人，他们想要更大的房子。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2081472671129501729",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. \n\n- Samsung + $AVGO sign memory + foundry AI framework through 2030, expected to exceed $200b\n\n- $SOI expects FY2027 silicon photonics revenue to double compared to the previous year, surpassing Morgan Stanley's 60% growth projection. Photonics thesis go brrr. \n\n- SK Group + $NVDA sign $500B+ partnership to build out AI DCs and HBM4 memory. \n\n- SKC Absolics glass core delay to 2027 from reports. Targeting final reliability testing EOY, mass production next year. So if you're curious, this does push back some ramps from $LPK and others (hence drop on ER). \n\n- $QCOM price hikes by double digits for smartphone processors, due to upstream supplier hike pricing.\n\n- $META expected to issue $12B in project-level/SPV financing for El Paso, Texas AI DC expansion \n\n- Naver announced a $10 billion investment from $NVDA and Brookfield to construct a 1GW-scale AI Factory. Near term plan is 200MW by 2028. (Nvidia $1B investment, Brookfield nonbinding $9B)\n\n- 64GB DDR5 server modules rises 146% versus end-June contract pricing\n\n- $INTC brought forward 14A process mass production  by a year, risk production H2 2027 and volume production in 2028, vs. 2029 HVM expectations. \n\n- Samsung Electro-Mechanics wins $200m MLCC order (existing bottleneck).  \n\n- $AMD (the Bandana bottleneck), announces Helios is in full production with shipments Q3 2026. Including an up to 2GW MI455X GPU deployment with Anthropic and a 6GW infrastructure rollout with OpenAI. Gave new >50% CAGR TAM to $220B by 2030 from $26b in 2025 for CPU market. \n\nRolls out optical interconnects for Mi500 in 2027. From channel checks, AMD is heading down to the CPO route (seems likely to use Ayar).  \n\n- $ORCL wins $7B Department of War enterprise software contract\n\n- JX metal doubles semi target capacity at its KR subsidary with a 4B yen investment, with operations to begin H2 2027, amid surging demand from major customers Samsung Electronics and SK Hynix\n\n- Tungsten hexafluoride spot prices surged 2.1-2.5x Y/Y following Japan's Kanto Denka and Chuo Gas announcing permanent production halts. Fluorinated liquid supply faces a vacuum as 3M plans to exit PFAS production. \n\n- From the four optical chipmaker earnings, Yuanjie/Eoptolink/TFC Optical/Dongshan Precision: no major order cuts, 1.6T shipments expected to accelerate into 2027. Optical chip suppliers expected to capture outsized margins from shortages. \n\n- Unitree Robotics Targets 30,000 Humanoid Robot Production Capacity by 2026. Read through on humanoid TAM scaling like $CCXI and others. \n\n- Energy storage lithium batteries orders increase first half orders by 2,900% apparently in China. Not as familiar with EVE Energy and other battery makers.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2081472671129501729",
+    "published_at": "2026-07-26T20:12:11+00:00",
+    "fetched_at": "2026-07-29T12:30:08.687531+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CXMT",
+        "AVGO",
+        "SOI",
+        "NVDA",
+        "QCOM",
+        "META",
+        "INTC",
+        "AMD",
+        "ORCL",
+        "LPK",
+        "CCXI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文汇总了多条半导体、AI基础设施及硬件相关的重要新闻，包括多家公司的IPO、合作、订单、产能调整及价格变动，整体信息量大，暂无明显市场方向偏好。",
+      "translation": "以下是一些快讯新闻：- 中国内存公司CXMT明日IPO；- 三星电子在FC-BGA基板方面遇阻，Ibiden要求长期协议担保，三星电机寻求预付款；- 三星与AVGO签署至2030年的内存与代工AI框架，预计价值超过2000亿美元；- SOI预计2027财年硅光子收入同比翻倍，超过摩根士丹利60%的增长预期；- SK集团与NVDA签署超过5000亿美元的AI数据中心和HBM4内存合作；- SKC Absolics的玻璃基板延迟至2027年，年底进行最终可靠性测试，明年量产；- QCOM智能手机处理器涨价两位数百分比；- META预计为El Paso的AI数据中心扩建发行120亿美元项目融资；- Naver宣布获得NVDA和Brookfield的100亿美元投资，建设1GW AI工厂；- 64GB DDR5服务器模组价格较6月底合同价上涨146%；- INTC将14A工艺量产时间提前一年，风险生产2027下半年，2028年量产；- 三星电机赢得2亿美元MLCC订单；- AMD宣布Helios全面投产，2026年Q3出货，并给出到2030年CPU市场50%以上CAGR预期；- 甲骨文赢得70亿美元国防部企业软件合同；- JX金属在韩国子公司产能翻倍；- 六氟化钨现货价格同比上涨2.1-2.5倍；- 四家光芯片公司财报显示无大单削减，1.6T出货加速；- 宇树科技目标2026年人形机器人产能3万台；- 中国储能锂电池订单上半年同比增长2900%。",
+      "confidence": "high"
     }
   },
   {
