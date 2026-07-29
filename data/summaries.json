@@ -1,51 +1,50 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "LITE",
-      "NVDA",
-      "MU",
-      "AAOI"
+      "$META",
+      "$MSFT",
+      "$GOOGL",
+      "$AMD",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力基础设施的持续资本支出",
-      "光子学和CPO光学互联的技术革命",
-      "内存和HBM的结构性短缺与LTA锁定",
-      "人形机器人的规模化量产进展",
-      "半导体瓶颈环节的长期投资机会"
+      "AI基础设施投资持续增长",
+      "计算资源稀缺性",
+      "光学互连与CPO技术升级",
+      "记忆体结构性需求增长",
+      "人形机器人供应链发展"
     ],
-    "recent_shift": "近期市场回调后，作者更强调基本面和长期结构需求未变，认为恐慌是流动性问题而非基本面转向。",
+    "recent_shift": "最近观点无明显变化，依然看好AI基础设施长期需求。",
     "representative_quotes": [
-      "Stop panicking. Take a second and really evaluate what you’re holding in your portfolio. … If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
-      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
-      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
+      "Compute scarcity is visible throughout every single hyperscaler ER.",
+      "AI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL.",
+      "My belief is that the important thing to look is accelerating revenue/EPS growth. And if that thesis stays in-tact with revenue acceleration in line with hyperscaler capex."
     ],
-    "generated_at": "2026-07-29T22:27:47.418775+00:00"
+    "generated_at": "2026-07-29T23:30:14.927069+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$CAVA",
-      "$SKHY",
       "$AAPL",
-      "$AMD"
+      "$NVDA",
+      "$CAVA",
+      "$AMD",
+      "$META"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "韩国零售投资者因杠杆产品巨额亏损",
-      "美联储利率决策及市场预期分歧",
-      "AI投资与基建扩张引发泡沫担忧",
-      "地缘政治风险（伊朗、也门、中美关税）",
-      "市场流动性压力与期权交易策略"
+      "美联储政策与利率预期分化",
+      "韩国散户杠杆爆仓危机",
+      "AI投资泡沫与地缘风险",
+      "消费疲软与市场波动加剧"
     ],
-    "recent_shift": "近期观点从前期的美联储降息预期转向利率维持或加息的现实，并突出韩国股市暴跌和AI泡沫风险。",
+    "recent_shift": "早期强调AI增长和科技创新，近期转为关注利率不确定性、韩国市场暴跌及地缘冲突风险。",
     "representative_quotes": [
       "Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi.",
-      "BREAKING: The Federal Reserve has held rates, with no cuts.",
+      "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today. It is down more than 30% this month alone.",
       "Jim Cramer has said that AI's financing is like the dot-com bubble"
     ],
-    "generated_at": "2026-07-29T22:27:43.789809+00:00"
+    "generated_at": "2026-07-29T23:30:11.162031+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
