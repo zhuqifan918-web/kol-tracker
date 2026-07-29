@@ -25,25 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$NVDA",
-      "$TSLA",
-      "$GOOGL",
-      "$AMD"
+      "AAPL",
+      "NVDA",
+      "CAVA",
+      "INTC",
+      "AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治与利率博弈",
-      "AI军备竞赛与资本开支",
-      "市场分化与消费者疲软"
+      "宏观经济与利率预期",
+      "地缘政治风险（伊朗、也门）",
+      "人工智能基建与泡沫辩论",
+      "市场流动性及杠杆变化"
     ],
-    "recent_shift": "近期强调市场短期波动加剧，但长期科技股与AI主题仍被看好，同时关注地缘冲突与加息风险。",
+    "recent_shift": "近期更关注美联储7月利率决议的定价分歧及地缘冲突对风险资产的压制，而早期更多聚焦AI结构性投资机会。",
     "representative_quotes": [
-      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
-      "73% chance the Fed hikes rates by October, per Polymarket.",
-      "BREAKING: JPMorgan has said it has turned bullish on stocks."
+      "JPMorgan says it expects the Fed to hold rates today.",
+      "Trump's posts don't move markets like they used to.",
+      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'"
     ],
-    "generated_at": "2026-07-29T12:31:04.598389+00:00"
+    "generated_at": "2026-07-29T14:43:41.254264+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
