@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2082305858705215811",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today.\n\nIt is down more than 30% this month alone.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082305858705215811",
+    "published_at": "2026-07-29T03:22:58+00:00",
+    "fetched_at": "2026-07-29T05:00:49.690245+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KOSPI"
+      ],
+      "direction": "bearish",
+      "summary": "韩国KOSPI指数今日暴跌7.5%，本月累计跌幅超过30%，市场情绪极端悲观，可能引发投资者恐慌和进一步抛售。",
+      "translation": "突发：韩国股票市场指数KOSPI今日下跌超过7.5%。本月累计跌幅超过30%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082282058270028009",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: This stream was a really good example of why I like combining tools instead of relying on one signal.\n\nWe were using @unusual_whales flow, Market Tide, and the new 1 minute Periscope updates while watching the market in real time.\n\nYou’ll learn:\n• How 1 minute Periscope updates helped with timing\n• Why gamma levels can matter for quick scalps\n• How Market Tide helped keep the read grounded\n• Why heavy negative gamma can create chop\n• How patience helped avoid forcing bad trades\n• Why taking a small loss and resetting matters\n\nThis was not a perfect hindsight recap.\nIt was live decision making while the market was moving.\n\nWatch here:\nhttps://t.co/6Rk1anlt7Y\n\nIf you’ve always wanted to try @unusual_whales, you can save 10% on your annual or monthly subscription with the link below:\nhttps://t.co/cNSsGRNj7z",
+    "tweet_url": "https://x.com/unusual_whales/status/2082282058270028009",
+    "published_at": "2026-07-29T01:48:24+00:00",
+    "fetched_at": "2026-07-29T05:00:59.354246+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文介绍了实时市场分析中结合多种工具（如Unusual Whales流动数据、Market Tide和Periscope一分钟更新）的价值，强调了耐心、风控以及利用伽马水平进行短线交易的重要性。内容涉及对交易策略的正面阐述，暗示使用相关工具和平台（如Unusual Whales）能辅助提高交易决策质量。",
+      "translation": "RT @AnthonySandford：这个直播很好地展示了我为什么喜欢结合多种工具而不是依赖单一信号。\n\n我们当时正在使用@unusual_whales的流动数据、Market Tide和新的Periscope一分钟更新，实时观察市场。\n\n你会学到：\n• Periscope一分钟更新如何帮助把握时机\n• 伽马水平为何对快速短线交易重要\n• Market Tide如何帮助保持判断的客观性\n• 为什么重负伽马会导致市场震荡\n• 耐心如何帮助避免强行进行糟糕交易\n• 为什么接受小额亏损并重置很重要\n\n这不是一个完美的后见之明复盘。\n而是在市场波动中实时做出的决策。\n\n观看地址：\nhttps://t.co/6Rk1anlt7Y\n\n如果您一直想尝试@unusual_whales，可通过以下链接在年付或月付订阅上节省10%：\nhttps://t.co/cNSsGRNj7z",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082273400848818456",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Prior to the war with Iran, which started in late February, the 10-year yield dipped below 4%.\n\nRead more: https://t.co/g5s2njXLb2",
+    "tweet_url": "https://x.com/unusual_whales/status/2082273400848818456",
+    "published_at": "2026-07-29T01:14:00+00:00",
+    "fetched_at": "2026-07-29T05:01:04.016866+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文提及战争前10年期国债收益率跌破4%，可能反映市场对避险资产的预期变化，但未给出明确投资建议。",
+      "translation": "在与伊朗的战争（始于2月底）之前，10年期国债收益率跌破4%。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2082269102291181594",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -34,6 +93,25 @@
       "direction": "neutral",
       "summary": "该推文提醒本周三（FOMC会议日）美联储可能降息，建议收听专家分析，对市场影响中性。",
       "translation": "FOMC会议就在本周三。美联储会降息吗？聆听专家意见，包括@josephwang、@MPelletierCIO、@super_macro等人。周三美国东部时间下午12:55收听：https://t.co/dgiR3DNRKa",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082254274797707399",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The order to hold fire was given several hours after an Omani delegation arrived in Tehran for talks on a new arrangement to reopen the Strait of Hormuz.\n\nRead more: https://t.co/ZEj88D0HhH",
+    "tweet_url": "https://x.com/unusual_whales/status/2082254274797707399",
+    "published_at": "2026-07-28T23:58:00+00:00",
+    "fetched_at": "2026-07-29T05:01:07.669120+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了阿曼代表团抵达德黑兰就重开霍尔木兹海峡进行谈判的消息，期间下达了暂停开火命令。霍尔木兹海峡是全球石油运输的关键通道，其重开可能缓解原油供应紧张局势，对油价构成下行压力，进而影响能源相关投资标的。但由于谈判结果尚不明确，短期内市场情绪可能保持中性。",
+      "translation": "在阿曼代表团抵达德黑兰就重开霍尔木兹海峡的新安排进行谈判数小时后，下达了暂停开火命令。",
       "confidence": "medium"
     }
   },

@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "GOOGL",
-      "TSLA",
-      "AMD"
+      "$AAPL",
+      "$NVDA",
+      "$TSLA",
+      "$INTC",
+      "$GOOGL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "利率政策与美联储决策",
-      "人工智能与科技投资",
-      "地缘政治风险（伊朗、中美贸易）",
-      "消费者支出与住房市场"
+      "市场大幅下跌与波动加剧",
+      "美联储加息预期与政策不确定性",
+      "地缘政治风险（伊朗、关税）",
+      "人工智能投资热潮与泡沫担忧",
+      "消费品与住宅市场压力"
     ],
-    "recent_shift": "近期对美联储加息预期上升，同时科技股波动加剧，但未出现明显的方向性转变。",
+    "recent_shift": "最近一天账号更突出地聚焦于市场急剧下跌、美联储加息预期和地缘政治紧张，相较之前对AI和个股的乐观推销形成明显反差。",
     "representative_quotes": [
-      "The Fed will hold rates in July, per Bank of America.",
-      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'",
-      "BREAKING: JPMorgan has said it has turned bullish on stocks."
+      "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today.",
+      "FOMC IS THIS WEDNESDAY Will the Fed cut rates?",
+      "Jim Cramer has said that AI's financing is like the dot-com bubble"
     ],
-    "generated_at": "2026-07-29T01:43:35.837279+00:00"
+    "generated_at": "2026-07-29T05:01:15.312841+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
