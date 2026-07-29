@@ -26,26 +26,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "AAPL",
-      "GOOGL",
       "NVDA",
+      "GOOGL",
       "TSLA",
       "AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与数据中心投资热潮",
-      "地缘政治风险（伊朗、也门胡塞武装）",
-      "美联储利率政策不确定性",
-      "消费者支出与住房市场降温",
-      "科技巨头财报分化"
+      "利率政策与美联储决策",
+      "人工智能与科技投资",
+      "地缘政治风险（伊朗、中美贸易）",
+      "消费者支出与住房市场"
     ],
-    "recent_shift": "近期从关注AI利好转向对AI泡沫风险、利率政策分歧及地缘冲突加剧的担忧，整体情绪转为谨慎。",
+    "recent_shift": "近期对美联储加息预期上升，同时科技股波动加剧，但未出现明显的方向性转变。",
     "representative_quotes": [
+      "The Fed will hold rates in July, per Bank of America.",
       "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'",
-      "There is a 36% chance the Fed does 2 rate hikes in 2026, per Polymarket",
       "BREAKING: JPMorgan has said it has turned bullish on stocks."
     ],
-    "generated_at": "2026-07-28T23:51:52.012580+00:00"
+    "generated_at": "2026-07-29T01:43:35.837279+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
