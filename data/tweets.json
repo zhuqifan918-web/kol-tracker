@@ -1,5 +1,46 @@
 [
   {
+    "tweet_id": "2082578803189268855",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AXTI enters long term agreement with $LITE for InP substrates. \n\nLumentum has agreed to pay a deposit of $43.5M as a reservation for capacity. https://t.co/5Dl3L9EYRa",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082578803189268855",
+    "published_at": "2026-07-29T21:27:33+00:00",
+    "fetched_at": "2026-07-29T22:26:59.673420+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "AXTI与LITE签署长期协议，Lumentum支付4350万美元定金锁定产能，对AXTI构成明确利好，表明其InP衬底需求强劲且收入前景改善。",
+      "translation": "AXTI与LITE签署长期协议，用于InP衬底。Lumentum已同意支付4350万美元作为产能预留的定金。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082571364230185096",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "More than 360,000 margin accounts were forced into liquidation in Korea, per Citi.\n\n62% of those wiped out were reportedly under the age of 35.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082571364230185096",
+    "published_at": "2026-07-29T20:58:00+00:00",
+    "fetched_at": "2026-07-29T22:27:18.437510+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "韩国超36万个保证金账户被强制平仓，其中62%为35岁以下投资者，显示散户杠杆过高的风险，市场情绪极度悲观。",
+      "translation": "据花旗报告，韩国超过36万个保证金账户被强制平仓。据报道，其中62%的爆仓者年龄在35岁以下。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082564569470267881",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -150,6 +191,25 @@
       "direction": "bullish",
       "summary": "美联储官员Warsh表示，债券市场暗示美国经济强劲且稳定，市场情绪偏乐观，但未提及具体标的或投资建议。投资者可关注宏观政策动向，但需警惕过度解读单一言论。",
       "translation": "美联储的Warsh：债券市场似乎在说经济强劲且稳定。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082533952502354131",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed’s Warsh is to speak. \n\nListen in live: https://t.co/dgiR3DNjUC",
+    "tweet_url": "https://x.com/unusual_whales/status/2082533952502354131",
+    "published_at": "2026-07-29T18:29:20+00:00",
+    "fetched_at": "2026-07-29T22:27:20.837270+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储官员沃什将发表讲话，市场关注其可能释放的政策信号，这可能影响利率预期和金融市场走势。",
+      "translation": "美联储的沃什将发表讲话。在线收听：https://t.co/dgiR3DNjUC",
       "confidence": "medium"
     }
   },

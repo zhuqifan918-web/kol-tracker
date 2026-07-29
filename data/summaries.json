@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$NVDA",
-      "$LITE",
-      "$AAOI",
-      "$NBIS"
+      "SIVE",
+      "LITE",
+      "NVDA",
+      "MU",
+      "AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与资本支出持续增长",
-      "光子学与CPO（共封装光学）结构性需求",
-      "内存与半导体瓶颈长期化",
-      "人形机器人规模化落地",
-      "美国制造业回流与供应链安全"
+      "AI算力基础设施的持续资本支出",
+      "光子学和CPO光学互联的技术革命",
+      "内存和HBM的结构性短缺与LTA锁定",
+      "人形机器人的规模化量产进展",
+      "半导体瓶颈环节的长期投资机会"
     ],
-    "recent_shift": "近期观点未变，持续看多AI基础设施和光学互联，认为当前市场下跌是杠杆清算和非理性恐慌，基本面未恶化。",
+    "recent_shift": "近期市场回调后，作者更强调基本面和长期结构需求未变，认为恐慌是流动性问题而非基本面转向。",
     "representative_quotes": [
-      "But when you have Jim Cramer telling every margined DC trader to 'sell everything' at market open and news saying there's an AI bubble. I do hate it when others say 'it's dropping so sell'. My belief is that the important thing to look is accelerating revenue/EPS growth.",
-      "I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track. And my guess is that we'll see the theme recover broadly.",
-      "Retail thinks a 30-60% drop is a 'falling knife' where bagholders will never recover... I see it as long term ownership over... leader of the next optical shift with $SIVE with CW DFB lasers... inside a future trillion dollar theme."
+      "Stop panicking. Take a second and really evaluate what you’re holding in your portfolio. … If your long term thesis hasn’t changed… Close your brokerage app. Go live your life.",
+      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
+      "Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth."
     ],
-    "generated_at": "2026-07-29T20:10:55.187073+00:00"
+    "generated_at": "2026-07-29T22:27:47.418775+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "META",
-      "AMD",
-      "CAVA"
+      "$META",
+      "$CAVA",
+      "$SKHY",
+      "$AAPL",
+      "$AMD"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "美联储政策与利率预期",
-      "AI投资泡沫与基础设施",
-      "地缘政治风险与市场波动"
+      "韩国零售投资者因杠杆产品巨额亏损",
+      "美联储利率决策及市场预期分歧",
+      "AI投资与基建扩张引发泡沫担忧",
+      "地缘政治风险（伊朗、也门、中美关税）",
+      "市场流动性压力与期权交易策略"
     ],
-    "recent_shift": "近期对美联储降息预期减弱，转向关注通胀和利率上调风险",
+    "recent_shift": "近期观点从前期的美联储降息预期转向利率维持或加息的现实，并突出韩国股市暴跌和AI泡沫风险。",
     "representative_quotes": [
-      "Fed's Warsh: If inflation stays high, rates could be part of the solution.",
-      "JPMorgan has said stocks are flashing a 'buy signal.'",
-      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'"
+      "Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi.",
+      "BREAKING: The Federal Reserve has held rates, with no cuts.",
+      "Jim Cramer has said that AI's financing is like the dot-com bubble"
     ],
-    "generated_at": "2026-07-29T20:10:58.260413+00:00"
+    "generated_at": "2026-07-29T22:27:43.789809+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
