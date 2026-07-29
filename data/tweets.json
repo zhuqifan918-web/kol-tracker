@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2082269102291181594",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "73% chance the Fed hikes rates by October, per Polymarket: https://t.co/aKZ6auHXeP",
+    "tweet_url": "https://x.com/unusual_whales/status/2082269102291181594",
+    "published_at": "2026-07-29T00:56:55+00:00",
+    "fetched_at": "2026-07-29T01:43:20.929000+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "根据Polymarket预测，美联储在10月前加息的可能性为73%，这对市场构成压力，可能利空股票等风险资产。",
+      "translation": "根据Polymarket，美联储在10月前加息的概率为73%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082262579771212055",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "FOMC IS THIS WEDNESDAY\n\nWill the Fed cut rates?\n\nListen to the experts, including:\n\n@josephwang\n@MPelletierCIO\n@super_macro\n\n&amp; more.\n\nListen in Wednesday at 1255PM EST: https://t.co/dgiR3DNRKa",
+    "tweet_url": "https://x.com/unusual_whales/status/2082262579771212055",
+    "published_at": "2026-07-29T00:31:00+00:00",
+    "fetched_at": "2026-07-29T01:43:22.834423+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提醒本周三（FOMC会议日）美联储可能降息，建议收听专家分析，对市场影响中性。",
+      "translation": "FOMC会议就在本周三。美联储会降息吗？聆听专家意见，包括@josephwang、@MPelletierCIO、@super_macro等人。周三美国东部时间下午12:55收听：https://t.co/dgiR3DNRKa",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082250751607497073",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
