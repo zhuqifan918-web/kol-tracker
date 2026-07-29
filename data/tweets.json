@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2082470449347486170",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan says it expects the Fed to hold rates today.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082470449347486170",
+    "published_at": "2026-07-29T14:17:00+00:00",
+    "fetched_at": "2026-07-29T14:43:00.740497+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "摩根大通预计美联储今日将维持利率不变，这可能影响市场短期波动，但本身不提供明确的多空信号。",
+      "translation": "摩根大通表示，预计美联储今日将维持利率不变。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082452954502566169",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Our live trading show WhaleWatch is live now!\n\nBefore FOMC, our hosts will be trading using Unusual Whales tools and taking flow requests!\n\nhttps://t.co/RlTXuCq6Er",
+    "tweet_url": "https://x.com/unusual_whales/status/2082452954502566169",
+    "published_at": "2026-07-29T13:07:29+00:00",
+    "fetched_at": "2026-07-29T14:43:03.565953+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文宣传一个名为WhaleWatch的直播交易节目，节目将在美联储FOMC会议前使用Unusual Whales工具进行交易并接受流量请求。这暗示了FOMC事件对市场有潜在影响，但未提供具体的投资建议或观点。",
+      "translation": "我们的直播交易节目WhaleWatch现已上线！在FOMC会议前，我们的主持人将使用Unusual Whales工具进行交易，并接受流量请求！",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2082425150784590177",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -153,6 +191,27 @@
       "summary": "该推文提醒本周三（FOMC会议日）美联储可能降息，建议收听专家分析，对市场影响中性。",
       "translation": "FOMC会议就在本周三。美联储会降息吗？聆听专家意见，包括@josephwang、@MPelletierCIO、@super_macro等人。周三美国东部时间下午12:55收听：https://t.co/dgiR3DNRKa",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082259567124074818",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Federal Aviation Administration has issued a nationwide ground stop for all American Airlines flights because of an IT issue, per FOX",
+    "tweet_url": "https://x.com/unusual_whales/status/2082259567124074818",
+    "published_at": "2026-07-29T00:19:01+00:00",
+    "fetched_at": "2026-07-29T14:43:30.948187+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAL"
+      ],
+      "direction": "bearish",
+      "summary": "美国航空因IT问题导致全国停飞，可能影响其股价和运营表现，属于负面利空消息。",
+      "translation": "突发：联邦航空管理局因IT问题已下令全美所有美国航空航班停飞，据福克斯报道。",
+      "confidence": "high"
     }
   },
   {
