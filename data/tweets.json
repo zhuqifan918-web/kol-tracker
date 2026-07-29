@@ -1,5 +1,53 @@
 [
   {
+    "tweet_id": "2082605568699871284",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income)\n- \"Free cash flow was $19.6 billion, reflecting higher capital expenditures\"\n- Quartely capex was $41B, roughly 2/3rds were \"short lived assets, primarily CPUs and GPUs\"\n- Expects capex spend will be over $50 billion for next quarter\n- Capex Guidance at ~$175 billion and 2027 capex roughly the same. Spending plans unchanged and in line. \n- \"Extending the estimated useful life of our data centers from 15 to 25 years\"\n- \"We will be among the first cloud providers to deploy next generation rack-scale AI infrastructure based on $AMD Helios and $NVDA Vera Rubin\"\n- \"Customer demand continues to exceed available capacity\"\n\nMeta:\n- Capex $130-$145 billion (narrowed range), from $125B-$145B. \n- Meta is receiving offers at a \"significant premium\" to what they paid for it (compute scarcity, positive for neoclouds like $IREN / $NBIS )\n- Expects significant portion of compute (like the 1 GW DC in El Paso) to develop internal models. \n- Meta has multiple ROI-positive uses for additional compute across its core business (internally, not Meta Compute)\n- \"Finally, we believe that overall industry capacity is going to remain tight for the foreseeable future\" \n- \"The industry has under-built historically for the wave of AI adoption, making existing capacity, including our own, extremely valuable\" - Susan Li\n\nTLDR:\n- $MSFT and $GOOGL largely sustaining AI capex buildout while remaining FCF positive or through operating incomes.\n- $META flags available compute materially below demand at least through 2027. And $MSFT also flags compute demand far exceeds supply. \n- All three hyperscaler capex largely in line with Google hiking capex figures.\n\nAI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL. \n\nCompute scarcity is visible throughout every single hyperscaler ER.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082605568699871284",
+    "published_at": "2026-07-29T23:13:55+00:00",
+    "fetched_at": "2026-07-29T23:29:18.312899+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "MSFT",
+        "AMD",
+        "NVDA",
+        "IREN",
+        "NBIS",
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "从微软和Meta的财报电话会议中可以看出，AI资本支出持续且需求远超供给，卖压被夸大。微软预计2027年FCF为正，Meta指出计算资源稀缺，所有超大规模企业资本支出符合预期或增加。",
+      "translation": "分析这条推文的投资相关性。推文：$META | $MSFT财报电话会议的一些要点：微软：尽管资本支出增加，但预计2027年将实现自由现金流为正（对AI建设来说极其积极，因为它由营业收入资助）；\"自由现金流为196亿美元，反映了更高的资本支出\"；季度资本支出为410亿美元，约2/3是\"短期资产，主要是CPU和GPU\"；预计下季度资本支出将超过500亿美元；资本支出指引约1750亿美元，2027年大致相同。支出计划不变且符合预期；\"将我们数据中心的预计使用寿命从15年延长至25年\"；\"我们将成为首批基于$AMD Helios和$NVDA Vera Rubin部署下一代机架规模AI基础设施的云提供商之一\"；\"客户需求继续超过可用容量\"。Meta：资本支出1300-1450亿美元（范围缩小），之前为1250-1450亿美元；Meta收到的报价\"显著溢价\"于其支付价格（计算稀缺性，对$IREN/$NBIS等新云利好）；预计很大一部分计算（如El Paso的1 GW数据中心）将用于开发内部模型；Meta在其核心业务中有多个ROI为正的额外计算用途（内部，非Meta Compute）；\"最后，我们相信整体行业容量在可预见的未来将继续吃紧\"；\"行业历来对AI采用浪潮建设不足，使得现有容量（包括我们自己的）极其有价值\"——Susan Li。总结：$MSFT和$GOOGL在很大程度上维持AI资本支出建设，同时保持FCF为正或通过营业收入；$META指出可用计算至少到2027年将明显低于需求；$MSFT也指出计算需求远超供给；所有三家超大规模企业资本支出基本符合预期，谷歌上调资本支出数字。AI抛售现在看来极度过度，超大规模企业继续按计划进行资本支出（微软FCF为正）或甚至增加（$GOOGL）。每个超大规模企业的财报中都可见计算稀缺性。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082586463770718366",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Google, $GOOGL, DeepMind has dismantled the team behind AlphaFold, its Nobel Prize-winning AI system for predicting protein structures, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2082586463770718366",
+    "published_at": "2026-07-29T21:58:00+00:00",
+    "fetched_at": "2026-07-29T23:29:45.648931+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bearish",
+      "summary": "谷歌旗下DeepMind解散了其诺贝尔奖级别的AlphaFold团队，可能影响谷歌在AI生物技术领域的领先地位，对GOOGL构成利空。",
+      "translation": "据英国金融时报报道，谷歌旗下的DeepMind已经解散了其获得诺贝尔奖的AlphaFold团队，该系统用于预测蛋白质结构。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082578803189268855",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -38,6 +86,28 @@
       "summary": "韩国超36万个保证金账户被强制平仓，其中62%为35岁以下投资者，显示散户杠杆过高的风险，市场情绪极度悲观。",
       "translation": "据花旗报告，韩国超过36万个保证金账户被强制平仓。据报道，其中62%的爆仓者年龄在35岁以下。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082569331322298683",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @LeaderInvests Thought on meta and Microsoft earnings?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082569331322298683",
+    "published_at": "2026-07-29T20:49:55+00:00",
+    "fetched_at": "2026-07-29T23:29:23.430498+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "MSFT"
+      ],
+      "direction": "neutral",
+      "summary": "用户在询问关于Meta和微软财报的观点，未给出明确看涨或看跌意见，需进一步分析。",
+      "translation": "@aleabitoreddit @LeaderInvests 对Meta和微软的财报有什么看法？",
+      "confidence": "medium"
     }
   },
   {
