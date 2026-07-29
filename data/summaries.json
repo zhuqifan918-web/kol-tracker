@@ -28,24 +28,22 @@
       "$AAPL",
       "$NVDA",
       "$TSLA",
-      "$INTC",
-      "$GOOGL"
+      "$GOOGL",
+      "$AMD"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "市场大幅下跌与波动加剧",
-      "美联储加息预期与政策不确定性",
-      "地缘政治风险（伊朗、关税）",
-      "人工智能投资热潮与泡沫担忧",
-      "消费品与住宅市场压力"
+      "地缘政治与利率博弈",
+      "AI军备竞赛与资本开支",
+      "市场分化与消费者疲软"
     ],
-    "recent_shift": "最近一天账号更突出地聚焦于市场急剧下跌、美联储加息预期和地缘政治紧张，相较之前对AI和个股的乐观推销形成明显反差。",
+    "recent_shift": "近期强调市场短期波动加剧，但长期科技股与AI主题仍被看好，同时关注地缘冲突与加息风险。",
     "representative_quotes": [
-      "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today.",
-      "FOMC IS THIS WEDNESDAY Will the Fed cut rates?",
-      "Jim Cramer has said that AI's financing is like the dot-com bubble"
+      "This is not a memestock. This is Google, $GOOGL, one of the most valuable companies in the world. It is down nearly 7% today, after earnings. It is down more than 13% this week. It has lost billions in marketcap.",
+      "73% chance the Fed hikes rates by October, per Polymarket.",
+      "BREAKING: JPMorgan has said it has turned bullish on stocks."
     ],
-    "generated_at": "2026-07-29T05:01:15.312841+00:00"
+    "generated_at": "2026-07-29T12:31:04.598389+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
