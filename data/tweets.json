@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2082564569470267881",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082564569470267881",
+    "published_at": "2026-07-29T20:31:00+00:00",
+    "fetched_at": "2026-07-29T21:25:29.655914+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "据花旗数据，韩国散户投资者在杠杆产品上已损失约387亿美元（56万亿韩元），这表明杠杆交易风险极高，市场情绪可能转为谨慎。",
+      "translation": "韩国散户投资者目前在杠杆产品上已损失约387亿美元（56万亿韩元），根据花旗数据。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082557648298516918",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -192,6 +211,25 @@
     }
   },
   {
+    "tweet_id": "2082519774521917835",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Will the Fed cut rates?\n\nListen in live here:\nhttps://t.co/dgiR3DNRKa",
+    "tweet_url": "https://x.com/unusual_whales/status/2082519774521917835",
+    "published_at": "2026-07-29T17:33:00+00:00",
+    "fetched_at": "2026-07-29T21:25:33.776164+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文讨论美联储是否会降息，并附有直播链接。这涉及宏观经济政策，对投资有潜在影响，但未明确表达倾向。",
+      "translation": "美联储会降息吗？在此处收听直播：https://t.co/dgiR3DNRKa",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082514514004562200",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -310,6 +348,25 @@
       "summary": "摩根大通预计美联储今日将维持利率不变，这可能影响市场短期波动，但本身不提供明确的多空信号。",
       "translation": "摩根大通表示，预计美联储今日将维持利率不变。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082463192261779456",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Before FOMC! Our hosts are taking flow requests and taking live trades using GEX Periscope on Unusual Whales!\n\nJoin below: https://t.co/RlTXuCq6Er",
+    "tweet_url": "https://x.com/unusual_whales/status/2082463192261779456",
+    "published_at": "2026-07-29T13:48:09+00:00",
+    "fetched_at": "2026-07-29T21:25:45.164468+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": null,
+      "translation": "FOMC会议前！我们的主持人正在接受流程请求，并使用Unusual Whales的GEX Periscope进行实时交易！点此加入：https://t.co/RlTXuCq6Er",
+      "confidence": "low"
     }
   },
   {
