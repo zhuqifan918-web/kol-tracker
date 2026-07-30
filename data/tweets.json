@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2082827804257759423",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Kevin Hassett: Don't see markets in a bubble.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082827804257759423",
+    "published_at": "2026-07-30T13:57:00+00:00",
+    "fetched_at": "2026-07-30T15:29:49.346856+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "凯文·哈西特认为市场不存在泡沫，暗示当前市场估值合理，可能支持继续投资。",
+      "translation": "凯文·哈西特：我认为市场不存在泡沫。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082821127613927926",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "能拉盘了吧，跌了一个多月。\n\n【2026-07-30 21:28:59】\n白宫国家经济委员会主任哈塞特：我并不认为市场由于AI方面的进展处于泡沫状态。  (金十数据APP) https://t.co/K1805gh95X",
+    "tweet_url": "https://x.com/xiaomustock/status/2082821127613927926",
+    "published_at": "2026-07-30T13:30:28+00:00",
+    "fetched_at": "2026-07-30T15:29:38.137811+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "白宫经济顾问哈塞特公开否认AI市场存在泡沫，认为当前股市上涨并非泡沫，结合市场已调整了一个多月的背景，可能暗示抄底机会或反弹信号。",
+      "translation": "能拉盘了吧，跌了一个多月。白宫国家经济委员会主任哈塞特：我并不认为市场由于AI方面的进展处于泡沫状态。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082817737886408854",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BloombergNEF projects U.S. data centers will consume nearly 20% of the nation's electricity by 2035, up from just 5.9% today.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082817737886408854",
+    "published_at": "2026-07-30T13:17:00+00:00",
+    "fetched_at": "2026-07-30T15:29:51.834123+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该消息表明数据中心电力需求将大幅增长，利好相关电力基础设施、可再生能源及冷却技术供应商，但未提具体标的。",
+      "translation": "彭博新能源财经预计，到2035年，美国数据中心的电力消耗将占全国电力的近20%，而目前仅为5.9%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082812704717467763",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
