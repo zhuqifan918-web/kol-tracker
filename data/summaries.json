@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$META",
-      "$MSFT",
+      "$SIVE",
+      "$NVDA",
       "$GOOGL",
-      "$AMD",
-      "$NVDA"
+      "$META",
+      "$LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资持续增长",
-      "计算资源稀缺性",
-      "光学互连与CPO技术升级",
-      "记忆体结构性需求增长",
-      "人形机器人供应链发展"
+      "AI算力需求结构性增长，超大规模云厂商资本支出持续扩张",
+      "硅光子和共封装光学（CPO）成为下一代网络架构核心",
+      "内存、光芯片等瓶颈环节供不应求，长期看多",
+      "市场回调由去杠杆和流动性引发，并非基本面恶化",
+      "人形机器人产业链加速，美国需追赶中国量产进度"
     ],
-    "recent_shift": "最近观点无明显变化，依然看好AI基础设施长期需求。",
+    "recent_shift": "近期观点从关注宏观风险转向强调AI基础设施需求未变，认为跌后是买入良机，并指出CPO和光子学主题的长期确定性。",
     "representative_quotes": [
-      "Compute scarcity is visible throughout every single hyperscaler ER.",
-      "AI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL.",
-      "My belief is that the important thing to look is accelerating revenue/EPS growth. And if that thesis stays in-tact with revenue acceleration in line with hyperscaler capex."
+      "Regarding the drawdown, Aschenbrenner acknowledged that the fund had \"not been immune\" to the market turmoil, particularly in Asia.  FT separately reported that leverage amplified both its extraordinary gains and recent losses.",
+      "I'd agree with him and hope he succeeds with the raise. Since a lot of the current selloff looks like it overshot its mark through forced deleveraging.",
+      "TLDR: I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track. And my guess is that we'll see the theme recover broadly."
     ],
-    "generated_at": "2026-07-29T23:30:14.927069+00:00"
+    "generated_at": "2026-07-30T09:11:11.717878+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$META",
-      "$GOOGL",
-      "$CAVA"
+      "NVDA",
+      "AAPL",
+      "META",
+      "GOOGL",
+      "AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "美联储政策预期与利率决策",
-      "地缘政治风险（中东、韩国）",
-      "AI投资与科技行业动态",
-      "杠杆交易风险与监管",
-      "市场波动与大盘走势"
+      "AI投资与基建",
+      "美联储政策不确定性",
+      "地缘政治风险",
+      "市场波动与流动性危机",
+      "监管与结构性风险"
     ],
-    "recent_shift": "近期更关注美联储按兵不动的可能性及地缘冲突对市场的短期影响，同时AI相关股票仍为焦点。",
+    "recent_shift": "近期观点从关注AI增长转向关注流动性风险和地缘冲突，并强调央行政策分歧加剧。",
     "representative_quotes": [
-      "73% chance the Fed hikes rates by October, per Polymarket: https://t.co/aKZ6auHXeP",
-      "BREAKING: 3 Fed members dissented to keep rates the same, the first time since 2016.",
-      "BREAKING: Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi."
+      "Google, $GOOGL, DeepMind has dismantled the team behind AlphaFold...",
+      "Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi.",
+      "Trump has said that the Federal Reserve should cut interest rates"
     ],
-    "generated_at": "2026-07-30T06:20:05.677692+00:00"
+    "generated_at": "2026-07-30T09:11:07.861774+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
