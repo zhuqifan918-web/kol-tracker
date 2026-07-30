@@ -1,5 +1,84 @@
 [
   {
+    "tweet_id": "2082873102636130663",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: \"Whoever wins AI is going to win. That's how big it is.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2082873102636130663",
+    "published_at": "2026-07-30T16:57:00+00:00",
+    "fetched_at": "2026-07-30T17:00:21.387387+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普强调AI的重要性，认为赢得AI就能赢得未来，这暗示AI相关行业和公司具有巨大投资潜力。",
+      "translation": "特朗普：\"谁赢得AI，谁就会赢。这有多么重要。\"",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082863036189262290",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "About 3.4% of South Korea's adult population has reportedly received margin calls, according to Goldman Sachs.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082863036189262290",
+    "published_at": "2026-07-30T16:17:00+00:00",
+    "fetched_at": "2026-07-30T17:00:24.294085+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "高盛报告指出韩国约3.4%的成年股民收到追加保证金通知，表明市场杠杆压力大，可能引发进一步抛售风险。",
+      "translation": "据高盛报告，韩国约3.4%的成年人口已收到追加保证金通知。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082858003649147269",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bank of England: If the Middle East conflict persists and we get 2nd-round effects, we will likely need to raise rates.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082858003649147269",
+    "published_at": "2026-07-30T15:57:00+00:00",
+    "fetched_at": "2026-07-30T17:00:27.289105+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "英国央行暗示若中东冲突持续并产生第二轮效应，可能加息，这将对全球金融市场造成压力，尤其是风险资产。",
+      "translation": "英国央行：如果中东冲突持续并且出现第二轮效应，我们可能需要加息。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082852969767473315",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "TSMC, $TSM, develops AI chip packaging tech to counter Intel, $INTC, per The Information",
+    "tweet_url": "https://x.com/unusual_whales/status/2082852969767473315",
+    "published_at": "2026-07-30T15:37:00+00:00",
+    "fetched_at": "2026-07-30T17:00:29.170871+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM",
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "台积电开发AI芯片封装技术以应对英特尔竞争，这显示台积电在AI芯片封装领域持续进取，可能提升其技术优势和市场份额，对TSM股价构成正面影响。",
+      "translation": "台积电（TSM）正在开发AI芯片封装技术，以对抗英特尔（INTC），据《The Information》报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082827804257759423",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
