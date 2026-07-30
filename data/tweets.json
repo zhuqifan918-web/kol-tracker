@@ -1,5 +1,87 @@
 [
   {
+    "tweet_id": "2082933752108347588",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Jim Cramer says he \"sees a sure signal to buy stocks.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2082933752108347588",
+    "published_at": "2026-07-30T20:58:00+00:00",
+    "fetched_at": "2026-07-30T21:11:21.794736+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "吉姆·克莱默表示看到明确的买入信号，这通常被视为市场看涨的暗示。但需注意其作为反向指标的历史记录。",
+      "translation": "突发：吉姆·克莱默称他“看到了明确的买入股票信号”。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2082927225511547260",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple $AAPL earnings:\n\nEPS of $2.02 vs $1.89\nRevenue $109.42 billion vs $108.96B\n\nLink: https://t.co/kmwY3Cgp2i",
+    "tweet_url": "https://x.com/unusual_whales/status/2082927225511547260",
+    "published_at": "2026-07-30T20:32:04+00:00",
+    "fetched_at": "2026-07-30T21:11:23.532572+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "苹果公司公布的每股收益和营收均超出市场预期，显示公司业绩强劲，对投资者而言是积极信号。",
+      "translation": "苹果$AAPL财报：每股收益$2.02 vs 预期$1.89，营收1094.2亿美元 vs 预期1089.6亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082920054228967522",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Amazon $AMZN earnings:\n\nEPS of $5.75 vs $1.82\nRevenue $200.606 billion vs $196.54B\n\nLink: https://t.co/xRENmwOiJA",
+    "tweet_url": "https://x.com/unusual_whales/status/2082920054228967522",
+    "published_at": "2026-07-30T20:03:34+00:00",
+    "fetched_at": "2026-07-30T21:11:25.241732+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "亚马逊财报显示每股收益5.75美元，远超预期的1.82美元，营收2006.06亿美元也高于预期1965.4亿美元，业绩强劲，对投资者构成利好。",
+      "translation": "亚马逊$AMZN财报：每股收益5.75美元 vs 1.82美元，营收2006.06亿美元 vs 1965.4亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082919455613677595",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Call your $QQQ. https://t.co/eyWREe9IDK",
+    "tweet_url": "https://x.com/unusual_whales/status/2082919455613677595",
+    "published_at": "2026-07-30T20:01:11+00:00",
+    "fetched_at": "2026-07-30T21:11:26.982309+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "QQQ"
+      ],
+      "direction": "neutral",
+      "summary": "推文提到了QQQ ETF，但内容仅为'call your QQQ'，缺乏具体分析或方向性判断，因此无法确定具体投资立场。建议结合上下文进一步解读。",
+      "translation": "拨打你的QQQ。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2082918104766824661",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
