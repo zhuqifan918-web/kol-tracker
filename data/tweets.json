@@ -1,5 +1,110 @@
 [
   {
+    "tweet_id": "2082918104766824661",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The FCC just added foreign-made advanced robots, humanoids and quadrupeds, to its Covered List over national-security and supply-chain concerns.\n \n@RoboStrategy (Nasdaq: $BOT), led by @Rewkang, holds a portfolio of US robotics companies, including Standard Bots, which builds its arms in New York.\n \nUnder the order, new foreign robot models and foreign-made connected power inverters generally can't get the FCC authorization needed to be imported, marketed, or sold in the US. Existing and previously approved devices aren't affected.\n\nSponsored by RoboStrategy, Inc. Informational only. Not investment advice.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082918104766824661",
+    "published_at": "2026-07-30T19:55:49+00:00",
+    "fetched_at": "2026-07-30T19:59:38.118505+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BOT"
+      ],
+      "direction": "bullish",
+      "summary": "美国FCC因国家安全和供应链风险，将外国先进机器人、人形机器人和四足机器人列入限制清单，这对美国本土机器人公司构成利好。推文提及的RoboStrategy (NASDAQ: $BOT) 持有包括Standard Bots在内的美国机器人公司组合，可能因进口限制而受益。",
+      "translation": "FCC因国家安全和供应链担忧，将外国制造的先进机器人、人形机器人和四足机器人添加到其受限清单中。@RoboStrategy（纳斯达克：$BOT），由@Rewkang领导，持有包括Standard Bots在内的美国机器人公司组合，该公司在纽约制造其机械臂。根据该命令，新型外国机器人型号和外国制造的联网电力逆变器通常无法获得在美进口、营销或销售所需的FCC授权。现有及先前获批的设备不受影响。由RoboStrategy, Inc.赞助。仅供参考，不构成投资建议。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082908334659658192",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"US employers making the biggest AI investments, including software and media companies, increased employment by about 10% after adopting AI tools,\" per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2082908334659658192",
+    "published_at": "2026-07-30T19:17:00+00:00",
+    "fetched_at": "2026-07-30T19:59:45.508123+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文引用FT报道，指出美国企业在AI领域的大规模投资（特别是软件和媒体公司）在采用AI工具后就业增长约10%，暗示AI投资可能带来正面经济影响和投资机会。",
+      "translation": "据FT报道，美国雇主在AI领域进行最大规模投资（包括软件和媒体公司）后，采用AI工具的企业就业增长约10%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082903301436424301",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Debt, AI boom and economic fragilities are raising global risks, BIS has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2082903301436424301",
+    "published_at": "2026-07-30T18:57:00+00:00",
+    "fetched_at": "2026-07-30T19:59:46.930175+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "国际清算银行指出，债务、AI热潮及经济脆弱性正在提升全球风险，投资者需警惕市场波动。",
+      "translation": "国际清算银行表示，债务、AI热潮和经济脆弱性正在增加全球风险。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082898268275572743",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NEWS: Wall Street banks have asked funds heavily concentrated in certain industries to provide additional collateral, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2082898268275572743",
+    "published_at": "2026-07-30T18:37:00+00:00",
+    "fetched_at": "2026-07-30T19:59:48.610428+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "华尔街银行要求重仓某些行业的基金提供额外抵押品，表明杠杆风险上升，可能引发去杠杆化抛售，对市场整体偏利空。",
+      "translation": "新闻：据《金融时报》报道，华尔街银行已要求重仓某些行业的基金提供额外抵押品。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082896789880119590",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Did Citadel really just liquidate Situational Awareness…\n\nThen brought up entire markets the next day?\n\n$NBIS +26.25%\n$IREN +25.96%\n$SHAZ +22.82%\n$SNDK + 23.98%\n$BE +23.67%\n$SKHY +16.98%\n$INTC +12.16%\n\nAmid many others. This has gotta be one of the wildest liquidations I’ve seen.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082896789880119590",
+    "published_at": "2026-07-30T18:31:07+00:00",
+    "fetched_at": "2026-07-30T19:59:21.199617+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS",
+        "IREN",
+        "SHAZ",
+        "SNDK",
+        "BE",
+        "SKHY",
+        "INTC"
+      ],
+      "direction": "neutral",
+      "summary": "推文提到Citadel疑似清算'情境意识'头寸后次日拉升多个市场，列举多个飙升股票，并称其为最疯狂清算之一。隐含对市场操纵或异常波动的关注，但无明确多空建议。",
+      "translation": "Citadel真的清算（标题所述的头寸）了吗？然后第二天就拉起了整个市场？$NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK +23.98% $BE +23.67% $SKHY +16.98% $INTC +12.16%，还有很多其他股票。这一定是我见过的最疯狂的清算之一。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082883168756289767",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1199,6 +1304,25 @@
       "direction": "bullish",
       "summary": "特朗普政府禁止中国仿人机器人可能利好美国本土机器人及AI企业，削弱中国竞争，对相关美股板块有积极影响。",
       "translation": "特朗普政府禁止新型中国仿人机器人，以保护美国AI建设。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082193391149048145",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NEW\n\nThe FCC has now added two new categories of devices to our Covered List, which bans new versions from import or sale in America.\n\n1. Advanced robotic devices, such as humanoids and quadrupeds produced in foreign countries.\n\n2. Power inverters produced in foreign countries.\n\nThis action follows determinations by Executive Branch nat sec agencies that the devices pose unacceptable risks to our national security.\n\nIt includes exemptions for devices that, based on a DOW or DHS finding, pose no unacceptable threat.",
+    "tweet_url": "https://x.com/unusual_whales/status/2082193391149048145",
+    "published_at": "2026-07-28T19:56:04+00:00",
+    "fetched_at": "2026-07-30T19:59:40.622731+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国联邦通信委员会（FCC）将外国生产的先进机器人（如人形机器人和四足机器人）及电源逆变器列入禁止进口和销售名单，认为其存在国家安全风险。此政策可能影响相关产业链，对涉及外国机器人或逆变器的公司构成潜在利空，但具体投资影响需进一步评估。",
+      "translation": "美国联邦通信委员会（FCC）已将两类新设备列入禁止进口或销售的“覆盖清单”：1. 外国生产的先进机器人设备，如人形机器人和四足机器人；2. 外国生产的电源逆变器。此举基于行政部门国家安全机构判定这些设备对美国国家安全构成不可接受的风险，但允许经国防部或国土安全部认定无威胁的设备获得豁免。",
       "confidence": "medium"
     }
   },
