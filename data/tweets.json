@@ -23,6 +23,25 @@
     }
   },
   {
+    "tweet_id": "2082640067122577703",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The warning came days after a federal appeals court ruled that the President’s use of emergency powers broke the law, sending the case back to the Court of International Trade to decide the damages.\n\nRead more: https://t.co/EeWhWIqDqB",
+    "tweet_url": "https://x.com/unusual_whales/status/2082640067122577703",
+    "published_at": "2026-07-30T01:31:00+00:00",
+    "fetched_at": "2026-07-30T06:19:49.179311+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "联邦上诉法院裁定总统动用紧急权力违法，案件发回国际贸易法院裁定赔偿，可能影响贸易政策和相关市场，投资者需关注后续不确定性。",
+      "translation": "警告是在联邦上诉法院裁定总统动用紧急权力违法之后发出的，该案被发回国际贸易法院以裁定赔偿金额。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082624967548469628",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

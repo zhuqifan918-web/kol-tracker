@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "GOOGL",
-      "META",
-      "AMD"
+      "$NVDA",
+      "$AAPL",
+      "$META",
+      "$GOOGL",
+      "$CAVA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI发展与投资热潮",
-      "美联储利率决策与市场预期",
-      "地缘政治风险（伊朗、韩国）",
-      "私人信贷与金融监管",
-      "零售投资者与市场杠杆"
+      "美联储政策预期与利率决策",
+      "地缘政治风险（中东、韩国）",
+      "AI投资与科技行业动态",
+      "杠杆交易风险与监管",
+      "市场波动与大盘走势"
     ],
-    "recent_shift": "近期对AI投资的长期信心未变，但增加了对市场泡沫和美联储政策不确定性的担忧。",
+    "recent_shift": "近期更关注美联储按兵不动的可能性及地缘冲突对市场的短期影响，同时AI相关股票仍为焦点。",
     "representative_quotes": [
-      "FOMC IS TODAY - Will the Fed cut rates?",
-      "Jim Cramer has said that AI's financing is like the dot-com bubble",
-      "The bond market is telling investors it's time to start worrying about the war again"
+      "73% chance the Fed hikes rates by October, per Polymarket: https://t.co/aKZ6auHXeP",
+      "BREAKING: 3 Fed members dissented to keep rates the same, the first time since 2016.",
+      "BREAKING: Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi."
     ],
-    "generated_at": "2026-07-30T03:51:00.610108+00:00"
+    "generated_at": "2026-07-30T06:20:05.677692+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
