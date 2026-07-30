@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$TSM",
+      "$INTC",
       "$GOOGL",
-      "$AAPL",
       "$NVDA",
-      "$META",
-      "$AMZN"
+      "$AAPL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资与数据中心能耗激增",
-      "美联储政策不确定性",
-      "韩国杠杆爆仓与市场下跌",
-      "地缘政治风险（伊朗、关税）",
-      "高利率环境下消费者行为变化"
+      "地缘政治风险与战争不确定性",
+      "美联储政策分歧与通胀压力",
+      "AI投资过热与泡沫风险",
+      "韩国及全球杠杆爆仓潮",
+      "私人信贷与影子银行风险"
     ],
-    "recent_shift": "近期转向更谨慎，强调AI融资泡沫风险和韩国市场崩盘，不同于早前的乐观情绪",
+    "recent_shift": "从早期对AI和市场的乐观情绪，转向对战争、通胀、高杠杆和私人信贷风险的深度担忧。",
     "representative_quotes": [
-      "Jim Cramer has said that AI's financing is like the dot-com bubble",
-      "More than 360,000 margin accounts were forced into liquidation in Korea, per Citi.",
-      "BloombergNEF projects U.S. data centers will consume nearly 20% of the nation's electricity by 2035, up from just 5.9% today."
+      "Trump: \"Whoever wins AI is going to win. That's how big it is.\"",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "Jim Cramer has said that AI's financing is like the dot-com bubble"
     ],
-    "generated_at": "2026-07-30T15:30:08.009526+00:00"
+    "generated_at": "2026-07-30T17:00:44.188469+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
