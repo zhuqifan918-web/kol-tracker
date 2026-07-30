@@ -2,48 +2,49 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$SIVE",
+      "$NBIS",
       "$NVDA",
-      "$GOOGL",
-      "$META",
-      "$LITE"
+      "$LITE",
+      "$GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力需求结构性增长，超大规模云厂商资本支出持续扩张",
-      "硅光子和共封装光学（CPO）成为下一代网络架构核心",
-      "内存、光芯片等瓶颈环节供不应求，长期看多",
-      "市场回调由去杠杆和流动性引发，并非基本面恶化",
-      "人形机器人产业链加速，美国需追赶中国量产进度"
+      "AI基础设施持续扩张",
+      "光学互联与CPO技术拐点",
+      "去杠杆后市场反弹",
+      "人形机器人供应链机会"
     ],
-    "recent_shift": "近期观点从关注宏观风险转向强调AI基础设施需求未变，认为跌后是买入良机，并指出CPO和光子学主题的长期确定性。",
+    "recent_shift": "从早期恐慌性抛售转向强调基本面不变、认为去杠杆过度带来买入机会。",
     "representative_quotes": [
-      "Regarding the drawdown, Aschenbrenner acknowledged that the fund had \"not been immune\" to the market turmoil, particularly in Asia.  FT separately reported that leverage amplified both its extraordinary gains and recent losses.",
-      "I'd agree with him and hope he succeeds with the raise. Since a lot of the current selloff looks like it overshot its mark through forced deleveraging.",
-      "TLDR: I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track. And my guess is that we'll see the theme recover broadly."
+      "Did Citadel really just liquidate Situational Awareness… Then brought up entire markets the next day? This has gotta be one of the wildest liquidations I’ve seen.",
+      "I personally see it as extreme short term deleveraging that overshot many individual names … earnings season tend to remind markets about continued AI acceleration.",
+      "It's a very dangerous and growing trend for folks to post overreaching broader claims from technical nuances to grow viewcount…"
     ],
-    "generated_at": "2026-07-30T09:11:11.717878+00:00"
+    "generated_at": "2026-07-30T20:00:03.164951+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "TSM",
-      "GOOGL",
-      "AMD"
+      "$NVDA",
+      "$AAPL",
+      "$GOOGL",
+      "$AMD",
+      "$INTC"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "利率与货币政策不确定性",
-      "AI投资泡沫与风险",
-      "地缘政治与能源冲击"
+      "AI投资与监管",
+      "地缘政治风险",
+      "市场波动与杠杆风险",
+      "美联储政策不确定性",
+      "消费疲软"
     ],
-    "recent_shift": "近期从关注AI投资机会转向强调市场风险，如利率上升、流动性危机和地缘冲突。",
+    "recent_shift": "从前期关注AI机遇转向强调市场风险，包括地缘冲突、债务和流动性挑战。",
     "representative_quotes": [
-      "Korea to cap proportion of single-stock leveraged ETFs in retail portfolios, per Reuters",
-      "Fed's Warsh: If inflation stays high, rates could be part of the solution.",
-      "Jim Cramer has said that AI's financing is like the dot-com bubble"
+      "US employers making the biggest AI investments... increased employment by about 10% after adopting AI tools",
+      "Debt, AI boom and economic fragilities are raising global risks, BIS has said",
+      "Approximately 70% of existing homeowners hold mortgages with rates below 5%, discouraging them from selling and taking on higher rates"
     ],
-    "generated_at": "2026-07-30T18:18:44.099829+00:00"
+    "generated_at": "2026-07-30T20:00:06.085486+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
