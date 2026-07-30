@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AAPL",
-      "$NVDA",
-      "$META",
-      "$GOOGL",
-      "$AMD"
+      "AAPL",
+      "NVDA",
+      "GOOGL",
+      "META",
+      "AMD"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "美联储决策与利率预期",
-      "AI投资热潮与泡沫风险",
-      "地缘政治风险与供应链安全",
-      "韩国股市崩盘与散户杠杆爆仓"
+      "AI发展与投资热潮",
+      "美联储利率决策与市场预期",
+      "地缘政治风险（伊朗、韩国）",
+      "私人信贷与金融监管",
+      "零售投资者与市场杠杆"
     ],
-    "recent_shift": "近期对美联储加息的押注增加，且地缘冲突升级对市场的负面影响加大",
+    "recent_shift": "近期对AI投资的长期信心未变，但增加了对市场泡沫和美联储政策不确定性的担忧。",
     "representative_quotes": [
-      "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
+      "FOMC IS TODAY - Will the Fed cut rates?",
       "Jim Cramer has said that AI's financing is like the dot-com bubble",
-      "JPMorgan has said stocks are flashing a 'buy signal.'"
+      "The bond market is telling investors it's time to start worrying about the war again"
     ],
-    "generated_at": "2026-07-30T00:54:58.910680+00:00"
+    "generated_at": "2026-07-30T03:51:00.610108+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
