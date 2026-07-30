@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2082972256037396878",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "On Sunday, the Wall Street Journal reported that Nvidia was discussing a $250 billion backstop for OpenAI that would help finance a planned 10-gigawatt artificial intelligence data center campus in Ohio.\n\nRead more: https://t.co/gDez21v8fW",
+    "tweet_url": "https://x.com/unusual_whales/status/2082972256037396878",
+    "published_at": "2026-07-30T23:31:00+00:00",
+    "fetched_at": "2026-07-30T23:53:39.032314+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达参与OpenAI的2500亿美元数据中心项目，显示AI基础设施建设加速，利好英伟达业务增长。",
+      "translation": "周日，《华尔街日报》报道称，英伟达正在讨论为OpenAI提供2500亿美元的融资支持，以帮助资助俄亥俄州一个计划中的10吉瓦人工智能数据中心园区。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082933752108347588",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

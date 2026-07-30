@@ -24,25 +24,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "QQQ",
-      "AAPL",
-      "AMZN",
-      "NVDA",
-      "TSM"
+      "$QQQ",
+      "$AAPL",
+      "$AMZN",
+      "$NVDA",
+      "$TSM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与泡沫风险",
-      "利率政策与宏观不确定性",
-      "杠杆与流动性风险"
+      "AI投资与数据中心的泡沫风险",
+      "宏观不确定性与地缘政治",
+      "市场震荡与结构性套利"
     ],
-    "recent_shift": "近期从分散关注转向强调AI泡沫和杠杆风险，尤其关注韩国市场清算和美联储鹰派信号。",
+    "recent_shift": "近期从局部看多转向警惕泡沫和高杠杆风险，强调政策不确定性。",
     "representative_quotes": [
-      "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
+      "Jim Cramer has said that AI's financing is like the dot-com bubble",
       "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi."
+      "Trump: 'Whoever wins AI is going to win. That's how big it is.'"
     ],
-    "generated_at": "2026-07-30T21:11:40.846054+00:00"
+    "generated_at": "2026-07-30T23:53:52.636609+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
