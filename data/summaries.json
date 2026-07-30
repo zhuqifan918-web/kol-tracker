@@ -25,50 +25,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "GOOGL",
-      "V",
-      "AMD"
+      "$GOOGL",
+      "$AAPL",
+      "$NVDA",
+      "$META",
+      "$AMZN"
     ],
     "overall_bias": "bearish",
     "key_themes": [
+      "AI投资与数据中心能耗激增",
       "美联储政策不确定性",
-      "地缘政治风险与战争担忧",
-      "AI投资泡沫与监管",
-      "零售消费疲软",
-      "市场杠杆清算"
+      "韩国杠杆爆仓与市场下跌",
+      "地缘政治风险（伊朗、关税）",
+      "高利率环境下消费者行为变化"
     ],
-    "recent_shift": "从早期关注AI投资机会转向强调市场风险、杠杆清算和政策不确定性",
+    "recent_shift": "近期转向更谨慎，强调AI融资泡沫风险和韩国市场崩盘，不同于早前的乐观情绪",
     "representative_quotes": [
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi.",
-      "Jim Cramer has said that AI's financing is like the dot-com bubble"
+      "Jim Cramer has said that AI's financing is like the dot-com bubble",
+      "More than 360,000 margin accounts were forced into liquidation in Korea, per Citi.",
+      "BloombergNEF projects U.S. data centers will consume nearly 20% of the nation's electricity by 2035, up from just 5.9% today."
     ],
-    "generated_at": "2026-07-30T13:05:56.674818+00:00"
+    "generated_at": "2026-07-30T15:30:08.009526+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
-      "MU",
-      "GOOGL",
-      "MRVL",
-      "GLW"
+      "$SKHYX",
+      "$GLW",
+      "$GOOGL",
+      "$MRVL",
+      "$MU"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需错配，AI驱动长期需求增长",
-      "云厂商（谷歌、亚马逊）因AI需求旺盛具有稳固护城河",
-      "杠杆交易风险极大，仓位管理比选股更重要",
-      "端侧AI（苹果）和硬件生态将是长期赢家",
-      "量子闪存等新技术可能颠覆存储行业格局"
+      "存储芯片长期供需失衡与结构性短缺",
+      "AI军备竞赛中云厂与硬件生态的确定性收益",
+      "技术迭代驱动的新材料（玻璃基板）与新存储技术"
     ],
-    "recent_shift": "近期从极度乐观转为谨慎，强调杠杆爆亏和仓位管理，但长期仍看好存储和AI基础设施。",
+    "recent_shift": "从短期频繁交易转向对存储龙头和基础设施类资产的中长期持有心态",
     "representative_quotes": [
-      "我买到了美股百年大顶",
-      "市场还有一个非常严重的误区，大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多，但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。",
-      "如果爆亏了，交易也是全球最大的知识付费市场，就问你获没获得知识，花没花钱。"
+      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
+      "能健康的管理自己仓位已经赢过绝大多数人。",
+      "海力士我是正股没有杠杆，跌成这逼样只能装死了。"
     ],
-    "generated_at": "2026-07-28T16:29:44.606944+00:00"
+    "generated_at": "2026-07-30T15:30:11.139516+00:00"
   }
 }
