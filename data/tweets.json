@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2082624967548469628",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Department of Defense relies heavily on critical minerals, including rare earths, for components used in its weapon systems.\n\nRead more: https://t.co/xenDUc1ngF",
+    "tweet_url": "https://x.com/unusual_whales/status/2082624967548469628",
+    "published_at": "2026-07-30T00:31:00+00:00",
+    "fetched_at": "2026-07-30T00:54:31.543352+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美国国防部严重依赖包括稀土在内的关键矿物用于武器系统组件，这凸显了关键矿产供应链的战略重要性，可能对相关矿业和材料公司产生中长期投资影响，但未明确推荐具体标的或方向。",
+      "translation": "国防部严重依赖包括稀土在内的关键矿物，用于其武器系统的组件。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082605568699871284",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

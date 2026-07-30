@@ -27,24 +27,24 @@
     "focus_tickers": [
       "$AAPL",
       "$NVDA",
-      "$CAVA",
-      "$AMD",
-      "$META"
+      "$META",
+      "$GOOGL",
+      "$AMD"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "美联储政策与利率预期分化",
-      "韩国散户杠杆爆仓危机",
-      "AI投资泡沫与地缘风险",
-      "消费疲软与市场波动加剧"
+      "美联储决策与利率预期",
+      "AI投资热潮与泡沫风险",
+      "地缘政治风险与供应链安全",
+      "韩国股市崩盘与散户杠杆爆仓"
     ],
-    "recent_shift": "早期强调AI增长和科技创新，近期转为关注利率不确定性、韩国市场暴跌及地缘冲突风险。",
+    "recent_shift": "近期对美联储加息的押注增加，且地缘冲突升级对市场的负面影响加大",
     "representative_quotes": [
-      "Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi.",
-      "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today. It is down more than 30% this month alone.",
-      "Jim Cramer has said that AI's financing is like the dot-com bubble"
+      "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
+      "Jim Cramer has said that AI's financing is like the dot-com bubble",
+      "JPMorgan has said stocks are flashing a 'buy signal.'"
     ],
-    "generated_at": "2026-07-29T23:30:11.162031+00:00"
+    "generated_at": "2026-07-30T00:54:58.910680+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
