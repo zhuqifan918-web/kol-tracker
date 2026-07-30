@@ -1,5 +1,51 @@
 [
   {
+    "tweet_id": "2082740477795745942",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There's a lot of stupid commentary around Leopold raising funds. After names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July.\n\nJust remember... here's a man in finance that's\n\n1.  6'5\n2. Blue Eyes\n3. Hedge Fund\n\nProbably better looking than you, and was up 439% through June YTD.  \n\nRegarding the drawdown, Aschenbrenner acknowledged that the fund had \"not been immune\" to the market turmoil, particularly in Asia.  FT separately reported that leverage amplified both its extraordinary gains and recent losses.\n\nHe described the sell-off as potentially the best buying opportunity since early 2025\n\nI'd agree with him and hope he succeeds with the raise.\n\nSince a lot of the current selloff looks like it overshot its mark through forced deleveraging.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082740477795745942",
+    "published_at": "2026-07-30T08:10:00+00:00",
+    "fetched_at": "2026-07-30T09:10:12.127193+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE",
+        "SNDK",
+        "SHAZ"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论了Leopold基金在市场动荡中的表现，指出其经历了大幅回撤但年初至今仍有439%的收益，认为当前抛售是买入良机，并支持其融资。整体看多。",
+      "translation": "利奥波德基金融资引发了大量愚蠢评论。在$BE、$SNDK、$SHAZ等股票7月出现大幅回撤之后，请记住……这是一位金融男，身高6英尺5英寸、蓝眼睛、管理对冲基金，可能比你更帅，且截至6月年初至今收益439%。关于回撤，Aschenbrenner承认基金“未能免疫”于市场动荡，尤其是在亚洲。FT单独报道指出，杠杆放大了其非凡收益和近期损失。他将此次抛售描述为自2025年初以来最好的买入机会。我同意他的观点，并希望他融资成功。因为当前抛售中很大部分似乎因强制去杠杆而过度了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082720873908494456",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some interesting takeaways from $FORM earnings call on CPO:\n\nSince they attributed systems revenue nearly doubled due to: \"accelerating growth in co-packaged optics or CPO\". \n\nQ1 2026: \"we now expect 2026 CPO revenues to come in at the high end of the $10 million to $20 million range\"\n\nQ2 2026 (now): \"expect to exceed that range by the end of the third quarter, and to significantly exceed the $20 million level for the year overall.\"\n\nManagement stated \"We’re seeing some significant acceleration in this [CPO] business\". \n\nQ: CPO adoption outlook. Are we perhaps expecting the timeline to accelerate a little bit?\n\nA: \"What I would say is there’s acceleration here in the very short term.\" But management stated there's not a significant pull-in on timelines. \n\nCiting production infrastructure (not just R&D) for:\n\n- The growing volumes of CPO chips planned for later this year + test insertion for scale-up and scale-out switches. \n- Seems like that CPO piece flows through $TSM COUPE [ likely maps to $NVDA CPO products] - \"The CPO piece does flow through that 10% customer\"\n\nSo now, test is ramping given management cited growing volumes of CPO chips. \n\n\"The rapid recent growth of our CPO business is an exciting development, which we believe represents the very early stages of widespread adoption of silicon photonics in the broader semiconductor industry\"\n\nTLDR: Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now (equipment/test players usually appear up first before optical engines / laser volumes ramp). \n\nPersonally once all the deleveraging stops, I think markets will start to care more.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082720873908494456",
+    "published_at": "2026-07-30T06:52:06+00:00",
+    "fetched_at": "2026-07-30T09:10:20.067342+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "FORM",
+        "TSM",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析FORM财报中关于CPO（共封装光学）业务加速增长的信息，指出CPO仍处于早期阶段但开始体现在设备/测试厂商财报中，预示着该主题即将爆发。作者看好CPO产业链，认为市场将在去杠杆结束后更多关注此领域。",
+      "translation": "分析$FORM财报中关于CPO的一些有趣要点：\n由于“共封装光学或CPO的加速增长”，系统收入几乎翻倍。\n2026财年Q1：“我们现在预计2026年CPO收入将处于1000万至2000万美元范围的高端”。\n2026财年Q2（现在）：“预计到第三季度末超出该范围，并且全年显著超过2000万美元水平”。\n管理层表示“我们看到这个（CPO）业务正在显著加速”。\n问：CPO采用前景如何？时间线是否会提前？\n答：“我认为短期内存在加速。”但管理层表示时间线没有显著提前。\n提及生产基础设施（不仅是研发）用于：\n- 今年晚些时候计划增加的CPO芯片产量 + 规模化交换机的测试插入。\n- 似乎CPO部分流经$TSM COUPE[可能对应$NVDA CPO产品]——“CPO部分确实流向那个10%客户”。\n所以，鉴于管理层提到CPO芯片产量增加，测试正在提升。\n“我们CPO业务的近期快速增长是一个令人兴奋的发展，我们相信这代表了硅光子在更广泛半导体行业中广泛采用的非常早期阶段。”\n总结：从根本上说，CPO作为一个主题还非常早期，并且应该很快开始爆发，因为它现在开始在财报中显现（设备/测试玩家通常先于光学引擎/激光器量产出货）。个人认为，一旦所有去杠杆停止，市场将开始更关注这一点。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082655166801588507",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -57,6 +103,25 @@
       "direction": "neutral",
       "summary": "该推文指出美国国防部严重依赖包括稀土在内的关键矿物用于武器系统组件，这凸显了关键矿产供应链的战略重要性，可能对相关矿业和材料公司产生中长期投资影响，但未明确推荐具体标的或方向。",
       "translation": "国防部严重依赖包括稀土在内的关键矿物，用于其武器系统的组件。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082609868108951936",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "It's here.\n\nThis will change how you engage with the stock market.\n\nGet the automations you want, for the tickers you want, with the information you want.\n\nAll how you want it.\n\nCheck out AI automations with Unusual Whales.\n\nSee more: https://t.co/oiANAmIsyC https://t.co/luJ4ToI5WT",
+    "tweet_url": "https://x.com/unusual_whales/status/2082609868108951936",
+    "published_at": "2026-07-29T23:31:00+00:00",
+    "fetched_at": "2026-07-30T09:10:38.728789+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文宣传Unusual Whales的AI自动化工具，声称将改变用户参与股市的方式，强调可定制化自动交易，暗示对股市投资有积极推动作用。",
+      "translation": "它来了。这将改变你参与股市的方式。获取你想要的自动化，针对你想要的股票代码，获取你想要的信息。一切都按你的方式。查看Unusual Whales的AI自动化。了解更多：https://t.co/oiANAmIsyC https://t.co/luJ4ToI5WT",
       "confidence": "medium"
     }
   },
