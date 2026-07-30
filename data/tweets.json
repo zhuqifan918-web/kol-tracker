@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2082812704717467763",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+    "tweet_url": "https://x.com/unusual_whales/status/2082812704717467763",
+    "published_at": "2026-07-30T12:57:00+00:00",
+    "fetched_at": "2026-07-30T13:05:26.430273+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通CEO杰米·戴蒙认为市场低估了风险，当前不会买入股票或美国国债，暗示市场可能面临下行压力。",
+      "translation": "摩根大通的杰米·戴蒙表示，市场低估了风险，他不会以当前价格购买股票或美国国债。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082792572020519177",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Approximately 70% of existing homeowners hold mortgages with rates below 5%, discouraging them from selling and taking on higher rates, per Morgan Stanley",
+    "tweet_url": "https://x.com/unusual_whales/status/2082792572020519177",
+    "published_at": "2026-07-30T11:37:00+00:00",
+    "fetched_at": "2026-07-30T13:05:31.148336+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "高比例低利率抵押贷款导致房主惜售，减少房屋供应，可能支撑房价并影响相关行业，但无具体投资标的推荐。",
+      "translation": "摩根士丹利表示，约70%的现有房主持有低于5%利率的抵押贷款，这使他们不愿出售房屋并承担更高利率。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082782505740935283",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Leopold Aschenbrenner’s AI-focused hedge fund, Situational Awareness LP, has approached lenders and investors for ad-hoc capital and asset sales after heavy leverage and a sharp July sell-off, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2082782505740935283",
+    "published_at": "2026-07-30T10:57:00+00:00",
+    "fetched_at": "2026-07-30T13:05:34.006470+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "利奥波德·阿申布伦纳的AI对冲基金因高杠杆和7月抛售而面临资本和资产出售压力，显示出杠杆风险和市场下行对AI基金的影响。",
+      "translation": "利奥波德·阿申布伦纳的AI对冲基金Situational Awareness LP在遭受高杠杆和7月大幅抛售后，已向贷款人和投资者寻求临时资本和资产出售。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2082740477795745942",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

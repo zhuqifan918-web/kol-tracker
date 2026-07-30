@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
       "AAPL",
-      "META",
+      "NVDA",
       "GOOGL",
+      "V",
       "AMD"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI投资与基建",
       "美联储政策不确定性",
-      "地缘政治风险",
-      "市场波动与流动性危机",
-      "监管与结构性风险"
+      "地缘政治风险与战争担忧",
+      "AI投资泡沫与监管",
+      "零售消费疲软",
+      "市场杠杆清算"
     ],
-    "recent_shift": "近期观点从关注AI增长转向关注流动性风险和地缘冲突，并强调央行政策分歧加剧。",
+    "recent_shift": "从早期关注AI投资机会转向强调市场风险、杠杆清算和政策不确定性",
     "representative_quotes": [
-      "Google, $GOOGL, DeepMind has dismantled the team behind AlphaFold...",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
       "Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi.",
-      "Trump has said that the Federal Reserve should cut interest rates"
+      "Jim Cramer has said that AI's financing is like the dot-com bubble"
     ],
-    "generated_at": "2026-07-30T09:11:07.861774+00:00"
+    "generated_at": "2026-07-30T13:05:56.674818+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
