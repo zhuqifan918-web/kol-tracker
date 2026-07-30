@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2082883168756289767",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US mortgage rates rise to 6.66%, highest level in a year",
+    "tweet_url": "https://x.com/unusual_whales/status/2082883168756289767",
+    "published_at": "2026-07-30T17:37:00+00:00",
+    "fetched_at": "2026-07-30T18:18:29.103719+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国抵押贷款利率升至6.66%，创一年新高，对房地产市场及相关投资构成压力，可能抑制购房需求。",
+      "translation": "突发：美国抵押贷款利率升至6.66%，为一年来最高水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2082878135813755143",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Korea is reportedly reconsidering a short selling ban, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2082878135813755143",
+    "published_at": "2026-07-30T17:17:00+00:00",
+    "fetched_at": "2026-07-30T18:18:30.411266+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "韩国可能重新考虑禁止卖空政策，对市场规则有重要影响，但具体方向待定。",
+      "translation": "突发：据路透社报道，韩国正在重新考虑卖空禁令。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082873102636130663",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$TSM",
-      "$INTC",
-      "$GOOGL",
-      "$NVDA",
-      "$AAPL"
+      "AAPL",
+      "NVDA",
+      "TSM",
+      "GOOGL",
+      "AMD"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与战争不确定性",
-      "美联储政策分歧与通胀压力",
-      "AI投资过热与泡沫风险",
-      "韩国及全球杠杆爆仓潮",
-      "私人信贷与影子银行风险"
+      "利率与货币政策不确定性",
+      "AI投资泡沫与风险",
+      "地缘政治与能源冲击"
     ],
-    "recent_shift": "从早期对AI和市场的乐观情绪，转向对战争、通胀、高杠杆和私人信贷风险的深度担忧。",
+    "recent_shift": "近期从关注AI投资机会转向强调市场风险，如利率上升、流动性危机和地缘冲突。",
     "representative_quotes": [
-      "Trump: \"Whoever wins AI is going to win. That's how big it is.\"",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "Korea to cap proportion of single-stock leveraged ETFs in retail portfolios, per Reuters",
+      "Fed's Warsh: If inflation stays high, rates could be part of the solution.",
       "Jim Cramer has said that AI's financing is like the dot-com bubble"
     ],
-    "generated_at": "2026-07-30T17:00:44.188469+00:00"
+    "generated_at": "2026-07-30T18:18:44.099829+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
