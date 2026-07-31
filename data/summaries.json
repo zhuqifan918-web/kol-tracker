@@ -1,26 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$NBIS",
-      "$NVDA",
-      "$LITE",
-      "$GOOGL"
+      "SIVE",
+      "NVDA",
+      "XFAB",
+      "GOOGL",
+      "MSFT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施持续扩张",
-      "光学互联与CPO技术拐点",
-      "去杠杆后市场反弹",
-      "人形机器人供应链机会"
+      "人工智能基础设施的持续投入与算力短缺",
+      "共封装光学（CPO）的长期增长潜力",
+      "内存与半导体的结构性需求（LTA合同）",
+      "人形机器人的商业化前景",
+      "市场短期波动源于去杠杆而非基本面变化"
     ],
-    "recent_shift": "从早期恐慌性抛售转向强调基本面不变、认为去杠杆过度带来买入机会。",
+    "recent_shift": "在近期市场回调中，更强调基本面验证和长期趋势，但基调仍保持乐观，未出现方向性转变。",
     "representative_quotes": [
-      "Did Citadel really just liquidate Situational Awareness… Then brought up entire markets the next day? This has gotta be one of the wildest liquidations I’ve seen.",
-      "I personally see it as extreme short term deleveraging that overshot many individual names … earnings season tend to remind markets about continued AI acceleration.",
-      "It's a very dangerous and growing trend for folks to post overreaching broader claims from technical nuances to grow viewcount…"
+      "Customer demand continues to exceed available capacity. - MSFT",
+      "We believe that overall industry capacity is going to remain tight for the foreseeable future. - META",
+      "Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp. - XFAB"
     ],
-    "generated_at": "2026-07-30T20:00:03.164951+00:00"
+    "generated_at": "2026-07-31T11:04:54.188259+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

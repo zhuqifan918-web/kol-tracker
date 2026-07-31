@@ -1,5 +1,98 @@
 [
   {
+    "tweet_id": "2083133191112843575",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just a TLDR of this week:\n\nMedia: Hyperscalers overbuilt and are selling excess compute.\n-> $GOOGL, $MSFT, $META, and $AMZN: Demand for compute far exceeds capacity. Capex go brrr.\n\nInstitutions: Emergency rate hike or 3x rate hikes, it's all over.\n-> Kevin Warsh: No rate Hike.\n\nRetail/Media: AI is crashing because it's a bubble. \n-> Citadel looking to buy AI leveraged hedge funds positions: 👀\n\nJim Cramer: Sell all your leveraged DC stocks.\n-> Koreans: SK Hynix +30%, Samsung +26.81%",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083133191112843575",
+    "published_at": "2026-07-31T10:10:30+00:00",
+    "fetched_at": "2026-07-31T11:03:47.955539+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "META",
+        "AMZN",
+        "SK Hynix",
+        "Samsung"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为大型科技公司（谷歌、微软、Meta、亚马逊）的资本开支强劲，暗示AI算力需求旺盛，市场对AI泡沫的担忧可能过度，而机构（如Citadel）正在买入AI杠杆头寸，且韩国芯片股表现强劲，整体偏向看多AI相关股票。",
+      "translation": "本周TLDR：媒体：超大规模企业过度建设并出售过剩算力。-> $GOOGL, $MSFT, $META, $AMZN：算力需求远超产能。资本开支猛增。机构：紧急加息或3倍加息，都结束了。-> Kevin Warsh：不加息。散户/媒体：AI正在崩溃，因为它是泡沫。-> Citadel正在买入AI杠杆对冲基金仓位：👀 Jim Cramer：卖出所有杠杆DC股票。-> 韩国人：SK海力士+30%，三星+26.81%",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083114743729107236",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. \n\nOriginally the wording was \"readiness\" for EOY 2026. \n\nBut $POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026. \n\nSo a volume orders from across $JBL to $POET, should hit in H1 2027. Which makes a bit of sense, since Sivers did raise an institutional oversubscribed round for future mass production.  \n\nOn a side note, can't believe it's already August and 5 months left until 2027... Which was my inflection window for glass substrates, CPO, 800v, and new architectures to ramp.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083114743729107236",
+    "published_at": "2026-07-31T08:57:11+00:00",
+    "fetched_at": "2026-07-31T11:03:53.841121+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "POET",
+        "SIVE",
+        "JBL"
+      ],
+      "direction": "bullish",
+      "summary": "推文讨论了POET的光学中介层与Sivers激光器的合作进展，认为生产时间表提前至2026年底，预计2027年上半年将有来自JBL等客户的批量订单，整体看多相关标的。",
+      "translation": "现在再想想，$POET的光学中介层部分实际上比我对$SIVE的预期更重要。起初的措辞是2026年底'准备就绪'。但$POET升级了措辞，称Sivers激光器预计在2026年底'生产'。因此，从$JBL到$POET的批量订单应在2027年上半年到来。这有点道理，因为Sivers确实为未来量产进行了机构超额认购。顺便说一句，不敢相信已经是八月了，距离2027年还有5个月……那是我对玻璃基板、CPO、800v和新架构的拐点窗口。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083106805949878330",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "For $XFAB ER transcript:  \n\nJust to recap, my idea on $XFAB foundry growth opportunities stemmed from SiC for 800v and photonixfab/MTP for CPO applicability.   \n\n- $XFAB: \"We are making progress in co-packaged optics\".  \n\n- \"The transition to 800v... is expected to support demand for both SiC and GaN... for XFAB\"  \n\nSo those analysts/people that were confidently bearposting about $XFAB that they had \"0 exposure to 800V, photonics, CPO\" just turned out plainly wrong. \n\nAt the time I shared my idea, industry materials showed ASE and others cited photonixfab + XFAB as an upcoming CPO player in EU. And filings showed they had exposure names like $NVTS / $POWI in general. \n\nSo glad $XFAB went out to explicitly clear things up to state they were developing in CPO/800v.   \n\nOkay back to the ER:  \n\n- \"We continue to expect photonics volume production to start in 2028\".  Company currently has three silicon photonics projects in development with key partners.   \n\nI thought it would ramp sometime in H2 2027, but was probably early by a few months. \n\n- Several new data center design wins, eg. 3 new SiC design wins (consistent with general 2027 ramp as 800v deployment takes off).  \n\nSo once those ramp in 2027-2028, (markets tend to price things ahead of time), I'd expect $XFAB to be rerated based on growth opportunities.   \n\nTLDR:  \n- Current revenue numbers not as impressive.\n- $XFAB confirmed direct exposure to CPO and 800V shifts (biggest win for thesis) \n- 800V exposure opportunities for SiC (should be 2027)\n-  Timeline is 2028 ramp for photonics volume production  \n\nHappy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083106805949878330",
+    "published_at": "2026-07-31T08:25:39+00:00",
+    "fetched_at": "2026-07-31T11:04:05.253699+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB",
+        "NVTS",
+        "POWI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调XFAB在CPO和800V领域的直接曝光，并认为这将带来2027-2028年的增长机会，尽管当前收入不佳。作者对XFAB持看涨态度，认为市场将提前反映其增长潜力。",
+      "translation": "对于$XFAB的财报电话会议记录：\n\n回顾一下，我对$XFAB代工增长机会的想法源于SiC用于800V以及photonixfab/MTP用于CPO的适用性。\n\n- $XFAB：“我们在共封装光学方面取得了进展”。\n\n- “向800V的过渡……预计将支持SiC和GaN的需求……对XFAB来说”\n\n所以那些自信地发布关于$XFAB空头帖子的人说他们“对800V、光子学、CPO零敞口”显然错了。\n\n当我分享我的想法时，行业材料显示ASE和其他公司引用photonixfab + XFAB作为欧盟即将到来的CPO参与者。并且文件显示他们一般有像$NVTS / $POWI这样的敞口。\n\n很高兴$XFAB明确澄清他们正在开发CPO/800V。\n\n好的，回到财报电话会议：\n\n- “我们继续预计光子学量产将在2028年开始”。公司目前与关键合作伙伴有三个硅光子项目正在开发中。\n\n我以为它会在2027年下半年某个时候开始爬坡，但可能早几个月。\n\n- 几个新的数据中心设计胜利，例如3个新的SiC设计胜利（与2027年800V部署起飞的一般爬坡一致）。\n\n所以一旦这些在2027-2028年爬坡，（市场倾向于提前定价），我预计$XFAB将基于增长机会重新评级。\n\n总结：\n- 当前收入数字并不令人印象深刻。\n- $XFAB确认直接曝光于CPO和800V转变（对论点最大的胜利）\n- 800V曝光提供SiC机会（应该在2027年）\n- 光子学量产的时间表是2028年\n\n很高兴这次财报电话会议确认了CPO/800V的曝光论点。可能还需要等待收入爬坡。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083089183292178904",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit What are your thoughts on the XFAB earnings yesterday? thank you in advance!",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083089183292178904",
+    "published_at": "2026-07-31T07:15:37+00:00",
+    "fetched_at": "2026-07-31T11:04:09.233530+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XFAB"
+      ],
+      "direction": "neutral",
+      "summary": "这条推文在询问关于XFAB昨日财报的看法，没有明确表达多空观点，属于寻求投资分析的问题。",
+      "translation": "@aleabitoreddit 您对昨天XFAB的财报有什么看法？提前谢谢！",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2083027010448732557",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -515,6 +608,27 @@
       "direction": "bullish",
       "summary": "该推文讨论了Leopold基金在市场动荡中的表现，指出其经历了大幅回撤但年初至今仍有439%的收益，认为当前抛售是买入良机，并支持其融资。整体看多。",
       "translation": "利奥波德基金融资引发了大量愚蠢评论。在$BE、$SNDK、$SHAZ等股票7月出现大幅回撤之后，请记住……这是一位金融男，身高6英尺5英寸、蓝眼睛、管理对冲基金，可能比你更帅，且截至6月年初至今收益439%。关于回撤，Aschenbrenner承认基金“未能免疫”于市场动荡，尤其是在亚洲。FT单独报道指出，杠杆放大了其非凡收益和近期损失。他将此次抛售描述为自2025年初以来最好的买入机会。我同意他的观点，并希望他融资成功。因为当前抛售中很大部分似乎因强制去杠杆而过度了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082721322996543911",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Did you see POET blogged yesterday mentioning SIVE orders?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082721322996543911",
+    "published_at": "2026-07-30T06:53:53+00:00",
+    "fetched_at": "2026-07-31T11:03:57.575088+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到POET公司昨日博客提及SIVE订单，暗示SIVE业务可能带来正面影响，投资情绪偏乐观。",
+      "translation": "@aleabitoreddit 你看到POET昨天博客提到SIVE订单了吗？",
       "confidence": "medium"
     }
   },
