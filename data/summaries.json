@@ -25,26 +25,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "AAPL",
+      "NVDA",
       "AMZN",
       "TSM",
-      "GOOGL",
-      "NVDA"
+      "GOOGL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
+      "AI基础设施与电力需求",
       "美联储政策与利率预期",
-      "人工智能投资与泡沫担忧",
-      "地缘政治风险与能源市场",
-      "市场杠杆与流动性风险",
-      "科技巨头财报波动"
+      "市场波动与杠杆风险",
+      "地缘政治影响",
+      "科技巨头财报与表现"
     ],
-    "recent_shift": "近期观点从对上涨的乐观转向对AI泡沫和利率风险的担忧，同时关注市场杠杆和地缘政治不确定性。",
+    "recent_shift": "近期从关注AI乐观情绪转向担忧市场风险，对美联储政策及杠杆风险更加谨慎。",
     "representative_quotes": [
-      "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
+      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'",
       "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "BREAKING: 3 Fed members dissented to keep rates the same, the first time since 2016."
+      "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today. It is down more than 30% this month alone."
     ],
-    "generated_at": "2026-07-31T05:26:21.938642+00:00"
+    "generated_at": "2026-07-31T08:15:17.516883+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
