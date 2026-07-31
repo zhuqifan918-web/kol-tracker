@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2083296140183892104",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"EA’s CEO got an $8 million raise thanks to how well Battlefield 6 performed, four months after the devs responsible for making the game got laid off,\" per IGN",
+    "tweet_url": "https://x.com/unusual_whales/status/2083296140183892104",
+    "published_at": "2026-07-31T20:58:00+00:00",
+    "fetched_at": "2026-07-31T21:35:10.538445+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "EA"
+      ],
+      "direction": "bearish",
+      "summary": "该消息可能对EA的投资者情绪产生负面影响，因为高管薪酬与裁员形成对比，可能引发对公司治理和员工士气的担忧，进而影响公司长期表现。",
+      "translation": "据IGN报道，EA的首席执行官因《战地6》的出色表现获得了800万美元的加薪，而就在四个月前，负责制作该游戏的开发者们却被解雇了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083294799705375099",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Fed Chair Kevin M. Warsh is considering reducing the number of regularly scheduled meetings at which the Federal Reserve sets interest rates, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2083294799705375099",
+    "published_at": "2026-07-31T20:52:40+00:00",
+    "fetched_at": "2026-07-31T21:35:12.315310+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储主席考虑减少利率设定会议的频率，这可能影响市场对货币政策调整的预期和节奏，投资者需关注政策信号变化。",
+      "translation": "突发：据纽约时报报道，美联储主席凯文·M·沃什正在考虑减少联邦储备委员会设定利率的定期会议次数。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083290855176036611",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley cut its 2026 China GDP growth forecast to 4.6% from 4.8%",
+    "tweet_url": "https://x.com/unusual_whales/status/2083290855176036611",
+    "published_at": "2026-07-31T20:37:00+00:00",
+    "fetched_at": "2026-07-31T21:35:13.977893+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根士丹利下调2026年中国GDP增长预期，表明对中国经济前景持悲观态度，可能对A股和港股市场构成压力，投资者需谨慎。",
+      "translation": "摩根士丹利将2026年中国GDP增长预测从4.8%下调至4.6%",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083285822070235423",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007.",
+    "tweet_url": "https://x.com/unusual_whales/status/2083285822070235423",
+    "published_at": "2026-07-31T20:17:00+00:00",
+    "fetched_at": "2026-07-31T21:35:15.562343+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国30年期国债收益率升至19年新高，反映了市场对长期通胀和利率上升的担忧，可能对股市估值造成压力。",
+      "translation": "突发：美国30年期国债收益率触及19年新高，为2007年以来最高水平。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2083277688824095080",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",

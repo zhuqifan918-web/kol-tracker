@@ -31,21 +31,21 @@
       "TSM",
       "GOOGL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
       "美联储政策与利率预期",
-      "AI投资与数据中心需求",
-      "市场波动与风险信号",
-      "韩国市场杠杆危机",
-      "地缘政治与能源价格"
+      "人工智能投资与泡沫担忧",
+      "韩国股市与散户杠杆危机",
+      "美国国债收益率攀升",
+      "市场波动加剧"
     ],
-    "recent_shift": "近期观点从关注美联储降息预期转向关注AI泡沫风险和市场杠杆压力，同时强调美股财报分化。",
+    "recent_shift": "近期更倾向于避险和减持，对市场持谨慎态度，尤其是对AI相关的高杠杆资产。",
     "representative_quotes": [
       "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
       "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "Equity strategist Ariana Salvatore wrote that “For equities, headline risks from social media posts are becoming less important outside of possible intraday trading.”"
+      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings."
     ],
-    "generated_at": "2026-07-31T20:15:01.753745+00:00"
+    "generated_at": "2026-07-31T21:35:33.040688+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
