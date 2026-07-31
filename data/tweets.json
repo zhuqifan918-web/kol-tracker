@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2083024349137944789",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The bank’s global market intelligence team, led by Andrew Tyler, said its so-called tactical positioning monitor is pointing to “material upside” for the stock-market benchmark\n\nRead more: https://t.co/79YLNyWu4h",
+    "tweet_url": "https://x.com/unusual_whales/status/2083024349137944789",
+    "published_at": "2026-07-31T02:58:00+00:00",
+    "fetched_at": "2026-07-31T05:26:03.696375+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到银行全球市场情报团队认为战术定位指标显示标普500指数有“实质性上涨空间”，整体看好股市前景。",
+      "translation": "该银行的全球市场情报团队，由安德鲁·泰勒领导，表示其所谓的战术定位监控指标指向股市基准的“实质性上涨空间”。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082972256037396878",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
