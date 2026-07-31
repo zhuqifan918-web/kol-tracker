@@ -29,23 +29,21 @@
       "AMZN",
       "NVDA",
       "TSM",
-      "GOOGL"
+      "AMD"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "美联储政策与利率预期",
-      "人工智能投资与泡沫担忧",
-      "韩国股市与散户杠杆危机",
-      "美国国债收益率攀升",
-      "市场波动加剧"
+      "AI投资与数据中心需求",
+      "美联储政策与利率走向",
+      "市场波动与风险管理"
     ],
-    "recent_shift": "近期更倾向于避险和减持，对市场持谨慎态度，尤其是对AI相关的高杠杆资产。",
+    "recent_shift": "近期观点从对AI乐观转向关注市场风险，如苹果下跌和美联储维持利率。",
     "representative_quotes": [
-      "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings."
+      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings. It has lost billions in marketcap.",
+      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings.",
+      "The Fed will hold rates in July, per Bank of America."
     ],
-    "generated_at": "2026-07-31T21:35:33.040688+00:00"
+    "generated_at": "2026-07-31T22:52:12.159874+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
