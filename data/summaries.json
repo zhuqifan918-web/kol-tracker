@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "AAOI",
-      "LITE",
-      "NBIS",
+      "MSFT",
+      "GOOGL",
+      "META",
       "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力需求持续超预期，超大规模资本开支持续增长",
-      "硅光与CPO技术路线确认，光模块与激光器供不应求",
-      "存储行业结构性短缺，价格与需求持续上行，长期LTA支撑",
-      "人形机器人产业化加速，供应链瓶颈与产能成为关键",
-      "市场短期波动源于杠杆与流动性冲击，长期基本面未变"
+      "AI基础设施建设",
+      "CPO与硅光子学",
+      "内存与存储短缺",
+      "超大规模云服务商资本开支",
+      "人形机器人供应链"
     ],
-    "recent_shift": "近期观点从看多转向更强调短期市场因去杠杆和恐慌性抛售超跌，但长期基本面未变，甚至更坚定看多AI硬件链条。",
+    "recent_shift": "近期观点从对市场恐慌和杠杆清算的关注，转向强调基本面强劲，并逢低买入。",
     "representative_quotes": [
-      "Blowout financials, market always like to explain the drop 22.6% off some new BS narrative.",
-      "I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track.",
-      "Feels bad, -49.4% drawdown this month after the recent crash. My portfolio is mainly AI chokepoints and bottlenecks."
+      "But medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds.",
+      "TLDR: Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now.",
+      "I see it as long term ownership over the next hyperscaler... I'm personally not panicking when something drops if the thesis didn't change."
     ],
-    "generated_at": "2026-07-31T17:20:05.068381+00:00"
+    "generated_at": "2026-07-31T20:15:05.109236+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -33,38 +33,41 @@
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "财报与个股驱动",
-      "AI投资与基础设施建设",
-      "宏观经济与美联储政策"
+      "美联储政策与利率预期",
+      "AI投资与数据中心需求",
+      "市场波动与风险信号",
+      "韩国市场杠杆危机",
+      "地缘政治与能源价格"
     ],
-    "recent_shift": "近期转向关注AI热潮风险、市场估值担忧及美联储政策不确定性，并强调个股表现分化。",
+    "recent_shift": "近期观点从关注美联储降息预期转向关注AI泡沫风险和市场杠杆压力，同时强调美股财报分化。",
     "representative_quotes": [
-      "Apple, $AAPL, is down more than 9% today after earnings.",
-      "This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings.",
-      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it.'"
+      "Jim Cramer: “If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.”",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "Equity strategist Ariana Salvatore wrote that “For equities, headline risks from social media posts are becoming less important outside of possible intraday trading.”"
     ],
-    "generated_at": "2026-07-31T17:20:07.592133+00:00"
+    "generated_at": "2026-07-31T20:15:01.753745+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$SKHYX",
-      "$GLW",
-      "$GOOGL",
-      "$MRVL",
-      "$MU"
+      "海力士",
+      "META",
+      "GOOGL",
+      "MU",
+      "MRVL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "存储芯片长期供需失衡与结构性短缺",
-      "AI军备竞赛中云厂与硬件生态的确定性收益",
-      "技术迭代驱动的新材料（玻璃基板）与新存储技术"
+      "存储芯片与AI硬件需求",
+      "云厂商受益于AI浪潮",
+      "风险控制与仓位管理",
+      "市场情绪与个人心态调整"
     ],
-    "recent_shift": "从短期频繁交易转向对存储龙头和基础设施类资产的中长期持有心态",
+    "recent_shift": "从激进抄底存储转为降杠杆、配置SPY/QQQ，并强调风险控制",
     "representative_quotes": [
-      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。",
-      "能健康的管理自己仓位已经赢过绝大多数人。",
-      "海力士我是正股没有杠杆，跌成这逼样只能装死了。"
+      "不想发大财也不想赚更多的钱或者以往冒很大风险了。最近这一个月体感太差。",
+      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。",
+      "仓位管理比买对啥更重要"
     ],
-    "generated_at": "2026-07-30T15:30:11.139516+00:00"
+    "generated_at": "2026-07-31T20:14:59.034450+00:00"
   }
 }

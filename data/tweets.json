@@ -1,5 +1,71 @@
 [
   {
+    "tweet_id": "2083277688824095080",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "不想发大财也不想赚更多的钱或者以往冒很大风险了。最近这一个月体感太差。\n趁着meta财报暴跌了一波.把这俩天抄底解脱卖出来的钱刚553刀买了点 $META 占个1/5仓。\nmeta这个长期80%毛利，18%的年营收增速和类似腾讯社交的全球社交地位，这点一万亿市值还是令人着迷。\n对比纠结了半天都处于财报暴跌的苹果和meta，一个4万亿一个1万亿，最终还是选了个meta数据上长期拿胜率更高点，营收增速下5年后4000亿美金，80%毛利就能冲到3000亿美金毛利，相比现在这个市值对我自己来说还挺心动。希望以后meta别瞎折腾了，搞搞新出的云业务可能比他之前一直瞎搞好，搞了一堆啥都参与了啥都没成。\n\n后面不想像以前那么激进操作了，万一真遇到啥更大规模的黑天鹅人干没了没必要，把spy和qqq配置得提上日程，只用小于一半的资金撸最热的大市值概念，猥琐狗起来，降低预期，不贪就不返贫。\n也降低发推欲望，时间花在打游戏和看资料看书洗脚按摩上肯定比一直盯着股票和推特更开心。",
+    "tweet_url": "https://x.com/xiaomustock/status/2083277688824095080",
+    "published_at": "2026-07-31T19:44:41+00:00",
+    "fetched_at": "2026-07-31T20:14:28.292426+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "SPY",
+        "QQQ"
+      ],
+      "direction": "bullish",
+      "summary": "作者在Meta财报暴跌后抄底买入，认为其长期毛利和营收增速支撑估值，对比苹果更看好Meta。同时计划减少激进操作，增加指数基金配置，降低风险。",
+      "translation": "不想发大财，也不想赚更多的钱或者再冒很大风险了。最近这一个月体感太差。趁着Meta财报暴跌了一波，把这两天抄底解脱卖出来的钱刚553刀买了点 $META 占个1/5仓。Meta这个长期80%毛利，18%的年营收增速和类似腾讯社交的全球社交地位，这点一万亿市值还是令人着迷。对比纠结了半天都处于财报暴跌的苹果和Meta，一个4万亿一个1万亿，最终还是选了个Meta数据上长期拿胜率更高点，营收增速下5年后4000亿美金，80%毛利就能冲到3000亿美金毛利，相比现在这个市值对我自己来说还挺心动。希望以后Meta别瞎折腾了，搞搞新出的云业务可能比他之前一直瞎搞好，搞了一堆啥都参与了啥都没成。后面不想像以前那么激进操作了，万一真遇到啥更大规模的黑天鹅人干没了没必要，把SPY和QQQ配置得提上日程，只用小于一半的资金撸最热的大市值概念，猥琐狗起来，降低预期，不贪就不返贫。也降低发推欲望，时间花在打游戏和看资料看书洗脚按摩上肯定比一直盯着股票和推特更开心。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083270545320386734",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.\n\nUp from $695-$725B Billion previously.\n\nAmazon: $220B\nGoogle: $195B-$205B\nMeta: $130B-$145B\nMicrosoft: $175B\n\nWe've already seen significant deleveraging and retail/institutional margin liquidations (maybe it continues for more time, who knows). \n\nBut medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds. \n\nGiven each hyperscaler has flagged either compute shortages, rising cloud demand + pricing power, or increased spending for chips/networking.  \n\nMy \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. \n\nLot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. \n\nGets rerated when their inflection period hits and capex flows into their balance sheets. \n\nAs seen with $NVDA GPUs past few years, memory this year, CPUs/MLCCs next few years, CPO in 2027, Glass Substrates in 2027, 800V in 2027, and so on.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083270545320386734",
+    "published_at": "2026-07-31T19:16:17+00:00",
+    "fetched_at": "2026-07-31T20:14:10.024860+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出四大科技巨头（亚马逊、谷歌、Meta、微软）上调了2026年资本开支预测至7200-7450亿美元，显示对AI基础设施的强劲需求。作者认为这将利好上游半导体和云服务提供商，并看好相关供应链环节（如内存、CPU、MLCC等）的长期投资机会。整体观点偏乐观。",
+      "translation": "财报回顾：$AMZN、$META、$GOOGL和$MSFT将2026年合计资本开支预测上调至约7200-7450亿美元。高于此前的6950-7250亿美元。亚马逊：2200亿美元；谷歌：1950-2050亿美元；Meta：1300-1450亿美元；微软：1750亿美元。我们已经看到了显著的去杠杆和散户/机构保证金清算（也许还会持续一段时间，谁知道呢）。但中长期来看，我不太确定怎么会有人看空上游半导体或新云服务提供商。鉴于每家超大规模企业都指出了算力短缺、云需求上升和定价权增强，或增加了对芯片/网络的投资。我的“瓶颈”论点在于，当数万亿美元资本流入InP衬底或内存（这些曾被视为廉价大宗商品）甚至能源等领域时，许多在电信周期或甚至被视为“马桶销售商”的AI相关股票，在其拐点到来且资本开支流入其资产负债表时，会获得重新估值。正如过去几年$NVDA GPU、今年的内存、未来几年的CPU/MLCC、2027年的CPO、2027年的玻璃基板、2027年的800V等所显示的那样。"
+    }
+  },
+  {
+    "tweet_id": "2083260656170717361",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Elon Musk’s social media company X, has launched its own bank account-like product where users can send money to one another, per AP",
+    "tweet_url": "https://x.com/unusual_whales/status/2083260656170717361",
+    "published_at": "2026-07-31T18:37:00+00:00",
+    "fetched_at": "2026-07-31T20:14:43.695692+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了马斯克的X公司推出类似银行账户的转账功能，这可能影响金融科技和社交媒体支付领域，但未提及具体股票或投资建议。对相关上市公司（如支付、金融科技公司）可能产生间接影响，但方向不明。",
+      "translation": "据美联社报道，埃隆·马斯克的社交媒体公司X推出了自己的类银行账户产品，用户可以在彼此之间转账。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083240523566113096",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -6463,6 +6529,25 @@
       "summary": "Redfin数据显示，46%的房屋卖方向买家提供让步，创历史新高，这表明房地产市场可能正在降温，对房地产相关股票不利。",
       "translation": "突发新闻：根据Redfin的数据，46%的房屋卖方向买家提供了让步，创历史新高。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2078970263484686514",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "完犊子，归零",
+    "tweet_url": "https://x.com/xiaomustock/status/2078970263484686514",
+    "published_at": "2026-07-19T22:28:30+00:00",
+    "fetched_at": "2026-07-31T20:14:33.608104+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文用中文表示'完犊子，归零'，意思是事情完了，归零了。这通常形容投资资产价格归零或损失惨重，表达极度悲观的情绪，可能暗示某个投资标的已经崩溃或即将归零。",
+      "translation": "完犊子，归零（意指彻底完了，归零）",
+      "confidence": "low"
     }
   },
   {
