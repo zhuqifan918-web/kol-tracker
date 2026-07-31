@@ -21,6 +21,25 @@
     }
   },
   {
+    "tweet_id": "2082963951135215813",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The proliferation of AI data centers has led to a surge in electricity demand, contributing to higher utility bills for consumers\n\nRead more: https://t.co/nEMQPojFKV",
+    "tweet_url": "https://x.com/unusual_whales/status/2082963951135215813",
+    "published_at": "2026-07-30T22:58:00+00:00",
+    "fetched_at": "2026-07-31T01:53:00.993709+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出AI数据中心导致电力需求激增，推高消费者电费，这可能影响电力公用事业股和相关科技股。但对投资方向的影响是中性的，因为对电力公司可能是利好，对高耗能行业可能是利空。",
+      "translation": "AI数据中心的激增导致电力需求激增，推高了消费者的电费账单。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082933752108347588",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
