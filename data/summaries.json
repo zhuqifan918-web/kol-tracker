@@ -2,50 +2,48 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "NVDA",
-      "XFAB",
-      "GOOGL",
-      "MSFT"
+      "AAOI",
+      "LITE",
+      "NBIS",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施的持续投入与算力短缺",
-      "共封装光学（CPO）的长期增长潜力",
-      "内存与半导体的结构性需求（LTA合同）",
-      "人形机器人的商业化前景",
-      "市场短期波动源于去杠杆而非基本面变化"
+      "AI基础设施与算力需求持续超预期，超大规模资本开支持续增长",
+      "硅光与CPO技术路线确认，光模块与激光器供不应求",
+      "存储行业结构性短缺，价格与需求持续上行，长期LTA支撑",
+      "人形机器人产业化加速，供应链瓶颈与产能成为关键",
+      "市场短期波动源于杠杆与流动性冲击，长期基本面未变"
     ],
-    "recent_shift": "在近期市场回调中，更强调基本面验证和长期趋势，但基调仍保持乐观，未出现方向性转变。",
+    "recent_shift": "近期观点从看多转向更强调短期市场因去杠杆和恐慌性抛售超跌，但长期基本面未变，甚至更坚定看多AI硬件链条。",
     "representative_quotes": [
-      "Customer demand continues to exceed available capacity. - MSFT",
-      "We believe that overall industry capacity is going to remain tight for the foreseeable future. - META",
-      "Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp. - XFAB"
+      "Blowout financials, market always like to explain the drop 22.6% off some new BS narrative.",
+      "I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track.",
+      "Feels bad, -49.4% drawdown this month after the recent crash. My portfolio is mainly AI chokepoints and bottlenecks."
     ],
-    "generated_at": "2026-07-31T11:04:54.188259+00:00"
+    "generated_at": "2026-07-31T17:20:05.068381+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AMZN",
       "AAPL",
+      "AMZN",
       "NVDA",
       "TSM",
       "GOOGL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施投资与数据中心的兴起",
-      "美联储政策走向与市场影响",
-      "美股科技巨头财报与市值增长",
-      "全球地缘政治风险与能源价格",
-      "市场杠杆与风险警示"
+      "财报与个股驱动",
+      "AI投资与基础设施建设",
+      "宏观经济与美联储政策"
     ],
-    "recent_shift": "近期观点从对AI泡沫的担忧转向对科技巨头的乐观和看涨，如亚马逊财报超预期和苹果市值创新高。",
+    "recent_shift": "近期转向关注AI热潮风险、市场估值担忧及美联储政策不确定性，并强调个股表现分化。",
     "representative_quotes": [
-      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world.",
-      "Apple $AAPL earnings: EPS of $2.02 vs $1.89 Revenue $109.42 billion vs $108.96B",
-      "Trump: \"Whoever wins AI is going to win. That's how big it is.\""
+      "Apple, $AAPL, is down more than 9% today after earnings.",
+      "This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings.",
+      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it.'"
     ],
-    "generated_at": "2026-07-31T15:35:36.106854+00:00"
+    "generated_at": "2026-07-31T17:20:07.592133+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

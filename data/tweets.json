@@ -1,5 +1,106 @@
 [
   {
+    "tweet_id": "2083240523566113096",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US Strategic Petroleum Reserve is at its lowest level since 1983, with its 18th week of drawdown, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2083240523566113096",
+    "published_at": "2026-07-31T17:17:00+00:00",
+    "fetched_at": "2026-07-31T17:19:38.104208+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国战略石油储备降至1983年以来最低水平，连续18周下降，可能影响油价和能源板块。由于储备减少，可能增加原油进口需求，对油价构成支撑，但具体投资方向需结合其他因素。",
+      "translation": "突发：据路透社报道，美国战略石油储备已降至1983年以来的最低水平，连续第18周减少。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083231715364122930",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "NEWS: Leopold Aschenbrenner's Situational Awareness has said that his hedge fund will continue operating and investing in public equities, but will stop using leverage.",
+    "tweet_url": "https://x.com/unusual_whales/status/2083231715364122930",
+    "published_at": "2026-07-31T16:42:00+00:00",
+    "fetched_at": "2026-07-31T17:19:40.821243+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "利奥波德·阿申布伦纳的基金将减少杠杆，表明其可能降低风险偏好或对未来市场看法趋于谨慎，这或被解读为对公共股票市场的短期消极信号。",
+      "translation": "新闻：利奥波德·阿申布伦纳的《情境意识》表示，他的对冲基金将继续运营并投资公共股票，但将停止使用杠杆。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083225872207937687",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$RDDT ER in a nutshell:\n\nRevenue: $804.9M vs. $730.4M (expected).\nEPS: $1.25 vs. ~$0.95.\nNet income: $252.8M vs. $196.5M\n\nQ3 guidance:\nRevenue: $860–870M vs. 829.1M\nAdjusted EBITDA: $385-395M vs. $369M\n\nBlowout financials, market always like to explain the drop 22.6% off some new BS narrative. \n\nLast quarter: \"AI will disrupt Reddit causing revenue loss!\"\n\nThis quarter: \"See, DAU fell .6%!\" (proceeds to ignore any revenue/profitability growth)",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083225872207937687",
+    "published_at": "2026-07-31T16:18:47+00:00",
+    "fetched_at": "2026-07-31T17:19:17.102664+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RDDT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为Reddit（RDDT）财报远超预期，营收、EPS和净收入均大幅超出市场预测，Q3指引也强劲，但股价却下跌22.6%，市场以DAU小幅下降等无关紧要的理由打压股价。推文对RDDT持看涨态度，认为市场忽略了核心财务增长。",
+      "translation": "红迪（RDDT）财报总结：营收8.049亿美元 vs 预期7.304亿美元。每股收益1.25美元 vs 预期约0.95美元。净利润2.528亿美元 vs 预期1.965亿美元。第三季度指引：营收8.6-8.7亿美元 vs 预期8.291亿美元。调整后EBITDA 3.85-3.95亿美元 vs 预期3.69亿美元。财报非常亮眼，但市场总喜欢用一些新的废话来解释22.6%的下跌。上个季度：‘AI将扰乱红迪导致收入损失！’这个季度：‘看，DAU下降了0.6%！’（然后忽视所有收入和盈利增长）",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083223611737780545",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Apple, $AAPL, is down more than 9% today after earnings.\n\nIt has lost billions in marketcap. https://t.co/m3QKzSPqTl",
+    "tweet_url": "https://x.com/unusual_whales/status/2083223611737780545",
+    "published_at": "2026-07-31T16:09:48+00:00",
+    "fetched_at": "2026-07-31T17:19:43.454237+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果股价财报后大跌超过9%，市值蒸发数十亿美元，属于重大利空消息，可能引发市场对苹果短期前景的担忧。",
+      "translation": "突发新闻：苹果（$AAPL）在财报后今日下跌超过9%。公司市值已蒸发数十亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083217623077081442",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US Treasury has informed a number of ‌banks that it may intervene in the Japanese yen market on Friday and that they should \"stand ready for future action,\" per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2083217623077081442",
+    "published_at": "2026-07-31T15:46:00+00:00",
+    "fetched_at": "2026-07-31T17:19:45.210939+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPY=X"
+      ],
+      "direction": "neutral",
+      "summary": "此消息暗示美国财政部可能干预日元汇率，影响外汇市场，可能对跨国公司和出口商股票产生影响，但未提及具体个股，属于宏观风险事件。",
+      "translation": "突发新闻：据路透社报道，美国财政部已通知多家银行，可能于周五干预日元市场，并应“为未来行动做好准备”。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083213847998124526",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
