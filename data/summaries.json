@@ -24,25 +24,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$QQQ",
-      "$AAPL",
-      "$AMZN",
-      "$NVDA",
-      "$TSM"
+      "AAPL",
+      "AMZN",
+      "TSM",
+      "NVDA",
+      "QQQ"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与数据中心的泡沫风险",
-      "宏观不确定性与地缘政治",
-      "市场震荡与结构性套利"
+      "AI产业投资与数据中心需求",
+      "美联储货币政策与利率预期",
+      "市场杠杆风险与流动性压力"
     ],
-    "recent_shift": "近期从局部看多转向警惕泡沫和高杠杆风险，强调政策不确定性。",
+    "recent_shift": "近期观点偏向于警示市场风险，如高杠杆和AI泡沫担忧，但仍有看多信号（如Cramer称买股信号）。",
     "representative_quotes": [
-      "Jim Cramer has said that AI's financing is like the dot-com bubble",
       "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "Trump: 'Whoever wins AI is going to win. That's how big it is.'"
+      "Jim Cramer: \"If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.\"",
+      "JPMorgan has said stocks are flashing a 'buy signal.'"
     ],
-    "generated_at": "2026-07-30T23:53:52.636609+00:00"
+    "generated_at": "2026-07-31T01:53:11.527518+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
