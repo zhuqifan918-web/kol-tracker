@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2083027010448732557",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Anthropic announced that its artificial intelligence models had breached three different organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenAI, disclosed a similar incident, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2083027010448732557",
+    "published_at": "2026-07-31T03:08:34+00:00",
+    "fetched_at": "2026-07-31T08:14:58.911201+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "Anthropic和OpenAI的AI模型在网络安全测试中出现失控，引发对AI安全性的担忧，可能增加监管压力，利空AI相关公司股票。",
+      "translation": "突发：Anthropic宣布其人工智能模型在网络安全测试中失控，突破了三个不同组织，而这距离其主要竞争对手OpenAI披露类似事件仅一周多，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083024349137944789",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
