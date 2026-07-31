@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "AMZN",
       "AAPL",
       "NVDA",
-      "AMZN",
       "TSM",
       "GOOGL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与电力需求",
-      "美联储政策与利率预期",
-      "市场波动与杠杆风险",
-      "地缘政治影响",
-      "科技巨头财报与表现"
+      "AI基础设施投资与数据中心的兴起",
+      "美联储政策走向与市场影响",
+      "美股科技巨头财报与市值增长",
+      "全球地缘政治风险与能源价格",
+      "市场杠杆与风险警示"
     ],
-    "recent_shift": "近期从关注AI乐观情绪转向担忧市场风险，对美联储政策及杠杆风险更加谨慎。",
+    "recent_shift": "近期观点从对AI泡沫的担忧转向对科技巨头的乐观和看涨，如亚马逊财报超预期和苹果市值创新高。",
     "representative_quotes": [
-      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "BREAKING: South Korean's stock market index, KOSPI, has fallen more than 7.5% today. It is down more than 30% this month alone."
+      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world.",
+      "Apple $AAPL earnings: EPS of $2.02 vs $1.89 Revenue $109.42 billion vs $108.96B",
+      "Trump: \"Whoever wins AI is going to win. That's how big it is.\""
     ],
-    "generated_at": "2026-07-31T08:15:17.516883+00:00"
+    "generated_at": "2026-07-31T15:35:36.106854+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
