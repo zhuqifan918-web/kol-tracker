@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "MSFT",
+      "NVDA",
       "GOOGL",
-      "META",
-      "NVDA"
+      "MSFT",
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设",
-      "CPO与硅光子学",
-      "内存与存储短缺",
-      "超大规模云服务商资本开支",
-      "人形机器人供应链"
+      "AI基础设施资本开支持续增长",
+      "光子学与CPO技术拐点",
+      "内存与上游半导体瓶颈",
+      "人形机器人与自动化",
+      "数据中心与云需求稀缺"
     ],
-    "recent_shift": "近期观点从对市场恐慌和杠杆清算的关注，转向强调基本面强劲，并逢低买入。",
+    "recent_shift": "近期从对市场杠杆清算的担忧转向对超大规模企业财报和AI需求持续性的乐观确认。",
     "representative_quotes": [
-      "But medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds.",
-      "TLDR: Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now.",
-      "I see it as long term ownership over the next hyperscaler... I'm personally not panicking when something drops if the thesis didn't change."
+      "Compute scarcity is visible throughout every single hyperscaler ER.",
+      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
+      "The industry has under-built historically for the wave of AI adoption, making existing capacity, including our own, extremely valuable"
     ],
-    "generated_at": "2026-07-31T20:15:05.109236+00:00"
+    "generated_at": "2026-07-31T23:54:15.707155+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -29,21 +29,23 @@
       "AMZN",
       "NVDA",
       "TSM",
-      "AMD"
+      "CAVA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与数据中心需求",
+      "地缘政治风险升温",
+      "AI投资与数据中心建设",
       "美联储政策与利率走向",
-      "市场波动与风险管理"
+      "市场波动与杠杆风险",
+      "财报季个股分化"
     ],
-    "recent_shift": "近期观点从对AI乐观转向关注市场风险，如苹果下跌和美联储维持利率。",
+    "recent_shift": "近期观点：从对美联储降息的期待转向对加息风险的担忧，同时强调地缘政治和市场杠杆风险加剧。",
     "representative_quotes": [
-      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings. It has lost billions in marketcap.",
-      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings.",
-      "The Fed will hold rates in July, per Bank of America."
+      "Apple, $AAPL, is down more than 9% today after earnings.",
+      "This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings.",
+      "Fed swaps no longer fully price in a September rate hike."
     ],
-    "generated_at": "2026-07-31T22:52:12.159874+00:00"
+    "generated_at": "2026-07-31T23:54:17.867687+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

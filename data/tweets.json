@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2083336627561418948",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The United States and Israel are planning a major bombing campaign against energy infrastructure targets in Iran this weekend, per CBS",
+    "tweet_url": "https://x.com/unusual_whales/status/2083336627561418948",
+    "published_at": "2026-07-31T23:38:53+00:00",
+    "fetched_at": "2026-07-31T23:53:57.422260+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国与以色列计划对伊朗能源基础设施实施大规模轰炸，若成行将加剧中东地缘政治紧张局势，推高原油价格，并可能影响全球能源市场及避险资产走势。投资相关，但未提及具体标的，方向偏空（对风险资产）。",
+      "translation": "突发新闻：据哥伦比亚广播公司报道，美国和以色列计划本周末对伊朗的能源基础设施目标实施大规模轰炸。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083334643881771258",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The unsealed lawsuit alleges Cava’s founders and financial backers dumped billions of dollars in stock at prices inflated by hype about the company’s supposedly soaring trajectory.\n\nRead more: https://t.co/AksIlMOL9C",
+    "tweet_url": "https://x.com/unusual_whales/status/2083334643881771258",
+    "published_at": "2026-07-31T23:31:00+00:00",
+    "fetched_at": "2026-07-31T23:53:59.432245+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CAVA"
+      ],
+      "direction": "bearish",
+      "summary": "该推文提到一项未密封的诉讼，指控Cava的创始人和财务支持者以虚高价格抛售股票，这些价格受到公司前景炒作的影响。这对CAVA股票构成负面信号。",
+      "translation": "未密封的诉讼指控Cava的创始人及财务支持者以虚高价格抛售了数十亿美元的股票，这些价格受到关于公司所谓飙升前景的炒作影响。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083324920214536208",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The media framing and X reactions around Leopold are egregious.\n\nFraming his successful multi-year thesis from $SNDK to $BE as a \"collapse\" or \"failure\".\n\nAfter July's surprising crash, then personally attacking him on top is just pathetic to witness. \n\nIt's almost like everyone is cheering for the downfall of others. \n\nYes, July's crash exposed problems with SA’s leverage, liquidity management, and hedging. \n\nBut his current YTD performance remains +80%, ranking among the best performing hedge funds. And he still has public equities after all this (just removed leverage). \n\nI think he's doing something unique while being successful at it. And this draws the envy of others.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083324920214536208",
+    "published_at": "2026-07-31T22:52:21+00:00",
+    "fetched_at": "2026-07-31T23:53:36.940779+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK",
+        "BE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为Leopold的投资表现依然优秀，尽管七月遭遇回撤，但年初至今回报达+80%，并排在对冲基金前列。推文对其策略表示支持，认为媒体和公众反应过度，因此整体观点偏乐观。",
+      "translation": "围绕Leopold的媒体框架和X上的反应令人震惊。将他从$SNDK到$BE的多年成功策略描述为“崩溃”或“失败”是不对的。在七月意外崩溃后，对他进行人身攻击真是可悲。好像每个人都在为别人的垮台欢呼。是的，七月的崩溃暴露了SA在杠杆、流动性和对冲方面存在的问题。但他目前年初至今的表现仍是+80%，在对冲基金中名列前茅。而且他仍然持有公开股票（只是去除了杠杆）。我认为他在做独特且成功的事情，这引起了别人的嫉妒。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083319544505143700",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
