@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "NVDA",
       "AAPL",
       "AMZN",
-      "AI",
-      "NVDA",
-      "TSM"
+      "TSM",
+      "GOOGL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI数据中心过度建设与电力需求激增",
-      "美联储政策与利率预期",
-      "韩国杠杆ETF与散户亏损",
-      "地缘政治风险（中东、美伊）",
-      "市场波动与机构观点"
+      "AI数据中心与算力投资",
+      "美联储货币政策与利率",
+      "韩国杠杆ETF与散户损失",
+      "财报季科技巨头分化",
+      "地缘政治风险（中东冲突、美伊局势）"
     ],
-    "recent_shift": "近期观点从关注美联储降息转向警惕AI泡沫、杠杆风险和地缘政治冲突，整体态度更为谨慎。",
+    "recent_shift": "近期观点从关注美联储降息预期转向对利率高企和AI泡沫的担忧，同时强调市场波动加剧和科技股分化。",
     "representative_quotes": [
-      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices.",
-      "Jim Cramer has said that AI's financing is like the dot-com bubble."
+      "Jim Cramer has said that AI's financing is like the dot-com bubble",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts."
     ],
-    "generated_at": "2026-08-01T20:05:58.891614+00:00"
+    "generated_at": "2026-08-01T22:24:59.155557+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
