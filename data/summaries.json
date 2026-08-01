@@ -27,25 +27,25 @@
     "focus_tickers": [
       "AAPL",
       "AMZN",
-      "QQQ",
-      "CAVA",
-      "META"
+      "TSM",
+      "BOT",
+      "CAVA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "美联储政策与利率预期",
-      "AI投资与数据中心扩张",
-      "市场波动性与杠杆风险",
-      "地缘政治风险与能源市场",
-      "科技巨头财报与市场影响"
+      "人工智能数据中心建设",
+      "美联储货币政策",
+      "科技股财报",
+      "韩国杠杆交易风险",
+      "美国国债收益率上升"
     ],
-    "recent_shift": "从高调宣扬市场机会转向强调风险与不确定性，但财报利好和AI相关乐观言论仍交替出现。",
+    "recent_shift": "近期明显转向关注AI数据中心过度建设风险、美联储鹰派信号和全球市场波动加剧。",
     "representative_quotes": [
-      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings. It has lost billions in marketcap.",
-      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings. It has gained billions in marketcap.",
-      "BREAKING: Trump Media and Technology Group has launched its new paid data service that provides faster access to Truth Social posts from President Donald Trump"
+      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
+      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007.",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices"
     ],
-    "generated_at": "2026-08-01T16:49:25.503624+00:00"
+    "generated_at": "2026-08-01T18:55:12.300712+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
