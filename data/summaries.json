@@ -27,25 +27,23 @@
     "focus_tickers": [
       "AAPL",
       "AMZN",
-      "NVDA",
-      "TSM",
-      "CAVA"
+      "CAVA",
+      "GOOGL",
+      "TSM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "美联储政策紧缩",
-      "地缘政治风险",
-      "AI泡沫担忧",
-      "韩国股市危机",
-      "美国国债收益率飙升"
+      "人工智能与数据中心",
+      "美联储利率政策",
+      "股市波动与流动性"
     ],
-    "recent_shift": "近期观点从对AI股票的乐观转向更为谨慎，强调市场风险和AI泡沫。",
+    "recent_shift": "从之前的谨慎转为看好股市，并暗示联邦储备可能降息。",
     "representative_quotes": [
-      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007."
+      "Jim Cramer says he \"sees a sure signal to buy stocks.\"",
+      "JPMorgan has said stocks are flashing a \"buy signal.\"",
+      "JPMorgan has said it has turned bullish on stocks."
     ],
-    "generated_at": "2026-08-01T01:54:27.219666+00:00"
+    "generated_at": "2026-08-01T05:19:14.195355+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

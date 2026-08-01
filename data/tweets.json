@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2083407121295474892",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Fed held its benchmark lending rate unchanged at a range of 3.5%-3.75% for the fifth consecutive meeting\n\nRead more: https://t.co/Cgp7OvkDHX",
+    "tweet_url": "https://x.com/unusual_whales/status/2083407121295474892",
+    "published_at": "2026-08-01T04:19:00+00:00",
+    "fetched_at": "2026-08-01T05:18:50.305788+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储连续第五次维持基准利率不变，这一决策符合市场预期，对整体市场影响中性。投资者可能关注未来利率走向和美联储的货币政策指引。",
+      "translation": "美联储连续第五次会议将基准利率维持在3.5%-3.75%的区间不变。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083379942507556951",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citi strategist Mohamed Apabhai said the market capitalization of leveraged ETFs tied to Korean assets peaked at $52.5 billion on June 22\n\nRead more: https://t.co/TLQxQK6PaQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2083379942507556951",
+    "published_at": "2026-08-01T02:31:00+00:00",
+    "fetched_at": "2026-08-01T05:18:56.146482+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "花旗策略师指出，韩国资产杠杆ETF市值在6月22日达到峰值525亿美元，可能暗示市场情绪过热或杠杆资金已达顶点，需关注后续回调风险。",
+      "translation": "花旗策略师Mohamed Apabhai表示，与韩国资产挂钩的杠杆ETF市值在6月22日达到525亿美元的峰值。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083373176948703263",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Treasury Secretary Scott Bessent's visible \"to-do\" list at Camp David revealed a proposal for the U.S. to buy $5 billion to $10 billion worth of Japanese yen, per Reuters. https://t.co/tBEqnA4kum",
+    "tweet_url": "https://x.com/unusual_whales/status/2083373176948703263",
+    "published_at": "2026-08-01T02:04:07+00:00",
+    "fetched_at": "2026-08-01T05:18:58.242425+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息涉及美国财政部考虑购买5至10亿美元的日元，属于外汇市场干预政策，可能影响美元兑日元汇率及全球外汇市场，但未直接涉及股票或加密货币，对股市影响间接。",
+      "translation": "突发新闻：据路透社报道，财政部长斯科特·贝森特在戴维营的可见待办事项清单中，提出一项建议，即美国购买50亿至100亿美元的日元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083366969789821335",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
