@@ -27,48 +27,48 @@
     "focus_tickers": [
       "AAPL",
       "AMZN",
-      "GOOGL",
-      "TSM",
-      "CAVA"
+      "QQQ",
+      "CAVA",
+      "META"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与数据中心建设",
       "美联储政策与利率预期",
-      "地缘政治风险",
-      "韩国市场波动与杠杆风险",
-      "企业财报与盈利表现"
+      "AI投资与数据中心扩张",
+      "市场波动性与杠杆风险",
+      "地缘政治风险与能源市场",
+      "科技巨头财报与市场影响"
     ],
-    "recent_shift": "从更关注超预期财报转向关注地缘政治和宏观风险",
+    "recent_shift": "从高调宣扬市场机会转向强调风险与不确定性，但财报利好和AI相关乐观言论仍交替出现。",
     "representative_quotes": [
-      "Fed's Warsh: If inflation stays high, rates could be part of the solution.",
-      "More than 360,000 margin accounts were forced into liquidation in Korea, per Citi. 62% of those wiped out were reportedly under the age of 35.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices."
+      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings. It has lost billions in marketcap.",
+      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings. It has gained billions in marketcap.",
+      "BREAKING: Trump Media and Technology Group has launched its new paid data service that provides faster access to Truth Social posts from President Donald Trump"
     ],
-    "generated_at": "2026-08-01T14:24:09.762836+00:00"
+    "generated_at": "2026-08-01T16:49:25.503624+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHynix",
-      "MU",
-      "AMD",
+      "SKHYX",
+      "GOOGL",
       "META",
-      "GOOGL"
+      "MRVL",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片超级周期",
-      "AI基础设施投资回报",
-      "云厂商长期赢家",
-      "国产替代与地缘竞争",
-      "黑天鹅事件与交易心理"
+      "存储（内存/HBM）需求与投资机会",
+      "AI算力与云服务商（谷歌、亚马逊）受益",
+      "AI模型竞争与端侧AI（苹果）",
+      "Gate交易所安全与资产被盗风险",
+      "市场波动与个人投资心态调整"
     ],
-    "recent_shift": "作者从激进交易转向保守，计划增加现金仓位并分散配置指数基金，同时强调关注长期价值投资。",
+    "recent_shift": "近期从激进杠杆操作转向更稳健策略，开始关注现金仓位和长期持有优质资产，同时强调存储是核心持仓。",
     "representative_quotes": [
-      "亚马逊26q2ai核心观点：开支：2200亿美元（原2000亿美元），主要因HBM/内存涨价。需求：2026、2027算力仍供不应求，2028需求已非常强劲。投资回本周期：服务器投资<3年回本，之后持续产生自由现金流。",
-      "回看真正稳妥的大机会都是黑天鹅式的，去年关税战暴跌到170的台积电，80多的英伟达，今年美伊战争暴跌下来的存储，美光，闪迪，铠侠，三星海力士，全都跌成了白菜价。",
-      "云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。而谷歌兼具大模型和云厂俩大业务真可能被他笑到最后。"
+      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
+      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡，不然破天的富贵你把握不住。",
+      "市场是真不缺机会，更不缺黑天鹅。"
     ],
-    "generated_at": "2026-08-01T09:50:25.190617+00:00"
+    "generated_at": "2026-08-01T16:49:28.644051+00:00"
   }
 }
