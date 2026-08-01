@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2083689482046280032",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Situational Awareness LP ran roughly $225 million into as much as $45 billion in under two years.\n\nRead more: https://t.co/vIvUzLGbSB",
+    "tweet_url": "https://x.com/unusual_whales/status/2083689482046280032",
+    "published_at": "2026-08-01T23:01:00+00:00",
+    "fetched_at": "2026-08-01T23:27:48.676239+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到Situational Awareness LP在不到两年内将约2.25亿美元资金管理规模扩大至450亿美元，显示出该投资机构的快速成长和市场对其策略的强烈信心，可能对相关基金或私募股权板块产生积极情绪。",
+      "translation": "Situational Awareness LP在不到两年内将约2.25亿美元的资金管理规模扩大至450亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083689482025361718",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Companies’ rising capital costs are starting to spook the stock market,\" per MW",
+    "tweet_url": "https://x.com/unusual_whales/status/2083689482025361718",
+    "published_at": "2026-08-01T23:01:00+00:00",
+    "fetched_at": "2026-08-01T23:27:50.241171+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "推文指出企业资本成本上升开始令股市感到不安，暗示市场可能面临下行压力。",
+      "translation": "据《市场观察》报道，企业不断上升的资本成本开始令股市感到不安。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083659282952904710",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1195,6 +1233,25 @@
       "direction": "bearish",
       "summary": "高盛报告指出韩国约3.4%的成年股民收到追加保证金通知，表明市场杠杆压力大，可能引发进一步抛售风险。",
       "translation": "据高盛报告，韩国约3.4%的成年人口已收到追加保证金通知。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2082860047550263388",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Leopold Aschenbrenner’s entire stock portfolio was reportedly sold in a single block trade to Ken Griffin’s Citadel, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2082860047550263388",
+    "published_at": "2026-07-30T16:05:07+00:00",
+    "fetched_at": "2026-08-01T23:27:46.816446+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息称利奥波德·阿申布伦纳的整个股票投资组合被一笔大宗交易卖给了肯·格里芬的城堡证券。这可能反映大户调仓或流动性需求，但未提及具体标的，投资信号不明。",
+      "translation": "突发：据彭博社报道，利奥波德·阿申布伦纳的整个股票投资组合据报道已通过一笔大宗交易卖给肯·格里芬的城堡证券。",
       "confidence": "medium"
     }
   },
