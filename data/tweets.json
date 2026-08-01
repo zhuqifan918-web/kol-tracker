@@ -1,5 +1,29 @@
 [
   {
+    "tweet_id": "2083438823548293140",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand.\n\nThis is especially visible with EMLs today but is already expanding to CW, especially as CPO ramps.\n\nI've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+    "published_at": "2026-08-01T06:24:58+00:00",
+    "fetched_at": "2026-08-01T07:40:21.227198+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE",
+        "AAOI",
+        "SIVE",
+        "COHR"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出，用于AI数据中心的InP激光器面临比内存更严重的供应链危机，利达光电（LITE）CEO警告其出货量将低于客户需求30%以上。这验证了激光器瓶颈的投资论点，对相关公司（如AAOI、SIVE、LITE、COHR）构成利好。",
+      "translation": "$LITE CEO Michael Hurlston在RAISE峰会上警告称，用于AI数据中心的InP激光器的供应缺口正面临比内存更严重的供应链危机。并且，由于Lumentum拥有5座InP晶圆厂，其出货量将比客户需求低30%以上。这一点在EML（电吸收调制激光器）上尤为明显，但已经扩展到CW（连续波激光器），尤其是在CPO（共封装光学）加速推进之际。我一直是激光器瓶颈论的支持者，涉及$AAOI、$SIVE、$LITE和$COHR，很高兴看到这一论点开始得到验证。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083407121295474892",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

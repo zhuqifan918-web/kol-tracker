@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "NVDA",
-      "GOOGL",
-      "MSFT",
-      "META"
+      "LITE",
+      "NBIS",
+      "AAOI",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施资本开支持续增长",
-      "光子学与CPO技术拐点",
-      "内存与上游半导体瓶颈",
-      "人形机器人与自动化",
-      "数据中心与云需求稀缺"
+      "AI基础设施资本开支持续增长，光学和半导体供应链瓶颈",
+      "CPO（共封装光学）技术崛起，激光器供应商受益",
+      "内存（DRAM/NAND）供不应求，长期协议锁定需求",
+      "人形机器人产业化加速，上游供应商机会",
+      "市场因去杠杆和情绪抛售，但基本面强劲，看好长期复苏"
     ],
-    "recent_shift": "近期从对市场杠杆清算的担忧转向对超大规模企业财报和AI需求持续性的乐观确认。",
+    "recent_shift": "近期观点从强调市场因去杠杆和恐慌性抛售而超跌，转向更乐观地认为行业基本面未变，且多个催化剂（如财报、政府支持）将推动恢复。",
     "representative_quotes": [
-      "Compute scarcity is visible throughout every single hyperscaler ER.",
-      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
-      "The industry has under-built historically for the wave of AI adoption, making existing capacity, including our own, extremely valuable"
+      "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
+      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now (equipment/test players usually appear up first before optical engines / laser volumes ramp).",
+      "Stop panicking... If your long term thesis hasn’t changed… Close your brokerage app. Go live your life. Be present with your family."
     ],
-    "generated_at": "2026-07-31T23:54:15.707155+00:00"
+    "generated_at": "2026-08-01T07:41:02.265237+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
