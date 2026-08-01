@@ -31,21 +31,21 @@
       "TSM",
       "CAVA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险升温",
-      "AI投资与数据中心建设",
-      "美联储政策与利率走向",
-      "市场波动与杠杆风险",
-      "财报季个股分化"
+      "美联储政策紧缩",
+      "地缘政治风险",
+      "AI泡沫担忧",
+      "韩国股市危机",
+      "美国国债收益率飙升"
     ],
-    "recent_shift": "近期观点：从对美联储降息的期待转向对加息风险的担忧，同时强调地缘政治和市场杠杆风险加剧。",
+    "recent_shift": "近期观点从对AI股票的乐观转向更为谨慎，强调市场风险和AI泡沫。",
     "representative_quotes": [
-      "Apple, $AAPL, is down more than 9% today after earnings.",
-      "This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings.",
-      "Fed swaps no longer fully price in a September rate hike."
+      "Jim Cramer: 'If you are borrowing money to buy something related to the data center, here’s what you’re going to do. Today morning, 9:30 AM, sell it. No matter what. You will not regret it.'",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007."
     ],
-    "generated_at": "2026-07-31T23:54:17.867687+00:00"
+    "generated_at": "2026-08-01T01:54:27.219666+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

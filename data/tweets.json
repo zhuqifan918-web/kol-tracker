@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2083366969789821335",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "67% chance of a Fed rate hike in 2026, per Polymarket: https://t.co/HdRTn6vUBl",
+    "tweet_url": "https://x.com/unusual_whales/status/2083366969789821335",
+    "published_at": "2026-08-01T01:39:27+00:00",
+    "fetched_at": "2026-08-01T01:54:05.331833+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文提到Polymarket预测美联储在2026年加息的可能性为67%，反映了市场对利率走势的预期，可能影响债券、股市和加密货币等资产价格。但并非针对具体投资标的，而是宏观政策信息。",
+      "translation": "据Polymarket，美联储在2026年加息的可能性为67%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083356537935057404",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citi strategist Mohamed Apabhai said the market capitalization of leveraged ETFs tied to Korean assets peaked at $52.5 billion on June 22\n\nRead more: https://t.co/TLQxQK7n0o",
+    "tweet_url": "https://x.com/unusual_whales/status/2083356537935057404",
+    "published_at": "2026-08-01T00:58:00+00:00",
+    "fetched_at": "2026-08-01T01:54:10.232857+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "花旗策略师指出，与韩国资产挂钩的杠杆ETF市值在6月22日达到峰值525亿美元，可能表明市场情绪过热或即将回调。",
+      "translation": "花旗策略师Mohamed Apabhai表示，与韩国资产挂钩的杠杆ETF市值在6月22日达到峰值525亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083336627561418948",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
