@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2083613984444576149",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
+    "tweet_url": "https://x.com/unusual_whales/status/2083613984444576149",
+    "published_at": "2026-08-01T18:01:00+00:00",
+    "fetched_at": "2026-08-01T18:54:54.099599+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "马克·库班认为AI数据中心建设过度，可能最终沦为闲置设施（如匹克球球场），暗示相关基础设施投资存在泡沫风险。",
+      "translation": "马克·库班：AI数据中心正在被大规模过度建设，最终可能变成匹克球球场。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083598885038231712",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$36 trillion in baby boomer wealth will pass to Gen X and millennial heirs over the next 20 years, per Visa.",
+    "tweet_url": "https://x.com/unusual_whales/status/2083598885038231712",
+    "published_at": "2026-08-01T17:01:00+00:00",
+    "fetched_at": "2026-08-01T18:54:57.126970+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及未来20年将有36万亿美元的婴儿潮一代财富转移给X世代和千禧一代继承人，这可能带来长期消费和投资趋势变化，但未明确指向具体投资标的或操作建议。",
+      "translation": "据Visa称，未来20年，36万亿美元的婴儿潮一代财富将转移给X世代和千禧一代的继承人。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083592828626870489",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
