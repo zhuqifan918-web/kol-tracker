@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2083659282952904710",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "24% of US workers feel trapped in their jobs, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2083659282952904710",
+    "published_at": "2026-08-01T21:01:00+00:00",
+    "fetched_at": "2026-08-01T22:24:43.485262+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及美国24%的工人感到受困于当前工作，可能反映劳动力市场流动性下降或经济不确定性，对消费和就业相关企业盈利预期有潜在影响，但未提供具体投资建议或股票方向。",
+      "translation": "根据雅虎财经，24%的美国工人感到被困在工作中。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2083644183441535063",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
