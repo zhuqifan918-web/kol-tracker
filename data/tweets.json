@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2083592828626870489",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump Media and Technology Group has launched its new paid data service that provides faster access to Truth Social posts from President Donald Trump",
+    "tweet_url": "https://x.com/unusual_whales/status/2083592828626870489",
+    "published_at": "2026-08-01T16:36:56+00:00",
+    "fetched_at": "2026-08-01T16:49:03.334030+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DJT"
+      ],
+      "direction": "neutral",
+      "summary": "特朗普媒体科技集团推出了付费数据服务，可更快速访问特朗普总统的Truth Social帖子。该消息可能对相关股票（如DJT）产生影响，但方向不明。",
+      "translation": "突发：特朗普媒体科技集团推出了新的付费数据服务，可更快速访问特朗普总统的Truth Social帖子。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083553586588639307",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -35,6 +56,25 @@
       "summary": "该推文介绍了一个名为Unusual Whales的多腿期权流工具，用于追踪专业交易者的大额开盘交易和多腿期权策略，帮助投资者观察复杂期权交易。但其本身不包含具体投资建议或市场方向判断。",
       "translation": "人们通常以简单的方式来谈论期权。但如果你能亲眼看到专业人士是如何交易它们的呢？Unusual Whales的多腿期权流工具可以让你追踪市场上出现的复杂期权策略，包括大额开盘交易和多腿期权仓位。查看专业人士的操作：https://t.co/t8C18mUtSd",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083485858909528143",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "gate有放钱的赶紧走吧，\n不要跟自己的资金安全过不去。",
+    "tweet_url": "https://x.com/xiaomustock/status/2083485858909528143",
+    "published_at": "2026-08-01T09:31:52+00:00",
+    "fetched_at": "2026-08-01T16:48:50.133039+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文警告用户从某个平台（可能指加密货币交易所）撤资，强调资金安全优先，隐含看跌该平台或市场风险。",
+      "translation": "门（平台）里放了钱的人赶紧走吧，不要跟自己的资金安全过不去。",
+      "confidence": "medium"
     }
   },
   {
