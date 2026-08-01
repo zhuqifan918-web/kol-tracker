@@ -1864,6 +1864,25 @@
     }
   },
   {
+    "tweet_id": "2082445284123005271",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The annual income needed to qualify for a mortgage in the U.S. has climbed steadily this year, per NAR:\n\nJanuary: $93,552\nFebruary: $93,792\nMarch: $97,824\nApril: $101,424\nMay: $106,128\nJune: $109,152",
+    "tweet_url": "https://x.com/unusual_whales/status/2082445284123005271",
+    "published_at": "2026-07-29T12:37:00+00:00",
+    "fetched_at": "2026-08-01T12:32:14.264246+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文显示美国房贷资格所需年收入持续上升，反映房价和利率高企，购房负担加重。这可能抑制住房需求，对房地产及相关板块不利，但也可能支撑住房短缺和租金上涨。",
+      "translation": "根据NAR数据，美国获得抵押贷款资格所需的年收入今年持续攀升：1月93,552美元；2月93,792美元；3月97,824美元；4月101,424美元；5月106,128美元；6月109,152美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082425150784590177",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

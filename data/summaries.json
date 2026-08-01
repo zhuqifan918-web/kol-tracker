@@ -27,23 +27,25 @@
     "focus_tickers": [
       "AAPL",
       "AMZN",
-      "CAVA",
+      "TSM",
       "GOOGL",
-      "TSM"
+      "CAVA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与数据中心",
-      "美联储利率政策",
-      "股市波动与流动性"
+      "美联储利率政策与市场预期",
+      "AI投资与数据中心建设",
+      "地缘政治风险（中东冲突、美伊关系）",
+      "市场波动与杠杆风险",
+      "科技股业绩与市场反应"
     ],
-    "recent_shift": "从之前的谨慎转为看好股市，并暗示联邦储备可能降息。",
+    "recent_shift": "近期观点从早期对市场相对乐观转向关注利率上行、地缘冲突和杠杆风险，同时强调AI领域的机会与风险并存。",
     "representative_quotes": [
-      "Jim Cramer says he \"sees a sure signal to buy stocks.\"",
-      "JPMorgan has said stocks are flashing a \"buy signal.\"",
-      "JPMorgan has said it has turned bullish on stocks."
+      "BREAKING: Fed Chair Kevin M. Warsh is considering reducing the number of regularly scheduled meetings at which the Federal Reserve sets interest rates, per NYT",
+      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007.",
+      "BREAKING: The US Strategic Petroleum Reserve is at its lowest level since 1983, with its 18th week of drawdown, per Reuters"
     ],
-    "generated_at": "2026-08-01T05:19:14.195355+00:00"
+    "generated_at": "2026-08-01T12:32:26.143193+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
