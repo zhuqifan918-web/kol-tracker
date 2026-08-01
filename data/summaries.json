@@ -27,25 +27,25 @@
     "focus_tickers": [
       "AAPL",
       "AMZN",
-      "TSM",
       "GOOGL",
+      "TSM",
       "CAVA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "美联储利率政策与市场预期",
       "AI投资与数据中心建设",
-      "地缘政治风险（中东冲突、美伊关系）",
-      "市场波动与杠杆风险",
-      "科技股业绩与市场反应"
+      "美联储政策与利率预期",
+      "地缘政治风险",
+      "韩国市场波动与杠杆风险",
+      "企业财报与盈利表现"
     ],
-    "recent_shift": "近期观点从早期对市场相对乐观转向关注利率上行、地缘冲突和杠杆风险，同时强调AI领域的机会与风险并存。",
+    "recent_shift": "从更关注超预期财报转向关注地缘政治和宏观风险",
     "representative_quotes": [
-      "BREAKING: Fed Chair Kevin M. Warsh is considering reducing the number of regularly scheduled meetings at which the Federal Reserve sets interest rates, per NYT",
-      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007.",
-      "BREAKING: The US Strategic Petroleum Reserve is at its lowest level since 1983, with its 18th week of drawdown, per Reuters"
+      "Fed's Warsh: If inflation stays high, rates could be part of the solution.",
+      "More than 360,000 margin accounts were forced into liquidation in Korea, per Citi. 62% of those wiped out were reportedly under the age of 35.",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices."
     ],
-    "generated_at": "2026-08-01T12:32:26.143193+00:00"
+    "generated_at": "2026-08-01T14:24:09.762836+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
