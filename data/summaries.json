@@ -27,25 +27,25 @@
     "focus_tickers": [
       "AAPL",
       "AMZN",
-      "TSM",
-      "BOT",
-      "CAVA"
+      "AI",
+      "NVDA",
+      "TSM"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能数据中心建设",
-      "美联储货币政策",
-      "科技股财报",
-      "韩国杠杆交易风险",
-      "美国国债收益率上升"
+      "AI数据中心过度建设与电力需求激增",
+      "美联储政策与利率预期",
+      "韩国杠杆ETF与散户亏损",
+      "地缘政治风险（中东、美伊）",
+      "市场波动与机构观点"
     ],
-    "recent_shift": "近期明显转向关注AI数据中心过度建设风险、美联储鹰派信号和全球市场波动加剧。",
+    "recent_shift": "近期观点从关注美联储降息转向警惕AI泡沫、杠杆风险和地缘政治冲突，整体态度更为谨慎。",
     "representative_quotes": [
       "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
-      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices"
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices.",
+      "Jim Cramer has said that AI's financing is like the dot-com bubble."
     ],
-    "generated_at": "2026-08-01T18:55:12.300712+00:00"
+    "generated_at": "2026-08-01T20:05:58.891614+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
