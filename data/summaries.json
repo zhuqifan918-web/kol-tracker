@@ -25,49 +25,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$AMZN",
-      "$TSM",
-      "$GOOGL"
+      "NVDA",
+      "AAPL",
+      "AMZN",
+      "CAVA",
+      "TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "市场波动与流动性风险",
-      "AI投资与基础设施建设",
-      "货币政策和利率走势",
-      "杠杆交易与市场脆弱性"
+      "AI数据中心建设与电力需求激增",
+      "韩国杠杆交易清算与市场动荡",
+      "美联储货币政策不确定性与利率风险",
+      "地缘政治冲突与能源市场影响",
+      "美股估值与债务担忧"
     ],
-    "recent_shift": "近期强调市场短期风险和杠杆投资脆弱性，但对AI长期前景保持乐观。",
+    "recent_shift": "近期观点从关注美联储政策转向强调市场风险与杠杆清算，并多次提及AI相关股票但整体偏谨慎。",
     "representative_quotes": [
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "The cost of insuring Nvidia's, $NVDA, debt is at an all time high, per Bloomberg.",
-      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings. It has gained billions in marketcap."
+      "Jensen Huang of Nvidia, $NVDA, has said ‘a lot’ of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
+      "Jim Cramer says he 'sees a sure signal to buy stocks.'",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices"
     ],
-    "generated_at": "2026-08-02T18:55:51.522590+00:00"
+    "generated_at": "2026-08-02T20:06:55.990903+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
+      "SKHynix",
+      "Gate",
       "GOOGL",
-      "META",
-      "MRVL",
-      "MU"
+      "MU",
+      "SNDK"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "存储（内存/HBM）需求与投资机会",
-      "AI算力与云服务商（谷歌、亚马逊）受益",
-      "AI模型竞争与端侧AI（苹果）",
-      "Gate交易所安全与资产被盗风险",
-      "市场波动与个人投资心态调整"
+      "AI算力与存储需求",
+      "云厂商受益",
+      "交易所安全风险",
+      "个人投资反思"
     ],
-    "recent_shift": "近期从激进杠杆操作转向更稳健策略，开始关注现金仓位和长期持有优质资产，同时强调存储是核心持仓。",
+    "recent_shift": "近期从激进抄底存储和AI概念转向谨慎，增加现金仓位，关注风险控制。",
     "representative_quotes": [
       "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
-      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡，不然破天的富贵你把握不住。",
-      "市场是真不缺机会，更不缺黑天鹅。"
+      "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。",
+      "gate有放钱的赶紧走吧，不要跟自己的资金安全过不去。"
     ],
-    "generated_at": "2026-08-01T16:49:28.644051+00:00"
+    "generated_at": "2026-08-02T20:06:58.710889+00:00"
   }
 }

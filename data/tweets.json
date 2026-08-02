@@ -1,5 +1,68 @@
 [
   {
+    "tweet_id": "2084006571411898458",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Chevron’s profit nearly quadrupled. Drivers are paying for it at $4 a gallon,\" per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2084006571411898458",
+    "published_at": "2026-08-02T20:01:00+00:00",
+    "fetched_at": "2026-08-02T20:06:35.399131+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CVX"
+      ],
+      "direction": "neutral",
+      "summary": "雪佛龙利润几乎翻倍，但其盈利增长部分来自高油价，消费者支付更高的汽油价格。这可能引发对石油公司利润的监管或税负讨论，对股价有潜在影响，但新闻本身仅描述现状，无明显多空倾向。",
+      "translation": "雪佛龙的利润几乎翻倍。司机们正以每加仑4美元的价格为此买单。” —— 引自《财富》杂志。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083997560654663931",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这个gate被盗170万美金现在比较明晰，\ngate这波公关太抽象。\n就是黑客没有掌握用户最新的谷歌验证也没掌握邮箱密码，也不知道手机验证码，\n只是一直提交重置申请，\n然后gate系统人脸不通过，\ngate开始给人工手持审核，把假得不能再假的手持给通过了，\n黑客借此重置了谷歌验证，重置了邮箱，\n添加了白名单地址，\n然后最后提笔到从未用过的地址又一次被gate系统拦截，\n然后人工审核给依据一份黑客声称的支付宝录屏给通过了，\n也就是说gate系统审核中的人脸识别，谷歌验证，邮箱验证全都没通过，gate人工全给黑客的假的不能再假的资料过了。\n\n没立案之前gate嘲讽用户说是用户自己的人脸比对，已经保留了视频和照片。\n立案后gate说是他们系统没有保存人脸识别的视频和照片，只给识别结果😂\n\n也就是说全程从头到尾都人脸识别异常，不管是系统还是人工，但最终gate依据支付宝就觉得是本人给过了。\n自己的安全项认证全都不信，gate信没有人脸信息的支付宝录屏？\n\ngate是不是提前声明了支付宝能作为你gate账户资产安全项的审核依据？\n那别人币安或者okx或者信用卡被盗是不是录个屏就能顺手盗你gate用户资产？因为看起来币安@binance 和 @okx 确实比gate安全点。就像支付宝在gate认知里比gate安全一样。",
+    "tweet_url": "https://x.com/xiaomustock/status/2083997560654663931",
+    "published_at": "2026-08-02T19:25:11+00:00",
+    "fetched_at": "2026-08-02T20:06:20.695083+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GATE"
+      ],
+      "direction": "bearish",
+      "summary": "该推文揭露Gate交易所安全审核存在重大漏洞，人工审核可被伪造资料绕过，系统风控失效，对Gate交易所的声誉和用户信任构成负面影响，可能引发资金外流和监管风险，偏空信号。",
+      "translation": "这个gate被盗170万美金现在比较明晰，gate这波公关太抽象。就是黑客没有掌握用户最新的谷歌验证也没掌握邮箱密码，也不知道手机验证码，只是一直提交重置申请，然后gate系统人脸不通过，gate开始给人工手持审核，把假得不能再假的手持给通过了，黑客借此重置了谷歌验证，重置了邮箱，添加了白名单地址，然后最后提笔到从未用过的地址又一次被gate系统拦截，然后人工审核给依据一份黑客声称的支付宝录屏给通过了，也就是说gate系统审核中的人脸识别，谷歌验证，邮箱验证全都没通过，gate人工全给黑客的假的不能再假的资料过了。没立案之前gate嘲讽用户说是用户自己的人脸比对，已经保留了视频和照片。立案后gate说是他们系统没有保存人脸识别的视频和照片，只给识别结果😂也就是说全程从头到尾都人脸识别异常，不管是系统还是人工，但最终gate依据支付宝就觉得是本人给过了。自己的安全项认证全都不信，gate信没有人脸信息的支付宝录屏？gate是不是提前声明了支付宝能作为你gate账户资产安全项的审核依据？那别人币安或者okx或者信用卡被盗是不是录个屏就能顺手盗你gate用户资产？因为看起来币安@binance 和 @okx 确实比gate安全点。就像支付宝在gate认知里比gate安全一样。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083991471833624936",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jensen Huang of Nvidia, $NVDA, has said ‘a lot’ of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
+    "tweet_url": "https://x.com/unusual_whales/status/2083991471833624936",
+    "published_at": "2026-08-02T19:01:00+00:00",
+    "fetched_at": "2026-08-02T20:06:37.511512+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "英伟达CEO黄仁勋表示，建设新的AI中心将创造大量高薪蓝领岗位（如管道工和建筑工），但这并非直接的投资建议或市场分析，对英伟达股价影响中性。",
+      "translation": "英伟达的黄仁勋表示，由于需要建设新的AI中心，管道和建筑领域的大量六位数薪酬工作将很快被解锁。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083976372314321143",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
