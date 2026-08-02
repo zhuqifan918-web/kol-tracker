@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AAPL",
-      "AMZN",
-      "QQQ",
-      "META"
+      "$NVDA",
+      "$AAPL",
+      "$AMZN",
+      "$TSM",
+      "$CAVA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI数据中心过度建设",
-      "债务与利率上升风险",
-      "市场杠杆与保证金风险",
-      "地缘政治冲突影响",
-      "美国经济韧性与通胀"
+      "杠杆交易风险与流动性危机",
+      "AI基础设施与科技股波动",
+      "货币政策与利率预期",
+      "地缘政治紧张局势"
     ],
-    "recent_shift": "近期观点转向更加谨慎，强调杠杆风险和市场脆弱性，同时关注美联储政策不确定性。",
+    "recent_shift": "近期观点未出现明显转变，但市场情绪从乐观转向对杠杆风险和流动性紧张的担忧。",
     "representative_quotes": [
-      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
+      "BREAKING: The cost of insuring Nvidia's, $NVDA, debt is at an all time high, per Bloomberg.",
       "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "Cava, $CAVA, and its top leaders face a massive $2.2 billion insider trading and breach of fiduciary duty lawsuit filed by the Cleveland Bakers and Teamsters Pension Fund in the Delaware Chancery Court, per Bloomberg."
+      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings. It has lost billions in marketcap."
     ],
-    "generated_at": "2026-08-01T23:28:05.105257+00:00"
+    "generated_at": "2026-08-02T04:48:49.100584+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
