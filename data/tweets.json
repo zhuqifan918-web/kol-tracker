@@ -1,5 +1,102 @@
 [
   {
+    "tweet_id": "2083764979409514851",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Market participants stressed that many of the margin calls were triggered automatically by contractual risk management provisions rather than discretionary action by prime brokers.\n\nRead more: https://t.co/I3iV7ysoBc",
+    "tweet_url": "https://x.com/unusual_whales/status/2083764979409514851",
+    "published_at": "2026-08-02T04:01:00+00:00",
+    "fetched_at": "2026-08-02T04:48:16.565780+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及市场参与者强调许多追加保证金通知是由合约风险管理条款自动触发，而非券商自由裁量，反映了市场机制在风险控制中的作用，但未涉及具体投资标的或方向，因此对投资决策影响中性。",
+      "translation": "市场参与者强调，许多追加保证金通知是由合约风险管理条款自动触发的，而非主要券商的自由裁量行动。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083753501692407940",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Joint currency intervention by the US and Japan to support the yen remains ongoing, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2083753501692407940",
+    "published_at": "2026-08-02T03:15:23+00:00",
+    "fetched_at": "2026-08-02T04:48:21.585354+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美日联合干预汇市支撑日元，可能影响外汇市场和跨国企业盈利，但对普通股票投资者而言影响间接，方向中性。",
+      "translation": "突发新闻：据路透社报道，美日联合干预汇市以支撑日元的行动仍在进行中。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083742837603197287",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says he has canceled the planned U.S. strike on Iran, adding that the two sides have agreed to the “parameters” of a deal that includes reopening the Strait of Hormuz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2083742837603197287",
+    "published_at": "2026-08-02T02:33:01+00:00",
+    "fetched_at": "2026-08-02T04:48:25.758958+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普取消对伊朗的军事打击并达成协议，重新开放霍尔木兹海峡，这降低了中东地缘政治风险，对全球原油供应和航运市场构成利好，可能抑制油价并利好航空、航运等下游行业。",
+      "translation": "突发新闻：特朗普表示他已取消对伊朗的军事打击计划，并补充说双方已同意一项协议的“参数”，其中包括重新开放霍尔木兹海峡。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083742330306039979",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "South Korea’s margin loan balance reached a record 38.63 trillion won on June 24\n\nRead more: https://t.co/Qa6EvfdEpo",
+    "tweet_url": "https://x.com/unusual_whales/status/2083742330306039979",
+    "published_at": "2026-08-02T02:31:00+00:00",
+    "fetched_at": "2026-08-02T04:48:27.702923+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "韩国保证金贷款余额创历史新高，达到38.63万亿韩元，显示市场杠杆水平较高，可能预示市场情绪过热或交易活跃，但未明确指向涨跌。",
+      "translation": "韩国保证金贷款余额在6月24日达到创纪录的38.63万亿韩元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083734780554723609",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citi estimates that more than 360,000 South Korean margin accounts were forcibly liquidated during the KOSPI’s leverage-driven unwind\n\nRead more: https://t.co/Qa6EvfdEpo",
+    "tweet_url": "https://x.com/unusual_whales/status/2083734780554723609",
+    "published_at": "2026-08-02T02:01:00+00:00",
+    "fetched_at": "2026-08-02T04:48:30.103222+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KOSPI"
+      ],
+      "direction": "bearish",
+      "summary": "花旗估计韩国股市KOSPI在杠杆去化过程中，超过36万个保证金账户被强制平仓，显示市场去杠杆压力巨大，短期可能继续承压，对韩国股市及相关ETF偏空。",
+      "translation": "花旗估计，在KOSPI因杠杆引发的下跌中，超过36万个韩国保证金账户被强制平仓。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2083689482046280032",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -35,6 +132,25 @@
       "summary": "推文指出企业资本成本上升开始令股市感到不安，暗示市场可能面临下行压力。",
       "translation": "据《市场观察》报道，企业不断上升的资本成本开始令股市感到不安。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083674382690550156",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Home prices have reached a record high, per Redfin.",
+    "tweet_url": "https://x.com/unusual_whales/status/2083674382690550156",
+    "published_at": "2026-08-01T22:01:00+00:00",
+    "fetched_at": "2026-08-02T04:48:41.936752+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "房价创历史新高可能对房地产相关行业产生压力，影响消费者购买力，进而拖累经济，对股市可能构成利空。",
+      "translation": "据Redfin，房价已达到历史新高。",
+      "confidence": "low"
     }
   },
   {
