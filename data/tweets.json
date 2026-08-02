@@ -97,6 +97,25 @@
     }
   },
   {
+    "tweet_id": "2083727230635811149",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Rates briefly dipped below 6% in February, the first time in three years, but rebounded toward 6.5%\n\nRead more: https://t.co/ywLFq07RgZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2083727230635811149",
+    "published_at": "2026-08-02T01:31:00+00:00",
+    "fetched_at": "2026-08-02T07:27:11.381605+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及美国抵押贷款利率在2月短暂跌破6%，为三年来首次，但随后回升至6.5%附近。这反映了利率市场的波动，可能影响房地产市场及相关投资，但未提供明确的投资建议或方向。",
+      "translation": "2月份，利率曾短暂跌破6%，为三年来的首次，但随后回升至6.5%附近。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083689482046280032",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
