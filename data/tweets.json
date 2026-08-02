@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2083976372314321143",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The labor market could become so backward that the economy will have to shed jobs to keep unemployment steady,\" per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2083976372314321143",
+    "published_at": "2026-08-02T18:01:00+00:00",
+    "fetched_at": "2026-08-02T18:55:28.826524+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用《财富》杂志观点，指出劳动力市场可能恶化到需要裁员才能维持失业率稳定的地步，暗示经济前景疲软，对市场构成利空。",
+      "translation": "据《财富》报道，“劳动力市场可能变得如此糟糕，以至于经济将不得不裁员才能保持失业率稳定。”",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2083931074401542582",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16,6 +35,44 @@
       "summary": "该推文介绍了Unusual Whales API的免费试用，该API提供实时期权、股票、预测市场数据及国会交易等信息，属于交易工具推广，未提及具体投资标的或方向建议。",
       "translation": "我们推出了Unusual Whales API的免费试用版。Unusual Whales API可完全访问实时期权、股票、预测市场数据、国会交易等更多内容。对于交易者来说必备之选。在此查看：https://t.co/JWOGQSKf9Y https://t.co/G6pik34wq5",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083915974567133460",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "People talk about options simply. \n\nWhat if you saw how the pros do it instead?\n\nWhat if you saw their strategies live?\n\nCheck out the Unusual Whales Multi-Leg Flow tool.\n\nIt lets you see the pros in action, as they put their trades.\n\nSee more: https://t.co/eKeyYPleRO https://t.co/QVprcGnjuW",
+    "tweet_url": "https://x.com/unusual_whales/status/2083915974567133460",
+    "published_at": "2026-08-02T14:01:00+00:00",
+    "fetched_at": "2026-08-02T18:55:33.919412+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文推广了一个名为Unusual Whales Multi-Leg Flow的工具，该工具展示了专业交易者的期权策略。它没有提供具体的投资建议或市场分析，而是作为产品推广，帮助投资者观察专业交易者的操作。",
+      "translation": "人们简单地谈论期权。但如果让你看到专业人士是怎么做的呢？如果你能实时看到他们的策略呢？查看Unusual Whales Multi-Leg Flow工具。它让你看到专业人士的交易操作。查看更多：https://t.co/eKeyYPleRO https://t.co/QVprcGnjuW",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083900875165278528",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "It's here.\n\nThis will change how you engage with the stock market.    Get the automations you want, for the tickers you want, with the information you want.  \n\nAll how you want it. \n\nCheck out AI automations with Unusual Whales. \n\nSee more: https://t.co/oiANAmIsyC https://t.co/I2zke2ufUv",
+    "tweet_url": "https://x.com/unusual_whales/status/2083900875165278528",
+    "published_at": "2026-08-02T13:01:00+00:00",
+    "fetched_at": "2026-08-02T18:55:35.926073+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文宣传Unusual Whales的AI自动化功能，旨在帮助用户自定义股票市场信息获取，但未提供具体投资分析或方向性建议。",
+      "translation": "它来了。这将改变你参与股市的方式。为你想要的标的，获取你想要的自动化，以及你想要的信息。一切按你想要的方式。看看Unusual Whales的AI自动化。更多信息：https://t.co/oiANAmIsyC",
+      "confidence": "low"
     }
   },
   {
