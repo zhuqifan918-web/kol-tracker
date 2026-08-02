@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "$NVDA",
       "$AAPL",
       "$AMZN",
-      "$NVDA",
-      "$META",
+      "$TSM",
       "$GOOGL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI数据中心过度建设与电力需求",
-      "韩国杠杆交易危机与保证金追缴",
-      "美联储政策不确定性及利率风险",
-      "地缘政治冲突与市场避险情绪",
-      "市场流动性风险与机构去杠杆"
+      "市场波动与流动性风险",
+      "AI投资与基础设施建设",
+      "货币政策和利率走势",
+      "杠杆交易与市场脆弱性"
     ],
-    "recent_shift": "近期观点从关注AI增长潜力和企业盈利转向对市场系统性风险的警惕，尤其是韩国杠杆爆仓、美国国债收益率飙升及地缘冲突升级。",
+    "recent_shift": "近期强调市场短期风险和杠杆投资脆弱性，但对AI长期前景保持乐观。",
     "representative_quotes": [
-      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
       "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007."
+      "The cost of insuring Nvidia's, $NVDA, debt is at an all time high, per Bloomberg.",
+      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings. It has gained billions in marketcap."
     ],
-    "generated_at": "2026-08-02T17:54:21.380322+00:00"
+    "generated_at": "2026-08-02T18:55:51.522590+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
