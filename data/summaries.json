@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
       "$AAPL",
       "$AMZN",
-      "$QQQ",
-      "$META"
+      "$NVDA",
+      "$META",
+      "$GOOGL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场波动与杠杆风险",
-      "利率与货币政策不确定性",
-      "地缘政治冲突与能源影响",
-      "人工智能投资泡沫与基础设施过度建设"
+      "AI数据中心过度建设与电力需求",
+      "韩国杠杆交易危机与保证金追缴",
+      "美联储政策不确定性及利率风险",
+      "地缘政治冲突与市场避险情绪",
+      "市场流动性风险与机构去杠杆"
     ],
-    "recent_shift": "近期观点从关注市场机会转向强调杠杆风险、利率上升和地缘政治不确定性，整体态度转为谨慎偏空。",
+    "recent_shift": "近期观点从关注AI增长潜力和企业盈利转向对市场系统性风险的警惕，尤其是韩国杠杆爆仓、美国国债收益率飙升及地缘冲突升级。",
     "representative_quotes": [
-      "BREAKING: The cost of insuring Nvidia's, $NVDA, debt is at an all time high, per Bloomberg.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices.",
-      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts."
+      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007."
     ],
-    "generated_at": "2026-08-02T11:10:59.091689+00:00"
+    "generated_at": "2026-08-02T17:54:21.380322+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
