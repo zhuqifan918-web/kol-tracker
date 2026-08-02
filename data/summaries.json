@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "AMZN",
-      "NVDA",
-      "KOSPI",
-      "GOOGL"
+      "$NVDA",
+      "$AAPL",
+      "$AMZN",
+      "$QQQ",
+      "$META"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "市场杠杆化与强制平仓风险",
-      "AI数据中心的过度投资与能源需求",
-      "地缘政治冲突对市场的影响",
-      "美联储政策与利率上升预期",
-      "股市估值分化与波动加剧"
+      "市场波动与杠杆风险",
+      "利率与货币政策不确定性",
+      "地缘政治冲突与能源影响",
+      "人工智能投资泡沫与基础设施过度建设"
     ],
-    "recent_shift": "从关注科技股强劲财报转向强调市场杠杆化、地缘冲突与政策不确定性带来的下行风险。",
+    "recent_shift": "近期观点从关注市场机会转向强调杠杆风险、利率上升和地缘政治不确定性，整体态度转为谨慎偏空。",
     "representative_quotes": [
-      "Market participants stressed that many of the margin calls were triggered automatically by contractual risk management provisions rather than discretionary action by prime brokers.",
-      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices."
+      "BREAKING: The cost of insuring Nvidia's, $NVDA, debt is at an all time high, per Bloomberg.",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices.",
+      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts."
     ],
-    "generated_at": "2026-08-02T07:27:24.203095+00:00"
+    "generated_at": "2026-08-02T11:10:59.091689+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
