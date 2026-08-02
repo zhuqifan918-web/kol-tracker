@@ -139,6 +139,27 @@
     }
   },
   {
+    "tweet_id": "2083793557178192361",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "1/10\n170万美元在gete平台被盗-回答几个大家关心的问题：\n\n第一，Gate账户原绑定的邮箱、手机短信和Google验证器均未泄露；\n第二，常用支付宝未被盗，但有一个闲置的支付宝被登录且我不知情；\n第三，Gate多次公开回应前后矛盾，欺骗公众，混淆事实；\n第四，Gate在警方面前误导侦查，妨碍司法公正，藐视司法权威；\n第五，攻击者为何掌握如此详细的账户信息（gate有内鬼）？\n第六，Gate 声称配合警方，线索在哪里？\n\n具体详情请看下面的线程（一共十条推文）：",
+    "tweet_url": "https://x.com/xiaomustock/status/2083793557178192361",
+    "published_at": "2026-08-02T05:54:33+00:00",
+    "fetched_at": "2026-08-02T21:15:37.456943+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GATE"
+      ],
+      "direction": "bearish",
+      "summary": "该推文曝光了Gate交易所的用户资金被盗事件，并指出Gate在回应中前后矛盾、误导警方，暗示交易所存在内鬼问题。这可能打击投资者对Gate的信任，对其声誉和业务产生负面影响，因此偏空。",
+      "translation": "1/10\n170万美元在gete平台被盗-回答几个大家关心的问题：\n\n第一，Gate账户原绑定的邮箱、手机短信和Google验证器均未泄露；\n第二，常用支付宝未被盗，但有一个闲置的支付宝被登录且我不知情；\n第三，Gate多次公开回应前后矛盾，欺骗公众，混淆事实；\n第四，Gate在警方面前误导侦查，妨碍司法公正，藐视司法权威；\n第五，攻击者为何掌握如此详细的账户信息（gate有内鬼）？\n第六，Gate 声称配合警方，线索在哪里？\n\n具体详情请看下面的线程（一共十条推文）：",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2083764979409514851",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
