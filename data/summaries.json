@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$AMZN",
-      "$INTC",
-      "$CAVA"
+      "NVDA",
+      "INTC",
+      "AMZN",
+      "AAPL",
+      "TSM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI数据中心过度建设与电力需求",
-      "韩国杠杆交易爆仓与市场动荡",
-      "地缘政治紧张与美国对伊朗行动",
-      "高利率与国债收益率上升",
-      "市场风险升高，多家机构谨慎"
+      "AI数据中心与能源需求",
+      "美联储政策与利率走向",
+      "韩国市场杠杆风险",
+      "美国国债收益率与通胀",
+      "地缘政治紧张局势影响市场"
     ],
-    "recent_shift": "最近观点转为更谨慎，强调市场风险，与之前对AI和科技股的快速上涨叙事形成对比。",
+    "recent_shift": "近期观点从关注个股财报和美联储决议，转向对地缘政治、杠杆风险和宏观不确定性的担忧。",
     "representative_quotes": [
-      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "BREAKING: US 30-Year Treasury yield has hit a 19-year high, highest since 2007."
+      "After taking out debt, the fortunes of the top 1%, retirement spending, taxes and charity, Visa estimates boomers will pass on only $36 trillion of that $93 trillion, with about $28 trillion going to savings and investments.",
+      "BREAKING: Joint currency intervention by the US and Japan to support the yen remains ongoing, per Reuters",
+      "Citi estimates that more than 360,000 South Korean margin accounts were forcibly liquidated during the KOSPI’s leverage-driven unwind"
     ],
-    "generated_at": "2026-08-03T04:58:05.072163+00:00"
+    "generated_at": "2026-08-03T08:25:00.502799+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
