@@ -25,50 +25,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "INTC",
-      "AMZN",
-      "AAPL",
-      "TSM"
+      "$NVDA",
+      "$AAPL",
+      "$AMZN",
+      "$INTC",
+      "$TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI数据中心与能源需求",
-      "美联储政策与利率走向",
-      "韩国市场杠杆风险",
-      "美国国债收益率与通胀",
-      "地缘政治紧张局势影响市场"
+      "美联储政策与利率",
+      "AI泡沫与数据中心过度建设",
+      "市场杠杆与被迫清算",
+      "地缘政治紧张",
+      "债券市场长期收益率"
     ],
-    "recent_shift": "近期观点从关注个股财报和美联储决议，转向对地缘政治、杠杆风险和宏观不确定性的担忧。",
+    "recent_shift": "近期观点转向更加谨慎，强调市场杠杆风险上升，并对AI驱动的估值保持怀疑。",
     "representative_quotes": [
-      "After taking out debt, the fortunes of the top 1%, retirement spending, taxes and charity, Visa estimates boomers will pass on only $36 trillion of that $93 trillion, with about $28 trillion going to savings and investments.",
-      "BREAKING: Joint currency intervention by the US and Japan to support the yen remains ongoing, per Reuters",
-      "Citi estimates that more than 360,000 South Korean margin accounts were forcibly liquidated during the KOSPI’s leverage-driven unwind"
+      "Dimon highlighted ongoing conflicts in Ukraine and the Middle East, escalating U.S.-China tensions, and rising military expenditures amid expanding government deficits.",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices.",
+      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts."
     ],
-    "generated_at": "2026-08-03T08:25:00.502799+00:00"
+    "generated_at": "2026-08-03T14:17:05.068535+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "META",
       "GOOGL",
+      "SKHynix",
       "AMZN",
-      "MU",
-      "SKHYX"
+      "MRVL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "存储",
-      "AI算力",
-      "云厂商",
-      "AI应用",
-      "Gate安全"
+      "存储芯片需求与价格周期",
+      "AI算力与云服务厂商",
+      "安全事件与资金安全",
+      "市场波动与风险控制"
     ],
-    "recent_shift": "近期观点从之前的激进抄底转为降低杠杆、重视风险控制，并开始配置QQQ和SPY。",
+    "recent_shift": "从频繁操作和风险偏好高转向更加谨慎，开始考虑配置SPY和QQQ并降低操作频率，表现出对市场波动的敬畏和对资金安全的重视。",
     "representative_quotes": [
-      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
-      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。",
-      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡。"
+      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。",
+      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去，而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。",
+      "希望以后meta别瞎折腾了，搞搞新出的云业务可能比他之前一直瞎搞好，搞了一堆啥都参与了啥都没成。"
     ],
-    "generated_at": "2026-08-03T11:54:19.917756+00:00"
+    "generated_at": "2026-08-03T14:17:08.258191+00:00"
   }
 }

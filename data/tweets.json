@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2084280661943218444",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Live now! Taking live futures trades using Unusual Whales options data, and live flow requests!\n\nWhat do you want our hosts to look at?\n\nhttps://t.co/7xG6cTTdU4",
+    "tweet_url": "https://x.com/unusual_whales/status/2084280661943218444",
+    "published_at": "2026-08-03T14:10:08+00:00",
+    "fetched_at": "2026-08-03T14:16:25.450797+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布正在使用Unusual Whales的期权数据进行实时期货交易，并邀请观众提出流动性质询，但未明确提及具体标的或投资方向，因此属于市场活动推广而非具体投资建议。",
+      "translation": "正在直播！使用Unusual Whales的期权数据和实时流动性质询进行实时期货交易！你想让我们的主持人查看什么？https://t.co/7xG6cTTdU4",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084274135052746772",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "伟大的川沐给韭菜指明了方向，\n$META 市值翻转开始了，\n都高估和恐惧市场波动的时候，\n低估资产就成了救命稻草，\nmeta是美版腾讯，全球社交统治者。 https://t.co/8ono0dpQpQ",
+    "tweet_url": "https://x.com/xiaomustock/status/2084274135052746772",
+    "published_at": "2026-08-03T13:44:12+00:00",
+    "fetched_at": "2026-08-03T14:16:07.015108+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为META市值即将翻转，尽管市场普遍高估和恐惧波动，但低估资产如META将成为避险选择，并称其为美版腾讯和全球社交统治者。",
+      "translation": "伟大的川普给韭菜指明了方向，$META 市值翻转开始了，都高估和恐惧市场波动的时候，低估资产就成了救命稻草，meta是美版腾讯，全球社交统治者。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084247156500619644",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Investor John Paulson has said that we are in the early stages of a long-term bull market for gold, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2084247156500619644",
+    "published_at": "2026-08-03T11:57:00+00:00",
+    "fetched_at": "2026-08-03T14:16:30.939638+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "基金经理约翰·保尔森认为黄金正处于长期牛市的早期阶段，这是对黄金市场的积极看法。",
+      "translation": "投资家约翰·保尔森表示，根据CNBC的报道，我们正处于黄金长期牛市的早期阶段。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084142466781917341",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A Reuters photograph taken during President Donald Trump's cabinet meeting showed Bessent contemplating U.S. purchases of $5 billion to $10 billion worth of Japanese yen.\n\nRead more: https://t.co/8WTxr2d7Xk",
+    "tweet_url": "https://x.com/unusual_whales/status/2084142466781917341",
+    "published_at": "2026-08-03T05:01:00+00:00",
+    "fetched_at": "2026-08-03T14:16:35.166818+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及美国政府可能购买5亿至10亿美元的日元，属于外汇市场相关消息，可能影响日元汇率及美元走势，但未直接提及具体股票或加密货币，投资相关性较低。",
+      "translation": "路透社在特朗普总统内阁会议期间拍摄的一张照片显示，贝森特正在考虑美国购买50亿至100亿美元的日元。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2084127367354818827",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
