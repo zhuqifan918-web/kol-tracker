@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2084378697654751696",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "President Trump said Chevron and ExxonMobil are “making too much money” and should return some of their profits back to the public",
+    "tweet_url": "https://x.com/unusual_whales/status/2084378697654751696",
+    "published_at": "2026-08-03T20:39:42+00:00",
+    "fetched_at": "2026-08-03T21:36:56.204366+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CVX",
+        "XOM"
+      ],
+      "direction": "bearish",
+      "summary": "特朗普总统表示雪佛龙和埃克森美孚赚了太多钱，应把部分利润返还给公众。这可能导致政策压力或额外税收，对石油公司股价构成利空。",
+      "translation": "特朗普总统表示雪佛龙和埃克森美孚赚了太多钱，应该把部分利润返还给公众。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084372417833808206",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
