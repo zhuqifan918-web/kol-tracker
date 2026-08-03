@@ -1,5 +1,68 @@
 [
   {
+    "tweet_id": "2084344237227995246",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Jim Cramer has said he's reportedly selling all his Bitcoin, per CoinDesk",
+    "tweet_url": "https://x.com/unusual_whales/status/2084344237227995246",
+    "published_at": "2026-08-03T18:22:46+00:00",
+    "fetched_at": "2026-08-03T18:43:39.041305+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "bearish",
+      "summary": "据报道，吉姆·克莱默正在出售其所有比特币，这可能对比特币价格产生负面影响。投资者应关注该消息对比特币市场的潜在利空效应。",
+      "translation": "突发：据CoinDesk报道，吉姆·克莱默表示他正在出售其所有比特币。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084339568351080896",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AMC, $AMC, has said it has its \"highest weekend revenue mark in the company’s 106-year history.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2084339568351080896",
+    "published_at": "2026-08-03T18:04:12+00:00",
+    "fetched_at": "2026-08-03T18:43:41.174360+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMC"
+      ],
+      "direction": "bullish",
+      "summary": "AMC院线宣布创下公司106年历史上最高周末票房收入，这通常意味着强劲的观众需求，可能对股价产生积极影响。该消息可能提振投资者信心，但需注意票房收入并不直接等于利润，且市场已有预期。",
+      "translation": "AMC，$AMC，表示其创下了公司106年历史上最高的周末票房收入。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084323435266924719",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Elon Musk says he think SpaceX, $SPCX, is an insane opportunity in the stock market: https://t.co/WUjryYUlB4",
+    "tweet_url": "https://x.com/unusual_whales/status/2084323435266924719",
+    "published_at": "2026-08-03T17:00:06+00:00",
+    "fetched_at": "2026-08-03T18:43:45.657940+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "埃隆·马斯克认为SpaceX（SPCX）在股票市场是一个绝佳的投资机会，表达了对该股票的强烈看多态度。",
+      "translation": "突发新闻：埃隆·马斯克表示他认为SpaceX（SPCX）在股票市场是一个疯狂的机会：https://t.co/WUjryYUlB4",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084280661943218444",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -40,6 +103,27 @@
     }
   },
   {
+    "tweet_id": "2084278330908627293",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "以后就是永远缺 $META 😂 https://t.co/33s71YuMz6",
+    "tweet_url": "https://x.com/xiaomustock/status/2084278330908627293",
+    "published_at": "2026-08-03T14:00:52+00:00",
+    "fetched_at": "2026-08-03T18:43:16.149370+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "推文表达了对比特币（META）的强烈看涨情绪，暗示投资者永远会缺少META，即认为META（可能指代加密货币或相关资产）会持续上涨或供不应求。",
+      "translation": "以后就是永远缺 $META 😂",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084274135052746772",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -57,6 +141,25 @@
       "direction": "bullish",
       "summary": "该推文认为META市值即将翻转，尽管市场普遍高估和恐惧波动，但低估资产如META将成为避险选择，并称其为美版腾讯和全球社交统治者。",
       "translation": "伟大的川普给韭菜指明了方向，$META 市值翻转开始了，都高估和恐惧市场波动的时候，低估资产就成了救命稻草，meta是美版腾讯，全球社交统治者。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084270582485422416",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales live trading show, WhaleWatch, is live now!\n\nTrade the open and deep dive into the flow with our hosts\n\nJoin below:\nhttps://t.co/PvYhIe0Z5c",
+    "tweet_url": "https://x.com/unusual_whales/status/2084270582485422416",
+    "published_at": "2026-08-03T13:30:05+00:00",
+    "fetched_at": "2026-08-03T18:43:50.283028+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文仅宣传一档名为WhaleWatch的财经直播节目，提及交易和资金流向分析，但未提供具体投资观点或推荐。对投资者而言，信息较为泛泛，不构成直接的投资指引。",
+      "translation": "突发：Unusual Whales直播节目WhaleWatch现在正在直播！与我们的主持人一起交易开盘并深入分析资金流向。点击下方加入：https://t.co/PvYhIe0Z5c",
       "confidence": "medium"
     }
   },

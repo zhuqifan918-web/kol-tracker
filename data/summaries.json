@@ -25,47 +25,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AAPL",
       "AMZN",
-      "INTC",
-      "TSM"
+      "AAPL",
+      "NVDA",
+      "SPCX",
+      "INTC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI投资热潮与数据中心建设",
-      "利率政策与通胀预期",
-      "地缘政治风险与市场影响"
+      "AI基础设施过度建设和风险",
+      "市场波动与流动性危机",
+      "地缘政治冲突及央行政策",
+      "美股科技巨头财报分化"
     ],
-    "recent_shift": "近期从关注美联储降息转向关注地缘政治风险和AI投资泡沫风险，同时强调市场对收益率的敏感度上升。",
+    "recent_shift": "近期观点转向更为谨慎，强调市场风险如杠杆清算、AI泡沫担忧及地缘紧张局势。",
     "representative_quotes": [
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings.",
-      "Trump: \"Whoever wins AI is going to win. That's how big it is.\""
+      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices.",
+      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings. It has lost billions in marketcap."
     ],
-    "generated_at": "2026-08-03T16:45:48.198893+00:00"
+    "generated_at": "2026-08-03T18:44:25.161042+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "META",
-      "GOOGL",
-      "MU",
-      "SKHNY",
-      "MRVL"
+      "$META",
+      "$GOOGL",
+      "$MRVL",
+      "$GLW",
+      "$SKHYX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "存储芯片供需紧张",
-      "AI资本开支与回报",
-      "交易所安全风险",
-      "美股科技巨头估值分化"
+      "存储芯片需求爆发",
+      "AI算力军备竞赛",
+      "云厂商受益",
+      "Gate安全事件",
+      "市场波动与风险"
     ],
-    "recent_shift": "近期从激进抄底转向保守配置，强调风险控制和耐心等待黑天鹅机会。",
+    "recent_shift": "从激进的杠杆抄底转向保守，考虑配置SPY/QQQ，并降低交易频率。",
     "representative_quotes": [
-      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。",
-      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡，不然破天的富贵你把握不住。",
-      "如果交易所把“资料验证通过”等同于“本人真实操作”，却无法识别资料冒用、AI合成和异常安全设置变更，那么任何将资产存放在交易所的人，都可能成为下一个受害者。"
+      "亚马逊这个财报发言太bullish了 csp们说自己即将要赚麻",
+      "人类往往高估了一年内的变化，同时也低估了10年后的变化。",
+      "不想发大财也不想赚更多的钱或者以往冒很大风险了。最近这一个月体感太差。"
     ],
-    "generated_at": "2026-08-03T16:45:45.666574+00:00"
+    "generated_at": "2026-08-03T18:44:22.638032+00:00"
   }
 }
