@@ -28,24 +28,24 @@
       "NVDA",
       "AAPL",
       "AMZN",
-      "CAVA",
+      "INTC",
       "TSM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI数据中心建设与电力需求激增",
-      "韩国杠杆交易清算与市场动荡",
-      "美联储货币政策不确定性与利率风险",
-      "地缘政治冲突与能源市场影响",
-      "美股估值与债务担忧"
+      "地缘政治风险升温，美伊冲突及日元干预",
+      "AI基础设施过度建设担忧及能源需求激增",
+      "全球股市去杠杆化，韩国市场剧烈波动",
+      "美债收益率高企，抵押贷款利率攀升",
+      "金融市场系统性风险，如对冲基金爆仓"
     ],
-    "recent_shift": "近期观点从关注美联储政策转向强调市场风险与杠杆清算，并多次提及AI相关股票但整体偏谨慎。",
+    "recent_shift": "从早期关注AI乐观前景和盈利超预期，转向对市场脆弱性和下行风险的担忧。",
     "representative_quotes": [
-      "Jensen Huang of Nvidia, $NVDA, has said ‘a lot’ of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
-      "Jim Cramer says he 'sees a sure signal to buy stocks.'",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices"
+      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "The bank’s global market intelligence team, led by Andrew Tyler, said its so-called tactical positioning monitor is pointing to “material upside” for the stock-market benchmark"
     ],
-    "generated_at": "2026-08-02T20:06:55.990903+00:00"
+    "generated_at": "2026-08-03T01:04:30.005705+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2084063447403339902",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: With Intel, $INTC, I made $75 billion. I didn’t make it for me. I made it for the country.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084063447403339902",
+    "published_at": "2026-08-02T23:47:00+00:00",
+    "fetched_at": "2026-08-03T01:04:14.801952+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普声称通过英特尔（INTC）赚了750亿美元，并强调这笔收益不是为个人，而是为国家。这暗示他对英特尔持积极态度，可能提振市场对INTC的信心，但缺乏具体财务数据支撑，需谨慎看待。",
+      "translation": "特朗普：通过英特尔（INTC），我赚了750亿美元。我不是为我赚的，我是为国家赚的。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084006571411898458",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
