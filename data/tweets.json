@@ -19,6 +19,27 @@
     }
   },
   {
+    "tweet_id": "2084280600194920489",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这个事情Gate会负责到底。律师已经全程介入，坚决配合警方办案，查清事件真相，只要是官方认定的Gate责任部分，我们双倍赔偿，绝不推脱。现将340万美金放在链上，接受监督，是我们的责任我们一定负责到底。  \n\n感谢大家的关心，对于每一位Gate用户，只要在Gate平台遇到因为平台责任造成的损失，我们100%负责。\n\nhttps://t.co/VljGCy7E9y",
+    "tweet_url": "https://x.com/xiaomustock/status/2084280600194920489",
+    "published_at": "2026-08-03T14:09:53+00:00",
+    "fetched_at": "2026-08-03T16:44:41.854156+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GATE"
+      ],
+      "direction": "neutral",
+      "summary": "Gate交易所承诺对平台责任造成的损失100%负责，并已投入340万美元链上资金。此声明旨在增强用户信心，但未提供具体投资建议或市场分析。",
+      "translation": "关于此事，Gate将负责到底。律师已全程介入，坚决配合警方办案，查清事件真相，只要是官方认定的Gate责任部分，我们双倍赔偿，绝不推脱。现将340万美金放在链上，接受监督，是我们的责任我们一定负责到底。感谢大家的关心，对于每一位Gate用户，只要在Gate平台遇到因为平台责任造成的损失，我们100%负责。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084274135052746772",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -36,6 +57,25 @@
       "direction": "bullish",
       "summary": "该推文认为META市值即将翻转，尽管市场普遍高估和恐惧波动，但低估资产如META将成为避险选择，并称其为美版腾讯和全球社交统治者。",
       "translation": "伟大的川普给韭菜指明了方向，$META 市值翻转开始了，都高估和恐惧市场波动的时候，低估资产就成了救命稻草，meta是美版腾讯，全球社交统治者。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084252189682487519",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"More than 70% of recent home buyers were counting on mortgage rates to drop,\" per MW",
+    "tweet_url": "https://x.com/unusual_whales/status/2084252189682487519",
+    "published_at": "2026-08-03T12:17:00+00:00",
+    "fetched_at": "2026-08-03T16:45:09.616864+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出超过70%的近期购房者期望抵押贷款利率下降，这可能对房地产市场及相关股票产生负面影响。若利率不降，购房需求可能减弱，进而影响房地产行业及整体经济。",
+      "translation": "据MW报道，超过70%的近期购房者指望抵押贷款利率下降。",
       "confidence": "medium"
     }
   },
