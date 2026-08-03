@@ -25,49 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AMZN",
-      "AAPL",
-      "NVDA",
-      "SPCX",
-      "INTC"
+      "$AMZN",
+      "$AAPL",
+      "$NVDA",
+      "$PLTR",
+      "$INTC"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施过度建设和风险",
-      "市场波动与流动性危机",
-      "地缘政治冲突及央行政策",
-      "美股科技巨头财报分化"
+      "AI基础设施与数据中心",
+      "地缘政治与能源市场",
+      "利率政策与债券市场",
+      "杠杆与市场风险",
+      "大科技财报与估值"
     ],
-    "recent_shift": "近期观点转向更为谨慎，强调市场风险如杠杆清算、AI泡沫担忧及地缘紧张局势。",
+    "recent_shift": "近期观点从关注AI投资机遇转向警惕AI过度建设和市场风险。",
     "representative_quotes": [
+      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings. It has lost billions in marketcap.",
       "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices.",
-      "BREAKING: Apple, $AAPL, is down more than 9% today after earnings. It has lost billions in marketcap."
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices"
     ],
-    "generated_at": "2026-08-03T18:44:25.161042+00:00"
+    "generated_at": "2026-08-03T20:21:21.380924+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "$META",
       "$GOOGL",
+      "SK Hynix",
       "$MRVL",
-      "$GLW",
-      "$SKHYX"
+      "TSMC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "存储芯片需求爆发",
-      "AI算力军备竞赛",
-      "云厂商受益",
-      "Gate安全事件",
-      "市场波动与风险"
+      "存储芯片需求与AI算力军备竞赛",
+      "Gate交易所安全漏洞与资金被盗事件",
+      "市场波动与风险控制",
+      "大模型竞争与云厂受益",
+      "AI投资回报周期"
     ],
-    "recent_shift": "从激进的杠杆抄底转向保守，考虑配置SPY/QQQ，并降低交易频率。",
+    "recent_shift": "近期因亏损严重，从激进满仓转向防守，增加现金仓位，并开始配置SPY和QQQ，降低交易频率和风险偏好。",
     "representative_quotes": [
-      "亚马逊这个财报发言太bullish了 csp们说自己即将要赚麻",
-      "人类往往高估了一年内的变化，同时也低估了10年后的变化。",
-      "不想发大财也不想赚更多的钱或者以往冒很大风险了。最近这一个月体感太差。"
+      "海力士已经跌的不是大力士也不是海公公了，只能叫它海狗",
+      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手",
+      "真正稳妥的大机会都是黑天鹅式的，去年关税战暴跌到170的台积电，80多的英伟达"
     ],
-    "generated_at": "2026-08-03T18:44:22.638032+00:00"
+    "generated_at": "2026-08-03T20:21:24.569577+00:00"
   }
 }
