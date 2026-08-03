@@ -1,5 +1,110 @@
 [
   {
+    "tweet_id": "2084372417833808206",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Snapchat, $SNAP, earnings:\n\n- Revenue: $1.59 billion, est: $1.53 billion\n- EPS: -$0.1, est: -$0.12",
+    "tweet_url": "https://x.com/unusual_whales/status/2084372417833808206",
+    "published_at": "2026-08-03T20:14:44+00:00",
+    "fetched_at": "2026-08-03T20:20:39.101761+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNAP"
+      ],
+      "direction": "bullish",
+      "summary": "Snapchat公布财报，营收和每股收益均超出市场预期，利好股价，属于正面信号。",
+      "translation": "Snapchat，$SNAP，财报：营收15.9亿美元，预期15.3亿美元；每股收益-0.1美元，预期-0.12美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084371915268050945",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "标记一下这些麻瓜机构，\n他们清一色的下调了 $META 的目标价。 https://t.co/A8ihTmfvzy",
+    "tweet_url": "https://x.com/xiaomustock/status/2084371915268050945",
+    "published_at": "2026-08-03T20:12:45+00:00",
+    "fetched_at": "2026-08-03T20:20:21.570817+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出多家机构一致下调了Meta的目标价，暗示市场对其前景持负面看法，可能引发股价下行压力。",
+      "translation": "标记一下这些麻瓜机构，他们清一色的下调了 $META 的目标价。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084371397615513947",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$ON earnings:\n\n- Revenue: $1.6 billion, est: $1.59 billion\n- EPS: $0.74, est: $0.72",
+    "tweet_url": "https://x.com/unusual_whales/status/2084371397615513947",
+    "published_at": "2026-08-03T20:10:41+00:00",
+    "fetched_at": "2026-08-03T20:20:41.134756+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ON"
+      ],
+      "direction": "bullish",
+      "summary": "安森美半导体（ON）公布财报，营收和每股收益均超预期，显示公司业绩强劲，对股价有利。",
+      "translation": "$ON财报：营收16亿美元，预期15.9亿美元；每股收益0.74美元，预期0.72美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084370171742019939",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Palantir, $PLTR, earnings:\n\n- Revenue: $1.93 billion, est: $1.81 billion\n- EPS: $0.41, est: $0.35",
+    "tweet_url": "https://x.com/unusual_whales/status/2084370171742019939",
+    "published_at": "2026-08-03T20:05:49+00:00",
+    "fetched_at": "2026-08-03T20:20:42.859668+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PLTR"
+      ],
+      "direction": "bullish",
+      "summary": "Palantir 财报超出预期，营收和每股收益均高于市场预估，表明公司业绩强劲，可能对股价产生积极影响。",
+      "translation": "突发：Palantir ($PLTR) 财报：营收：19.3亿美元，预估：18.1亿美元；每股收益：0.41美元，预估：0.35美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084353637296517328",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Amazon, $AMZN, has said it received $600 million in tariff refunds, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2084353637296517328",
+    "published_at": "2026-08-03T19:00:07+00:00",
+    "fetched_at": "2026-08-03T20:20:45.328598+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "neutral",
+      "summary": "亚马逊获得6亿美元关税退税，这一消息可能对其财务表现产生积极影响，但具体投资影响需结合更多财务数据评估。",
+      "translation": "突发：据彭博社报道，亚马逊（$AMZN）表示已收到6亿美元的关税退税。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084344237227995246",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -60,6 +165,27 @@
       "summary": "埃隆·马斯克认为SpaceX（SPCX）在股票市场是一个绝佳的投资机会，表达了对该股票的强烈看多态度。",
       "translation": "突发新闻：埃隆·马斯克表示他认为SpaceX（SPCX）在股票市场是一个疯狂的机会：https://t.co/WUjryYUlB4",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084304840700920281",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我觉得如果韩老板真打算赔，\n警方调查到黑客不是受害者本人自导自演，确有黑客在没有受害者邮箱密码，谷歌验证，手机短信和受害者本人人脸的情况下对gate的风控实施了一连串的突破，\n那证据十分充足的指向了你们gate的风控人工审核人员的过错导致资产被盗。\n就大大方方直接赔偿。\n如果等官方定责，那gate保管用户资金属于民事，虚拟币在国内不受理民事案件，没法定责，韩老板你这不就成了啥流氓了么，只开一个空头支票。",
+    "tweet_url": "https://x.com/xiaomustock/status/2084304840700920281",
+    "published_at": "2026-08-03T15:46:13+00:00",
+    "fetched_at": "2026-08-03T20:20:24.654505+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GATE"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论的是加密货币交易所Gate的安全责任问题，属于投资相关事件，但未提供直接的交易建议或市场分析。事件可能影响Gate的用户信任和监管风险，但对市场走势无直接判断。",
+      "translation": "我觉得如果韩老板真打算赔，警方调查到黑客不是受害者本人自导自演，确有黑客在没有受害者邮箱密码，谷歌验证，手机短信和受害者本人人脸的情况下对gate的风控实施了一连串的突破，那证据十分充足的指向了你们gate的风控人工审核人员的过错导致资产被盗。就大大方方直接赔偿。如果等官方定责，那gate保管用户资金属于民事，虚拟币在国内不受理民事案件，没法定责，韩老板你这不就成了啥流氓了么，只开一个空头支票。",
+      "confidence": "medium"
     }
   },
   {
@@ -160,6 +286,25 @@
       "direction": "neutral",
       "summary": "该推文仅宣传一档名为WhaleWatch的财经直播节目，提及交易和资金流向分析，但未提供具体投资观点或推荐。对投资者而言，信息较为泛泛，不构成直接的投资指引。",
       "translation": "突发：Unusual Whales直播节目WhaleWatch现在正在直播！与我们的主持人一起交易开盘并深入分析资金流向。点击下方加入：https://t.co/PvYhIe0Z5c",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084257222893412655",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Brazil is on the verge of surpassing the United States as the world's largest agricultural exporter, per FT https://t.co/NFQbeAccbh",
+    "tweet_url": "https://x.com/unusual_whales/status/2084257222893412655",
+    "published_at": "2026-08-03T12:37:00+00:00",
+    "fetched_at": "2026-08-03T20:20:56.021454+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "巴西即将超越美国成为全球最大农业出口国，这利好巴西的农业相关企业和整体经济。投资者可关注巴西农业板块的ETF或相关股票，以及大宗商品（如大豆、玉米）价格走势。",
+      "translation": "据英国《金融时报》报道，巴西即将超越美国，成为全球最大的农业出口国。",
       "confidence": "medium"
     }
   },
