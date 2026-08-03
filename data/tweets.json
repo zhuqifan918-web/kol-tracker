@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2084127367354818827",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The note came after Reuters earlier reported the Treasury had put banks on alert for a possible U.S. intervention in the market for Japan's currency.\n\nRead more: https://t.co/8WTxr2dFMS",
+    "tweet_url": "https://x.com/unusual_whales/status/2084127367354818827",
+    "published_at": "2026-08-03T04:01:00+00:00",
+    "fetched_at": "2026-08-03T08:24:36.762587+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "报道称美国财政部已提醒银行，可能对日元汇率进行干预。这属于外汇市场和政策动向，对投资有间接影响，但未涉及具体股票或加密货币。",
+      "translation": "该报道是在路透社早些时候报道美国财政部已提醒银行可能对日元市场进行干预之后发布的。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084102919658565889",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -19,6 +38,25 @@
       "summary": "该推文认为Meta（META）的利润接近甚至可能超过苹果（AAPL），如果Meta不进行巨额AI投入的话。Meta市值仅1万亿美元，而苹果高达4万亿美元，且Meta长期毛利率80%且营收增长，因此认为Meta是美股巨头中最具性价比的投资标的。",
       "translation": "Meta相比于苹果，利润实际上非常接近，甚至如果Meta像苹果那样不搞巨额AI投入，Meta利润大概率超过苹果。Meta市值只有1万亿美元，苹果4万亿美元。长期80%的毛利率，营收一直在增长。算是美股巨头里面最有性价比的了。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084097168252833911",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "After taking out debt, the fortunes of the top 1%, retirement spending, taxes and charity, Visa estimates boomers will pass on only $36 trillion of that $93 trillion, with about $28 trillion going to savings and investments.\n\nRead more: https://t.co/4vKPBAyIJ7",
+    "tweet_url": "https://x.com/unusual_whales/status/2084097168252833911",
+    "published_at": "2026-08-03T02:01:00+00:00",
+    "fetched_at": "2026-08-03T08:24:47.103659+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提供了关于婴儿潮一代财富传承的统计数据，指出在扣除债务、税收等后，约有36万亿美元将传承，其中28万亿流向储蓄和投资。这对金融市场可能意味着长期资金流入，但具体投资影响需进一步分析。",
+      "translation": "在扣除债务、前1%的财富、退休支出、税收和慈善捐赠后，Visa估计婴儿潮一代将仅传承93万亿美元中的36万亿美元，其中约28万亿美元将用于储蓄和投资。",
+      "confidence": "medium"
     }
   },
   {
