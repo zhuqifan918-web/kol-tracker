@@ -25,49 +25,47 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$AMZN",
-      "$INTC",
-      "$TSM"
+      "NVDA",
+      "AAPL",
+      "AMZN",
+      "INTC",
+      "TSM"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "美联储政策与利率",
-      "AI泡沫与数据中心过度建设",
-      "市场杠杆与被迫清算",
-      "地缘政治紧张",
-      "债券市场长期收益率"
+      "AI投资热潮与数据中心建设",
+      "利率政策与通胀预期",
+      "地缘政治风险与市场影响"
     ],
-    "recent_shift": "近期观点转向更加谨慎，强调市场杠杆风险上升，并对AI驱动的估值保持怀疑。",
+    "recent_shift": "近期从关注美联储降息转向关注地缘政治风险和AI投资泡沫风险，同时强调市场对收益率的敏感度上升。",
     "representative_quotes": [
-      "Dimon highlighted ongoing conflicts in Ukraine and the Middle East, escalating U.S.-China tensions, and rising military expenditures amid expanding government deficits.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices.",
-      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts."
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "This is not a meme stock. This is Amazon, $AMZN, one of the most valuable companies in the world. It is up more than 14% after earnings.",
+      "Trump: \"Whoever wins AI is going to win. That's how big it is.\""
     ],
-    "generated_at": "2026-08-03T14:17:05.068535+00:00"
+    "generated_at": "2026-08-03T16:45:48.198893+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "META",
       "GOOGL",
-      "SKHynix",
-      "AMZN",
+      "MU",
+      "SKHNY",
       "MRVL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "存储芯片需求与价格周期",
-      "AI算力与云服务厂商",
-      "安全事件与资金安全",
-      "市场波动与风险控制"
+      "存储芯片供需紧张",
+      "AI资本开支与回报",
+      "交易所安全风险",
+      "美股科技巨头估值分化"
     ],
-    "recent_shift": "从频繁操作和风险偏好高转向更加谨慎，开始考虑配置SPY和QQQ并降低操作频率，表现出对市场波动的敬畏和对资金安全的重视。",
+    "recent_shift": "近期从激进抄底转向保守配置，强调风险控制和耐心等待黑天鹅机会。",
     "representative_quotes": [
-      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。",
-      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去，而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。",
-      "希望以后meta别瞎折腾了，搞搞新出的云业务可能比他之前一直瞎搞好，搞了一堆啥都参与了啥都没成。"
+      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。",
+      "再牛逼的模型，想把模型实力转化成收入，那你就必须要有海量的内存卡和推理卡，不然破天的富贵你把握不住。",
+      "如果交易所把“资料验证通过”等同于“本人真实操作”，却无法识别资料冒用、AI合成和异常安全设置变更，那么任何将资产存放在交易所的人，都可能成为下一个受害者。"
     ],
-    "generated_at": "2026-08-03T14:17:08.258191+00:00"
+    "generated_at": "2026-08-03T16:45:45.666574+00:00"
   }
 }
