@@ -34146,6 +34146,31 @@
     }
   },
   {
+    "tweet_id": "1940267179053916233",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "再往下一阶段，就是美股头部股票英伟达特斯拉苹果亚马逊谷歌这些，\n被token化后，就能在链上比如hype，\n或者cex比如币安ok和bybit这些开启合约.\n英伟达50倍杠杆合约….\nTsla 50倍杠杆合约….\n谷歌50倍杠杆合约….\n他们的身影和btc的合约在一个页面里面…. https://t.co/2iXvlSnqBt",
+    "tweet_url": "https://x.com/xiaomustock/status/1940267179053916233",
+    "published_at": "2025-07-02T04:31:58+00:00",
+    "fetched_at": "2026-08-03T11:53:36.956744+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "TSLA",
+        "AAPL",
+        "AMZN",
+        "GOOGL"
+      ],
+      "direction": "neutral",
+      "summary": "推文预测美股头部股票（如英伟达、特斯拉等）将被代币化，并可在链上（如Hype）或CEX（如币安、OK、Bybit）进行高杠杆合约交易，认为这将是未来趋势，但未明确表达看多或看空。",
+      "translation": "再往下一阶段，就是美股头部股票英伟达、特斯拉、苹果、亚马逊、谷歌这些，被token化后，就能在链上比如hype，或者cex比如币安、ok和bybit这些开启合约。英伟达50倍杠杆合约…. Tsla 50倍杠杆合约…. 谷歌50倍杠杆合约….他们的身影和btc的合约在一个页面里面….",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "1938152835419693370",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
