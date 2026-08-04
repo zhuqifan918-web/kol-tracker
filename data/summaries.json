@@ -23,26 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "SPCX",
       "PLTR",
       "AMZN",
-      "NVDA",
       "AAPL",
-      "WMT"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施",
-      "地缘政治与能源市场",
-      "货币政策与外汇干预",
-      "企业盈利与市场波动"
+      "AI基础设施大规模建设",
+      "地缘政治紧张局势与美伊谈判",
+      "财报超预期及市场积极反应",
+      "政府干预汇率与货币政策",
+      "美国股市创新高"
     ],
-    "recent_shift": "近期观点从关注地缘冲突和能源风险转向人工智能基础设施的长期机遇，同时强调美联储政策和美元干预的影响。",
+    "recent_shift": "近期观点更加乐观，强调股市创新高和AI长期机会，同时关注地缘政治风险。",
     "representative_quotes": [
-      "Wow. $PLTR is up more than 27% after earnings.",
       "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "It's here. This will change how you engage with the stock market. Get the automations you want, for the tickers you want, with the information you want."
+      "Wow. $PLTR is up more than 27% after earnings.",
+      "BREAKING: S&P500 has hit a new record high"
     ],
-    "generated_at": "2026-08-04T19:07:20.746583+00:00"
+    "generated_at": "2026-08-04T20:48:53.614828+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

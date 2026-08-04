@@ -1,5 +1,112 @@
 [
   {
+    "tweet_id": "2084738896726810760",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SpaceX, $SPCX, has said they have \"$100 billion in cash\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2084738896726810760",
+    "published_at": "2026-08-04T20:31:00+00:00",
+    "fetched_at": "2026-08-04T20:48:33.635657+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "推特提到SpaceX拥有1000亿美元现金，表明其财务状况极佳，可能利好其估值和未来投资前景，但需注意SpaceX未上市，投资渠道有限。",
+      "translation": "突发新闻：SpaceX，$SPCX，表示他们拥有“1000亿美元现金”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084735086419918885",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: $AMD earnings:\n\n- Revenue: $11.5 billion, est: $11.3 billion\n- EPS: $1.66, est: $1.61",
+    "tweet_url": "https://x.com/unusual_whales/status/2084735086419918885",
+    "published_at": "2026-08-04T20:15:51+00:00",
+    "fetched_at": "2026-08-04T20:48:35.327002+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "AMD公布的营收和每股收益均超预期，显示出强劲的财务表现，可能对股价产生积极影响。",
+      "translation": "突发：$AMD财报：营收：115亿美元，预期：113亿美元；每股收益：1.66美元，预期：1.61美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084734097948311656",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$ALAB earnings:\n\n- EPS: $0.83, est: $0.69\n- Revenue: $392 million, est: $360 million\n\n$OPEN earnings:\n- Revenue: $883 million, est: $905 million\n- EPS: -$0.17, est: -$0.07\n\n$PINS earnings:\n- Revenue: $1.18 billion, est: $1.15 billion\n- EPS: $0.43, est: $0.36",
+    "tweet_url": "https://x.com/unusual_whales/status/2084734097948311656",
+    "published_at": "2026-08-04T20:11:56+00:00",
+    "fetched_at": "2026-08-04T20:48:37.434509+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ALAB",
+        "OPEN",
+        "PINS"
+      ],
+      "direction": "bullish",
+      "summary": "ALAB和PINS的财报表现超出预期，营收和EPS均优于市场估计，显示强劲增长；而OPEN的营收和EPS均不及预期，表现疲软。整体来看，财报数据偏正面，尤其是ALAB和PINS，可能利好相关股票。",
+      "translation": "$ALAB财报：每股收益0.83美元，预期0.69美元；营收3.92亿美元，预期3.6亿美元。$OPEN财报：营收8.83亿美元，预期9.05亿美元；每股收益-0.17美元，预期-0.07美元。$PINS财报：营收11.8亿美元，预期11.5亿美元；每股收益0.43美元，预期0.36美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084732399230091490",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SpaceX, $SPCX, earnings:\n\n- Revenue: $7.81 billion, est: $6.82 billion\n- EPS: -$0.09, est: -$0.23",
+    "tweet_url": "https://x.com/unusual_whales/status/2084732399230091490",
+    "published_at": "2026-08-04T20:05:11+00:00",
+    "fetched_at": "2026-08-04T20:48:39.075628+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX的营收大幅超出预期，每股亏损小于预期，表明公司基本面表现强劲，可能对投资者构成利好。",
+      "translation": "突发新闻：SpaceX，$SPCX，财报：营收：78.1亿美元，预期：68.2亿美元；每股收益：-0.09美元，预期：-0.23美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084726965370749316",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\n$SPY 775 calls expiring 8/14 saw 113,000+ contracts opened just after 11 AM.\n\nThese are huge.\n\nThe overall position was valued at $35,000,000, and ran as high as 100%. \n\nCurrently sitting on an 80% gain intraday. https://t.co/a2e7d6jAF7",
+    "tweet_url": "https://x.com/unusual_whales/status/2084726965370749316",
+    "published_at": "2026-08-04T19:43:35+00:00",
+    "fetched_at": "2026-08-04T20:48:42.395909+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPY"
+      ],
+      "direction": "bullish",
+      "summary": "该推文报道了SPY 775看涨期权（8月14日到期）出现大量开仓，价值高达3500万美元，盘中涨幅一度达到100%，目前仍有80%的涨幅。这显示出市场对SPY的强烈看涨情绪，可能预示着短期内标普500指数将继续上行。",
+      "translation": "突发新闻：看这个。$SPY 775看涨期权（8月14日到期）在上午11点后开仓超过11.3万份。这些合约规模巨大。总仓位价值3500万美元，涨幅一度达到100%。目前盘中仍持有80%的涨幅。https://t.co/a2e7d6jAF7",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084710207658344458",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
