@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
       "$AMZN",
       "$AAPL",
+      "$NVDA",
       "$PLTR",
-      "$TSM"
+      "$INTC"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险升级",
-      "AI泡沫担忧",
-      "市场波动与杠杆风险",
-      "利率和通胀压力",
-      "财富转移和消费变化"
+      "AI数据中心的过度建设与能源需求",
+      "地缘政治紧张与能源市场波动",
+      "杠杆交易风险与散户损失",
+      "货币政策不确定性与国债收益率上升",
+      "企业财报与市场反应"
     ],
-    "recent_shift": "近期偏空，强调市场风险如AI泡沫和杠杆清算，以及地缘政治紧张。",
+    "recent_shift": "近期观点从关注企业财报转向对市场系统性风险的担忧，包括杠杆交易、地缘冲突和货币政策不确定性。",
     "representative_quotes": [
-      "“Whoever wins AI is going to win. That's how big it is.”",
-      "“Companies’ rising capital costs are starting to spook the stock market.”",
-      "“Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.”"
+      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "Trump: Whoever wins AI is going to win. That's how big it is."
     ],
-    "generated_at": "2026-08-04T00:01:28.238794+00:00"
+    "generated_at": "2026-08-04T05:39:43.361221+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
