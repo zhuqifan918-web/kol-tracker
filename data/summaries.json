@@ -2,71 +2,69 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "SNDK",
       "LITE",
       "AAOI",
+      "COHR",
       "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施资本支出持续增长，带动上游半导体需求",
-      "存储芯片（DRAM、HBM、NAND）供应紧张，2027年将出现严重短缺",
-      "光通信和CPO（共封装光学）作为下一个技术瓶颈，面临供应缺口",
-      "市场回调主要由杠杆清算和恐慌情绪驱动，而非基本面恶化"
+      "AI基础设施和算力需求激增，带动上游半导体、光电和内存行业景气",
+      "CPO（共封装光学）和硅光子技术成为行业新增长点，出现供应瓶颈",
+      "内存（DRAM/NAND）供不应求，价格持续上涨，厂家产能售罄"
     ],
-    "recent_shift": "近期观点未有根本性转变，依然看好AI上游半导体、存储和光通信板块，但承认市场短期波动剧烈，认为回调是买入机会。",
+    "recent_shift": "近期观点从关注市场波动和杠杆清算，转向强调基本面强劲和供应瓶颈，认为市场回调是过度反应，看好长期结构性增长。",
     "representative_quotes": [
-      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
-      "My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy... Gets rerated when their inflection period hits and capex flows into their balance sheets."
+      "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
+      "Given each hyperscaler has flagged either compute shortages, rising cloud demand + pricing power, or increased spending for chips/networking. My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Lot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. Gets rerated when their inflection period hits and capex flows into their balance sheets.",
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
     ],
-    "generated_at": "2026-08-04T11:01:49.580438+00:00"
+    "generated_at": "2026-08-04T13:14:42.415176+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
       "AMZN",
-      "PLTR",
       "AAPL",
-      "SNAP"
+      "PLTR",
+      "INTC"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
       "AI基础设施建设",
-      "市场风险和波动性",
-      "地缘政治和货币政策",
-      "杠杆与强制平仓",
-      "企业盈利"
+      "货币政策与利率",
+      "地缘政治风险",
+      "企业盈利与市场反应",
+      "市场流动性与杠杆"
     ],
-    "recent_shift": "近期观点从对AI和科技股的乐观转向对市场波动、杠杆风险和地缘政治不确定性的担忧。",
+    "recent_shift": "近期内容从关注企业盈利转向关注AI和地缘政治风险，但整体市场情绪保持中性。",
     "representative_quotes": [
-      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "More than 360,000 margin accounts were forced into liquidation in Korea, per Citi."
+      "Huang highlighted the massive buildout of AI data centers, describing it as the 'largest infrastructure buildout in human history.'",
+      "BREAKING: Palantir, $PLTR, earnings: Revenue: $1.93 billion, est: $1.81 billion, EPS: $0.41, est: $0.35",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices"
     ],
-    "generated_at": "2026-08-04T08:21:45.797872+00:00"
+    "generated_at": "2026-08-04T13:14:38.901304+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
+      "SK Hynix",
       "META",
       "MRVL",
-      "AVGO",
-      "COHR",
-      "LITE"
+      "GOOGL",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张与价格上涨",
-      "AI算力需求驱动云厂商和芯片公司增长",
-      "DeepSeek等低价AI模型推动存储需求",
-      "投资风险与亏损反思，强调耐心和仓位管理"
+      "存储行业供需紧张，AI需求持续增长，存储价格长期看涨",
+      "AI算力投资周期长，云厂商和存储厂商受益明显",
+      "市场波动较大，短期回调后存在买入机会"
     ],
-    "recent_shift": "近期作者从激进交易转向保守和稳健，减少杠杆，增加现金仓位，计划配置SPY和QQQ，心态从追求高收益转向稳健增长。",
+    "recent_shift": "近期从极度悲观转为谨慎乐观，承认短期亏损但看好长期存储和AI趋势，同时更注重风险控制。",
     "representative_quotes": [
       "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
-      "市场是真不缺机会，更不缺黑天鹅。",
-      "巴菲特真是太牛逼，他能在资本市场活这么久，肉体也能活这么久，跟他没杠杆，一直没满仓的操作风格肯定多少有关系。"
+      "AI真实有史以来最牛逼的生意，存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了。",
+      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。"
     ],
-    "generated_at": "2026-08-04T11:01:52.344700+00:00"
+    "generated_at": "2026-08-04T13:14:37.072775+00:00"
   }
 }

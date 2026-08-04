@@ -1,5 +1,86 @@
 [
   {
+    "tweet_id": "2084614578051149854",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The share of U.S. gross domestic income going to wages and salaries has fallen to 43%, near its lowest level since records began in 1929, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2084614578051149854",
+    "published_at": "2026-08-04T12:17:00+00:00",
+    "fetched_at": "2026-08-04T13:14:11.418167+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出美国工资和薪金在国民总收入中的占比降至43%，接近1929年以来的最低水平，暗示劳动者收入份额下降，可能影响消费能力和整体经济健康，对市场构成潜在负面影响。",
+      "translation": "据英国《金融时报》报道，美国国内总收入中工资和薪金所占份额已降至43%，接近自1929年有记录以来的最低水平。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084613071423893692",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Bessent says: \"There may be deal Tuesday or Wednesday to open Strait of Hormuz with freedom of movement\"\n\nI think markets might like the sound of this. https://t.co/qXc8u2050N",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2084613071423893692",
+    "published_at": "2026-08-04T12:11:01+00:00",
+    "fetched_at": "2026-08-04T13:13:36.551617+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到贝森特表示可能于周二或周三达成协议开放霍尔木兹海峡，保障航行自由，市场对此消息可能持积极反应。这有望缓解地缘政治紧张局势，对全球能源市场和风险资产构成利好。",
+      "translation": "贝森特表示：\"可能周二或周三达成协议，开放霍尔木兹海峡，确保航行自由。\"我认为市场可能喜欢这个消息。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084598196257603847",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "光猛归猛一个都不敢买，业绩太虚了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2084598196257603847",
+    "published_at": "2026-08-04T11:11:54+00:00",
+    "fetched_at": "2026-08-04T13:13:54.727329+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文对某些股票持谨慎态度，认为业绩虚高，投资者不敢购买。属于负面情绪，但未提及具体代码。",
+      "translation": "虽然看起来涨得很猛，但一个都不敢买，因为业绩太虚了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084597612175618342",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: \n\nThe Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. \n\nWhich would likely hit China’s Innolight, Eoptolink, and other Chinese optical interconnect supply chains. \n\n\"The agency would ban all imports of new transceiver models ​and then exempt many ⁠non-Chinese suppliers from the restrictions\"\n\nWe'll likely see a larger bifurcation of supply chains with even greater importance put on Western players.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+    "published_at": "2026-08-04T11:09:35+00:00",
+    "fetched_at": "2026-08-04T13:13:41.450051+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "SIVE",
+        "LITE",
+        "COHR"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普政府拟禁止进口中国新型光模块和数据中心设备，利好西方光通信供应链企业，如AAOI、Jabil、LITE和Coherent。这将加剧供应链分化，提升西方厂商的重要性。",
+      "translation": "西方供应链出现了一个非常重要的催化剂，从$AAOI、$SIVE/捷普、到$LITE和Coherent：特朗普政府正在起草一项禁令，禁止进口新的中国光收发器和数据中心设备。这可能会打击中国的中际旭创、新易盛等光互连供应链。\"该机构将禁止所有新型收发器模型的进口，然后豁免许多非中国供应商的进口限制\"。我们很可能会看到供应链的进一步分化，西方厂商将获得更大的重要性。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084594400685085136",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
