@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2084468063228060092",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.\n\n$SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expected to finalize allocations by August 2026. \n\n- Customers are being allocated only 60–70% of the volumes they initially requested\n\n- industry insiders pointed out that 2027 will enter the most severe moment of memory shortage\n\n- Allocation amounts are mostly decided, but final shipment pricing will be determined closer to delivery \n\nSource: Digitimes, citing industry sources. \n\nHard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+    "published_at": "2026-08-04T02:34:48+00:00",
+    "fetched_at": "2026-08-04T02:44:30.620838+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "SNDK",
+        "SK Hynix",
+        "Samsung",
+        "Kioxia"
+      ],
+      "direction": "bullish",
+      "summary": "该推文引用行业消息称，SK海力士、美光和三星的DRAM/HBM产能已售罄至2027年，NAND产能也已售罄，客户仅能获得所需量的60-70%，预计2027年将出现最严重的存储芯片短缺。这对存储芯片制造商构成利好，反驳了市场关于2027年供应过剩的担忧。",
+      "translation": "SK海力士、$MU和三星的DRAM/HBM产能已售罄至2027年。$SNDK、三星、美光当前的年度NAND产能已售罄，铠侠和SK海力士预计将在2026年8月前最终确定分配。客户仅能获得其最初申请量的60-70%。业内人士指出，2027年将进入内存短缺最严重的时刻。分配量大多已决定，但最终发货价格将在临近交付时确定。来源：Digitimes援引行业消息。很难在2027年中期看到那些内存“供应过剩”的说法，因为他们所有产能都已售罄。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084422873423519844",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Be Citadel:\n\n&gt; calls for unexpected rate hike few days ago, causing market panic\n\n&gt; reaches out and buys billions of liquidated hedge fund AI assets\n\n&gt; no rate hike \n\n&gt; “Bull market drivers are fully intact” https://t.co/gyy4Nk4SHq",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2084422873423519844",
+    "published_at": "2026-08-03T23:35:14+00:00",
+    "fetched_at": "2026-08-04T02:44:37.834204+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文以讽刺口吻描述Citadel（城堡投资）可能利用虚假加息传闻制造市场恐慌后低价收购AI资产，最终无加息发生，并暗示牛市因素仍在。内容涉及市场操纵和市场情绪，对普通投资者而言并无直接的投资建议或明确方向信号，更多是对市场参与者行为的观察和评论。",
+      "translation": "做Citadel：几天前放出意外加息的消息，引发市场恐慌；随后出手买入数十亿被清算的对冲基金AI资产；结果并没有加息；\\\"牛市驱动因素完好无损\\\"。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084421807390777397",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
