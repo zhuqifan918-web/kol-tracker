@@ -2,26 +2,25 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "LITE",
       "SNDK",
+      "LITE",
       "AAOI",
-      "NVDA"
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件瓶颈与供应链紧张",
-      "内存与存储器短缺及长期协议",
-      "光通信与CPO技术趋势",
-      "超大规模资本开支持续增长",
-      "市场恐慌与去杠杆后的反弹机会"
+      "人工智能基础设施资本支出持续增长，带动上游半导体需求",
+      "存储芯片（DRAM、HBM、NAND）供应紧张，2027年将出现严重短缺",
+      "光通信和CPO（共封装光学）作为下一个技术瓶颈，面临供应缺口",
+      "市场回调主要由杠杆清算和恐慌情绪驱动，而非基本面恶化"
     ],
-    "recent_shift": "近期观点从关注短期市场波动转为强调基本面未变，认为抛售过度，但未改变长期看多立场。",
+    "recent_shift": "近期观点未有根本性转变，依然看好AI上游半导体、存储和光通信板块，但承认市场短期波动剧烈，认为回调是买入机会。",
     "representative_quotes": [
       "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
-      "My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy.",
-      "I have conviction that all these themes are backed by structural revenue growth or technological shifts."
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.",
+      "My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy... Gets rerated when their inflection period hits and capex flows into their balance sheets."
     ],
-    "generated_at": "2026-08-04T02:46:08.190016+00:00"
+    "generated_at": "2026-08-04T11:01:49.580438+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -49,26 +48,25 @@
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK Hynix",
       "META",
-      "GOOGL",
-      "MU",
-      "AMD"
+      "MRVL",
+      "AVGO",
+      "COHR",
+      "LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "存储芯片供需紧张与价格上涨",
-      "AI算力需求推动存储需求",
-      "云厂商受益于AI发展",
-      "存储芯片长期需求增长",
-      "市场波动中寻找低估机会"
+      "AI算力需求驱动云厂商和芯片公司增长",
+      "DeepSeek等低价AI模型推动存储需求",
+      "投资风险与亏损反思，强调耐心和仓位管理"
     ],
-    "recent_shift": "近期态度从乐观转向谨慎，开始强调风险控制和仓位管理。",
+    "recent_shift": "近期作者从激进交易转向保守和稳健，减少杠杆，增加现金仓位，计划配置SPY和QQQ，心态从追求高收益转向稳健增长。",
     "representative_quotes": [
-      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。",
-      "长期80%的毛利率，营收一直在增长。算美股巨头里面最有性价比的了。",
-      "我买到了美股百年大顶"
+      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
+      "市场是真不缺机会，更不缺黑天鹅。",
+      "巴菲特真是太牛逼，他能在资本市场活这么久，肉体也能活这么久，跟他没杠杆，一直没满仓的操作风格肯定多少有关系。"
     ],
-    "generated_at": "2026-08-04T08:21:48.617720+00:00"
+    "generated_at": "2026-08-04T11:01:52.344700+00:00"
   }
 }
