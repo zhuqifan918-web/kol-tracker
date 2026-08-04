@@ -1,5 +1,104 @@
 [
   {
+    "tweet_id": "2084649809697505587",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Scott Bessent: We may have an Iran deal tomorrow to open Hormuz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084649809697505587",
+    "published_at": "2026-08-04T14:37:00+00:00",
+    "fetched_at": "2026-08-04T15:43:09.989534+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及伊朗可能达成协议并开放霍尔木兹海峡，若属实将缓解原油供应担忧，对能源价格构成利好，可能影响相关能源板块及市场风险偏好。",
+      "translation": "斯科特·贝森特：我们明天可能达成伊朗协议，以开放霍尔木兹海峡。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084639743501914337",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Bitcoin's longterm trend is bearish,\" per ING",
+    "tweet_url": "https://x.com/unusual_whales/status/2084639743501914337",
+    "published_at": "2026-08-04T13:57:00+00:00",
+    "fetched_at": "2026-08-04T15:43:12.336800+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "bearish",
+      "summary": "ING银行认为比特币长期趋势看跌，这可能影响市场对比特币的预期，投资者需关注长期风险。",
+      "translation": "据ING称，比特币的长期趋势是看跌的。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084637288164938183",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: S&amp;P500 has hit a new record high",
+    "tweet_url": "https://x.com/unusual_whales/status/2084637288164938183",
+    "published_at": "2026-08-04T13:47:14+00:00",
+    "fetched_at": "2026-08-04T15:43:13.406322+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "标普500指数创下历史新高，表明市场整体处于上升趋势，可能增强投资者信心并推动进一步上涨。",
+      "translation": "突发：标普500指数创下历史新高",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084632143427522800",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。 https://t.co/Wsb5hBFXgH",
+    "tweet_url": "https://x.com/xiaomustock/status/2084632143427522800",
+    "published_at": "2026-08-04T13:26:48+00:00",
+    "fetched_at": "2026-08-04T15:42:56.542422+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文认为存储板块将大幅上涨，因为OpenAI和Anthropic这两家资本巨头尚未上市，AI领域不会熄火，看好存储相关投资机会。",
+      "translation": "存储板块大幅拉升吧，OpenAI和Anthropic这两个资本圈的硬菜还没上，怎么能允许AI熄火。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084629677201650052",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Walmart, $WMT, says it expects a $2.4 billion tariff refund, per Newsweek",
+    "tweet_url": "https://x.com/unusual_whales/status/2084629677201650052",
+    "published_at": "2026-08-04T13:17:00+00:00",
+    "fetched_at": "2026-08-04T15:43:15.721258+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WMT"
+      ],
+      "direction": "bullish",
+      "summary": "沃尔玛预计获得24亿美元关税退税，这将提振其利润，对股价构成利好。",
+      "translation": "沃尔玛（$WMT）表示，预计将获得24亿美元的关税退税，据《新闻周刊》报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084614578051149854",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1437,6 +1536,27 @@
       "summary": "亚马逊计划2026年资本开支上调至2200亿美元，主要受内存成本上涨影响；AI算力供不应求将持续至2027年，2028年需求强劲；服务器投资回本周期短，长期自由现金流和ROIC将显著增长，AWS长期目标年收入达1万亿美元。",
       "translation": "今年早些时候，我们表示计划在2026年投入约2000亿美元的现金资本开支，其中大部分将用于支持AI和AWS的基础设施建设及相关人员投入。我们很清楚这些投资将带来可观的财务回报。投资主要由两部分组成：数据中心和服务器/网络设备。数据中心需提前约两年建设，建成后部署服务器即可产生收入，数据中心运营后未来30年以上可持续创造收益，无需再次大规模资本投入。服务器和网络设备更新周期较短，通常在投入使用前几个月采购，并能根据客户需求灵活调整。服务器投资平均不到三年回本，使用寿命5-6年，而AI合同通常至少5年，因此在回本后仍有2-3年产生大量自由现金流。AWS一直有缩短回本周期的优秀记录，并能延长设备寿命。数据中心寿命超过30年，可支持5-6代服务器升级，后续经济效益更好，因为无需重复建设数据中心。短期内，由于提前建设大量数据中心尚未产生收入，资本开支高企，自由现金流承压，但一旦数据中心上线，压力将缓解。随着服务器投入使用，收入增长最终将超过资本开支增速，届时收入、自由现金流和ROIC将非常吸引人。我们在第一代云计算时代经历过类似过程，但AI时代需求增长更快。目前AI业务的利润率和ROIC与当年AWS同期相似甚至更好。我们预计2026年现金资本开支约2200亿美元，高于此前的2000亿美元，主要因内存成本上涨。即便如此，2026年算力仍无法满足客户需求，供不应求将持续到2027年，2028年需求也令人震惊。企业客户在生产环境大规模部署AI推理仍处于早期。我们一直认为AWS能成长为数千亿美元年收入业务，现在我们认为至少能达到此前预期的两倍，并有望成为年收入1万亿美元的业务，同时享有吸引人的自由现金流和ROIC。总结就是：亚马逊26年Q2 AI核心观点：开支2200亿美元（原2000亿美元），因HBM/内存涨价；需求2026-2027供不应求，2028需求强劲；服务器投资<3年回本，之后持续产生自由现金流；数据中心寿命30+年，支持5-6代服务器升级，后续ROI提升；短期自由现金流承压，长期自由现金流和ROIC大幅增长；AWS长期目标年收入1万亿美元。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2083484476756418864",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "170万USDT在Gate平台被盗——个人公开声明：授权Gate将手持身份证材料及活体人脸视频送交权威鉴定\n根据目前掌握的证据，我的身份证正反面、原邮箱、手机短信验证码及谷歌验证器均未被攻击者直接掌握。\n整个事件的过程更像是：攻击者掌握了我的部分Gate账户资料，利用伪造的手持身份证材料和非本人活体认证绕过Gate审核，将原有安全项全部替换，最终控制账户并转走170万USDT。\n警方让我辨认Gate提交的手持身份证材料后，我已经确认：\n·  身份证不是我的；\n·  证件地址完全错误，连最起码的【省份】都没有；\n·  身份证号码字体、大小和长度明显异常；\n·  照片中的人不是我；\n·  整份材料存在明显的PS和伪造痕迹。\n如此明显的假手持身份证材料和非本人活体认证，为什么能够通过Gate的风控审核？\n攻击者正是利用伪造的手持身份证材料和非本人活体认证绕过Gate审核，将原有安全项全部替换，最终控制账户并转走170万USDT。\n面对如此清楚的事实，Gate却仍然声称“平台没有责任”。请不要再睁眼说瞎话，也不要继续用前后矛盾、答非所问的回应混淆视听。请如实还原事件全过程，向警方、受害用户和公众交代真相。\nGate既然坚称平台审核和风控没有问题，并公开表示“如果属于平台责任，100%赔付”，那么我现在正式公开授权：\n请Gate将攻击者提交的手持身份证原始材料、活体认证视频及完整审核记录，交由具备资质的独立司法鉴定机构进行鉴定，并公开鉴定结论及必要的脱敏证据。\nGate可以将相关材料发送至我的邮箱：gate170wu@outlook.com，由我本人委托权威机构进行鉴定。该邮箱同时面向社会收集本案的重要线索及其他关键信息。\n如果鉴定结果证明手持身份证材料真实有效，或者活体视频中的人确实是我本人，我将不再向Gate追责，并公开向Gate道歉。\n反之，如果鉴定确认手持身份证系伪造、活体认证并非本人，提现也不是本人操作，就足以证明攻击者利用虚假身份材料击穿了Gate的审核和风控体系。\n我的资金存放在Gate平台，案发后我已报案，公安机关也已正式立案，现有证据足以证明相关提币并非本人操作。攻击者利用伪造的手持身份证材料和非本人活体人脸通过Gate审核，继而控制账户并转走资产。既然Gate坚持声称“平台没有责任”，那就请拿出证据，证明这两项认证材料真实有效、活体人脸确系本人，否则，Gate凭什么仅凭一句“平台没有责任”，就将全部损失推给受害用户？\n表面上看，是我的账户遭到盗取；但从事件本质来看，是攻击者先利用假身份材料和非本人认证攻破了Gate的安全审核，随后才控制账户并转走资产,真正遭到攻击的，不只是我的个人账户，更是Gate平台的身份认证和资金安全体系。\n请Gate不要搞错主次：查清真相、配合破案并承担应有责任，才是你们现在最应该做的事情。",
+    "tweet_url": "https://x.com/xiaomustock/status/2083484476756418864",
+    "published_at": "2026-08-01T09:26:23+00:00",
+    "fetched_at": "2026-08-04T15:43:01.530126+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USDT"
+      ],
+      "direction": "bearish",
+      "summary": "该推文揭露了Gate平台的安全漏洞，用户声称170万USDT被盗，并指责平台审核不严。这凸显了中心化交易所的资产安全风险，可能引发投资者对Gate平台及类似中心化交易所的信任危机，对相关平台代币或加密货币市场情绪产生负面影响。",
+      "translation": null,
+      "confidence": "medium"
     }
   },
   {
