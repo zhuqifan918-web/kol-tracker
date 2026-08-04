@@ -23,48 +23,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
       "AMZN",
       "AAPL",
+      "NVDA",
       "PLTR",
-      "INTC"
+      "SNAP"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施建设",
-      "货币政策与利率",
-      "地缘政治风险",
-      "企业盈利与市场反应",
-      "市场流动性与杠杆"
+      "AI基础设施大规模建设",
+      "地缘政治风险（伊朗、中东）",
+      "美联储政策与利率",
+      "市场杠杆与流动性风险",
+      "企业盈利超预期"
     ],
-    "recent_shift": "近期内容从关注企业盈利转向关注AI和地缘政治风险，但整体市场情绪保持中性。",
+    "recent_shift": "近期观点从关注AI和美股新高转向担忧地缘政治和杠杆风险，同时提及市场回调的可能性。",
     "representative_quotes": [
-      "Huang highlighted the massive buildout of AI data centers, describing it as the 'largest infrastructure buildout in human history.'",
-      "BREAKING: Palantir, $PLTR, earnings: Revenue: $1.93 billion, est: $1.81 billion, EPS: $0.41, est: $0.35",
+      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
+      "Trump: You’ll find out by tomorrow about the Iran deal… Talking about having the Straight open by tomorrow.",
       "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices"
     ],
-    "generated_at": "2026-08-04T13:14:38.901304+00:00"
+    "generated_at": "2026-08-04T15:43:33.448329+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SK Hynix",
       "META",
-      "MRVL",
       "GOOGL",
-      "MU"
+      "MU",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储行业供需紧张，AI需求持续增长，存储价格长期看涨",
-      "AI算力投资周期长，云厂商和存储厂商受益明显",
-      "市场波动较大，短期回调后存在买入机会"
+      "存储（HBM、DRAM）供需紧张与价格暴涨",
+      "AI算力需求与云厂商资本开支",
+      "DeepSeek低价策略引发模型降价潮",
+      "Gate交易所安全事件与赔付争议",
+      "价值投资与市场波动中的耐心"
     ],
-    "recent_shift": "近期从极度悲观转为谨慎乐观，承认短期亏损但看好长期存储和AI趋势，同时更注重风险控制。",
+    "recent_shift": "近期从积极抄底存储转为强调风险控制和分散投资，并因连续亏损而心态趋于谨慎。",
     "representative_quotes": [
-      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
-      "AI真实有史以来最牛逼的生意，存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了。",
-      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。"
+      "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
+      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。",
+      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去。"
     ],
-    "generated_at": "2026-08-04T13:14:37.072775+00:00"
+    "generated_at": "2026-08-04T15:43:36.715963+00:00"
   }
 }
