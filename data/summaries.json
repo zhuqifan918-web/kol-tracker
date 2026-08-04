@@ -23,26 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "PLTR",
+      "SPCX",
       "NVDA",
-      "MU",
+      "PLTR",
       "AMD",
-      "SPY"
+      "AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设与芯片需求",
-      "宏观经济与货币政策",
-      "地缘政治风险与能源市场",
-      "市场情绪与散户交易行为"
+      "人工智能基础设施大规模建设",
+      "美股创新高与市场乐观情绪",
+      "地缘政治与能源市场波动",
+      "央行干预与汇率变动",
+      "企业盈利与调整"
     ],
-    "recent_shift": "近期观点从宏观担忧转向关注地缘政治缓和与市场创新高，同时对个别高估值科技股保持警惕。",
+    "recent_shift": "近期观点从关注市场风险和地缘紧张转向强调AI和数据中心建设带来的历史性机遇以及市场创纪录的强势表现。",
     "representative_quotes": [
+      "BREAKING: SpaceX, $SPCX, has said they have \"$100 billion in cash\"",
       "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "BREAKING: Michael Burry says he disclosed major portfolio changes: Exited Microsoft... Rolled Nvidia puts into June 2027, with strikes in the low $100...",
-      "BREAKING: Trump says he has canceled the planned U.S. strike on Iran, adding that the two sides have agreed to the “parameters” of a deal that includes reopening the Strait of Hormuz."
+      "BREAKING: S&P500 has hit an all time high."
     ],
-    "generated_at": "2026-08-04T22:04:19.395243+00:00"
+    "generated_at": "2026-08-04T23:31:23.705283+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,46 @@
 [
   {
+    "tweet_id": "2084775890370642301",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SpaceX, $SPCX, has announced a partnership with Nvidia, $NVDA, to develop the Starmind AI1 satellite computing payload.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084775890370642301",
+    "published_at": "2026-08-04T22:58:00+00:00",
+    "fetched_at": "2026-08-04T23:31:12.361056+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "这条推文宣布SpaceX与Nvidia合作开发Starmind AI1卫星计算载荷，涉及两家公司，属于重大合作消息，可能对相关股票产生积极影响，因此偏向看涨。",
+      "translation": "突发：SpaceX（$SPCX）宣布与Nvidia（$NVDA）合作开发Starmind AI1卫星计算载荷。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084769095921094872",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Bank of Korea announced it will resume physical gold purchases for the first time in 13 years",
+    "tweet_url": "https://x.com/unusual_whales/status/2084769095921094872",
+    "published_at": "2026-08-04T22:31:00+00:00",
+    "fetched_at": "2026-08-04T23:31:13.749983+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "韩国央行时隔13年首次恢复实物黄金购买，这一举措可能增加黄金市场的需求，对金价构成支撑，属于对黄金市场的积极信号。",
+      "translation": "韩国银行宣布将时隔13年首次恢复实物黄金购买。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084760791040004235",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -270,6 +311,25 @@
       "summary": "该推文指出Palantir（PLTR）在财报发布后股价大涨超过27%，显示市场对该公司业绩反应积极，属于看涨信号。",
       "translation": "哇。$PLTR在财报后上涨超过27%。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084695359838646318",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran is reportedly considering allowing European nations to remove mines from the Strait of Hormuz, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2084695359838646318",
+    "published_at": "2026-08-04T17:38:00+00:00",
+    "fetched_at": "2026-08-04T23:31:18.780112+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息涉及霍尔木兹海峡的地缘政治局势，可能影响全球原油供应和运输安全，从而对油价及相关能源股产生潜在影响。但推文本身未提及具体投资品种或建议，因此投资相关性为中性。",
+      "translation": "据路透社报道，伊朗正在考虑允许欧洲国家清除霍尔木兹海峡的水雷。",
+      "confidence": "medium"
     }
   },
   {
