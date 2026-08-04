@@ -3,25 +3,25 @@
     "focus_tickers": [
       "SIVE",
       "LITE",
-      "NBIS",
+      "SNDK",
       "AAOI",
       "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施资本开支持续增长，光学和半导体供应链瓶颈",
-      "CPO（共封装光学）技术崛起，激光器供应商受益",
-      "内存（DRAM/NAND）供不应求，长期协议锁定需求",
-      "人形机器人产业化加速，上游供应商机会",
-      "市场因去杠杆和情绪抛售，但基本面强劲，看好长期复苏"
+      "AI硬件瓶颈与供应链紧张",
+      "内存与存储器短缺及长期协议",
+      "光通信与CPO技术趋势",
+      "超大规模资本开支持续增长",
+      "市场恐慌与去杠杆后的反弹机会"
     ],
-    "recent_shift": "近期观点从强调市场因去杠杆和恐慌性抛售而超跌，转向更乐观地认为行业基本面未变，且多个催化剂（如财报、政府支持）将推动恢复。",
+    "recent_shift": "近期观点从关注短期市场波动转为强调基本面未变，认为抛售过度，但未改变长期看多立场。",
     "representative_quotes": [
-      "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
-      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now (equipment/test players usually appear up first before optical engines / laser volumes ramp).",
-      "Stop panicking... If your long term thesis hasn’t changed… Close your brokerage app. Go live your life. Be present with your family."
+      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
+      "My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy.",
+      "I have conviction that all these themes are backed by structural revenue growth or technological shifts."
     ],
-    "generated_at": "2026-08-01T07:41:02.265237+00:00"
+    "generated_at": "2026-08-04T02:46:08.190016+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
