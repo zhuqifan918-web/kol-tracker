@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AMZN",
       "$NVDA",
-      "$PLTR",
+      "$AMZN",
       "$AAPL",
-      "$SNAP"
+      "$PLTR",
+      "$TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI基础设施投资",
-      "美联储政策与利率",
-      "地缘政治风险",
-      "杠杆与市场流动性",
-      "财富转移与消费"
+      "地缘政治风险升级",
+      "AI泡沫担忧",
+      "市场波动与杠杆风险",
+      "利率和通胀压力",
+      "财富转移和消费变化"
     ],
-    "recent_shift": "近期，账号对市场风险的担忧有所加剧，尤其是对AI基建和杠杆交易的质疑，但同时也关注到部分公司财报超预期带来的机会。",
+    "recent_shift": "近期偏空，强调市场风险如AI泡沫和杠杆清算，以及地缘政治紧张。",
     "representative_quotes": [
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "Apple $AAPL is down more than 9% today after earnings. It has lost billions in marketcap.",
-      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts."
+      "“Whoever wins AI is going to win. That's how big it is.”",
+      "“Companies’ rising capital costs are starting to spook the stock market.”",
+      "“Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.”"
     ],
-    "generated_at": "2026-08-03T21:37:06.608160+00:00"
+    "generated_at": "2026-08-04T00:01:28.238794+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

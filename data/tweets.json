@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2084421807390777397",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The price of protecting its debt against default for five years rose as much as 0.14 percentage point to 0.82 percentage point a year, according to ICE Data Services.\n\nRead more: https://t.co/25wud8MGcQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2084421807390777397",
+    "published_at": "2026-08-03T23:31:00+00:00",
+    "fetched_at": "2026-08-04T00:01:02.437164+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文报道了某实体五年期债务违约保险成本的上升，从0.82个百分点上升至0.14个百分点，表明市场对其信用风险的担忧加剧。这通常被视为看跌信号，但具体投资标的不明，可能涉及债券或相关衍生品。",
+      "translation": "根据ICE Data Services的数据，保护其债务免受违约影响的五年期保险价格一度上涨0.14个百分点，至每年0.82个百分点。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084413502710796511",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Chevron, based in Houston, nearly quadrupled its profits to $12.07 billion, up 385% from the same quarter last year.\n\nRead more: https://t.co/qMlQdCFq1D",
+    "tweet_url": "https://x.com/unusual_whales/status/2084413502710796511",
+    "published_at": "2026-08-03T22:58:00+00:00",
+    "fetched_at": "2026-08-04T00:01:04.530465+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CVX"
+      ],
+      "direction": "bullish",
+      "summary": "雪佛龙公司本季度利润同比增长385%至120.7亿美元，显示强劲盈利能力，对投资者构成利好。",
+      "translation": "总部位于休斯顿的雪佛龙公司，利润几乎翻了四倍，达到120.7亿美元，比去年同期增长385%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084406708089344225",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The family's earnings stem from various ventures, including multiple cryptocurrency enterprises and foreign mega-deals.\n\nRead more: https://t.co/m8TE6p4aIr",
+    "tweet_url": "https://x.com/unusual_whales/status/2084406708089344225",
+    "published_at": "2026-08-03T22:31:00+00:00",
+    "fetched_at": "2026-08-04T00:01:06.408319+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及家族收入源自多个加密货币企业和外国大型交易，暗示加密货币领域存在重大商业活动，但未提供具体投资建议或市场分析。",
+      "translation": "该家族的收入源于多种业务，包括多家加密货币企业和外国大型交易。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2084391608422687110",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "California's Democratic Party has voted to endorse the billionaire wealth tax on the ballot.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084391608422687110",
+    "published_at": "2026-08-03T21:31:00+00:00",
+    "fetched_at": "2026-08-04T00:01:09.881531+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "加州民主党支持对亿万富翁征收财富税，可能对高净值个人及科技公司股价产生负面影响，但未明确提及具体行业或个股。",
+      "translation": "加利福尼亚州的民主党已投票支持选票上的亿万富翁财富税。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2084378697654751696",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -123,6 +201,25 @@
       "direction": "neutral",
       "summary": "亚马逊获得6亿美元关税退税，这一消息可能对其财务表现产生积极影响，但具体投资影响需结合更多财务数据评估。",
       "translation": "突发：据彭博社报道，亚马逊（$AMZN）表示已收到6亿美元的关税退税。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084346278218260597",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: You’ll find out by tomorrow about the Iran deal… Talking about having the Straight open by tomorrow.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084346278218260597",
+    "published_at": "2026-08-03T18:30:52+00:00",
+    "fetched_at": "2026-08-04T00:01:13.855795+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普称明天将公布伊朗协议相关决定，并提及可能重新开放海峡，这将影响全球原油供应和运输，从而影响油价和能源市场。目前信息不明，市场可能因不确定性而波动。",
+      "translation": "特朗普：明天你将会知道关于伊朗协议的消息……谈论着明天让海峡重新开放。",
       "confidence": "medium"
     }
   },
