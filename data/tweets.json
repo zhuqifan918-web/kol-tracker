@@ -25,6 +25,29 @@
     }
   },
   {
+    "tweet_id": "2084436906801029278",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "He said hyperscalers like Meta and Alphabet, which are collectively pouring hundreds of billions of dollars into building data centers, are correctly anticipating that AI usage will rise over time.\n\nRead more: https://t.co/fjpyR9eCgG",
+    "tweet_url": "https://x.com/unusual_whales/status/2084436906801029278",
+    "published_at": "2026-08-04T00:31:00+00:00",
+    "fetched_at": "2026-08-04T05:39:31.321459+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "GOOGL",
+        "GOOG"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出Meta和Alphabet等大型科技公司正大举投资建设数据中心，以应对AI使用量的增长，这反映了对AI基础设施的强劲需求，可能利好这些公司及相关AI产业链。",
+      "translation": "他说，像Meta和Alphabet这样的超大规模企业，正集体投入数千亿美元建设数据中心，它们正确预见到AI的使用量将随着时间的推移而增长。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084422873423519844",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
