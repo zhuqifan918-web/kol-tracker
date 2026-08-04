@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2084710207658344458",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran has reportedly signaled it is willing to reopen the Strait of Hormuz, but is seeking transit fees, security guarantees against future attacks, an end to the U.S. naval blockade, and relief from U.S. oil sanctions.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084710207658344458",
+    "published_at": "2026-08-04T18:37:00+00:00",
+    "fetched_at": "2026-08-04T19:07:03.960605+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "伊朗愿意重开霍尔木兹海峡，但要求解除制裁等条件，若达成协议将缓解原油供应紧张，对油价构成下行压力。",
+      "translation": "突发：伊朗据报道表示愿意重开霍尔木兹海峡，但要求收取通行费、获得未来的安全保证、结束美国海军封锁以及解除美国石油制裁。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084706598224871499",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Despite falling jet fuel prices, airline tickets are unlikely to go down,\" per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2084706598224871499",
+    "published_at": "2026-08-04T18:22:39+00:00",
+    "fetched_at": "2026-08-04T19:07:05.832118+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用CNBC报道，指出尽管航空燃油价格下跌，但机票价格不太可能下降。这暗示航空公司可能维持票价以改善利润率，对航空股可能构成利好，但推文本身未给出明确投资建议。",
+      "translation": "尽管航空燃油价格下跌，但机票价格不太可能下降，据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084700141253243272",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wow.\n\n$PLTR is up more than 27% after earnings. https://t.co/46kqgLGKVb",
+    "tweet_url": "https://x.com/unusual_whales/status/2084700141253243272",
+    "published_at": "2026-08-04T17:57:00+00:00",
+    "fetched_at": "2026-08-04T19:07:07.417589+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PLTR"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出Palantir（PLTR）在财报发布后股价大涨超过27%，显示市场对该公司业绩反应积极，属于看涨信号。",
+      "translation": "哇。$PLTR在财报后上涨超过27%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084685041959846329",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -15,6 +74,25 @@
       "direction": "bearish",
       "summary": "美国拟禁止进口中国制造的新款AI数据中心光模块，可能对中国光模块供应商（如中际旭创、新易盛等）的海外业务造成负面影响，同时利好美国本土或非中国供应商。",
       "translation": "据路透社报道，美国联邦通信委员会正在起草一项规则，禁止进口用于AI数据中心的新款中国光收发器型号。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084669942566154416",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US Treasury Secretary Bessent on yen intervention: US will do whatever it takes to support Japan yen.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084669942566154416",
+    "published_at": "2026-08-04T15:57:00+00:00",
+    "fetched_at": "2026-08-04T19:07:12.650204+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国财长表态将全力支持日元，这可能对日元汇率及日本相关资产构成利好，但缺乏具体标的，整体方向偏正面。",
+      "translation": "美国财政部长贝森特就日元干预表示：美国将不惜一切代价支持日元。",
       "confidence": "medium"
     }
   },
