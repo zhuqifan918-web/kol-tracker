@@ -1,5 +1,112 @@
 [
   {
+    "tweet_id": "2084760791040004235",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SK Hynix, Micron, $MU, and Samsung have reportedly sold out and allocated their total DRAM and High Bandwidth Memory production capacity for 2027, per Digitimes.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084760791040004235",
+    "published_at": "2026-08-04T21:58:00+00:00",
+    "fetched_at": "2026-08-04T22:03:59.625558+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "SK海力士、美光（MU）和三星的DRAM及高带宽内存（HBM）产能已售罄并分配至2027年，显示内存市场需求强劲，供应紧张，对相关公司股价构成利好。",
+      "translation": "据Digitimes报道，SK海力士、美光（$MU）和三星已将其2027年的DRAM和高带宽内存（HBM）总产能全部售罄并分配完毕。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084755266227306564",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has said that \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2084755266227306564",
+    "published_at": "2026-08-04T21:36:03+00:00",
+    "fetched_at": "2026-08-04T22:04:01.583020+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普宣称股市处于历史高位，并认为这是投资者对经济前景乐观的信号，整体基调偏积极。但该推文未提及具体标的或投资建议，更多是政治性表态，对市场情绪可能有短期影响。",
+      "translation": "突发：特朗普表示“股市正处于历史高位，并且一次又一次地创下纪录，因为投资者知道美国正在赢！”",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084753996430950493",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Chipotle Mexican Grill has removed jalapeños from multiple stores in Minnesota after learning the peppers may be linked to a salmonella outbreak, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084753996430950493",
+    "published_at": "2026-08-04T21:31:00+00:00",
+    "fetched_at": "2026-08-04T22:04:03.566430+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CMG"
+      ],
+      "direction": "bearish",
+      "summary": "该消息指出Chipotle因沙拉酱可能引发沙门氏菌疫情而移除辣椒，可能对CMG的短期股价产生负面影响，投资者需关注食品安全事件的风险。",
+      "translation": "据彭博社报道，Chipotle Mexican Grill在得知辣椒可能与沙门氏菌疫情有关后，已从明尼苏达州的多家门店移除辣椒。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084746698467807342",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Michael Burry says he disclosed major portfolio changes:\n\n• Exited Microsoft, $MSFT, longs and calls\n• Closed Oracle, $ORCL, shorts and puts\n• Closed January 2026 Palantir, $PLTR, puts, but remains short the stock\n• Rolled Nvidia, $NVDA, puts into June 2027, with strikes in the low $100\n• Rolled Invesco QQQ, $QQQ, short position into February 2027\nBurry continues to hold his remaining short positions.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084746698467807342",
+    "published_at": "2026-08-04T21:02:00+00:00",
+    "fetched_at": "2026-08-04T22:04:06.475969+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT",
+        "ORCL",
+        "PLTR",
+        "NVDA",
+        "QQQ"
+      ],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里披露了重大投资组合调整，清仓微软多头头寸，关闭甲骨文空头，继续做空Palantir，并将英伟达和QQQ的空头头寸展期至2027年。整体上维持看跌立场，尤其对科技股和股指持谨慎态度。",
+      "translation": "突发：迈克尔·伯里表示他披露了重大投资组合变动：• 退出了微软（$MSFT）的多头和看涨期权 • 关闭了甲骨文（$ORCL）的空头和看跌期权 • 关闭了2026年1月到期的Palantir（$PLTR）看跌期权，但仍保持做空该股票 • 将英伟达（$NVDA）的看跌期权展期至2027年6月，行权价在100美元左右 • 将景顺QQQ（$QQQ）的空头头寸展期至2027年2月。伯里继续持有其剩余的空头头寸。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084743937873576428",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: S&amp;P500 has hit an all time high. https://t.co/d0lG8DZ33G",
+    "tweet_url": "https://x.com/unusual_whales/status/2084743937873576428",
+    "published_at": "2026-08-04T20:51:02+00:00",
+    "fetched_at": "2026-08-04T22:04:07.893856+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPX"
+      ],
+      "direction": "bullish",
+      "summary": "标普500指数创历史新高，表明市场整体处于强势上涨趋势，可能提振投资者信心，利好股市。",
+      "translation": "突发：标普500指数已创历史新高。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084738896726810760",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

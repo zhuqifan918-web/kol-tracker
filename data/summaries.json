@@ -23,27 +23,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
       "PLTR",
-      "AMZN",
-      "AAPL",
-      "NVDA"
+      "NVDA",
+      "MU",
+      "AMD",
+      "SPY"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施大规模建设",
-      "地缘政治紧张局势与美伊谈判",
-      "财报超预期及市场积极反应",
-      "政府干预汇率与货币政策",
-      "美国股市创新高"
+      "AI基础设施建设与芯片需求",
+      "宏观经济与货币政策",
+      "地缘政治风险与能源市场",
+      "市场情绪与散户交易行为"
     ],
-    "recent_shift": "近期观点更加乐观，强调股市创新高和AI长期机会，同时关注地缘政治风险。",
+    "recent_shift": "近期观点从宏观担忧转向关注地缘政治缓和与市场创新高，同时对个别高估值科技股保持警惕。",
     "representative_quotes": [
       "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "Wow. $PLTR is up more than 27% after earnings.",
-      "BREAKING: S&P500 has hit a new record high"
+      "BREAKING: Michael Burry says he disclosed major portfolio changes: Exited Microsoft... Rolled Nvidia puts into June 2027, with strikes in the low $100...",
+      "BREAKING: Trump says he has canceled the planned U.S. strike on Iran, adding that the two sides have agreed to the “parameters” of a deal that includes reopening the Strait of Hormuz."
     ],
-    "generated_at": "2026-08-04T20:48:53.614828+00:00"
+    "generated_at": "2026-08-04T22:04:19.395243+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
