@@ -25,50 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AMZN",
-      "$AAPL",
-      "$NVDA",
-      "$PLTR",
-      "$INTC"
-    ],
-    "overall_bias": "neutral",
-    "key_themes": [
-      "AI数据中心的过度建设与能源需求",
-      "地缘政治紧张与能源市场波动",
-      "杠杆交易风险与散户损失",
-      "货币政策不确定性与国债收益率上升",
-      "企业财报与市场反应"
-    ],
-    "recent_shift": "近期观点从关注企业财报转向对市场系统性风险的担忧，包括杠杆交易、地缘冲突和货币政策不确定性。",
-    "representative_quotes": [
-      "Mark Cuban: AI data centers are being massively overbuilt and could end up as pickleball courts.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "Trump: Whoever wins AI is going to win. That's how big it is."
-    ],
-    "generated_at": "2026-08-04T05:39:43.361221+00:00"
-  },
-  "xiaomustock": {
-    "focus_tickers": [
-      "$META",
-      "$GOOGL",
-      "SK Hynix",
-      "$MRVL",
-      "TSMC"
+      "NVDA",
+      "AMZN",
+      "PLTR",
+      "AAPL",
+      "SNAP"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "存储芯片需求与AI算力军备竞赛",
-      "Gate交易所安全漏洞与资金被盗事件",
-      "市场波动与风险控制",
-      "大模型竞争与云厂受益",
-      "AI投资回报周期"
+      "AI基础设施建设",
+      "市场风险和波动性",
+      "地缘政治和货币政策",
+      "杠杆与强制平仓",
+      "企业盈利"
     ],
-    "recent_shift": "近期因亏损严重，从激进满仓转向防守，增加现金仓位，并开始配置SPY和QQQ，降低交易频率和风险偏好。",
+    "recent_shift": "近期观点从对AI和科技股的乐观转向对市场波动、杠杆风险和地缘政治不确定性的担忧。",
     "representative_quotes": [
-      "海力士已经跌的不是大力士也不是海公公了，只能叫它海狗",
-      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手",
-      "真正稳妥的大机会都是黑天鹅式的，去年关税战暴跌到170的台积电，80多的英伟达"
+      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
+      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "More than 360,000 margin accounts were forced into liquidation in Korea, per Citi."
     ],
-    "generated_at": "2026-08-03T20:21:24.569577+00:00"
+    "generated_at": "2026-08-04T08:21:45.797872+00:00"
+  },
+  "xiaomustock": {
+    "focus_tickers": [
+      "SK Hynix",
+      "META",
+      "GOOGL",
+      "MU",
+      "AMD"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "存储芯片供需紧张与价格上涨",
+      "AI算力需求推动存储需求",
+      "云厂商受益于AI发展",
+      "存储芯片长期需求增长",
+      "市场波动中寻找低估机会"
+    ],
+    "recent_shift": "近期态度从乐观转向谨慎，开始强调风险控制和仓位管理。",
+    "representative_quotes": [
+      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。",
+      "长期80%的毛利率，营收一直在增长。算美股巨头里面最有性价比的了。",
+      "我买到了美股百年大顶"
+    ],
+    "generated_at": "2026-08-04T08:21:48.617720+00:00"
   }
 }
