@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2084685041959846329",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Federal Communications Commission is drafting a rule to block imports of new Chinese optical transceiver models used in AI data centers, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2084685041959846329",
+    "published_at": "2026-08-04T16:57:00+00:00",
+    "fetched_at": "2026-08-04T17:29:14.455839+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国拟禁止进口中国制造的新款AI数据中心光模块，可能对中国光模块供应商（如中际旭创、新易盛等）的海外业务造成负面影响，同时利好美国本土或非中国供应商。",
+      "translation": "据路透社报道，美国联邦通信委员会正在起草一项规则，禁止进口用于AI数据中心的新款中国光收发器型号。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084659876320436478",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wells Fargo has said it sees paychecks rising faster than inflation.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084659876320436478",
+    "published_at": "2026-08-04T15:17:00+00:00",
+    "fetched_at": "2026-08-04T17:29:20.277592+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "富国银行认为薪资增长将超过通胀，这可能意味着消费者购买力增强，对消费和整体经济有利，可能支持股市表现。",
+      "translation": "富国银行表示，预计薪资增长将快于通胀。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084654842958475417",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Drafts of potential US-Iran agreement are ‘being circulated,’ Qatar says, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2084654842958475417",
+    "published_at": "2026-08-04T14:57:00+00:00",
+    "fetched_at": "2026-08-04T17:29:21.892656+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了卡塔尔称美国和伊朗可能达成协议的草案正在流传。这可能影响能源市场和地缘政治风险，但未提及具体投资标的或方向，因此对投资影响呈中性。",
+      "translation": "突发：卡塔尔称，潜在的美国和伊朗协议的草案正在流传，据CNN报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084649809697505587",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16,6 +73,25 @@
       "summary": "该推文提及伊朗可能达成协议并开放霍尔木兹海峡，若属实将缓解原油供应担忧，对能源价格构成利好，可能影响相关能源板块及市场风险偏好。",
       "translation": "斯科特·贝森特：我们明天可能达成伊朗协议，以开放霍尔木兹海峡。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084644776637501649",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Paulson: If progress is not made on inflation, we will have to act.",
+    "tweet_url": "https://x.com/unusual_whales/status/2084644776637501649",
+    "published_at": "2026-08-04T14:17:00+00:00",
+    "fetched_at": "2026-08-04T17:29:23.547060+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员暗示若通胀未改善将采取进一步行动，这可能意味着紧缩货币政策将持续或加码，对股市构成压力。投资者需关注通胀数据及美联储政策动向，以防范市场波动风险。",
+      "translation": "美联储的保罗森：如果在通胀方面没有取得进展，我们将不得不采取行动。",
+      "confidence": "high"
     }
   },
   {

@@ -24,26 +24,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "AMZN",
-      "AAPL",
       "NVDA",
+      "AAPL",
       "PLTR",
-      "SNAP"
+      "INTC"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施大规模建设",
-      "地缘政治风险（伊朗、中东）",
-      "美联储政策与利率",
-      "市场杠杆与流动性风险",
-      "企业盈利超预期"
+      "AI基础设施和数据中心建设",
+      "地缘政治风险与能源安全",
+      "货币政策与通胀压力",
+      "企业财报与业绩驱动"
     ],
-    "recent_shift": "近期观点从关注AI和美股新高转向担忧地缘政治和杠杆风险，同时提及市场回调的可能性。",
+    "recent_shift": "近期从关注市场风险转向关注AI投资和应用落地，但同时也强调通胀和地缘冲突带来的不确定性。",
     "representative_quotes": [
       "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "Trump: You’ll find out by tomorrow about the Iran deal… Talking about having the Straight open by tomorrow.",
-      "Jamie Dimon of JPMorgan has said that markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices"
+      "Trump: \"Whoever wins AI is going to win. That's how big it is.\"",
+      "Fed's Paulson: If progress is not made on inflation, we will have to act."
     ],
-    "generated_at": "2026-08-04T15:43:33.448329+00:00"
+    "generated_at": "2026-08-04T17:29:34.210373+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
