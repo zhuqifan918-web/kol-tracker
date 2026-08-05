@@ -1439,6 +1439,27 @@
     }
   },
   {
+    "tweet_id": "2084243202547359820",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "当时这个特斯拉的合约图是我用btc合约给改的😂",
+    "tweet_url": "https://x.com/xiaomustock/status/2084243202547359820",
+    "published_at": "2026-08-03T11:41:17+00:00",
+    "fetched_at": "2026-08-05T10:25:26.299138+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "neutral",
+      "summary": "推文提到特斯拉的合约图表是用比特币合约的图表修改而来，暗示图表可能存在误导性，但未给出明确投资建议。",
+      "translation": "当时这个特斯拉的合约图是我用btc合约给改的😂",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084142466781917341",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
