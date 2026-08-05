@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2085108079352320375",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2085108079352320375",
+    "published_at": "2026-08-05T20:58:00+00:00",
+    "fetched_at": "2026-08-05T21:41:04.797351+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及美国银行每年为其员工花费2.5亿美元购买GLP-1药物，这可能增加公司成本，对利润产生负面影响，因此对银行股构成一定利空。但未直接提及具体股票代码。",
+      "translation": "美国银行首席执行官表示，该行每年为员工在GLP-1药物上花费2.5亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085101634930225431",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SanDisk, $SNDK, earnings:\n\n- Revenue: $8.96 billion,  est: $8.39 billion\n- EPS: $39.2 billion, est: $34.5 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2085101634930225431",
+    "published_at": "2026-08-05T20:32:23+00:00",
+    "fetched_at": "2026-08-05T21:41:06.646226+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "闪迪（SNDK）公布财报，营收和每股收益均远超预期，显示公司盈利强劲，对股价构成积极影响。",
+      "translation": "突发：闪迪（$SNDK）财报：营收89.6亿美元，预期83.9亿美元；每股收益392亿美元（原文可能有误，应为每股收益），预期345亿美元（原文可能有误）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085097509702267107",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Figma, $FIG, earnings:\n\n- Revenue: $370 million, est: $351 million\n- EPS: $0.08, est: $0.04\n\nBlock, $XYZ, earnings:\n\n- Revenue: $6.61 billion, est: $0.87\n- EPS: $1.02, est: $0.87",
+    "tweet_url": "https://x.com/unusual_whales/status/2085097509702267107",
+    "published_at": "2026-08-05T20:16:00+00:00",
+    "fetched_at": "2026-08-05T21:41:08.601130+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "FIG",
+        "XYZ"
+      ],
+      "direction": "bullish",
+      "summary": "Figma和Block的财报均超出预期，营收和每股收益高于市场估计，显示公司基本面强劲，投资者可关注相关标的。",
+      "translation": "Figma，$FIG，财报：- 营收：3.7亿美元，预期：3.51亿美元- 每股收益：0.08美元，预期：0.04美元。Block，$XYZ，财报：- 营收：66.1亿美元，预期：0.87亿美元- 每股收益：1.02美元，预期：0.87美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085087694984765596",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -18,6 +80,25 @@
       "summary": "Meta推出AI编程智能体Muse Code，展示了其在AI领域的持续创新能力，可能增强投资者对META长期增长潜力的信心，属于正面信号。",
       "translation": "Meta（$META）推出了其首款名为Muse Code的AI编程智能体。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085082661874250152",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Unusual Whales has updated its GEX tool.\n\nSee where dealers must hedge, as well as market maker positioning visualized.\n\nIt is a must have tool.\n\nSee more: https://t.co/rcc3pEbEwP https://t.co/Jg5mCn9vOc",
+    "tweet_url": "https://x.com/unusual_whales/status/2085082661874250152",
+    "published_at": "2026-08-05T19:17:00+00:00",
+    "fetched_at": "2026-08-05T21:41:11.736845+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了Unusual Whales更新其GEX工具，该工具用于展示交易商必须对冲的仓位以及做市商持仓可视化，属于市场分析工具。推文未提及具体标的或明确投资方向，因此投资相关性中等，方向中性。",
+      "translation": "突发：Unusual Whales已更新其GEX工具。查看交易商必须对冲的仓位，以及做市商持仓的可视化。这是一个必备工具。查看更多：https://t.co/rcc3pEbEwP https://t.co/Jg5mCn9vOc",
+      "confidence": "medium"
     }
   },
   {
@@ -255,6 +336,63 @@
       "summary": "特朗普言论暗示数据中心建设对当地经济有正面影响，可能间接利好相关基建和科技板块。但缺乏具体公司或代币信息，投资信号较弱。",
       "translation": "特朗普表示，想要数据中心的社区是“聪明”的，因为它们意味着就业机会，而且“实际干扰非常小”。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2084966899100578011",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US aluminum shelter production has been dwarfed by China's in the last 25 years, per FT: https://t.co/7kHaCl6GSs",
+    "tweet_url": "https://x.com/unusual_whales/status/2084966899100578011",
+    "published_at": "2026-08-05T11:37:00+00:00",
+    "fetched_at": "2026-08-05T21:41:24.861353+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美国铝材生产在过去25年已被中国大幅超越，反映了全球铝业格局的变化，可能对铝相关产业链的投资产生影响，但未明确提及具体投资标的或方向。",
+      "translation": "根据英国《金融时报》的报道，过去25年，美国的铝材产量已被中国远远超越。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084875235833348532",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "梁圣太权威了，它还没像kimi一样堆参数，\n只是几个月突然公布出来一个接近全球顶级模型能力的版本，再把价格达到白菜价。\n除此之外从不在公众视野中出现。\n这么搞同样token预算，存储消耗量得倍增。 https://t.co/vC4P5t9Kp3",
+    "tweet_url": "https://x.com/xiaomustock/status/2084875235833348532",
+    "published_at": "2026-08-05T05:32:45+00:00",
+    "fetched_at": "2026-08-05T21:40:53.500203+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了一个名为梁圣的AI模型，认为其以低成本和高性能挑战现有模型（如Kimi），并指出这可能增加存储消耗。虽未直接提及投资标的，但涉及AI技术竞争和算力/存储需求，对相关行业有参考价值。",
+      "translation": "梁圣太权威了，它还没像Kimi一样堆参数，只是几个月突然公布出来一个接近全球顶级模型能力的版本，再把价格降到白菜价。除此之外从不在公众视野中出现。这么搞，同样的token预算下，存储消耗量得倍增。 https://t.co/vC4P5t9Kp3",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084859692807807202",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The research estimates that approximately $36 trillion will transfer from baby boomers to Gen X and millennial households over the next 20 years.\n\nRead more: https://t.co/rVJfbBLvTh",
+    "tweet_url": "https://x.com/unusual_whales/status/2084859692807807202",
+    "published_at": "2026-08-05T04:31:00+00:00",
+    "fetched_at": "2026-08-05T21:41:30.777347+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出未来20年将有约36万亿美元从婴儿潮一代转移至X世代和千禧一代，这可能影响消费、投资和资产配置趋势，但未涉及具体投资标的或方向性建议。",
+      "translation": "研究估计，未来20年内，大约36万亿美元将从婴儿潮一代转移至X世代和千禧一代家庭。",
+      "confidence": "medium"
     }
   },
   {
