@@ -25,50 +25,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
+      "SPX",
       "NVDA",
       "PLTR",
-      "AMZN",
-      "INTC"
+      "SPCX",
+      "AMD"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治风险与伊朗局势",
-      "AI数据中心与芯片需求",
-      "市场波动与对冲策略",
-      "货币政策与利率走向",
-      "企业财报与市场情绪"
+      "人工智能基建热潮",
+      "地缘政治风险与能源",
+      "市场高位与回调风险",
+      "企业盈利超预期",
+      "央行政策与利率"
     ],
-    "recent_shift": "近期观点从警惕市场回调转向关注地缘政治缓和带来的风险偏好回升，同时强调AI基础设施建设的长期利好。",
+    "recent_shift": "从近期对市场高位的担忧转向对科技股和AI的乐观，尤其强调AI数据中心的建设是历史性机遇。",
     "representative_quotes": [
       "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "BREAKING: Michael Burry says he disclosed major portfolio changes... Exited Microsoft, $MSFT, longs and calls... Rolled Nvidia, $NVDA, puts into June 2027, with strikes in the low $100...",
-      "Cramer’s warning centered on the idea that quantum computing could eventually undermine the cryptographic systems that secure Bitcoin"
+      "BREAKING: S&P500 has hit a new record high",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\""
     ],
-    "generated_at": "2026-08-05T16:26:55.124725+00:00"
+    "generated_at": "2026-08-05T18:01:40.702406+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "$META",
-      "$GOOGL",
-      "$MRVL",
-      "$AVGO",
-      "$LITE"
+      "SKHYX",
+      "MU",
+      "SNDK",
+      "META",
+      "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力与存储需求增长",
-      "云厂商作为AI赢家",
-      "存储芯片行业周期与估值",
-      "投资心态与风险管理",
-      "加密货币交易平台安全"
+      "存储芯片需求旺盛",
+      "AI算力与云厂受益",
+      "黑天鹅机会抄底",
+      "美股巨头估值修复"
     ],
-    "recent_shift": "从早期激进交易和高杠杆转向更稳健的长期持有和风险管理，但仍坚定看好AI与存储板块。",
+    "recent_shift": "最近从激进操作转向稳健，提高现金仓位，更注重风险控制。",
     "representative_quotes": [
-      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月，谷歌这些云厂和claude他们投资回报的转化速度可以更快。",
-      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。",
-      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去，而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。"
+      "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
+      "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。",
+      "我买到了美股百年大顶"
     ],
-    "generated_at": "2026-08-05T10:25:49.673786+00:00"
+    "generated_at": "2026-08-05T18:01:43.728390+00:00"
   }
 }

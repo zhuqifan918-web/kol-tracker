@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2085057496075649266",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Michael Burry has said we are near the top of the market",
+    "tweet_url": "https://x.com/unusual_whales/status/2085057496075649266",
+    "published_at": "2026-08-05T17:37:00+00:00",
+    "fetched_at": "2026-08-05T18:01:09.517404+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里表示市场接近顶部，暗示可能看空后市，投资者需警惕下行风险。",
+      "translation": "突发：迈克尔·伯里表示我们已接近市场顶部。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085053224386744756",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "刚把snxx，muu，skhynix都减了一半仓位，怕闪迪财报向下波动，等闪迪财报波动结束，准备再把减掉的仓位集中干到muu和snxx上。 https://t.co/vUjbFROyEL",
+    "tweet_url": "https://x.com/xiaomustock/status/2085053224386744756",
+    "published_at": "2026-08-05T17:20:01+00:00",
+    "fetched_at": "2026-08-05T18:00:55.288701+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNXX",
+        "MUU",
+        "SKHNYX"
+      ],
+      "direction": "neutral",
+      "summary": "作者因担心闪迪财报波动，减仓了SNXX、MUU和SKHNYX，计划在财报波动结束后，将减掉的仓位集中加回到MUU和SNXX上。整体操作偏谨慎，但长期仍看好这两只标的。",
+      "translation": "刚把snxx，muu，skhynix都减了一半仓位，怕闪迪财报向下波动，等闪迪财报波动结束，准备再把减掉的仓位集中干到muu和snxx上。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085036762976616739",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -153,6 +195,25 @@
       "direction": "neutral",
       "summary": "该推文宣布Unusual Whales的直播节目WhaleWatch正在进行，并提问牛市涨势能否持续。未提供具体投资建议或个股分析。",
       "translation": "突发：Unusual Whales的直播节目WhaleWatch现已开播！历史高点后的涨势能否延续？https://t.co/sPjjwLUp6D",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2084981998788174215",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said communities that want data centers are the ‘smart’ ones because they mean jobs with ‘very little actual disruption,’",
+    "tweet_url": "https://x.com/unusual_whales/status/2084981998788174215",
+    "published_at": "2026-08-05T12:37:00+00:00",
+    "fetched_at": "2026-08-05T18:01:21.189061+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普言论暗示数据中心建设对当地经济有正面影响，可能间接利好相关基建和科技板块。但缺乏具体公司或代币信息，投资信号较弱。",
+      "translation": "特朗普表示，想要数据中心的社区是“聪明”的，因为它们意味着就业机会，而且“实际干扰非常小”。",
       "confidence": "low"
     }
   },
