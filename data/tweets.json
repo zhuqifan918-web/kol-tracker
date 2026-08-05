@@ -1,5 +1,102 @@
 [
   {
+    "tweet_id": "2085036762976616739",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iranian and Omani negotiators have finalized a draft agreement for safe shipping lanes through the Strait of Hormuz, awaiting final approval from Iran's Supreme Leader, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085036762976616739",
+    "published_at": "2026-08-05T16:14:37+00:00",
+    "fetched_at": "2026-08-05T16:26:21.530977+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "霍尔木兹海峡安全航运协议若获批准，将降低中东地缘政治风险，减少石油供应中断担忧，对油价构成利空，但对全球股市和航运股构成利好。",
+      "translation": "突发：据彭博社报道，伊朗和阿曼谈判代表已完成霍尔木兹海峡安全航运通道的协议草案，正等待伊朗最高领袖的最终批准。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085032330633130189",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Citadel's flagship fund gained 5.9% in July, aided by its Situational Awareness strategy, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085032330633130189",
+    "published_at": "2026-08-05T15:57:00+00:00",
+    "fetched_at": "2026-08-05T16:26:23.288438+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "城堡基金旗舰基金7月收益5.9%，其态势感知策略表现强劲，显示了该策略的有效性，可能对相关投资者有积极参考意义。",
+      "translation": "突发：据彭博社报道，城堡基金的旗舰基金7月上涨5.9%，得益于其态势感知策略。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085027300928627002",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Kashkari: It is time to start moving interest rates up.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085027300928627002",
+    "published_at": "2026-08-05T15:37:01+00:00",
+    "fetched_at": "2026-08-05T16:26:24.742286+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员卡什卡利表示是时候开始提高利率，这暗示货币政策可能收紧，对股市构成压力，可能利空股票市场。",
+      "translation": "美联储的卡什卡利：是时候开始提高利率了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085022264295129434",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX, $SPCX, says it plans to build an automated factory on the Moon using humanoid robots",
+    "tweet_url": "https://x.com/unusual_whales/status/2085022264295129434",
+    "published_at": "2026-08-05T15:17:00+00:00",
+    "fetched_at": "2026-08-05T16:26:26.344315+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到SpaceX计划在月球建设自动化工厂，使用人形机器人，这显示了公司未来增长潜力，对投资者而言是积极信号。",
+      "translation": "SpaceX，$SPCX，表示计划使用人形机器人在月球上建设自动化工厂。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085017230803411411",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Anthropic says it is building custom AI chips for Claude.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085017230803411411",
+    "published_at": "2026-08-05T14:57:00+00:00",
+    "fetched_at": "2026-08-05T16:26:28.166795+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息显示Anthropic正在自研AI芯片以支持Claude模型，这可能影响芯片供应链（如英伟达等），但未直接提及具体股票，投资影响需结合产业链分析。",
+      "translation": "突发：Anthropic表示正在为Claude构建定制AI芯片。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085012198082974036",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

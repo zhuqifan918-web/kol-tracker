@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
       "SPCX",
+      "NVDA",
       "PLTR",
-      "AMD",
-      "SPY"
+      "AMZN",
+      "INTC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与数据中心建设",
-      "地缘政治与能源市场",
-      "货币政策与通胀",
-      "市场情绪与波动性",
-      "股市创历史新高"
+      "地缘政治风险与伊朗局势",
+      "AI数据中心与芯片需求",
+      "市场波动与对冲策略",
+      "货币政策与利率走向",
+      "企业财报与市场情绪"
     ],
-    "recent_shift": "近期观点从对股市创新高的乐观情绪转向对估值过高和潜在回调的担忧，尤其是Michael Burry的看空言论加剧了不确定性。",
+    "recent_shift": "近期观点从警惕市场回调转向关注地缘政治缓和带来的风险偏好回升，同时强调AI基础设施建设的长期利好。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has bet against the rally, saying, 'We are near a major top, and possible a 1987-type fall'",
-      "BREAKING: Trump says US officials are holding 'very good' talks with Iran and that a deal to reopen the Strait of Hormuz could be reached as soon as today.",
-      "Jensen Huang of Nvidia, $NVDA, has said 'a lot' of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers"
+      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
+      "BREAKING: Michael Burry says he disclosed major portfolio changes... Exited Microsoft, $MSFT, longs and calls... Rolled Nvidia, $NVDA, puts into June 2027, with strikes in the low $100...",
+      "Cramer’s warning centered on the idea that quantum computing could eventually undermine the cryptographic systems that secure Bitcoin"
     ],
-    "generated_at": "2026-08-05T14:43:52.746020+00:00"
+    "generated_at": "2026-08-05T16:26:55.124725+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
