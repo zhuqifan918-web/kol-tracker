@@ -4,46 +4,48 @@
       "SIVE",
       "LITE",
       "AAOI",
-      "COHR",
-      "MU"
+      "SNDK",
+      "SKHY"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施和算力需求激增，带动上游半导体、光电和内存行业景气",
-      "CPO（共封装光学）和硅光子技术成为行业新增长点，出现供应瓶颈",
-      "内存（DRAM/NAND）供不应求，价格持续上涨，厂家产能售罄"
+      "AI基础设施和光电子瓶颈",
+      "内存短缺与长期供应协议",
+      "CPO（共封装光学）架构转型",
+      "类云服务需求增长",
+      "市场恐慌性抛售与去杠杆"
     ],
-    "recent_shift": "近期观点从关注市场波动和杠杆清算，转向强调基本面强劲和供应瓶颈，认为市场回调是过度反应，看好长期结构性增长。",
+    "recent_shift": "从近期市场回调中看到买入机会，强调基本面未变，并注意到机构空头回补和内部人买入。",
     "representative_quotes": [
-      "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
-      "Given each hyperscaler has flagged either compute shortages, rising cloud demand + pricing power, or increased spending for chips/networking. My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Lot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. Gets rerated when their inflection period hits and capex flows into their balance sheets.",
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
+      "“Sivers CEO bought 1,000,000 SEK worth of shares on the open market today... the clearest signal in management confidence.”",
+      "“Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. Optical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery.”",
+      "“I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.”"
     ],
-    "generated_at": "2026-08-04T13:14:42.415176+00:00"
+    "generated_at": "2026-08-05T01:42:44.144052+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
       "NVDA",
+      "SPCX",
       "PLTR",
-      "AMD",
-      "AMZN"
+      "AMZN",
+      "SPY"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施大规模建设",
-      "美股创新高与市场乐观情绪",
-      "地缘政治与能源市场波动",
-      "央行干预与汇率变动",
-      "企业盈利与调整"
+      "AI基础设施建设热潮",
+      "地缘政治风险与能源市场波动",
+      "科技股财报超预期",
+      "市场乐观情绪与创纪录高位",
+      "日元干预与全球货币政策"
     ],
-    "recent_shift": "近期观点从关注市场风险和地缘紧张转向强调AI和数据中心建设带来的历史性机遇以及市场创纪录的强势表现。",
+    "recent_shift": "近期言论从关注市场顶部风险转向强调美国经济强劲和AI基础设施投资机会，整体态度更加乐观。",
     "representative_quotes": [
-      "BREAKING: SpaceX, $SPCX, has said they have \"$100 billion in cash\"",
       "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "BREAKING: S&P500 has hit an all time high."
+      "Trump: \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\"",
+      "BREAKING: Elon Musk says he think SpaceX, $SPCX, is an insane opportunity in the stock market:"
     ],
-    "generated_at": "2026-08-04T23:31:23.705283+00:00"
+    "generated_at": "2026-08-05T01:42:40.355222+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

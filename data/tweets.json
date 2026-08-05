@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2084795597417263442",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$RKLB has been awarded a $397M contract by the US Space Force.\n\nTo build out Flatellite satellites and launch them on their Medium Lift rocket, Neutron. https://t.co/0jsPPf9ucI",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2084795597417263442",
+    "published_at": "2026-08-05T00:16:18+00:00",
+    "fetched_at": "2026-08-05T01:41:59.130815+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RKLB"
+      ],
+      "direction": "bullish",
+      "summary": "火箭实验室获得美国太空部队3.97亿美元合同，用于建造和发射Flatellite卫星及中子号火箭，这显示公司业务增长且获得政府认可，对股价构成正面影响。",
+      "translation": "$RKLB已被美国太空部队授予价值3.97亿美元的合同，用于建造Flatellite卫星并在其中型运载火箭中子号上发射。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084790990800347528",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2084790990800347528",
+    "published_at": "2026-08-04T23:58:00+00:00",
+    "fetched_at": "2026-08-05T01:42:30.279611+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里（Michael Burry）警告市场接近重大顶部，可能重演1987年式暴跌。此言论表明他对当前市场持强烈看跌态度，认为股市存在大幅回调风险。",
+      "translation": "突发：迈克尔·伯里（Michael Burry）押注市场反弹将失败，称'我们接近一个重要顶部，可能迎来类似1987年的大跌'。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2084775890370642301",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
