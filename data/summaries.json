@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPX",
+      "SPCX",
       "NVDA",
       "PLTR",
-      "SPCX",
-      "MU"
+      "AMD",
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施",
-      "美联储政策",
-      "地缘政治",
-      "盈利超预期",
-      "市场流动性"
+      "人工智能与数据中心建设",
+      "地缘政治与能源安全",
+      "科技公司财报与市场新高",
+      "央行政策与利率预期",
+      "大宗商品与黄金"
     ],
-    "recent_shift": "最近转向强烈看涨，强调历史新高，强调AI相关机会，而此前对市场顶点更为谨慎。",
+    "recent_shift": "近期观点从对市场顶部的担忧转向积极，强调人工智能和基础设施建设带来的机会，同时关注地缘政治风险缓解。",
     "representative_quotes": [
-      "BREAKING: S&P500 has hit an all time high. https://t.co/d0lG8DZ33G",
-      "Mike Burry says we are near the top of the market and possible a 1987-type fall",
-      "Trump just said that 'The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!'"
+      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "BREAKING: Trump has said that \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\""
     ],
-    "generated_at": "2026-08-05T22:49:40.515428+00:00"
+    "generated_at": "2026-08-05T23:50:18.222838+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

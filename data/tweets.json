@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2085138278412669150",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has created the most robust earnings platform.\n\nCheck it out.\n\nSee more: https://t.co/lNGVHeG6RW",
+    "tweet_url": "https://x.com/unusual_whales/status/2085138278412669150",
+    "published_at": "2026-08-05T22:58:00+00:00",
+    "fetched_at": "2026-08-05T23:49:54.312598+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文宣传Unusual Whales推出的强大财报平台，属于投资工具推广，而非具体投资建议。对于关注财报数据的投资者具有一定参考价值，但未提及具体标的或方向。",
+      "translation": "Unusual Whales创建了最强大的财报平台。快去看看吧。更多信息：https://t.co/lNGVHeG6RW",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085123178867601529",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
