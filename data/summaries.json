@@ -26,48 +26,47 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "NVDA",
       "PLTR",
-      "META",
-      "SPY"
+      "NVDA",
+      "AMD",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与芯片",
-      "能源与地缘政治",
-      "市场高位与风险",
-      "央行政策与汇率",
-      "财报季与个股机会"
+      "AI基础设施与数据中心建设",
+      "地缘政治与能源运输",
+      "市场情绪与期权交易"
     ],
-    "recent_shift": "近期观点从关注个股财报转向关注宏观事件如伊朗协议、美联储政策和市场顶部风险。",
+    "recent_shift": "近期观点从对AI泡沫的担忧转向看好市场，尤其是科技股和AI相关产业。",
     "representative_quotes": [
+      "BREAKING: Michael Burry has said we are near the top of the market",
       "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "Trump: You’ll find out by tomorrow about the Iran deal… Talking about having the Straight open by tomorrow."
+      "BREAKING: SpaceX, $SPCX, earnings: - Revenue: $7.81 billion, est: $6.82 billion - EPS: -$0.09, est: -$0.23"
     ],
-    "generated_at": "2026-08-05T20:02:41.291116+00:00"
+    "generated_at": "2026-08-05T21:41:38.448127+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHYX",
-      "MU",
-      "SNDK",
+      "SKHynix",
       "META",
+      "MU",
+      "MRVL",
       "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求旺盛",
-      "AI算力与云厂受益",
-      "黑天鹅机会抄底",
-      "美股巨头估值修复"
+      "存储芯片供需紧张",
+      "AI算力与模型竞争",
+      "云计算厂商受益",
+      "安全事件与平台信任",
+      "市场波动与风险管理"
     ],
-    "recent_shift": "最近从激进操作转向稳健，提高现金仓位，更注重风险控制。",
+    "recent_shift": "近期从激进操作转为更谨慎，强调控制仓位和风险，同时仍看好存储长期需求。",
     "representative_quotes": [
       "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
-      "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。",
-      "我买到了美股百年大顶"
+      "市场对存储最大的担忧就是长鑫这条鲶鱼，而不是对存储需求的担忧。",
+      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。"
     ],
-    "generated_at": "2026-08-05T18:01:43.728390+00:00"
+    "generated_at": "2026-08-05T21:41:41.429795+00:00"
   }
 }
