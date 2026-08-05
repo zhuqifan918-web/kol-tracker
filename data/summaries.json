@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "PLTR",
-      "NVDA",
-      "SPCX",
-      "AMD",
-      "MSFT"
+      "$NVDA",
+      "$SPCX",
+      "$PLTR",
+      "$MSFT",
+      "$ORCL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施建设",
-      "股指创新高",
-      "地缘政治与能源",
-      "半导体行业动态",
-      "股市做空警告"
+      "宏观地缘政治与市场波动",
+      "AI基础设施投资热潮",
+      "央行干预及货币政策",
+      "能源与大宗商品市场",
+      "市场泡沫与回调风险"
     ],
-    "recent_shift": "从对市场顶部的担忧转向对AI和科技股强劲表现的乐观，但对做空者如Michael Burry的警告仍保持关注。",
+    "recent_shift": "近期观点从中性偏乐观转向警惕，强调地缘冲突、市场泡沫和央行政策风险。",
     "representative_quotes": [
       "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "Wow. $PLTR is up more than 27% after earnings.",
-      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”"
+      "BREAKING: S&P500 has hit a new record high",
+      "Iran is reportedly considering allowing European nations to remove mines from the Strait of Hormuz, per Reuters"
     ],
-    "generated_at": "2026-08-05T04:56:22.278058+00:00"
+    "generated_at": "2026-08-05T07:33:43.733725+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
