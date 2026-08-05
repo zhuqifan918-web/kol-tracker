@@ -1,5 +1,65 @@
 [
   {
+    "tweet_id": "2085012198082974036",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says US officials are holding \"very good\" talks with Iran and that a deal to reopen the Strait of Hormuz could be reached as soon as today.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085012198082974036",
+    "published_at": "2026-08-05T14:37:00+00:00",
+    "fetched_at": "2026-08-05T14:43:19.766938+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普表示美伊谈判进展顺利，可能今天就能达成重新开放霍尔木兹海峡的协议。这将缓解全球石油供应紧张，对原油价格形成利空，但对全球经济和股市构成利好。",
+      "translation": "突发：特朗普表示美国官员正在与伊朗进行“非常好的”会谈，可能最快今天就能达成重新开放霍尔木兹海峡的协议。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085002131262915069",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Samsung, SK Hynix test Chinese chip tools as hedge against US risks, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2085002131262915069",
+    "published_at": "2026-08-05T13:57:00+00:00",
+    "fetched_at": "2026-08-05T14:43:25.398991+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Samsung",
+        "SK Hynix"
+      ],
+      "direction": "neutral",
+      "summary": "三星和SK海力士测试中国芯片设备以对冲美国制裁风险，可能导致供应链多元化。该消息对芯片行业影响中性偏谨慎，投资者需关注地缘政治风险及设备商潜在受益。",
+      "translation": "据路透社报道，三星和SK海力士正在测试中国芯片工具，以对冲美国风险。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084992806641115312",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales live trading show WhaleWatch is live now!\n\nWill the all time high rally continue? \nhttps://t.co/sPjjwLUp6D",
+    "tweet_url": "https://x.com/unusual_whales/status/2084992806641115312",
+    "published_at": "2026-08-05T13:19:57+00:00",
+    "fetched_at": "2026-08-05T14:43:22.655719+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布Unusual Whales的直播节目WhaleWatch正在进行，并提问牛市涨势能否持续。未提供具体投资建议或个股分析。",
+      "translation": "突发：Unusual Whales的直播节目WhaleWatch现已开播！历史高点后的涨势能否延续？https://t.co/sPjjwLUp6D",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2084844593674346580",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -351,6 +411,27 @@
       "summary": "SpaceX的营收大幅超出预期，每股亏损小于预期，表明公司基本面表现强劲，可能对投资者构成利好。",
       "translation": "突发新闻：SpaceX，$SPCX，财报：营收：78.1亿美元，预期：68.2亿美元；每股收益：-0.09美元，预期：-0.23美元。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084731080763166785",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Call your semiconductor. https://t.co/2T6HQ3VtBt",
+    "tweet_url": "https://x.com/unusual_whales/status/2084731080763166785",
+    "published_at": "2026-08-04T19:59:56+00:00",
+    "fetched_at": "2026-08-05T14:43:45.632309+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOXX"
+      ],
+      "direction": "bullish",
+      "summary": "推文建议关注半导体板块，可能暗示投资机会。",
+      "translation": "给你的半导体打电话。",
+      "confidence": "low"
     }
   },
   {

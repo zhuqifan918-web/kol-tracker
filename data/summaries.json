@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$SPCX",
-      "$PLTR",
-      "$MSFT",
-      "$ORCL"
+      "NVDA",
+      "SPCX",
+      "PLTR",
+      "AMD",
+      "SPY"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "宏观地缘政治与市场波动",
-      "AI基础设施投资热潮",
-      "央行干预及货币政策",
-      "能源与大宗商品市场",
-      "市场泡沫与回调风险"
+      "人工智能与数据中心建设",
+      "地缘政治与能源市场",
+      "货币政策与通胀",
+      "市场情绪与波动性",
+      "股市创历史新高"
     ],
-    "recent_shift": "近期观点从中性偏乐观转向警惕，强调地缘冲突、市场泡沫和央行政策风险。",
+    "recent_shift": "近期观点从对股市创新高的乐观情绪转向对估值过高和潜在回调的担忧，尤其是Michael Burry的看空言论加剧了不确定性。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "BREAKING: S&P500 has hit a new record high",
-      "Iran is reportedly considering allowing European nations to remove mines from the Strait of Hormuz, per Reuters"
+      "BREAKING: Michael Burry has bet against the rally, saying, 'We are near a major top, and possible a 1987-type fall'",
+      "BREAKING: Trump says US officials are holding 'very good' talks with Iran and that a deal to reopen the Strait of Hormuz could be reached as soon as today.",
+      "Jensen Huang of Nvidia, $NVDA, has said 'a lot' of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers"
     ],
-    "generated_at": "2026-08-05T07:33:43.733725+00:00"
+    "generated_at": "2026-08-05T14:43:52.746020+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
