@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2085123178867601529",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There will be three rate hikes this year, per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2085123178867601529",
+    "published_at": "2026-08-05T21:58:00+00:00",
+    "fetched_at": "2026-08-05T22:49:13.429467+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国银行预测今年将会有三次加息，这反映了对货币政策收紧的预期，可能影响市场流动性和估值。投资者需关注加息对股市和债市的潜在影响。",
+      "translation": "美国银行预计今年将进行三次加息。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085108079352320375",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -317,6 +336,25 @@
       "summary": "该推文宣布Unusual Whales的直播节目WhaleWatch正在进行，并提问牛市涨势能否持续。未提供具体投资建议或个股分析。",
       "translation": "突发：Unusual Whales的直播节目WhaleWatch现已开播！历史高点后的涨势能否延续？https://t.co/sPjjwLUp6D",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2084992065155342714",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Hollywood is making fewer TV shows year after year, per Bloomberg: https://t.co/eFxyRFtk1f",
+    "tweet_url": "https://x.com/unusual_whales/status/2084992065155342714",
+    "published_at": "2026-08-05T13:17:00+00:00",
+    "fetched_at": "2026-08-05T22:49:27.056742+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文提到好莱坞电视节目产量逐年下降，根据彭博社报道。这可能影响影视制作公司、流媒体平台和相关供应链的投资前景，但未直接提及具体股票或投资建议，因此方向中性。",
+      "translation": "根据彭博社报道，好莱坞每年制作的电视节目越来越少。",
+      "confidence": "medium"
     }
   },
   {
