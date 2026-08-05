@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2084844593674346580",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "xisting-home sales also firmed up, ticking to a seasonally adjusted annual rate of roughly 4.4 million, the highest level since November 2022, and up 4.2% year over year.\n\nRead more: https://t.co/Zq7CbpXLyQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2084844593674346580",
+    "published_at": "2026-08-05T03:31:00+00:00",
+    "fetched_at": "2026-08-05T04:56:06.130259+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文报道了美国二手房销售数据向好，年化销量升至约440万套，为2022年11月以来最高，同比增长4.2%。这反映出房地产市场回暖，可能对相关行业（如家居、建筑等）产生积极影响，但未提及具体投资标的。",
+      "translation": "二手房销售也出现回升，经季节性调整后年化销量约为440万套，为2022年11月以来的最高水平，同比增长4.2%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2084836288511762691",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Cramer’s warning centered on the idea that quantum computing could eventually undermine the cryptographic systems that secure Bitcoin\n\nRead more: https://t.co/OoHDVcsWSY",
+    "tweet_url": "https://x.com/unusual_whales/status/2084836288511762691",
+    "published_at": "2026-08-05T02:58:00+00:00",
+    "fetched_at": "2026-08-05T04:56:07.766119+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "bearish",
+      "summary": "吉姆·克莱默警告称，量子计算可能最终破坏保护比特币的加密系统，这对比特币构成潜在威胁。投资者需关注量子计算发展对加密货币安全性的影响。",
+      "translation": "克莱默的警告集中在这样一个观点上，即量子计算最终可能破坏保护比特币的加密系统。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084824341787873539",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "55% chance WTI crude oil hits $70 in August, per Polymarket⁠.com https://t.co/yjWXvP2bPs",
+    "tweet_url": "https://x.com/unusual_whales/status/2084824341787873539",
+    "published_at": "2026-08-05T02:10:31+00:00",
+    "fetched_at": "2026-08-05T04:56:11.534777+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WTI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到Polymarket预测WTI原油在8月达到70美元的概率为55%，这反映了市场对原油价格的预期，可能对能源相关投资产生影响。",
+      "translation": "根据Polymarket.com，WTI原油在8月达到70美元的概率为55%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2084795597417263442",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "PLTR",
       "NVDA",
       "SPCX",
-      "PLTR",
-      "AMZN",
-      "SPY"
+      "AMD",
+      "MSFT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设热潮",
-      "地缘政治风险与能源市场波动",
-      "科技股财报超预期",
-      "市场乐观情绪与创纪录高位",
-      "日元干预与全球货币政策"
+      "AI基础设施建设",
+      "股指创新高",
+      "地缘政治与能源",
+      "半导体行业动态",
+      "股市做空警告"
     ],
-    "recent_shift": "近期言论从关注市场顶部风险转向强调美国经济强劲和AI基础设施投资机会，整体态度更加乐观。",
+    "recent_shift": "从对市场顶部的担忧转向对AI和科技股强劲表现的乐观，但对做空者如Michael Burry的警告仍保持关注。",
     "representative_quotes": [
-      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "Trump: \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\"",
-      "BREAKING: Elon Musk says he think SpaceX, $SPCX, is an insane opportunity in the stock market:"
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "Wow. $PLTR is up more than 27% after earnings.",
+      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”"
     ],
-    "generated_at": "2026-08-05T01:42:40.355222+00:00"
+    "generated_at": "2026-08-05T04:56:22.278058+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
