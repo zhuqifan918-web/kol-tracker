@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPX",
+      "SPCX",
       "NVDA",
       "PLTR",
-      "SPCX",
-      "AMD"
+      "META",
+      "SPY"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基建热潮",
-      "地缘政治风险与能源",
-      "市场高位与回调风险",
-      "企业盈利超预期",
-      "央行政策与利率"
+      "AI基础设施与芯片",
+      "能源与地缘政治",
+      "市场高位与风险",
+      "央行政策与汇率",
+      "财报季与个股机会"
     ],
-    "recent_shift": "从近期对市场高位的担忧转向对科技股和AI的乐观，尤其强调AI数据中心的建设是历史性机遇。",
+    "recent_shift": "近期观点从关注个股财报转向关注宏观事件如伊朗协议、美联储政策和市场顶部风险。",
     "representative_quotes": [
       "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "BREAKING: S&P500 has hit a new record high",
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\""
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "Trump: You’ll find out by tomorrow about the Iran deal… Talking about having the Straight open by tomorrow."
     ],
-    "generated_at": "2026-08-05T18:01:40.702406+00:00"
+    "generated_at": "2026-08-05T20:02:41.291116+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2085087694984765596",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, has debuted its first AI coding agent called Muse Code",
+    "tweet_url": "https://x.com/unusual_whales/status/2085087694984765596",
+    "published_at": "2026-08-05T19:37:00+00:00",
+    "fetched_at": "2026-08-05T20:02:22.534157+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "Meta推出AI编程智能体Muse Code，展示了其在AI领域的持续创新能力，可能增强投资者对META长期增长潜力的信心，属于正面信号。",
+      "translation": "Meta（$META）推出了其首款名为Muse Code的AI编程智能体。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085077628680290409",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Israel and select Gulf countries are reportedly holding discussions regarding new energy export pathways that bypass both the Strait of Hormuz and the Bab el-Mandeb Strait, per EnergyWire",
+    "tweet_url": "https://x.com/unusual_whales/status/2085077628680290409",
+    "published_at": "2026-08-05T18:57:00+00:00",
+    "fetched_at": "2026-08-05T20:02:25.657925+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该消息可能利好中东能源出口相关的基础设施和航运公司，因为绕行霍尔木兹海峡和曼德海峡的新能源出口路线有望降低地缘政治风险，提升能源贸易效率。但未提及具体股票或ETF。",
+      "translation": "据报道，以色列和部分海湾国家正在讨论新的能源出口路线，这些路线将绕开霍尔木兹海峡和曼德海峡，根据EnergyWire的消息。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085057496075649266",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
