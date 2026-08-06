@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2085319220611428744",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Jeff Bezos disclosed the sale of 1,209,649 Amazon, $AMZN, shares at $286.41 each, generating approximately $346.5 million in pre-tax proceeds.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085319220611428744",
+    "published_at": "2026-08-06T10:57:00+00:00",
+    "fetched_at": "2026-08-06T12:25:50.999647+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "neutral",
+      "summary": "杰夫·贝索斯披露出售亚马逊股票，涉及约1,209,649股，每股286.41美元，总金额约3.465亿美元。此消息可能反映内部人士对股价的看法，但具体影响需结合更多背景信息。",
+      "translation": "突发：杰夫·贝索斯披露出售了1,209,649股亚马逊（$AMZN）股票，每股价格为286.41美元，产生约3.465亿美元的税前收益。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085309154420228566",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Hackers launched a wave of sophisticated attacks on Wall Street firms in recent days, targeting information systems at major money managers and hedge funds, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085309154420228566",
+    "published_at": "2026-08-06T10:17:00+00:00",
+    "fetched_at": "2026-08-06T12:25:53.792335+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该事件暗示华尔街主要金融机构遭受网络攻击，可能影响市场情绪和交易系统稳定性，对金融股和整体市场构成短期负面风险。",
+      "translation": "突发新闻：据彭博社报道，黑客近日对华尔街公司发起了一系列复杂攻击，目标是主要资金管理公司和对冲基金的信息系统。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085304045099696547",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

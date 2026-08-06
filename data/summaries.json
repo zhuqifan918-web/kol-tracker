@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "NVDA",
-      "PLTR",
       "META",
-      "MSFT"
+      "PLTR",
+      "NVDA",
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施大规模建设",
-      "市场高位与回调风险",
-      "地缘政治与供应链波动",
-      "企业财报与盈利预期",
-      "央行政策与市场流动性"
+      "市场接近顶部",
+      "中东局势与油价",
+      "AI投资与数据基建"
     ],
-    "recent_shift": "近期从对市场高位持谨慎态度转向更关注具体个股和事件驱动机会。",
+    "recent_shift": "近期观点略显谨慎，转向关注市场顶部和地缘风险，但仍看好AI和SpaceX等主题。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "Huang highlighted the massive buildout of AI data centers, describing it as the \"largest infrastructure buildout in human history.\"",
-      "BREAKING: SpaceX, $SPCX, has said they have \"$100 billion in cash\""
+      "BREAKING: Michael Burry has bet against the rally, saying, 'We are near a major top, and possible a 1987-type fall'",
+      "BREAKING: SpaceX, $SPCX, has said they have '$100 billion in cash'",
+      "BREAKING: Palantir, $PLTR, earnings: Revenue: $1.93 billion, est: $1.81 billion, EPS: $0.41, est: $0.35"
     ],
-    "generated_at": "2026-08-06T07:34:57.478722+00:00"
+    "generated_at": "2026-08-06T12:26:07.897366+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
