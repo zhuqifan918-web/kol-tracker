@@ -3,49 +3,48 @@
     "focus_tickers": [
       "SIVE",
       "LITE",
+      "NVDA",
       "AAOI",
-      "SNDK",
       "SKHY"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施和光电子瓶颈",
-      "内存短缺与长期供应协议",
-      "CPO（共封装光学）架构转型",
-      "类云服务需求增长",
-      "市场恐慌性抛售与去杠杆"
+      "AI基础设施与光通信",
+      "存储芯片短缺与涨价",
+      "CPO（共封装光学）技术演进",
+      "记忆体与激光器瓶颈",
+      "人形机器人商业化"
     ],
-    "recent_shift": "从近期市场回调中看到买入机会，强调基本面未变，并注意到机构空头回补和内部人买入。",
+    "recent_shift": "尽管市场近期出现调整，但作者认为基本面未变，且继续看好AI基础设施和光通信等结构性主题。",
     "representative_quotes": [
-      "“Sivers CEO bought 1,000,000 SEK worth of shares on the open market today... the clearest signal in management confidence.”",
-      "“Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. Optical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery.”",
-      "“I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals.”"
+      "Sivers would support $341-$512M worth of annual array revenue.",
+      "Basically, all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
+      "In the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain."
     ],
-    "generated_at": "2026-08-05T01:42:44.144052+00:00"
+    "generated_at": "2026-08-06T01:42:14.397775+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
       "NVDA",
+      "MSFT",
       "PLTR",
-      "AMD",
-      "META"
+      "AMD"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "人工智能与数据中心建设",
       "地缘政治与能源安全",
-      "科技公司财报与市场新高",
-      "央行政策与利率预期",
-      "大宗商品与黄金"
+      "市场创新高与牛市情绪",
+      "期权交易与市场流动性"
     ],
-    "recent_shift": "近期观点从对市场顶部的担忧转向积极，强调人工智能和基础设施建设带来的机会，同时关注地缘政治风险缓解。",
+    "recent_shift": "近期态度从对市场顶部的担忧转向对科技股和AI基础设施的积极看好，同时关注地缘政治风险。",
     "representative_quotes": [
-      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "BREAKING: Trump has said that \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\""
+      "Michael Burry says he disclosed major portfolio changes: ... Rolled Nvidia, $NVDA, puts into June 2027, with strikes in the low $100",
+      "BREAKING: Elon Musk says he think SpaceX, $SPCX, is an insane opportunity in the stock market",
+      "Huang highlighted the massive buildout of AI data centers, describing it as the 'largest infrastructure buildout in human history.'"
     ],
-    "generated_at": "2026-08-05T23:50:18.222838+00:00"
+    "generated_at": "2026-08-06T01:42:11.205907+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
