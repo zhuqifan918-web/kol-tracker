@@ -1,73 +1,72 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "LITE",
-      "NVDA",
-      "AAOI",
-      "SKHY"
+      "$SIVE",
+      "$AEVA",
+      "$NVDA",
+      "$LITE",
+      "$CPO"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与光通信",
-      "存储芯片短缺与涨价",
-      "CPO（共封装光学）技术演进",
-      "记忆体与激光器瓶颈",
-      "人形机器人商业化"
+      "CPO/NPO光学互连架构的加速发展",
+      "上游激光器与光子学供应链瓶颈",
+      "超大规模数据中心资本开支持续增长",
+      "AI基础设施需求结构性增长",
+      "内存与半导体供应链紧张"
     ],
-    "recent_shift": "尽管市场近期出现调整，但作者认为基本面未变，且继续看好AI基础设施和光通信等结构性主题。",
+    "recent_shift": "近期观察显示，CPO相关进展及测试收入开始显现，供应链瓶颈仍存，整体对AI基础设施需求保持乐观。",
     "representative_quotes": [
-      "Sivers would support $341-$512M worth of annual array revenue.",
-      "Basically, all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
-      "In the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain."
+      "TLDR: New TAM and a hyperscaler programs for Aeva for CPO/NPO, positive read through for upstream suppliers like $SIVE.",
+      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now.",
+      "Basically, all the timelines seem to be the same as before and revenue is starting to hit testing players first."
     ],
-    "generated_at": "2026-08-06T01:42:14.397775+00:00"
+    "generated_at": "2026-08-06T04:56:54.210875+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
+      "META",
       "NVDA",
-      "MSFT",
       "PLTR",
+      "SNDK",
       "AMD"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与数据中心建设",
+      "科技股与AI投资热",
       "地缘政治与能源安全",
-      "市场创新高与牛市情绪",
-      "期权交易与市场流动性"
+      "美联储货币政策"
     ],
-    "recent_shift": "近期态度从对市场顶部的担忧转向对科技股和AI基础设施的积极看好，同时关注地缘政治风险。",
+    "recent_shift": "近期观点由前期的谨慎转为明显看多，强调市场创新高和积极投资机会。",
     "representative_quotes": [
-      "Michael Burry says he disclosed major portfolio changes: ... Rolled Nvidia, $NVDA, puts into June 2027, with strikes in the low $100",
-      "BREAKING: Elon Musk says he think SpaceX, $SPCX, is an insane opportunity in the stock market",
-      "Huang highlighted the massive buildout of AI data centers, describing it as the 'largest infrastructure buildout in human history.'"
+      "BREAKING: Trump has said that \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\"",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "The market continually has hit new all time highs this year."
     ],
-    "generated_at": "2026-08-06T01:42:11.205907+00:00"
+    "generated_at": "2026-08-06T04:57:00.504053+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHynix",
+      "SKHNY",
       "META",
+      "GOOGL",
       "MU",
-      "MRVL",
-      "GOOGL"
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张",
-      "AI算力与模型竞争",
-      "云计算厂商受益",
-      "安全事件与平台信任",
-      "市场波动与风险管理"
+      "存储芯片行业景气度与价格周期",
+      "AI算力与模型竞争对存储需求的影响",
+      "Meta估值与社交护城河",
+      "云厂商资本开支与AI投资回报",
+      "Gate交易所安全事件与责任归属"
     ],
-    "recent_shift": "近期从激进操作转为更谨慎，强调控制仓位和风险，同时仍看好存储长期需求。",
+    "recent_shift": "近期从极度悲观（亏损严重）转向谨慎乐观，认为存储与AI需求长期向好，并开始降低杠杆、调整仓位，注重风险控制与长期配置。",
     "representative_quotes": [
-      "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
-      "市场对存储最大的担忧就是长鑫这条鲶鱼，而不是对存储需求的担忧。",
-      "如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。"
+      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
+      "亚马逊26q2ai核心观点：开支：2200亿美元（原2000亿美元），主要因HBM/内存涨价。需求：2026、2027算力仍供不应求，2028需求已非常强劲。",
+      "刚把snxx，muu，skhynix都减了一半仓位，怕闪迪财报向下波动，等闪迪财报波动结束，准备再把减掉的仓位集中干到muu和snxx上。"
     ],
-    "generated_at": "2026-08-05T21:41:41.429795+00:00"
+    "generated_at": "2026-08-06T04:56:58.094623+00:00"
   }
 }
