@@ -1,5 +1,90 @@
 [
   {
+    "tweet_id": "2085176782286971377",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meanwhile, he exited Microsoft.\n\nRead more: https://t.co/x7vYP3FfKg",
+    "tweet_url": "https://x.com/unusual_whales/status/2085176782286971377",
+    "published_at": "2026-08-06T01:31:00+00:00",
+    "fetched_at": "2026-08-06T01:41:44.418124+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bearish",
+      "summary": "该推文提及某投资者退出微软持仓，暗示对微软股票持看空态度，可能反映其认为微软近期表现或前景不佳。",
+      "translation": "与此同时，他退出了微软。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085174977272360987",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Funniest callout of the year from $VIAV on CPO timelines:\n\n\"Well, there's been a lot of industry talk [about delays], like, 'Oh, because the yield is going to be slower.' \n\nThat's all nonsense. CPO and all that thing is moving forward\"\n\nThey stated that Yes there's always issues, but the process is being improved and things are getting better. \n\nTo follow up on that, the CEO stated: \n\n- Viavi has POs for CPO-testing activity\n- “We’re already getting [CPO revenue] this quarter, and probably in December it will start accelerating.”\n\nOn a side note, they also stated, 1.6T is \"ramping very quickly\", should reach parity with 800g next year, and signaled longer tail for 800g demand. \n\nTLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier. \n\nAs for scale up timelines, early production should be H2 2027 for some players, with other CPO players Ayar stating 2028 is the volume inflection period. \n\nBasically, all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085174977272360987",
+    "published_at": "2026-08-06T01:23:49+00:00",
+    "fetched_at": "2026-08-06T01:41:19.306095+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "VIAV",
+        "FORM",
+        "NVDA",
+        "AYAR"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论了CPO（共封装光学）测试收入开始为VIAV和FORM带来收益，并引用了VIAV管理层对CPO时间表加速的积极评论，以及Nvidia确认CPO已进入量产，整体利好相关产业链公司。",
+      "translation": "今年最有趣的关于CPO时间表的评论来自$VIAV：\n\n“嗯，行业里有很多关于延迟的讨论，比如‘因为良率会变慢’。\n\n那都是胡说八道。CPO和所有相关的事都在向前推进。”\n\n他们表示，确实总有各种问题，但流程在改进，情况正在变好。\n\n为了进一步说明，CEO表示：\n- Viavi已有CPO测试活动的采购订单\n- “本季度我们已经获得CPO收入，可能在12月会开始加速。”\n\n另外，他们还提到1.6T正在“非常快速地爬坡”，明年将接近800G的规模，并暗示800G需求会有更长的尾期。\n\n摘要：看到CPO测试收入现在开始落入$VIAV和$FORM。Nvidia也指出交换侧CPO用于scale out和scale across已进入量产，早于预期。\n\n至于scale up的时间线，一些玩家的早期生产应在2027年下半年，而其他CPO玩家如Ayar表示2028年是产量拐点。\n\n基本上，所有时间线都和之前一样，收入开始首先进入测试玩家。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085168477229502737",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The rolled Nvidia puts carry strikes in the low $100 and Burry continues to hold his remaining short positions.\n\nReadm more: https://t.co/x7vYP3FfKg",
+    "tweet_url": "https://x.com/unusual_whales/status/2085168477229502737",
+    "published_at": "2026-08-06T00:58:00+00:00",
+    "fetched_at": "2026-08-06T01:41:46.408054+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "该推文提到某投资者（Burry）持有的Nvidia看跌期权行权价在100美元以下，并且继续持有空头头寸，暗示对Nvidia股价的看跌观点。这反映了市场对Nvidia未来走势的悲观预期。",
+      "translation": "滚动的Nvidia看跌期权行权价在100美元以下，而Burry继续持有他剩余的空头头寸。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085153377827406260",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The market continually has hit new all time highs this year.\n\nUnusual Whales was made to capture these plays.\n\nSee more: https://t.co/nTn0dFANNp",
+    "tweet_url": "https://x.com/unusual_whales/status/2085153377827406260",
+    "published_at": "2026-08-05T23:58:00+00:00",
+    "fetched_at": "2026-08-06T01:41:51.016598+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到市场今年不断创下历史新高，并宣传一个名为Unusual Whales的工具，用于捕捉这些交易机会。这属于市场动态和工具的讨论，但没有具体的投资建议或方向性观点。",
+      "translation": "市场今年不断创下历史新高。Unusual Whales就是为捕捉这些交易机会而生的。查看更多：https://t.co/nTn0dFANNp",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085138278412669150",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
