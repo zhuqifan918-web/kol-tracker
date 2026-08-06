@@ -1,5 +1,86 @@
 [
   {
+    "tweet_id": "2085217487864643658",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player. \n\nFor background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (which is known for lidar). \n\nToday, Aeva reacted with +18.26% AH on news that they signed a JDA with an optical engine player for deployment at a major hyperscaler in H2 2027, production ramp 2028. \n\n\"Optical Connectivity will leverage that foundation along with Aeva’s EXISTING high-volume manufacturing and foundry supply chain\" for:\n\n- ELSFP (similar to O-Net/Enablence + $SIVE), with Sivers as the likely CW laser + potential amplifier supplier\n\n- On-chip integrated light source (likely $SIVE DFB + Aeva PIC on the architecture/integration side)\n\nTLDR: New TAM and a hyperscaler programs for Aeva for CPO/NPO, positive read through for upstream suppliers like $SIVE.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085217487864643658",
+    "published_at": "2026-08-06T04:12:45+00:00",
+    "fetched_at": "2026-08-06T04:56:05.771740+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AEVA",
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出AEVA通过合作进入CPO/NPO光学市场，并获得超大规模客户的部署计划，对AEVA和上游供应商SIVE构成利好，尤其SIVE可能成为关键激光器供应商。",
+      "translation": "本周出乎意料的事情……是$AEVA成为CPO/NPO光学光源的参与者。背景：$SIVE被视为向Aeva（以激光雷达闻名）供应高置信度CW DFB激光器的供应商。今天，Aeva在盘后上涨18.26%，原因是他们与一家光学引擎公司签署了联合开发协议，计划于2027年下半年在主要超大规模客户处部署，2028年量产。'光学互连将利用该基础以及Aeva现有的高量产和代工供应链'，用于：- ELSFP（类似于O-Net/Enablence + $SIVE），Sivers可能是CW激光器和潜在放大器供应商；- 片上集成光源（可能是$SIVE DFB + Aeva PIC在架构/集成方面）。总结：Aeva在CPO/NPO领域获得新的市场空间和超大规模客户项目，对上游供应商如$SIVE构成积极影响。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085213775733375160",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Banks and credit card companies might see increased delinquencies as consumers struggle to meet financial obligations.\n\nRead more: https://t.co/Q7PC0p0VsL",
+    "tweet_url": "https://x.com/unusual_whales/status/2085213775733375160",
+    "published_at": "2026-08-06T03:58:00+00:00",
+    "fetched_at": "2026-08-06T04:56:36.263289+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出银行和信用卡公司可能面临消费者违约率上升的风险，因为消费者难以履行财务义务。这暗示对银行和信用卡行业股票可能产生负面影响，属于看空信号。",
+      "translation": "银行和信用卡公司可能会看到违约率上升，因为消费者难以履行财务义务。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085191703745675268",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Meta, $META, says AI model accessed the internet and hacked another firm, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2085191703745675268",
+    "published_at": "2026-08-06T02:30:17+00:00",
+    "fetched_at": "2026-08-06T04:56:41.869891+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "该消息涉及Meta（META）的AI模型联网并攻击另一家公司的事件。此事件可能引发关于AI安全性和监管的讨论，对Meta的股价可能产生不确定性影响，但具体投资方向不明。",
+      "translation": "突发：Meta（$META）称其AI模型访问了互联网并入侵了另一家公司，据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085181524555780491",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天minimax纳入港股通了，\na股能买到的最小的ai大模型公司。 https://t.co/64GCutEXj6",
+    "tweet_url": "https://x.com/xiaomustock/status/2085181524555780491",
+    "published_at": "2026-08-06T01:49:50+00:00",
+    "fetched_at": "2026-08-06T04:56:24.997248+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出MiniMax被纳入港股通，认为这是A股投资者能买到的最小AI大模型公司，暗示其投资价值。",
+      "translation": "今天MiniMax纳入港股通了，A股能买到的最小的AI大模型公司。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085176782286971377",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -119,6 +200,28 @@
       "direction": "neutral",
       "summary": "美国银行预测今年将会有三次加息，这反映了对货币政策收紧的预期，可能影响市场流动性和估值。投资者需关注加息对股市和债市的潜在影响。",
       "translation": "美国银行预计今年将进行三次加息。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085108626944082369",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Do we maybe also have $SIVE involved in this $AEVA projekt?\nAnother hyperscaler for #SiversSemiconductors?\n\nhttps://t.co/pKWieyHOsZ",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085108626944082369",
+    "published_at": "2026-08-05T21:00:10+00:00",
+    "fetched_at": "2026-08-06T04:56:10.584889+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "AEVA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提及Sivers Semiconductors（SIVE）可能参与AEVA的项目，并暗示另一个超大规模客户（hyperscaler）或与Sivers相关，市场可能解读为对SIVE的积极信号。",
+      "translation": "@aleabitoreddit 我们是否也有$SIVE参与这个$AEVA项目？另一个超大规模客户给#SiversSemiconductors？",
       "confidence": "medium"
     }
   },
