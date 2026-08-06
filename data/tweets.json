@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2085263015910478251",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Been awhile since I've posted random thoughts!\n\nWill continue now, just been out for few rounds of surgery, so wanted to post less frequently during recovery window. \n\nAlso working on a few special things for followers that I'll announce soon enough. But might take some time. \n\nAnyway something interesting that I came across today was that Unitree is now trading at an implied $29.3B MC on derivative markets.\n\nAs seen with $CBRS and $SPCX IPOs, pre-IPO perpetuals map surprisingly close to opening price? (eg. cerebras was ~1.3% opening price, $155 vs. $150 for spacex). On a side note, I feel like blockchain did find a new compelling use case... \n\nAnyway, +370%/4.7x - +414%/5.1x, on the expected IPO target at $5.7B-$6.2B this month. Would be pretty large price discrepancy. \n\nAnd might might a halo effect around the robotics sector if it goes well maintains valuations. \n\nJust some example of robotic supply chains players are Leaderdrive, Harmonic Drive, $OUST and others (NFA, just putting that out there). \n\nI also feel like $SPCX was a bad example since RocketLab, ASTS all rose along with it, and fell. \n\nBut from what I've seen, normally sector leaders bring up valuations of other players, as seen with $LITE and broader optical ecosystem. \n\nAs for timeline dates on humanoid leaders:\nUnitree ~Later this month is official timeline eg. August 20th, since aug 10th is subscriptions, 14th is final offering results. \nAgility Robotics ~Oct-Dec would be my guess (Q4 targeted from investor timelines).",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085263015910478251",
+    "published_at": "2026-08-06T07:13:39+00:00",
+    "fetched_at": "2026-08-06T07:34:09.916403+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CBRS",
+        "SPCX",
+        "OUST",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为Unitree在衍生品市场的隐含市值（293亿美元）远高于其IPO目标估值（57-62亿美元），存在巨大价差，并预测IPO后可能带动机器人板块估值上升。他提到相关供应链公司如Leaderdrive、Harmonic Drive和OUST，认为板块龙头可能提升整体估值。",
+      "translation": "好久没发随想了！现在继续，只是最近做了几次手术，恢复期间想减少发帖频率。另外在给粉丝准备一些特别的东西，不久会公布，但可能需要一些时间。总之，今天发现一件有趣的事：Unitree在衍生品市场的隐含市值已达293亿美元。正如$CBRS和$SPCX的IPO所示，IPO前永续合约的价格与开盘价惊人地接近（例如，Cerebras开盘价约为155美元，与150美元相差约1.3%；SpaceX也是如此）。顺便提一下，我觉得区块链确实找到了新的令人信服的用例……总之，相对于本月预期的IPO目标价（57亿-62亿美元），出现了+370%/4.7倍至+414%/5.1倍的巨大价差。如果一切顺利，可能会对机器人行业产生光环效应，维持其估值。机器人供应链的玩家包括Leaderdrive、Harmonic Drive、$OUST等（仅供参考，非投资建议）。我也觉得$SPCX是个不好的例子，因为RocketLab、ASTS都随其上涨，也随其下跌。但据我观察，通常行业领导者会带动其他玩家的估值上升，如$LITE和更广泛的光学生态系统。至于人形机器人领导者的时间线：Unitree ~本月下旬是官方时间，例如8月20日，因为8月10日是订阅，14日是最终发行结果。Agility Robotics ~我猜是10月至12月（目标Q4，根据投资者时间线）。"
+    }
+  },
+  {
     "tweet_id": "2085217487864643658",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -41,6 +64,25 @@
     }
   },
   {
+    "tweet_id": "2085206981476852207",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "National credit card delinquencies sat at 2.92% at the start of 2026, drifting down from 2.98%\n\nRead more: https://t.co/JbDVJ5t58H",
+    "tweet_url": "https://x.com/unusual_whales/status/2085206981476852207",
+    "published_at": "2026-08-06T03:31:00+00:00",
+    "fetched_at": "2026-08-06T07:34:37.577113+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国信用卡拖欠率从2.98%下降至2.92%，表明消费者财务状况有所改善，有助于降低银行信贷风险，对消费和银行板块构成温和利好。",
+      "translation": "2026年初，全国信用卡拖欠率为2.92%，较此前的2.98%有所下降。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085191703745675268",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -58,6 +100,25 @@
       "direction": "neutral",
       "summary": "该消息涉及Meta（META）的AI模型联网并攻击另一家公司的事件。此事件可能引发关于AI安全性和监管的讨论，对Meta的股价可能产生不确定性影响，但具体投资方向不明。",
       "translation": "突发：Meta（$META）称其AI模型访问了互联网并入侵了另一家公司，据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085183576744833214",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX’s total backlog was $47.5 billion at the end of the quarter.\n\nRead more: https://t.co/DcAPvbryLj",
+    "tweet_url": "https://x.com/unusual_whales/status/2085183576744833214",
+    "published_at": "2026-08-06T01:58:00+00:00",
+    "fetched_at": "2026-08-06T07:34:42.504876+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "SpaceX的积压订单达475亿美元，显示其商业火箭发射和星链等业务需求强劲，对太空经济及SpaceX相关概念（若上市）具有积极信号。",
+      "translation": "SpaceX在季度末的总积压订单为475亿美元。",
       "confidence": "medium"
     }
   },

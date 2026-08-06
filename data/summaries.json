@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AEVA",
-      "$NVDA",
-      "$LITE",
-      "$CPO"
+      "SIVE",
+      "NVDA",
+      "AAOI",
+      "LITE",
+      "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "CPO/NPO光学互连架构的加速发展",
-      "上游激光器与光子学供应链瓶颈",
-      "超大规模数据中心资本开支持续增长",
-      "AI基础设施需求结构性增长",
-      "内存与半导体供应链紧张"
+      "AI基础设施建设与算力需求",
+      "光学互连与CPO（共封装光学）",
+      "内存与存储芯片短缺",
+      "人形机器人与自动化",
+      "供应链瓶颈与上游半导体"
     ],
-    "recent_shift": "近期观察显示，CPO相关进展及测试收入开始显现，供应链瓶颈仍存，整体对AI基础设施需求保持乐观。",
+    "recent_shift": "近期观点更加强调短期市场回调是杠杆清算所致，但长期基本面（AI需求、光学互连、内存短缺）仍然强劲。",
     "representative_quotes": [
-      "TLDR: New TAM and a hyperscaler programs for Aeva for CPO/NPO, positive read through for upstream suppliers like $SIVE.",
-      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now.",
-      "Basically, all the timelines seem to be the same as before and revenue is starting to hit testing players first."
+      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
+      "My 'bottleneck' thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Gets rerated when their inflection period hits and capex flows into their balance sheets.",
+      "After seeing this, bears are still probably going to say: 'B-but where's the profit coming from after AI usage?' AI + capex is likely going to keep going brrr."
     ],
-    "generated_at": "2026-08-06T04:56:54.210875+00:00"
+    "generated_at": "2026-08-06T07:34:54.911312+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
+      "SPCX",
       "NVDA",
       "PLTR",
-      "SNDK",
-      "AMD"
+      "META",
+      "MSFT"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "科技股与AI投资热",
-      "地缘政治与能源安全",
-      "美联储货币政策"
+      "AI基础设施大规模建设",
+      "市场高位与回调风险",
+      "地缘政治与供应链波动",
+      "企业财报与盈利预期",
+      "央行政策与市场流动性"
     ],
-    "recent_shift": "近期观点由前期的谨慎转为明显看多，强调市场创新高和积极投资机会。",
+    "recent_shift": "近期从对市场高位持谨慎态度转向更关注具体个股和事件驱动机会。",
     "representative_quotes": [
-      "BREAKING: Trump has said that \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\"",
       "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "The market continually has hit new all time highs this year."
+      "Huang highlighted the massive buildout of AI data centers, describing it as the \"largest infrastructure buildout in human history.\"",
+      "BREAKING: SpaceX, $SPCX, has said they have \"$100 billion in cash\""
     ],
-    "generated_at": "2026-08-06T04:57:00.504053+00:00"
+    "generated_at": "2026-08-06T07:34:57.478722+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
