@@ -26,24 +26,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "META",
-      "PLTR",
+      "MSFT",
+      "AMZN",
       "NVDA",
-      "AMZN"
+      "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "市场接近顶部",
-      "中东局势与油价",
-      "AI投资与数据基建"
+      "地缘政治风险与市场波动",
+      "AI基础设施投资",
+      "大宗商品与通胀",
+      "市场估值过高"
     ],
-    "recent_shift": "近期观点略显谨慎，转向关注市场顶部和地缘风险，但仍看好AI和SpaceX等主题。",
+    "recent_shift": "近期观点从乐观转向谨慎，强调市场接近顶部，并增加对冲操作。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has bet against the rally, saying, 'We are near a major top, and possible a 1987-type fall'",
-      "BREAKING: SpaceX, $SPCX, has said they have '$100 billion in cash'",
-      "BREAKING: Palantir, $PLTR, earnings: Revenue: $1.93 billion, est: $1.81 billion, EPS: $0.41, est: $0.35"
+      "BREAKING: Michael Burry has said we are near the top of the market",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "BREAKING: Iran has reportedly signaled it is willing to reopen the Strait of Hormuz, but is seeking transit fees, security guarantees against future attacks, an end to the U.S. naval blockade, and relief from U.S. oil sanctions."
     ],
-    "generated_at": "2026-08-06T12:26:07.897366+00:00"
+    "generated_at": "2026-08-06T14:44:01.267500+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

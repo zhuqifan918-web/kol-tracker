@@ -1,5 +1,104 @@
 [
   {
+    "tweet_id": "2085369552507170937",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
+    "tweet_url": "https://x.com/unusual_whales/status/2085369552507170937",
+    "published_at": "2026-08-06T14:17:00+00:00",
+    "fetched_at": "2026-08-06T14:43:38.533808+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通CEO戴蒙指出，融资余额（margin debt）处于历史最高水平，这通常被视为市场杠杆过高、潜在回调风险的信号。投资者需警惕市场脆弱性增加。",
+      "translation": "摩根大通的杰米·戴蒙：融资余额达到了历史最高水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085364519250035060",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Microsoft, $MSFT, has opened its fourth data center region in India",
+    "tweet_url": "https://x.com/unusual_whales/status/2085364519250035060",
+    "published_at": "2026-08-06T13:57:00+00:00",
+    "fetched_at": "2026-08-06T14:43:39.937318+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "微软在印度开设第四个数据中心区域，表明其云基础设施的持续扩张，可能增强其市场地位和收入潜力，利好MSFT股票。",
+      "translation": "微软，$MSFT，已在印度开设了第四个数据中心区域。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085354452949582234",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Deutsche Bank has said gold’s fair market value is $4,700",
+    "tweet_url": "https://x.com/unusual_whales/status/2085354452949582234",
+    "published_at": "2026-08-06T13:17:00+00:00",
+    "fetched_at": "2026-08-06T14:43:42.395803+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "德意志银行认为黄金的公允价值为4700美元，这一观点表明对黄金价格前景持乐观态度，可能预示着金价有上涨空间。",
+      "translation": "德意志银行表示，黄金的公允市场价值为4700美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085349419923222610",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley expects that global cloud capital spending will reach $1.2 trillion in 2027",
+    "tweet_url": "https://x.com/unusual_whales/status/2085349419923222610",
+    "published_at": "2026-08-06T12:57:00+00:00",
+    "fetched_at": "2026-08-06T14:43:43.656026+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根士丹利预测全球云资本支出将在2027年达到1.2万亿美元，这反映了对云计算基础设施投资的强劲增长预期，有望利好相关科技公司。",
+      "translation": "摩根士丹利预计，2027年全球云资本支出将达到1.2万亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085344387345612959",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, says it recieved a $2.2 billion refund, per Newsweek.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085344387345612959",
+    "published_at": "2026-08-06T12:37:00+00:00",
+    "fetched_at": "2026-08-06T14:43:45.274473+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "苹果收到22亿美元退款，可能增加现金流，对股价构成利好，但需关注具体原因及持续性。",
+      "translation": "苹果，$AAPL，表示根据新闻周刊报道，收到了22亿美元的退款。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085319220611428744",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -83,6 +182,25 @@
       "direction": "bullish",
       "summary": "作者认为Unitree在衍生品市场的隐含市值（293亿美元）远高于其IPO目标估值（57-62亿美元），存在巨大价差，并预测IPO后可能带动机器人板块估值上升。他提到相关供应链公司如Leaderdrive、Harmonic Drive和OUST，认为板块龙头可能提升整体估值。",
       "translation": "好久没发随想了！现在继续，只是最近做了几次手术，恢复期间想减少发帖频率。另外在给粉丝准备一些特别的东西，不久会公布，但可能需要一些时间。总之，今天发现一件有趣的事：Unitree在衍生品市场的隐含市值已达293亿美元。正如$CBRS和$SPCX的IPO所示，IPO前永续合约的价格与开盘价惊人地接近（例如，Cerebras开盘价约为155美元，与150美元相差约1.3%；SpaceX也是如此）。顺便提一下，我觉得区块链确实找到了新的令人信服的用例……总之，相对于本月预期的IPO目标价（57亿-62亿美元），出现了+370%/4.7倍至+414%/5.1倍的巨大价差。如果一切顺利，可能会对机器人行业产生光环效应，维持其估值。机器人供应链的玩家包括Leaderdrive、Harmonic Drive、$OUST等（仅供参考，非投资建议）。我也觉得$SPCX是个不好的例子，因为RocketLab、ASTS都随其上涨，也随其下跌。但据我观察，通常行业领导者会带动其他玩家的估值上升，如$LITE和更广泛的光学生态系统。至于人形机器人领导者的时间线：Unitree ~本月下旬是官方时间，例如8月20日，因为8月10日是订阅，14日是最终发行结果。Agility Robotics ~我猜是10月至12月（目标Q4，根据投资者时间线）。"
+    }
+  },
+  {
+    "tweet_id": "2085224597063147760",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The metric has been in a long-term decline since peaking at ~52% in the 1940s. Between the 1940s and the 1960s, this percentage never fell below 48%.\n\nRead more: https://t.co/lEHJCvsScu",
+    "tweet_url": "https://x.com/unusual_whales/status/2085224597063147760",
+    "published_at": "2026-08-06T04:41:00+00:00",
+    "fetched_at": "2026-08-06T14:43:52.696216+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了一个长期下降的宏观指标（从1940年代的约52%降至当前水平），并提及1940至1960年代该指标从未低于48%，可能涉及经济或市场结构分析，但未明确指向具体投资标的或给出明确操作建议。",
+      "translation": "该指标自1940年代达到约52%的峰值以来一直处于长期下降趋势。在1940年代至1960年代之间，这一百分比从未低于48%。",
+      "confidence": "low"
     }
   },
   {
