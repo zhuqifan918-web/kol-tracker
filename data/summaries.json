@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "NVDA",
       "AAOI",
       "LITE",
-      "GOOGL"
+      "NVDA",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设与算力需求",
-      "光学互连与CPO（共封装光学）",
-      "内存与存储芯片短缺",
-      "人形机器人与自动化",
-      "供应链瓶颈与上游半导体"
+      "AI算力基础设施资本开支持续增长",
+      "光通信与硅光子（CPO）成为核心瓶颈",
+      "内存（DRAM/NAND）供不应求",
+      "人形机器人与供应链机会",
+      "上游半导体材料与设备紧缺"
     ],
-    "recent_shift": "近期观点更加强调短期市场回调是杠杆清算所致，但长期基本面（AI需求、光学互连、内存短缺）仍然强劲。",
+    "recent_shift": "近期从对市场短期调整的担忧，转向强调基本面未变、长期结构性需求强劲，并认为市场将复苏。",
     "representative_quotes": [
+      "I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.",
       "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
-      "My 'bottleneck' thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Gets rerated when their inflection period hits and capex flows into their balance sheets.",
-      "After seeing this, bears are still probably going to say: 'B-but where's the profit coming from after AI usage?' AI + capex is likely going to keep going brrr."
+      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now."
     ],
-    "generated_at": "2026-08-06T07:34:54.911312+00:00"
+    "generated_at": "2026-08-06T10:28:36.907502+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
