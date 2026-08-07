@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "LITE",
       "AAOI",
-      "SNDK",
-      "NVDA"
+      "LITE",
+      "NVDA",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "CPO光互连与激光器瓶颈",
-      "AI算力基础设施资本开支持续扩张",
-      "内存（DRAM/NAND/HBM）供需紧张",
-      "人形机器人及供应链",
-      "美国供应链本土化与关税"
+      "光互连和CPO供应链瓶颈",
+      "AI基础设施投资持续增长",
+      "半导体和记忆体供应紧张",
+      "美中科技脱钩和供应链转移",
+      "人形机器人和太空探索"
     ],
-    "recent_shift": "近期观点未发生根本转变，仍坚持AI硬件需求强劲和瓶颈理论，但提到短期市场因去杠杆和情绪波动而下跌，认为回调是买入机会。",
+    "recent_shift": "最近情绪转为更乐观，认为市场回调是去杠杆而非基本面恶化，并预期AI相关需求将复苏。",
     "representative_quotes": [
-      "When you have Jim Cramer telling every margined DC trader to 'sell everything'... I do hate it when others say 'it's dropping so sell'.",
-      "Hard to see those memory 'oversupply' claims in early-mid 2027 when they're all sold out of capacity already.",
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
+      "TLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier.",
+      "I personally see it as extreme short term deleveraging that overshot many individual names.",
+      "TLDR: I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track."
     ],
-    "generated_at": "2026-08-07T05:11:22.219374+00:00"
+    "generated_at": "2026-08-07T08:07:28.551220+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

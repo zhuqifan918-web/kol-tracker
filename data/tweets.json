@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2085628664528662818",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.\n\nJust as a recap from $POET / $SIVE Linkedin OSINT mapping I shared earlier, Lumilens was supplying a top 3 hyperscaler customer. \n\nSo we got confirmation of that a month later, along with the material figure that Lumilens has a \"multi-billion-dollar customer agreement\". \n\nAnd just for reference, $POET has existing contracts with Lumilens ($50m purchase order, up to $500m) + contracts with $SIVE (depending on product lines). \n\nI actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers (on top of Poet's really large balance sheet). \n\nBut TLDR: \n> Lumilens around similar (or even higher) valuations as Lightmatter/Ayar, bigger than markets thought with hyperscaler customers. \n> nice read through upstream on $POET (derisking) /  $SIVE.\n> Great for optical valuations in general, seeing a company go to $5.5B in 2 years.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085628664528662818",
+    "published_at": "2026-08-07T07:26:37+00:00",
+    "fetched_at": "2026-08-07T08:06:32.112856+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "POET",
+        "SIVE",
+        "LUMILENS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为Lumilens以55亿美元估值和7亿美元融资出隐身，并拥有数十亿美元客户协议，验证了此前对POET和SIVE的利好分析，作者因此小幅买入POET，整体看多光学互连板块及相关股票估值。",
+      "translation": "今天早些时候，光互连公司Lumilens以55亿美元的估值“走出隐身模式”，此前已融资7亿美元。正如我之前根据$POET/$SIVE的LinkedIn OSINT映射所分享的，Lumilens当时正在供应一家顶级超大规模客户。一个月后，我们得到了证实，以及一个重要数字：Lumilens拥有“数十亿美元的客户协议”。作为参考，$POET与Lumilens已有合同（5000万美元采购订单，最高可达5亿美元），并与$SIVE有合同（视产品线而定）。在读到这条新闻后，我实际上再次小幅建仓了POET，因为这终于让他们看到了资金极其充裕的超大规模供应商（再加上POET非常庞大的资产负债表）。但总结一下：> Lumilens的估值与Lightmatter/Ayar相当（甚至更高），比市场想象的要大，拥有超大规模客户。> 对上游$POET（去风险）/$SIVE有很好的传导。> 对光学估值整体利好，看到一家公司在两年内达到55亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085577928683962477",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
