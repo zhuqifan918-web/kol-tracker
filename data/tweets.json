@@ -42,6 +42,25 @@
     }
   },
   {
+    "tweet_id": "2085556671712297190",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "造孽了minimax卖飞了 https://t.co/pdKRgHluq4",
+    "tweet_url": "https://x.com/xiaomustock/status/2085556671712297190",
+    "published_at": "2026-08-07T02:40:32+00:00",
+    "fetched_at": "2026-08-07T06:41:30.305330+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "用户表示卖飞了Minimax的股票，感到懊悔，但没有提供具体操作建议或市场分析。",
+      "translation": "造孽了，Minimax卖飞了。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2085554269688565876",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
