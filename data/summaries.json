@@ -26,25 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "MSFT",
-      "PLTR",
+      "META",
       "NVDA",
-      "META"
+      "PLTR",
+      "MSFT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI与数据中心建设",
-      "地缘政治风险（霍尔木兹海峡）",
-      "市场情绪与工具推广",
-      "盈利超预期"
+      "人工智能基础设施",
+      "美股创纪录新高",
+      "市场波动与地缘政治"
     ],
-    "recent_shift": "近期从对市场高位担忧转向关注AI基础设施建设和地缘政治缓和带来的乐观情绪。",
+    "recent_shift": "近期观点从对市场持谨慎态度转向对人工智能和股票市场的乐观情绪。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has bet against the rally, saying, 'We are near a major top, and possible a 1987-type fall'",
-      "BREAKING: Trump has said that 'The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!'",
-      "BREAKING: SpaceX, $SPCX, earnings: Revenue: $7.81 billion, est: $6.82 billion"
+      "BREAKING: S&P500 has hit an all time high.",
+      "BREAKING: Elon Musk says he think SpaceX, $SPCX, is an insane opportunity in the stock market",
+      "Tom Lee has said the S&P500 will hit 8,000 in August."
     ],
-    "generated_at": "2026-08-07T00:21:59.157756+00:00"
+    "generated_at": "2026-08-07T03:26:51.467244+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

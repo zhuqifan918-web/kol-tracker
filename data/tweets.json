@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2085554269688565876",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "He added that new highs on the S&amp;P 500 will likely pull fresh money into the market before any reversal.\n\nRead more: https://t.co/bAOKamnwHq",
+    "tweet_url": "https://x.com/unusual_whales/status/2085554269688565876",
+    "published_at": "2026-08-07T02:31:00+00:00",
+    "fetched_at": "2026-08-07T03:26:25.954167+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出，标普500指数创出新高可能会吸引新的资金流入市场，从而在反转之前进一步推高市场。这是一个看涨的观点，认为市场在见顶前仍有上涨空间。",
+      "translation": "他补充说，标普500指数创出新高可能会在出现任何反转之前吸引新的资金进入市场。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085530865074123163",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "In a recent Federal Open Market Committee (FOMC) meeting, three officials, including Kashkari, dissented from the majority decision to keep rates unchanged.\n\nRead more: https://t.co/PJcm3vcXcE",
+    "tweet_url": "https://x.com/unusual_whales/status/2085530865074123163",
+    "published_at": "2026-08-07T00:58:00+00:00",
+    "fetched_at": "2026-08-07T03:26:33.334625+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储FOMC会议中有三位官员（包括卡什卡利）对维持利率不变的决议投了反对票，显示内部存在分歧。这一消息可能对市场情绪产生一定影响，但未明确指向具体资产方向。",
+      "translation": "在最近一次联邦公开市场委员会（FOMC）会议上，包括卡什卡利在内的三位官员对维持利率不变的多数决定投了反对票。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085524390981316711",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Meta, $META, must pay $567 million into a fund to remedy its role in a youth mental health crisis, on top of a previously decided $375 million in penalties, a New Mexico judge ruled, per CNN.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085524390981316711",
+    "published_at": "2026-08-07T00:32:16+00:00",
+    "fetched_at": "2026-08-07T03:26:35.288922+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "Meta因青少年心理健康危机被判支付5.67亿美元罚款，加上此前3.75亿美元罚款，总计近9.4亿美元，构成负面新闻，可能影响其股价表现。",
+      "translation": "突发：Meta（$META）必须支付5.67亿美元进入一个基金，以弥补其在青少年心理健康危机中的角色，再加上此前判决的3.75亿美元罚款，新墨西哥州法官裁定，据CNN报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085512668757319870",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
