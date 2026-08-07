@@ -1,5 +1,51 @@
 [
   {
+    "tweet_id": "2085711807617155106",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry has said he is shorting Oracle, $ORCL, and Nebius, $NBIS, because he believes companies loaded with off-balance-sheet liabilities have become “very fat, very large, easy to shoot” fish.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085711807617155106",
+    "published_at": "2026-08-07T12:57:00+00:00",
+    "fetched_at": "2026-08-07T13:46:19.410966+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ORCL",
+        "NBIS"
+      ],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里表示正在做空甲骨文和Nebius，因为他认为这些公司表外负债沉重，已成为“非常臃肿、非常庞大、易于狙击”的目标。这暗示他认为这两只股票估值过高或存在风险。",
+      "translation": "迈克尔·伯里表示他正在做空甲骨文和Nebius，因为他认为那些表外负债沉重的公司已经变得“非常臃肿、非常庞大、易于射杀”。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085711500875116887",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Some more TLDR takeaways from $AAOI ER:\n\n- They also flagged DSP and TIA bottlenecks, which is a positive industry read through for names like $MXL, then $SMTC and $MTSI. \n\n- For revenue growth, they're expecting more than $500 million revenue Q4, which is absurd growth. \n\nFor reference:\nQ2: $191.9M\nQ3: ~$255M-$290M\nQ4: $500M+\nBy mid-2027: ~$1.41B quarterly revenue run-rate\n\nAlways impressed by the revenue ramp from some of these optical players.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085711500875116887",
+    "published_at": "2026-08-07T12:55:47+00:00",
+    "fetched_at": "2026-08-07T13:45:44.574957+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "MXL",
+        "SMTC",
+        "MTSI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了AAOI财报，提到DSP和TIA瓶颈对MXL、SMTC、MTSI等公司是积极信号，且AAOI的营收增长预期强劲，Q4预计超5亿美元，整体看好光通信板块。",
+      "translation": "关于$AAOI财报的一些TLDR要点：- 他们还提到了DSP和TIA瓶颈，这对$MXL等公司来说是积极的行业信号，还有$SMTC和$MTSI。- 对于营收增长，他们预计第四季度营收将超过5亿美元，这增长惊人。仅供参考：第二季度：1.919亿美元；第三季度：约2.55亿-2.9亿美元；第四季度：5亿+美元；到2027年年中：季度营收运行率约为14.1亿美元。一直对某些光通信公司的营收飙升印象深刻。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085696708114256229",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -84,6 +130,25 @@
       "summary": "该推文认为Lumilens以55亿美元估值和7亿美元融资出隐身，并拥有数十亿美元客户协议，验证了此前对POET和SIVE的利好分析，作者因此小幅买入POET，整体看多光学互连板块及相关股票估值。",
       "translation": "今天早些时候，光互连公司Lumilens以55亿美元的估值“走出隐身模式”，此前已融资7亿美元。正如我之前根据$POET/$SIVE的LinkedIn OSINT映射所分享的，Lumilens当时正在供应一家顶级超大规模客户。一个月后，我们得到了证实，以及一个重要数字：Lumilens拥有“数十亿美元的客户协议”。作为参考，$POET与Lumilens已有合同（5000万美元采购订单，最高可达5亿美元），并与$SIVE有合同（视产品线而定）。在读到这条新闻后，我实际上再次小幅建仓了POET，因为这终于让他们看到了资金极其充裕的超大规模供应商（再加上POET非常庞大的资产负债表）。但总结一下：> Lumilens的估值与Lightmatter/Ayar相当（甚至更高），比市场想象的要大，拥有超大规模客户。> 对上游$POET（去风险）/$SIVE有很好的传导。> 对光学估值整体利好，看到一家公司在两年内达到55亿美元。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085584468556087732",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "At present, the company has not revealed any timeline, investment size or details on robot deployment.\n\nRead more: https://t.co/BYzSVaneF4",
+    "tweet_url": "https://x.com/unusual_whales/status/2085584468556087732",
+    "published_at": "2026-08-07T04:31:00+00:00",
+    "fetched_at": "2026-08-07T13:46:28.229957+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出公司尚未公布机器人部署的时间表、投资规模或细节，属于公司业务进展的官方声明，对投资影响中性。",
+      "translation": "目前，公司尚未透露任何关于机器人部署的时间表、投资规模或细节。",
+      "confidence": "medium"
     }
   },
   {

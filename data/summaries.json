@@ -2,50 +2,49 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "AAOI",
       "LITE",
-      "COHR",
-      "AMD"
+      "AAOI",
+      "NVDA",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信与激光器瓶颈",
-      "CPO/硅光子学供应链",
-      "AI资本开支持续增长",
-      "内存短缺",
-      "人形机器人"
+      "AI基础设施资本开支持续增长",
+      "光通信与CPO技术瓶颈",
+      "存储芯片供不应求",
+      "机器人产业兴起",
+      "供应链瓶颈与上游受益"
     ],
-    "recent_shift": "近期观点从关注市场回调转为强调基本面强劲，认为回调是杠杆去化而非基本面恶化。",
+    "recent_shift": "近期观点未变，但在市场大跌后强调基本面未变，呼吁投资者坚持长期持有，并认为恐慌性抛售是买入机会。",
     "representative_quotes": [
-      "Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations.",
-      "Hyperscaler capex is one of the most important things to track. And my guess is that we'll see the theme recover broadly.",
-      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now."
+      "I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
+      "Hyperscaler capex is one of the most important things to track.",
+      "I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track."
     ],
-    "generated_at": "2026-08-07T09:30:11.227603+00:00"
+    "generated_at": "2026-08-07T13:46:45.378818+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$META",
-      "$NVDA",
-      "$PLTR",
-      "$AMZN"
+      "SPCX",
+      "META",
+      "MSFT",
+      "NVDA",
+      "ORCL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "美联储利率政策与通胀",
-      "加密货币与风险投资",
-      "地缘政治与能源安全",
-      "AI与半导体行业",
-      "市场波动与投资者保护"
+      "地缘政治风险与市场波动",
+      "科技巨头与AI基础设施投资",
+      "市场估值过高与回调担忧",
+      "利率政策与通胀预期"
     ],
-    "recent_shift": "态度从乐观转向谨慎，对冲市场风险并关注地缘政治不确定性。",
+    "recent_shift": "近期态度从乐观转为谨慎，强调市场接近顶部并可能面临大幅回调。",
     "representative_quotes": [
-      "Michael Burry has said we are near the top of the market",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
-      "Trump has said that \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\""
+      "Michael Burry has said he is shorting Oracle, $ORCL, and Nebius, $NBIS, because he believes companies loaded with off-balance-sheet liabilities have become “very fat, very large, easy to shoot” fish.",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
     ],
-    "generated_at": "2026-08-07T12:06:15.825665+00:00"
+    "generated_at": "2026-08-07T13:46:42.352771+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
