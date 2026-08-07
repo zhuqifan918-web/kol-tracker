@@ -813,6 +813,25 @@
     }
   },
   {
+    "tweet_id": "2085389685321335074",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: There have been a record number of S&amp;P500 call options purchased, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085389685321335074",
+    "published_at": "2026-08-06T15:37:00+00:00",
+    "fetched_at": "2026-08-07T22:03:32.543455+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "根据彭博社报道，标普500看涨期权的购买量创下历史新高，这通常被视作市场情绪极度乐观的信号，可能预示着短期内股市继续上涨，但也需警惕过度投机和回调风险。",
+      "translation": "突发新闻：据彭博社报道，标普500看涨期权的购买量创下历史新高。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085369552507170937",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
