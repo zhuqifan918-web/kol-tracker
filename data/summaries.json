@@ -9,42 +9,42 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力基础设施资本开支持续增长",
-      "光通信与硅光子（CPO）成为核心瓶颈",
-      "内存（DRAM/NAND）供不应求",
-      "人形机器人与供应链机会",
-      "上游半导体材料与设备紧缺"
+      "AI基础设施与算力投资持续增长",
+      "光通信与CPO供应链瓶颈",
+      "存储芯片与内存短缺",
+      "人形机器人产业加速",
+      "台积电与先进封装产能扩张"
     ],
-    "recent_shift": "近期从对市场短期调整的担忧，转向强调基本面未变、长期结构性需求强劲，并认为市场将复苏。",
+    "recent_shift": "近期观点没有明显转变，但强调市场回调是流动性问题而非基本面变化。",
     "representative_quotes": [
-      "I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.",
-      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade.",
-      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now."
+      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
+      "Would be pretty large price discrepancy. And might might a halo effect around the robotics sector if it goes well maintains valuations.",
+      "TLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier."
     ],
-    "generated_at": "2026-08-06T10:28:36.907502+00:00"
+    "generated_at": "2026-08-07T00:22:02.483035+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
       "MSFT",
-      "AMZN",
+      "PLTR",
       "NVDA",
-      "PLTR"
+      "META"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治风险与市场波动",
-      "AI基础设施投资",
-      "大宗商品与通胀",
-      "市场估值过高"
+      "AI与数据中心建设",
+      "地缘政治风险（霍尔木兹海峡）",
+      "市场情绪与工具推广",
+      "盈利超预期"
     ],
-    "recent_shift": "近期观点从乐观转向谨慎，强调市场接近顶部，并增加对冲操作。",
+    "recent_shift": "近期从对市场高位担忧转向关注AI基础设施建设和地缘政治缓和带来的乐观情绪。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has said we are near the top of the market",
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "BREAKING: Iran has reportedly signaled it is willing to reopen the Strait of Hormuz, but is seeking transit fees, security guarantees against future attacks, an end to the U.S. naval blockade, and relief from U.S. oil sanctions."
+      "BREAKING: Michael Burry has bet against the rally, saying, 'We are near a major top, and possible a 1987-type fall'",
+      "BREAKING: Trump has said that 'The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!'",
+      "BREAKING: SpaceX, $SPCX, earnings: Revenue: $7.81 billion, est: $6.82 billion"
     ],
-    "generated_at": "2026-08-06T14:44:01.267500+00:00"
+    "generated_at": "2026-08-07T00:21:59.157756+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
