@@ -1,5 +1,29 @@
 [
   {
+    "tweet_id": "2085823672569467005",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There we go, White House finally invests in more breath in critical minerals/materials. Amazing policy move, as a TLDR:\n\n- $WWR receives $25M (graphite)\n- $SRL (ASX) receives $400M (Scandium)\n- $FEAM receives $8M (Boron)\n- $HREE receives $4.8M (magnet rare earths)\n\nout of the public companies. \n\nWith more private investments from $150 million into Niron Magnetics or $85 million into Standard Bauxite. \n\nIt's literally spare change to the US gov, for ENORMOUS amount of downstream applications. \n\nMore should be done with funding amounts to accelerate development and derisk supply chains (don't own any of the above, just support the policy move), but great announcement.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085823672569467005",
+    "published_at": "2026-08-07T20:21:30+00:00",
+    "fetched_at": "2026-08-07T20:29:30.975657+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WWR",
+        "SRL",
+        "FEAM",
+        "HREE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文对美国政府投资关键矿物和材料的政策表示支持，认为这对相关上市公司和行业是重大利好。提到的公司包括WWR、SRL、FEAM和HREE，这些公司获得了政府资助，可能受益于政策推动。整体态度积极，但作者不持有这些股票。",
+      "translation": "白宫最终在关键矿物/材料方面投入更多资金，这是一个令人惊叹的政策举措。简要总结：上市公司中，$WWR获得2500万美元（石墨），$SRL（ASX）获得4亿美元（钪），$FEAM获得800万美元（硼），$HREE获得480万美元（磁铁稀土）。此外还有更多私人投资，如向Niron Magnetics投资1.5亿美元，或向Standard Bauxite投资8500万美元。对美国来说，这只是零花钱，却能带来巨大的下游应用。应该投入更多资金以加速发展和降低供应链风险（我不持有上述任何股票，只是支持这一政策举措），但这是很棒的公告。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085812470632108194",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
