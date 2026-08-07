@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2085577928683962477",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'll be honest I'm not familiar with polysilicon or solar supply chains but I'm reading into it now.\n\nThere's another claim around the same time that Musk has finalized equipment contracts for 400,000 metric tons of polysilicon capacity for $TSLA and $SPCX as well, which came about the same time. \n\n\"supplied by the Shanghai subsidiary of Japan's Morisimatsu, Chemical Complete Equipment,\"\n\nBut TLDR: U.S. administration is preparing tariffs and price floors covering imported polysilicon, wafers, cells and modules\n\nI'm just looking at potential beneficaries like Wacker Chemie ( $WCH ) that operates US polysilicon factories. Or $GSM which is upstream of polysilicon (330,000 tons of silicon metal capacity apparently).\n\nBut still doing research",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085577928683962477",
+    "published_at": "2026-08-07T04:05:01+00:00",
+    "fetched_at": "2026-08-07T05:10:23.880877+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA",
+        "WCH",
+        "GSM"
+      ],
+      "direction": "bullish",
+      "summary": "推文关注美国对进口多晶硅等产品征收关税和设置价格下限的潜在政策，认为这将利好美国本土生产商如Wacker Chemie（WCH）和上游硅金属生产商GSM，同时也提及特斯拉（TSLA）相关设备合同。整体看多相关受益股。",
+      "translation": "说实话，我对多晶硅或太阳能供应链并不熟悉，但我现在正在阅读相关资料。大约在同一时间，有另一个说法称，马斯克已经为$TSLA和$SPCX敲定了40万吨多晶硅产能的设备合同，这个说法也差不多同时出现。\"设备由日本Morisimatsu的上海子公司Chemical Complete Equipment供应\"。但简单总结：美国政府正在准备对进口多晶硅、硅片、电池片和组件征收关税并设置最低价格。我只是在寻找潜在的受益者，比如在美國运营多晶硅工厂的Wacker Chemie（$WCH）。或者$GSM，它是多晶硅的上游（据说有33万吨硅金属产能）。但我还在研究中。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085576163590885655",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The bank now sees three consecutive quarter-point increases at the September, October, and December meetings.\n\nRead more: https://t.co/Tg8yORXqAM",
+    "tweet_url": "https://x.com/unusual_whales/status/2085576163590885655",
+    "published_at": "2026-08-07T03:58:00+00:00",
+    "fetched_at": "2026-08-07T05:11:01.384061+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该银行预计将在9月、10月和12月连续三次加息，每次25个基点。这暗示紧缩的货币政策可能对市场流动性造成压力，对股市构成利空影响。",
+      "translation": "该银行现在预计在9月、10月和12月的会议上将连续三次加息，每次加息25个基点。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085554269688565876",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

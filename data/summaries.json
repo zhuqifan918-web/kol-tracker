@@ -2,48 +2,50 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "AAOI",
       "LITE",
-      "NVDA",
-      "SNDK"
+      "AAOI",
+      "SNDK",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力投资持续增长",
-      "光通信与CPO供应链瓶颈",
-      "存储芯片与内存短缺",
-      "人形机器人产业加速",
-      "台积电与先进封装产能扩张"
+      "CPO光互连与激光器瓶颈",
+      "AI算力基础设施资本开支持续扩张",
+      "内存（DRAM/NAND/HBM）供需紧张",
+      "人形机器人及供应链",
+      "美国供应链本土化与关税"
     ],
-    "recent_shift": "近期观点没有明显转变，但强调市场回调是流动性问题而非基本面变化。",
+    "recent_shift": "近期观点未发生根本转变，仍坚持AI硬件需求强劲和瓶颈理论，但提到短期市场因去杠杆和情绪波动而下跌，认为回调是买入机会。",
     "representative_quotes": [
-      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
-      "Would be pretty large price discrepancy. And might might a halo effect around the robotics sector if it goes well maintains valuations.",
-      "TLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier."
+      "When you have Jim Cramer telling every margined DC trader to 'sell everything'... I do hate it when others say 'it's dropping so sell'.",
+      "Hard to see those memory 'oversupply' claims in early-mid 2027 when they're all sold out of capacity already.",
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
     ],
-    "generated_at": "2026-08-07T00:22:02.483035+00:00"
+    "generated_at": "2026-08-07T05:11:22.219374+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
       "META",
       "NVDA",
-      "PLTR",
+      "AMZN",
       "MSFT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施",
-      "美股创纪录新高",
-      "市场波动与地缘政治"
+      "AI基础设施大规模投资",
+      "降息预期与市场新高",
+      "地缘政治风险缓和对油价的影响",
+      "市场杠杆与泡沫风险关切",
+      "太空经济与SpaceX的上市"
     ],
-    "recent_shift": "近期观点从对市场持谨慎态度转向对人工智能和股票市场的乐观情绪。",
+    "recent_shift": "账号对市场态度从谨慎转向偏乐观，主要因AI相关支出强劲及政策面支持，但对高杠杆和泡沫风险保持警惕。",
     "representative_quotes": [
-      "BREAKING: S&P500 has hit an all time high.",
-      "BREAKING: Elon Musk says he think SpaceX, $SPCX, is an insane opportunity in the stock market",
-      "Tom Lee has said the S&P500 will hit 8,000 in August."
+      "He added that new highs on the S&P 500 will likely pull fresh money into the market before any reversal.",
+      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
+      "BREAKING: Michael Burry has said we are near the top of the market"
     ],
-    "generated_at": "2026-08-07T03:26:51.467244+00:00"
+    "generated_at": "2026-08-07T05:11:18.849050+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
