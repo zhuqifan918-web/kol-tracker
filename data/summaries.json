@@ -27,24 +27,24 @@
     "focus_tickers": [
       "SPCX",
       "META",
-      "MSFT",
       "NVDA",
+      "PLTR",
       "ORCL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "地缘政治风险与市场波动",
-      "科技巨头与AI基础设施投资",
-      "市场估值过高与回调担忧",
-      "利率政策与通胀预期"
+      "AI基础设施投资",
+      "科技股财报",
+      "地缘政治风险",
+      "市场新高"
     ],
-    "recent_shift": "近期态度从乐观转为谨慎，强调市场接近顶部并可能面临大幅回调。",
+    "recent_shift": "近期观点从对市场高位的担忧转向对科技股和AI相关资产的乐观情绪。",
     "representative_quotes": [
-      "Michael Burry has said he is shorting Oracle, $ORCL, and Nebius, $NBIS, because he believes companies loaded with off-balance-sheet liabilities have become “very fat, very large, easy to shoot” fish.",
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
+      "The market continually has hit new all time highs this year.",
+      "BREAKING: Michael Burry has said we are near the top of the market",
+      "BREAKING: S&P500 has hit an all time high."
     ],
-    "generated_at": "2026-08-07T13:46:42.352771+00:00"
+    "generated_at": "2026-08-07T14:45:32.710515+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
