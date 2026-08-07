@@ -4,24 +4,24 @@
       "SIVE",
       "AAOI",
       "LITE",
-      "NVDA",
-      "MU"
+      "COHR",
+      "AMD"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光互连和CPO供应链瓶颈",
-      "AI基础设施投资持续增长",
-      "半导体和记忆体供应紧张",
-      "美中科技脱钩和供应链转移",
-      "人形机器人和太空探索"
+      "光通信与激光器瓶颈",
+      "CPO/硅光子学供应链",
+      "AI资本开支持续增长",
+      "内存短缺",
+      "人形机器人"
     ],
-    "recent_shift": "最近情绪转为更乐观，认为市场回调是去杠杆而非基本面恶化，并预期AI相关需求将复苏。",
+    "recent_shift": "近期观点从关注市场回调转为强调基本面强劲，认为回调是杠杆去化而非基本面恶化。",
     "representative_quotes": [
-      "TLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier.",
-      "I personally see it as extreme short term deleveraging that overshot many individual names.",
-      "TLDR: I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track."
+      "Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations.",
+      "Hyperscaler capex is one of the most important things to track. And my guess is that we'll see the theme recover broadly.",
+      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now."
     ],
-    "generated_at": "2026-08-07T08:07:28.551220+00:00"
+    "generated_at": "2026-08-07T09:30:11.227603+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
