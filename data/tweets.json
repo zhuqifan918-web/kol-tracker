@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2085826060663365636",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Sony is recouping the majority of the $508 million in US tariff refunds after import levies were ruled unlawful, per YF\n\nRoughly 70% of the funds were collected between April and June 2026 and directed into the PlayStation division, though Sony has no plans to reimburse consumers who paid the higher prices.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085826060663365636",
+    "published_at": "2026-08-07T20:31:00+00:00",
+    "fetched_at": "2026-08-07T21:11:45.225311+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SONY"
+      ],
+      "direction": "bullish",
+      "summary": "索尼获得美国关税退款的大部分资金，并注入PlayStation部门，对公司财务状况构成利好，但未计划补偿消费者，可能影响品牌形象。",
+      "translation": "索尼在进口关税被裁定非法后，收回美国5080万美元关税退款的大部分。约70%的资金在2026年4月至6月间收取，并投入PlayStation部门，但索尼无意补偿支付更高价格的消费者。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085823672569467005",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

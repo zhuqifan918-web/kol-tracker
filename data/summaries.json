@@ -27,24 +27,25 @@
     "focus_tickers": [
       "SPCX",
       "META",
-      "NVDA",
-      "ORCL",
-      "MU"
+      "TSLA",
+      "MSFT",
+      "NVDA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "人工智能与数据中心建设",
-      "地缘政治与能源安全",
-      "市场波动与利率政策",
-      "企业盈利与财务杠杆"
+      "市场见顶与调整风险",
+      "地缘政治影响能源市场",
+      "AI与科技资本开支热潮",
+      "货币政策与通胀预期",
+      "市场情绪过度乐观"
     ],
-    "recent_shift": "近期观点转向更为谨慎，强调市场高位风险及杠杆水平，同时关注政策与地缘政治不确定性。",
+    "recent_shift": "近期观点从对AI和科技股的乐观转向对市场估值过高和潜在回调的担忧，同时关注地缘政治风险。",
     "representative_quotes": [
-      "Michael Burry has said we are near the top of the market",
-      "The sell America trade is returning, per Barclays.",
-      "Bank of America has said that bullish sentiment has 'gone too far'"
+      "We are near a major top, and possible a 1987-type fall",
+      "The sell America trade is returning",
+      "Bullish sentiment has gone too far"
     ],
-    "generated_at": "2026-08-07T19:44:46.514004+00:00"
+    "generated_at": "2026-08-07T21:12:03.157245+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
