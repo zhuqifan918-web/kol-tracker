@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2085750562981843223",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US unemployment rate is now 4.1%, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085750562981843223",
+    "published_at": "2026-08-07T15:31:00+00:00",
+    "fetched_at": "2026-08-07T15:44:45.549642+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报告了美国失业率为4.1%，这是宏观经济数据，对投资市场有参考意义。失业率变化可能影响美联储货币政策，从而影响股市和债市，但推文本身未给出明确的方向性判断。",
+      "translation": "据彭博社报道，美国失业率现为4.1%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085745781479449035",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US unexpectedly lost 23,000 jobs in July.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085745781479449035",
+    "published_at": "2026-08-07T15:12:00+00:00",
+    "fetched_at": "2026-08-07T15:44:48.387722+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国7月非农就业数据意外减少2.3万人，显示劳动力市场降温，可能增加美联储降息预期，但短期对股市构成利空，尤其是与经济周期相关的板块。",
+      "translation": "美国7月意外失去2.3万个工作岗位。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085741000434028893",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Labor force participation rate has fallen to its lowest level since February 2021",
+    "tweet_url": "https://x.com/unusual_whales/status/2085741000434028893",
+    "published_at": "2026-08-07T14:53:00+00:00",
+    "fetched_at": "2026-08-07T15:44:51.085352+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "劳动力参与率降至2021年2月以来最低，表明就业市场疲软，可能对经济产生负面影响，进而对股市构成压力。",
+      "translation": "突发：劳动力参与率已降至2021年2月以来的最低水平。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085726907052790101",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
