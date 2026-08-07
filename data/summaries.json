@@ -27,25 +27,25 @@
     "focus_tickers": [
       "SPCX",
       "META",
-      "TSLA",
       "MSFT",
-      "NVDA"
+      "NVDA",
+      "AMZN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "市场见顶与调整风险",
-      "地缘政治影响能源市场",
-      "AI与科技资本开支热潮",
-      "货币政策与通胀预期",
-      "市场情绪过度乐观"
+      "地缘政治风险与能源安全",
+      "市场估值与泡沫担忧",
+      "财报与盈利表现",
+      "政策与利率走向",
+      "人工智能与科技投资"
     ],
-    "recent_shift": "近期观点从对AI和科技股的乐观转向对市场估值过高和潜在回调的担忧，同时关注地缘政治风险。",
+    "recent_shift": "近期观点从对市场创历史新高的乐观转向对估值过高和潜在回调的担忧，如Michael Burry警告市场接近顶部和可能出现1987年式下跌。",
     "representative_quotes": [
-      "We are near a major top, and possible a 1987-type fall",
-      "The sell America trade is returning",
-      "Bullish sentiment has gone too far"
+      "Michael Burry has said we are near the top of the market",
+      "The sell America trade is returning, per Barclays.",
+      "Inflation now matters more than jobs, per Goldman Sachs"
     ],
-    "generated_at": "2026-08-07T21:12:03.157245+00:00"
+    "generated_at": "2026-08-07T22:03:47.175666+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
