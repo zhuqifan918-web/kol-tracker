@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2085856259501437208",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get insider trades, subscribe to Unusual Whales.\n\nSee more: https://t.co/p10IPF3SbG",
+    "tweet_url": "https://x.com/unusual_whales/status/2085856259501437208",
+    "published_at": "2026-08-07T22:31:00+00:00",
+    "fetched_at": "2026-08-07T23:02:41.645047+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这是一条推广信息，宣传Unusual Whales的订阅服务，该服务提供内部人士交易数据。对投资有参考价值，但本身不包含具体的投资建议或市场分析。",
+      "translation": "要获取内部人士交易信息，请订阅Unusual Whales。查看更多：https://t.co/p10IPF3SbG",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2085841159881154752",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Income needed to buy a US home has flattened, per Redfin.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085841159881154752",
+    "published_at": "2026-08-07T21:31:00+00:00",
+    "fetched_at": "2026-08-07T23:02:43.987744+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到美国购房所需收入趋于平稳，反映了住房市场供需变化，可能影响房地产相关股票和REITs，但未给出明确投资建议。",
+      "translation": "根据Redfin的数据，购买美国房屋所需的收入已经趋于平稳。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085826060663365636",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
