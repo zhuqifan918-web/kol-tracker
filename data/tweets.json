@@ -1,5 +1,50 @@
 [
   {
+    "tweet_id": "2085649654059016387",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I usually make fun of sellside, but Rosenblatt has pretty goated channel checks on optical names, and their reports are one of the few I like talking about. \n\n$AAOI, $LITE, $SIVE, and the laser party has started to recover around the est. timing windows. \n\neg. last month: \"Multiple short sellers told them they will likely close their positions... late July and early August\". \n\nThey might have missed that they believed $AMD would be $AAOI's first CPO customer... since AAOI said they would be missing from first-gen CPO (maybe future gen?)\n\nBut lot of their talking points about China CPO laser positioning (eg. 2-3 years behind) got corroborated word-for-word from AAOI earnings today.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085649654059016387",
+    "published_at": "2026-08-07T08:50:01+00:00",
+    "fetched_at": "2026-08-07T09:29:06.348982+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "LITE",
+        "SIVE",
+        "AMD"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论了Rosenblatt对光通信股票的渠道调查，提到AAOI、LITE、SIVE等标的可能因做空者回补而反弹，并提及AMD可能成为AAOI的首个CPO客户但AAOI未参与第一代CPO。整体观点偏中性，涉及市场时机和行业动态。",
+      "translation": "我通常取笑卖方，但Rosenblatt在光通信股票上的渠道调查相当厉害，他们的报告是我少数喜欢讨论的。$AAOI、$LITE、$SIVE，以及激光板块已开始在预期的时间窗口附近复苏。例如，上个月：“多位做空者告诉他们，他们可能会在7月下旬和8月初平仓。”他们可能忽略了他们认为$AMD会是$AAOI的第一个CPO客户……因为AAOI表示将缺席第一代CPO（也许未来几代？）。但他们关于中国CPO激光定位的许多谈资（例如落后2-3年）在今天AAOI的财报中得到了逐字逐句的证实。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085644051446108223",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (~$6.2B originally per March filing). \n\nDerivative markets are pricing open at an implied $36.04B MC, roughly ~4X listing price. \n\n$CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader, is also going public later in Q4, at a ~$2.5B pre-money valuation.\n\nIt will be interesting to see how markets price in America vs. Chinese Humanoid leaders.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085644051446108223",
+    "published_at": "2026-08-07T08:27:45+00:00",
+    "fetched_at": "2026-08-07T09:29:12.883324+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CCXI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论了中国人形机器人公司Unitree即将进行的IPO，估值达90亿美元，以及美国上市公司Agility Robotics（代码CCXI）计划在Q4上市，估值约25亿美元。推文关注这两个市场对人形机器人领导者的定价差异，但未给出明确的多空观点。",
+      "translation": "中国的人形机器人领导者Unitree本月即将IPO，估值达90亿美元！（根据三月份的文件，最初约为62亿美元）。衍生品市场定价开盘隐含市值为360.4亿美元，大约是上市价格的4倍。$CCXI / Agility Robotics，作为美国首家公开上市的纯人形机器人领导者，也将在Q4晚些时候上市，投资前估值约为25亿美元。看看市场如何对美国和中国的人形机器人领导者定价，将会很有趣。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085628664528662818",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
