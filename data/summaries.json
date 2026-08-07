@@ -27,25 +27,24 @@
     "focus_tickers": [
       "SPCX",
       "META",
+      "NVDA",
       "ORCL",
-      "NBIS",
-      "MRVL"
+      "MU"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "市场泡沫与高位风险",
-      "地缘政治风险与供应中断",
-      "美联储政策与通胀",
-      "AI投资过热",
-      "市场波动性加剧"
+      "人工智能与数据中心建设",
+      "地缘政治与能源安全",
+      "市场波动与利率政策",
+      "企业盈利与财务杠杆"
     ],
-    "recent_shift": "近期观点转向更加谨慎，认为市场接近顶部，并强调高杠杆和泡沫风险。",
+    "recent_shift": "近期观点转向更为谨慎，强调市场高位风险及杠杆水平，同时关注政策与地缘政治不确定性。",
     "representative_quotes": [
       "Michael Burry has said we are near the top of the market",
-      "Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'"
+      "The sell America trade is returning, per Barclays.",
+      "Bank of America has said that bullish sentiment has 'gone too far'"
     ],
-    "generated_at": "2026-08-07T18:40:37.338026+00:00"
+    "generated_at": "2026-08-07T19:44:46.514004+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
