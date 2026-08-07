@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2085812470632108194",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has updated its GEX tool.    \n\nSee where dealers must hedge, as well as market maker positioning visualized.    \n\nIt is a must have tool.    \n\nSee more: https://t.co/rcc3pEccmn https://t.co/C8aAJYa875",
+    "tweet_url": "https://x.com/unusual_whales/status/2085812470632108194",
+    "published_at": "2026-08-07T19:37:00+00:00",
+    "fetched_at": "2026-08-07T19:44:30.150852+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了Unusual Whales更新的GEX工具，用于可视化做市商持仓和强制对冲区域，对期权交易者具有参考价值，但未提供具体交易建议。",
+      "translation": "Unusual Whales更新了其GEX工具。查看做市商必须对冲的位置，以及做市商持仓的可视化。这是一个必备工具。更多信息：https://t.co/rcc3pEccmn https://t.co/C8aAJYa875",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085807437597245491",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085807437597245491",
+    "published_at": "2026-08-07T19:17:00+00:00",
+    "fetched_at": "2026-08-07T19:44:32.676797+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普表态希望美国在AI领域领先，并提及加密货币，但未明确投资建议。该言论可能影响市场情绪，但缺乏具体投资指向。",
+      "translation": "特朗普：AI比石油更重要……我不希望看到中国在AI上获胜……不希望看到中国接管加密货币。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085792338073264518",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
