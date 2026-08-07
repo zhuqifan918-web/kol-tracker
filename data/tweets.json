@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2085696708114256229",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jamie Dimon of JPmorgan has said he would not be a buyer of long-dated government bonds now",
+    "tweet_url": "https://x.com/unusual_whales/status/2085696708114256229",
+    "published_at": "2026-08-07T11:57:00+00:00",
+    "fetched_at": "2026-08-07T12:05:51.039329+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通CEO杰米·戴蒙表示现在不会购买长期政府债券，暗示对长期利率上升或通胀的担忧，可能对债券市场构成利空。",
+      "translation": "摩根大通的杰米·戴蒙表示，他现在不会购买长期政府债券。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085649654059016387",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -426,6 +445,25 @@
       "direction": "neutral",
       "summary": "该推文报道了Leopold Aschenbrenner的Situational Awareness基金在濒临崩溃后向一家私营公司投资4亿美元，这一事件可能反映私募市场的资金动向，但未涉及具体证券或投资建议。",
       "translation": "据彭博社报道，在濒临崩溃数日后，Leopold Aschenbrenner的Situational Awareness基金向一家私营公司投资了4亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085403322241175880",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran's parliamentary National Security and Foreign Policy Committee is reportedly reviewing a preliminary bill to regulate transit and potentially ban US, Israeli, and other designated hostile vessels from the Strait of Hormuz, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2085403322241175880",
+    "published_at": "2026-08-06T16:31:11+00:00",
+    "fetched_at": "2026-08-07T12:06:07.933623+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗可能通过法案限制或禁止美国、以色列等敌对船只通过霍尔木兹海峡，这将增加中东地区的地缘政治风险，可能影响全球原油供应和运输，导致油价上涨，对全球股市和能源相关资产构成负面影响。",
+      "translation": "突发：据路透社报道，伊朗议会国家安全与外交政策委员会正在审议一项初步法案，以规范过境并可能禁止美国、以色列及其他被指定为敌对的船只通过霍尔木兹海峡。",
       "confidence": "medium"
     }
   },

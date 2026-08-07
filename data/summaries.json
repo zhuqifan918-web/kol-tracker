@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "META",
-      "NVDA",
-      "AMZN",
-      "MSFT"
+      "$SPCX",
+      "$META",
+      "$NVDA",
+      "$PLTR",
+      "$AMZN"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施大规模投资",
-      "降息预期与市场新高",
-      "地缘政治风险缓和对油价的影响",
-      "市场杠杆与泡沫风险关切",
-      "太空经济与SpaceX的上市"
+      "美联储利率政策与通胀",
+      "加密货币与风险投资",
+      "地缘政治与能源安全",
+      "AI与半导体行业",
+      "市场波动与投资者保护"
     ],
-    "recent_shift": "账号对市场态度从谨慎转向偏乐观，主要因AI相关支出强劲及政策面支持，但对高杠杆和泡沫风险保持警惕。",
+    "recent_shift": "态度从乐观转向谨慎，对冲市场风险并关注地缘政治不确定性。",
     "representative_quotes": [
-      "He added that new highs on the S&P 500 will likely pull fresh money into the market before any reversal.",
-      "Huang highlighted the massive buildout of AI data centers, describing it as the “largest infrastructure buildout in human history.”",
-      "BREAKING: Michael Burry has said we are near the top of the market"
+      "Michael Burry has said we are near the top of the market",
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
+      "Trump has said that \"The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!\""
     ],
-    "generated_at": "2026-08-07T05:11:18.849050+00:00"
+    "generated_at": "2026-08-07T12:06:15.825665+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
