@@ -1,5 +1,247 @@
 [
   {
+    "tweet_id": "2085512668757319870",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "25% chance the Strait of Hormuz traffic returns to normal by September 30, per Polymarket: https://t.co/FQ26iESHxW",
+    "tweet_url": "https://x.com/unusual_whales/status/2085512668757319870",
+    "published_at": "2026-08-06T23:45:41+00:00",
+    "fetched_at": "2026-08-07T00:21:27.662933+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及地缘政治风险（霍尔木兹海峡通行受阻可能影响全球原油供应），但未指向具体投资标的或方向。投资者可关注原油相关资产，但需自行判断。",
+      "translation": "根据Polymarket数据，霍尔木兹海峡交通在9月30日前恢复正常的概率为25%：https://t.co/FQ26iESHxW",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085511646257332581",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$MTSI earnings transcript: \n\n\"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\"\n\nEmphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\".\n\nCW DFB names, such as like $SIVE and $LITE should be happy to hear about this laser bottleneck getting validated.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085511646257332581",
+    "published_at": "2026-08-06T23:41:38+00:00",
+    "fetched_at": "2026-08-07T00:20:59.721422+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MTSI",
+        "SIVE",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出MTSI的财报电话会议证实了磷化铟DFB激光器供应短缺，客户需求紧迫，这对相关激光器公司（如SIVE和LITE）是利好信号。",
+      "translation": "MTSI财报电话会议：\\\"客户因磷化铟DFB激光器的普遍供应短缺而急切地来找我们\\\"。强调\\\"急切\\\"，关键\\\"DFB激光器\\\"，\\\"来找我们\\\"。DFB激光器相关公司，如SIVE和LITE，应该会高兴听到这一激光器瓶颈得到验证。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085495633134100724",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The FDA approved the first mRNA flu vaccine by Moderna, $MRNA, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2085495633134100724",
+    "published_at": "2026-08-06T22:38:00+00:00",
+    "fetched_at": "2026-08-07T00:21:31.995088+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRNA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到Moderna（MRNA）的mRNA流感疫苗获得FDA批准，这对该公司是重大利好消息，可能推动股价上涨。投资者可关注MRNA的短期表现及疫苗商业化前景。",
+      "translation": "据纽约时报报道，FDA批准了Moderna（$MRNA）的首款mRNA流感疫苗。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085485566683206076",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Elon Musk has stated that Tesla, $TSLA, Terafab will be built in Grimes County, Texas, and that SpaceX and Tesla will invest $16.8 billion for the initial buildout.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085485566683206076",
+    "published_at": "2026-08-06T21:58:00+00:00",
+    "fetched_at": "2026-08-07T00:21:34.739168+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "马斯克宣布特斯拉将在德克萨斯州Grimes县建设Terafab，并与SpaceX共同投资168亿美元进行初期建设，这对特斯拉是重大利好，表明公司扩张计划积极。",
+      "translation": "埃隆·马斯克表示，特斯拉的Terafab将在德克萨斯州Grimes县建造，SpaceX和特斯拉将为初始建设投资168亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085478772761833503",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nWe've made it so you can see where market makers are directly positioned with our Periscope tool.\n\nIt is a must have toolset for you.\n\nSee more: https://t.co/BzU8AZk8im https://t.co/qkv9ZhAkm6",
+    "tweet_url": "https://x.com/unusual_whales/status/2085478772761833503",
+    "published_at": "2026-08-06T21:31:00+00:00",
+    "fetched_at": "2026-08-07T00:21:36.714684+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广一款名为Periscope的工具，声称可以帮助用户直接查看做市商的持仓位置，属于市场分析工具类宣传，未提及具体投资标的，方向中性。",
+      "translation": "看看这个。我们让你可以直接看到做市商的持仓位置，通过我们的Periscope工具。这是你必备的工具集。查看更多：https://t.co/BzU8AZk8im https://t.co/qkv9ZhAkm6",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085463672395366552",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jim Cramer has said investors should buy SpaceX for their children and \"put some away for the next generation.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2085463672395366552",
+    "published_at": "2026-08-06T20:31:00+00:00",
+    "fetched_at": "2026-08-07T00:21:41.209177+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "吉姆·克莱默建议投资者为子女购买SpaceX股票，并长期持有以惠及下一代，显示其对SpaceX前景的看好。",
+      "translation": "吉姆·克莱默表示，投资者应该为他们的子女购买SpaceX股票，并“为下一代存一些钱”。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085450082829136087",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has updated its GEX tool.  \n\nSee where dealers must hedge, as well as market maker positioning visualized.  \n\nIt is a must have tool.  \n\nSee more: https://t.co/rcc3pEbEwP https://t.co/6cy89rjdQy",
+    "tweet_url": "https://x.com/unusual_whales/status/2085450082829136087",
+    "published_at": "2026-08-06T19:37:00+00:00",
+    "fetched_at": "2026-08-07T00:21:43.910342+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了Unusual Whales更新了其GEX工具，该工具可用于展示做市商必须对冲的位置及其持仓情况，以辅助投资决策。推文未提及具体股票或给出明确方向性观点。",
+      "translation": "Unusual Whales已更新其GEX工具。查看做市商必须对冲的位置，以及做市商持仓的可视化。这是一款必备工具。更多信息：https://t.co/rcc3pEbEwP https://t.co/6cy89rjdQy",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2085435235005817130",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+    "tweet_url": "https://x.com/unusual_whales/status/2085435235005817130",
+    "published_at": "2026-08-06T18:38:00+00:00",
+    "fetched_at": "2026-08-07T00:21:46.432954+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通CEO戴蒙警告市场杠杆过高，认为将有人引发市场动荡。此言论暗示市场风险积聚，可能引发投资者对回调的担忧。",
+      "translation": "摩根大通的杰米·戴蒙警告高杠杆：'有人将扰乱市场'",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085429950350286927",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "All three memory manufacturers, Samsung, SK Hynix, and Micron, have collectively sold through their 2027 memory manufacturing capacity to AI companies, per IGN",
+    "tweet_url": "https://x.com/unusual_whales/status/2085429950350286927",
+    "published_at": "2026-08-06T18:17:00+00:00",
+    "fetched_at": "2026-08-07T00:21:48.115998+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMSNY",
+        "HXSCL",
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "该消息指三星、SK海力士和美光三大存储芯片制造商已将2027年的产能全部预售给AI公司，表明AI需求强劲，存储行业供不应求，利好相关厂商的业绩和股价。",
+      "translation": "据IGN报道，三星、SK海力士和美光这三大存储芯片制造商，已将其2027年的存储芯片产能全部销售给AI公司。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085419883873869984",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Tom Lee has said the S&amp;P500 will hit 8,000 in August.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085419883873869984",
+    "published_at": "2026-08-06T17:37:00+00:00",
+    "fetched_at": "2026-08-07T00:21:50.701188+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "Tom Lee预测标普500指数将在8月达到8000点，这是一个非常乐观的预期，可能对市场情绪产生积极影响。",
+      "translation": "Tom Lee曾表示，标普500指数将在8月份达到8000点。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085414850746892705",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Up to 911.5 million SpaceX, $SPCX, shares unlock today, more than doubling the freely tradable public float from 638.9 million to roughly 1.55 billion shares, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2085414850746892705",
+    "published_at": "2026-08-06T17:17:00+00:00",
+    "fetched_at": "2026-08-07T00:21:52.460697+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bearish",
+      "summary": "SpaceX（SPCX）今日解禁9.115亿股，流通股数量将增加一倍以上，可能对股价造成下行压力。",
+      "translation": "今天解禁了高达9.115亿股SpaceX（SPCX）股票，使自由流通股数量从6.389亿股翻倍至约15.5亿股，根据YF数据。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085409817456496736",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Days after nearing collapse, Leopold Aschenbrenner’s Situational Awareness fund made a $400 million investment in a private company,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2085409817456496736",
+    "published_at": "2026-08-06T16:57:00+00:00",
+    "fetched_at": "2026-08-07T00:21:54.311306+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了Leopold Aschenbrenner的Situational Awareness基金在濒临崩溃后向一家私营公司投资4亿美元，这一事件可能反映私募市场的资金动向，但未涉及具体证券或投资建议。",
+      "translation": "据彭博社报道，在濒临崩溃数日后，Leopold Aschenbrenner的Situational Awareness基金向一家私营公司投资了4亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085369552507170937",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
