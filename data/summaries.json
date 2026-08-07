@@ -26,25 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "NVDA",
       "META",
       "ORCL",
+      "NVDA",
       "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与数据中心建设",
-      "地缘政治风险",
-      "美联储政策",
-      "市场波动与顶部风险"
+      "市场顶部风险与看跌警告",
+      "地缘政治与能源市场波动（霍尔木兹海峡）",
+      "AI基础设施与半导体需求旺盛",
+      "利率政策不确定性",
+      "企业盈利与个股异动"
     ],
-    "recent_shift": "最近从对市场持续创新高的乐观情绪转变为对高位风险和潜在回调的警惕。",
+    "recent_shift": "近期观点从看多市场创新高转向关注风险，特别是Michael Burry的看跌警告和多位金融领袖对杠杆和利率的担忧。",
     "representative_quotes": [
-      "Michael Burry has said we are near the top of the market",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
-      "BREAKING: S&P500 has hit an all time high."
+      "We are near a major top, and possible a 1987-type fall",
+      "The sell America trade is returning",
+      "Somebody will disrupt the market"
     ],
-    "generated_at": "2026-08-07T15:45:08.192415+00:00"
+    "generated_at": "2026-08-07T16:42:23.651705+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
