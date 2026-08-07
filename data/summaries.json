@@ -26,25 +26,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "META",
       "NVDA",
-      "PLTR",
-      "ORCL"
+      "META",
+      "ORCL",
+      "MSFT"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施投资",
-      "科技股财报",
+      "AI与数据中心建设",
       "地缘政治风险",
-      "市场新高"
+      "美联储政策",
+      "市场波动与顶部风险"
     ],
-    "recent_shift": "近期观点从对市场高位的担忧转向对科技股和AI相关资产的乐观情绪。",
+    "recent_shift": "最近从对市场持续创新高的乐观情绪转变为对高位风险和潜在回调的警惕。",
     "representative_quotes": [
-      "The market continually has hit new all time highs this year.",
-      "BREAKING: Michael Burry has said we are near the top of the market",
+      "Michael Burry has said we are near the top of the market",
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
       "BREAKING: S&P500 has hit an all time high."
     ],
-    "generated_at": "2026-08-07T14:45:32.710515+00:00"
+    "generated_at": "2026-08-07T15:45:08.192415+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
