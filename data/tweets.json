@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2085792338073264518",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: The US should pay the lowest interest rate in the world... Fed rate decision should not totally be up to Fed Chair Warsh.",
+    "tweet_url": "https://x.com/unusual_whales/status/2085792338073264518",
+    "published_at": "2026-08-07T18:17:00+00:00",
+    "fetched_at": "2026-08-07T18:40:20.702354+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文涉及美联储利率决策的政治干预，但未提及具体资产或投资建议。若特朗普施压降息，可能对股市有潜在利好，但影响不确定。",
+      "translation": "特朗普：美国应该支付世界上最低的利率... 美联储的利率决定不应该完全由美联储主席沃什决定。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2085782271827791945",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -37,6 +56,25 @@
       "summary": "美国最大抵押贷款机构UWM股价创历史新低，单日跌幅创纪录，反映住房市场或信贷环境面临压力，投资者应警惕相关风险。",
       "translation": "突发：美国最大的抵押贷款机构United Wholesale Mortgage昨日暴跌至历史低点，创下其单日最大跌幅纪录。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2085767172568371511",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Federal Reserve Chair Kevin Warsh is considering cutting the standard eight annual policy meetings down to six rate-setting sessions and two broader economic discussions. The proposal aims to curb market over-reliance on central bank signals, though major financial institutions warn it could trigger higher market volatility, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2085767172568371511",
+    "published_at": "2026-08-07T16:37:00+00:00",
+    "fetched_at": "2026-08-07T18:40:26.820258+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储拟议减少政策会议次数可能引发市场波动，对依赖央行信号的投资者构成不确定性，但具体影响方向不明。",
+      "translation": "美联储主席凯文·沃什正在考虑将每年八次政策会议削减为六次利率制定会议和两次更广泛的经济讨论。该提议旨在遏制市场对央行信号的过度依赖，但主要金融机构警告称，这可能会引发更高的市场波动性，据CNBC报道。",
+      "confidence": "medium"
     }
   },
   {
