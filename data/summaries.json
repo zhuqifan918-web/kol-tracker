@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "AAOI",
       "SIVE",
       "LITE",
-      "AAOI",
       "NVDA",
-      "MU"
+      "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施资本开支持续增长",
-      "光通信与CPO技术瓶颈",
-      "存储芯片供不应求",
-      "机器人产业兴起",
-      "供应链瓶颈与上游受益"
+      "AI算力基础设施与光互连（CPO）",
+      "存储与半导体瓶颈",
+      "人形机器人",
+      "超大规模云厂商资本开支",
+      "供应链瓶颈与涨价"
     ],
-    "recent_shift": "近期观点未变，但在市场大跌后强调基本面未变，呼吁投资者坚持长期持有，并认为恐慌性抛售是买入机会。",
+    "recent_shift": "近期更关注CPO产业链和激光器瓶颈，对市场短期波动保持冷静，强调长期增长逻辑。",
     "representative_quotes": [
-      "I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
-      "Hyperscaler capex is one of the most important things to track.",
-      "I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track."
+      "My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy.",
+      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
+      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now (equipment/test players usually appear up first before optical engines / laser volumes ramp)."
     ],
-    "generated_at": "2026-08-07T13:46:45.378818+00:00"
+    "generated_at": "2026-08-07T20:30:27.008997+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
