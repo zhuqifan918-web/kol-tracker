@@ -1,27 +1,26 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "AAOI",
+      "SIVE",
       "LITE",
-      "NVDA",
-      "MU"
+      "MU",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学互连与CPO（共封装光学）供应链瓶颈",
-      "AI基础设施资本开支继续增长",
-      "内存（DRAM/NAND/HBM）供不应求",
-      "人形机器人产业兴起",
-      "美国供应链安全与本土制造"
+      "AI基础设施瓶颈（光学互连、内存、激光）",
+      "CPO（共封装光学）及硅光子学的长期增长",
+      "半导体供应链的结构性短缺和长期协议",
+      "市场波动中的投资机会（利用市场恐慌）"
     ],
-    "recent_shift": "近期观点更加乐观，强调AI需求持续强劲和供应瓶颈，认为市场恐慌是流动性问题而非基本面问题。",
+    "recent_shift": "近期观点无明显转向，持续强调基本面未变，认为市场下跌是流动性而非基本面问题。",
     "representative_quotes": [
-      "My 'bottleneck' thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Lot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. Gets rerated when their inflection period hits and capex flows into their balance sheets.",
-      "So all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
-      "Feels bad, -49.4% drawdown this month after the recent crash. My portfolio is mainly AI chokepoints and bottlenecks. In the memory, photonics, robotics, and upstream semis, (on margin) which all tend to be higher beta than others. But reduced leverage recently from the crash. I see a lot of people making fun of the drop or AI names, saying it's obvious that: 'AI is a bubble', 'memory/kospi is a bubble', 'photonics is a bubble', 'humanoids won't get anywhere', 'neoclouds will get replaced by hyperscalers like Meta' And a bunch of retail + bots saying 'sell everything, it's never going to recover'. But I have conviction that all these themes are backed by structural revenue growth or technological shifts. And I've had similar drawdowns back when there admin threatened global tariffs, before markets pulled off a recovery. I personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out."
+      "But $AAOI at $140 and $AAOI at $75 are the same company. Samsung at a $1.5T MC and Samsung at a $980B MC are the same company. Just valuations and narratives (often noise) change, and markets rotate from sector to sector.",
+      "People tend to capitulate and follow narratives when a sector drops, even if the bottleneck or fundamental situation hasn't really changed much.",
+      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now."
     ],
-    "generated_at": "2026-08-08T07:27:36.063148+00:00"
+    "generated_at": "2026-08-08T18:22:51.781381+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
