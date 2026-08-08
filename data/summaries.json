@@ -33,18 +33,19 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "市场看涨情绪",
-      "利率与央行政策",
-      "AI与科技投资",
-      "市场做空与波动"
+      "市场创历史新高",
+      "AI和科技投资",
+      "地缘政治风险（霍尔木兹海峡）",
+      "美联储政策和利率",
+      "期权和机构动向"
     ],
-    "recent_shift": "近期观点从看涨转为对市场高位的担忧，同时强调工具和技术分析的重要性",
+    "recent_shift": "最近观点转向更为谨慎，引用了Michael Burry的看空警告和美联储可能加息的信号，但整体仍保持看涨基调。",
     "representative_quotes": [
-      "The market continually has hit new all time highs this year. Unusual Whales was made to capture these plays.",
-      "We are near a major top, and possible a 1987-type fall",
-      "The sell America trade is returning"
+      "Check out the Unusual Whales Multi-Leg Flow tool. It lets you see the pros in action, as they put their trades.",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "The market continually has hit new all time highs this year."
     ],
-    "generated_at": "2026-08-08T15:54:24.926518+00:00"
+    "generated_at": "2026-08-08T16:21:36.639228+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
