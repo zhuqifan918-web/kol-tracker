@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086120500850475455",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Check this out. \n\nMarket Maps lets you see where the market is moving at a glance, making it easy to spot sector rotation, strength, and weakness in real time.    \n\nIt is a new, updated toolset for you.\n\nBuild it how you want, here: https://t.co/M0skwOZ4Qd https://t.co/4W6gxnZCXK",
+    "tweet_url": "https://x.com/unusual_whales/status/2086120500850475455",
+    "published_at": "2026-08-08T16:01:00+00:00",
+    "fetched_at": "2026-08-08T16:21:19.831361+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了Market Maps工具，用于实时观察市场板块轮动、强弱变化，帮助投资者快速把握市场动向。这是一个工具推荐，不涉及具体投资方向或个股。",
+      "translation": "看看这个。Market Maps让你一眼看清市场动向，轻松实时识别板块轮动、强弱变化。这是一个新的、更新的工具集。你可以按自己的需求构建，点击这里：链接",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086105401515557323",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
