@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086180898513588292",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Prices of \"all food\" categories are up 29%, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2086180898513588292",
+    "published_at": "2026-08-08T20:01:00+00:00",
+    "fetched_at": "2026-08-08T21:20:51.068907+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "这条推文指出所有食品类别价格上涨29%，可能引发通胀担忧，从而影响消费股和整体市场。",
+      "translation": "所有食品类别的价格上涨了29%，据CNBC报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086165799052402837",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -300,6 +319,25 @@
       "summary": "该推文仅提及苹果公司（AAPL）的更新订阅，未包含任何投资分析或方向性观点，因此投资相关性较低但涉及具体股票。",
       "translation": "要获取$AAPL的更新，请订阅Unusual Whales。查看更多：https://t.co/Mrc5OWV9Vu",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2085863053955072392",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Point72 informed investors it had been attacked, though the firm’s initial review found no client information was stolen. The firm told investors it was still reviewing the incident.\n\nRead more: https://t.co/CHUCA4SXhX",
+    "tweet_url": "https://x.com/unusual_whales/status/2085863053955072392",
+    "published_at": "2026-08-07T22:58:00+00:00",
+    "fetched_at": "2026-08-08T21:21:02.436847+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "Point72遭网络攻击，但初步调查未发现客户信息泄露。此事件可能对Point72的运营和声誉造成影响，但未涉及具体投资标的或市场趋势，因此对投资决策影响有限。",
+      "translation": "Point72告知投资者其遭受了攻击，但公司的初步审查未发现客户信息被窃取。公司告知投资者仍在审查该事件。",
+      "confidence": "medium"
     }
   },
   {

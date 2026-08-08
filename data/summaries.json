@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "ORCL",
+      "AAPL",
       "NVDA",
       "META",
-      "AAPL"
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "市场波动与风险",
-      "美联储政策与利率",
-      "人工智能与科技投资",
-      "地缘政治与能源安全",
-      "市场工具与数据分析"
+      "市场波动与利率政策",
+      "宏观经济与通胀",
+      "人工智能与科技",
+      "地缘政治风险",
+      "市场工具推广"
     ],
-    "recent_shift": "近期观点从早期对市场高点和风险的担忧，转向强调美联储政策不确定性以及地缘政治风险对市场的影响。",
+    "recent_shift": "近期观点转向对市场高位和利率上行的担忧，同时强调地缘政治风险（如霍尔木兹海峡）对市场的影响。",
     "representative_quotes": [
       "Michael Burry has said we are near the top of the market",
-      "Bessent argued the U.S. is now in a 'C economy' where the lower end of wage earners are catching up",
-      "Unusual Whales has updated its GEX tool. See where dealers must hedge, as well as market maker positioning visualized."
+      "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+      "BREAKING: Fed Chair Kevin Warsh is reportedly prepared to support a rate hike in September, per FT"
     ],
-    "generated_at": "2026-08-08T19:07:00.454998+00:00"
+    "generated_at": "2026-08-08T21:21:08.592980+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
