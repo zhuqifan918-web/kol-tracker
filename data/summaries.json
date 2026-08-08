@@ -26,26 +26,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "META",
-      "ORCL",
       "NVDA",
-      "AMD"
+      "META",
+      "AMZN",
+      "MSFT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "美股创新高与AI投资热潮",
-      "美联储政策与利率走势",
-      "市场风险与流动性关注",
-      "地缘政治对能源市场的影响",
-      "个股事件驱动交易"
+      "市场看涨情绪",
+      "利率与央行政策",
+      "AI与科技投资",
+      "市场做空与波动"
     ],
-    "recent_shift": "从关注美联储加息预期转向强调市场创新高和AI相关机会。",
+    "recent_shift": "近期观点从看涨转为对市场高位的担忧，同时强调工具和技术分析的重要性",
     "representative_quotes": [
-      "This will change how you engage with the stock market.",
-      "Michael Burry has said we are near the top of the market",
-      "BREAKING: S&P500 has hit an all time high."
+      "The market continually has hit new all time highs this year. Unusual Whales was made to capture these plays.",
+      "We are near a major top, and possible a 1987-type fall",
+      "The sell America trade is returning"
     ],
-    "generated_at": "2026-08-08T14:04:55.429003+00:00"
+    "generated_at": "2026-08-08T15:54:24.926518+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
