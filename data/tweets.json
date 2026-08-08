@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2085959345200591001",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "现在局面比较诡异，\n谷歌微软他们公司债推高了美债的利息，\n即使不加息，债券市场也跟加息没区别。\n美国这些产业数据大概率应该是为了稳住市场瞎编的。\n美债规模最近也上来40万亿美金，\n如此高的长期美债利息以及kimi和deepseek对美国AI的追赶降价打击让人对美元在未来的信誉有了不确定性。\n同时7月科技持续暴跌导致资金对市场的避险需求催生了最近一个月老登资产和黄金白银的触底反弹。",
+    "tweet_url": "https://x.com/xiaomustock/status/2085959345200591001",
+    "published_at": "2026-08-08T05:20:37+00:00",
+    "fetched_at": "2026-08-08T06:03:32.033603+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了美国国债规模上升、长期利率高企、科技股下跌以及避险资产反弹等宏观市场动态，表达了对美元信誉的担忧，但未给出明确的投资方向建议。",
+      "translation": "现在的局面比较诡异，谷歌微软等公司的债券推高了美债的利息，即使不加息，债券市场也跟加息没有区别。美国这些产业数据大概是为了稳定市场而编造的。美债规模最近上升到40万亿美元，如此高的长期美债利息以及Kimi和DeepSeek对美国AI的追赶和降价打击，让人对美元未来的信誉产生了不确定性。同时，7月份科技股持续暴跌，导致资金避险需求增强，催生了最近一个月老登资产和黄金白银的触底反弹。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085916657311252642",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1128,6 +1147,25 @@
       "direction": "bullish",
       "summary": "苹果收到22亿美元退款，可能增加现金流，对股价构成利好，但需关注具体原因及持续性。",
       "translation": "苹果，$AAPL，表示根据新闻周刊报道，收到了22亿美元的退款。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085324254002966536",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Gen X and millennials have built more wealth than boomers did at the same age,\" per Visa",
+    "tweet_url": "https://x.com/unusual_whales/status/2085324254002966536",
+    "published_at": "2026-08-06T11:17:00+00:00",
+    "fetched_at": "2026-08-08T06:03:45.626508+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用Visa的数据，指出X世代和千禧一代在同一年龄段积累了比婴儿潮一代更多的财富。这暗示年轻一代的消费和投资能力增强，可能对消费类股票和整体经济有积极影响，但未提供具体投资建议。",
+      "translation": "据Visa称，X世代和千禧一代在同一年龄段积累的财富比婴儿潮一代更多。",
       "confidence": "medium"
     }
   },

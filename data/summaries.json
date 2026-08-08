@@ -26,47 +26,48 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "NVDA",
-      "TSLA",
       "META",
-      "ORCL"
+      "NVDA",
+      "MRNA",
+      "TSLA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "美联储政策与利率预期",
-      "市场创新高与看涨期权热潮",
-      "AI与科技巨头扩张",
-      "地缘政治风险与大宗商品",
-      "市场泡沫与知名投资者警告"
+      "AI与科技投资",
+      "利率政策与降息预期",
+      "市场新高与乐观情绪",
+      "地缘政治与能源风险"
     ],
-    "recent_shift": "近期言论从谨慎转向极度看涨，强调市场历史新高和大量看涨期权交易，同时仍有对高杠杆和泡沫的担忧。",
+    "recent_shift": "近期观点从关注通胀和就业数据，转向对市场新高的乐观和对AI及科技股的看好。",
     "representative_quotes": [
-      "BREAKING: The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!",
-      "BREAKING: There have been a record number of S&P500 call options purchased, per Bloomberg.",
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\""
+      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto.",
+      "BREAKING: S&P500 has hit an all time high. https://t.co/d0lG8DZ33G",
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
     ],
-    "generated_at": "2026-08-08T05:14:19.303906+00:00"
+    "generated_at": "2026-08-08T06:04:05.633453+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "META",
-      "MRVL",
+      "SKHynix",
       "MU",
-      "SK Hynix",
-      "SNDK"
+      "META",
+      "GOOGL",
+      "MRVL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "存储芯片需求强劲",
-      "AI算力与基础设施投资",
-      "Gate平台安全事件与用户维权"
+      "存储行业供需与价格波动",
+      "AI算力与模型竞争对存储需求的推动",
+      "交易所安全与用户资产保护",
+      "科技巨头投资与云业务前景",
+      "市场恐慌与逆向投资机会"
     ],
-    "recent_shift": "近期从激进交易转向更为保守和稳健的投资策略，同时持续关注Gate事件并施加压力。",
+    "recent_shift": "从早期极度看好存储并满仓操作，转向在亏损后强调风险控制，计划保留30%现金并更多配置大盘指数，降低杠杆和激进程度。",
     "representative_quotes": [
-      "长期80%的毛利率，营收一直在增长。算美股巨头里面最有性价比的了。",
-      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
-      "去年真是满大街的好机会...只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。"
+      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。",
+      "存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。未来俩年内会看到这个观点和变化。",
+      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。"
     ],
-    "generated_at": "2026-08-07T23:55:56.780946+00:00"
+    "generated_at": "2026-08-08T06:04:02.803540+00:00"
   }
 }
