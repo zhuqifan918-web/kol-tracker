@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2086148557187461412",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Yes, I'm still bullish on memory like $MU / Samsung.\n\nAs I said earlier, markets tend to rotate from bottleneck to bottleneck.\n\nThis week it looks $AXTI to $LITE in the photonics sector is the focus again. \n\nThe thing is... the primary thing that changed are the stock prices, followed by some narratives + updates sprinkled in here and there.\n\nFor photonics:\n\n> We already knew $COHR / $LITE lasers were completely sold out for the next 2 years during July's drop. \n\n> We knew about demand imbalance from $AAOI from last quarter's earnings calls.\n\nNothing deteriorated fundamentally during July's crash, other than listed price after liquidations. \n\nYet tons of people called $AAOI a \"scam\" when it dropped to $75, or $AXTI a \"scam\" on its drop to $35... \n\nBut are bullish again at $140 or $80, when the transciver/InP substrate bottleneck hasn't changed at all, but maybe even got worse... (eg. draft for US ban on new china optical transceivers, scale up demand projections)\n\nFor Memory:\n\nI'm witnessing a lot of retail capitulation, but the same people I'm seeing were mega bullish after $MU signed 16 SCAs and gave exceptional projections a month ago. \n\nOr were celebrating Samsung having the highest operating profit in the world.\n\nThere's updates here and there eg. Rubin Ultra with memory optimizations (which Nvidia strives for every generation), with prices no longer being hiked way above expectations to the extreme. \n\nBut the operating income relative to MC is just absurd around current prices, especially memory becomes structural. \n\nAnd the demand imbalance should be even worse next year.  \n\nPeople tend to capitulate and follow narratives when a sector drops (eg. Helium/LNG back in Iran war), even if the bottleneck or fundamental situation hasn't really changed much (eg. $SPCX Elon earnings call reiterating memory tightness). \n\nI can't tell others what to to do: \n\nBut $AAOI at $140 and $AAOI at $75 are the same company.\n\nSamsung at a $1.5T MC and Samsung at a $980B MC are the same company. \n\nJust valuations and narratives (often noise) change, and markets rotate from sector to sector.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+    "published_at": "2026-08-08T17:52:29+00:00",
+    "fetched_at": "2026-08-08T18:22:02.097879+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "Samsung",
+        "AXTI",
+        "LITE",
+        "COHR",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为市场从瓶颈到瓶颈轮动，当前对光通信和存储芯片仍持乐观态度。尽管近期股价下跌，但基本面未恶化，反而可能更紧俏，如美国可能禁止中国光收发器、HBM需求增长等。他强调估值和叙事变化而非基本面变化，认为当前是买入机会。",
+      "translation": "是的，我仍然看好存储芯片，如美光科技/三星。正如我之前所说，市场倾向于从一个瓶颈轮换到另一个瓶颈。本周看来，光子学领域的AXTI到LITE再次成为焦点。问题是……主要改变的是股价，以及一些零星的消息和更新。\n\n对于光子学：\n> 我们早在7月下跌时就已知晓COHR/LITE的激光器未来两年已完全售罄。\n> 我们从上一季度财报电话会议中已了解AAOI的需求失衡。\n\n在7月崩盘期间，基本面没有恶化，除了清算后的股价下跌。然而，当AAOI跌至75美元时，很多人称其为“骗局”，AXTI跌至35美元时也称其为“骗局”……但在140美元或80美元时又转为看涨，而收发器/InP衬底瓶颈并未改变，甚至可能恶化（例如，美国对新的中国光收发器实施禁令的草案，以及需求预测的上调）。\n\n对于存储：\n我目睹了大量散户投降，但与我看到的同一批人在一个月前美光签署16份SCA并给出异常强劲的预测时，或在三星拥有全球最高营业利润时，他们曾极度看涨。\n这里有些更新，例如Rubin Ultra的内存优化（这是英伟达每一代都在追求的），而价格不再被大幅上调至超出预期的极端水平。\n但当前的营业利润相对于市值来说，尤其是在内存结构性需求下，简直荒谬。而明年的需求失衡应该会更严重。\n\n人们倾向于在某个板块下跌时投降并跟风叙事（例如伊朗战争时的氦气/液化天然气），即使瓶颈或基本面情况并没有真正改变（例如SpacX的马斯克在财报电话会议上重申内存紧张）。\n我不能告诉别人该怎么做：\n但AAOI在140美元和AAOI在75美元是同一家公司。\n三星市值1.5万亿美元和三星市值9800亿美元也是同一家公司。\n只是估值和叙事（往往是噪音）在改变，市场从一个板块轮转到另一个板块。"
+    }
+  },
+  {
+    "tweet_id": "2086142654383903069",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Serenity, are you still bullish on memory and storage stocks?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2086142654383903069",
+    "published_at": "2026-08-08T17:29:02+00:00",
+    "fetched_at": "2026-08-08T18:22:06.357529+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文询问对存储股票的看法，可能暗示对存储行业持乐观态度，但未提供具体分析。",
+      "translation": "@aleabitoreddit Serenity，你仍然看好存储股票吗？",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086135600214687928",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
