@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$NVDA",
-      "$ORCL",
-      "$NBIS",
-      "$META"
+      "SPCX",
+      "NVDA",
+      "META",
+      "TSLA",
+      "ORCL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "市场过度乐观与潜在回调",
-      "地缘政治风险影响能源与航运",
-      "AI投资与算力需求持续增长",
-      "利率政策不确定性引发波动",
-      "内部人交易与市场信号工具"
+      "AI基础设施投资",
+      "地缘政治风险与能源",
+      "市场高波动与期权交易"
     ],
-    "recent_shift": "近期观点从对创新高和市场强势的积极态度转向警惕顶部和潜在瀑布式下跌，尤其强调高杠杆和过度乐观的风险。",
+    "recent_shift": "从关注地缘政治风险转向强调市场强劲和AI投资机会",
     "representative_quotes": [
-      "Michael Burry says he is shorting Oracle, $ORCL, and Nebius, $NBIS, because he believes companies loaded with off-balance-sheet liabilities have become “very fat, very large, easy to shoot” fish.",
-      "“The sell America trade is returning,” per Barclays.",
-      "Bank of America has said that bullish sentiment has \"gone too far\""
+      "Michael Burry has said we are near the top of the market",
+      "Trump: The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!",
+      "Morgan Stanley expects that global cloud capital spending will reach $1.2 trillion in 2027"
     ],
-    "generated_at": "2026-08-07T23:02:55.313255+00:00"
+    "generated_at": "2026-08-08T00:54:39.796688+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
