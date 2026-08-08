@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "NVDA",
-      "META",
-      "AMZN",
-      "MSFT"
+      "$SPCX",
+      "$NVDA",
+      "$MSFT",
+      "$ORCL",
+      "$META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "市场创历史新高",
-      "AI和科技投资",
-      "地缘政治风险（霍尔木兹海峡）",
-      "美联储政策和利率",
-      "期权和机构动向"
+      "AI与科技投资",
+      "市场情绪与泡沫警告",
+      "美联储政策与利率",
+      "地缘政治风险",
+      "大宗商品与通胀"
     ],
-    "recent_shift": "最近观点转向更为谨慎，引用了Michael Burry的看空警告和美联储可能加息的信号，但整体仍保持看涨基调。",
+    "recent_shift": "近期从偏乐观转向谨慎，多次引用Michael Burry等空头观点，暗示市场可能见顶。",
     "representative_quotes": [
-      "Check out the Unusual Whales Multi-Leg Flow tool. It lets you see the pros in action, as they put their trades.",
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "The market continually has hit new all time highs this year."
+      "Michael Burry has said we are near the top of the market",
+      "We are near a major top, and possible a 1987-type fall",
+      "BREAKING: There have been a record number of S&P500 call options purchased"
     ],
-    "generated_at": "2026-08-08T16:21:36.639228+00:00"
+    "generated_at": "2026-08-08T17:33:57.153334+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
