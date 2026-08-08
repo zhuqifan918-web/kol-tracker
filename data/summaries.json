@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "META",
-      "NVDA",
-      "MRNA",
-      "TSLA"
+      "$META",
+      "$SPX",
+      "$NVDA",
+      "$TSLA",
+      "$AMZN"
     ],
     "overall_bias": "bullish",
     "key_themes": [
+      "市场创新高与看涨情绪",
+      "美联储政策与利率预期",
+      "地缘政治风险与能源",
       "AI与科技投资",
-      "利率政策与降息预期",
-      "市场新高与乐观情绪",
-      "地缘政治与能源风险"
+      "市场内部风险与警告"
     ],
-    "recent_shift": "近期观点从关注通胀和就业数据，转向对市场新高的乐观和对AI及科技股的看好。",
+    "recent_shift": "近期从关注经济衰退和地缘风险转向关注市场新高和AI投资机遇，但仍保留对高杠杆和估值过高的警告。",
     "representative_quotes": [
-      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto.",
-      "BREAKING: S&P500 has hit an all time high. https://t.co/d0lG8DZ33G",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
+      "Trump: The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!",
+      "Tom Lee has said the S&P500 will hit 8,000 in August.",
+      "The sell America trade is returning, per Barclays."
     ],
-    "generated_at": "2026-08-08T06:04:05.633453+00:00"
+    "generated_at": "2026-08-08T12:27:01.193644+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
