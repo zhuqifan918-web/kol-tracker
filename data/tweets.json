@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2085916657311252642",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bessent argued the U.S. is now in a “C economy” where the lower end of wage earners are catching up\n\nRead more: https://t.co/7E71wk9Cu5",
+    "tweet_url": "https://x.com/unusual_whales/status/2085916657311252642",
+    "published_at": "2026-08-08T02:31:00+00:00",
+    "fetched_at": "2026-08-08T05:14:00.002067+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及美国财政部长贝森特关于美国经济处于“C型经济”的观点，认为低收入人群正在追赶。这属于宏观经济分析，对市场情绪有一定影响，但未直接指向具体投资标的。",
+      "translation": "贝森特认为，美国目前正处于“C型经济”状态，底层工薪阶层的收入正在追赶上来。更多内容请阅读：https://t.co/7E71wk9Cu5",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2085901558110380431",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -875,6 +894,25 @@
       "direction": "bullish",
       "summary": "该消息指三星、SK海力士和美光三大存储芯片制造商已将2027年的产能全部预售给AI公司，表明AI需求强劲，存储行业供不应求，利好相关厂商的业绩和股价。",
       "translation": "据IGN报道，三星、SK海力士和美光这三大存储芯片制造商，已将其2027年的存储芯片产能全部销售给AI公司。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085424917013795194",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Scott Bessent has said that the K-shaped economy is \"definitively\" over",
+    "tweet_url": "https://x.com/unusual_whales/status/2085424917013795194",
+    "published_at": "2026-08-06T17:57:00+00:00",
+    "fetched_at": "2026-08-08T05:13:57.682314+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到Scott Bessent称K型经济已‘明确’结束，暗示经济分化趋势可能逆转，对市场整体可能构成中性影响，但未直接关联具体投资标的或明确的多空方向。",
+      "translation": "Scott Bessent表示，K型经济‘明确’已经结束。",
       "confidence": "medium"
     }
   },
