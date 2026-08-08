@@ -1058,6 +1058,32 @@
     }
   },
   {
+    "tweet_id": "2085499853099208716",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some TLDR notes on $AAOI earnings:\n\n- Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks \n\n(helpful revenue ramp #2, timelines)\n\n-  Continues to believe that AOI will have the largest AI DC transceiver production capacity in the US\n \n(reiterating ambitions during a time when their competitors might get banned)\n\n- Expects facilities toward InP capacity to come online in early 2027 \n\n(timeline FYI in terms of further ramp) \n\n- Total capacity is approaching 200,000/u per month, EOY 650,000/u per month of 800g/1.6t. EOY 2027, 930,000/u \n\n(this is the ramp i want to see)\n\n- \"increase our manufacturing capacity for our external light source or ELSFP. That's for co-packaged optics or CPO\". we anticipate ramping production later this year and into 2027, ultimately culminating in about 400,000 pieces per month in 2028\n\n(need some time to model this into revenue)\n\n- \"As we have mentioned before, we've been manufacturing lasers internally for many years. This has allowed us to avoid some of the shortages that  have affected others in the industry\"\n\n(vertical integration bull case during CW/EML laser shortages) \n\n- We believe that in the future, CPO will continue to drive increased demand for high-power lasers\n\n(thesis validation on CPO sector)\n\n- \"to our long-term objective of returning non-GAAP gross margins to around 40%\"\n\n-  \"We ended the second quarter with $508.8 million in total cash equivalents\"\n\nI need to double check if the ATM finished or not\n\n- \"our ability to deliver revenue in general, and specifically when it  comes to 800G products, is limited by our production capacity right now\" \"If we could produce more, we could ship more right now\"\n\nDemand > Supply validation. \n\n- \"Most of the increased capacity will be in U.S. Even so, let me say that, like I keep emphasizing, that is not good enough for the customer demand. The customer demand is 20%-40% higher.\"\n\nUnholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing. \n\n- \"Not in the next two, three years, especially the demand is so big. Okay?  Even combined AI, $LITE, $COHR, $AVGO all together, it's still very tough to meet the customer demand in the next few years\"\n\nMore optical sector demand validation. \n\n- CPO Timelines: \"If you're talking about really high volume manufacturer [for CPO market], I would say more like the late Q3 next year\" and \"We have been working very close with at least five customer\"\n\nIf you care about current earnings (which I'm not really looking at closely)\n\nRevenue: $191M vs. $190m \nEPS: $.06 vs. $.02\n\nTLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages. \n\n2027 capacity ramp on track. To map inflection period with timelines, would be around early next year, as stated in their previous earnings call. \n\nAAOI has the customers now. Limitation is making enough lasers and transceivers.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085499853099208716",
+    "published_at": "2026-08-06T22:54:46+00:00",
+    "fetched_at": "2026-08-08T23:18:31.768165+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "LITE",
+        "SIVE",
+        "JBL",
+        "COHR",
+        "AVGO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文详细分析了AAOI的财报要点，强调光模块和激光器需求远超产能，验证了光学行业的高景气度，并指出AAOI的产能扩张和垂直整合优势，整体看多相关股票。",
+      "translation": "关于$AAOI财报的一些要点：\n- 预计1.6T产品将在未来几周内获得超大规模客户的全面认证\n- 继续相信AOI将拥有美国最大的AI数据中心光收发器产能\n- 预计InP产能设施将在2027年初上线\n- 总产能接近每月20万，年底达到每月65万800G/1.6T，2027年底达到93万\n- 外部光源（用于CPO）预计今年晚些时候和2027年爬坡，2028年达到每月40万件\n- 内部制造激光器避免了行业短缺影响\n- 未来CPO将推动高功率激光器需求\n- 目标非GAAP毛利率回归约40%\n- 现金等价物5.088亿美元\n- 需要核实ATM是否结束\n- 目前产能限制交付，如果能生产更多就能发运更多，需求大于供给\n- 大部分新增产能在美国，但仍不能满足客户需求，客户需求高出20%-40%\n- 未来两三年内，即使LITE、COHR、AVGO等联合产能也难以满足需求\n- CPO高产量时间可能在明年Q3晚期，已与至少五家客户合作\n- 营收1.91亿美元 vs 预期1.9亿，每股收益0.06 vs 预期0.02\nTLDR：激光和光学领域需求巨大，支持Lumentum CEO关于激光短缺比内存短缺更严重的说法。2027年产能爬坡按计划进行。AAOI已有客户，瓶颈是制造更多激光器和收发器。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085495633134100724",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

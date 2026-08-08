@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LITE",
-      "MU",
-      "NBIS"
+      "$AAOI",
+      "$SIVE",
+      "$NVDA",
+      "$LITE",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈",
-      "光电互联与CPO",
+      "AI基础设施投资持续增长",
+      "光电子瓶颈与CPO技术",
       "内存结构性短缺",
-      "人形机器人产业链",
-      "云服务商资本开支"
+      "AI泡沫论与市场恐慌",
+      "人形机器人未来"
     ],
-    "recent_shift": "近期在经历市场大幅回调后，作者依然保持乐观，并强调基本面未变，认为当前下跌是流动性问题而非基本面问题。",
+    "recent_shift": "近期观点从整体看多转向强调市场波动和杠杆风险，但仍维持长期看多，认为基本面未变。",
     "representative_quotes": [
-      "The bottleneck or fundamental situation hasn't really changed much.",
       "I can't tell others what to do: But $AAOI at $140 and $AAOI at $75 are the same company.",
-      "I think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
+      "Lumentum are buying CW off the open market due to EML obligations from their ER transcript. And $AMD are signing LTAs to secure CW capacity (from Trendforce).",
+      "Stop panicking. Take a second and really evaluate what you’re holding in your portfolio. If your long term thesis hasn’t changed… Close your brokerage app. Go live your life."
     ],
-    "generated_at": "2026-08-08T19:06:57.767127+00:00"
+    "generated_at": "2026-08-08T23:19:06.690782+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
