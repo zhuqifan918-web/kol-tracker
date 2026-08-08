@@ -4,46 +4,48 @@
       "AAOI",
       "SIVE",
       "LITE",
-      "NVDA",
-      "GOOGL"
+      "COHR",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力基础设施与光互连（CPO）",
-      "存储与半导体瓶颈",
-      "人形机器人",
-      "超大规模云厂商资本开支",
-      "供应链瓶颈与涨价"
+      "光学互连与激光器瓶颈",
+      "CPO（共封装光学）与硅光子学",
+      "内存（DRAM/HBM/NAND）供需紧张",
+      "人形机器人产业链",
+      "AI基础设施资本支出持续增长"
     ],
-    "recent_shift": "近期更关注CPO产业链和激光器瓶颈，对市场短期波动保持冷静，强调长期增长逻辑。",
+    "recent_shift": "从关注短期波动转向强调长期结构性需求和投资机会，认为市场回调是杠杆去化而非基本面恶化。",
     "representative_quotes": [
-      "My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy.",
-      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
-      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now (equipment/test players usually appear up first before optical engines / laser volumes ramp)."
+      "There we go, White House finally invests in more breath in critical minerals/materials. Amazing policy move...",
+      "I always think of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
+      "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings."
     ],
-    "generated_at": "2026-08-07T20:30:27.008997+00:00"
+    "generated_at": "2026-08-08T02:50:57.201634+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "NVDA",
       "META",
       "TSLA",
+      "NVDA",
       "ORCL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资",
-      "地缘政治风险与能源",
-      "市场高波动与期权交易"
+      "人工智能投资热潮",
+      "地缘政治风险与能源运输",
+      "市场波动性增加",
+      "美联储政策不确定性",
+      "科技巨头财报与期权交易"
     ],
-    "recent_shift": "从关注地缘政治风险转向强调市场强劲和AI投资机会",
+    "recent_shift": "近期转向关注市场高位风险，但整体仍保持乐观态度。",
     "representative_quotes": [
       "Michael Burry has said we are near the top of the market",
-      "Trump: The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!",
-      "Morgan Stanley expects that global cloud capital spending will reach $1.2 trillion in 2027"
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
+      "The bank now sees three consecutive quarter-point increases at the September, October, and December meetings."
     ],
-    "generated_at": "2026-08-08T00:54:39.796688+00:00"
+    "generated_at": "2026-08-08T02:50:59.280027+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

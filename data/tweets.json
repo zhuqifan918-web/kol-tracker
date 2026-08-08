@@ -40,6 +40,25 @@
     }
   },
   {
+    "tweet_id": "2085847954468778227",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get updates on the option contracts, subscribe to Unusual Whales.\n\nYou can see them all flow in, and filter for the tools you want.\n\nSee more: https://t.co/nTn0dFAfXR",
+    "tweet_url": "https://x.com/unusual_whales/status/2085847954468778227",
+    "published_at": "2026-08-07T21:58:00+00:00",
+    "fetched_at": "2026-08-08T02:50:46.590086+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文推广Unusual Whales平台，该平台提供期权合约的实时流动数据和分析工具，帮助投资者追踪和筛选投资工具。内容本身不包含具体投资建议或市场分析，但涉及投资相关工具和服务。",
+      "translation": "要获取期权合约的更新信息，请订阅Unusual Whales。您可以查看所有合约的流动情况，并筛选您需要的工具。了解更多：https://t.co/nTn0dFAfXR",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085841159881154752",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -491,6 +510,34 @@
     }
   },
   {
+    "tweet_id": "2085603590903902621",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity.   We have to prioritize our ability to make lasers for our own  transceivers first\"\n\nSo first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR.\n\nAnd independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers...\n\nAlso remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ...\n\nI thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website).\n\nSo I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)?\n\nBtw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. \n\n2. Demand imbalance and bottleneck for InP lasers / optical transceivers.\n\nAOI's CEO stated kinda supported that when they said: \"The customer demand is 20%-40% higher\" than expanded built out capacity.\n\n\"We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business\"\n\n3. China being years away from having CPO DWDM specification lasers.\n\nI covered this earlier when looking at CPO competition from channel checks.\n\nBut AAOI confirming that China is \"easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint.\n\nTLDR:\n\n- High demand imbalance for CW lasers and optical transceivers.\n\n- $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE)\n\n- China years behind in CPO lasers.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085603590903902621",
+    "published_at": "2026-08-07T05:46:59+00:00",
+    "fetched_at": "2026-08-08T02:50:05.515343+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "SIVE",
+        "LITE",
+        "AVGO",
+        "COHR",
+        "AMD",
+        "MTSI",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析AAOI财报，指出CPO激光器供应紧张，AAOI因产能限制无法参与第一代CPO部署，反而利好SIVE等独立激光器供应商。同时强调中国在CPO激光器技术上落后数年，西方厂商在激光器瓶颈环节具有防御性优势。整体看多相关激光器股票。",
+      "translation": "哇，$AAOI财报中有一段接一段的亮点，对$SIVE和其他激光器厂商有启示。1. AAOI没有实质性参与第一代CPO部署。\"我们只是生产不出足够的CPO激光器来参与他们当前的第一代部署，因为产能不足。我们必须优先确保自有光模块的激光器产能。\"所以第一代CPO激光器部署可能进一步局限于西方厂商如$SIVE、$LITE、$AVGO和$COHR。如果$AAOI不得不拒绝更多客户，那么独立的CPO CW激光器产能就更有价值。还记得Trendforce提到$AMD在签订CW LTA吗？$COHR/$LITE已与$NVDA签署产能协议。我曾以为是$AAOI，但他们可能出局了。$MTSI在早期CPO参与中似乎也不重要（例如，财报中除了NPO外没有提及，并且从Ayar网站移除）。所以我想知道像$AMD这样的厂商在Helios上会与谁合作（例如，Sivers + Ayar现在更可能是候选）。顺便说一句，这对AAOI不是看空，因为他们的光模块业务需求太大。只是更看好少数已获资格的CPO激光器厂商，因为它们有产能。2. InP激光器/光模块的需求失衡和瓶颈。AOI的CEO证实了这一点：\"客户需求比扩产后的产能高出20%-40%。\"\"几乎每周我们都会收到几个大客户的这种需求。激光器目前是光模块业务最大的瓶颈。\"3. 中国距离拥有CPO DWDM规格激光器还需数年。我之前在做CPO竞争渠道检查时也提到过。但AAOI确认中国\"至少落后2-3年甚至更久\"，这进一步证明了西方在CPO激光器瓶颈环节的防御性。总结：- CW激光器和光模块存在高需求失衡。- $AAOI因产能限制不参与第一代CPO（这对AAOI不算看空，因为他们光模块业务需求旺盛，但对少数即将有产能的独立厂商如$SIVE是更好的消息）。- 中国在CPO激光器上落后数年。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2085584468556087732",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -887,6 +934,25 @@
       "direction": "bearish",
       "summary": "伊朗可能通过法案限制或禁止美国、以色列等敌对船只通过霍尔木兹海峡，这将增加中东地区的地缘政治风险，可能影响全球原油供应和运输，导致油价上涨，对全球股市和能源相关资产构成负面影响。",
       "translation": "突发：据路透社报道，伊朗议会国家安全与外交政策委员会正在审议一项初步法案，以规范过境并可能禁止美国、以色列及其他被指定为敌对的船只通过霍尔木兹海峡。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2085399751185633306",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Fed Chair Kevin Warsh is reportedly prepared to support a rate hike in September, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2085399751185633306",
+    "published_at": "2026-08-06T16:17:00+00:00",
+    "fetched_at": "2026-08-08T02:50:36.273793+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储主席凯文·沃什据称准备支持九月份加息，这可能导致市场流动性收紧，对股市构成压力。投资者需关注利率上升对估值和借贷成本的影响。",
+      "translation": "突发新闻：据《金融时报》报道，美联储主席凯文·沃什据悉准备支持九月份的加息。",
       "confidence": "medium"
     }
   },
