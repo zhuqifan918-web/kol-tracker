@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086135600214687928",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has updated its GEX tool. \n\nSee where dealers must hedge, as well as market maker positioning visualized. \n\nIt is a must have tool. \n\nSee more: https://t.co/rcc3pEbEwP https://t.co/VzxaSQgy76",
+    "tweet_url": "https://x.com/unusual_whales/status/2086135600214687928",
+    "published_at": "2026-08-08T17:01:00+00:00",
+    "fetched_at": "2026-08-08T17:33:40.866553+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了一个更新后的GEX工具，用于可视化市场做市商的持仓和强制对冲位置。虽然不直接推荐买卖，但为投资者提供了市场流动性结构的重要参考，可能影响对市场动向的判断。",
+      "translation": "Unusual Whales更新了其GEX工具。了解做市商必须对冲的位置，以及可视化市场做市商的持仓。这是一个必备工具。查看更多：https://t.co/rcc3pEbEwP https://t.co/VzxaSQgy76",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086120500850475455",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
