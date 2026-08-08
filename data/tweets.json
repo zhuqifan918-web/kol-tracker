@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2085901558110380431",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The odds of a September rate hike are at 56.7%, according to the CME FedWatch tool, and the next core PCE print lands August 26.\n\nRead more: https://t.co/ORmAcCy3qR",
+    "tweet_url": "https://x.com/unusual_whales/status/2085901558110380431",
+    "published_at": "2026-08-08T01:31:00+00:00",
+    "fetched_at": "2026-08-08T04:05:08.881226+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到CME FedWatch工具显示9月加息概率为56.7%，并提示核心PCE数据将于8月26日公布。这对市场有重要影响，但未提供明确的多空建议，属于宏观经济事件提醒。",
+      "translation": "根据CME FedWatch工具，9月加息的可能性为56.7%，而下一个核心PCE数据将于8月26日公布。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085886458372776155",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

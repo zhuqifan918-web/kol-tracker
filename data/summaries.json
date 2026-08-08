@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "META",
-      "TSLA",
-      "NVDA",
-      "ORCL"
+      "$SPCX",
+      "$META",
+      "$PLTR",
+      "$NVDA",
+      "$AMD"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能投资热潮",
-      "地缘政治风险与能源运输",
-      "市场波动性增加",
-      "美联储政策不确定性",
-      "科技巨头财报与期权交易"
+      "人工智能与科技巨头",
+      "利率政策与通胀压力",
+      "期权交易与市场情绪",
+      "地缘政治风险",
+      "太空与防御产业"
     ],
-    "recent_shift": "近期转向关注市场高位风险，但整体仍保持乐观态度。",
+    "recent_shift": "近期观点从对市场顶部的担忧（如Burry的看空）转向对美联储降息和科技股财报的乐观，但总体上对市场保持谨慎看多。",
     "representative_quotes": [
-      "Michael Burry has said we are near the top of the market",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
-      "The bank now sees three consecutive quarter-point increases at the September, October, and December meetings."
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "Jamie Dimon of JPmorgan has said he would not be a buyer of long-dated government bonds now",
+      "BREAKING: S&P500 has hit an all time high."
     ],
-    "generated_at": "2026-08-08T02:50:59.280027+00:00"
+    "generated_at": "2026-08-08T04:05:29.154033+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
