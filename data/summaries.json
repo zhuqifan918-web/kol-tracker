@@ -1,50 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
+      "AAOI",
       "LITE",
       "MU",
-      "SNDK"
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈（光学互连、内存、激光）",
-      "CPO（共封装光学）及硅光子学的长期增长",
-      "半导体供应链的结构性短缺和长期协议",
-      "市场波动中的投资机会（利用市场恐慌）"
+      "AI基础设施瓶颈",
+      "光电互联与CPO",
+      "内存结构性短缺",
+      "人形机器人产业链",
+      "云服务商资本开支"
     ],
-    "recent_shift": "近期观点无明显转向，持续强调基本面未变，认为市场下跌是流动性而非基本面问题。",
+    "recent_shift": "近期在经历市场大幅回调后，作者依然保持乐观，并强调基本面未变，认为当前下跌是流动性问题而非基本面问题。",
     "representative_quotes": [
-      "But $AAOI at $140 and $AAOI at $75 are the same company. Samsung at a $1.5T MC and Samsung at a $980B MC are the same company. Just valuations and narratives (often noise) change, and markets rotate from sector to sector.",
-      "People tend to capitulate and follow narratives when a sector drops, even if the bottleneck or fundamental situation hasn't really changed much.",
-      "Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now."
+      "The bottleneck or fundamental situation hasn't really changed much.",
+      "I can't tell others what to do: But $AAOI at $140 and $AAOI at $75 are the same company.",
+      "I think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
     ],
-    "generated_at": "2026-08-08T18:22:51.781381+00:00"
+    "generated_at": "2026-08-08T19:06:57.767127+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$NVDA",
-      "$MSFT",
-      "$ORCL",
-      "$META"
+      "SPCX",
+      "ORCL",
+      "NVDA",
+      "META",
+      "AAPL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技投资",
-      "市场情绪与泡沫警告",
+      "市场波动与风险",
       "美联储政策与利率",
-      "地缘政治风险",
-      "大宗商品与通胀"
+      "人工智能与科技投资",
+      "地缘政治与能源安全",
+      "市场工具与数据分析"
     ],
-    "recent_shift": "近期从偏乐观转向谨慎，多次引用Michael Burry等空头观点，暗示市场可能见顶。",
+    "recent_shift": "近期观点从早期对市场高点和风险的担忧，转向强调美联储政策不确定性以及地缘政治风险对市场的影响。",
     "representative_quotes": [
       "Michael Burry has said we are near the top of the market",
-      "We are near a major top, and possible a 1987-type fall",
-      "BREAKING: There have been a record number of S&P500 call options purchased"
+      "Bessent argued the U.S. is now in a 'C economy' where the lower end of wage earners are catching up",
+      "Unusual Whales has updated its GEX tool. See where dealers must hedge, as well as market maker positioning visualized."
     ],
-    "generated_at": "2026-08-08T17:33:57.153334+00:00"
+    "generated_at": "2026-08-08T19:07:00.454998+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
