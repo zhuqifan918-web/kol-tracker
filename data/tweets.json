@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086105401515557323",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nWe've made it so you can see where market makers are directly positioned with our Periscope tool.  \n\nIt is a must have toolset for you.  \n\nSee more: https://t.co/BzU8AZkG7U https://t.co/tMoFVn8rBd",
+    "tweet_url": "https://x.com/unusual_whales/status/2086105401515557323",
+    "published_at": "2026-08-08T15:01:00+00:00",
+    "fetched_at": "2026-08-08T15:54:09.070201+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文宣传一款名为Periscope的工具，该工具能直接显示市场做市商的持仓位置，属于交易工具推广，隐含对使用者的投资决策具有积极帮助，但未提及具体标的或方向。",
+      "translation": "看看这个。我们已经做到了，通过我们的Periscope工具，你可以看到市场做市商直接持仓的位置。这对你来说是一个必备的工具集。详情见：https://t.co/BzU8AZkG7U",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2086090302025085371",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
