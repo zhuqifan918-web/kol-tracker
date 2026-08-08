@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$META",
-      "$PLTR",
-      "$NVDA",
-      "$AMD"
+      "SPCX",
+      "NVDA",
+      "TSLA",
+      "META",
+      "ORCL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与科技巨头",
-      "利率政策与通胀压力",
-      "期权交易与市场情绪",
-      "地缘政治风险",
-      "太空与防御产业"
+      "美联储政策与利率预期",
+      "市场创新高与看涨期权热潮",
+      "AI与科技巨头扩张",
+      "地缘政治风险与大宗商品",
+      "市场泡沫与知名投资者警告"
     ],
-    "recent_shift": "近期观点从对市场顶部的担忧（如Burry的看空）转向对美联储降息和科技股财报的乐观，但总体上对市场保持谨慎看多。",
+    "recent_shift": "近期言论从谨慎转向极度看涨，强调市场历史新高和大量看涨期权交易，同时仍有对高杠杆和泡沫的担忧。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "Jamie Dimon of JPmorgan has said he would not be a buyer of long-dated government bonds now",
-      "BREAKING: S&P500 has hit an all time high."
+      "BREAKING: The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!",
+      "BREAKING: There have been a record number of S&P500 call options purchased, per Bloomberg.",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\""
     ],
-    "generated_at": "2026-08-08T04:05:29.154033+00:00"
+    "generated_at": "2026-08-08T05:14:19.303906+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
