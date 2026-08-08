@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2086090302025085371",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "People talk about options simply.   \n\nWhat if you saw how the pros do it instead?  \n\nWhat if you saw their strategies live?  \n\nCheck out the Unusual Whales Multi-Leg Flow tool.  It lets you see the pros in action, as they put their trades.  \n\nSee more: https://t.co/eKeyYPleRO https://t.co/taPyrxUFPN",
+    "tweet_url": "https://x.com/unusual_whales/status/2086090302025085371",
+    "published_at": "2026-08-08T14:01:00+00:00",
+    "fetched_at": "2026-08-08T14:04:36.185646+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales的多腿期权流工具，旨在让用户看到专业交易者的期权策略，属于投资相关工具推广，但未提及具体标的或市场观点，因此投资方向为中性。",
+      "translation": "人们谈论期权很简单。但如果你看到专业人士是如何做的呢？如果你看到他们的实时策略呢？看看Unusual Whales的多腿期权流工具吧。它能让你看到专业人士在下单时的操作。了解更多：https://t.co/eKeyYPleRO https://t.co/taPyrxUFPN",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086075202509631931",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We have launched the free trial of the Unusual Whales API.   \n\nThe Unusual Whales API gives full access to live options, equities, prediction market data, congress trades and much more.   \n\nIt is a must have for traders.  \n\nCheck it out here: https://t.co/JWOGQSJHkq https://t.co/LEonjKuf85",
+    "tweet_url": "https://x.com/unusual_whales/status/2086075202509631931",
+    "published_at": "2026-08-08T13:01:00+00:00",
+    "fetched_at": "2026-08-08T14:04:37.966754+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布推出Unusual Whales API的免费试用版，该API提供实时期权、股票、预测市场数据和国会交易等全面信息，对交易者具有工具价值，但未推荐具体投资标的。",
+      "translation": "我们推出了Unusual Whales API的免费试用版。Unusual Whales API提供实时期权、股票、预测市场数据、国会交易等全面访问权限。它是交易者的必备工具。在此查看：https://t.co/JWOGQSJHkq https://t.co/LEonjKuf85",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086060102927155507",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

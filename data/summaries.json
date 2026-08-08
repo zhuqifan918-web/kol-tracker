@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$SPX",
-      "$NVDA",
-      "$TSLA",
-      "$AMZN"
+      "SPCX",
+      "META",
+      "ORCL",
+      "NVDA",
+      "AMD"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "市场创新高与看涨情绪",
-      "美联储政策与利率预期",
-      "地缘政治风险与能源",
-      "AI与科技投资",
-      "市场内部风险与警告"
+      "美股创新高与AI投资热潮",
+      "美联储政策与利率走势",
+      "市场风险与流动性关注",
+      "地缘政治对能源市场的影响",
+      "个股事件驱动交易"
     ],
-    "recent_shift": "近期从关注经济衰退和地缘风险转向关注市场新高和AI投资机遇，但仍保留对高杠杆和估值过高的警告。",
+    "recent_shift": "从关注美联储加息预期转向强调市场创新高和AI相关机会。",
     "representative_quotes": [
-      "Trump: The Stock Market is at an ALL TIME HIGH, and setting Record after Record because investors know America is WINNING!",
-      "Tom Lee has said the S&P500 will hit 8,000 in August.",
-      "The sell America trade is returning, per Barclays."
+      "This will change how you engage with the stock market.",
+      "Michael Burry has said we are near the top of the market",
+      "BREAKING: S&P500 has hit an all time high."
     ],
-    "generated_at": "2026-08-08T12:27:01.193644+00:00"
+    "generated_at": "2026-08-08T14:04:55.429003+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
