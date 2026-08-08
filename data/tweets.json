@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086201818606915749",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran’s top security official said the Strait of Hormuz would not reopen until the U.S. met a sweeping list of demands, including withdraw the U.S. military from around Iran, pay war reparations and release frozen Iranian assets.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086201818606915749",
+    "published_at": "2026-08-08T21:24:07+00:00",
+    "fetched_at": "2026-08-08T21:53:12.190010+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该消息涉及地缘政治风险，霍尔木兹海峡关闭可能影响全球原油供应，推高油价，对股市和能源相关资产产生负面影响。建议关注原油期货及能源板块。",
+      "translation": "突发：伊朗最高安全官员表示，霍尔木兹海峡不会重新开放，除非美国满足一系列广泛要求，包括从伊朗周围撤出美军、支付战争赔款并释放冻结的伊朗资产。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086180898513588292",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

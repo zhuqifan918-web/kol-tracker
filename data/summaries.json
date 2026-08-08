@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
-      "AAPL",
-      "NVDA",
       "META",
-      "AMZN"
+      "MSFT",
+      "ORCL",
+      "NVDA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "mixed",
     "key_themes": [
-      "市场波动与利率政策",
-      "宏观经济与通胀",
-      "人工智能与科技",
-      "地缘政治风险",
-      "市场工具推广"
+      "地缘政治风险与能源供应",
+      "人工智能与科技投资",
+      "利率政策与通胀",
+      "市场泡沫与估值担忧",
+      "期权与市场流动性"
     ],
-    "recent_shift": "近期观点转向对市场高位和利率上行的担忧，同时强调地缘政治风险（如霍尔木兹海峡）对市场的影响。",
+    "recent_shift": "近期推文从乐观转为更加谨慎，强调市场风险（如地缘冲突、通胀和泡沫警告）。",
     "representative_quotes": [
-      "Michael Burry has said we are near the top of the market",
-      "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
-      "BREAKING: Fed Chair Kevin Warsh is reportedly prepared to support a rate hike in September, per FT"
+      "BREAKING: Michael Burry has said we are near the top of the market",
+      "BREAKING: Bank of America has said that bullish sentiment has \"gone too far\"",
+      "BREAKING: Trump says US officials are holding \"very good\" talks with Iran and that a deal to reopen the Strait of Hormuz could be reached as soon as today."
     ],
-    "generated_at": "2026-08-08T21:21:08.592980+00:00"
+    "generated_at": "2026-08-08T21:53:25.233760+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
