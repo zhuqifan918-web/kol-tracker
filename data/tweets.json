@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2085974141501612461",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I've mapped the entire Wall Street bear playbook on AI names:\n\nHave your favorite institution/media insert one of these name down below:\n\n1. < ______ [GPUs, Transcivers, MLCC, Memory...] are a commodity set to crash> \n\n2. < ______ [YMTC, CXMT, Dongshan...] from China will flood the market > \n\n3. < ______ [Micron, Nvidia, ...] from unverifiable channel checks is facing issues > \n\n4. < ______ [Kospi, Sivers, ...] is a bubble like the ____ [2007, 2021] crash> \n\n5. <____ [1,2,3, ...] unexpected rate hikes this year>\n\n6. < _____ [Google, Nvidia, Deepseek ...] optimization removes the need of this!>  \n\nin a new headline, and it's ready to go!",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2085974141501612461",
+    "published_at": "2026-08-08T06:19:25+00:00",
+    "fetched_at": "2026-08-08T07:26:48.997757+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MU"
+      ],
+      "direction": "bearish",
+      "summary": "该推文批评华尔街通过媒体和机构对AI相关股票（如英伟达、美光）散布负面消息，列出常见的看跌策略，意图打压股价。整体呈现对AI板块的看空观点。",
+      "translation": "我已经描绘了华尔街针对AI股票的完整看跌剧本：让您最喜欢的机构/媒体在下面填入一个名称：1. <______ [GPU、收发器、MLCC、内存...] 是即将崩盘的大宗商品> 2. <______ [YMTC、CXMT、东山...] 将大量涌入市场> 3. <______ [美光、英伟达...] 来自无法验证的渠道检查正面临问题> 4. <______ [韩国综指、Sivers...] 就像____ [2007、2021] 崩盘一样的泡沫> 5. <____ [1、2、3...] 今年意外加息> 6. <_____ [谷歌、英伟达、Deepseek...] 优化消除了对此的需求！> 想出新标题，随时可用！",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2085959345200591001",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
