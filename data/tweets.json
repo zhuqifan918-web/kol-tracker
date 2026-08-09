@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2086247069900300393",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.\n\nGiven recent industry earnings:\n\n> $AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck).\n\n> $MTSI saying many \"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\" (in other product lines)\n\n> US proposal ban on new Chinese optical transceivers (Innolight/Eoptolink)\n\n> AOI no meaningful participation in first-gen CPO deployments due to lasers being allocated toward transceivers. \n\nThe read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too.\n\nGiven the widespread shortage and demand imbalance for InP CW DFB capacity.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2086247069900300393",
+    "published_at": "2026-08-09T00:23:56+00:00",
+    "fetched_at": "2026-08-09T00:56:10.921411+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "AAOI",
+        "MTSI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为，基于行业需求失衡和供应链瓶颈，Sivers Photonics的产能收入预测可能被低估，并暗示其股价有上涨潜力。",
+      "translation": "我认为是时候重新审视$SIVE ~4.27亿美元/年的中期产能收入建模预测了。鉴于近期行业财报：$AAOI提到收发器需求失衡达20-40%（激光器是瓶颈）。$MTSI表示许多客户因磷化铟DFB激光器普遍供应短缺而急切前来（在其他产品线）。美国提议禁止新的中国光收发器（ Innolight/Eoptolink）。AOI由于激光器被分配给收发器，未实质性参与第一代CPO部署。这意味着可以将应用于$AAOI的产能需求吸收模型，也应用于像Sivers这样的其他激光器厂商。鉴于InP CW DFB产能的普遍短缺和需求失衡。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086241296771924392",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "MicroStrategy's, $MSTR, Michael Saylor has said he made $15 billion last year with ChatGPT",
+    "tweet_url": "https://x.com/unusual_whales/status/2086241296771924392",
+    "published_at": "2026-08-09T00:01:00+00:00",
+    "fetched_at": "2026-08-09T00:56:35.068291+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSTR"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及MicroStrategy的CEO Michael Saylor声称去年通过ChatGPT赚了150亿美元，但未给出具体投资建议或市场分析。此消息可能影响投资者对MSTR及其管理层能力的看法，但未明确指向利好或利空。",
+      "translation": "MicroStrategy的Michael Saylor表示，他去年通过ChatGPT赚了150亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086201818606915749",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
