@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MSTR",
-      "ORCL",
-      "NBIS",
+      "META",
+      "AAPL",
       "TSLA",
-      "AAPL"
+      "SPCX",
+      "MRNA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI与科技投资",
-      "地缘政治风险",
-      "市场情绪与交易工具"
+      "人工智能与科技投资",
+      "地缘政治与能源市场",
+      "美联储政策与通胀",
+      "市场情绪与期权交易",
+      "加密货币与监管"
     ],
-    "recent_shift": "近期更关注地缘政治紧张局势和央行政策变化对市场的影响。",
+    "recent_shift": "近期观点从关注地缘风险和通胀担忧转向乐观，强调市场新高和AI驱动的增长机会。",
     "representative_quotes": [
-      "People talk about options simply. What if you saw how the pros do it instead?",
-      "BREAKING: Michael Burry has said we are near the top of the market",
-      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto."
+      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto.",
+      "Tom Lee has said the S&P500 will hit 8,000 in August.",
+      "BREAKING: There have been a record number of S&P500 call options purchased, per Bloomberg."
     ],
-    "generated_at": "2026-08-09T17:03:16.035343+00:00"
+    "generated_at": "2026-08-09T23:24:41.705264+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086508608867459470",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump on Iran: \"We are low keying it… We are only semi-negotiating with them. We are just watching Iran with its huge inflation and the fact they have no money.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2086508608867459470",
+    "published_at": "2026-08-09T17:43:12+00:00",
+    "fetched_at": "2026-08-09T23:24:32.835639+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普言论涉及伊朗经济困境，提及高通胀和财政困难，但未直接提及具体市场或投资标的。该言论可能对地缘政治风险和油价产生影响，但未提供明确投资信号。",
+      "translation": "特朗普谈伊朗：\"我们正在低调处理……我们只是在半谈判。我们只是看着伊朗，因其高通胀且没有钱。\"",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2086482889248473173",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
