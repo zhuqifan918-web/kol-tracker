@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086304269943419276",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "All right chat, it’s that time of the month again.\n\nWhat’s your #1 highest conviction stock and why? \n\nI actually learn a lot from reading these, so share some cool ideas.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2086304269943419276",
+    "published_at": "2026-08-09T04:11:14+00:00",
+    "fetched_at": "2026-08-09T04:16:24.190460+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文询问社群成员最高信念的股票推荐，以收集投资观点，但本身未提供具体标的或方向性分析。",
+      "translation": "各位，又到了每月一次的时候了。你最有信心的股票是什么？为什么？我实际上能从这些回复中学到很多，所以分享一些好点子吧。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2086247069900300393",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -4081,6 +4100,25 @@
       "direction": "neutral",
       "summary": "该推文提及市场参与者强调许多追加保证金通知是由合约风险管理条款自动触发，而非券商自由裁量，反映了市场机制在风险控制中的作用，但未涉及具体投资标的或方向，因此对投资决策影响中性。",
       "translation": "市场参与者强调，许多追加保证金通知是由合约风险管理条款自动触发的，而非主要券商的自由裁量行动。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2083760320062083406",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Trump announced that US has cancelled its attack on Iran.\n\nAnd that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program.\n\nAnyone else feel like they’ve aged a few years in the past 6 months? https://t.co/4PK671c548",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2083760320062083406",
+    "published_at": "2026-08-02T03:42:29+00:00",
+    "fetched_at": "2026-08-09T04:16:29.289103+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及美国取消对伊朗的军事打击，并可能达成关于霍尔木兹海峡和核计划的协议，这一地缘政治缓和可能影响原油价格和全球市场风险偏好。但推文未提供具体投资建议或标的，仅表达对局势快速变化的感慨，短期内可能利好风险资产，但需关注后续协议落实情况。",
+      "translation": "特朗普宣布美国已取消对伊朗的打击。并且他们已同意就开放海峡和终止核计划的协议范围达成一致。有没有人和我一样觉得在过去的6个月里老了几岁？https://t.co/4PK671c548",
       "confidence": "medium"
     }
   },
