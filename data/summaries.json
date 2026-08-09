@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AAOI",
-      "$SIVE",
-      "$NVDA",
-      "$LITE",
-      "$MU"
+      "SIVE",
+      "AAOI",
+      "LITE",
+      "MU",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资持续增长",
-      "光电子瓶颈与CPO技术",
-      "内存结构性短缺",
-      "AI泡沫论与市场恐慌",
-      "人形机器人未来"
+      "AI硬件供应链瓶颈",
+      "光模块与激光器需求失衡",
+      "内存（DRAM/HBM）持续短缺",
+      "CPO（共封装光学）发展趋势",
+      "算力需求与超大规模数据中心资本开支"
     ],
-    "recent_shift": "近期观点从整体看多转向强调市场波动和杠杆风险，但仍维持长期看多，认为基本面未变。",
+    "recent_shift": "近期观点从对市场恐慌的担忧转向强调基本面未变，认为当前下跌是流动性问题而非趋势改变。",
     "representative_quotes": [
-      "I can't tell others what to do: But $AAOI at $140 and $AAOI at $75 are the same company.",
-      "Lumentum are buying CW off the open market due to EML obligations from their ER transcript. And $AMD are signing LTAs to secure CW capacity (from Trendforce).",
-      "Stop panicking. Take a second and really evaluate what you’re holding in your portfolio. If your long term thesis hasn’t changed… Close your brokerage app. Go live your life."
+      "AAOI at $140 and AAOI at $75 are the same company.",
+      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
+      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts."
     ],
-    "generated_at": "2026-08-08T23:19:06.690782+00:00"
+    "generated_at": "2026-08-09T00:56:48.192325+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "META",
-      "MSFT",
+      "MSTR",
+      "AAPL",
       "ORCL",
-      "NVDA"
+      "NVDA",
+      "AMZN"
     ],
-    "overall_bias": "mixed",
+    "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险与能源供应",
-      "人工智能与科技投资",
+      "市场波动与地缘政治风险",
       "利率政策与通胀",
-      "市场泡沫与估值担忧",
-      "期权与市场流动性"
+      "科技与AI投资",
+      "市场泡沫与抛售",
+      "工具与数据分析"
     ],
-    "recent_shift": "近期推文从乐观转为更加谨慎，强调市场风险（如地缘冲突、通胀和泡沫警告）。",
+    "recent_shift": "近期从乐观转向谨慎，强调市场可能接近顶部并面临回调风险。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has said we are near the top of the market",
-      "BREAKING: Bank of America has said that bullish sentiment has \"gone too far\"",
-      "BREAKING: Trump says US officials are holding \"very good\" talks with Iran and that a deal to reopen the Strait of Hormuz could be reached as soon as today."
+      "Michael Burry has said we are near the top of the market",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "BREAKING: Bank of America has said that bullish sentiment has \"gone too far\""
     ],
-    "generated_at": "2026-08-08T21:53:25.233760+00:00"
+    "generated_at": "2026-08-09T00:56:50.422671+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
