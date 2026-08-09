@@ -25,25 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "META",
       "AAPL",
+      "META",
+      "MRNA",
       "MSTR",
-      "MRNA"
+      "SPCX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "美联储政策与利率路径",
-      "市场结构与工具更新",
-      "地缘政治风险与能源市场"
+      "期权与市场流动性",
+      "AI与科技投资",
+      "市场结构性机会",
+      "地缘政治风险影响"
     ],
-    "recent_shift": "近期观点向谨慎转变，强调市场杠杆和估值风险，同时关注政策不确定性和地缘政治紧张局势。",
+    "recent_shift": "近期观点从关注地缘政治紧张转向强调市场创新和科技投资机会，并更多推广自身产品。",
     "representative_quotes": [
-      "The sell America trade is returning, per Barclays.",
-      "Bank of America has said that bullish sentiment has \"gone too far\".",
-      "Michael Burry has said we are near the top of the market."
+      "Berkshire Hathaway said it began reducing its enormous stockpile of cash in the second quarter, investing billions of dollars in stocks such as Alphabet and repurchasing billions of its own",
+      "BREAKING: There have been a record number of S&P500 call options purchased, per Bloomberg.",
+      "Tom Lee has said the S&P500 will hit 8,000 in August."
     ],
-    "generated_at": "2026-08-09T15:32:06.671730+00:00"
+    "generated_at": "2026-08-09T16:22:36.808237+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
