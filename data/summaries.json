@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MSTR",
-      "AAPL",
-      "ORCL",
+      "SPCX",
+      "META",
       "NVDA",
-      "AMZN"
+      "AAPL",
+      "MSTR"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "市场波动与地缘政治风险",
-      "利率政策与通胀",
-      "科技与AI投资",
-      "市场泡沫与抛售",
-      "工具与数据分析"
+      "AI基础设施建设",
+      "人工智能芯片与内存",
+      "马斯克与SpaceX",
+      "市场情绪与创新高",
+      "美联储政策与利率"
     ],
-    "recent_shift": "近期从乐观转向谨慎，强调市场可能接近顶部并面临回调风险。",
+    "recent_shift": "近几日推特从关注市场宏观风险转向更积极宣传工具和AI增长机会，语气更加乐观。",
     "representative_quotes": [
-      "Michael Burry has said we are near the top of the market",
-      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
-      "BREAKING: Bank of America has said that bullish sentiment has \"gone too far\""
+      "One minute Periscope updates can completely change how you read power hour.",
+      "MicroStrategy's, $MSTR, Michael Saylor has said he made $15 billion last year with ChatGPT",
+      "The market continually has hit new all time highs this year. Unusual Whales was made to capture these plays."
     ],
-    "generated_at": "2026-08-09T00:56:50.422671+00:00"
+    "generated_at": "2026-08-09T06:07:35.580807+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
