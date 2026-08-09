@@ -38,6 +38,25 @@
     }
   },
   {
+    "tweet_id": "2086256396123967948",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "36% of US companies say they gave out standard, across-the-board pay increases this year, per Payscale",
+    "tweet_url": "https://x.com/unusual_whales/status/2086256396123967948",
+    "published_at": "2026-08-09T01:01:00+00:00",
+    "fetched_at": "2026-08-09T10:59:37.842462+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文指出36%的美国公司今年进行了标准普涨工资，这通常意味着消费支出有望增加，可能对企业盈利和股市构成利好。但影响较为间接，缺乏具体投资标的。",
+      "translation": "据Payscale数据，36%的美国公司表示今年进行了标准、全面加薪。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2086247069900300393",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
