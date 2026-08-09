@@ -25,26 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "META",
-      "MRNA",
       "MSTR",
-      "SPCX"
+      "ORCL",
+      "NBIS",
+      "TSLA",
+      "AAPL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "期权与市场流动性",
       "AI与科技投资",
-      "市场结构性机会",
-      "地缘政治风险影响"
+      "地缘政治风险",
+      "市场情绪与交易工具"
     ],
-    "recent_shift": "近期观点从关注地缘政治紧张转向强调市场创新和科技投资机会，并更多推广自身产品。",
+    "recent_shift": "近期更关注地缘政治紧张局势和央行政策变化对市场的影响。",
     "representative_quotes": [
-      "Berkshire Hathaway said it began reducing its enormous stockpile of cash in the second quarter, investing billions of dollars in stocks such as Alphabet and repurchasing billions of its own",
-      "BREAKING: There have been a record number of S&P500 call options purchased, per Bloomberg.",
-      "Tom Lee has said the S&P500 will hit 8,000 in August."
+      "People talk about options simply. What if you saw how the pros do it instead?",
+      "BREAKING: Michael Burry has said we are near the top of the market",
+      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto."
     ],
-    "generated_at": "2026-08-09T16:22:36.808237+00:00"
+    "generated_at": "2026-08-09T17:03:16.035343+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
