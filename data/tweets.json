@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2086437590706639127",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nWe've made it so you can see where market makers are directly positioned with our Periscope tool.\n\nIt is a must have toolset for you.\n\nSee more: https://t.co/BzU8AZk8im https://t.co/hBgy33hpMx",
+    "tweet_url": "https://x.com/unusual_whales/status/2086437590706639127",
+    "published_at": "2026-08-09T13:01:00+00:00",
+    "fetched_at": "2026-08-09T13:41:27.858156+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣传一款名为Periscope的工具，该工具可直接显示做市商的持仓位置，对交易者具有参考价值。属于市场分析工具推广，未提及具体投资标的或方向。",
+      "translation": "看这个。我们通过Periscope工具让你直接看到做市商的持仓位置。这对你来说是一个必备的工具集。查看更多：https://t.co/BzU8AZk8im",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086422490872713578",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We have launched the free trial of the Unusual Whales API.\n\nThe Unusual Whales API gives full access to live options, equities, prediction market data, congress trades and much more.\n\nIt is a must have for traders.\n\nCheck it out here: https://t.co/JWOGQSKf9Y https://t.co/S237y5VorQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2086422490872713578",
+    "published_at": "2026-08-09T12:01:00+00:00",
+    "fetched_at": "2026-08-09T13:41:29.988479+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布了Unusual Whales API的免费试用，该API提供实时期权、股票、预测市场数据和国会交易等，面向交易者，属于金融数据服务推广，未提及具体投资标的或方向。",
+      "translation": "我们推出了Unusual Whales API的免费试用。该API提供完整的实时期权、股票、预测市场数据、国会交易等。这是交易者必备的工具。点击这里查看：https://t.co/JWOGQSKf9Y https://t.co/S237y5VorQ",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086329794065518770",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
