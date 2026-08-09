@@ -27,25 +27,25 @@
     "focus_tickers": [
       "SPCX",
       "META",
-      "NVDA",
       "AAPL",
-      "MSTR"
+      "NVDA",
+      "TSLA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施建设",
-      "人工智能芯片与内存",
-      "马斯克与SpaceX",
-      "市场情绪与创新高",
-      "美联储政策与利率"
+      "AI与科技投资",
+      "地缘政治风险（霍尔木兹海峡）",
+      "宏观经济与利率政策",
+      "市场波动与对冲策略",
+      "期权与市场工具"
     ],
-    "recent_shift": "近几日推特从关注市场宏观风险转向更积极宣传工具和AI增长机会，语气更加乐观。",
+    "recent_shift": "近期对市场态度从乐观转向谨慎，强调高位风险和可能的大幅回调。",
     "representative_quotes": [
-      "One minute Periscope updates can completely change how you read power hour.",
-      "MicroStrategy's, $MSTR, Michael Saylor has said he made $15 billion last year with ChatGPT",
-      "The market continually has hit new all time highs this year. Unusual Whales was made to capture these plays."
+      "Breaking: Michael Burry has said we are near the top of the market",
+      "The sell America trade is returning, per Barclays",
+      "Bank of America has said that bullish sentiment has 'gone too far'"
     ],
-    "generated_at": "2026-08-09T06:07:35.580807+00:00"
+    "generated_at": "2026-08-09T10:59:50.712527+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
