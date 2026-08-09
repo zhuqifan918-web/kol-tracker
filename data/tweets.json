@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086482889248473173",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "People talk about options simply.\n\nWhat if you saw how the pros do it instead?\n\nWhat if you saw their strategies live?\n\nCheck out the Unusual Whales Multi-Leg Flow tool.  It lets you see the pros in action, as they put their trades.\n\nSee more: https://t.co/eKeyYPleRO https://t.co/9aqna9Z3IW",
+    "tweet_url": "https://x.com/unusual_whales/status/2086482889248473173",
+    "published_at": "2026-08-09T16:01:00+00:00",
+    "fetched_at": "2026-08-09T17:03:04.353615+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales的多腿期权流工具，该工具可展示专业交易者的实时策略，但未提及具体投资标的或给出明确投资建议。",
+      "translation": "人们谈论期权很简单。如果你能看到专业人士是如何做的呢？如果你能看到他们的实时策略呢？查看Unusual Whales的多腿期权流工具。它让你看到专业人士的交易动作。更多信息：https://t.co/eKeyYPleRO https://t.co/9aqna9Z3IW",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086475102778990752",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
