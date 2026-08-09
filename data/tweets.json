@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2086475102778990752",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Berkshire Hathaway said it began reducing its enormous stockpile of cash in the second quarter, investing billions of dollars in stocks such as Alphabet and repurchasing billions of its own",
+    "tweet_url": "https://x.com/unusual_whales/status/2086475102778990752",
+    "published_at": "2026-08-09T15:30:03+00:00",
+    "fetched_at": "2026-08-09T15:31:53.927817+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK",
+        "GOOGL",
+        "GOOG"
+      ],
+      "direction": "bullish",
+      "summary": "伯克希尔哈撒韦在第二季度开始减持巨额现金，投资了数十亿美元于Alphabet等股票，并回购了自家股票，表明其对市场持积极态度，尤其看好Alphabet。",
+      "translation": "伯克希尔哈撒韦表示，在第二季度开始减少其巨额现金储备，投资数十亿美元于Alphabet等股票，并回购了数十亿美元自家股票。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2086452689706295752",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -154,6 +177,25 @@
       "direction": "neutral",
       "summary": "该推文提及MicroStrategy的CEO Michael Saylor声称去年通过ChatGPT赚了150亿美元，但未给出具体投资建议或市场分析。此消息可能影响投资者对MSTR及其管理层能力的看法，但未明确指向利好或利空。",
       "translation": "MicroStrategy的Michael Saylor表示，他去年通过ChatGPT赚了150亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086211097682677886",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Undergraduate enrollment in computer and information sciences at four-year institutions declined 8.4% in spring 2026 from a year earlier, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2086211097682677886",
+    "published_at": "2026-08-08T22:01:00+00:00",
+    "fetched_at": "2026-08-09T15:31:59.203307+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文报道了2026年春季美国四年制大学计算机与信息科学本科入学人数同比下降8.4%，这可能意味着未来科技行业人才供应减少，对科技公司长期招聘和人力成本可能构成压力，或暗示行业吸引力下降，对科技股估值产生负面影响。",
+      "translation": "据《财富》杂志报道，2026年春季四年制大学计算机与信息科学本科入学人数同比下降8.4%。",
       "confidence": "medium"
     }
   },
