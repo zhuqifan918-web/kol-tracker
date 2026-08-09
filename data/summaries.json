@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$SPCX",
-      "$META",
+      "$MSTR",
+      "$ORCL",
+      "$NBIS",
       "$AAPL",
-      "$MSFT",
-      "$AMZN"
+      "$TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "市场波动与地缘政治风险",
-      "美联储政策与利率",
-      "科技投资与AI",
-      "市场情绪与杠杆",
-      "企业财报与个股动态"
+      "AI与科技投资",
+      "地缘政治风险",
+      "利率与货币政策",
+      "市场情绪与泡沫担忧",
+      "期权与市场微观结构"
     ],
-    "recent_shift": "近期观点从乐观转向谨慎，强调市场可能接近顶部并存在回调风险。",
+    "recent_shift": "近期观点从对AI和科技股的乐观转向对市场顶部和泡沫的担忧，同时关注地缘政治和利率风险。",
     "representative_quotes": [
-      "We are near a major top, and possible a 1987-type fall",
-      "Inflation now matters more than jobs, per Goldman Sachs",
-      "The sell America trade is returning, per Barclays"
+      "Michael Burry has said we are near the top of the market",
+      "BREAKING: Michael Burry has bet against the rally, saying, \"We are near a major top, and possible a 1987-type fall\"",
+      "BREAKING: Bank of America has said that bullish sentiment has \"gone too far\""
     ],
-    "generated_at": "2026-08-09T13:41:40.315407+00:00"
+    "generated_at": "2026-08-09T14:25:04.868695+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
