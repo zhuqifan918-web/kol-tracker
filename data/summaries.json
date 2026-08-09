@@ -5,23 +5,23 @@
       "AAOI",
       "LITE",
       "MU",
-      "SNDK"
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件供应链瓶颈",
-      "光模块与激光器需求失衡",
-      "内存（DRAM/HBM）持续短缺",
-      "CPO（共封装光学）发展趋势",
-      "算力需求与超大规模数据中心资本开支"
+      "人工智能基础设施建设",
+      "光模块与激光器瓶颈",
+      "存储芯片短缺",
+      "共封装光学",
+      "供应链去中国化"
     ],
-    "recent_shift": "近期观点从对市场恐慌的担忧转向强调基本面未变，认为当前下跌是流动性问题而非趋势改变。",
+    "recent_shift": "从侧重光模块与激光器转向更广泛的AI硬件与供应链瓶颈，并强调近期下跌是杠杆而非基本面驱动。",
     "representative_quotes": [
-      "AAOI at $140 and AAOI at $75 are the same company.",
-      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
-      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts."
+      "I think it’s a good time to revisit $SIVE",
+      "The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too.",
+      "Markets tend to rotate from bottleneck to bottleneck."
     ],
-    "generated_at": "2026-08-09T00:56:48.192325+00:00"
+    "generated_at": "2026-08-09T04:17:02.174229+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
