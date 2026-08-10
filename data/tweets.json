@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086805766908862768",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales live trading show is live now!\n\nJoin our hosts as they trade the open and scour options flow for the next trade!\n\nhttps://t.co/sj6HS4G2uT",
+    "tweet_url": "https://x.com/unusual_whales/status/2086805766908862768",
+    "published_at": "2026-08-10T13:24:00+00:00",
+    "fetched_at": "2026-08-10T14:13:31.654415+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这是一条关于Unusual Whales直播交易节目的通知，旨在吸引观众观看实盘交易和期权流分析，但没有提供具体的投资建议或市场观点。",
+      "translation": "刚刚：Unusual Whales实盘交易节目现在开播了！加入我们的主持人，他们将在开盘时进行交易，并搜寻期权流以寻找下一个交易机会！https://t.co/sj6HS4G2uT",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086785104333177130",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -466,6 +485,25 @@
       "direction": "bearish",
       "summary": "该推文通过分析大型云厂商的强劲AI需求，反衬Nebius（NBIS）的增长数据看似亮眼但可能存在风险，建议做空NBIS并做多Lululemon（LULU）作为对冲。整体对NBIS持看空态度，对LULU持看多态度。",
       "translation": "今天我写一份关于如何做空$NBIS的周末指南：首先，你看超大规模云厂商的财报，了解AI云业务的传导效应：\n> $GOOGL：财报显示AI云需求创纪录，积压订单和利润率上升\n> $AMZN：财报显示AI云需求创纪录，积压订单和利润率上升\n> $META：财报显示可用容量价格高于预期\n现在，来看Nebius：\n-> $NBIS：以数百%的速度增长，预计Q4达到70-90亿美元ARR。利润率增长，并引导了4GW+的合同电力。\n-> 看到Uber/Waymo分拆，更多关注Avride\n-> 看到Clickhouse每个季度快速增长。\n好吧，看起来不好！但接下来，你需要对冲？\n-> 哇！一位$NIKE品牌高管，在该股过去5年下跌75%后，去了$LULU拯救那个品牌？Lululemon似乎不错。\n结论：做空Nebius，做多$LULU",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086150699612774750",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "More than 40 companies have laid off employees so far in 2026, per BI",
+    "tweet_url": "https://x.com/unusual_whales/status/2086150699612774750",
+    "published_at": "2026-08-08T18:01:00+00:00",
+    "fetched_at": "2026-08-10T14:13:51.050813+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及2026年已有超过40家公司裁员，反映出经济或企业盈利面临压力，可能对股市构成负面影响。由于未提及具体公司或行业，属于宏观层面的利空信号。",
+      "translation": "据商业内幕报道，2026年迄今为止已有超过40家公司进行了裁员。",
       "confidence": "medium"
     }
   },
