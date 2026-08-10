@@ -28,24 +28,24 @@
       "NVDA",
       "AAPL",
       "META",
-      "TSLA",
-      "AMZN"
+      "SPCX",
+      "ORCL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资",
-      "美联储政策与利率",
-      "地缘政治风险（伊朗与霍尔木兹海峡）",
-      "股市估值与杠杆",
-      "消费与劳动力市场"
+      "人工智能与数据中心投资",
+      "地缘政治风险（霍尔木兹海峡）",
+      "市场情绪与期权活动",
+      "利率路径与美联储政策",
+      "企业盈利与回购"
     ],
-    "recent_shift": "近期观点从关注美联储降息转向对高杠杆和地缘政治风险的警惕。",
+    "recent_shift": "近期从关注市场回调风险转向更多关注企业利好消息和积极的市场预测，如JPMorgan上调标普500目标价。",
     "representative_quotes": [
-      "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
-      "BREAKING: Iran says the Strait of Hormuz will not return to pre-war operating conditions.",
-      "BREAKING: Bank of America has said that bullish sentiment has 'gone too far'"
+      "BREAKING: \"Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street,\" per FT",
+      "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800",
+      "He added that new highs on the S&P 500 will likely pull fresh money into the market before any reversal."
     ],
-    "generated_at": "2026-08-10T19:28:26.634322+00:00"
+    "generated_at": "2026-08-10T20:08:06.592695+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
