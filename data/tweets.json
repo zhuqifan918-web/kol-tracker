@@ -1,5 +1,69 @@
 [
   {
+    "tweet_id": "2086920018621509762",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Mark Zuckerberg of $META has said that the future with AI will have an ‘abundance of jobs.'",
+    "tweet_url": "https://x.com/unusual_whales/status/2086920018621509762",
+    "published_at": "2026-08-10T20:58:00+00:00",
+    "fetched_at": "2026-08-10T21:09:27.136521+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "扎克伯格对AI未来就业前景持乐观态度，认为将创造大量就业机会。这暗示AI技术可能带来长期经济增长，但短期影响尚不明确。对META整体情绪中性。",
+      "translation": "$META的马克·扎克伯格表示，人工智能的未来将带来'丰富的就业机会'。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086913223878414647",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry: Berkshire Hathaway is no longer an attractive investment.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086913223878414647",
+    "published_at": "2026-08-10T20:31:00+00:00",
+    "fetched_at": "2026-08-10T21:09:28.720370+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK"
+      ],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里认为伯克希尔·哈撒韦不再具有吸引力，可能暗示其估值过高或未来回报预期不佳，属于看空观点。",
+      "translation": "迈克尔·伯里：伯克希尔·哈撒韦不再是一个有吸引力的投资。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2086908194291646870",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Rocket Lab, $RKLB, earnings:\n\n- Revenue: $234 million, est: $230 million\n- EPS: -$0.08, est: -$0.08\n\n$HIMS earnings:\n\n- Revenue: $753 million, est: $730 million\n- EPS: -$0.37, est: -$0.05",
+    "tweet_url": "https://x.com/unusual_whales/status/2086908194291646870",
+    "published_at": "2026-08-10T20:11:01+00:00",
+    "fetched_at": "2026-08-10T21:09:30.944101+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RKLB",
+        "HIMS"
+      ],
+      "direction": "neutral",
+      "summary": "该推文报道了Rocket Lab和Hims & Hers Health两家公司的财报数据。Rocket Lab的营收略超预期，每股收益符合预期；Hims的营收超预期，但每股收益大幅低于预期。整体信息仅为财报披露，未给出明确投资建议，因此方向中性。",
+      "translation": "Rocket Lab（$RKLB）财报：营收2.34亿美元，预期2.30亿美元；每股收益-0.08美元，预期-0.08美元。$HIMS财报：营收7.53亿美元，预期7.30亿美元；每股收益-0.37美元，预期-0.05美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2086899634429931524",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
