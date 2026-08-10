@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "AAPL",
-      "TSLA",
       "SPCX",
-      "MRNA"
+      "META",
+      "SNDK",
+      "AAPL",
+      "MSFT"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI发展与自动化交易工具",
-      "地缘政治与能源安全",
-      "市场流动性与杠杆风险",
-      "通胀与利率政策"
+      "地缘政治风险与市场影响",
+      "美联储政策与利率路径",
+      "AI与科技资本支出",
+      "期权市场与交易工具",
+      "市场高杠杆与风险警示"
     ],
-    "recent_shift": "",
+    "recent_shift": "近期从关注降息预期转变为关注可能加息及市场脆弱性，同时地缘政治事件成为主要波动源。",
     "representative_quotes": [
-      "Inflation now matters more than jobs, per Goldman Sachs",
-      "Tom Lee has said the S&P500 will hit 8,000 in August.",
+      "People talk about options simply. What if you saw how the pros do it instead? What if you saw their strategies live?",
+      "BREAKING: Michael Burry has said we are near the top of the market",
       "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
     ],
-    "generated_at": "2026-08-10T06:49:18.424053+00:00"
+    "generated_at": "2026-08-10T14:13:55.577193+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
