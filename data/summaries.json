@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "AAOI",
+      "SIVE",
       "LITE",
       "MU",
-      "MTSI"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学互连与激光器瓶颈",
-      "AI基础设施与超大规模资本支出",
-      "内存结构性短缺",
+      "光学互连与激光瓶颈",
+      "内存与存储超级周期",
+      "AI算力基础设施扩张",
       "CPO与硅光子学",
-      "机器人技术与人形机器人"
+      "人形机器人"
     ],
-    "recent_shift": "近期观点从单纯看多光学与内存，转向更强调'瓶颈'论点的验证和市场回调中的买入机会，同时关注CPO和激光器供应紧张。",
+    "recent_shift": "近期观点从关注市场回调风险转向强调基本面未变，并继续看好AI相关瓶颈行业。",
     "representative_quotes": [
-      "AAOI's CEO stated 'The customer demand is 20%-40% higher' than expanded built out capacity.",
-      "From $MTSI earnings: 'Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers'",
-      "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections."
+      "But $AAOI at $140 and $AAOI at $75 are the same company.",
+      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
     ],
-    "generated_at": "2026-08-10T09:55:22.828553+00:00"
+    "generated_at": "2026-08-10T16:23:57.599470+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -31,20 +31,21 @@
       "ORCL",
       "NBIS"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "关税与贸易政策",
-      "利率与货币政策",
-      "地缘政治风险",
-      "科技行业趋势"
+      "地缘政治风险（霍尔木兹海峡）",
+      "美联储政策与利率走向",
+      "市场风险偏好与杠杆",
+      "科技股与AI投资",
+      "消费与劳动力市场"
     ],
-    "recent_shift": "从关注市场回调风险转向关注利率上调预期和地缘政治紧张局势。",
+    "recent_shift": "近期观点从乐观转向谨慎，强调市场脆弱性和潜在下行风险。",
     "representative_quotes": [
-      "BREAKING: Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk, per Goldman Sachs.",
-      "BREAKING: Michael Burry has said we are near the top of the market",
-      "BREAKING: Fed Chair Kevin Warsh is reportedly prepared to support a rate hike in September, per FT"
+      "Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+      "The sell America trade is returning, per Barclays.",
+      "Michael Burry has said we are near the top of the market"
     ],
-    "generated_at": "2026-08-10T15:29:44.329076+00:00"
+    "generated_at": "2026-08-10T16:23:54.665244+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
