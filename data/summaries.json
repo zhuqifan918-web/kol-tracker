@@ -24,49 +24,49 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
-      "TSLA",
-      "AAPL",
       "META",
-      "ORCL"
+      "AAPL",
+      "TSLA",
+      "SPCX",
+      "MRNA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与科技股",
-      "地缘政治风险（伊朗、霍尔木兹海峡）",
-      "通胀与利率政策",
-      "市场工具与期权交易"
+      "AI发展与自动化交易工具",
+      "地缘政治与能源安全",
+      "市场流动性与杠杆风险",
+      "通胀与利率政策"
     ],
-    "recent_shift": "近期观点从关注地缘政治风险转向关注美联储政策与经济数据，并强调市场工具的重要性。",
+    "recent_shift": "",
     "representative_quotes": [
-      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto.",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
-      "BREAKING: Michael Burry has said we are near the top of the market"
+      "Inflation now matters more than jobs, per Goldman Sachs",
+      "Tom Lee has said the S&P500 will hit 8,000 in August.",
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
     ],
-    "generated_at": "2026-08-10T03:11:19.424667+00:00"
+    "generated_at": "2026-08-10T06:49:18.424053+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SKHynix",
-      "MU",
       "META",
       "GOOGL",
+      "MU",
       "MRVL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "存储行业供需与价格波动",
-      "AI算力与模型竞争对存储需求的推动",
-      "交易所安全与用户资产保护",
-      "科技巨头投资与云业务前景",
-      "市场恐慌与逆向投资机会"
+      "存储芯片需求暴增与产能紧张",
+      "AI大模型竞争加剧与价格战",
+      "云厂商受益于AI需求",
+      "Gate门事件中的用户资金安全",
+      "市场波动与抄底机会"
     ],
-    "recent_shift": "从早期极度看好存储并满仓操作，转向在亏损后强调风险控制，计划保留30%现金并更多配置大盘指数，降低杠杆和激进程度。",
+    "recent_shift": "近期观点从关注存储芯片的供需紧张转向更广泛的市场波动和风险控制，并强调在暴跌中寻找机会。",
     "representative_quotes": [
-      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。",
-      "存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。未来俩年内会看到这个观点和变化。",
-      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。"
+      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。",
+      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月，谷歌这些云厂和claude他们投资回报的转化速度可以更快。",
+      "未来各大巨头搞物理AI的军备竞赛的时候，他们绝对的需求量不是gpu，cpu，只有存储。存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。"
     ],
-    "generated_at": "2026-08-08T06:04:02.803540+00:00"
+    "generated_at": "2026-08-10T06:49:21.278857+00:00"
   }
 }
