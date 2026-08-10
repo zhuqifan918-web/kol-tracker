@@ -1,5 +1,51 @@
 [
   {
+    "tweet_id": "2086634510935118161",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some near term events:\n\n- OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.\n\nThis should be a catalyst for certain optical players.\n\n- Earnings week: with $ASTS, $RKLB reporting today (space), $LITE on Tuesday (photonics), $NBIS in the middle of the week (Neocloud), and more.\n\n- Unitree IPO subscriptions opened up today and Listing is expected this month.\n\nShould be a potential catalyst for the humanoid + robotics sector if it opens up well eg. $CCXI.\n\nFun week ahead.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2086634510935118161",
+    "published_at": "2026-08-10T02:03:29+00:00",
+    "fetched_at": "2026-08-10T03:10:38.210208+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "ASTS",
+        "RKLB",
+        "LITE",
+        "NBIS",
+        "CCXI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出未来一周有多项催化剂，包括光通信与CPO相关公司的更新、太空和光子学公司的财报、以及Unitree IPO，可能对相关板块形成利好。作者认为这将是有趣的一周，整体态度偏乐观。",
+      "translation": "近期的一些事件：- 明天OCP亚太会议（Ayar、Lightmatter、$AMD、$NVDA），你们的CPO玩家将发布公告/更新。这应该成为某些光学玩家的催化剂。- 财报周：今天$ASTS、$RKLB报告（太空），周二$LITE（光子学），$NBIS在周中（Neocloud），等等。- Unitree IPO今天开放认购，预计本月上市。如果开盘表现良好，应该成为人形机器人和机器人板块的潜在催化剂，例如$CCXI。有趣的一周。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086513087490793823",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Food inflation in the US, per CNBC: https://t.co/GaNpDMfuIt",
+    "tweet_url": "https://x.com/unusual_whales/status/2086513087490793823",
+    "published_at": "2026-08-09T18:01:00+00:00",
+    "fetched_at": "2026-08-10T03:11:10.439461+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及美国食品通胀，引用CNBC报道。食品通胀数据可能影响消费类股票及整体市场情绪，但未提供具体投资标的或明确方向。",
+      "translation": "美国的食品通胀，据CNBC报道：https://t.co/GaNpDMfuIt",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086508608867459470",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
