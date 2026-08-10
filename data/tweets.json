@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086640068824035640",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "bbbb回来了minimax，\nminimax还有个科创板上市的利好没有被过会。 https://t.co/MADMILpfqL",
+    "tweet_url": "https://x.com/xiaomustock/status/2086640068824035640",
+    "published_at": "2026-08-10T02:25:34+00:00",
+    "fetched_at": "2026-08-10T06:48:55.738085+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及Minimax（可能指AI公司）已回归，并指出其尚未通过科创板上市审核，这可能成为未来的利好因素。消息面偏正面，但需关注审核进展。",
+      "translation": "bbbb回来了minimax，minimax还有个科创板上市的利好没有被过会。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2086634510935118161",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -80,6 +99,25 @@
       "direction": "neutral",
       "summary": "该推文推广Unusual Whales的多腿期权流工具，该工具可展示专业交易者的实时策略，但未提及具体投资标的或给出明确投资建议。",
       "translation": "人们谈论期权很简单。如果你能看到专业人士是如何做的呢？如果你能看到他们的实时策略呢？查看Unusual Whales的多腿期权流工具。它让你看到专业人士的交易动作。更多信息：https://t.co/eKeyYPleRO https://t.co/9aqna9Z3IW",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086479000629543373",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has privately told senior aides he may be willing to “walk away” from the Iran war without a nuclear deal if Iran fully reopens the Strait of Hormuz, per WSJ.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086479000629543373",
+    "published_at": "2026-08-09T15:45:33+00:00",
+    "fetched_at": "2026-08-10T06:49:13.477718+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息涉及地缘政治风险，特朗普可能愿意在伊朗核协议中做出让步，以换取霍尔木兹海峡重新开放。这可能缓解中东紧张局势，影响油价及全球市场情绪，但未直接提及具体股票或投资建议。",
+      "translation": "突发新闻：据《华尔街日报》报道，特朗普已私下告诉高级助手，如果伊朗完全重新开放霍尔木兹海峡，他可能愿意“放弃”伊朗战争，而不达成核协议。",
       "confidence": "medium"
     }
   },
