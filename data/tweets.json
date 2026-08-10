@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2086844269826851108",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Kevin Hassett: If I were at the Fed, I'd hold or cut rates.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086844269826851108",
+    "published_at": "2026-08-10T15:57:00+00:00",
+    "fetched_at": "2026-08-10T16:23:24.178181+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "Kevin Hassett表示如果他是美联储官员，会选择维持或降息，这暗示对当前利率水平持鸽派态度，可能对风险资产有利，但未明确具体投资方向。",
+      "translation": "凯文·哈塞特：如果我在美联储，我会维持利率或降息。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086840511164514742",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Be Barrons:\n\n- Wants to write about optical supply supply chains like $AAOI\n\n- Hiring DPT: who needs engineers to write about this something this simple?  Let’s find underpaid political philosophy backgrounds.\n\n- proceeds to find a new hire from nonprofit communication consulting\n\n- first day on job: gets paid to model revenue ramp/margins projections, CW laser bottlenecks, internal capacity\n\n- New hire: “I don’t understand this sht”, “looks like a memestock”\n\nBarrons: “Memestock? looks like our next article, I don’t understand either”.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2086840511164514742",
+    "published_at": "2026-08-10T15:42:04+00:00",
+    "fetched_at": "2026-08-10T16:22:57.952320+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI"
+      ],
+      "direction": "bearish",
+      "summary": "该推文讽刺巴伦周刊在缺乏专业知识的情况下报道光通信供应链，暗示其报道质量低劣，可能对相关股票（如AAOI）构成负面情绪影响。",
+      "translation": "巴伦周刊：想写关于光学供应链的文章，比如AAOI。招聘时认为这太简单不需要工程师，寻找政治哲学背景的低薪人员。然后从非营利沟通咨询公司招了人。新员工第一天上班就负责建模收入增长/利润率预测、CW激光瓶颈和内部产能。新员工表示“我不懂这些”，他觉得这看起来像一只模因股。巴伦周刊回应：“模因股？看起来是我们下一篇文章的题材，我也不懂。”",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2086834203530854481",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
