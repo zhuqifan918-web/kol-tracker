@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2086894601097334870",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: \"Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street,\" per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2086894601097334870",
+    "published_at": "2026-08-10T19:17:00+00:00",
+    "fetched_at": "2026-08-10T19:27:58.460868+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "多家顶级金融机构为英伟达筹集5000亿美元融资，这是华尔街史上最大规模融资，显示机构对英伟达未来前景强烈看好，可能对其股价产生积极影响。",
+      "translation": "突发：据《金融时报》报道，Apollo、黑石、贝莱德、Brookfield、高盛和KKR正在为英伟达（NVDA）筹集5000亿美元，这将是华尔街有史以来最大规模的融资。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2086889568041627709",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, has announced a $1 billion Future Is For Everyone Fund to directly support American cities and towns hosting its AI data centers.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086889568041627709",
+    "published_at": "2026-08-10T18:57:00+00:00",
+    "fetched_at": "2026-08-10T19:28:00.303203+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "Meta宣布设立10亿美元基金以支持其AI数据中心所在城市，这反映了其对AI基础设施的长期承诺，但并未直接影响短期财务业绩。投资者可关注该基金对社区关系及长期运营的潜在影响，但短期内可能不会改变股价走势。",
+      "translation": "Meta（$META）宣布设立一项10亿美元的‘未来人人基金’，直接支持其AI数据中心所在的美国城市和城镇。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086884534847767024",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Auto insurers are increasingly less likely to pay out, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2086884534847767024",
+    "published_at": "2026-08-10T18:37:00+00:00",
+    "fetched_at": "2026-08-10T19:28:02.139516+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及汽车保险公司越来越不愿意赔付，这可能增加保险公司的利润，但对投保人不利，也可能影响相关行业（如汽车维修、医疗等）的需求。对保险股可能是正面信号，但消息来源为WSJ，需结合更多信息判断。",
+      "translation": "据《华尔街日报》报道，汽车保险公司越来越不愿意赔付了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086874468568256769",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
