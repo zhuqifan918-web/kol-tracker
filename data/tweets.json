@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2086874468568256769",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Apple, $AAPL, has reportedly canceled its planned all-glass iPhone, per Jeffries.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086874468568256769",
+    "published_at": "2026-08-10T17:57:00+00:00",
+    "fetched_at": "2026-08-10T18:10:56.543740+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果据报取消全玻璃iPhone计划，可能影响未来产品创新预期，对股价构成一定压力。",
+      "translation": "突发：据报道，苹果公司已取消其全玻璃iPhone计划，消息来自Jeffries。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086864402196885685",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

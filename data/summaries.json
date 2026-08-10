@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MSFT",
-      "META",
+      "SPX",
+      "AAPL",
       "TSLA",
-      "AMZN",
-      "AAPL"
+      "META",
+      "TSM"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与供应链",
-      "AI投资与科技发展",
-      "货币政策与利率走向",
-      "市场情绪与对冲基金动向",
-      "期权与市场工具推广"
+      "央行政策与利率走向",
+      "地缘政治风险与原油供应",
+      "AI与科技股投资机会",
+      "市场流动性与结构性分化",
+      "通胀与消费财务状况"
     ],
-    "recent_shift": "近期观点由看多转为中性，关注利率、通胀及地缘风险。",
+    "recent_shift": "近期观点从关注市场乐观情绪转向关注通胀和地缘政治风险，同时增加对高估值和杠杆的警惕。",
     "representative_quotes": [
       "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800",
-      "BREAKING: Iran says the Strait of Hormuz will not return to pre-war operating conditions.",
-      "BREAKING: Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk, per Goldman Sachs."
+      "Inflation now matters more than jobs, per Goldman Sachs",
+      "The sell America trade is returning, per Barclays"
     ],
-    "generated_at": "2026-08-10T17:22:37.291228+00:00"
+    "generated_at": "2026-08-10T18:11:24.718399+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
