@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2086785104333177130",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "电脑就能装的小模型来了，\n$META 发布了Muse Spark 1.2模型精简版，\n参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。 https://t.co/feBEu7BIJM",
+    "tweet_url": "https://x.com/xiaomustock/status/2086785104333177130",
+    "published_at": "2026-08-10T12:01:54+00:00",
+    "fetched_at": "2026-08-10T12:44:21.457454+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "Meta发布了Muse Spark 1.2模型精简版，参数规模仅300亿，可在单块RTX 3090显卡上运行，降低了AI模型部署门槛。这显示Meta在AI技术上的进展，可能提升其竞争力，对股价有潜在正面影响。",
+      "translation": "电脑就能装的小模型来了，Meta发布了Muse Spark 1.2模型精简版，参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086730782425727183",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
