@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$META",
-      "$MSFT",
-      "$AAPL",
-      "$NVDA",
-      "$TSM"
+      "NVDA",
+      "META",
+      "AAPL",
+      "TSM",
+      "RKLB"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与科技投资",
-      "地缘政治风险（伊朗、霍尔木兹海峡）",
-      "市场情绪与投机指标",
-      "宏观经济与利率政策",
-      "企业财报与个股动态"
+      "人工智能基础设施投资",
+      "科技股盈利超预期",
+      "市场做多情绪回升",
+      "地缘政治风险影响航运与能源"
     ],
-    "recent_shift": "近期从关注科技巨头的AI投资转向更广泛的宏观经济风险和地缘政治不确定性，同时对市场泡沫和杠杆表示担忧。",
+    "recent_shift": "近期从对市场回调的担忧转向积极看多，强调AI投资机会和盈利增长。",
     "representative_quotes": [
-      "BREAKING: \"Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street,\" per FT",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
-      "BREAKING: Iran says the Strait of Hormuz will not return to pre-war operating conditions."
+      "Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street",
+      "Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk",
+      "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800"
     ],
-    "generated_at": "2026-08-10T21:09:40.098975+00:00"
+    "generated_at": "2026-08-10T23:57:50.020208+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

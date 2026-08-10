@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086942725358883053",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "OpenAI has bought back $7 billion worth of shares in a secondary employee tender, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2086942725358883053",
+    "published_at": "2026-08-10T22:28:13+00:00",
+    "fetched_at": "2026-08-10T23:57:40.764763+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "OpenAI通过员工二次要约回购了70亿美元股票，这反映了公司估值提升，但未直接提及具体可投资的金融资产或给出买卖建议。对投资者而言，此消息可能间接影响AI相关上市公司（如微软、英伟达等）的市场情绪，但需结合其他信息判断。",
+      "translation": "据彭博社报道，OpenAI已在员工二次要约中回购了价值70亿美元的股票。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086920018621509762",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
