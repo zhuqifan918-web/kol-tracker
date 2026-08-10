@@ -26,26 +26,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "SPCX",
+      "MSFT",
       "META",
-      "SNDK",
-      "AAPL",
-      "MSFT"
+      "ORCL",
+      "NBIS"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与市场影响",
-      "美联储政策与利率路径",
-      "AI与科技资本支出",
-      "期权市场与交易工具",
-      "市场高杠杆与风险警示"
+      "关税与贸易政策",
+      "利率与货币政策",
+      "地缘政治风险",
+      "科技行业趋势"
     ],
-    "recent_shift": "近期从关注降息预期转变为关注可能加息及市场脆弱性，同时地缘政治事件成为主要波动源。",
+    "recent_shift": "从关注市场回调风险转向关注利率上调预期和地缘政治紧张局势。",
     "representative_quotes": [
-      "People talk about options simply. What if you saw how the pros do it instead? What if you saw their strategies live?",
+      "BREAKING: Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk, per Goldman Sachs.",
       "BREAKING: Michael Burry has said we are near the top of the market",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
+      "BREAKING: Fed Chair Kevin Warsh is reportedly prepared to support a rate hike in September, per FT"
     ],
-    "generated_at": "2026-08-10T14:13:55.577193+00:00"
+    "generated_at": "2026-08-10T15:29:44.329076+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

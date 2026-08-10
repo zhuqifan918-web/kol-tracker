@@ -1,5 +1,104 @@
 [
   {
+    "tweet_id": "2086834203530854481",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk, per Goldman Sachs.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086834203530854481",
+    "published_at": "2026-08-10T15:17:00+00:00",
+    "fetched_at": "2026-08-10T15:29:16.960417+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "高盛数据显示，对冲基金连续第二周买入全球股票，扭转了7月底的避险抛售，表明机构资金回流股市，风险偏好回升。",
+      "translation": "突发：据高盛数据，对冲基金连续第二周买入全球股票，扭转了7月底的快速避险减仓。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086829170265321817",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Microsoft, $MSFT, reportedly plans to unveil its next-generation Maia 300 AI chip in September, per The Information.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086829170265321817",
+    "published_at": "2026-08-10T14:57:00+00:00",
+    "fetched_at": "2026-08-10T15:29:18.421654+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "微软计划在9月发布下一代Maia 300 AI芯片，这有助于增强其在AI基础设施领域的竞争力，可能对股价产生积极影响。",
+      "translation": "微软，$MSFT，据报道计划在9月推出其下一代Maia 300 AI芯片，据The Information消息。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086819103969312903",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "TSMC, $TSM, reported revenue for July of 467.58 billion New Taiwan dollars ($14.5 billion), up 44.7% year on year, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2086819103969312903",
+    "published_at": "2026-08-10T14:17:00+00:00",
+    "fetched_at": "2026-08-10T15:29:21.026502+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "台积电7月营收同比增长44.7%，表现强劲，显示其业务增长动力充足，对股价构成利好。",
+      "translation": "台积电（TSM）7月营收为4675.8亿新台币（约145亿美元），同比增长44.7%，据CNBC报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2086815806311010336",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Live now, 3 for 3 on futures scalps using Unusual Whales GEX Periscope! Join below to see where options and futures trading meet:\n\nhttps://t.co/f7iQ5mSZ5G",
+    "tweet_url": "https://x.com/unusual_whales/status/2086815806311010336",
+    "published_at": "2026-08-10T14:03:54+00:00",
+    "fetched_at": "2026-08-10T15:29:23.030466+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文宣传使用Unusual Whales的GEX Periscope工具进行期货短线交易，并声称已连续成功3次。这隐含了对该工具和交易策略的正面评价，但未提供具体投资建议或涉及特定标的。",
+      "translation": "正在直播，使用Unusual Whales的GEX Periscope进行期货剥头皮交易，目前3次全中！点击下方加入，看看期权和期货交易如何交汇：https://t.co/f7iQ5mSZ5G",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2086814070745755718",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Traffic through the Strait of Hormuz has deteriorated, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086814070745755718",
+    "published_at": "2026-08-10T13:57:00+00:00",
+    "fetched_at": "2026-08-10T15:29:24.377984+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "霍尔木兹海峡交通状况恶化，可能影响全球石油运输和能源市场，对相关能源和航运行业构成利空，建议关注油价和供应链风险。",
+      "translation": "据彭博社报道，霍尔木兹海峡的交通状况已经恶化。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086805766908862768",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
