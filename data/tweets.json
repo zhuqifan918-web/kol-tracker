@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2086864402196885685",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan raised its S&amp;P 500 year-end target to 8,000 from 7,800",
+    "tweet_url": "https://x.com/unusual_whales/status/2086864402196885685",
+    "published_at": "2026-08-10T17:17:00+00:00",
+    "fetched_at": "2026-08-10T17:22:11.432360+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根大通将标普500指数年底目标价从7800点上调至8000点，显示其对美国股市的看涨预期。",
+      "translation": "摩根大通将标普500指数年底目标价从7800点上调至8000点。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2086859368923078997",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran says the Strait of Hormuz will not return to pre-war operating conditions.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086859368923078997",
+    "published_at": "2026-08-10T16:57:00+00:00",
+    "fetched_at": "2026-08-10T17:22:12.914270+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "霍尔木兹海峡通行受限可能影响全球原油供应，短期内推高油价，但具体影响需观察后续发展。建议关注能源板块和原油相关ETF。",
+      "translation": "突发：伊朗表示霍尔木兹海峡不会恢复到战前的运行条件。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086849303373316132",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: rump Media is reportedly charging trading firms up to $1.2 million a year for faster access to President Trump’s Truth Social posts, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2086849303373316132",
+    "published_at": "2026-08-10T16:17:00+00:00",
+    "fetched_at": "2026-08-10T17:22:15.891078+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息涉及特朗普媒体公司向交易公司收取高额费用以获取其Truth Social帖子的更快访问权限，这可能影响信息传播速度和市场公平性，但对具体股票或加密货币没有直接指向性影响。",
+      "translation": "突发：据报道，特朗普媒体公司正向交易公司收取每年高达120万美元的费用，以便更快访问总统特朗普的Truth Social帖子，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086844269826851108",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -37,6 +94,25 @@
       "summary": "该推文讽刺巴伦周刊在缺乏专业知识的情况下报道光通信供应链，暗示其报道质量低劣，可能对相关股票（如AAOI）构成负面情绪影响。",
       "translation": "巴伦周刊：想写关于光学供应链的文章，比如AAOI。招聘时认为这太简单不需要工程师，寻找政治哲学背景的低薪人员。然后从非营利沟通咨询公司招了人。新员工第一天上班就负责建模收入增长/利润率预测、CW激光瓶颈和内部产能。新员工表示“我不懂这些”，他觉得这看起来像一只模因股。巴伦周刊回应：“模因股？看起来是我们下一篇文章的题材，我也不懂。”",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2086839236771086736",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The US reportedly backed a rare coordinated intervention to buy the yen after BOJ Governor Kazuo Ueda signaled a potential rate hike as soon as September,\" per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2086839236771086736",
+    "published_at": "2026-08-10T15:37:00+00:00",
+    "fetched_at": "2026-08-10T17:22:17.835821+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国据报道支持联合干预汇市以买入日元，且日本央行行长植田和男暗示可能在9月加息。此消息影响外汇市场，对美元/日元汇率及日本相关资产（如日股ETF）可能产生短期波动，但未直接涉及特定股票或加密货币。",
+      "translation": "据彭博社报道，美国据称支持罕见的协调干预行动以买入日元，此前日本央行行长植田和男暗示最早可能在9月加息。",
+      "confidence": "medium"
     }
   },
   {

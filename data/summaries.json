@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
       "MSFT",
       "META",
-      "ORCL",
-      "NBIS"
+      "TSLA",
+      "AMZN",
+      "AAPL"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险（霍尔木兹海峡）",
-      "美联储政策与利率走向",
-      "市场风险偏好与杠杆",
-      "科技股与AI投资",
-      "消费与劳动力市场"
+      "地缘政治风险与供应链",
+      "AI投资与科技发展",
+      "货币政策与利率走向",
+      "市场情绪与对冲基金动向",
+      "期权与市场工具推广"
     ],
-    "recent_shift": "近期观点从乐观转向谨慎，强调市场脆弱性和潜在下行风险。",
+    "recent_shift": "近期观点由看多转为中性，关注利率、通胀及地缘风险。",
     "representative_quotes": [
-      "Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
-      "The sell America trade is returning, per Barclays.",
-      "Michael Burry has said we are near the top of the market"
+      "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800",
+      "BREAKING: Iran says the Strait of Hormuz will not return to pre-war operating conditions.",
+      "BREAKING: Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk, per Goldman Sachs."
     ],
-    "generated_at": "2026-08-10T16:23:54.665244+00:00"
+    "generated_at": "2026-08-10T17:22:37.291228+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
