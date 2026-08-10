@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2086899634429931524",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has updated its GEX tool. \n\nSee where dealers must hedge, as well as market maker positioning visualized.\n\nIt is a must have tool. \n\nSee more: https://t.co/rcc3pEbEwP https://t.co/FbjCRVEtf6",
+    "tweet_url": "https://x.com/unusual_whales/status/2086899634429931524",
+    "published_at": "2026-08-10T19:37:00+00:00",
+    "fetched_at": "2026-08-10T20:07:54.144970+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了Unusual Whales更新了其GEX工具，该工具用于展示做市商的对冲需求和持仓情况。对于期权交易者而言，这是一个有用的市场分析工具，但推文本身没有给出具体的投资观点或方向性建议。",
+      "translation": "Unusual Whales更新了其GEX工具。查看交易商必须对冲的地方，以及做市商头寸的可视化展示。这是一个必备工具。查看更多：https://t.co/rcc3pEbEwP https://t.co/FbjCRVEtf6",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086894601097334870",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -57,6 +76,25 @@
       "direction": "bearish",
       "summary": "该推文提及汽车保险公司越来越不愿意赔付，这可能增加保险公司的利润，但对投保人不利，也可能影响相关行业（如汽车维修、医疗等）的需求。对保险股可能是正面信号，但消息来源为WSJ，需结合更多信息判断。",
       "translation": "据《华尔街日报》报道，汽车保险公司越来越不愿意赔付了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086879501628162231",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The U.S. Strategic Petroleum Reserve has fallen below 300 million barrels for the first time since it was fully filled, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2086879501628162231",
+    "published_at": "2026-08-10T18:17:00+00:00",
+    "fetched_at": "2026-08-10T20:07:56.276398+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国战略石油储备跌破3亿桶，为首次自满库以来。这可能影响油价和市场情绪，但未直接提及具体投资标的。",
+      "translation": "突发：美国战略石油储备自完全装满以来首次跌破3亿桶，据路透社报道。",
       "confidence": "medium"
     }
   },
