@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPX",
+      "NVDA",
       "AAPL",
-      "TSLA",
       "META",
-      "TSM"
+      "TSLA",
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "央行政策与利率走向",
-      "地缘政治风险与原油供应",
-      "AI与科技股投资机会",
-      "市场流动性与结构性分化",
-      "通胀与消费财务状况"
+      "AI基础设施投资",
+      "美联储政策与利率",
+      "地缘政治风险（伊朗与霍尔木兹海峡）",
+      "股市估值与杠杆",
+      "消费与劳动力市场"
     ],
-    "recent_shift": "近期观点从关注市场乐观情绪转向关注通胀和地缘政治风险，同时增加对高估值和杠杆的警惕。",
+    "recent_shift": "近期观点从关注美联储降息转向对高杠杆和地缘政治风险的警惕。",
     "representative_quotes": [
-      "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800",
-      "Inflation now matters more than jobs, per Goldman Sachs",
-      "The sell America trade is returning, per Barclays"
+      "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+      "BREAKING: Iran says the Strait of Hormuz will not return to pre-war operating conditions.",
+      "BREAKING: Bank of America has said that bullish sentiment has 'gone too far'"
     ],
-    "generated_at": "2026-08-10T18:11:24.718399+00:00"
+    "generated_at": "2026-08-10T19:28:26.634322+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
