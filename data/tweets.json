@@ -1,5 +1,30 @@
 [
   {
+    "tweet_id": "2086730782425727183",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI.\n\nThere’s a pretty interesting study:\n\nBoth from Fidelity and a UC Berkeley research paper, that the best investors are the ones who either…\n\n- Anecdotally forgot about their account (Fidelity)\n- Didn’t actively trade/overtrade (18.5% return from infrequent traders vs. 11.4%).\n\nNot any advice, but some of these anecdotes might be helpful to retail to read in general…\n\nSince I witnessed a lot capitulation off memory, photonics, or thematic volatility, just for retail not have positions on a sharp recovery.\n\nHaving conviction also usually people in that “not overtrading” camp, since it helps to not overtrade in drops or see opportunities to cost average.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2086730782425727183",
+    "published_at": "2026-08-10T08:26:02+00:00",
+    "fetched_at": "2026-08-10T09:54:43.369275+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "OE Solutions",
+        "LITE",
+        "Coherent",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "作者指出光通信和光子学板块出现强劲反弹，并引用Fidelity和UC Berkeley的研究表明，不频繁交易的投资者收益更高，建议散户避免过度交易，保持信念，以便在波动中抓住机会或逢低加仓。整体对相关板块持看涨态度。",
+      "translation": "现在市场再次从$SIVE、OE Solutions、$LITE、Coherent到$AAOI举办激光派对。有一项相当有趣的研究：来自Fidelity和UC Berkeley的论文都表明，最好的投资者要么是那些（轶事般地）忘记了自己账户的人（Fidelity），要么是不积极交易/不过度交易的人（不频繁交易者的回报率为18.5%，而频繁交易者为11.4%）。不是建议，但其中一些轶事可能对散户阅读有帮助……因为我目睹了许多人在记忆、光子学或主题波动中投降，结果散户在强劲反弹时却没有持仓。有信念通常也属于“不交易过度”阵营，因为这有助于在下跌时不冲动交易，或看到机会进行成本平均。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086640068824035640",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",

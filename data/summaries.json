@@ -1,26 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
-      "NBIS",
+      "AAOI",
       "LITE",
-      "NVDA"
+      "MU",
+      "MTSI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈与CPO供应链",
-      "人工智能资本支出与云需求",
-      "存储短缺与市场轮动",
-      "机器人与人类形态投资"
+      "光学互连与激光器瓶颈",
+      "AI基础设施与超大规模资本支出",
+      "内存结构性短缺",
+      "CPO与硅光子学",
+      "机器人技术与人形机器人"
     ],
-    "recent_shift": "近期观点从单纯看多转向强调市场波动和去杠杆，但对核心主题的长期信心不变。",
+    "recent_shift": "近期观点从单纯看多光学与内存，转向更强调'瓶颈'论点的验证和市场回调中的买入机会，同时关注CPO和激光器供应紧张。",
     "representative_quotes": [
-      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
-      "The customer demand is 20%-40% higher.\" — Applied Optoelectronics CEO",
-      "I think Optimus will be the biggest product ever\" — Elon Musk"
+      "AAOI's CEO stated 'The customer demand is 20%-40% higher' than expanded built out capacity.",
+      "From $MTSI earnings: 'Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers'",
+      "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections."
     ],
-    "generated_at": "2026-08-10T03:11:22.441754+00:00"
+    "generated_at": "2026-08-10T09:55:22.828553+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
