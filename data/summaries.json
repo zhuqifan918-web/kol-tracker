@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "AAOI",
+      "SIVE",
+      "NBIS",
       "LITE",
-      "MU",
-      "NBIS"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能基础设施建设",
-      "光模块与激光器瓶颈",
-      "存储芯片短缺",
-      "共封装光学",
-      "供应链去中国化"
+      "光子学瓶颈与CPO供应链",
+      "人工智能资本支出与云需求",
+      "存储短缺与市场轮动",
+      "机器人与人类形态投资"
     ],
-    "recent_shift": "从侧重光模块与激光器转向更广泛的AI硬件与供应链瓶颈，并强调近期下跌是杠杆而非基本面驱动。",
+    "recent_shift": "近期观点从单纯看多转向强调市场波动和去杠杆，但对核心主题的长期信心不变。",
     "representative_quotes": [
-      "I think it’s a good time to revisit $SIVE",
-      "The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too.",
-      "Markets tend to rotate from bottleneck to bottleneck."
+      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts.",
+      "The customer demand is 20%-40% higher.\" — Applied Optoelectronics CEO",
+      "I think Optimus will be the biggest product ever\" — Elon Musk"
     ],
-    "generated_at": "2026-08-09T04:17:02.174229+00:00"
+    "generated_at": "2026-08-10T03:11:22.441754+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
-      "AAPL",
-      "TSLA",
       "SPCX",
-      "MRNA"
+      "TSLA",
+      "AAPL",
+      "META",
+      "ORCL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技投资",
-      "地缘政治与能源市场",
-      "美联储政策与通胀",
-      "市场情绪与期权交易",
-      "加密货币与监管"
+      "人工智能与科技股",
+      "地缘政治风险（伊朗、霍尔木兹海峡）",
+      "通胀与利率政策",
+      "市场工具与期权交易"
     ],
-    "recent_shift": "近期观点从关注地缘风险和通胀担忧转向乐观，强调市场新高和AI驱动的增长机会。",
+    "recent_shift": "近期观点从关注地缘政治风险转向关注美联储政策与经济数据，并强调市场工具的重要性。",
     "representative_quotes": [
       "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto.",
-      "Tom Lee has said the S&P500 will hit 8,000 in August.",
-      "BREAKING: There have been a record number of S&P500 call options purchased, per Bloomberg."
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
+      "BREAKING: Michael Burry has said we are near the top of the market"
     ],
-    "generated_at": "2026-08-09T23:24:41.705264+00:00"
+    "generated_at": "2026-08-10T03:11:19.424667+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
