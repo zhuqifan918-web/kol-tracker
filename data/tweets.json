@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087289135228985769",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Anthropic is expected to IPO by end of October, per Polymarket⁠.com:",
+    "tweet_url": "https://x.com/unusual_whales/status/2087289135228985769",
+    "published_at": "2026-08-11T21:24:44+00:00",
+    "fetched_at": "2026-08-11T22:32:18.446989+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Anthropic预计于10月底进行IPO，这可能影响AI相关股票和投资情绪，但未给出具体操作建议。",
+      "translation": "Anthropic预计将于十月底进行IPO，依据Polymarket⁠.com的数据。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2087285356999958663",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
