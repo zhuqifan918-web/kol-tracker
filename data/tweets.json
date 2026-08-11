@@ -1,5 +1,129 @@
 [
   {
+    "tweet_id": "2087013659033878695",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "47% chance the Strait of Hormuz traffic returns to normal by December 31, per Polymarket⁠.com https://t.co/LDDJwRUwG3",
+    "tweet_url": "https://x.com/unusual_whales/status/2087013659033878695",
+    "published_at": "2026-08-11T03:10:05+00:00",
+    "fetched_at": "2026-08-11T03:15:23.076844+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文提到了霍尔木兹海峡交通恢复正常的概率，这影响全球油价和航运市场，间接影响相关股票和商品。投资者可关注能源股、航运股或原油期货。",
+      "translation": "根据Polymarket.com，12月31日前霍尔木兹海峡交通恢复正常的概率为47%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087006337540530227",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.\n\nRead more: https://t.co/9JALhSpQkh",
+    "tweet_url": "https://x.com/unusual_whales/status/2087006337540530227",
+    "published_at": "2026-08-11T02:41:00+00:00",
+    "fetched_at": "2026-08-11T03:15:26.668304+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "伯克希尔哈撒韦在2026年第二季度净买入约197.8亿美元股票，结束了连续14个季度的净卖出态势，表明其对股市前景转为乐观，可能对大盘情绪产生积极影响。",
+      "translation": "伯克希尔哈撒韦在2026年第二季度购买了234.7亿美元的股票，仅卖出36.9亿美元，结束了连续14个季度的净卖出状态。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087003506943443038",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "66% chance Anthropic IPOs by October 31, 2026, per Polymarket.\n\nSee more: https://t.co/IDL7tPJgqo",
+    "tweet_url": "https://x.com/unusual_whales/status/2087003506943443038",
+    "published_at": "2026-08-11T02:29:45+00:00",
+    "fetched_at": "2026-08-11T03:15:29.595809+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用了Polymarket上关于Anthropic公司可能在2026年10月31日前进行IPO的概率（66%），属于市场对未上市公司的预期预测，对相关概念股或市场情绪可能有一定参考价值，但未涉及具体投资建议。",
+      "translation": "根据Polymarket数据，Anthropic在2026年10月31日前进行IPO的概率为66%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087000954742927390",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investors. \n\nThe demand for pure play humanoid companies is absolutely enormous?\n\nI'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI. \n\nAnd my take is that Unitree likely opening at $30B+ (from pre-ipo perps), might bring the leading US players some more attention in a week or two. \n\nRegardless that's just absurd demand.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087000954742927390",
+    "published_at": "2026-08-11T02:19:36+00:00",
+    "fetched_at": "2026-08-11T03:15:01.056867+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "CCXI"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为Unitree IPO的超额认购倍数（超过8000倍）表明人形机器人公司需求巨大，并将提升美国领先人形机器人公司的关注度，尤其是其持有的Agility Robotics（通过CCXI）可能受益，整体观点偏乐观。",
+      "translation": "嗯... Unitree的IPO被散户超额认购超过8000倍。对纯人形机器人公司的需求绝对巨大？我个人是在美国的Agility Robotics阵营（软银、$NVDA、$AMZN、富士康等），以$2.5B的投前估值通过$CCXI投资。我的看法是，Unitree可能以$30B+开盘（从pre-ipo perps），可能会在一两周内给美国领先的公司带来更多关注。无论如何，那真是荒谬的需求。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2086990826664808872",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Anthropic is looking to IPO in September or early October, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2086990826664808872",
+    "published_at": "2026-08-11T01:39:22+00:00",
+    "fetched_at": "2026-08-11T03:15:32.638417+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ANTH"
+      ],
+      "direction": "bullish",
+      "summary": "Anthropic计划于9月或10月初进行IPO，这通常被视为市场对AI行业信心增强的信号，可能带动相关AI和科技股短期上涨。但需注意IPO定价和估值风险。",
+      "translation": "突发：据《华尔街日报》报道，Anthropic正寻求在9月或10月初进行IPO。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086988264448409739",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Woah, $RIOT announced a $9.1B deal with Anthropic, with a possible contract extending to $16.1B, over 20Y.\n\n$AMD also exercised its option to expand its existing deal with Riot. (And they still have another 1 GW campus they have LOI with for a tenant)\n\nIn terms of timelines, seem like most of the Colo basket have their revenue inflections hit H2 2027? \n\n(Eg. Riot Anthropic deal targets Dec 2027 for first 96 MW, AMD full 50 MW - May 2027)\n\nIt’s cute to see all the former miners like $IREN and co. grow up.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2086988264448409739",
+    "published_at": "2026-08-11T01:29:11+00:00",
+    "fetched_at": "2026-08-11T03:15:06.710548+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RIOT",
+        "AMD",
+        "IREN"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调Riot与Anthropic达成91亿美元合作，可能扩展至161亿美元，AMD也行使期权扩大合作，显示数据中心托管需求强劲。推文预计多数托管项目收入增长将在2027年下半年实现，并看好前矿工公司如IREN的转型，整体情绪偏乐观。",
+      "translation": "哇，$RIOT宣布与Anthropic达成91亿美元的交易，合同可能延长至161亿美元，为期20年。$AMD也行使了期权扩大与Riot的现有交易。（而且他们还有另一个1GW园区，已与租户签署意向书）从时间线来看，似乎大部分Colo篮子中的收入拐点都在2027年下半年？ （例如：Riot-Anthropic交易目标2027年12月首批96兆瓦，AMD全部50兆瓦 - 2027年5月）看到像$IREN这样的前矿工公司成长起来真是可爱。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2086980416565649634",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
