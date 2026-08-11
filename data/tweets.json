@@ -1,5 +1,51 @@
 [
   {
+    "tweet_id": "2087285356999958663",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. \n\nCoreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. \n\nCompute demand read through for Neoclouds is enormous (For Nebius, Iren and others)\n\nSupermicro:  Absurd $65-72B in revenue guidance, adding $60B+ in new orders... \n\nAI DC buildout read through is just enormous. \n\nLumentum: $808M -> $1.01B -> $1.25B revenue ramp, with operating margins growing quarter after quarter. \n\nPhotonics players just keeps printing. \n\nTLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087285356999958663",
+    "published_at": "2026-08-11T21:09:43+00:00",
+    "fetched_at": "2026-08-11T21:35:35.908340+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CRWV",
+        "SMCI",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调AI基础设施建设相关公司（Coreweave、Supermicro、Lumentum）的强劲财报，显示AI需求在各个层面（计算、服务器、光子学）都在大幅增长，整体看多AI产业链。",
+      "translation": "今天AI主题的财报非常疯狂，$CRWV、$SMCI和$LITE。Coreweave：荒谬的~$104B+积压订单，这还不包括Q3初新增的$25B+客户协议。对Neoclouds（如Nebius、Iren等）的计算需求传导巨大... Supermicro：荒谬的$65-72B营收指引，新增$60B+订单... AI数据中心建设传导效应巨大。Lumentum：$808M -> $1.01B -> $1.25B营收爬坡，营业利润率逐季提升。光子学玩家持续印钞。总结：AI建设的每一层都在飞速增长，并体现在财报中。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087280662802026931",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... \n\nvs. ~$52.4B expected, a casual +$16.1B above consensus. \n\nSMCI logged a massive $60B+ in news order from this earnings. \n\nThat timeline is also interesting when they announced a plan to co-build $SPCX + xAI  DCs \"within a year\" back in June..\n\nBut if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER). \n\nMost important thing is learning about 2027 margins from call today.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+    "published_at": "2026-08-11T20:51:04+00:00",
+    "fetched_at": "2026-08-11T21:35:42.565191+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMCI",
+        "SPCX",
+        "xAI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为超微电脑（SMCI）2027财年营收指引远超预期，带来大量订单，尽管毛利率可能较低，但市值相对较小，存在重估空间。作者持有短期头寸，看好其上涨潜力。",
+      "translation": "SMCI的2027年指引实际上非常惊人：2027财年营收指引为650-720亿美元，而市场预期约524亿美元，轻松超出预期161亿美元。SMCI在本财报中录得超过600亿美元的巨额订单。时间线也很有趣，因为他们在6月宣布计划在一年内与SPCX和xAI共同建设数据中心。但如果SMCI能维持10-15%的毛利率（基于约700亿美元的营收指引），我认为考虑到市值仅约200亿美元，还有很大的重估空间（非财务建议，我在本财报后持有SMCI短期头寸）。最重要的是从今天的电话会议中了解2027年的毛利率。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087273095128305912",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -318,6 +364,25 @@
       "direction": "bearish",
       "summary": "美国私人部门招聘连续第六周放缓，反映劳动力市场动能减弱，可能对经济增长和企业盈利构成压力，对股市情绪形成利空。",
       "translation": "美国私人部门招聘已连续第六周放缓，据ADP数据。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087187764940784052",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Anthropic projected to IPO by end of October as it works to boost investor confidence ahead of a potentially record-setting debut.\n\n74% chance. https://t.co/Z6MFXnt3jm",
+    "tweet_url": "https://x.com/unusual_whales/status/2087187764940784052",
+    "published_at": "2026-08-11T14:41:55+00:00",
+    "fetched_at": "2026-08-11T21:36:03.721911+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及Anthropic预计在10月底IPO，可能成为创纪录的上市，有助于提振投资者信心。这属于一级市场投资机会，但未直接涉及具体股票代码，对二级市场影响可能为正面，尤其是AI相关板块。",
+      "translation": "突发：据预测，Anthropic将在10月底进行IPO，目前正努力提振投资者信心，为可能创纪录的上市做准备。概率74%。",
       "confidence": "medium"
     }
   },
