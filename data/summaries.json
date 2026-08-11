@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
       "AAPL",
+      "MSFT",
       "META",
-      "TSLA",
-      "MSFT"
+      "NVDA",
+      "TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "市场情绪极端与波动风险",
-      "AI与科技投资热潮",
-      "地缘政治与油价影响",
-      "货币政策与通胀",
-      "宏观杠杆与市场泡沫"
+      "AI投资热潮",
+      "地缘政治风险",
+      "市场情绪与利率预期",
+      "科技巨头动态",
+      "散户投资工具推广"
     ],
-    "recent_shift": "近期观点转向谨慎，强调市场杠杆高企和乐观情绪过度。",
+    "recent_shift": "近期更关注市场回调风险，并对美联储政策及地缘冲突保持警惕。",
     "representative_quotes": [
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
-      "Bank of America has said that bullish sentiment has 'gone too far'",
-      "Copper has surged to its highest level ever, per CNBC"
+      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
+      "Bank of America has said that bullish sentiment has 'gone too far'.",
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
     ],
-    "generated_at": "2026-08-11T03:15:54.831556+00:00"
+    "generated_at": "2026-08-11T04:47:33.892985+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
