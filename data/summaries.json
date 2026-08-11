@@ -2,50 +2,50 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "AAOI",
-      "NVDA",
-      "SIVE",
       "LITE",
-      "MU"
+      "SIVE",
+      "MU",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI供应链瓶颈（激光器、光模块、存储芯片）",
-      "CPO（共封装光学）成为下一代网络架构关键",
-      "数据中心资本开支持续增长，带动上游需求",
-      "中国竞争对手在高端光模块领域落后，利好西方厂商",
-      "市场回调因去杠杆导致，基本面未变"
+      "AI基础设施与算力瓶颈（激光器、光模块、内存）",
+      "光互连与CPO（共封装光学）的长期增长",
+      "人形机器人与机器人供应链",
+      "内存（DRAM/HBM）供不应求",
+      "AI云服务与Neocloud需求"
     ],
-    "recent_shift": "早期观点强调AI硬件投资周期拉长，近期转为在回调中坚定看多并呼吁长期持有。",
+    "recent_shift": "近期观点未变，仍维持对AI硬件瓶颈的长期看多，但承认市场因去杠杆导致暴跌，并强调基本面未恶化。",
     "representative_quotes": [
-      "Just putting it out there for people that think AAOI is a one year cycle... $AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028.",
-      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life. Be present with your family. Good night fam.",
-      "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages."
+      "I remain convinced that the bottleneck thesis is intact. The selloff is a reflection of liquidity and leverage, not fundamentals.",
+      "CPO is very early, but starting to show up in earnings now. Equipment and test players appear first, before optical engines and laser volumes ramp.",
+      "Extraordinary demand across the laser and optical sector. 2027 capacity ramp on track, and AAOI has customers now, limited only by making enough lasers and transceivers."
     ],
-    "generated_at": "2026-08-11T19:55:15.703158+00:00"
+    "generated_at": "2026-08-11T20:34:48.908936+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
       "META",
-      "TSLA",
       "AAPL",
-      "JPM"
+      "MSFT",
+      "SMCI"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮",
-      "股市新高与退休潮",
+      "AI与数据中心投资",
+      "货币政策与通胀",
       "地缘政治风险",
-      "央行政策与利率",
-      "另类数据与工具"
+      "劳动力与消费",
+      "市场情绪与仓位"
     ],
-    "recent_shift": "近期从对股市过热的担忧转向关注AI和科技股的积极前景，同时强调地缘政治风险对市场的潜在影响。",
+    "recent_shift": "近期对经济衰退的担忧有所缓解，但地缘政治风险上升，市场整体偏向中性。",
     "representative_quotes": [
-      "The stock market may be doing so well that it’s causing more Baby Boomers and Gen Xers to drop out of the labor force",
+      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items.",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller."
+      "The stock market may be doing so well that it’s causing more Baby Boomers and Gen Xers to drop out of the labor force."
     ],
-    "generated_at": "2026-08-11T19:55:18.213912+00:00"
+    "generated_at": "2026-08-11T20:34:51.618249+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
