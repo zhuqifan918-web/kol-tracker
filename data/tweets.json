@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087181491638022487",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trading firms are paying $60,000 to $100,000 per month for real-time access to posts from leading Truth Social accounts, according to Trump Media.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087181491638022487",
+    "published_at": "2026-08-11T14:17:00+00:00",
+    "fetched_at": "2026-08-11T14:50:17.265848+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普媒体公司披露，交易公司每月支付6万至10万美元以获取Truth Social头部账号的实时帖文访问权，表明该公司可能获得新的高价值收入来源，对股价有潜在正面影响。",
+      "translation": "突发：据特朗普媒体称，交易公司每月支付6万至10万美元以获得领先Truth Social账号帖子的实时访问权限。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087151292624126178",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
