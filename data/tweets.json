@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087319327393661299",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump is considering to cut capital gains taxes ahead of midterm elections, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087319327393661299",
+    "published_at": "2026-08-11T23:24:42+00:00",
+    "fetched_at": "2026-08-11T23:30:11.045554+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普考虑在中期选举前削减资本利得税，此政策若实施将直接降低投资者税负，可能刺激股市上涨，对整体市场构成利好。",
+      "translation": "突发：据彭博社报道，特朗普正在考虑在中期选举前削减资本利得税。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087289135228985769",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
