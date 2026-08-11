@@ -1,5 +1,112 @@
 [
   {
+    "tweet_id": "2087273095128305912",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The SEC has made it easier for data center owners to sell asset-backed securities by not requiring certain disclosures and investors protections, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087273095128305912",
+    "published_at": "2026-08-11T20:21:00+00:00",
+    "fetched_at": "2026-08-11T20:34:30.651907+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国证券交易委员会放宽了数据中心所有者发行资产支持证券的披露和投资者保护要求，这将降低融资成本，促进数据中心建设，利好相关基础设施投资。",
+      "translation": "突发：据彭博社报道，美国证券交易委员会放宽了数据中心所有者出售资产支持证券的要求，不再需要某些披露和投资者保护措施。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087271842696593764",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$LITE earnings are out, very strong earnings:\n\nRevenue: $1.01B, +24.5% Q/Q, +109.3% Y/Y growth\nvs. ~$984.6M\nAdj. EPS: $3.23 vs. ~$2.95\nGross Margin (non-gaap): 50.4% / Operating margin (non-gaap) 36.6%\n\nQ1 FY2027 guidance is probably more important:\n\nRevenue: $1.225–1.275B vs. ~$1.16B\nAdj. EPS: $4.05–4.35 vs. ~$3.63\nOperating margin (non-gaap) of 39.5% - 40.5%\n\nIn terms of notes: \n\nSees: \"Increasing demand for ultra-high-power CPO lasers, an initial order for ELS modules\" \n\n- Great read through on other CPO players like $SIVEF, $COHR, and others. (maybe not AAOI since they're missing out on first-gen deployments)\n\n- \"Breath of NPO engagements are the first signs that optics are starting  to penetrate in-rack connectivity, significantly upping our optical TAM\"\n \n- Revenue projections \"reaching our target model more than a quarter ahead of schedule.\"\n\nExtremely strong earnings as expected, you have revenue going from:\n\n$808M -> $1.01B -> $1.25B while operating margin keeps increasing... Just my first impressions. \n\nMost important thing is the earnings call coming up soon.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087271842696593764",
+    "published_at": "2026-08-11T20:16:01+00:00",
+    "fetched_at": "2026-08-11T20:34:12.434040+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE",
+        "SIVEF",
+        "COHR",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析LITE强劲的财报和超预期的下季度指引，显示其营收和毛利率持续提升，并认为对其他CPO相关股票如SIVEF和COHR有积极影响，同时指出AAOI可能错失第一代部署机会。整体观点偏乐观。",
+      "translation": "$LITE财报出来了，非常强劲：营收：10.1亿美元，环比+24.5%，同比+109.3%，对比预期约9.846亿美元。调整后每股收益：3.23美元，对比预期约2.95美元。毛利率（非GAAP）：50.4%，营业利润率（非GAAP）：36.6%。2027财年第一季度的指引可能更重要：营收：12.25亿至12.75亿美元，对比预期约11.6亿美元。调整后每股收益：4.05至4.35美元，对比预期约3.63美元。营业利润率（非GAAP）为39.5%-40.5%。关于备注：认为“对超高功率CPO激光器的需求增加，以及ELS模块的初始订单”——对其他CPO玩家如SIVEF、COHR等有很好的参考意义（可能不包括AAOI，因为他们错过了第一代部署）。“NPO参与的广度是光学开始渗透机架内连接的最初迹象，显著增加了我们的光学TAM”。收入预测“比原计划提前一个多季度达到目标模型”。正如预期的那样，非常强劲的财报，营收从8.08亿美元→10.1亿美元→12.5亿美元，而营业利润率持续上升……这只是我的第一印象。最重要的是即将召开的财报电话会议。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087270793512435830",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: CoreWeave, $CRWV, earnings:\n\n- Revenue: $2.57 billion, est: $2.56 billion\n- EPS: -$1.14, est: -$1.47\n\nCava, $CAVA, earnings:\n\n- Revenue: $368 million, est: $360 million\n- EPS: $0.19, est: $0.18",
+    "tweet_url": "https://x.com/unusual_whales/status/2087270793512435830",
+    "published_at": "2026-08-11T20:11:51+00:00",
+    "fetched_at": "2026-08-11T20:34:32.786688+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CRWV",
+        "CAVA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文报道了CoreWeave和Cava的财报数据，两者营收均超预期，但CoreWeave每股亏损好于预期，Cava每股收益略超预期，整体表现中性，未给出明确投资方向。",
+      "translation": "突发新闻：CoreWeave，$CRWV，财报：- 营收：25.7亿美元，预期：25.6亿美元- 每股收益：-1.14美元，预期：-1.47美元\nCava，$CAVA，财报：- 营收：3.68亿美元，预期：3.6亿美元- 每股收益：0.19美元，预期：0.18美元",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087269372293431424",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SuperMicroComputer, $SMCI, earnings:\n\n- Revenue: $11.1 billion, est: $11.56 billion\n- EPS: $1.7, est: $0.96",
+    "tweet_url": "https://x.com/unusual_whales/status/2087269372293431424",
+    "published_at": "2026-08-11T20:06:12+00:00",
+    "fetched_at": "2026-08-11T20:34:34.554593+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMCI"
+      ],
+      "direction": "bearish",
+      "summary": "超微电脑财报显示营收不及预期，但每股收益远超预期。营收未达预期可能引发市场担忧，但强劲的EPS或提供支撑，整体偏向负面。",
+      "translation": "突发：超微电脑（$SMCI）财报：营收111亿美元，预期115.6亿美元；每股收益1.7美元，预期0.96美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087268909024178386",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Lumentum, $LITE, earnings:\n\n- Revenue: $1 billion, est: $987 million\n- EPS: $3.23, est: $2.97",
+    "tweet_url": "https://x.com/unusual_whales/status/2087268909024178386",
+    "published_at": "2026-08-11T20:04:22+00:00",
+    "fetched_at": "2026-08-11T20:34:35.972117+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "Lumentum (LITE) 公布财报，营收和每股收益均超预期，显示公司业绩强劲，市场反应可能积极，属于利好消息。",
+      "translation": "Lumentum，$LITE，财报：- 营收：10亿美元，预期：9.87亿美元- 每股收益：3.23美元，预期：2.97美元",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087255730839749022",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
