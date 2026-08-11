@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2087196591149260898",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Chinese robot maker Unitree said its $900 million Shanghai initial public offering was more than 8000 times oversubscribed",
+    "tweet_url": "https://x.com/unusual_whales/status/2087196591149260898",
+    "published_at": "2026-08-11T15:17:00+00:00",
+    "fetched_at": "2026-08-11T15:50:32.010958+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "宇树科技在上海IPO中获超8000倍超额认购，表明市场对机器人行业及该公司股票需求极旺盛，属于强烈的看涨信号。",
+      "translation": "中国机器人制造商宇树表示，其在上海进行的9亿美元首次公开募股获得了超过8000倍的超额认购。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087191558168695245",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Private hiring in the US has slowed for the sixth strait week, per ADP",
+    "tweet_url": "https://x.com/unusual_whales/status/2087191558168695245",
+    "published_at": "2026-08-11T14:57:00+00:00",
+    "fetched_at": "2026-08-11T15:50:33.315819+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国私人部门招聘连续第六周放缓，反映劳动力市场动能减弱，可能对经济增长和企业盈利构成压力，对股市情绪形成利空。",
+      "translation": "美国私人部门招聘已连续第六周放缓，据ADP数据。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087181491638022487",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -75,6 +113,25 @@
       "summary": "该推文提及股市表现强劲，但关联的是劳动力市场参与者减少的现象，而非直接的投资建议或市场分析。对投资者而言，这可能反映经济结构变化，但未提供具体交易信号。",
       "translation": "据《财富》杂志报道，股市可能表现如此之好，以至于导致更多婴儿潮一代和X世代退出劳动力市场。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087136193318134133",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nearly 1 in 10 adults used buy now, pay later to pay for groceries, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2087136193318134133",
+    "published_at": "2026-08-11T11:17:00+00:00",
+    "fetched_at": "2026-08-11T15:50:40.836302+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到近10%的成年人使用‘先买后付’服务购买 groceries，这可能反映消费者财务压力上升，对消费金融和零售行业有一定影响，但未提及具体投资标的或明确方向。",
+      "translation": "据CNBC报道，近十分之一的成年人使用‘先买后付’方式购买 groceries（杂货）。",
+      "confidence": "low"
     }
   },
   {
