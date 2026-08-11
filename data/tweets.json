@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087018920473505897",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Roughly 70% of the tariff refund, about $356 million, was collected between April and June 2026, leaving an estimated $152 million still to be received from the US government.\n\nRead more: https://t.co/hHgf1f9Ho5",
+    "tweet_url": "https://x.com/unusual_whales/status/2087018920473505897",
+    "published_at": "2026-08-11T03:31:00+00:00",
+    "fetched_at": "2026-08-11T04:47:12.814134+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及关税退税的收款进度，约70%的退税（3.56亿美元）已于2026年4月至6月期间收到，仍有约1.52亿美元待收。此信息可能影响相关公司或行业的现金流和财务预期，但未明确提及具体股票或投资方向，因此属于中性信息。",
+      "translation": "大约70%的关税退税，约3.56亿美元，是在2026年4月至6月期间收到的，预计仍有约1.52亿美元待美国政府支付。阅读更多：https://t.co/hHgf1f9Ho5",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087013659033878695",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -141,6 +160,25 @@
       "direction": "bullish",
       "summary": "Saylor 利用 ChatGPT 设计比特币优先股，表明其推动比特币相关金融产品的创新，可能利好比特币及其相关投资。",
       "translation": "Saylor 表示，他求助于 ChatGPT 帮助设计一种基于比特币的优先股，律师和银行家最初对此表示质疑，因为此前没有人创建过类似的产品。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086950217677713792",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Occupations with the greatest exposure to AI have not experienced widespread employment declines, and employment growth in highly exposed occupations has generally kept pace with, or exceeded, that of less exposed occupations.\n\nRead more: https://t.co/qCfU1GbOaD",
+    "tweet_url": "https://x.com/unusual_whales/status/2086950217677713792",
+    "published_at": "2026-08-10T22:58:00+00:00",
+    "fetched_at": "2026-08-11T04:47:27.134365+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用研究指出，高暴露于AI的职业并未出现广泛失业，且就业增长快于或持平于低暴露职业。这对AI相关产业可能构成中性偏利好的基本面背景，但未直接给出投资建议，因此不构成明确的多空信号。",
+      "translation": "最易受人工智能影响的职业并未出现广泛的就业下降，且高暴露职业的就业增长总体上与低暴露职业持平或超过后者。",
       "confidence": "medium"
     }
   },
