@@ -1,50 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AAOI",
-      "$SIVE",
-      "$LITE",
-      "$MU",
-      "$NVDA"
+      "AAOI",
+      "NVDA",
+      "SIVE",
+      "LITE",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈",
-      "光通信与CPO",
-      "存储芯片",
-      "人形机器人",
-      "半导体供应链"
+      "AI供应链瓶颈（激光器、光模块、存储芯片）",
+      "CPO（共封装光学）成为下一代网络架构关键",
+      "数据中心资本开支持续增长，带动上游需求",
+      "中国竞争对手在高端光模块领域落后，利好西方厂商",
+      "市场回调因去杠杆导致，基本面未变"
     ],
-    "recent_shift": "近期观点更为积极，强调市场回调是去杠杆而非基本面恶化，并看好AI相关领域的增长。",
+    "recent_shift": "早期观点强调AI硬件投资周期拉长，近期转为在回调中坚定看多并呼吁长期持有。",
     "representative_quotes": [
-      "I personally see it as extreme short term deleveraging that overshot many individual names.",
-      "The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too.",
-      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts."
+      "Just putting it out there for people that think AAOI is a one year cycle... $AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028.",
+      "If your long term thesis hasn’t changed… Close your brokerage app. Go live your life. Be present with your family. Good night fam.",
+      "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages."
     ],
-    "generated_at": "2026-08-11T06:48:39.945506+00:00"
+    "generated_at": "2026-08-11T19:55:15.703158+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "TRUMP",
+      "NVDA",
       "META",
-      "AAPL",
       "TSLA",
-      "NVDA"
+      "AAPL",
+      "JPM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI投资狂热",
-      "美国经济与劳动力市场",
-      "伊朗地缘政治风险",
-      "市场情绪与仓位"
+      "AI投资热潮",
+      "股市新高与退休潮",
+      "地缘政治风险",
+      "央行政策与利率",
+      "另类数据与工具"
     ],
-    "recent_shift": "近期观点从早期偏乐观转向对AI投资可持续性和市场过热的质疑，同时关注地缘政治风险。",
+    "recent_shift": "近期从对股市过热的担忧转向关注AI和科技股的积极前景，同时强调地缘政治风险对市场的潜在影响。",
     "representative_quotes": [
+      "The stock market may be doing so well that it’s causing more Baby Boomers and Gen Xers to drop out of the labor force",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Michael Burry: Berkshire Hathaway is no longer an attractive investment.",
-      "Jamie Dimon of JPMorgan, $JPM, has said Gen Z is wrong to give up on the American Dream"
+      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller."
     ],
-    "generated_at": "2026-08-11T18:47:05.477467+00:00"
+    "generated_at": "2026-08-11T19:55:18.213912+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
