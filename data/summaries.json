@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "AAPL",
-      "MSFT",
       "META",
-      "NVDA",
-      "TSLA"
+      "MSFT",
+      "TSLA",
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮",
-      "地缘政治风险",
-      "市场情绪与利率预期",
-      "科技巨头动态",
-      "散户投资工具推广"
+      "科技巨头与AI芯片",
+      "中东地缘风险与油价",
+      "利率政策与通胀",
+      "市场杠杆与泡沫担忧",
+      "零售交易工具与服务"
     ],
-    "recent_shift": "近期更关注市场回调风险，并对美联储政策及地缘冲突保持警惕。",
+    "recent_shift": "近期观点从对AI与科技股的乐观转向关注地缘冲突、利率风险和市场杠杆。",
     "representative_quotes": [
       "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
-      "Bank of America has said that bullish sentiment has 'gone too far'.",
-      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been"
+      "Iran says the Strait of Hormuz will not reopen until the United States meets its conditions, and Mohammad-Bagher Zolghadr said the waterway would remain closed until Washington corrects its behavior.",
+      "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'"
     ],
-    "generated_at": "2026-08-11T04:47:33.892985+00:00"
+    "generated_at": "2026-08-11T11:12:01.187836+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

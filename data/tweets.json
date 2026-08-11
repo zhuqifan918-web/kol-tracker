@@ -118,6 +118,25 @@
     }
   },
   {
+    "tweet_id": "2086995516139643053",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran says the Strait of Hormuz will not reopen until the United States meets its conditions, and Mohammad-Bagher Zolghadr said the waterway would remain closed until Washington corrects its behavior.\n\nRead more: https://t.co/z2tFimwp1p",
+    "tweet_url": "https://x.com/unusual_whales/status/2086995516139643053",
+    "published_at": "2026-08-11T01:58:00+00:00",
+    "fetched_at": "2026-08-11T11:11:51.181235+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "霍尔木兹海峡关闭将影响全球原油运输，推高油价，对能源股可能构成利好，但整体市场风险偏好或受抑制，相关航运和石油板块波动加大。",
+      "translation": "伊朗表示，在美国满足其条件之前，霍尔木兹海峡不会重新开放，穆罕默德-巴盖尔·佐勒加德尔称，在华盛顿纠正其行为之前，该水道将保持关闭。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2086990826664808872",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
