@@ -25,26 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "META",
       "NVDA",
+      "META",
+      "AAPL",
       "TSLA",
-      "ORCL"
+      "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI发展与投资",
+      "AI投资与基础设施",
       "地缘政治风险",
-      "宏观经济与利率",
-      "市场工具与交易策略"
+      "劳动力市场放缓"
     ],
-    "recent_shift": "近期观点从关注市场回调风险转向关注地缘政治（如霍尔木兹海峡）和AI IPO等事件驱动机会。",
+    "recent_shift": "近期关注点从单一的公司财报转向了AI支出、地缘政治以及宏观就业数据的综合影响，整体立场更为审慎。",
     "representative_quotes": [
-      "The stock market may be doing so well that it’s causing more Baby Boomers and Gen Xers to drop out of the labor force.",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
-      "BREAKING: Trading firms are paying $60,000 to $100,000 per month for real-time access to posts from leading Truth Social accounts."
+      "BREAKING: \"Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street,\" per FT",
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+      "The labor participation hit 61.4% in July, the lowest since early 2021, per Bloomberg."
     ],
-    "generated_at": "2026-08-11T15:50:51.935791+00:00"
+    "generated_at": "2026-08-11T16:47:17.352101+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
