@@ -25,26 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$JPM",
-      "$META",
-      "$MSTR",
-      "$ORCL",
-      "$NBIS"
+      "TRUMP",
+      "META",
+      "AAPL",
+      "TSLA",
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI相关投资与盈利模式",
-      "地缘政治风险（伊朗与霍尔木兹海峡）",
-      "劳动力市场与消费疲软",
-      "企业融资与资本市场活动"
+      "AI投资狂热",
+      "美国经济与劳动力市场",
+      "伊朗地缘政治风险",
+      "市场情绪与仓位"
     ],
-    "recent_shift": "",
+    "recent_shift": "近期观点从早期偏乐观转向对AI投资可持续性和市场过热的质疑，同时关注地缘政治风险。",
     "representative_quotes": [
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
-      "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'"
+      "Michael Burry: Berkshire Hathaway is no longer an attractive investment.",
+      "Jamie Dimon of JPMorgan, $JPM, has said Gen Z is wrong to give up on the American Dream"
     ],
-    "generated_at": "2026-08-11T17:49:22.525874+00:00"
+    "generated_at": "2026-08-11T18:47:05.477467+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

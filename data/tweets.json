@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2087247174392480050",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: US Strategic Petroleum Reserves are at their lowest level in 40 years, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087247174392480050",
+    "published_at": "2026-08-11T18:38:00+00:00",
+    "fetched_at": "2026-08-11T18:46:48.460017+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国战略石油储备降至40年低点，可能推高油价，利好能源股，但利空整体经济与通胀预期。",
+      "translation": "最新消息：据彭博社报道，美国战略石油储备处于40年来最低水平。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087236856295637492",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX, $SPCX, can hit $600 in a bull case, per Morgan Stanley.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087236856295637492",
+    "published_at": "2026-08-11T17:57:00+00:00",
+    "fetched_at": "2026-08-11T18:46:51.097316+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "摩根士丹利认为，在牛市情形下，SpaceX（代码SPCX）的股价可能达到600美元。该分析基于对其业务前景的乐观预期，属于正面投资参考。",
+      "translation": "根据摩根士丹利的分析，SpaceX（股票代码SPCX）在牛市情况下可以达到600美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087231792025850236",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
