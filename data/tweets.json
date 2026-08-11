@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2087231792025850236",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump Media says more than 10 customers, mostly high-frequency trading firms, have signed up for its Truth API, paying $60,000 to $100,000 per month for faster access to Trump's Truth Social posts.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087231792025850236",
+    "published_at": "2026-08-11T17:36:52+00:00",
+    "fetched_at": "2026-08-11T17:49:06.381727+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DJT"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普媒体公司旗下Truth API获得超过10家客户（主要是高频交易公司）签约，每月支付6万至10万美元以获得更快访问特朗普Truth Social帖子的权限。这意味着公司获得新的收入来源，可能对股价（DJT）产生积极影响。",
+      "translation": "突发新闻：特朗普媒体表示，已有超过10家客户（主要是高频交易公司）签约使用其Truth API，每月支付6万至10万美元以获得更快访问特朗普Truth Social帖子的权限。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087221756792557980",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The stock market rally is fuelling early retirement, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087221756792557980",
+    "published_at": "2026-08-11T16:57:00+00:00",
+    "fetched_at": "2026-08-11T17:49:09.322554+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到股市上涨推动提前退休，反映了市场走强对个人财务规划的影响，但未涉及具体投资标的或交易建议。",
+      "translation": "据彭博社报道，股市的上涨正在推动人们提前退休。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087216723682365550",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
