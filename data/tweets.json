@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087146259606130756",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The labor participation hit 61.4% in July, the lowest since early 2021, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087146259606130756",
+    "published_at": "2026-08-11T11:57:00+00:00",
+    "fetched_at": "2026-08-11T12:04:42.150059+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "7月劳动参与率降至61.4%，为2021年初以来最低，表明劳动力市场疲软，可能拖累消费和经济前景，对股市构成利空。",
+      "translation": "据彭博社报道，7月份劳动参与率降至61.4%，为2021年初以来的最低水平。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087030220213870632",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
