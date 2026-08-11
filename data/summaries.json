@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LITE",
-      "MU",
-      "NBIS"
+      "$AAOI",
+      "$SIVE",
+      "$LITE",
+      "$MU",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件与光模块供应链瓶颈",
-      "记忆体与HBM结构性短缺",
-      "人形机器人及IPO热潮",
-      "CPO共封装光学与激光器",
-      "数据中心与云需求强劲"
+      "AI基础设施瓶颈",
+      "光通信与CPO",
+      "存储芯片",
+      "人形机器人",
+      "半导体供应链"
     ],
-    "recent_shift": "近期观点从全面看多转向强调短期市场波动与去杠杆压力，但仍维持长期看多不变。",
+    "recent_shift": "近期观点更为积极，强调市场回调是去杠杆而非基本面恶化，并看好AI相关领域的增长。",
     "representative_quotes": [
-      "The demand for pure play humanoid companies is absolutely enormous? I'm personally in the US-based Agility Robotics club at $2.5B premoney via $CCXI.",
-      "The customer demand is 20%-40% higher than expanded built out capacity. Lasers are the biggest bottleneck right now for the transceiver business.",
-      "SK Hynix, $MU, and Samsung have sold out of 2027 capacity for DRAM/HBM. Customers are being allocated only 60–70% of the volumes they initially requested."
+      "I personally see it as extreme short term deleveraging that overshot many individual names.",
+      "The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too.",
+      "But I have conviction that all these themes are backed by structural revenue growth or technological shifts."
     ],
-    "generated_at": "2026-08-11T03:15:52.743456+00:00"
+    "generated_at": "2026-08-11T06:48:39.945506+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
