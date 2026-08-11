@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2087255730839749022",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: 13Fs are coming out.\n\nUnusual Whales gets them as soon as they do.\n\nGet updated right from the source.\n\nCitadel, Ackman, Bridgewater and so many more will file.\n\nCheck them out right on site: https://t.co/wooOthczpj https://t.co/SBjP580t1F",
+    "tweet_url": "https://x.com/unusual_whales/status/2087255730839749022",
+    "published_at": "2026-08-11T19:12:00+00:00",
+    "fetched_at": "2026-08-11T19:55:01.160816+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文通知13F文件即将公布，并宣传Unusual Whales平台可第一时间获取Citadel、Ackman、Bridgewater等知名机构的最新持仓信息。这对追踪机构投资动向有参考价值，但未提供具体投资建议或方向。",
+      "translation": "刚刚：13F文件即将公布。Unusual Whales一旦拿到就会立即发布。您可以直接从源头获取最新信息。Citadel、Ackman、Bridgewater等更多机构将提交文件。请在我们的网站上查看：https://t.co/wooOthczpj https://t.co/SBjP580t1F",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087249406638862506",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just putting it out there for people that think AAOI is a one year cycle...\n\n$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028.\n\n400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (>50% gross margin) product line. \n\nOn top of their existing 2027 projections (eg. ~$5.6B annualized transceiver revenue off $471m/month entering H2). \n\nTAM for 1.6T also goes brrr so I'd expect their end of H2 2027 projections to go up as more capacity comes online... \n\nFor certain optical names, it's one cycle (eg. 1.6T, CPO scale out/up, NPO etc. ), stacked on top of one another... stacked on top of another...  with TAM + margins stacking like minions after Anivia uses W in line. \n\nRather than one-and-done off of one year. \n\nThis is a stark contrast to some other sectors where growth is likely to decelerate after maybe 1 year of triple digit Y/Y revenue growth.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087249406638862506",
+    "published_at": "2026-08-11T18:46:52+00:00",
+    "fetched_at": "2026-08-11T19:54:40.706586+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为AAOI的增长并非一次性周期，而是多个技术周期（如1.6T、CPO、NPO）叠加的结果，未来收入潜力巨大，预计2028年CPO产能将带来额外年化收入约19.2亿美元。",
+      "translation": "只是想告诉那些认为AAOI只是一年周期的人... $AAOI预计其CPO的ELSFP产能到2028年将达到每月40万个。 40万 * ~$400 ELS平均售价（高盛假设）= 到2028年将增加约19.2亿美元的年化收入能力，作为一个新的独立（>50%毛利率）产品线。 在他们现有的2027年预测之上（例如，进入下半年时，月收入4.71亿美元，年化收发器收入约56亿美元）。 1.6T的总市场规模也在扩大，所以我预计随着更多产能上线，他们2027年下半年的预测会上调... 对于某些光通信公司来说，这是一个周期（例如1.6T、CPO扩展、NPO等）叠加在另一个周期之上... 就像小兵在Anivia用W技能后排队一样，TAM和利润率层层叠加。 而不是只有一年的短暂增长。 这与某些其他行业形成鲜明对比，那些行业在一年三位数的同比收入增长后，增速可能会放缓。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087247174392480050",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
