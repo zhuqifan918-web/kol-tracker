@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
+      "AAOI",
       "LITE",
       "MU",
-      "NVDA"
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学互连与激光瓶颈",
-      "内存与存储超级周期",
-      "AI算力基础设施扩张",
-      "CPO与硅光子学",
-      "人形机器人"
+      "AI硬件与光模块供应链瓶颈",
+      "记忆体与HBM结构性短缺",
+      "人形机器人及IPO热潮",
+      "CPO共封装光学与激光器",
+      "数据中心与云需求强劲"
     ],
-    "recent_shift": "近期观点从关注市场回调风险转向强调基本面未变，并继续看好AI相关瓶颈行业。",
+    "recent_shift": "近期观点从全面看多转向强调短期市场波动与去杠杆压力，但仍维持长期看多不变。",
     "representative_quotes": [
-      "But $AAOI at $140 and $AAOI at $75 are the same company.",
-      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
+      "The demand for pure play humanoid companies is absolutely enormous? I'm personally in the US-based Agility Robotics club at $2.5B premoney via $CCXI.",
+      "The customer demand is 20%-40% higher than expanded built out capacity. Lasers are the biggest bottleneck right now for the transceiver business.",
+      "SK Hynix, $MU, and Samsung have sold out of 2027 capacity for DRAM/HBM. Customers are being allocated only 60–70% of the volumes they initially requested."
     ],
-    "generated_at": "2026-08-10T16:23:57.599470+00:00"
+    "generated_at": "2026-08-11T03:15:52.743456+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPY",
-      "META",
-      "AAPL",
       "NVDA",
+      "AAPL",
+      "META",
+      "TSLA",
       "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技投资",
-      "地缘政治与能源",
-      "宏观经济与利率政策",
-      "市场情绪与资金流",
-      "对冲基金活动"
+      "市场情绪极端与波动风险",
+      "AI与科技投资热潮",
+      "地缘政治与油价影响",
+      "货币政策与通胀",
+      "宏观杠杆与市场泡沫"
     ],
-    "recent_shift": "近期观点从相对乐观转向更为谨慎，关注通胀、利率、地缘政治风险及市场过热迹象。",
+    "recent_shift": "近期观点转向谨慎，强调市场杠杆高企和乐观情绪过度。",
     "representative_quotes": [
-      "\"The odds of a September rate hike are at 56.7%, according to the CME FedWatch tool, and the next core PCE print lands August 26.\"",
-      "\"BREAKING: Iran says the Strait of Hormuz will not return to pre-war operating conditions.\"",
-      "\"BREAKING: Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk, per Goldman Sachs.\""
+      "Jamie Dimon of JPMorgan: Margin debt is the highest its ever been",
+      "Bank of America has said that bullish sentiment has 'gone too far'",
+      "Copper has surged to its highest level ever, per CNBC"
     ],
-    "generated_at": "2026-08-11T01:20:45.206887+00:00"
+    "generated_at": "2026-08-11T03:15:54.831556+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
