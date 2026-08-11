@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
-      "LITE",
-      "SIVE",
-      "MU",
-      "COHR"
+      "$AAOI",
+      "$SIVE",
+      "$LITE",
+      "$NBIS",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力瓶颈（激光器、光模块、内存）",
-      "光互连与CPO（共封装光学）的长期增长",
-      "人形机器人与机器人供应链",
-      "内存（DRAM/HBM）供不应求",
-      "AI云服务与Neocloud需求"
+      "AI 基础设施瓶颈与供应链",
+      "光学互连与激光器短缺",
+      "内存与存储结构性需求",
+      "人形机器人与新计算架构",
+      "科技股回调中的杠杆与流动性风险"
     ],
-    "recent_shift": "近期观点未变，仍维持对AI硬件瓶颈的长期看多，但承认市场因去杠杆导致暴跌，并强调基本面未恶化。",
+    "recent_shift": "近期观点变化：在市场因去杠杆和谣言暴跌后，明确强调基本面未变，坚持长期看多，并指出恐慌是错杀机会。",
     "representative_quotes": [
-      "I remain convinced that the bottleneck thesis is intact. The selloff is a reflection of liquidity and leverage, not fundamentals.",
-      "CPO is very early, but starting to show up in earnings now. Equipment and test players appear first, before optical engines and laser volumes ramp.",
-      "Extraordinary demand across the laser and optical sector. 2027 capacity ramp on track, and AAOI has customers now, limited only by making enough lasers and transceivers."
+      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
+      "The customer demand is 20%-40% higher. Unholy photonics demand validation across the whole sector.",
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
     ],
-    "generated_at": "2026-08-11T20:34:48.908936+00:00"
+    "generated_at": "2026-08-11T21:36:16.514616+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
       "META",
+      "NVDA",
       "AAPL",
       "MSFT",
-      "SMCI"
+      "TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI与数据中心投资",
-      "货币政策与通胀",
-      "地缘政治风险",
-      "劳动力与消费",
-      "市场情绪与仓位"
+      "人工智能与数据中心投资热潮",
+      "美股财报超预期与市场乐观情绪",
+      "地缘政治风险（霍尔木兹海峡）与能源市场",
+      "美联储政策预期与利率路径",
+      "市场流动性与机构投资者动向"
     ],
-    "recent_shift": "近期对经济衰退的担忧有所缓解，但地缘政治风险上升，市场整体偏向中性。",
+    "recent_shift": "近期观点从关注宏观经济担忧转向积极看好AI相关投资和股票市场，强调机构投资者重新入场和科技股强劲表现。",
     "representative_quotes": [
-      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items.",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "The stock market may be doing so well that it’s causing more Baby Boomers and Gen Xers to drop out of the labor force."
+      "The stock market rally is fuelling early retirement, per Bloomberg.",
+      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
+      "HyperScalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg."
     ],
-    "generated_at": "2026-08-11T20:34:51.618249+00:00"
+    "generated_at": "2026-08-11T21:36:19.880174+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
