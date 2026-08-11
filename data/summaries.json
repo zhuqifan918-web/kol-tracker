@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
+      "SPY",
       "META",
       "AAPL",
-      "TSM",
-      "RKLB"
+      "NVDA",
+      "MSFT"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能基础设施投资",
-      "科技股盈利超预期",
-      "市场做多情绪回升",
-      "地缘政治风险影响航运与能源"
+      "AI与科技投资",
+      "地缘政治与能源",
+      "宏观经济与利率政策",
+      "市场情绪与资金流",
+      "对冲基金活动"
     ],
-    "recent_shift": "近期从对市场回调的担忧转向积极看多，强调AI投资机会和盈利增长。",
+    "recent_shift": "近期观点从相对乐观转向更为谨慎，关注通胀、利率、地缘政治风险及市场过热迹象。",
     "representative_quotes": [
-      "Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street",
-      "Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk",
-      "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800"
+      "\"The odds of a September rate hike are at 56.7%, according to the CME FedWatch tool, and the next core PCE print lands August 26.\"",
+      "\"BREAKING: Iran says the Strait of Hormuz will not return to pre-war operating conditions.\"",
+      "\"BREAKING: Hedge funds bought global equities for a second consecutive week, reversing their sharp late-July pullback in risk, per Goldman Sachs.\""
     ],
-    "generated_at": "2026-08-10T23:57:50.020208+00:00"
+    "generated_at": "2026-08-11T01:20:45.206887+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
