@@ -28,24 +28,24 @@
       "META",
       "NVDA",
       "AAPL",
-      "MSFT",
-      "TSM"
+      "ORCL",
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与数据中心投资热潮",
-      "美股财报超预期与市场乐观情绪",
-      "地缘政治风险（霍尔木兹海峡）与能源市场",
-      "美联储政策预期与利率路径",
-      "市场流动性与机构投资者动向"
+      "AI基础设施与数据中心投资",
+      "AI相关公司IPO与融资活动",
+      "市场对AI的过度乐观情绪",
+      "地缘政治风险（霍尔木兹海峡）",
+      "美国劳动力市场疲软"
     ],
-    "recent_shift": "近期观点从关注宏观经济担忧转向积极看好AI相关投资和股票市场，强调机构投资者重新入场和科技股强劲表现。",
+    "recent_shift": "近期观点从谨慎转为更加乐观，强调市场强劲和AI投资机遇，但同时也关注AI泡沫风险。",
     "representative_quotes": [
-      "The stock market rally is fuelling early retirement, per Bloomberg.",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
-      "HyperScalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg."
+      "Breaking: Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street.",
+      "Jamie Dimon of JPMorgan, $JPM, has said Gen Z is wrong to give up on the American Dream.",
+      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto."
     ],
-    "generated_at": "2026-08-11T21:36:19.880174+00:00"
+    "generated_at": "2026-08-11T22:32:29.134830+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
