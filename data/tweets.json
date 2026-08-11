@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2087151292624126178",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jamie Dimon of JPMorgan, $JPM, has said Gen Z is wrong to give up on the American Dream",
+    "tweet_url": "https://x.com/unusual_whales/status/2087151292624126178",
+    "published_at": "2026-08-11T12:17:00+00:00",
+    "fetched_at": "2026-08-11T13:50:45.460784+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPM"
+      ],
+      "direction": "neutral",
+      "summary": "摩根大通CEO杰米·戴蒙表示，Z世代放弃美国梦是错误的。该言论可能反映对经济前景的乐观态度，但未直接提供具体投资建议或市场分析。",
+      "translation": "摩根大通（$JPM）的杰米·戴蒙表示，Z世代放弃美国梦是错误的。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087146259606130756",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -15,6 +36,25 @@
       "direction": "bearish",
       "summary": "7月劳动参与率降至61.4%，为2021年初以来最低，表明劳动力市场疲软，可能拖累消费和经济前景，对股市构成利空。",
       "translation": "据彭博社报道，7月份劳动参与率降至61.4%，为2021年初以来的最低水平。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087141226285875495",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The stock market may be doing so well that it’s causing more Baby Boomers and Gen Xers to drop out of the labor force,\" per FORTUNE.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087141226285875495",
+    "published_at": "2026-08-11T11:37:00+00:00",
+    "fetched_at": "2026-08-11T13:50:47.108246+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及股市表现强劲，但关联的是劳动力市场参与者减少的现象，而非直接的投资建议或市场分析。对投资者而言，这可能反映经济结构变化，但未提供具体交易信号。",
+      "translation": "据《财富》杂志报道，股市可能表现如此之好，以至于导致更多婴儿潮一代和X世代退出劳动力市场。",
       "confidence": "medium"
     }
   },
