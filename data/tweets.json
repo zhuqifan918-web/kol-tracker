@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087616883583578318",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this play.\n\nThis trader made $15 million OVERNIGHT.\n\nAll tracked with Unusual Whales. https://t.co/kwIqQwM0U5",
+    "tweet_url": "https://x.com/unusual_whales/status/2087616883583578318",
+    "published_at": "2026-08-12T19:07:05+00:00",
+    "fetched_at": "2026-08-12T19:33:40.262912+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文展示了一位交易者通过Unusual Whales平台跟踪的交易，暗示该平台能捕捉到巨额盈利的交易机会，但未提供具体投资建议或方向性观点。",
+      "translation": "看看这笔交易。这位交易者一夜之间赚了1500万美元。全部通过Unusual Whales跟踪。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2087588249070153730",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
