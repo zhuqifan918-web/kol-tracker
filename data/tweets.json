@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087564012078960836",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Goldman Sachs says that after CPI data, the Fed will hold rates in September.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087564012078960836",
+    "published_at": "2026-08-12T15:37:00+00:00",
+    "fetched_at": "2026-08-12T16:24:49.762948+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "高盛根据CPI数据预测美联储将在9月维持利率不变，这暗示短期内货币政策不会放松，对市场流动性和风险资产可能产生中性偏谨慎影响。投资者需关注后续通胀走势及美联储政策预期变化。",
+      "translation": "高盛表示，根据CPI数据，美联储将在9月维持利率不变。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087553945761894908",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
