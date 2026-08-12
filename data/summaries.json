@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AMD",
-      "META",
-      "INTC",
-      "SMCI"
+      "$INTC",
+      "$AMZN",
+      "$AMD",
+      "$CRWV",
+      "$CAVA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与科技股",
-      "期权交易与市场流动性",
-      "宏观经济与美联储政策",
-      "地缘政治不确定性",
-      "能源市场波动"
+      "AI基础设施和算力投资",
+      "财报超预期与市场做多",
+      "期权流和做市商定位",
+      "地缘政治与能源供应",
+      "散户和机构参与度提升"
     ],
-    "recent_shift": "近期观点从相对谨慎转向更加积极，特别是在科技股和期权交易方面，同时关注美联储政策变化和地缘政治风险。",
+    "recent_shift": "近期从关注宏观数据和地缘风险转向积极交易和财报驱动，看涨情绪增强。",
     "representative_quotes": [
-      "Goldman Sachs says that after CPI data, the Fed will hold rates in September.",
+      "We opened the show with a 100% $INTC play, followed by a $450 MNQ scalp! Breaking down $AMZN options flows now, join below:",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "BREAKING: Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street, per FT"
+      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller."
     ],
-    "generated_at": "2026-08-12T16:25:28.678262+00:00"
+    "generated_at": "2026-08-12T17:26:27.198155+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
@@ -56,18 +56,18 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张",
-      "AI算力投资回报",
-      "去杠杆尾声",
-      "中概科技股低估",
-      "安全事件与平台责任"
+      "存储芯片需求强劲，产能售罄",
+      "AI发展推动存储需求指数级增长",
+      "云厂商资本开支巨大，利好上游硬件",
+      "抄底机会，长期看好存储类资产",
+      "警惕市场波动，但整体看多"
     ],
-    "recent_shift": "近期从激进交易转为谨慎，增加现金仓位，强调风险控制。",
+    "recent_shift": "近期从恐慌性抛售转向积极抄底，态度更乐观。",
     "representative_quotes": [
-      "买在无人问津，卖在人声鼎沸。",
-      "存储是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。",
-      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。"
+      "存储这波去杠杆很彻底了。买在无人问津，卖在人声鼎沸。",
+      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。",
+      "AI真实有史以来最牛逼的生意，存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了"
     ],
-    "generated_at": "2026-08-12T12:45:15.705724+00:00"
+    "generated_at": "2026-08-12T17:26:30.224194+00:00"
   }
 }
