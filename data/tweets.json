@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2087424400811507963",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "What a legend, Situational Awareness bought 1/6th of the entire company of Taiyo Yuden.\n\nPretty wild to see this unfolding. https://t.co/nBQW5DOZ5f",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087424400811507963",
+    "published_at": "2026-08-12T06:22:14+00:00",
+    "fetched_at": "2026-08-12T06:50:31.961226+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TYO:6976"
+      ],
+      "direction": "bullish",
+      "summary": "知名投资者Situational Awareness大举买入太阳诱电（Taiyo Yuden）公司约1/6的股份，显示了对其前景的强烈信心，具有积极信号。",
+      "translation": "真是传奇，Situational Awareness买下了太阳诱电整个公司的六分之一股份。看到这一幕真是令人惊叹。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087397768314999183",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -117,6 +138,31 @@
       "summary": "这条推文提到特朗普在2027年前降低长期资本利得税的可能性为13%，这属于影响投资环境的宏观政策预测，可能影响市场情绪，但并未涉及具体股票或行业，也没有明确的看涨或看跌信号。",
       "translation": "特朗普在2027年前降低长期资本利得税的概率为13%。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087329770879197549",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$LITE earnings transcript TLDRs:\n\n- \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power  laser chips in the second half of calendar 2027\"\n\nH2 2027 start of CPO scale up ramp confirmed from Lumentum for their lead customer. \n\n- \"We were recently given our first external light source, or ELS, module purchase for delivery by the second half of calendar 2027\" \n\nELS industry ramp timelines\n\n- \"The NPO opportunity is completely additive for us, significantly increasing the optical TAM.\"\n\nMore TAM for laser chokepoint club\n\n- \"we expect the 1.6T transceiver uptake to intensify starting in fiscal Q1 and sustain through calendar 2027.\"\n\n- \"Even in CW, we’ve been surprised at our ability to price up\"\n\nPositive pricing power for $SIVE and the other CW laser players. \n\n- \"As a result, we are able to command a nice price premium that we expect  to sustain, as these Chinese if these Chinese guys come online. \n\nI caution people also, I think people are some of these Chinese laser suppliers are not delivering in the market today, so they have there is no recourse when they throw out these big numbers. We have not seen anything like that to date in terms of their output.\"\n\nChinese players are more behind than markets expect, corroborated by $AAOI and $LITE. \n\n- \"We are way behind in our shipments, unfortunately, on high-powered lasers\"\n\n\"The demand signal has increased, and we are very much further behind relative to our ability to supply.\"\n\nExtreme demand imbalance for UHP CW laser capacity, continued demand imbalance for EML. Shipping roughly +$50M year end -> $100m+ (\"triple digit quarter\") into much larger H2 2027 and 2028 scale up demand,.\n\n- \"So what we are trying to do, I think, really in the last three months is secure even more substrate supply\" (because of demand imbalance), \"we found additional substrate help from $AXTI They are a great partner.\"\n\nHello InP substrate bottleneck. \n\nTLDR:\n\n- Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any \"delay\" news as market \"noise\". (one delay report caused so much damage, and it took Nvidia, Lumentum, and all these companies weeks to do damage control). \n- CW lasers demand ramp second half of 2027\n- Extreme demand imbalance for UHP CW laser capacity surprised Lumentum\n- UHP lasers commands very high margins and is able to price up CW laser capacity. \n- China further behind in the laser/capacity angle. \n\nBasically just validated timelines + demand/pricing for Western CW laser players. \n\nCW laser scarcity is already happening before the main volume ramp even begins...",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087329770879197549",
+    "published_at": "2026-08-12T00:06:12+00:00",
+    "fetched_at": "2026-08-12T06:50:40.678090+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE",
+        "SIVE",
+        "AAOI",
+        "AXTI",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出Lumentum确认其CPO规模部署和超高性能激光芯片需求将在2027年下半年启动，且当前CW激光器供应严重失衡，定价权强劲，中国竞争对手实际落后于市场预期，利好西方CW激光器供应商如LITE、SIVE等。",
+      "translation": "Lumentum财报电话会议摘要：- 我们对于CPO规模化部署时间的可见性已经提高。我们仍然对超高性能激光芯片在2027日历年下半年的需求增长充满信心。- 我们最近收到了首个外部光源（ELS）模块采购订单，将于2027日历年下半年交付。- NPO机遇对我们来说完全是增量性的，显著扩大了光学TAM。- 我们预计1.6T收发器的需求强度将从第一财季开始增强，并持续到2027日历年。- 即使是在CW激光器领域，我们也惊讶于我们能够提高价格的能力。- 因此，我们能够获得一个可观的溢价，并预计在中国厂商上线后仍能维持这一溢价。我提醒人们，我认为一些中国的激光供应商目前并没有真正在市场上交付产品，所以当他们抛出那些大数字时，没有任何实际证据。到目前为止，我们还没有看到他们的产量有任何实质产出。- 我们在高功率激光器的出货方面远远落后。- 需求信号已经增强，而我们相比供应能力更加落后。超高性能CW激光器产能的极端需求失衡，EML的需求失衡继续存在。年底出货量约+5000万美元，转为1亿美元以上（“三位数季度”），进入到更大的2027年下半年和2028年规模化需求。- 因此，我们过去三个月真正在努力做的是确保更多的衬底供应（因为需求失衡），我们找到了来自AXTI的额外衬底帮助。InP衬底瓶颈出现。总结：Lumentum确认CPO规模部署将在2027年下半年出货，并驳斥了所谓的“延迟”消息为市场“噪音”。CW激光器需求将在2027年下半年上升。超高性能CW激光器产能的极端需求失衡令Lumentum感到意外。超高性能激光器具有非常高的利润率，并且能够提高CW激光器产能的价格。中国在激光器/产能方面更加落后。基本上验证了西方CW激光器供应商的时间线和需求/定价。CW激光器稀缺已经在主流量上升之前就发生了。",
+      "confidence": "high"
     }
   },
   {

@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
-      "SIVE",
-      "LITE",
-      "MU",
-      "NBIS"
+      "$LITE",
+      "$AAOI",
+      "$SIVE",
+      "$MU",
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈与供应链",
-      "光子与激光器短缺",
-      "内存与HBM供不应求",
-      "算力云与Neocloud需求",
-      "CPO与硅光子学发展"
+      "AI基础设施瓶颈与供应链紧张",
+      "光模块与激光器需求激增",
+      "内存与存储结构性短缺",
+      "算力云服务需求持续超供",
+      "政策支持与地缘风险下的投资机会"
     ],
-    "recent_shift": "近期观点未明显转变，但强调市场回调是流动性驱动的而非基本面恶化，并坚持原有看多立场。",
+    "recent_shift": "近期观点在下挫后更加坚定，强调需求基本面未变，并认为回调是流动性而非基本面驱动",
     "representative_quotes": [
-      "AI DC buildout read through is just enormous.",
-      "The customer demand is 20%-40% higher.",
-      "Hard to see those memory 'oversupply' claims in early-mid 2027 when they're all sold out of capacity already."
+      "CW laser scarcity is already happening before the main volume ramp even begins...",
+      "Unholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing.",
+      "I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track."
     ],
-    "generated_at": "2026-08-12T05:13:20.023231+00:00"
+    "generated_at": "2026-08-12T06:51:30.229250+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
