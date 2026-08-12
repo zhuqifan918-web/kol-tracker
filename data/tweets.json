@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2087542321403273236",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We opened the show with a 100% $INTC play, followed by a $450 MNQ scalp!\n\nBreaking down $AMZN options flows now, join below:\nhttps://t.co/EtNhAypmQ8",
+    "tweet_url": "https://x.com/unusual_whales/status/2087542321403273236",
+    "published_at": "2026-08-12T14:10:48+00:00",
+    "fetched_at": "2026-08-12T14:13:57.096208+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC",
+        "MNQ",
+        "AMZN"
+      ],
+      "direction": null,
+      "summary": "该推文提及英特尔（INTC）的全仓操作和微型纳斯达克指数（MNQ）的短线交易，并邀请用户加入分析亚马逊（AMZN）期权流。推文主要展示交易活动，未明确给出具体多空观点。",
+      "translation": "我们以100%的英特尔（INTC）仓位开盘，随后进行了450美元的微型纳指（MNQ）剥头皮交易！现在正在分析亚马逊（AMZN）期权流，加入下方：https://t.co/EtNhAypmQ8",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087538846422503797",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Core goods prices rose 0.20% in July in the CPI, following two months of declines. This was the largest month-over-month rise since Sept 2025.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087538846422503797",
+    "published_at": "2026-08-12T13:57:00+00:00",
+    "fetched_at": "2026-08-12T14:13:58.857979+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及美国7月核心商品价格环比上涨0.20%，为2025年9月以来最大涨幅，此前连续两个月下降。此数据可能影响通胀预期及美联储货币政策，但对具体投资方向未给出明确信号。",
+      "translation": "7月份核心商品价格在CPI中上涨0.20%，此前连续两个月下降。这是自2025年9月以来的最大环比涨幅。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087531412714844496",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales trading show WhaleWatch is live now!\n\nTracking options flow, and taking live trades with Unusual Whales tools.\n\nA nice green pre-market; do you think the rally continues?\n\nhttps://t.co/EtNhAypmQ8",
+    "tweet_url": "https://x.com/unusual_whales/status/2087531412714844496",
+    "published_at": "2026-08-12T13:27:27+00:00",
+    "fetched_at": "2026-08-12T14:13:54.925803+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及Unusual Whales的WhaleWatch节目正在直播，追踪期权流并进行实时交易，同时提到盘前市场表现良好，询问涨势能否持续，整体情绪偏乐观。",
+      "translation": "突发消息：Unusual Whales的WhaleWatch交易节目现在直播！追踪期权流，并使用Unusual Whales工具进行实时交易。盘前市场表现良好；你认为涨势会继续吗？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087528779996709162",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Cost of insuring against default by AI hyperscalers has hit record levels, per FT: https://t.co/joF78TGxbZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2087528779996709162",
+    "published_at": "2026-08-12T13:17:00+00:00",
+    "fetched_at": "2026-08-12T14:14:01.319832+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "据金融时报报道，针对AI超大规模计算公司的信用违约保险成本已创历史新高，这反映出市场对这类公司偿债能力的担忧加剧，可能对AI相关股票和债券产生负面影响，投资者需警惕信用风险。",
+      "translation": "根据金融时报，针对AI超大规模计算公司的违约保险成本已达到创纪录水平。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087515371750490383",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

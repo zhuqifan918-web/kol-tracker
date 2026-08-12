@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "INTC",
+      "AMZN",
       "AMD",
-      "SMCI",
       "CRWV",
-      "META",
-      "TSM"
+      "CAVA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施建设",
-      "防御性板块与能源安全",
-      "经济软着陆与政策预期",
-      "企业盈利与市场情绪",
-      "高利率与市场波动"
+      "AI资本开支与回报质疑",
+      "地缘政治风险（霍尔木兹海峡）",
+      "宏观经济数据与美联储政策",
+      "市场流动性与特朗普关税政策",
+      "科技股IPO热潮（Anthropic、SpaceX）"
     ],
-    "recent_shift": "近期观点从对经济衰退的担忧转向对AI和科技股的乐观情绪，同时关注财政政策和利率走向。",
+    "recent_shift": "近期观点未明显转向，但持续关注AI盈利可持续性及地缘风险，对市场保持中性态度。",
     "representative_quotes": [
+      "Core goods prices rose 0.20% in July in the CPI, following two months of declines. This was the largest month-over-month rise since Sept 2025.",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg.",
       "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800"
     ],
-    "generated_at": "2026-08-12T12:45:12.502269+00:00"
+    "generated_at": "2026-08-12T14:14:39.596270+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
