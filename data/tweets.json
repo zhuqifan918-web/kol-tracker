@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2087553945761894908",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry has said that Berkshire Hathaway is \"no longer attractive... without Buffett.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2087553945761894908",
+    "published_at": "2026-08-12T14:57:00+00:00",
+    "fetched_at": "2026-08-12T15:27:18.646420+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK"
+      ],
+      "direction": "bearish",
+      "summary": "Michael Burry认为没有巴菲特的伯克希尔哈撒韦不再具有投资吸引力，暗示该公司未来前景堪忧，可能缺乏增长动力。",
+      "translation": "迈克尔·伯里表示，伯克希尔哈撒韦“没有巴菲特就不再具有吸引力”。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087548912580325594",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Norway's sovereign wealth fund has said that the stock market gains won't last.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087548912580325594",
+    "published_at": "2026-08-12T14:37:00+00:00",
+    "fetched_at": "2026-08-12T15:27:20.112955+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "挪威主权财富基金警告股市上涨不可持续，暗示未来市场可能回调，投资者需警惕风险。",
+      "translation": "挪威主权财富基金表示，股市的上涨不会持续。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087542321403273236",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -495,6 +535,25 @@
       "summary": "该推文认为超微电脑（SMCI）2027财年营收指引远超预期，带来大量订单，尽管毛利率可能较低，但市值相对较小，存在重估空间。作者持有短期头寸，看好其上涨潜力。",
       "translation": "SMCI的2027年指引实际上非常惊人：2027财年营收指引为650-720亿美元，而市场预期约524亿美元，轻松超出预期161亿美元。SMCI在本财报中录得超过600亿美元的巨额订单。时间线也很有趣，因为他们在6月宣布计划在一年内与SPCX和xAI共同建设数据中心。但如果SMCI能维持10-15%的毛利率（基于约700亿美元的营收指引），我认为考虑到市值仅约200亿美元，还有很大的重估空间（非财务建议，我在本财报后持有SMCI短期头寸）。最重要的是从今天的电话会议中了解2027年的毛利率。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087278128263799117",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "More Americans now use marijuana daily than drink or smoke daily, per NHSDA",
+    "tweet_url": "https://x.com/unusual_whales/status/2087278128263799117",
+    "published_at": "2026-08-11T20:41:00+00:00",
+    "fetched_at": "2026-08-12T15:27:57.360124+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国每日使用大麻的人数超过每日饮酒或吸烟的人数，这可能对合法大麻行业构成长期利好。投资者可关注相关上市公司或ETF，尽管推文未提及具体标的。",
+      "translation": "根据NSDUH（全国药物使用与健康调查）数据，现在美国人每天使用大麻的人数超过了每天饮酒或吸烟的人数。",
+      "confidence": "medium"
     }
   },
   {
@@ -1513,6 +1572,25 @@
       "summary": "微软计划在9月发布下一代Maia 300 AI芯片，这有助于增强其在AI基础设施领域的竞争力，可能对股价产生积极影响。",
       "translation": "微软，$MSFT，据报道计划在9月推出其下一代Maia 300 AI芯片，据The Information消息。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2086824137067303226",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: A consortium including Amazon founder Jeff Bezos and Facebook co-founder Eduardo Saverin is closing in on a deal to acquire a large minority stake in Liverpool Football Club, with an announcement from current owner FSG possibly coming this week, per SKY",
+    "tweet_url": "https://x.com/unusual_whales/status/2086824137067303226",
+    "published_at": "2026-08-10T14:37:00+00:00",
+    "fetched_at": "2026-08-12T15:27:32.428494+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息涉及杰夫·贝索斯和爱德华多·萨维林联合财团收购利物浦足球俱乐部少数股权的潜在交易，虽不直接涉及股市或加密货币，但可能对体育传媒及投资相关领域产生间接影响。目前交易尚未确认，市场影响有限。",
+      "translation": "突发：一个包括亚马逊创始人杰夫·贝索斯和Facebook联合创始人爱德华多·萨维林在内的财团即将达成协议，收购利物浦足球俱乐部的大量少数股权，据天空新闻，现任所有者FSG可能本周宣布此消息。",
+      "confidence": "low"
     }
   },
   {

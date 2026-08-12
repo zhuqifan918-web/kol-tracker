@@ -24,27 +24,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "INTC",
-      "AMZN",
-      "AMD",
-      "CRWV",
-      "CAVA"
+      "$CRWV",
+      "$CAVA",
+      "$SMCI",
+      "$LITE",
+      "$AMD"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI资本开支与回报质疑",
-      "地缘政治风险（霍尔木兹海峡）",
-      "宏观经济数据与美联储政策",
-      "市场流动性与特朗普关税政策",
-      "科技股IPO热潮（Anthropic、SpaceX）"
+      "人工智能基础设施",
+      "期权交易流",
+      "市场情绪"
     ],
-    "recent_shift": "近期观点未明显转向，但持续关注AI盈利可持续性及地缘风险，对市场保持中性态度。",
+    "recent_shift": "",
     "representative_quotes": [
-      "Core goods prices rose 0.20% in July in the CPI, following two months of declines. This was the largest month-over-month rise since Sept 2025.",
+      "The stock market rally is fuelling early retirement, per Bloomberg.",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800"
+      "BREAKING: 13Fs are coming out. Unusual Whales gets them as soon as they do."
     ],
-    "generated_at": "2026-08-12T14:14:39.596270+00:00"
+    "generated_at": "2026-08-12T15:28:01.576176+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
