@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "META",
-      "AAPL",
-      "MSFT",
-      "SMCI"
+      "AMD",
+      "SMCI",
+      "CAVA",
+      "LITE",
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施投资",
-      "宏观经济与利率",
-      "地缘政治风险",
-      "市场流动性",
-      "投机交易工具"
+      "13F文件披露",
+      "地缘政治风险（霍尔木兹海峡）",
+      "AI投资与估值",
+      "市场流动性与利率预期",
+      "消费与就业数据"
     ],
-    "recent_shift": "近期观点转向更关注AI支出可持续性和地缘政治风险，但对市场短期表现保持中性。",
+    "recent_shift": "近期观点似乎从强调市场上涨和机会转向关注潜在风险和地缘政治不确定性。",
     "representative_quotes": [
-      "BREAKING: 'Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street,' per FT",
       "Goldman Sachs says that after CPI data, the Fed will hold rates in September.",
+      "Norway's sovereign wealth fund has said that the stock market gains won't last.",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
     ],
-    "generated_at": "2026-08-12T21:35:24.115601+00:00"
+    "generated_at": "2026-08-12T22:31:03.101469+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
