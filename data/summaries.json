@@ -24,27 +24,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "META",
-      "AAPL",
+      "INTC",
+      "MNQ",
+      "AMD",
       "SMCI",
-      "CRWV"
+      "META"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与数据中心投资",
-      "地缘政治与能源安全",
-      "宏观经济与美联储政策",
-      "期权交易与市场微观结构",
-      "科技公司IPO与资本市场活动"
+      "人工智能与数据中心",
+      "期权交易与市场工具",
+      "市场与宏观经济指标"
     ],
-    "recent_shift": "近期观点从关注市场上涨转向对可持续性和风险的担忧，同时强调地缘政治和AI泡沫风险。",
+    "recent_shift": "近期对市场持乐观态度，并认为AI相关投资将继续推动增长。",
     "representative_quotes": [
-      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg.",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Norway's sovereign wealth fund has said that the stock market gains won't last."
+      "A nice green pre-market; do you think the rally continues?",
+      "The stock market rally is fuelling early retirement, per Bloomberg.",
+      "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800"
     ],
-    "generated_at": "2026-08-12T18:14:43.139040+00:00"
+    "generated_at": "2026-08-12T19:34:20.267196+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
