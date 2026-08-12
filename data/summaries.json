@@ -1,73 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$LITE",
-      "$AAOI",
       "$SIVE",
-      "$MU",
-      "$NBIS"
+      "$AAOI",
+      "$LITE",
+      "$NVDA",
+      "$MTSI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈与供应链紧张",
-      "光模块与激光器需求激增",
-      "内存与存储结构性短缺",
-      "算力云服务需求持续超供",
-      "政策支持与地缘风险下的投资机会"
+      "AI硬件瓶颈与供应链瓶颈投资",
+      "CPO激光器与光通信产业链",
+      "AI基础设施与算力需求增长",
+      "人形机器人与自动化投资机会",
+      "存储器与半导体供应链"
     ],
-    "recent_shift": "近期观点在下挫后更加坚定，强调需求基本面未变，并认为回调是流动性而非基本面驱动",
+    "recent_shift": "近期从AI硬件与供应链瓶颈的乐观情绪，转向关注市场波动与流动性危机，但仍保持中期看涨。",
     "representative_quotes": [
       "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "Unholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing.",
-      "I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track."
+      "Feels like my thesis with both: - The CW bottleneck that I predicted - CW laser chokepoint (where there's only a few CPO players, at least for gen-1) Got validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
+      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
     ],
-    "generated_at": "2026-08-12T06:51:30.229250+00:00"
+    "generated_at": "2026-08-12T09:37:58.511708+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "ANTHROPIC",
+      "MSFT",
       "AAPL",
-      "CRWV",
-      "SMCI"
+      "TSM",
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资热潮",
-      "资本市场流动性充裕",
-      "美股盈利增长强劲",
-      "财政与货币政策宽松预期"
+      "AI基础设施建设",
+      "美股市场情绪",
+      "能源与地缘政治",
+      "监管政策变化",
+      "企业财报"
     ],
-    "recent_shift": "近期观点从谨慎转向积极，表现为对股市反弹和AI相关投资的信心增强。",
+    "recent_shift": "近期看多情绪增强，预测市场对AI相关IPO和财政政策的乐观情绪升温。",
     "representative_quotes": [
-      "BREAKING: 'Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street,' per FT",
-      "The stock market rally is fuelling early retirement, per Bloomberg.",
-      "BREAKING: Anthropic projected to IPO by end of October as it works to boost investor confidence ahead of a potentially record-setting debut."
+      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly",
+      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto.",
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
     ],
-    "generated_at": "2026-08-12T05:13:23.105194+00:00"
+    "generated_at": "2026-08-12T09:38:04.517609+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
+      "SKHynix",
       "META",
-      "GOOGL",
-      "SKHNY",
       "MU",
-      "MRVL"
+      "SNDK",
+      "GOOGL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI大模型竞争与定价战（DeepSeek、Kimi等）",
-      "存储行业供需紧张与长期增长逻辑（HBM、DRAM、NAND）",
-      "云计算巨头资本开支与AI投资回报周期",
-      "网络安全与交易所信任（Gate事件）",
-      "市场波动与风险管理（杠杆、回撤、仓位控制）"
+      "存储需求强劲，供不应求",
+      "AI发展带动存储和算力需求",
+      "DeepSeek低价策略冲击模型定价，利好存储",
+      "云厂商资本开支高企，AI投资回报可观",
+      "Gate事件暴露交易所安全风险"
     ],
-    "recent_shift": "近期从早期对存储板块的极度乐观转向关注市场回调与风险控制，同时强调AI算力和存储的长期需求，但对短期波动保持警惕。",
+    "recent_shift": "从对存储的极度乐观和对市场回调的焦虑，转向对AI投资回报的长期信心和对市场波动的接受，但近期Gate事件引发关注，分散了部分注意力。",
     "representative_quotes": [
       "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
-      "我认为，这种供不应求的局面在2027年仍将持续。事实上，我们目前已经收到的2028年需求规模都令人震惊。",
-      "真正利好的是谷歌和亚马逊这种云厂。不管谁的模型突然又又领先，那么云厂都能给调配算力过去。"
+      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
+      "人类往往高估了一年内的变化，同时也低估了10年后的变化。"
     ],
-    "generated_at": "2026-08-10T12:44:55.705868+00:00"
+    "generated_at": "2026-08-12T09:38:02.089596+00:00"
   }
 }
