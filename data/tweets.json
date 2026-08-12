@@ -19,6 +19,27 @@
     }
   },
   {
+    "tweet_id": "2087655268067008830",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @mikealfred Did you take a look at COHR earnings by chance?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087655268067008830",
+    "published_at": "2026-08-12T21:39:37+00:00",
+    "fetched_at": "2026-08-12T23:30:12.822769+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "COHR"
+      ],
+      "direction": "neutral",
+      "summary": "该推文询问是否查看了COHR的财报，表明用户关注该公司的业绩情况，但未明确表达看多或看空观点。",
+      "translation": "@aleabitoreddit @mikealfred 你们看过COHR的财报了吗？",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087653099246587909",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
