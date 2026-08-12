@@ -4,48 +4,47 @@
       "AAOI",
       "SIVE",
       "LITE",
-      "SMCI",
+      "MU",
       "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力瓶颈",
-      "光通信与CPO",
-      "内存与存储",
-      "机器人与自动化",
-      "数据中心与云服务"
+      "AI基础设施瓶颈与供应链",
+      "光子与激光器短缺",
+      "内存与HBM供不应求",
+      "算力云与Neocloud需求",
+      "CPO与硅光子学发展"
     ],
-    "recent_shift": "近期观点从关注市场波动转向强调基本面强劲和抄底机会，认为回调是买点。",
+    "recent_shift": "近期观点未明显转变，但强调市场回调是流动性驱动的而非基本面恶化，并坚持原有看多立场。",
     "representative_quotes": [
-      "AAOI at $140 and AAOI at $75 are the same company. Just valuations and narratives (often noise) change, and markets rotate from sector to sector.",
-      "If you're looking at that S-Curve opportunity ramp... Elon also gave a shoutout to $MU with likely reasonably priced LTAs...",
-      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade."
+      "AI DC buildout read through is just enormous.",
+      "The customer demand is 20%-40% higher.",
+      "Hard to see those memory 'oversupply' claims in early-mid 2027 when they're all sold out of capacity already."
     ],
-    "generated_at": "2026-08-12T03:03:42.878621+00:00"
+    "generated_at": "2026-08-12T05:13:20.023231+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "META",
+      "ANTHROPIC",
       "AAPL",
-      "MSFT",
+      "CRWV",
       "SMCI"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力投资",
-      "宏观经济与利率政策",
-      "地缘政治风险（伊朗与霍尔木兹海峡）",
-      "市场情绪与机构动向",
-      "科技公司IPO与融资"
+      "AI基础设施投资热潮",
+      "资本市场流动性充裕",
+      "美股盈利增长强劲",
+      "财政与货币政策宽松预期"
     ],
-    "recent_shift": "从整体乐观转向对AI投资回报和地缘政治风险的担忧。",
+    "recent_shift": "近期观点从谨慎转向积极，表现为对股市反弹和AI相关投资的信心增强。",
     "representative_quotes": [
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "BREAKING: Bank of America has said that bullish sentiment has 'gone too far'",
-      "The stock market rally is fuelling early retirement, per Bloomberg."
+      "BREAKING: 'Apollo, Blackstone, Blackrock, Brookfield, Goldman and KKR are assembling $500 billion for Nvidia, $NVDA, in what is the largest financing ever on Wall Street,' per FT",
+      "The stock market rally is fuelling early retirement, per Bloomberg.",
+      "BREAKING: Anthropic projected to IPO by end of October as it works to boost investor confidence ahead of a potentially record-setting debut."
     ],
-    "generated_at": "2026-08-12T03:03:40.041957+00:00"
+    "generated_at": "2026-08-12T05:13:23.105194+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
