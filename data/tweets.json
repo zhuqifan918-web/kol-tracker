@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087653099246587909",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: 13Fs are coming out.  \n\nUnusual Whales gets them as soon as they do.  \n\nGet updated right from the source.  \n\nCitadel, Ackman, Bridgewater and so many more will file.  \n\nCheck them out right on site: https://t.co/wooOthc1zL https://t.co/qroT7NE8zC",
+    "tweet_url": "https://x.com/unusual_whales/status/2087653099246587909",
+    "published_at": "2026-08-12T21:31:00+00:00",
+    "fetched_at": "2026-08-12T21:35:04.761892+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提醒投资者季度13F文件即将公布，并推广Unusual Whales平台及时获取Citadel、Ackman、Bridgewater等大型机构的最新持仓披露。此信息对追踪机构动向具有参考价值，但推文本身未给出具体投资建议或方向性判断。",
+      "translation": "突发：13F文件即将发布。Unusual Whales一收到就会提供。直接从源头获取最新信息。Citadel、Ackman、Bridgewater等更多机构都将提交文件。请直接在网站上查看：https://t.co/wooOthc1zL https://t.co/qroT7NE8zC",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087616883583578318",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16,6 +35,25 @@
       "summary": "该推文展示了一位交易者通过Unusual Whales平台跟踪的交易，暗示该平台能捕捉到巨额盈利的交易机会，但未提供具体投资建议或方向性观点。",
       "translation": "看看这笔交易。这位交易者一夜之间赚了1500万美元。全部通过Unusual Whales跟踪。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2087601509479366968",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said that the US has total control of the Strait of Hormuz.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087601509479366968",
+    "published_at": "2026-08-12T18:06:00+00:00",
+    "fetched_at": "2026-08-12T21:35:12.070855+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及地缘政治事件（美国声称控制霍尔木兹海峡），可能影响原油供应和能源市场，但未直接提及具体投资标的或方向，故为中性。",
+      "translation": "特朗普表示美国完全控制了霍尔木兹海峡。",
+      "confidence": "medium"
     }
   },
   {
