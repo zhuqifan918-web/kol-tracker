@@ -5,22 +5,23 @@
       "LITE",
       "AAOI",
       "NBIS",
-      "MU"
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "AI基础设施",
-      "光子学与激光瓶颈",
+      "光通信与激光瓶颈",
       "内存与存储",
-      "AI云服务需求"
+      "人形机器人",
+      "半导体供应链"
     ],
-    "recent_shift": "近期观点没有重大变化，反而因财报季强化了对激光和光子学瓶颈的看涨信念。",
+    "recent_shift": "早期关注更广泛，近期更聚焦于光通信和激光瓶颈，尤其是CPO相关进展。",
     "representative_quotes": [
-      "激光瓶颈再次得到验证，高端CW激光器需求严重不平衡，中国厂商在CPO激光器方面落后数年。",
-      "AAOI的财报显示光收发器需求超出产能20-40%，激光器是最大瓶颈，这为Sive等独立激光器厂商带来更大机遇。",
-      "Lumentum确认CPO扩产时间表在2027年下半年，并指出激光器短缺比内存更严重，对上游供应商极为有利。"
+      "CW laser scarcity is already happening before the main volume ramp even begins...",
+      "Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any 'delay' news as market 'noise'.",
+      "Same bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)"
     ],
-    "generated_at": "2026-08-12T12:45:19.446035+00:00"
+    "generated_at": "2026-08-12T23:30:51.663813+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
