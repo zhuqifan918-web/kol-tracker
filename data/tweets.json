@@ -19,6 +19,25 @@
     }
   },
   {
+    "tweet_id": "2087297506057105446",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Robots that walk and talk are coming to car factories, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2087297506057105446",
+    "published_at": "2026-08-11T21:58:00+00:00",
+    "fetched_at": "2026-08-12T00:08:14.447678+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及机器人进入汽车工厂，可能对机器人技术和制造业自动化相关公司有潜在影响，但未提供具体股票或投资建议。",
+      "translation": "据《纽约时报》报道，能够行走和交谈的机器人将进入汽车工厂。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2087289135228985769",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
