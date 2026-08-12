@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2087357522093260938",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I didn’t know Leopold was a fellow MLCC bottleneck investor in Taiyo Yuden (6976)\n\nIt’s been disclosed today that Situational Awareness owns 5.99% of the company with a ~ ¥17,446/share avg as of June 29th. \n\nCurrent prices are ¥9,797. \n\nI actually added some today to show support since Taiyo Yuden is one of the largest % MLCC manufacturers globally.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087357522093260938",
+    "published_at": "2026-08-12T01:56:29+00:00",
+    "fetched_at": "2026-08-12T03:02:22.324536+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "6976"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到Taiyo Yuden（6976）被知名投资者持有5.99%股份，当前股价低于其平均成本，作者认为该公司是全球MLCC主要制造商之一，因此今日加仓以示支持，整体观点偏乐观。",
+      "translation": "我不知道Leopold也是Taiyo Yuden（6976）的MLCC瓶颈投资者。今天披露，Situational Awareness持有该公司5.99%的股份，截至6月29日平均成本约为每股17,446日元。当前价格为9,797日元。我今天实际上加了一些，以表示支持，因为Taiyo Yuden是全球MLCC制造商中占比最大的公司之一。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087345398130282801",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Bro Charles the $SMCI CEO needs to become a politician.\n\nI’ve never seen a guy dodge so many questions on a Q&A earnings transcript before.\n\n- “what’s your 2027 gross margins”\n\nA: “we look forward to growing them\n\n- “do you anticipate margins to improve September?”\n\nA: September. Which is September?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087345398130282801",
+    "published_at": "2026-08-12T01:08:18+00:00",
+    "fetched_at": "2026-08-12T03:02:27.573709+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMCI"
+      ],
+      "direction": "bearish",
+      "summary": "该推文批评SMCI首席执行官在财报电话会议上回避关于毛利率的问题，并质疑其指引的透明度，暗示管理层的沟通可能不足，对投资者信心构成风险。",
+      "translation": "兄弟，$SMCI的首席执行官查尔斯应该去当政治家。我从未见过有人能在财报问答记录中回避这么多问题。- “你们2027年的毛利率是多少？”答：“我们期待它们增长。”- “你们预计九月毛利率会改善吗？”答：“九月。九月是几月？”",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087331934246740184",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "13% chance Trump cuts long term capital gains tax before 2027, per Polymarket⁠.com\n\nSee more: https://t.co/aWMinkD3iX",
+    "tweet_url": "https://x.com/unusual_whales/status/2087331934246740184",
+    "published_at": "2026-08-12T00:14:48+00:00",
+    "fetched_at": "2026-08-12T03:03:09.393713+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Polymarket预测特朗普在2027年前降低长期资本利得税的概率为13%，这属于税收政策相关的市场预期，可能影响市场情绪和投资决策，但未针对具体资产给出方向性建议。",
+      "translation": "根据Polymarket，特朗普在2027年前降低长期资本利得税的概率为13%。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2087319327393661299",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
