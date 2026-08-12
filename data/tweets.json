@@ -1,5 +1,51 @@
 [
   {
+    "tweet_id": "2087456093979254889",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "相当于散户都没在车上了大都爆仓割肉了，\n存储这波去杠杆很彻底了。\n买在无人问津，卖在人声鼎沸。\n“昨天，韩国金融监管方面，韩国副总理发言表示韩国股票杠杆的交易规模已从7月30日的12.4万亿韩元缩减至8月7日的8000亿韩元，较6月25日的19.4万亿韩元峰值减少近96%。\n\n这某种程度上说明韩国第一波去杠杆应该是接近尾声。”",
+    "tweet_url": "https://x.com/xiaomustock/status/2087456093979254889",
+    "published_at": "2026-08-12T08:28:10+00:00",
+    "fetched_at": "2026-08-12T09:36:58.556589+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文认为散户已基本爆仓割肉离场，存储板块去杠杆彻底，暗示底部区域，看好后市反弹。同时引用韩国杠杆交易规模大幅缩减的数据，认为第一波去杠杆接近尾声，是买入时机。",
+      "translation": "相当于散户都没在车上了，大都爆仓割肉了，存储这波去杠杆很彻底了。买在无人问津，卖在人声鼎沸。昨天，韩国金融监管方面，韩国副总理发言表示韩国股票杠杆的交易规模已从7月30日的12.4万亿韩元缩减至8月7日的8000亿韩元，较6月25日的19.4万亿韩元峰值减少近96%。这某种程度上说明韩国第一波去杠杆应该是接近尾声。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087447527595692180",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price up ASP for lasers. \n- Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. \n\nLumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. \n\n2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand.\n\n-  Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. \n- Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. \n- Says customers approaching them every week asking them for supply + to move faster.\n\nAOI confirmed demand imbalances  + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. \n\n3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. \n\n- $AAOI said 2-3 years+ behind with CPO lasers. \n- $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). \n\nReaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector.  \n\n4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. \n\nAgain, puts Sivers in the that bottleneck, giving them likely more customer demand .\n\nAmong $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): \n\nIt's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE.  \n\nFeels like my thesis with both:\n\n- The CW bottleneck that I predicted\n- CW laser chokepoint (where there's only a few CPO players, at least for gen-1)\n\nGot validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+    "published_at": "2026-08-12T07:54:08+00:00",
+    "fetched_at": "2026-08-12T09:36:50.119569+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "LITE",
+        "AAOI",
+        "MTSI",
+        "SMTC",
+        "COHR",
+        "AVGO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析认为，CPO激光器供应链存在严重瓶颈，Sivers（SIVE）作为少数西方CPO领导者之一，市值较低，有望受益于持续的强劲需求和竞争壁垒。",
+      "translation": "这就是我现在看到的关于$SIVE和CW DFB激光器瓶颈的情况。从光通信财报来看：1. $LITE：UHP CW激光器出现意外需求和供需失衡。- 能够提高激光器ASP。- CPO规模化按计划推进，2027年H2出货，称任何关于CPO规模延迟的传言都是噪音。Lumentum确认了时间表（CPO玩家如Sivers因误导性报告而抛售），高利润率，以及对合格CW激光器的极度需求。2. $AAOI：由于光收发器需求过大，CW激光器产能不足。- 没有实质性参与第一代CPO部署，$MTSI看起来也没有参与，而是专注于NPO。$SMTC收购HieFo后未见太多动作。- 指出激光器是20-40%收发器需求失衡中的瓶颈。- 表示客户每周都在联系他们，要求供应并加快速度。AOI确认了需求失衡和激光器瓶颈。我们看到了第一代CPO玩家的更小池子。3. $AAOI和$LITE都声称中国玩家在CPO激光器方面落后数年，且在合格产能方面远未达到其声称的水平。- $AAOI表示中国玩家在CPO激光器上落后2-3年以上。- $LITE表示他们没有看到中国声称的产出（如果虚假，也没有追索权）。这再次确认了CPO相关激光器的护城河，以及没有来自某些卖空者关于光学领域的洪水。4. $MTSI表示，由于磷化铟DFB激光器普遍短缺，许多客户急切地联系他们。再次，将Sivers置于该瓶颈中，可能给他们带来更多客户需求。在$COHR（$72.54B）、$LITE（$66.57B）、$AVGO（$2.13T）中：你很难找到一家市值约$1.5B的西方四大CPO领导者之一，即$SIVE。感觉我的论点得到验证：- 我预测的CW瓶颈- CW激光器瓶颈（至少第一代只有少数CPO玩家）从财报中得到验证，现在只需等待下一代光学架构转变的拐点。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087424400811507963",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -58,6 +104,25 @@
       "summary": "高盛研究显示AI每月减少约1.6万个美国工作岗位，这可能对劳动力市场和经济产生负面影响，从而对整体股市构成压力。投资者需关注AI对就业的冲击可能带来的宏观经济风险。",
       "translation": "高盛研究显示，AI每月正在消除约1.6万个美国工作岗位。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087357903992651801",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The SPR stood at around 415 million barrels before the US and Israel attacked Iran on Feb. 28\n\nRead more: https://t.co/W4U4sdTnXW",
+    "tweet_url": "https://x.com/unusual_whales/status/2087357903992651801",
+    "published_at": "2026-08-12T01:58:00+00:00",
+    "fetched_at": "2026-08-12T09:37:19.990702+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及美国战略石油储备在袭击伊朗前约为4.15亿桶，暗示地缘政治冲突可能影响能源供应，对油价构成上行压力，可能利空股市或利好能源板块，但未明确指向具体投资标的。",
+      "translation": "在2月28日美国和以色列袭击伊朗之前，战略石油储备约为4.15亿桶。",
+      "confidence": "low"
     }
   },
   {
