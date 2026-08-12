@@ -1,5 +1,70 @@
 [
   {
+    "tweet_id": "2087515371750490383",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NBIS outlook is pretty insane yet again.\n\n$582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. \n\nReiterates financial guide (2026 revenue: $3.0–$3.4B\n2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. \n\nNot really about this quarter financials, but these signals:\n\n- \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand\n- \"4 customer agreements averaging over $1B+ each in contract value\"\n- Around 70% of Q2 deals included customer prepayments\n- Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). \n- Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.\n- annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals)  \n\nSame bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)\n\nWe kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+    "published_at": "2026-08-12T12:23:43+00:00",
+    "fetched_at": "2026-08-12T12:44:18.999637+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS",
+        "IREN",
+        "CRWV"
+      ],
+      "direction": "bullish",
+      "summary": "该推文对NBIS（Nebius）持强烈看涨态度，认为其财务表现和需求可见性极佳，尽管存在资本开支大和GAAP亏损等隐忧。提及的AI Cloud业务增长、预付款增加及未来产能售罄等信号均指向强劲增长，同时暗示相关公司（如IREN、CRWV）也可能受益。",
+      "translation": "NBIS的前景再次相当惊人。收入5.823亿美元（同比+454%，环比+46%），调整后EBITDA利润率约50%（AI云）。现金81亿美元。重申财务指引（2026年收入：30-34亿美元，2026年底ARR：70-90亿美元），我原本希望上调，但这已经是巨大增长。重点不在于本季度的财务数据，而在于这些信号：- \"我们今天就能以这些条件卖出全部2027年的产能。\" 需求可见性极高。- \"4个客户协议，每个平均合同价值超过10亿美元。\"- 第二季度约70%的交易包含客户预付款。- 合同电力指引再次上调，从约4+吉瓦升至5吉瓦。（这曾经是与IREN争论的焦点，但Nebius的电力指引持续飙升）。- 预计2026年预付款超过90亿美元，并表示拥有超过400亿美元的承诺。- 每兆瓦年度合同价值持续上涨（第三季度短期产能交易超过4000万美元/兆瓦）。同样的空头故事总会存在（例如，当前GAAP净亏损下资本开支高达56.6亿美元），但需求极端且可见性极高，AI云调整后EBITDA利润率不断提升（24% -> 45% -> 50%）。我们从所有超大规模云厂商的财报和昨天CRWV的积压订单中已经得到了这种联动信号，但很高兴它也体现在Weebius的财报中。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087508647417143381",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AMD, $AMD, says it expects the server CPU market to surpass $200 billion by 2030.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087508647417143381",
+    "published_at": "2026-08-12T11:57:00+00:00",
+    "fetched_at": "2026-08-12T12:44:44.035778+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "AMD 预计服务器 CPU 市场到 2030 年将超过 2000 亿美元，这暗示了该领域的增长潜力，对 AMD 构成积极信号。",
+      "translation": "AMD 表示，预计服务器 CPU 市场到 2030 年将超过 2000 亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087505570941239683",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AEHR receives another $22M follow on order for AI processor wafer level burn in systems.\n\nBy their lead AI processor company.\n\nIt’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc).\n\nUp +5.39% premarket off the news. https://t.co/YkOtELzkmo",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087505570941239683",
+    "published_at": "2026-08-12T11:44:46+00:00",
+    "fetched_at": "2026-08-12T12:44:24.042431+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AEHR"
+      ],
+      "direction": "bullish",
+      "summary": "AEHR获得其领先AI处理器公司追加的2200万美元订单，用于AI处理器晶圆级老化测试系统，显示其业务在AI领域的强劲需求。再加上其在存储、硅光子等领域的拓展，市场对此反应积极，盘前上涨5.39%。",
+      "translation": "AEHR获得其领先AI处理器公司追加的2200万美元订单，用于AI处理器晶圆级老化测试系统。看到这家小公司在存储、硅光子等多个领域迅速成长，真是令人兴奋。消息公布后盘前上涨5.39%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087456093979254889",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -5595,6 +5660,25 @@
       "summary": "推文提到特斯拉的合约图表是用比特币合约的图表修改而来，暗示图表可能存在误导性，但未给出明确投资建议。",
       "translation": "当时这个特斯拉的合约图是我用btc合约给改的😂",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2084241849322197282",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "伟大的川沐一年前给交易所指明了方向，\n现在每个交易所都这样了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2084241849322197282",
+    "published_at": "2026-08-03T11:35:54+00:00",
+    "fetched_at": "2026-08-12T12:44:35.586042+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及交易所遵循指引，但未明确涉及具体投资标的或市场方向。",
+      "translation": "伟大的川沐一年前给交易所指明了方向，现在每个交易所都这样了。",
+      "confidence": "low"
     }
   },
   {

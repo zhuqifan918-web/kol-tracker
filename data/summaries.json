@@ -1,51 +1,50 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LITE",
-      "$NVDA",
-      "$MTSI"
+      "SIVE",
+      "LITE",
+      "AAOI",
+      "NBIS",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件瓶颈与供应链瓶颈投资",
-      "CPO激光器与光通信产业链",
-      "AI基础设施与算力需求增长",
-      "人形机器人与自动化投资机会",
-      "存储器与半导体供应链"
+      "AI基础设施",
+      "光子学与激光瓶颈",
+      "内存与存储",
+      "AI云服务需求"
     ],
-    "recent_shift": "近期从AI硬件与供应链瓶颈的乐观情绪，转向关注市场波动与流动性危机，但仍保持中期看涨。",
+    "recent_shift": "近期观点没有重大变化，反而因财报季强化了对激光和光子学瓶颈的看涨信念。",
     "representative_quotes": [
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "Feels like my thesis with both: - The CW bottleneck that I predicted - CW laser chokepoint (where there's only a few CPO players, at least for gen-1) Got validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
-      "I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals."
+      "激光瓶颈再次得到验证，高端CW激光器需求严重不平衡，中国厂商在CPO激光器方面落后数年。",
+      "AAOI的财报显示光收发器需求超出产能20-40%，激光器是最大瓶颈，这为Sive等独立激光器厂商带来更大机遇。",
+      "Lumentum确认CPO扩产时间表在2027年下半年，并指出激光器短缺比内存更严重，对上游供应商极为有利。"
     ],
-    "generated_at": "2026-08-12T09:37:58.511708+00:00"
+    "generated_at": "2026-08-12T12:45:19.446035+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "MSFT",
-      "AAPL",
-      "TSM",
-      "META"
+      "AMD",
+      "SMCI",
+      "CRWV",
+      "META",
+      "TSM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "AI基础设施建设",
-      "美股市场情绪",
-      "能源与地缘政治",
-      "监管政策变化",
-      "企业财报"
+      "防御性板块与能源安全",
+      "经济软着陆与政策预期",
+      "企业盈利与市场情绪",
+      "高利率与市场波动"
     ],
-    "recent_shift": "近期看多情绪增强，预测市场对AI相关IPO和财政政策的乐观情绪升温。",
+    "recent_shift": "近期观点从对经济衰退的担忧转向对AI和科技股的乐观情绪，同时关注财政政策和利率走向。",
     "representative_quotes": [
-      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly",
-      "Trump: AI is bigger than oil... I don't want to see China win with AI... don't want to see China take over crypto.",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg.",
+      "JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800"
     ],
-    "generated_at": "2026-08-12T09:38:04.517609+00:00"
+    "generated_at": "2026-08-12T12:45:12.502269+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
@@ -57,18 +56,18 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储需求强劲，供不应求",
-      "AI发展带动存储和算力需求",
-      "DeepSeek低价策略冲击模型定价，利好存储",
-      "云厂商资本开支高企，AI投资回报可观",
-      "Gate事件暴露交易所安全风险"
+      "存储芯片供需紧张",
+      "AI算力投资回报",
+      "去杠杆尾声",
+      "中概科技股低估",
+      "安全事件与平台责任"
     ],
-    "recent_shift": "从对存储的极度乐观和对市场回调的焦虑，转向对AI投资回报的长期信心和对市场波动的接受，但近期Gate事件引发关注，分散了部分注意力。",
+    "recent_shift": "近期从激进交易转为谨慎，增加现金仓位，强调风险控制。",
     "representative_quotes": [
-      "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
-      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。",
-      "人类往往高估了一年内的变化，同时也低估了10年后的变化。"
+      "买在无人问津，卖在人声鼎沸。",
+      "存储是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。",
+      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。"
     ],
-    "generated_at": "2026-08-12T09:38:02.089596+00:00"
+    "generated_at": "2026-08-12T12:45:15.705724+00:00"
   }
 }
