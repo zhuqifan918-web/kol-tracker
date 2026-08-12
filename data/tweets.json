@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2087577939605180653",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "陈立武自掏腰包1200万美金认购了 $INTC \n200亿美金95刀的增发融资，计划扩建产线和重建英特尔内存业务。 https://t.co/AffzrHlPbN",
+    "tweet_url": "https://x.com/xiaomustock/status/2087577939605180653",
+    "published_at": "2026-08-12T16:32:20+00:00",
+    "fetched_at": "2026-08-12T17:25:34.892229+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "英特尔CEO陈立武自掏腰包1200万美元认购公司增发股票，显示其对公司前景的信心。公司计划用200亿美元融资扩建产线并重建内存业务，此举有望提升英特尔竞争力，对股价构成利好。",
+      "translation": "陈立武自掏腰包1200万美金认购了英特尔。200亿美金95美元的增发融资，计划扩建产线和重建英特尔内存业务。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2087564012078960836",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -135,6 +156,25 @@
       "direction": "bearish",
       "summary": "据金融时报报道，针对AI超大规模计算公司的信用违约保险成本已创历史新高，这反映出市场对这类公司偿债能力的担忧加剧，可能对AI相关股票和债券产生负面影响，投资者需警惕信用风险。",
       "translation": "根据金融时报，针对AI超大规模计算公司的违约保险成本已达到创纪录水平。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087523746978349370",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The drinking rate among legal age Gen Zers was 74%, up from 66% three years ago, in line with the overall adult drinking rate of 76%, per IWSR",
+    "tweet_url": "https://x.com/unusual_whales/status/2087523746978349370",
+    "published_at": "2026-08-12T12:57:00+00:00",
+    "fetched_at": "2026-08-12T17:25:55.851847+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美国Z世代法定饮酒年龄人群的饮酒率上升至74%，接近成年人平均水平76%。这可能预示着酒精饮料行业的需求增长，但未涉及具体股票或投资建议。",
+      "translation": "根据IWSR的数据，法定年龄Z世代的饮酒率为74%，高于三年前的66%，与整体成年人饮酒率76%保持一致。",
       "confidence": "medium"
     }
   },
