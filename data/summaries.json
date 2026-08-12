@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$INTC",
-      "$AMZN",
-      "$AMD",
-      "$CRWV",
-      "$CAVA"
+      "NVDA",
+      "META",
+      "AAPL",
+      "SMCI",
+      "CRWV"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施和算力投资",
-      "财报超预期与市场做多",
-      "期权流和做市商定位",
-      "地缘政治与能源供应",
-      "散户和机构参与度提升"
+      "人工智能与数据中心投资",
+      "地缘政治与能源安全",
+      "宏观经济与美联储政策",
+      "期权交易与市场微观结构",
+      "科技公司IPO与资本市场活动"
     ],
-    "recent_shift": "近期从关注宏观数据和地缘风险转向积极交易和财报驱动，看涨情绪增强。",
+    "recent_shift": "近期观点从关注市场上涨转向对可持续性和风险的担忧，同时强调地缘政治和AI泡沫风险。",
     "representative_quotes": [
-      "We opened the show with a 100% $INTC play, followed by a $450 MNQ scalp! Breaking down $AMZN options flows now, join below:",
+      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg.",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller."
+      "Norway's sovereign wealth fund has said that the stock market gains won't last."
     ],
-    "generated_at": "2026-08-12T17:26:27.198155+00:00"
+    "generated_at": "2026-08-12T18:14:43.139040+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
