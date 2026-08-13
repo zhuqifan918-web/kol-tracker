@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
       "NVDA",
-      "ANTH",
-      "SMCI",
-      "AMAT"
+      "SPCX",
+      "META",
+      "JPM",
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施与数据中心投资",
-      "地缘政治风险与能源安全",
-      "市场流动性与杠杆交易",
-      "宏观政策不确定性",
-      "知名投资者动向与市场情绪"
+      "AI基础设施与股市泡沫担忧",
+      "能源与地缘政治风险（霍尔木兹海峡）",
+      "美联储政策与利率预期"
     ],
-    "recent_shift": "近期更关注AI泡沫风险和市场波动性，同时强调地缘政治风险对能源市场的冲击。",
+    "recent_shift": "近期偏中立，同时呈现AI乐观情绪（摩根士丹利看涨）与怀疑论（Michael Burry做空NVDA、Apollo对AI盈利的质疑）之间的拉扯。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
+      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,” per YF",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "BREAKING: Anthropic investors are betting the company could reach a $2 trillion-plus valuation in an October IPO, potentially making it the largest stock market debut ever, per FT"
+      "Morgan Stanley says it is still bullish AI."
     ],
-    "generated_at": "2026-08-13T22:31:14.832985+00:00"
+    "generated_at": "2026-08-13T23:31:48.155337+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
