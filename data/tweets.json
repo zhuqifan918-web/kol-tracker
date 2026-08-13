@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087926400766390303",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "CreditSights says the Federal Reserve could keep interest rates unchanged through all of 2026 and the first half of 2027.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087926400766390303",
+    "published_at": "2026-08-13T15:37:00+00:00",
+    "fetched_at": "2026-08-13T16:24:12.801369+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及CreditSights预测美联储可能将利率维持不变直至2026年底及2027年上半年，这属于宏观经济政策预期，对投资决策有参考意义，但未指明具体资产方向，整体呈中性。",
+      "translation": "CreditSights表示，美联储可能在整个2026年及2027年上半年维持利率不变。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087922076254711923",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -87,6 +106,25 @@
       "summary": "比尔·阿克曼披露了六项新持仓，涉及流媒体、支付、医疗和金融数据等领域，显示对这些股票的看好。",
       "translation": "比尔·阿克曼披露了六项新持仓：奈飞（NFLX）、维萨（V）、万事达（MA）、爱尔康（ALC）、洲际交易所（ICE）和标普全球（SPGI）。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087911301074788738",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US homebuyer demand has hit a record low in July, per Redfin",
+    "tweet_url": "https://x.com/unusual_whales/status/2087911301074788738",
+    "published_at": "2026-08-13T14:37:00+00:00",
+    "fetched_at": "2026-08-13T16:24:14.466440+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国购房需求在7月创历史新低，对住房相关股票和REITs（如房地产ETF）可能构成利空，反映出房地产市场的疲软态势。投资者需关注相关行业风险。",
+      "translation": "突发：据Redfin数据，美国购房需求在7月创历史新低。",
+      "confidence": "medium"
     }
   },
   {
