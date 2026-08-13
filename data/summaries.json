@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
+      "JPM",
+      "TRUMP",
       "META",
-      "BRK",
-      "MSFT",
-      "TSM"
+      "BRK.B"
     ],
     "overall_bias": "neutral",
     "key_themes": [
+      "货币政策与利率预期",
       "地缘政治风险",
-      "人工智能与科技投资",
-      "市场情绪与宏观经济",
-      "交易工具与数据服务",
-      "股市与个人财务"
+      "AI投资与市场影响",
+      "市场流动性与资金流向",
+      "少数个股交易机会"
     ],
-    "recent_shift": "近期，账号对市场的态度从关注地缘政治风险转向更中性的宏观展望，同时更多地强调AI相关机会和交易工具。",
+    "recent_shift": "从关注通胀和地缘政治风险，转向更多关注AI建设开支和股市持续上涨的乐观情绪",
     "representative_quotes": [
-      "Iran has said it controls the Strait of Hormuz, per Reuters",
-      "Michael Burry has said that Berkshire Hathaway is \"no longer attractive... without Buffett.\"",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+      "Jamie Dimon of JPMorgan, $JPM, has said that the American dream is dying for the bottom 20% of households, per FORTUNE",
+      "Goldman Sachs says that after CPI data, the Fed will hold rates in September."
     ],
-    "generated_at": "2026-08-13T15:29:13.616271+00:00"
+    "generated_at": "2026-08-13T16:24:31.163051+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
