@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2087971950086013051",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2087971950086013051",
+    "published_at": "2026-08-13T18:38:00+00:00",
+    "fetched_at": "2026-08-13T19:32:11.129917+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里加大了对英伟达（NVDA）的做空力度，并警告其5000亿美元的人工智能交易存在“安然式”的迹象。这一消息可能对英伟达股价构成压力，投资者应关注相关风险。",
+      "translation": "突发新闻：迈克尔·伯里已加倍做空英伟达（$NVDA），并警告其5000亿美元的人工智能交易有“安然的影子”，据YF报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087961380515451245",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US federal government has posted a record July budget deficit of $432 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2087961380515451245",
+    "published_at": "2026-08-13T17:56:00+00:00",
+    "fetched_at": "2026-08-13T19:32:13.950518+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国联邦政府7月预算赤字创纪录达到4320亿美元，这可能加剧市场对政府财政状况和债务可持续性的担忧，可能对美元和债市产生负面影响，进而影响股市情绪。",
+      "translation": "突发：美国联邦政府公布的7月预算赤字达到创纪录的4320亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087956599059140762",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -240,6 +280,25 @@
       "direction": "bullish",
       "summary": "英特尔CEO陈立武透露公司正在研发CPU与存储堆叠的新型存储架构，旨在降低AI代理的工作延迟并提升效率。这一技术创新可能增强英特尔在AI领域的竞争力，对股价构成利好。",
       "translation": "陈立武在《Tech Surge》播客访谈中透露，英特尔正在研究CPU与存储堆叠的新型存储架构。$INTC的新存储架构将CPU和存储封装在一起，以降低代理工作的调用延迟，提高AI代理的效率。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087906267486667124",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Deutsche has become the first European clearing bank for China's renminbi, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2087906267486667124",
+    "published_at": "2026-08-13T14:17:00+00:00",
+    "fetched_at": "2026-08-13T19:32:18.563527+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "德银成为首家欧洲人民币清算银行，是人民币国际化进程的重要里程碑，可能利好人民币资产及跨境贸易，但对特定股票影响有限，需关注相关银行及金融板块的长期影响。",
+      "translation": "据英国《金融时报》报道，德意志银行成为首家欧洲人民币清算银行。",
       "confidence": "medium"
     }
   },
