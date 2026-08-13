@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "SPCX",
       "NVDA",
-      "ANTHROPIC",
-      "SMCI",
+      "AMAT",
       "CRWV",
-      "AMAT"
+      "SMCI"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与支出",
+      "AI基础设施与算力",
+      "美股盈利超预期",
+      "机构调仓与13F披露",
       "地缘政治风险（霍尔木兹海峡）",
-      "美国经济与通胀数据",
-      "对冲基金持仓披露",
-      "央行政策预期"
+      "财政与货币政策"
     ],
-    "recent_shift": "早些时候，市场更关注宏观数据和政策预期，现在转向关注个别公司的财报和AI相关股票表现。",
+    "recent_shift": "近期更加强调AI投资热潮与市场乐观情绪，但对地缘政治和财政赤字的担忧有所上升。",
     "representative_quotes": [
-      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller."
+      "Morgan Stanley says it is still bullish AI.",
+      "BREAKING: Elon Musk has filed with the SEC, disclosing ownership of 6.42 billion SpaceX, $SPCX, shares, representing a 48.4% stake in the company.",
+      "Look at this play. This trader made $15 million OVERNIGHT. All tracked with Unusual Whales."
     ],
-    "generated_at": "2026-08-13T20:31:26.238871+00:00"
+    "generated_at": "2026-08-13T21:35:19.224186+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

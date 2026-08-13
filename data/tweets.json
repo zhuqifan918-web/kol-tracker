@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2088003593152721305",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Elon Musk has filed with the SEC, disclosing ownership of 6.42 billion SpaceX, $SPCX, shares, representing a 48.4% stake in the company.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088003593152721305",
+    "published_at": "2026-08-13T20:43:44+00:00",
+    "fetched_at": "2026-08-13T21:35:05.617213+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "马斯克通过SEC披露持有SpaceX 48.4%的股份，表明其对公司控制力强，可能提升市场对SPCX的信心，但SpaceX为私有公司，此消息主要影响私募市场而非公开交易。",
+      "translation": "突发：埃隆·马斯克已向美国证券交易委员会（SEC）提交文件，披露其持有SpaceX（$SPCX）的64.2亿股，占公司48.4%的股份。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087993816313942154",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
