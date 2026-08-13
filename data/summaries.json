@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$META",
-      "$AAPL",
-      "$MSFT",
-      "$TRUMP"
+      "NVDA",
+      "NVDA",
+      "NVDA",
+      "ANTH",
+      "NVDA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技巨头投资热潮",
-      "地缘政治风险与能源市场波动",
-      "市场流动性与降息预期",
-      "散户交易工具与期权策略",
-      "宏观经济与消费数据疲软"
+      "AI泡沫与估值担忧",
+      "地缘政治风险与供应链中断",
+      "市场波动与对冲需求"
     ],
-    "recent_shift": "近期观点从谨慎转向偏乐观，尽管地缘政治和通胀数据存在不确定性，但机构如摩根士丹利和高盛继续看好AI和2026年市场，同时警告经济放缓风险。",
+    "recent_shift": "从乐观转向警惕，开始关注AI泡沫和地缘风险。",
     "representative_quotes": [
-      "Morgan Stanley says it is still bullish AI.",
-      "Goldman Sachs says that after CPI data, the Fed will hold rates in September.",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
+      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+      "Iran says the Strait of Hormuz will not return to pre-war operating conditions."
     ],
-    "generated_at": "2026-08-13T18:15:06.244673+00:00"
+    "generated_at": "2026-08-13T19:32:24.926148+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
