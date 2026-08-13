@@ -1,5 +1,87 @@
 [
   {
+    "tweet_id": "2087902683474891106",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "In another world, $SMCI would look more like $DELL?\n\nIf they didn't try smuggling $NVDA GPUs using hairdryers...\n\nRegardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it. https://t.co/FUZIojiMcc",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087902683474891106",
+    "published_at": "2026-08-13T14:02:45+00:00",
+    "fetched_at": "2026-08-13T14:15:21.083458+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMCI",
+        "DELL",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为超微电脑（SMCI）虽然曾有走私英伟达GPU的丑闻，但其2027财年营收指引高达650-720亿美元，而当前市值仅约250亿美元，估值极具吸引力，透露出看涨情绪。",
+      "translation": "在另一个世界里，$SMCI会更像$DELL吗？如果他们没用吹风机走私$NVDA显卡的话……不管怎样，SMCI指引2027财年营收650-720亿美元，而市值仅约250亿美元，这越想越疯狂。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087901234753630309",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Barkin: Fed rate hikes still on table",
+    "tweet_url": "https://x.com/unusual_whales/status/2087901234753630309",
+    "published_at": "2026-08-13T13:57:00+00:00",
+    "fetched_at": "2026-08-13T14:15:52.550286+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员巴尔金表示加息仍在考虑范围内，这暗示货币政策可能继续收紧，对股市构成压力。投资者应关注美联储后续动向，加息预期升温可能引发市场波动。",
+      "translation": "美联储的巴尔金表示，美联储加息仍在考虑之中。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087891168109715965",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley says it is still bullish AI.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087891168109715965",
+    "published_at": "2026-08-13T13:17:00+00:00",
+    "fetched_at": "2026-08-13T14:15:55.155921+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根士丹利表示仍然看好人工智能，这可能对AI相关股票和板块构成积极信号。",
+      "translation": "摩根士丹利表示仍然看好人工智能。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087871035316330572",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jamie Dimon of JPMorgan, $JPM, has said that the American dream is dying for the bottom 20% of households, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2087871035316330572",
+    "published_at": "2026-08-13T11:57:00+00:00",
+    "fetched_at": "2026-08-13T14:16:00.492917+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPM"
+      ],
+      "direction": "neutral",
+      "summary": "摩根大通CEO杰米·戴蒙表示，美国梦对于底层20%的家庭正在消亡。这一言论可能反映美国经济不平等问题，但对摩根大通股价的直接影响不明确，更多是宏观社会经济层面的讨论。",
+      "translation": "摩根大通（$JPM）的杰米·戴蒙表示，据《财富》杂志报道，美国梦对于底层20%的家庭正在消亡。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087867722784805170",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

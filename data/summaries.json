@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LITE",
-      "$NBIS",
-      "$POET"
+      "SIVE",
+      "AAOI",
+      "LITE",
+      "NBIS",
+      "SMCI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学互连与CPO激光器瓶颈",
-      "AI基础设施与算力需求",
-      "先进封装与半导体材料",
-      "人形机器人产业",
-      "内存与存储需求旺盛"
+      "AI基础设施投资持续增长",
+      "光通信与激光器瓶颈",
+      "内存与存储结构性短缺",
+      "CPO与硅光子学",
+      "供应链瓶颈投资"
     ],
-    "recent_shift": "近期观点未变，持续看好AI硬件与光学互连，但注意到市场波动和部分个股估值调整。",
+    "recent_shift": "观点从关注市场波动和短期回调转向强调AI需求强劲和长期结构性机会。",
     "representative_quotes": [
       "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "AAOI: 'The customer demand is 20%-40% higher' than expanded built out capacity. Lasers are the biggest bottleneck right now for the transceiver business",
-      "I can't tell others what to do: But $AAOI at $140 and $AAOI at $75 are the same company."
+      "Unholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing.",
+      "Every layer of the AI buildout goes brrrrr, and it's showing up in earnings."
     ],
-    "generated_at": "2026-08-13T12:46:07.544604+00:00"
+    "generated_at": "2026-08-13T14:16:20.980427+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
+      "META",
       "AAPL",
       "MSFT",
-      "TSM",
-      "SMCI"
+      "TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI投资与数据中心建设",
-      "地缘政治风险（霍尔木兹海峡）",
-      "市场政策与监管变动",
-      "企业财报与估值",
-      "散户交易工具与市场数据服务"
+      "人工智能投资热潮",
+      "大型科技股与数据中心",
+      "市场流动性充裕",
+      "IPO市场活跃",
+      "政策与经济数据影响"
     ],
-    "recent_shift": "近期关注点从前期的财报和交易工具转向对AI投资可持续性和地缘政治风险的深度担忧。",
+    "recent_shift": "近期观点未发生显著变化，但市场情绪在AI乐观与宏观经济担忧之间摇摆。",
     "representative_quotes": [
-      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly",
       "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg."
+      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
+      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly"
     ],
-    "generated_at": "2026-08-13T03:06:28.282516+00:00"
+    "generated_at": "2026-08-13T14:16:23.744390+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
