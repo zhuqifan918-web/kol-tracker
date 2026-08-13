@@ -5,47 +5,46 @@
       "LITE",
       "AAOI",
       "NBIS",
-      "COHR"
+      "SMCI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施",
-      "光通信与激光瓶颈",
-      "内存与存储",
-      "人形机器人",
-      "半导体供应链"
+      "AI基础设施与算力需求持续爆发",
+      "光通信与激光器（特别是CPO）供应链瓶颈",
+      "内存（DRAM/HBM/NAND）供不应求与涨价",
+      "超大规模云厂商资本开支持续上调"
     ],
-    "recent_shift": "早期关注更广泛，近期更聚焦于光通信和激光瓶颈，尤其是CPO相关进展。",
+    "recent_shift": "近期观点依旧坚定看多，但强调市场因去杠杆和情绪恐慌出现超卖，认为基本面未变且需求加速，是买入机会。",
     "representative_quotes": [
+      "Is it just me, or is the list of 3 letter optical jargon never ending?",
       "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any 'delay' news as market 'noise'.",
-      "Same bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)"
+      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
     ],
-    "generated_at": "2026-08-12T23:30:51.663813+00:00"
+    "generated_at": "2026-08-13T03:06:31.598042+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AMD",
-      "$SMCI",
-      "$META",
-      "$AAPL"
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "TSM",
+      "SMCI"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施与算力投资热潮",
-      "地缘政治风险（霍尔木兹海峡与伊朗冲突）",
-      "美联储货币政策与利率预期",
-      "市场情绪与散户/机构交易行为",
-      "期权与市场微观结构分析"
+      "AI投资与数据中心建设",
+      "地缘政治风险（霍尔木兹海峡）",
+      "市场政策与监管变动",
+      "企业财报与估值",
+      "散户交易工具与市场数据服务"
     ],
-    "recent_shift": "近期观点从关注经济复苏转向强调AI驱动的市场积极面和地缘政治风险，同时认为政策支持有助于市场上涨。",
+    "recent_shift": "近期关注点从前期的财报和交易工具转向对AI投资可持续性和地缘政治风险的深度担忧。",
     "representative_quotes": [
-      "Goldman Sachs says that after CPI data, the Fed will hold rates in September.",
-      "Look at this play. This trader made $15 million OVERNIGHT. All tracked with Unusual Whales.",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller."
+      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly",
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg."
     ],
-    "generated_at": "2026-08-13T00:08:36.612537+00:00"
+    "generated_at": "2026-08-13T03:06:28.282516+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

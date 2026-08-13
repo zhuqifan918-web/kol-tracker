@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2087733927930929435",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Is it just me, or is the list of 3 letter optical jargon never ending?\n\nWe have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches.\n\nThen InP, EML, ELS, OCS, SOI, and others to add to the random terms.\n\nEven the industry events with OCP or OFC get their three letter names.\n\nPeople who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now.\n\nBut wouldn’t new followers might be super confused…",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087733927930929435",
+    "published_at": "2026-08-13T02:52:11+00:00",
+    "fetched_at": "2026-08-13T03:05:31.327757+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOI",
+        "IQE"
+      ],
+      "direction": "neutral",
+      "summary": "推文提及光通信领域的专业术语和行业会议，暗示作者长期跟踪该领域，但整体内容并未给出明确的多空观点。对光通信产业链相关公司（如SOI和IQE）可能有一定关注，但没有直接的投资建议。",
+      "translation": "是只有我觉得，三个字母的光学术语似乎永远列不完吗？我们有LPO、LRO、NPO、XPO、CPO、OBO等等各种方案。然后还有InP、EML、ELS、OCS、SOI以及其他随机术语。就连行业活动如OCP或OFC也有自己的三个字母缩写。那些跟着我进行光学瓶颈寻宝之旅（涉及$SOI或$IQE）的人可能已经了解很多了。但新粉丝会不会感到很困惑……",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087728596647633012",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We have built a robust earnings platform for you.\n\nCheck out Unusual Whales right on site.\n\nSee more: https://t.co/lNGVHeG6RW",
+    "tweet_url": "https://x.com/unusual_whales/status/2087728596647633012",
+    "published_at": "2026-08-13T02:31:00+00:00",
+    "fetched_at": "2026-08-13T03:06:01.375562+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布推出一个稳健的盈利平台，并引导用户访问Unusual Whales网站，可能提供市场分析或交易工具，但未提及具体投资标的或方向。",
+      "translation": "我们为你构建了一个稳健的盈利平台。请直接在网站上查看Unusual Whales。更多信息：https://t.co/lNGVHeG6RW",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2087705192355504220",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump Media said it has signed more than 10 customer agreements\n\nRead more: https://t.co/69PpRWWEsj",
+    "tweet_url": "https://x.com/unusual_whales/status/2087705192355504220",
+    "published_at": "2026-08-13T00:58:00+00:00",
+    "fetched_at": "2026-08-13T03:06:05.075647+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DJT"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普媒体宣布签署了超过10份客户协议，这被视为公司业务扩展的积极信号，可能对其股价产生正面影响。",
+      "translation": "特朗普媒体表示，已签署超过10份客户协议。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087690092739695049",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -75,6 +137,25 @@
       "summary": "该推文提醒投资者季度13F文件即将公布，并推广Unusual Whales平台及时获取Citadel、Ackman、Bridgewater等大型机构的最新持仓披露。此信息对追踪机构动向具有参考价值，但推文本身未给出具体投资建议或方向性判断。",
       "translation": "突发：13F文件即将发布。Unusual Whales一收到就会提供。直接从源头获取最新信息。Citadel、Ackman、Bridgewater等更多机构都将提交文件。请直接在网站上查看：https://t.co/wooOthc1zL https://t.co/qroT7NE8zC",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087643729482149895",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Treasury Department has officially repealed a requirement for American companies and individuals to report beneficial ownership information to its Financial Crimes Enforcement Network, or FinCEN.",
+    "tweet_url": "https://x.com/unusual_whales/status/2087643729482149895",
+    "published_at": "2026-08-12T20:53:46+00:00",
+    "fetched_at": "2026-08-13T03:06:18.557896+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及美国财政部废除受益所有权报告要求，属于政策法规变动，可能影响企业合规成本和金融监管环境，但对特定股票或加密货币的直接影响尚不明确。投资者应关注该政策对金融服务类股票或合规科技公司可能带来的间接影响。",
+      "translation": "突发消息：美国财政部已正式废除美国公司和个人向金融犯罪执法网络（FinCEN）报告受益所有权信息的要求。",
+      "confidence": "low"
     }
   },
   {
