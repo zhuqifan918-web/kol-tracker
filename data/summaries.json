@@ -27,48 +27,46 @@
     "focus_tickers": [
       "NVDA",
       "META",
-      "AAPL",
+      "BRK",
       "MSFT",
       "TSM"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能投资热潮",
-      "大型科技股与数据中心",
-      "市场流动性充裕",
-      "IPO市场活跃",
-      "政策与经济数据影响"
+      "地缘政治风险",
+      "人工智能与科技投资",
+      "市场情绪与宏观经济",
+      "交易工具与数据服务",
+      "股市与个人财务"
     ],
-    "recent_shift": "近期观点未发生显著变化，但市场情绪在AI乐观与宏观经济担忧之间摇摆。",
+    "recent_shift": "近期，账号对市场的态度从关注地缘政治风险转向更中性的宏观展望，同时更多地强调AI相关机会和交易工具。",
     "representative_quotes": [
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
-      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly"
+      "Iran has said it controls the Strait of Hormuz, per Reuters",
+      "Michael Burry has said that Berkshire Hathaway is \"no longer attractive... without Buffett.\"",
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
     ],
-    "generated_at": "2026-08-13T14:16:23.744390+00:00"
+    "generated_at": "2026-08-13T15:29:13.616271+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHynix",
       "META",
-      "MU",
+      "INTC",
       "SNDK",
-      "GOOGL"
+      "SKHynix",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求强劲，产能售罄",
-      "AI发展推动存储需求指数级增长",
-      "云厂商资本开支巨大，利好上游硬件",
-      "抄底机会，长期看好存储类资产",
-      "警惕市场波动，但整体看多"
+      "存储行业景气度持续，AI需求驱动",
+      "AI模型降价带来存储用量激增",
+      "关注美股巨头估值与安全边际"
     ],
-    "recent_shift": "近期从恐慌性抛售转向积极抄底，态度更乐观。",
+    "recent_shift": "从对存储行业极度乐观转向谨慎，近期亏损后心态更保守，强调风险管理。",
     "representative_quotes": [
-      "存储这波去杠杆很彻底了。买在无人问津，卖在人声鼎沸。",
-      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。",
-      "AI真实有史以来最牛逼的生意，存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了"
+      "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
+      "买在无人问津，卖在人声鼎沸。",
+      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手"
     ],
-    "generated_at": "2026-08-12T17:26:30.224194+00:00"
+    "generated_at": "2026-08-13T15:29:11.051205+00:00"
   }
 }
