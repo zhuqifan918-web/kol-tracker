@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2087690092739695049",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Recent reports show more people are reaching 401(k) millionaire status, and according to Fidelity there are now 595,000 accounts worth over a million dollars, the highest ever.\n\nRead more: https://t.co/fzQkYq0tk9",
+    "tweet_url": "https://x.com/unusual_whales/status/2087690092739695049",
+    "published_at": "2026-08-12T23:58:00+00:00",
+    "fetched_at": "2026-08-13T00:07:57.107677+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该消息显示401(k)账户中百万富翁数量创历史新高，反映出美国个人投资者财富增长和市场长期向上的趋势，可能利好整体股市情绪。",
+      "translation": "最近报告显示更多人达到401(k)百万富翁地位，根据富达投资，目前有59.5万个账户价值超过一百万美元，创历史新高。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087662238413070749",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

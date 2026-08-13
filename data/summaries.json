@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AMD",
-      "SMCI",
-      "CAVA",
-      "LITE",
-      "NVDA"
+      "$NVDA",
+      "$AMD",
+      "$SMCI",
+      "$META",
+      "$AAPL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "13F文件披露",
-      "地缘政治风险（霍尔木兹海峡）",
-      "AI投资与估值",
-      "市场流动性与利率预期",
-      "消费与就业数据"
+      "AI基础设施与算力投资热潮",
+      "地缘政治风险（霍尔木兹海峡与伊朗冲突）",
+      "美联储货币政策与利率预期",
+      "市场情绪与散户/机构交易行为",
+      "期权与市场微观结构分析"
     ],
-    "recent_shift": "近期观点似乎从强调市场上涨和机会转向关注潜在风险和地缘政治不确定性。",
+    "recent_shift": "近期观点从关注经济复苏转向强调AI驱动的市场积极面和地缘政治风险，同时认为政策支持有助于市场上涨。",
     "representative_quotes": [
       "Goldman Sachs says that after CPI data, the Fed will hold rates in September.",
-      "Norway's sovereign wealth fund has said that the stock market gains won't last.",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
+      "Look at this play. This trader made $15 million OVERNIGHT. All tracked with Unusual Whales.",
+      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller."
     ],
-    "generated_at": "2026-08-12T22:31:03.101469+00:00"
+    "generated_at": "2026-08-13T00:08:36.612537+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
