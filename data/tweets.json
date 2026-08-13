@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2088030586816663826",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Fitch Ratings has affirmed US rating at AA+.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088030586816663826",
+    "published_at": "2026-08-13T22:31:00+00:00",
+    "fetched_at": "2026-08-13T23:31:28.819326+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "惠誉确认美国主权信用评级为AA+，维持了美国的信用状况，但未提及具体投资方向。该消息或对全球金融市场产生一定稳定性影响，但未提供明确的投资信号。",
+      "translation": "突发：惠誉评级已确认美国评级为AA+。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088016693947957751",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
