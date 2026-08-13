@@ -1,26 +1,26 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "LITE",
-      "AAOI",
-      "NBIS",
-      "SMCI"
+      "$SIVE",
+      "$AAOI",
+      "$LITE",
+      "$NBIS",
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力需求持续爆发",
-      "光通信与激光器（特别是CPO）供应链瓶颈",
-      "内存（DRAM/HBM/NAND）供不应求与涨价",
-      "超大规模云厂商资本开支持续上调"
+      "AI基础设施的资本开支持续加速",
+      "光通信和激光器瓶颈带来的投资机会",
+      "内存和存储供应链的长期结构性紧张",
+      "CPO（共封装光学）的早期渗透和规模化"
     ],
-    "recent_shift": "近期观点依旧坚定看多，但强调市场因去杠杆和情绪恐慌出现超卖，认为基本面未变且需求加速，是买入机会。",
+    "recent_shift": "近期观点从前期的单纯看好AI硬件转向更强调激光器、CPO等细分瓶颈的持续性，并认为短期回调不改长期结构性需求。",
     "representative_quotes": [
-      "Is it just me, or is the list of 3 letter optical jargon never ending?",
       "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
+      "AI capex is likely going to keep going brrr.",
+      "Hyperscaler capex continuing in line... or even hiked with $GOOGL. AI selloff seems extremely overblown now."
     ],
-    "generated_at": "2026-08-13T03:06:31.598042+00:00"
+    "generated_at": "2026-08-13T08:12:15.766209+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
