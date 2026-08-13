@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2087807614172488131",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+    "published_at": "2026-08-13T07:44:59+00:00",
+    "fetched_at": "2026-08-13T08:11:16.284250+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到Sivers Photonics（SIVE）宣布与SemiNex达成340万美元的开发项目，涉及CPO、DFB激光阵列和光放大器，早期生产目标为2027年下半年。推文作者认为这一合作类似于SPCX与Cursor的合作模式，可能通过合作降低风险，并暗示Sivers可能发现了SemiNex的某些有价值之处，整体看好SIVE。",
+      "translation": "SIVE宣布与SemiNex达成一项340万美元的开发项目！涉及CPO、DFB激光阵列和光放大器。早期生产目标为2027年下半年（与早期扩展CPO时间线一致）。起初我觉得奇怪，因为产品重叠，而SemiNex是一家规模小得多的B轮公司……但后来我想起了SPCX与Cursor合作的一个不太明确的版本（通过先合作来降低风险）。Sivers可能在这家公司发现了什么有趣的东西。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087733927930929435",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
