@@ -4,23 +4,24 @@
       "$SIVE",
       "$AAOI",
       "$LITE",
-      "$NBIS",
-      "$MU"
+      "$POET",
+      "$NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施的资本开支持续加速",
-      "光通信和激光器瓶颈带来的投资机会",
-      "内存和存储供应链的长期结构性紧张",
-      "CPO（共封装光学）的早期渗透和规模化"
+      "AI基础设施",
+      "光互连与激光器",
+      "供应链瓶颈",
+      "CPO与NPO",
+      "内存与存储"
     ],
-    "recent_shift": "近期观点从前期的单纯看好AI硬件转向更强调激光器、CPO等细分瓶颈的持续性，并认为短期回调不改长期结构性需求。",
+    "recent_shift": "近期对$AAOI和$LITE等光互连公司的态度更趋乐观，认为它们受益于强劲的AI需求和供应链瓶颈。",
     "representative_quotes": [
       "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "AI capex is likely going to keep going brrr.",
-      "Hyperscaler capex continuing in line... or even hiked with $GOOGL. AI selloff seems extremely overblown now."
+      "AAOI has the customers now. Limitation is making enough lasers and transceivers.",
+      "Hyperscaler demand is extreme with massive visibility, and it's showing up in earnings."
     ],
-    "generated_at": "2026-08-13T08:12:15.766209+00:00"
+    "generated_at": "2026-08-13T10:54:43.847666+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
