@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2088016693947957751",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Reddit, $RDDT, is being added to the S&amp;P500",
+    "tweet_url": "https://x.com/unusual_whales/status/2088016693947957751",
+    "published_at": "2026-08-13T21:35:47+00:00",
+    "fetched_at": "2026-08-13T22:30:55.941329+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RDDT"
+      ],
+      "direction": "bullish",
+      "summary": "Reddit被纳入标普500指数，通常会引发指数基金的被动买入，对股价构成利好，属于正面消息。",
+      "translation": "突发：Reddit（$RDDT）将被纳入标普500指数。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088003593152721305",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
