@@ -1,5 +1,116 @@
 [
   {
+    "tweet_id": "2087922076254711923",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "一个 $RAM ，相当于买了2x #海力士，2x #美光，2x #三星 \n顺风行情的时候这些2x工具是真爽。 https://t.co/yh85cHkcAU",
+    "tweet_url": "https://x.com/xiaomustock/status/2087922076254711923",
+    "published_at": "2026-08-13T15:19:49+00:00",
+    "fetched_at": "2026-08-13T15:28:37.675315+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RAM",
+        "海力士",
+        "美光",
+        "三星"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为投资RAM（可能指某只股票或ETF）相当于间接持有海力士、美光、三星的2倍杠杆多仓，并认为在行情有利时这类杠杆工具收益可观，整体态度乐观。",
+      "translation": "一个$RAM，相当于买了2倍海力士，2倍美光，2倍三星。顺风行情的时候这些2倍工具是真爽。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087921366851027099",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran has said it controls the Strait of Hormuz, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2087921366851027099",
+    "published_at": "2026-08-13T15:17:00+00:00",
+    "fetched_at": "2026-08-13T15:28:50.349232+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "伊朗控制霍尔木兹海峡的声明可能影响全球原油供应和运输，对能源市场构成潜在风险，但未直接提及具体投资标的。",
+      "translation": "据路透社报道，伊朗表示其控制霍尔木兹海峡。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087919906994192425",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "利好都来了，闪迪 $SNDK 将把超额收益100%返还给股东。 https://t.co/5QcWM4fzJJ",
+    "tweet_url": "https://x.com/xiaomustock/status/2087919906994192425",
+    "published_at": "2026-08-13T15:11:12+00:00",
+    "fetched_at": "2026-08-13T15:28:38.900037+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "闪迪（SNDK）宣布将超额收益100%返还给股东，这是重大利好消息，可能推高股价，投资者可关注。",
+      "translation": "利好都来了，闪迪（SNDK）将把超额收益100%返还给股东。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087916585298346225",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bill Ackman has disclosed six new holdings:\n\n- Netflix, $NFLX\n- Visa, $V\n- Mastercard, $MA\n- Alcon, $ALC  \n- Intercontinental Exchange, $ICE\n- S&amp;P Global, $SPGI",
+    "tweet_url": "https://x.com/unusual_whales/status/2087916585298346225",
+    "published_at": "2026-08-13T14:58:00+00:00",
+    "fetched_at": "2026-08-13T15:28:52.304626+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NFLX",
+        "V",
+        "MA",
+        "ALC",
+        "ICE",
+        "SPGI"
+      ],
+      "direction": "bullish",
+      "summary": "比尔·阿克曼披露了六项新持仓，涉及流媒体、支付、医疗和金融数据等领域，显示对这些股票的看好。",
+      "translation": "比尔·阿克曼披露了六项新持仓：奈飞（NFLX）、维萨（V）、万事达（MA）、爱尔康（ALC）、洲际交易所（ICE）和标普全球（SPGI）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087908296049189197",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "陈立武在《Tech Surge》播客访谈透露，\n英特尔正在研究 CPU 与存储堆叠的新型存储架构。 $INTC 的新存储架构把CPU和存储封装到一起降低agent代理工作的调用延迟提高AI代理的效率。 https://t.co/L7NqtSraGo",
+    "tweet_url": "https://x.com/xiaomustock/status/2087908296049189197",
+    "published_at": "2026-08-13T14:25:03+00:00",
+    "fetched_at": "2026-08-13T15:28:40.691366+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "英特尔CEO陈立武透露公司正在研发CPU与存储堆叠的新型存储架构，旨在降低AI代理的工作延迟并提升效率。这一技术创新可能增强英特尔在AI领域的竞争力，对股价构成利好。",
+      "translation": "陈立武在《Tech Surge》播客访谈中透露，英特尔正在研究CPU与存储堆叠的新型存储架构。$INTC的新存储架构将CPU和存储封装在一起，以降低代理工作的调用延迟，提高AI代理的效率。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2087902683474891106",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
