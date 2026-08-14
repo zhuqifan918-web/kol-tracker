@@ -26,47 +26,49 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
+      "AMD",
+      "ANTH",
       "SPCX",
-      "META",
-      "JPM",
       "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施与股市泡沫担忧",
-      "能源与地缘政治风险（霍尔木兹海峡）",
-      "美联储政策与利率预期"
+      "人工智能与数据中心投资",
+      "地缘政治风险与原油市场波动",
+      "美联储政策与宏观经济指标",
+      "加密货币与监管动态",
+      "市场流动性与对冲基金活动"
     ],
-    "recent_shift": "近期偏中立，同时呈现AI乐观情绪（摩根士丹利看涨）与怀疑论（Michael Burry做空NVDA、Apollo对AI盈利的质疑）之间的拉扯。",
+    "recent_shift": "近期观点从对美联储加息的担忧转向关注地缘政治风险和AI投资泡沫的讨论。",
     "representative_quotes": [
-      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,” per YF",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Morgan Stanley says it is still bullish AI."
+      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has 'shades of Enron,' per YF",
+      "Apollo Slok's has said that that the AI math doesn’t make sense: 'Profits are currently being funded by investors rather than earned from customers'",
+      "Elon Musk has filed with the SEC, disclosing ownership of 6.42 billion SpaceX, $SPCX, shares, representing a 48.4% stake in the company."
     ],
-    "generated_at": "2026-08-13T23:31:48.155337+00:00"
+    "generated_at": "2026-08-14T01:06:09.817554+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SNDK",
-      "MU",
       "SKHynix",
-      "INTC",
-      "META"
+      "MU",
+      "SNDK",
+      "META",
+      "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片涨价与供需紧张",
-      "AI算力与存储需求增长",
-      "云厂商资本开支与AI投资",
-      "存储去杠杆后的反弹机会",
-      "长鑫存储对市场格局的影响"
+      "存储芯片（HBM，DRAM，NAND）及堆叠封装技术",
+      "AI Agent推动的算力与存储需求增长",
+      "美国云厂商资本开支与AI基建投入",
+      "风险偏好与杠杆操作",
+      "投资心态与风险控制"
     ],
-    "recent_shift": "近期仍坚定看多存储，但操作上更谨慎，降低了杠杆和仓位集中度，并增加了对云厂商的配置。",
+    "recent_shift": "近期从极度乐观转向谨慎，减少了杠杆仓位，并增加现金以应对波动。",
     "representative_quotes": [
-      "存储这波去杠杆很彻底了。买在无人问津，卖在人声鼎沸。",
-      "存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了。",
-      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。"
+      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月，谷歌这些云厂和claude他们投资回报的转化速度可以更快。",
+      "就算退一万步说，如果用户仅因身份资料泄露，侵入者便能利用泄露的信息和AI合成技术，通过Gate的身份验证与风控，连续修改登录密码、更换绑定邮箱和Go0gle验证器、关闭手机验证码，最终完成大额提币;而平台事后又仅以一句“系统验证通过”把全部责任推给用户一一那么，这就不只是我个人的损失，而是所有交易所用户都可能面临的系统性安全风险",
+      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。像闪迪能一天拉40%，1000拉到1400。这种时间直接梭哈带来的收益远超每年持有apy或者qqq平均带来的15%左右年化。"
     ],
-    "generated_at": "2026-08-13T17:26:19.619462+00:00"
+    "generated_at": "2026-08-14T01:06:06.789310+00:00"
   }
 }
