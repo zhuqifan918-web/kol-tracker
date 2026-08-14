@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2088340629780910470",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Liverpool FC has sold a roughly 30% stake to a consortium led by Jeff Bezos of Amazon, $AMZN, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088340629780910470",
+    "published_at": "2026-08-14T19:03:00+00:00",
+    "fetched_at": "2026-08-14T19:25:38.294614+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "亚马逊创始人贝索斯财团收购利物浦俱乐部约30%股份，这可能提升亚马逊在体育娱乐领域的战略布局，对AMZN股票构成潜在正面影响。",
+      "translation": "利物浦足球俱乐部已将约30%的股份出售给由亚马逊的杰夫·贝索斯领导的财团，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088336130882314567",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, proposes to take a 15% cut of purchases made outside the App Store, per TC",
+    "tweet_url": "https://x.com/unusual_whales/status/2088336130882314567",
+    "published_at": "2026-08-14T18:45:07+00:00",
+    "fetched_at": "2026-08-14T19:25:39.890497+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "苹果公司提议对App Store之外的购买收取15%的佣金，这可能会影响其服务收入，但市场反应尚不确定。投资者需关注该政策的实施细节及其对苹果盈利能力的潜在影响。",
+      "translation": "苹果公司，$AAPL，据TechCrunch报道，提议对App Store之外的购买收取15%的佣金。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088331318174318685",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Earnings are growing faster than stock prices, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088331318174318685",
+    "published_at": "2026-08-14T18:26:00+00:00",
+    "fetched_at": "2026-08-14T19:25:41.504482+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文引用彭博数据指出盈利增速快于股价涨幅，暗示市场估值相对合理或偏低，可能预示股市仍有上行空间。这对投资者而言是积极信号。",
+      "translation": "突发：据彭博报道，盈利增速正在快于股价涨幅。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088326788334362642",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -225,6 +286,25 @@
       "summary": "SpaceX以600亿美元收购AI编程平台Cursor，展现出对AI领域的重大投资，可能提升SpaceX的估值和技术能力，对相关股票构成利好。",
       "translation": "突发新闻：SpaceX（$SPCX）以创纪录的600亿美元完成对AI编程平台Cursor的收购。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088257802385211398",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "终于跌下来了，心不痒了",
+    "tweet_url": "https://x.com/xiaomustock/status/2088257802385211398",
+    "published_at": "2026-08-14T13:33:52+00:00",
+    "fetched_at": "2026-08-14T19:25:30.100393+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "用户表示价格下跌后，心情不再焦虑，可能意味着等待更好的入场机会，但未提供具体投资方向或标的。",
+      "translation": "终于跌下来了，心不痒了",
+      "confidence": "low"
     }
   },
   {

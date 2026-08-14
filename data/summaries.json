@@ -23,49 +23,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
       "SPCX",
-      "ANTH",
-      "TSLA",
-      "AMZN"
+      "AMZN",
+      "NVDA",
+      "AAPL",
+      "TSLA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与算力投资",
-      "市场流动性充裕",
-      "科技股回购与上涨",
-      "地缘政治不确定性",
-      "政府政策影响"
+      "AI投资热潮与估值泡沫",
+      "货币政策和利率走势",
+      "地缘政治风险与能源市场",
+      "企业财报与经济数据",
+      "市场情绪与经济指标"
     ],
-    "recent_shift": "近期言论更加关注AI市场机遇，同时对宏观经济风险的表态有所缓和。",
+    "recent_shift": "近期观点从看多转向谨慎，强调盈利增长与股价脱节、地缘紧张和通胀压力。",
     "representative_quotes": [
-      "Morgan Stanley says it still is bullish AI.",
-      "\"Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items.\"",
-      "\"SpaceX, $SPCX, completes record $60 billion acquisition of AI coding platform Cursor\""
+      "Earnings are growing faster than stock prices, per Bloomberg.",
+      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has 'shades of Enron,' per YF.",
+      "Morgan Stanley says it expects AI compute demand to outpace supply for years."
     ],
-    "generated_at": "2026-08-14T18:13:16.247818+00:00"
+    "generated_at": "2026-08-14T19:25:55.495659+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SNDK",
       "MU",
-      "SKHNY",
+      "SKHynix",
       "INTC",
       "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储行业景气周期与供需缺口",
-      "AI算力需求与CPU/存储架构演进",
-      "AI大模型竞争与价格战",
-      "加密货币交易所安全与用户维权"
+      "存储芯片（内存/HBM）供需紧张与涨价周期",
+      "AI算力与基础设施需求暴增（CPU/GPU）",
+      "大厂资本开支扩张（亚马逊、谷歌）",
+      "股东回报与估值比较（存储 vs AI公司）",
+      "杠杆交易风险与仓位管理"
     ],
-    "recent_shift": "从早期积极加杠杆、追涨杀跌的激进操作，转向强调风控、盈利兑现和长期配置（如定投SPY/QQQ），并反思杠杆风险。",
+    "recent_shift": "从早期激进加杠杆转变为强调风险控制，计划增加定投SPY/QQQ，并减少杠杆使用。",
     "representative_quotes": [
-      "存储顺风行情买2x还不够还想继续杠杆梭哈上2x，生怕错过大行情。",
-      "CPU需求的爆发点很接近了...最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。",
-      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。"
+      "闪迪一个季度利润60亿美金，2000亿市值，nebius一个季度亏2亿美金，市值600亿美金。和闪迪一比这公司数据就是一坨屎，都能值600亿。可见存储相对于绝大多数公司还是非常便宜",
+      "cpu需求的爆发点很接近了，从这个季度英特尔的高端cpu挤压低端cpu产能可以看出这种变化正在加速。最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。",
+      "市场对存储最大的担忧就是长鑫这条鲶鱼，而不是对存储需求的担忧。但实际这种担忧对业绩的影响是远期的"
     ],
-    "generated_at": "2026-08-14T15:13:24.666212+00:00"
+    "generated_at": "2026-08-14T19:25:52.905864+00:00"
   }
 }
