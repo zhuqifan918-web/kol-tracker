@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2088209624218702136",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我这人赌性太强了越涨越想上杠杆。\n存储顺风行情买2x还不够还想继续杠杆梭哈上2x\n，生怕错过大行情。\n一直在提醒自己这次赚到了真开始践行定投spy和qqq.不然总感觉哪一天我这么搞一把又要爆仓爆掉。 https://t.co/KQtwuJDu5U",
+    "tweet_url": "https://x.com/xiaomustock/status/2088209624218702136",
+    "published_at": "2026-08-14T10:22:26+00:00",
+    "fetched_at": "2026-08-14T10:49:15.344650+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "direction": "neutral",
+      "summary": "作者承认自己赌博性强，追涨加杠杆，同时提醒自己应转向定投SPY和QQQ，因为担心杠杆操作会导致爆仓风险。",
+      "translation": "我这个人赌性太强了，越涨越想加杠杆。在存储顺风行情中，买2倍杠杆还不够，还想继续杠杆梭哈上2倍，生怕错过这波大行情。我一直在提醒自己，这次赚到后真的要开始践行定投SPY和QQQ，否则总觉得有一天我这么搞一把又要爆仓爆掉。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088181416148562017",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
