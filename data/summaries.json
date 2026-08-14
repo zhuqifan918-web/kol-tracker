@@ -9,19 +9,17 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光模块和激光器供应链瓶颈",
-      "AI基础设施与算力需求",
-      "MLCC被动元件涨价周期",
-      "半导体材料与玻璃基板",
-      "人形机器人与IPO热潮"
+      "AI算力瓶颈上游供应链",
+      "光学激光器与CPO",
+      "内存与MLCC供需紧张"
     ],
-    "recent_shift": "近期观点从关注光模块和激光器瓶颈，扩展至MLCC、人形机器人、以及更多细分供应链，同时强调市场短期波动不改长期需求增长。",
+    "recent_shift": "近期观点未见明显转向，依然坚定看多AI硬件供应链，并强调回调是错杀机会。",
     "representative_quotes": [
-      "If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it.",
+      "CW laser scarcity is already happening before the main volume ramp even begins...",
       "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages.",
-      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings."
+      "Same bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)"
     ],
-    "generated_at": "2026-08-14T09:33:17.880793+00:00"
+    "generated_at": "2026-08-14T11:37:33.265804+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -51,24 +49,24 @@
     "focus_tickers": [
       "SNDK",
       "MU",
-      "SK Hynix",
-      "INTC",
-      "META"
+      "SKHynix",
+      "META",
+      "INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI存储需求暴增",
-      "存储芯片涨价周期",
-      "2x杠杆工具交易",
-      "AI模型价格战利好存储",
-      "CPU与存储堆叠封装"
+      "存储行业顺风行情，存储巨头业绩与估值对比",
+      "AI算力与存储需求增长，特别是大模型降价带来的存储需求爆发",
+      "行业整合与资本回报，如闪迪承诺高股东回报",
+      "对存储长期前景乐观，即使短期波动",
+      "风险控制与杠杆使用，反思投资纪律"
     ],
-    "recent_shift": "近期从激进杠杆转向谨慎，计划增加现金仓位，配置SPY和QQQ，降低风险偏好。",
+    "recent_shift": "从早期激进加杠杆和频繁交易，转向强调风险管理、定投和长期持有，情绪从极度亢奋转为反思和稳健。",
     "representative_quotes": [
-      "一个 $RAM ，相当于买了2x #海力士，2x #美光，2x #三星 顺风行情的时候这些2x工具是真爽。",
-      "闪迪承诺100%的股东回报，其他几家不能太不要脸吧。",
-      "存储三巨头的2027年产能售罄。"
+      "存储顺风行情买2x还不够还想继续杠杆梭哈上2x，生怕错过大行情。",
+      "虽然过去一个月亏了35%，账户接近腰斩，但是今年存储带来的收益还能剩268%。",
+      "存储真缺，负现金流问题几个月后再看谷歌营收就有答案了。"
     ],
-    "generated_at": "2026-08-14T10:49:46.521915+00:00"
+    "generated_at": "2026-08-14T11:37:36.904534+00:00"
   }
 }
