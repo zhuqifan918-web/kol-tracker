@@ -23,26 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "SPCX",
       "NVDA",
       "ANTHROPIC",
-      "SPCX",
-      "META",
+      "SMCI",
       "MSFT"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
       "AI投资热潮",
-      "地缘政治风险",
-      "美联储政策",
-      "市场流动性"
+      "SpaceX与Anthropic上市",
+      "宏观经济与政策",
+      "市场风险与机遇",
+      "社交媒体数据价值"
     ],
-    "recent_shift": "近期对AI和股市的乐观情绪有所升温，但同时也关注地缘政治和赤字风险。",
+    "recent_shift": "近期观点略偏乐观，强调AI和科技股的强劲表现，同时关注宏观风险。",
     "representative_quotes": [
       "Morgan Stanley says it expects AI compute demand to outpace supply for years.",
-      "Jamie Dimon of JPMorgan, $JPM, has said that the American dream is dying for the bottom 20% of households.",
-      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items."
+      "SpaceX, $SPCX, completes record $60 billion acquisition of AI coding platform Cursor",
+      "BREAKING: Anthropic now projected to surge to a valuation of $2,000,000,000,000.00 by end of year. 53% chance."
     ],
-    "generated_at": "2026-08-14T12:41:59.449722+00:00"
+    "generated_at": "2026-08-14T14:09:42.109399+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
@@ -54,18 +55,18 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储行业顺风行情，存储巨头业绩与估值对比",
-      "AI算力与存储需求增长，特别是大模型降价带来的存储需求爆发",
-      "行业整合与资本回报，如闪迪承诺高股东回报",
-      "对存储长期前景乐观，即使短期波动",
-      "风险控制与杠杆使用，反思投资纪律"
+      "存储芯片结构性短缺与涨价周期",
+      "AI算力需求带动CPU与存储架构演进",
+      "大型云厂商资本开支与AI基础设施投资",
+      "中概股与港股科技公司估值对比",
+      "市场去杠杆与情绪极端后的反弹机会"
     ],
-    "recent_shift": "从早期激进加杠杆和频繁交易，转向强调风险管理、定投和长期持有，情绪从极度亢奋转为反思和稳健。",
+    "recent_shift": "从前期经历大幅回撤的悲观情绪，近期转向对存储和AI需求的结构性乐观，并强调市场机会常在黑天鹅事件后出现。",
     "representative_quotes": [
-      "存储顺风行情买2x还不够还想继续杠杆梭哈上2x，生怕错过大行情。",
-      "虽然过去一个月亏了35%，账户接近腰斩，但是今年存储带来的收益还能剩268%。",
-      "存储真缺，负现金流问题几个月后再看谷歌营收就有答案了。"
+      "存储几家公司俩三年赚的钱可能其他公司十来年都赚不到。",
+      "降价就会被动带来海量的用量提升，数据存储压力倍增，对存储又反而是利好。",
+      "市场是真不缺机会，更不缺黑天鹅。"
     ],
-    "generated_at": "2026-08-14T11:37:36.904534+00:00"
+    "generated_at": "2026-08-14T14:09:39.166420+00:00"
   }
 }
