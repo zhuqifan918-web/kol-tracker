@@ -1,5 +1,50 @@
 [
   {
+    "tweet_id": "2088226398708338889",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+    "published_at": "2026-08-14T11:29:05+00:00",
+    "fetched_at": "2026-08-14T11:36:45.741628+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SHKY",
+        "SNDK",
+        "MU"
+      ],
+      "direction": "neutral",
+      "summary": "推文提及SHKY、Samsung、SNDK和MU，指出内存瓶颈问题从未改变，暗示相关公司面临持续的内存供应或技术瓶颈，但未明确表达看多或看空观点。",
+      "translation": "SHKY、三星、SNDK和MU的内存瓶颈从未改变，匿名。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088221378944336033",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "有时候对比这些股票的市值，营收甚至远期的市值营收还是非常抽象。\n虽然这人也做空了美光，但是做空这个 $NEBIUS 感觉没啥错虽然我不敢做空股票。\n闪迪一个季度利润60亿美金，2000亿市值，\nnebius一个季度亏2亿美金，市值600亿美金。\n然后nebius暴涨居然是因为27年28年能有个俩三百亿美金的营收，累计拿着个400亿美金订单。\n和闪迪一比这公司数据就是一坨屎，都能值600亿。营收，利润，毛利啥啥都不行都能值600亿，可见存储相对于绝大多数公司还是非常便宜，存储这几家公司俩三年赚的钱可能其他公司十来年都赚不到，即使可能他们市值更高。",
+    "tweet_url": "https://x.com/xiaomustock/status/2088221378944336033",
+    "published_at": "2026-08-14T11:09:08+00:00",
+    "fetched_at": "2026-08-14T11:37:01.477229+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NEBIUS",
+        "闪迪"
+      ],
+      "direction": "neutral",
+      "summary": "作者通过对比闪迪和Nebius的财务数据，指出Nebius估值过高，而存储行业公司（如闪迪）相对便宜且盈利能力强，隐含看好存储板块，看空Nebius但不敢做空。",
+      "translation": "有时候对比这些股票的市值，营收甚至远期的市值营收还是非常抽象。虽然这人也做空了美光，但是做空这个$NEBIUS感觉没啥错虽然我不敢做空股票。闪迪一个季度利润60亿美金，2000亿市值，nebius一个季度亏2亿美金，市值600亿美金。然后nebius暴涨居然是因为27年28年能有个俩三百亿美金的营收，累计拿着个400亿美金订单。和闪迪一比这公司数据就是一坨屎，都能值600亿。营收，利润，毛利啥啥都不行都能值600亿，可见存储相对于绝大多数公司还是非常便宜，存储这几家公司俩三年赚的钱可能其他公司十来年都赚不到，即使可能他们市值更高。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088209624218702136",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
