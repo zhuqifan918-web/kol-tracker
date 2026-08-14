@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LITE",
-      "NBIS",
-      "SMCI"
+      "$SIVE",
+      "$AAOI",
+      "$LITE",
+      "$NBIS",
+      "$SMCI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资持续增长",
-      "光通信与激光器瓶颈",
+      "光学瓶颈与激光器供不应求",
+      "AI基础设施大规模资本开支",
+      "CPO共封装光学技术演进与产业链验证",
       "内存与存储结构性短缺",
-      "CPO与硅光子学",
-      "供应链瓶颈投资"
+      "人形机器人IPO热潮与供应链机遇"
     ],
-    "recent_shift": "观点从关注市场波动和短期回调转向强调AI需求强劲和长期结构性机会。",
+    "recent_shift": "近期观点从聚焦AI基础设施需求转向强调供应链瓶颈和高端激光器等上游组件的持续短缺，认为需求远超产能，即使市场波动也保持乐观。",
     "representative_quotes": [
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "Unholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing.",
-      "Every layer of the AI buildout goes brrrrr, and it's showing up in earnings."
+      "Extreme demand imbalance for UHP CW laser capacity surprised Lumentum.",
+      "The customer demand is 20%-40% higher than expanded built out capacity.",
+      "Not everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent."
     ],
-    "generated_at": "2026-08-13T14:16:20.980427+00:00"
+    "generated_at": "2026-08-14T05:25:29.360133+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
