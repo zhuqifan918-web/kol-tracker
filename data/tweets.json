@@ -21,6 +21,25 @@
     }
   },
   {
+    "tweet_id": "2088365795361575416",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says he will declare the Strait of Hormuz \"a territory of the United States.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2088365795361575416",
+    "published_at": "2026-08-14T20:43:00+00:00",
+    "fetched_at": "2026-08-14T21:46:40.289785+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息涉及地缘政治风险，可能影响原油供应和航运成本，但未直接提及具体投资标的。投资者需关注油价波动及相关能源板块表现。",
+      "translation": "突发：特朗普称将宣布霍尔木兹海峡为美国领土。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088362444112765160",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1547,6 +1566,31 @@
       "direction": "bullish",
       "summary": "该消息显示401(k)账户中百万富翁数量创历史新高，反映出美国个人投资者财富增长和市场长期向上的趋势，可能利好整体股市情绪。",
       "translation": "最近报告显示更多人达到401(k)百万富翁地位，根据富达投资，目前有59.5万个账户价值超过一百万美元，创历史新高。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2087675367595380783",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. \n\nBut TLDR of $COHR earnings:\n\n\"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\"\n\n- Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally...  \n\nI guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027)\n\n$AAOI -> Internal\n$COHR -> Internal\nBuyers -> fewer places to look for capacity. \n\n \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility]\n\n- Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years.\n\n\"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\"\n\n- Just for the bottleneck bros in terms of assembly/test not a bottleneck. \n\n\"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\"\n\n\"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" \n\n- Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. \n\n- \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" \n\n- $COHR revenue go brrr\n\nSo for regular numbers it's:\n\n- $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027\n- Non-GAAP gross margins: 40.2%\n\nNext quarter guide is:\n- Revenue: $2.2–$2.4B revenue\n- Non-GAAP gross margins: 39.5-41.5%\n\nBasically:\n$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) \n~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins)\n\nFor operating margins:\n18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8%\n\nLittle less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+    "published_at": "2026-08-12T22:59:29+00:00",
+    "fetched_at": "2026-08-14T21:46:22.804765+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "COHR",
+        "AAOI",
+        "MTSI",
+        "LITE",
+        "POET"
+      ],
+      "direction": "bullish",
+      "summary": "",
+      "translation": "",
       "confidence": "medium"
     }
   },
