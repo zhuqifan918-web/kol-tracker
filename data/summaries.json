@@ -23,26 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
       "NVDA",
-      "ANTH",
-      "AAPL",
+      "TSLA",
+      "SPCX",
+      "ABNB",
       "AMAT"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与数据中心投资狂热",
-      "地缘政治风险与能源安全",
-      "财政赤字与货币宽松",
-      "市场流动性与投资者结构"
+      "AI投资热",
+      "地缘政治风险",
+      "市场波动"
     ],
-    "recent_shift": "近期态度明显转多，大量利好消息和突破性新闻频出。",
+    "recent_shift": "近期对AI和市场的看法更加乐观，但同时也关注地缘政治风险。",
     "representative_quotes": [
-      "BREAKING: SpaceX, $SPCX, completes record $60 billion acquisition of AI coding platform Cursor",
-      "BREAKING: Fitch Ratings has affirmed US rating at AA+.",
-      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly"
+      "AI writes 60% of its code",
+      "Tesla, nears the unveiling of a radical new ‘Flying’ Roadster",
+      "Michael Burry has doubled down on his Nvidia short"
     ],
-    "generated_at": "2026-08-14T15:13:26.828108+00:00"
+    "generated_at": "2026-08-14T16:12:42.195644+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
