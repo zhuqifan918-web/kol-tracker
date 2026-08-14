@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2088369570125922600",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Palantir, $PLTR, paid no U.S. federal income tax last year,\" per MorePerfectUnion",
+    "tweet_url": "https://x.com/unusual_whales/status/2088369570125922600",
+    "published_at": "2026-08-14T20:58:00+00:00",
+    "fetched_at": "2026-08-14T21:16:14.363924+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PLTR"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出Palantir（PLTR）去年未缴纳美国联邦所得税，这可能引发投资者对其税务负担和盈利质量的担忧，构成负面信息。",
+      "translation": "Palantir（$PLTR）去年没有缴纳美国联邦所得税，据MorePerfectUnion报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088362444112765160",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
