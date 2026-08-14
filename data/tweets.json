@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2088165493622587573",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "$META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标准的大公司。 https://t.co/tV5ZR8HQUU",
+    "tweet_url": "https://x.com/xiaomustock/status/2088165493622587573",
+    "published_at": "2026-08-14T07:27:04+00:00",
+    "fetched_at": "2026-08-14T08:07:25.926475+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bullish",
+      "summary": "该推文表示META是继谷歌之后第二家支持闪迪HBF标准的大公司，这显示META在存储技术标准上的积极参与和投入，可能对其长期技术竞争力有正面影响。",
+      "translation": "META算是继谷歌之后第二家支持和共同开发闪迪HBF标准的大公司。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088151622845419607",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -817,6 +838,27 @@
       "summary": "该推文宣布推出一个稳健的盈利平台，并引导用户访问Unusual Whales网站，可能提供市场分析或交易工具，但未提及具体投资标的或方向。",
       "translation": "我们为你构建了一个稳健的盈利平台。请直接在网站上查看Unusual Whales。更多信息：https://t.co/lNGVHeG6RW",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2087723789190926760",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some more thoughts on Taiyo Yuden and the Situational awareness former peak ~16% stake:\n\nFor the entire MLCC Market, MS in 2025 est. it looked like:\n\n- Murata: 40.8%\n- Samsung Electro-Mechanics: 22.5%\n- Taiyo Yuden: 11.3%\n\nAs the top 3 suppliers, making it the 3rd largest MLCC manufacturer. \n\n-> Murata is a little big ($101B MC)\n-> Samsung not the cleanest exposure, eg. robotics, and others ($81B MC),\n-> Taiyo Yuden is the smallest player (~$9.5B), which highest exposure to MLCC. \n\nLot of people were making fun and saying Murata/Samsung make up majority of the AI exposure, so it's stupid to buy Taiyo Yuden.\n\nThey don't have as much AI DC exposure as the others, but relative to the MC it's higher than people think.  \n\nSince there was a note that that Murata/Samsung were combined 85%, and every other supplier combined would be 15%, but even smaller exposure would be meaningful given MC. \n\nI also kinda treat MLCCs somewhat similar to HBM with memory players, and legacy NAND/DRAM like MLCCs for other segments as an investment model:\n\neg: earlier in 2026, Trendforce stated broader consumer MLCCs were underutilized. \n\nBut this month, Trendofrce stated production resources shifted toward AI servers, causing material constraints/inventory shortages with automotive/industrial/etc (broader MLCCs that Taiyo touches given that 11.3% market share). \n\nAnd then theres Samsung Electro-mechanics broad 30% price hike the other month. Taiyo 10-30% high capactance auto products, 6-13% hikes on consumer products, price revision for Sept shipments, with LTA indicators. \n\nFor their own forcases Taiyo said AI server MLCC sales grew around 30-35% in FY March 2026, and indicated 80% growth for Y/Y. So looks like its an early part of the MLCC cycle\n\non a side note: emerging business were microbatteries, fuel cells, solar cells which is kinda interesting. \n\nRelative to MC: I'd say Taiyo Yuden is probably cleaner MLCC bottleneck exposure, it's broadening past AI servers this month. \n\nAnd all indicators looks like MLCC will get more bottlenecked with lead times increasing. \n\nMain problem is Japanese suppliers don't like to price hike very much. \n\nTLDR: \n- Low MC relative to global MLCC production\n- MLCC Bottleneck broadening to eg. consumer/automotive recently\n- Early cycle of price hikes. \n\nIs probably why SA took positions. \n\nThey dont really need to win AI server market share, since MLCC is tightening into broader cateogries, and this company has 11.4% share of total market (which becomes a lot more strategically valuable). \n\nStill looking into the sector more, these are just initial thoughts",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2087723789190926760",
+    "published_at": "2026-08-13T02:11:54+00:00",
+    "fetched_at": "2026-08-14T08:07:10.739463+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "6976.T"
+      ],
+      "direction": "bullish",
+      "summary": "作者分析太阳诱电（Taiyo Yuden）作为MLCC制造商，指出其市值最小但MLCC业务占比最高，随着AI服务器需求导致MLCC供应紧张，价格周期可能开启，公司有望受益。作者认为当前是投资的好时机。",
+      "translation": "关于太阳诱电和一些对前约16%股份的情境意识的想法：整个MLCC市场，2025年市场份额预计：村田40.8%，三星电机22.5%，太阳诱电11.3%。作为前三供应商，太阳诱电是第三大MLCC制造商。村田市值太大（1010亿美元），三星不是最纯粹的暴露（例如机器人等，市值810亿美元），而太阳诱电是市值最小的（约95亿美元），MLCC暴露度最高。很多人嘲笑说村田/三星占据了AI暴露的大部分，所以买太阳诱电很傻。他们的AI数据中心暴露度不如其他公司，但相对市值来说，比例比人们想象的高。有报告指出村田和三星合计85%，其他所有供应商合计15%，但即使较小的暴露度在市值较低的情况下也很有意义。我还把MLCC类比于内存厂商中的HBM，以及传统NAND/DRAM类似MLCC在其他领域的投资模型：例如，2026年初，Trendforce表示消费级MLCC产能利用率不足。但本月，Trendforce表示生产资源转向AI服务器，导致汽车/工业等广泛MLCC出现材料紧张/库存短缺（太阳诱电拥有11.3%的份额）。然后三星电机上个月全面提价30%。太阳诱电对高容量汽车产品提价10-30%，消费产品提价6-13%，9月份出货价格修订，并有LTA指标。太阳诱电自己预测，截至2026年3月，AI服务器MLCC销售增长约30-35%，并表示同比增长80%。所以看起来这是MLCC周期的早期阶段。顺便提一下，新兴业务包括微型电池、燃料电池、太阳能电池，这很有趣。相对于市值，我认为太阳诱电是更纯粹的MLCC瓶颈暴露，而且这个月已经扩大到AI服务器之外。所有迹象表明MLCC瓶颈会加剧，交期增加。主要问题是日本供应商不喜欢大幅提价。总结：市值相对于全球MLCC产量较低，MLCC瓶颈扩展到例如消费/汽车领域，价格提升周期处于早期。这可能是SA持仓的原因。他们不需要赢得AI服务器市场份额，因为MLCC在整个类别中趋紧，而该公司拥有11.4%的总份额（这变得越来越有战略价值）。还在研究中，这只是初步想法。",
+      "confidence": "high"
     }
   },
   {
