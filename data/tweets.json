@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2088293821901623735",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Airbnb, $ABNB, CEO Brian Chesky has said that AI writes 60% of its code",
+    "tweet_url": "https://x.com/unusual_whales/status/2088293821901623735",
+    "published_at": "2026-08-14T15:57:00+00:00",
+    "fetched_at": "2026-08-14T16:12:16.107747+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ABNB"
+      ],
+      "direction": "neutral",
+      "summary": "Airbnb CEO表示AI已生成公司60%的代码，这可能提升公司运营效率和成本控制，但未直接提及财务影响，对投资影响偏中性。投资者可关注AI应用对业绩的潜在长期利好。",
+      "translation": "Airbnb首席执行官Brian Chesky表示，AI编写了该公司60%的代码。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088289039636185420",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Tesla, $TSLA, nears the unveiling of a radical new ‘Flying’ Roadster,\" per the Information.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088289039636185420",
+    "published_at": "2026-08-14T15:38:00+00:00",
+    "fetched_at": "2026-08-14T16:12:18.098468+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "特斯拉即将发布革命性的飞行跑车，可能推动股价上涨。该消息对TSLA构成利好，但需关注实际发布及市场反应。",
+      "translation": "据The Information报道，特斯拉（$TSLA）即将揭晓一款激进的“飞行”跑车。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088284006546890943",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US prescription drug prices fell by 3.1 percent in the 12 months leading up to July 2026, marking the steepest annual decline recorded since March 1963, per the Bureau of Labor Statistics data.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088284006546890943",
+    "published_at": "2026-08-14T15:18:00+00:00",
+    "fetched_at": "2026-08-14T16:12:20.392033+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国药品价格出现罕见大幅下降，可能对制药行业利润构成压力，但同时也可能利好消费者和医保相关行业。该数据对投资决策有一定参考价值，但未直接提及具体标的。",
+      "translation": "根据美国劳工统计局的数据，截至2026年7月的12个月内，美国处方药价格下降了3.1%，创下自1963年3月以来的最大年度降幅。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088278721711251775",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The White House has accused more than 40 countries, including Canada, Mexico and Japan, of helping Beijing illegally avoid US tariffs by rerouting trade through nations subject to lower American import duties than China,\" per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2088278721711251775",
+    "published_at": "2026-08-14T14:57:00+00:00",
+    "fetched_at": "2026-08-14T16:12:22.713793+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息涉及美国对多国涉嫌帮助中国规避关税的指控，属于贸易政策风险事件。可能影响涉及跨境贸易和供应链的上市公司，但未直接提及具体标的。投资者需关注政策动向对相关行业及市场的潜在影响。",
+      "translation": "白宫指责包括加拿大、墨西哥和日本在内的40多个国家，通过将贸易转经关税较低的国家，帮助北京非法规避美国关税，据金融时报报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088278388486312026",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -158,6 +238,25 @@
       "summary": "摩根士丹利预计人工智能计算需求将多年超过供应，这预示着对相关芯片和基础设施的持续强劲需求，可能利好AI产业链上的公司。",
       "translation": "摩根士丹利表示，预计人工智能计算需求将在未来多年内超过供应。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2088233423144165784",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Senator Bernie Sanders has said: voluntarily pause AI development now, or Congress will intervene, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2088233423144165784",
+    "published_at": "2026-08-14T11:57:00+00:00",
+    "fetched_at": "2026-08-14T16:12:30.679308+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "参议员桑德斯呼吁暂停AI开发，否则国会将介入。可能有立法限制AI开发，对AI相关企业构成监管风险，短期内可能对AI板块产生负面影响。",
+      "translation": "参议员伯尼·桑德斯表示：自愿暂停AI开发，否则国会将会介入，据雅虎财经报道。",
+      "confidence": "medium"
     }
   },
   {
