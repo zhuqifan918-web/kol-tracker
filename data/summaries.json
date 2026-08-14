@@ -25,48 +25,46 @@
     "focus_tickers": [
       "SPCX",
       "NVDA",
-      "ANTHROPIC",
-      "SMCI",
-      "MSFT"
+      "ANTH",
+      "AAPL",
+      "AMAT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI投资热潮",
-      "SpaceX与Anthropic上市",
-      "宏观经济与政策",
-      "市场风险与机遇",
-      "社交媒体数据价值"
+      "人工智能与数据中心投资狂热",
+      "地缘政治风险与能源安全",
+      "财政赤字与货币宽松",
+      "市场流动性与投资者结构"
     ],
-    "recent_shift": "近期观点略偏乐观，强调AI和科技股的强劲表现，同时关注宏观风险。",
+    "recent_shift": "近期态度明显转多，大量利好消息和突破性新闻频出。",
     "representative_quotes": [
-      "Morgan Stanley says it expects AI compute demand to outpace supply for years.",
-      "SpaceX, $SPCX, completes record $60 billion acquisition of AI coding platform Cursor",
-      "BREAKING: Anthropic now projected to surge to a valuation of $2,000,000,000,000.00 by end of year. 53% chance."
+      "BREAKING: SpaceX, $SPCX, completes record $60 billion acquisition of AI coding platform Cursor",
+      "BREAKING: Fitch Ratings has affirmed US rating at AA+.",
+      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly"
     ],
-    "generated_at": "2026-08-14T14:09:42.109399+00:00"
+    "generated_at": "2026-08-14T15:13:26.828108+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SNDK",
       "MU",
-      "SKHynix",
-      "META",
-      "INTC"
+      "SKHNY",
+      "INTC",
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片结构性短缺与涨价周期",
-      "AI算力需求带动CPU与存储架构演进",
-      "大型云厂商资本开支与AI基础设施投资",
-      "中概股与港股科技公司估值对比",
-      "市场去杠杆与情绪极端后的反弹机会"
+      "存储行业景气周期与供需缺口",
+      "AI算力需求与CPU/存储架构演进",
+      "AI大模型竞争与价格战",
+      "加密货币交易所安全与用户维权"
     ],
-    "recent_shift": "从前期经历大幅回撤的悲观情绪，近期转向对存储和AI需求的结构性乐观，并强调市场机会常在黑天鹅事件后出现。",
+    "recent_shift": "从早期积极加杠杆、追涨杀跌的激进操作，转向强调风控、盈利兑现和长期配置（如定投SPY/QQQ），并反思杠杆风险。",
     "representative_quotes": [
-      "存储几家公司俩三年赚的钱可能其他公司十来年都赚不到。",
-      "降价就会被动带来海量的用量提升，数据存储压力倍增，对存储又反而是利好。",
-      "市场是真不缺机会，更不缺黑天鹅。"
+      "存储顺风行情买2x还不够还想继续杠杆梭哈上2x，生怕错过大行情。",
+      "CPU需求的爆发点很接近了...最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。",
+      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。"
     ],
-    "generated_at": "2026-08-14T14:09:39.166420+00:00"
+    "generated_at": "2026-08-14T15:13:24.666212+00:00"
   }
 }
