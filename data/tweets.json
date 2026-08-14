@@ -1,5 +1,87 @@
 [
   {
+    "tweet_id": "2088261222097735988",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: SpaceX, $SPCX, completes record $60 billion acquisition of AI coding platform Cursor",
+    "tweet_url": "https://x.com/unusual_whales/status/2088261222097735988",
+    "published_at": "2026-08-14T13:47:28+00:00",
+    "fetched_at": "2026-08-14T14:09:13.278072+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "SpaceX以600亿美元收购AI编程平台Cursor，展现出对AI领域的重大投资，可能提升SpaceX的估值和技术能力，对相关股票构成利好。",
+      "translation": "突发新闻：SpaceX（$SPCX）以创纪录的600亿美元完成对AI编程平台Cursor的收购。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088256720208601264",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "闪迪涨成这样逼样我再加仓会不会死里面。\n看着心痒痒，闪迪仓位占比太小了。 https://t.co/w23BfRRd6u",
+    "tweet_url": "https://x.com/xiaomustock/status/2088256720208601264",
+    "published_at": "2026-08-14T13:29:34+00:00",
+    "fetched_at": "2026-08-14T14:09:00.437966+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "用户对闪迪（SanDisk）股价上涨感到心动，但仓位太小，考虑加仓，虽担心高位买入可能亏损，但整体偏乐观。",
+      "translation": "闪迪涨成这样熊样我再加仓会不会死在里面。看着心痒痒，闪迪仓位占比太小了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2088253556029530349",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Call center stocks plummet over AI disruption fears, per Bloomberg: https://t.co/vbzb6j12uQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2088253556029530349",
+    "published_at": "2026-08-14T13:17:00+00:00",
+    "fetched_at": "2026-08-14T14:09:16.094945+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "这条推文引述彭博社报道，指出因人工智能技术对岗位的替代威胁，呼叫中心类股票遭遇大幅下跌。这反映了市场对AI影响相关行业盈利前景的担忧，属于负面信号。",
+      "translation": "据彭博社报道，因人工智能颠覆性影响引发担忧，呼叫中心类股票大幅下跌。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2088252084437323966",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "cpu必然会发生和2026年跟存储发生的结构性需求缺口。\n现在cpu和gpu的配置需求是1/8，\n随着各AI大模型公司下场AI代理，代理需求催生的高端cpu需求会在2-3个季度内快递被爆拉到1/1。八倍的需求提升，而高端cpu的产能完全不可能在最近的2个季度内实现产能8倍提升。\ncpu需求的爆发点很接近了，\n从这个季度英特尔的高端cpu挤压低端cpu产能可以看出这种变化正在加速。\n最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。\n也就是只剩下3-5个月时间窗口了。",
+    "tweet_url": "https://x.com/xiaomustock/status/2088252084437323966",
+    "published_at": "2026-08-14T13:11:09+00:00",
+    "fetched_at": "2026-08-14T14:09:03.407649+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "作者预测CPU将出现类似2026年存储芯片的结构性需求缺口，AI代理需求将推动高端CPU需求从与GPU 1:8的配置比例提升至1:1，带来8倍需求增长。供给端产能短期无法匹配，英特尔已出现高端替代低端产能的迹象，预计CPU大幅涨价将在2025年底至2027年Q1发生，建议关注相关投资机会。",
+      "translation": "CPU必然会发生和2026年跟存储发生的结构性需求缺口。现在CPU和GPU的配置需求是1/8，随着各AI大模型公司下场AI代理，代理需求催生的高端CPU需求会在2-3个季度内快速被爆拉到1/1。八倍的需求提升，而高端CPU的产能完全不可能在最近的2个季度内实现产能8倍提升。CPU需求的爆发点很接近了，从这个季度英特尔的高端CPU挤压低端CPU产能可以看出这种变化正在加速。最快今年年底最慢27年Q1就能看见CPU大幅提价，复刻存储26年行情。也就是只剩下3-5个月时间窗口了。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088243489519931881",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
