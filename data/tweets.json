@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2088393308204888411",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "有个说法，现阶段英伟达主业是卖内存的，\n他的gpu算力是赠送的。\n降低了单柜的内存，那么英伟达拿到的内存总量不变能变相的卖出去更多的柜，让自己业绩好看点，能让财报看起来自己卖出去了很多算力。 https://t.co/cbnoh0IKOa",
+    "tweet_url": "https://x.com/xiaomustock/status/2088393308204888411",
+    "published_at": "2026-08-14T22:32:19+00:00",
+    "fetched_at": "2026-08-14T22:46:18.779318+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文调侃英伟达现阶段主业是销售内存，GPU算力为附带赠送。通过降低单柜内存量，在内存总量不变的情况下可售出更多机柜，从而在财报中体现更高的算力销量。",
+      "translation": "有个说法，现阶段英伟达主业是卖内存的，他的gpu算力是赠送的。降低了单柜的内存，那么英伟达拿到的内存总量不变能变相的卖出去更多的柜，让自己业绩好看点，能让财报看起来自己卖出去了很多算力。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088369570125922600",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
