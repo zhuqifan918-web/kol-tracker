@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2088067580288491669",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Barron was an early advocate for cryptocurrency within the Trump family. He co-founded World Liberty Financial (WLFI) in late 2024 alongside his father and brothers.\n\nRead more: https://t.co/AEYVUcynGJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2088067580288491669",
+    "published_at": "2026-08-14T00:58:00+00:00",
+    "fetched_at": "2026-08-14T01:05:39.978753+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WLFI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到Barron在特朗普家族中早期倡导加密货币，并共同创立了World Liberty Financial（WLFI），暗示该加密货币项目具有家族支持和早期倡导的背景，可能对WLFI相关投资有积极影响。",
+      "translation": "巴伦是特朗普家族中早期倡导加密货币的人。他于2024年底与父亲和兄弟共同创立了World Liberty Financial（WLFI）。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088052959741714846",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "睡醒看了很多人测评的deepseek的agent “DSH”，很多人聊的最多的就是token消耗量，kv键缓存命中率，同时DSH的同任务时间消耗是gpt或者clude的2倍。\n这点透露的信息强化了我对英特尔陈立武老爷子说的CPU和dram存储堆叠封装的路线理解。\nagent代理的普及很快会迎来cpu/gpu的1:1时刻，那时的cpu也非常需要像英伟达的gpu和hbm堆叠封装一样，需要把cpu和hbm堆叠封装在一起，极大的提高读取效率和降低计算时间。",
+    "tweet_url": "https://x.com/xiaomustock/status/2088052959741714846",
+    "published_at": "2026-08-13T23:59:54+00:00",
+    "fetched_at": "2026-08-14T01:05:25.456280+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "推文分析了DeepSeek Agent（DSH）的token消耗和延迟问题，认为随着AI代理普及，CPU也需要像GPU一样与HBM堆叠封装以提高效率，强化了对英特尔CEO陈立武所述CPU与DRAM堆叠封装路线的信心，对英特尔构成利好。",
+      "translation": "睡醒看了很多人测评的deepseek的agent “DSH”，很多人聊的最多的就是token消耗量，kv键缓存命中率，同时DSH的同任务时间消耗是gpt或者clude的2倍。这点透露的信息强化了我对英特尔陈立武老爷子说的CPU和dram存储堆叠封装的路线理解。agent代理的普及很快会迎来cpu/gpu的1:1时刻，那时的cpu也非常需要像英伟达的gpu和hbm堆叠封装一样，需要把cpu和hbm堆叠封装在一起，极大的提高读取效率和降低计算时间。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088030586816663826",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -37,6 +79,25 @@
       "summary": "Reddit被纳入标普500指数，通常会引发指数基金的被动买入，对股价构成利好，属于正面消息。",
       "translation": "突发：Reddit（$RDDT）将被纳入标普500指数。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2088015487129026598",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The median rent on new leases in Manhattan have signed in July hit $5,000, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2088015487129026598",
+    "published_at": "2026-08-13T21:31:00+00:00",
+    "fetched_at": "2026-08-14T01:05:51.359626+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "纽约曼哈顿7月新租约的租金中位数达到5000美元，创历史新高，反映住房租赁市场强劲。这对房地产投资信托基金（REITs）可能构成利好，但推高通胀压力，或影响美联储货币政策，对股市整体影响中性。",
+      "translation": "突发：据彭博社报道，曼哈顿7月新签租约的租金中位数达到5000美元。",
+      "confidence": "medium"
     }
   },
   {
