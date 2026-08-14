@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2088106084535857480",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Larry Kudlow said he had spoken to Trump about indexing capital gains to inflation, as well as making changes to capital gains taxes on home sales that would shield more of homeowners’ profits from taxes.\n\nRead more: https://t.co/SCPfK36SD1",
+    "tweet_url": "https://x.com/unusual_whales/status/2088106084535857480",
+    "published_at": "2026-08-14T03:31:00+00:00",
+    "fetched_at": "2026-08-14T03:34:12.891786+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普政府可能推动资本利得税与通胀挂钩，并提高房产出售利润的免税额度。若实施，将降低投资者税负，利好股市和房地产市场，提升投资吸引力。",
+      "translation": "拉里·库德洛表示，他已与特朗普讨论将资本利得与通胀挂钩，以及调整房产销售的资本利得税，以保护房主更多利润免受征税。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088075885123387463",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The mock trading service is available on the KRX website, where investors trade at same-day market prices using virtual funds provided within the system, giving them an experience similar to actual trading.\n\nRead more: https://t.co/ML9fUUmafL",
+    "tweet_url": "https://x.com/unusual_whales/status/2088075885123387463",
+    "published_at": "2026-08-14T01:31:00+00:00",
+    "fetched_at": "2026-08-14T03:34:22.291776+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "韩国交易所（KRX）推出模拟交易服务，投资者可使用虚拟资金按当日市场价格进行交易，以体验真实交易。该服务有助于投资者熟悉交易机制，但不涉及具体投资标的或市场方向。",
+      "translation": "KRX网站上提供模拟交易服务，投资者可以使用系统内提供的虚拟资金按当日市场价格进行交易，体验与实际交易类似的体验。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088067580288491669",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
