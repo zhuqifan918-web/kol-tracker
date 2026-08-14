@@ -23,26 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "NVDA",
       "SPCX",
       "ANTH",
-      "NVDA",
-      "AMZN",
-      "TSLA"
+      "TSLA",
+      "AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI投资热潮与泡沫担忧",
-      "宏观经济与利率政策",
-      "地缘政治风险与能源市场",
-      "股市新高与劳动力市场变化"
+      "人工智能与算力投资",
+      "市场流动性充裕",
+      "科技股回购与上涨",
+      "地缘政治不确定性",
+      "政府政策影响"
     ],
-    "recent_shift": "近期对AI相关资产的态度从乐观转向谨慎，更多关注估值过高和泡沫风险。",
+    "recent_shift": "近期言论更加关注AI市场机遇，同时对宏观经济风险的表态有所缓和。",
     "representative_quotes": [
-      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\"",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Anthropic investors are betting the company could reach a $2 trillion-plus valuation in an October IPO."
+      "Morgan Stanley says it still is bullish AI.",
+      "\"Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items.\"",
+      "\"SpaceX, $SPCX, completes record $60 billion acquisition of AI coding platform Cursor\""
     ],
-    "generated_at": "2026-08-14T17:24:27.161822+00:00"
+    "generated_at": "2026-08-14T18:13:16.247818+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

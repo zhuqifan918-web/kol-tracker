@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2088326788334362642",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nebius, $NBIS, is up 45% in a week. https://t.co/h8rzndRmxC",
+    "tweet_url": "https://x.com/unusual_whales/status/2088326788334362642",
+    "published_at": "2026-08-14T18:08:00+00:00",
+    "fetched_at": "2026-08-14T18:13:03.100724+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出Nebius（NBIS）股价一周内上涨45%，暗示其近期表现强劲，可能吸引投资者关注。消息本身未提供具体分析，但显著的涨幅可能被视为积极信号。",
+      "translation": "Nebius，$NBIS，一周内上涨了45%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2088322239427219694",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Market sentiment is in GREED: https://t.co/u34S7ewu0M",
+    "tweet_url": "https://x.com/unusual_whales/status/2088322239427219694",
+    "published_at": "2026-08-14T17:49:55+00:00",
+    "fetched_at": "2026-08-14T18:13:04.913802+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "市场情绪指标显示贪婪，可能暗示市场过热，存在回调风险。投资者需警惕高位风险。",
+      "translation": "市场情绪处于贪婪状态：https://t.co/u34S7ewu0M",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088308165532340424",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
