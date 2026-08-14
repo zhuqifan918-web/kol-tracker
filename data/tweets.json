@@ -1,5 +1,98 @@
 [
   {
+    "tweet_id": "2088362444112765160",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Bridgewater Associates, founded by Ray Dalio, just filed its Q2 2026 13F.\n\nTop 10 holdings:\n$SPY: 16.3%\n$IVV: 9.2%\n$NVDA: 3.2%\n$AVGO: 2.0%\n$AMZN: 2.0%\n$GOOGL: 1.9%\n$LRCX: 1.7%\n$VOO: 1.3%\n$AMD: 1.3%\n$EWY: 1.1% https://t.co/skBNfgxBGt",
+    "tweet_url": "https://x.com/unusual_whales/status/2088362444112765160",
+    "published_at": "2026-08-14T20:29:41+00:00",
+    "fetched_at": "2026-08-14T20:52:55.638493+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPY",
+        "IVV",
+        "NVDA",
+        "AVGO",
+        "AMZN",
+        "GOOGL",
+        "LRCX",
+        "VOO",
+        "AMD",
+        "EWY"
+      ],
+      "direction": "neutral",
+      "summary": "该推文报道了桥水基金（Bridgewater Associates）提交的2026年第二季度13F文件，列出了其前十大持仓。虽然显示了具体投资标的和比例，但未提供明确的投资观点或建议，因此信息呈中性。投资者可以从中了解桥水基金的重仓股，作为参考。",
+      "translation": "突发：由瑞·达利欧创立的桥水基金刚刚提交了2026年第二季度的13F文件。前十大持仓：$SPY：16.3%；$IVV：9.2%；$NVDA：3.2%；$AVGO：2.0%；$AMZN：2.0%；$GOOGL：1.9%；$LRCX：1.7%；$VOO：1.3%；$AMD：1.3%；$EWY：1.1%。链接：https://t.co/skBNfgxBGt",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2088360023831544131",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Berkshire Hathaway, $BRK.B, just updated its Q2 stock portfolio.\n\nNew: D.R. Horton, $DHI \n\nExited: Constellation Brands, $STZ \n\nBiggest buys:\nAlphabet, $GOOGL: +48.1M shares\nDelta, $DAL: +17.5M\nMacy’s, $M: +4.3M\nLennar, $LEN: +3.1M\nNYT, $NYT: +553K\n\nBiggest cuts:\nBank of America, $BAC: -30.2M shares\nKroger, $KR: -11M\nCapital One, $COF: -4.2M\nNucor, $NUE: -2M\nAlly, $ALLY: -2M\nDaVita, $DVA: -1.2M",
+    "tweet_url": "https://x.com/unusual_whales/status/2088360023831544131",
+    "published_at": "2026-08-14T20:20:04+00:00",
+    "fetched_at": "2026-08-14T20:52:58.738100+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK.B",
+        "DHI",
+        "STZ",
+        "GOOGL",
+        "DAL",
+        "M",
+        "LEN",
+        "NYT",
+        "BAC",
+        "KR",
+        "COF",
+        "NUE",
+        "ALLY",
+        "DVA"
+      ],
+      "direction": "neutral",
+      "summary": "伯克希尔哈撒韦更新了二季度投资组合，新建仓D.R. Horton，清仓星座品牌，大幅增持Alphabet、达美航空、梅西百货等，同时减持美国银行、克罗格等。这些变动反映了伯克希尔对科技、消费和航空板块的偏好，以及对银行和部分消费股的谨慎态度。",
+      "translation": "突发新闻：伯克希尔哈撒韦，$BRK.B，刚刚更新了其第二季度股票投资组合。新建仓：D.R. Horton，$DHI。清仓：星座品牌，$STZ。最大买入：Alphabet，$GOOGL：+4810万股；达美航空，$DAL：+1750万股；梅西百货，$M：+430万股；Lennar，$LEN：+310万股；纽约时报，$NYT：+55.3万股。最大减持：美国银行，$BAC：-3020万股；克罗格，$KR：-1100万股；第一资本，$COF：-420万股；纽柯，$NUE：-200万股；Ally，$ALLY：-200万股；DaVita，$DVA：-120万股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2088356848282005680",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Druckenmiller's Duquesene has updated its 13F.\n\nNew positions: \n-$GOOGL: $120.2 million\n$FOXA: $115.0 million\n$CDW: $104.6 million\n$BTDR: $64.7 million\n$DAL: $56.5 million\n$AMD: $42.3 million\n\nLargest holdings:\n$TSM: $281 million\n$STM: $232 million\n$AMZN: $129 million https://t.co/1QblRfozic",
+    "tweet_url": "https://x.com/unusual_whales/status/2088356848282005680",
+    "published_at": "2026-08-14T20:07:27+00:00",
+    "fetched_at": "2026-08-14T20:53:00.854472+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL",
+        "FOXA",
+        "CDW",
+        "BTDR",
+        "DAL",
+        "AMD",
+        "TSM",
+        "STM",
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "该推文披露了著名投资者Druckenmiller旗下Duquesne基金的最新13F持仓变动，新增了谷歌、福克斯等股票，并重仓台积电等半导体股。这显示出对科技和半导体板块的看多倾向，可能对相关个股构成利好。",
+      "translation": "突发：Druckenmiller的Duquesne基金更新了13F持仓报告。新进仓位：谷歌（1.202亿美元）、福克斯（1.15亿美元）、CDW（1.046亿美元）、比特鹿（6470万美元）、达美航空（5650万美元）、AMD（4230万美元）。最大持仓：台积电（2.81亿美元）、意法半导体（2.32亿美元）、亚马逊（1.29亿美元）。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088349126912311631",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
