@@ -5,23 +5,23 @@
       "$AAOI",
       "$LITE",
       "$NBIS",
-      "$SMCI"
+      "$MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学瓶颈与激光器供不应求",
-      "AI基础设施大规模资本开支",
-      "CPO共封装光学技术演进与产业链验证",
-      "内存与存储结构性短缺",
-      "人形机器人IPO热潮与供应链机遇"
+      "光学互连瓶颈",
+      "AI基础设施资本开支",
+      "存储市场紧张",
+      "CPO技术推进",
+      "中国供应链限制"
     ],
-    "recent_shift": "近期观点从聚焦AI基础设施需求转向强调供应链瓶颈和高端激光器等上游组件的持续短缺，认为需求远超产能，即使市场波动也保持乐观。",
+    "recent_shift": "近期对CPO时间线更加乐观，认为市场对延迟的担忧被夸大。",
     "representative_quotes": [
-      "Extreme demand imbalance for UHP CW laser capacity surprised Lumentum.",
-      "The customer demand is 20%-40% higher than expanded built out capacity.",
-      "Not everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent."
+      "CW laser scarcity is already happening before the main volume ramp even begins...",
+      "The customer demand is 20%-40% higher. If we could produce more, we could ship more right now",
+      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
     ],
-    "generated_at": "2026-08-14T05:25:29.360133+00:00"
+    "generated_at": "2026-08-14T08:07:56.026594+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -49,26 +49,24 @@
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SKHynix",
-      "MU",
-      "SNDK",
-      "META",
-      "GOOGL"
+      "SK Hynix",
+      "SanDisk",
+      "Micron",
+      "Meta",
+      "Alphabet"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片（HBM，DRAM，NAND）及堆叠封装技术",
-      "AI Agent推动的算力与存储需求增长",
-      "美国云厂商资本开支与AI基建投入",
-      "风险偏好与杠杆操作",
-      "投资心态与风险控制"
+      "存储芯片供需紧张及涨价",
+      "AI代理带动CPU与存储堆叠封装",
+      "大模型降价刺激存储需求"
     ],
-    "recent_shift": "近期从极度乐观转向谨慎，减少了杠杆仓位，并增加现金以应对波动。",
+    "recent_shift": "近期观点从短期谨慎转向长期乐观，强调存储行业的基本面强劲和黑天鹅机会。",
     "representative_quotes": [
-      "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月，谷歌这些云厂和claude他们投资回报的转化速度可以更快。",
-      "就算退一万步说，如果用户仅因身份资料泄露，侵入者便能利用泄露的信息和AI合成技术，通过Gate的身份验证与风控，连续修改登录密码、更换绑定邮箱和Go0gle验证器、关闭手机验证码，最终完成大额提币;而平台事后又仅以一句“系统验证通过”把全部责任推给用户一一那么，这就不只是我个人的损失，而是所有交易所用户都可能面临的系统性安全风险",
-      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。像闪迪能一天拉40%，1000拉到1400。这种时间直接梭哈带来的收益远超每年持有apy或者qqq平均带来的15%左右年化。"
+      "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
+      "电脑就能装的小模型来了，$META 发布了Muse Spark 1.2模型精简版，参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。",
+      "亚马逊这个财报发言太bullish了 csp们说自己即将要赚麻"
     ],
-    "generated_at": "2026-08-14T01:06:06.789310+00:00"
+    "generated_at": "2026-08-14T08:07:58.760937+00:00"
   }
 }
