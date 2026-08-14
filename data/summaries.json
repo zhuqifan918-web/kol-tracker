@@ -25,24 +25,25 @@
     "focus_tickers": [
       "$AMZN",
       "$GOOGL",
-      "$NVDA",
       "$AMD",
-      "$SPY"
+      "$NVDA",
+      "$DAL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "机构投资者（如伯克希尔、桥水、杜肯）大举调仓，聚焦科技股与指数ETF",
-      "AI算力与数据中心投资热潮持续，相关公司财报超预期",
-      "宏观经济政策与地缘政治风险（如通胀、利率、关税）",
-      "对AI泡沫担忧（如Burry做空NVDA）与市场乐观情绪并存"
+      "AI基础设施与算力需求",
+      "机构调仓与13F披露",
+      "市场情绪与散户参与",
+      "宏观经济与财政政策",
+      "地缘政治与能源"
     ],
-    "recent_shift": "对AI泡沫的担忧有所上升（如Michael Burry警告NVDA有安然影子），但整体仍看好科技股和AI相关投资。",
+    "recent_shift": "近期观点无明显转变，但市场情绪指标显示贪婪，且多家机构增持科技股。",
     "representative_quotes": [
-      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,” per YF",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller."
+      "Palantir, $PLTR, paid no U.S. federal income tax last year",
+      "Morgan Stanley says it expects AI compute demand to outpace supply for years.",
+      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly"
     ],
-    "generated_at": "2026-08-14T20:53:10.579081+00:00"
+    "generated_at": "2026-08-14T21:16:24.839239+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
