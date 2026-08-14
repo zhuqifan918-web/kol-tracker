@@ -23,25 +23,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "TSLA",
       "SPCX",
-      "ABNB",
-      "AMAT"
+      "ANTH",
+      "NVDA",
+      "AMZN",
+      "TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热",
-      "地缘政治风险",
-      "市场波动"
+      "AI投资热潮与泡沫担忧",
+      "宏观经济与利率政策",
+      "地缘政治风险与能源市场",
+      "股市新高与劳动力市场变化"
     ],
-    "recent_shift": "近期对AI和市场的看法更加乐观，但同时也关注地缘政治风险。",
+    "recent_shift": "近期对AI相关资产的态度从乐观转向谨慎，更多关注估值过高和泡沫风险。",
     "representative_quotes": [
-      "AI writes 60% of its code",
-      "Tesla, nears the unveiling of a radical new ‘Flying’ Roadster",
-      "Michael Burry has doubled down on his Nvidia short"
+      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\"",
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+      "Anthropic investors are betting the company could reach a $2 trillion-plus valuation in an October IPO."
     ],
-    "generated_at": "2026-08-14T16:12:42.195644+00:00"
+    "generated_at": "2026-08-14T17:24:27.161822+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
