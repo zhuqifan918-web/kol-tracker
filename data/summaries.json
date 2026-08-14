@@ -4,46 +4,48 @@
       "SIVE",
       "AAOI",
       "LITE",
-      "SMCI",
-      "NBIS"
+      "SNDK",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力瓶颈上游供应链",
-      "光学激光器与CPO",
-      "内存与MLCC供需紧张"
+      "光学互连与激光器瓶颈",
+      "内存结构性短缺",
+      "CPO与硅光子学加速",
+      "AI基础设施资本开支持续增长",
+      "供应链地缘政治分化"
     ],
-    "recent_shift": "近期观点未见明显转向，依然坚定看多AI硬件供应链，并强调回调是错杀机会。",
+    "recent_shift": "从关注中小市值公司转向验证核心激光器与内存瓶颈，并强调需求加速而非衰退。",
     "representative_quotes": [
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages.",
-      "Same bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)"
+      "The customer demand is 20%-40% higher. Lasers are the biggest bottleneck right now for the transceiver business.",
+      "We could sell our entire 2027 capacity on these terms today.",
+      "SK Hynix, $MU, and Samsung have sold out of 2027 capacity for DRAM/HBM."
     ],
-    "generated_at": "2026-08-14T11:37:33.265804+00:00"
+    "generated_at": "2026-08-14T21:46:49.767609+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$AMZN",
-      "$GOOGL",
-      "$AMD",
-      "$NVDA",
-      "$DAL"
+      "GOOGL",
+      "AMZN",
+      "SPCX",
+      "NVDA",
+      "AMD"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力需求",
-      "机构调仓与13F披露",
-      "市场情绪与散户参与",
-      "宏观经济与财政政策",
-      "地缘政治与能源"
+      "AI概念股与算力需求",
+      "大型科技公司与指数基金持仓",
+      "地缘政治风险（霍尔木兹海峡）",
+      "机构动向与13F文件",
+      "宏观经济与货币政策"
     ],
-    "recent_shift": "近期观点无明显转变，但市场情绪指标显示贪婪，且多家机构增持科技股。",
+    "recent_shift": "近期调性从关注市场风险（如巴里做空英伟达、地缘冲突）转向积极跟踪机构大举买入和AI产业利好，整体情绪更趋乐观。",
     "representative_quotes": [
-      "Palantir, $PLTR, paid no U.S. federal income tax last year",
-      "Morgan Stanley says it expects AI compute demand to outpace supply for years.",
-      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly"
+      "Earnings are growing faster than stock prices, per Bloomberg.",
+      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
+      "Morgan Stanley says it expects AI compute demand to outpace supply for years."
     ],
-    "generated_at": "2026-08-14T21:16:24.839239+00:00"
+    "generated_at": "2026-08-14T21:46:52.718770+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
