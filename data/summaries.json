@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "SMCI",
-      "CRWV",
-      "TSM",
-      "RDDT"
+      "SPCX",
+      "ANTH",
+      "AAPL",
+      "TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI投资热潮与估值争议",
-      "宏观经济与利率政策",
-      "地缘政治风险（霍尔木兹海峡）",
-      "市场结构与交易工具",
-      "消费者与住宅市场疲软"
+      "AI基础设施与芯片",
+      "能源与地缘政治",
+      "财政政策与税收改革",
+      "美股市场结构",
+      "期权交易与散户策略"
     ],
-    "recent_shift": "近期观点从关注市场上涨转为强调地缘政治风险和AI泡沫担忧，同时注意到股市上涨可能促使提前退休，整体态度趋于谨慎。",
+    "recent_shift": "在AI和美股持续走强的背景下，近期观点更偏向乐观，但开始关注美联储政策和地缘政治风险。",
     "representative_quotes": [
-      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "Norway's sovereign wealth fund has said that the stock market gains won't last."
+      "BREAKING: Anthropic now projected to surge to a valuation of $2,000,000,000,000.00 by end of year. 53% chance.",
+      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
+      "Morgan Stanley says it is still bullish AI."
     ],
-    "generated_at": "2026-08-14T03:34:37.074542+00:00"
+    "generated_at": "2026-08-14T06:51:37.958418+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
