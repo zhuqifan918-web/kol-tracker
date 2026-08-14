@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2088151622845419607",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "53% chance Anthropic valuation to hit $2 trillion, per Polymarket:",
+    "tweet_url": "https://x.com/unusual_whales/status/2088151622845419607",
+    "published_at": "2026-08-14T06:31:57+00:00",
+    "fetched_at": "2026-08-14T06:51:16.630358+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Polymarket预测市场显示Anthropic估值达到2万亿美元的概率为53%，反映了市场对AI公司估值前景的预期。虽然不涉及具体股票或加密资产，但为投资者提供了关于AI行业估值可能性的参考信息。",
+      "translation": "据Polymarket，Anthropic估值达到2万亿美元的概率为53%：",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088115008827715971",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -464,6 +483,25 @@
       "summary": "比尔·阿克曼披露了六项新持仓，涉及流媒体、支付、医疗和金融数据等领域，显示对这些股票的看好。",
       "translation": "比尔·阿克曼披露了六项新持仓：奈飞（NFLX）、维萨（V）、万事达（MA）、爱尔康（ALC）、洲际交易所（ICE）和标普全球（SPGI）。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087912776563834936",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Anthropic now projected to surge to a valuation of $2,000,000,000,000.00 by end of year. \n\n53% chance. https://t.co/thON6Zl9ls",
+    "tweet_url": "https://x.com/unusual_whales/status/2087912776563834936",
+    "published_at": "2026-08-13T14:42:52+00:00",
+    "fetched_at": "2026-08-14T06:51:18.248430+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "这条推文提及Anthropic可能达到2万亿美元估值，属于AI公司估值预测，对相关概念资产可能产生积极影响，但未明确投资建议。",
+      "translation": "突发：Anthropic预计年底估值将飙升至2万亿美元。概率53%。",
+      "confidence": "low"
     }
   },
   {
