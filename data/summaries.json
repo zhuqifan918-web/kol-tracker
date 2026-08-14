@@ -25,25 +25,25 @@
     "focus_tickers": [
       "SPCX",
       "AMZN",
+      "TSLA",
       "NVDA",
-      "AAPL",
-      "TSLA"
+      "ANTH"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI投资热潮与估值泡沫",
-      "货币政策和利率走势",
-      "地缘政治风险与能源市场",
-      "企业财报与经济数据",
-      "市场情绪与经济指标"
+      "AI对就业和算力需求的影响",
+      "央行政策和利率走势",
+      "地缘政治与能源市场",
+      "机构持仓动向",
+      "新兴科技公司IPO和估值"
     ],
-    "recent_shift": "近期观点从看多转向谨慎，强调盈利增长与股价脱节、地缘紧张和通胀压力。",
+    "recent_shift": "叙事从宏观风险转向AI驱动的增长主题，但近期强调政府债务和地缘不确定性。",
     "representative_quotes": [
-      "Earnings are growing faster than stock prices, per Bloomberg.",
-      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has 'shades of Enron,' per YF.",
-      "Morgan Stanley says it expects AI compute demand to outpace supply for years."
+      "BREAKING: Earnings are growing faster than stock prices, per Bloomberg.",
+      "Morgan Stanley says it expects AI compute demand to outpace supply for years.",
+      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF"
     ],
-    "generated_at": "2026-08-14T19:25:55.495659+00:00"
+    "generated_at": "2026-08-14T20:01:54.773457+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
