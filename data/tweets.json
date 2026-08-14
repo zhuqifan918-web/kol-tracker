@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2088115008827715971",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Feels like glass substrate timelines got pushed back at least another quarter.\n\n- \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes.\n\nAt its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028.\n\n- \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. \n\nTLDR: \n- SKC Absolics H2 2026 -> H1 2027\n- Samsung H2 2027 -> H1 2028\n\nNot everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent.\n\nVolume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these  mass production timelines.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+    "published_at": "2026-08-14T04:06:28+00:00",
+    "fetched_at": "2026-08-14T05:24:44.255405+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LPK",
+        "161580",
+        "8027"
+      ],
+      "direction": "neutral",
+      "summary": "该推文分析玻璃基板行业的量产时间线推迟，指出SKC和三星的时间表分别延后至2027年上半年和2028年上半年，但认为玻璃核心基板的采用仍可能接近，并提及相关设备供应商（Philoptics、E&R）的产能爬坡将跟随这些时间线。整体观点偏中性，既有关键时间延后的利空，也暗示行业进展仍值得关注。",
+      "translation": "感觉玻璃基板的时间线至少又推迟了一个季度。\n\n- 由于客户对原型可靠性的评估遇到瓶颈，三星电机推迟半导体玻璃基板投资。在不到一个月后的第二季度财报发布会上，该公司将启动时间修改为2028年。\n\n- 上个月早些时候，SKC据报道将玻璃基板量产推迟至2027年，目标年底前完成最终验证（Trendforce）。\n\n总结：\n- SKC Absolics 从2026年下半年推迟到2027年上半年\n- 三星 从2027年下半年推迟到2028年上半年\n\n时间线变动并非总是好消息，但玻璃核心基板的转变确实感觉迫在眉睫。\n\n某些参与者的产能爬坡，例如 $LPK / Philoptics (161580) / E&R (8027)，很可能跟随这些量产时间线。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088106084535857480",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
