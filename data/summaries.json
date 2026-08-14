@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LITE",
-      "$NBIS",
-      "$MU"
+      "SIVE",
+      "AAOI",
+      "LITE",
+      "SMCI",
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学互连瓶颈",
-      "AI基础设施资本开支",
-      "存储市场紧张",
-      "CPO技术推进",
-      "中国供应链限制"
+      "光模块和激光器供应链瓶颈",
+      "AI基础设施与算力需求",
+      "MLCC被动元件涨价周期",
+      "半导体材料与玻璃基板",
+      "人形机器人与IPO热潮"
     ],
-    "recent_shift": "近期对CPO时间线更加乐观，认为市场对延迟的担忧被夸大。",
+    "recent_shift": "近期观点从关注光模块和激光器瓶颈，扩展至MLCC、人形机器人、以及更多细分供应链，同时强调市场短期波动不改长期需求增长。",
     "representative_quotes": [
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "The customer demand is 20%-40% higher. If we could produce more, we could ship more right now",
-      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
+      "If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it.",
+      "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages.",
+      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings."
     ],
-    "generated_at": "2026-08-14T08:07:56.026594+00:00"
+    "generated_at": "2026-08-14T09:33:17.880793+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
