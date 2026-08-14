@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2088243489519931881",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley says it expects AI compute demand to outpace supply for years.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088243489519931881",
+    "published_at": "2026-08-14T12:37:00+00:00",
+    "fetched_at": "2026-08-14T12:41:34.975780+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "摩根士丹利预计人工智能计算需求将多年超过供应，这预示着对相关芯片和基础设施的持续强劲需求，可能利好AI产业链上的公司。",
+      "translation": "摩根士丹利表示，预计人工智能计算需求将在未来多年内超过供应。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088226398708338889",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -1164,6 +1183,25 @@
       "summary": "高盛根据CPI数据预测美联储将在9月维持利率不变，这暗示短期内货币政策不会放松，对市场流动性和风险资产可能产生中性偏谨慎影响。投资者需关注后续通胀走势及美联储政策预期变化。",
       "translation": "高盛表示，根据CPI数据，美联储将在9月维持利率不变。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087558979496943803",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran has said there have been no talks for a 60-day ceasefire extension",
+    "tweet_url": "https://x.com/unusual_whales/status/2087558979496943803",
+    "published_at": "2026-08-12T15:17:00+00:00",
+    "fetched_at": "2026-08-14T12:41:43.622963+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗否认延长60天停火协议的相关谈判，增加了中东地缘政治不确定性，可能引发市场避险情绪，对全球股市和风险资产构成压力。",
+      "translation": "伊朗表示，没有关于延长60天停火协议的谈判。",
+      "confidence": "medium"
     }
   },
   {
