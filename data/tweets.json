@@ -1,5 +1,46 @@
 [
   {
+    "tweet_id": "2088278388486312026",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "真开始定投spy和qqq，每次赚了就买一部分放着。\n贵在坚持。 https://t.co/InmGdMT1Ko",
+    "tweet_url": "https://x.com/xiaomustock/status/2088278388486312026",
+    "published_at": "2026-08-14T14:55:40+00:00",
+    "fetched_at": "2026-08-14T15:12:52.020588+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "direction": "bullish",
+      "summary": "用户表示开始定投SPY和QQQ，每次盈利就买一部分长期持有，强调坚持的重要性，整体态度偏乐观。",
+      "translation": "真的开始定投SPY和QQQ，每次赚了就买一部分放着。贵在坚持。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2088273436858867928",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: China's central bank injected billions in liquidity through overnight reverse repos, the first time it has done so in the middle of a month.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088273436858867928",
+    "published_at": "2026-08-14T14:36:00+00:00",
+    "fetched_at": "2026-08-14T15:13:04.550160+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "中国央行首次在月中通过隔夜逆回购注入流动性，这可能对市场资金面产生短期宽松影响，但具体投资方向尚不明确。",
+      "translation": "突发新闻：中国央行通过隔夜逆回购注入数十亿流动性，这是首次在月中进行此类操作。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088261222097735988",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -78,6 +119,25 @@
       "direction": "bullish",
       "summary": "作者预测CPU将出现类似2026年存储芯片的结构性需求缺口，AI代理需求将推动高端CPU需求从与GPU 1:8的配置比例提升至1:1，带来8倍需求增长。供给端产能短期无法匹配，英特尔已出现高端替代低端产能的迹象，预计CPU大幅涨价将在2025年底至2027年Q1发生，建议关注相关投资机会。",
       "translation": "CPU必然会发生和2026年跟存储发生的结构性需求缺口。现在CPU和GPU的配置需求是1/8，随着各AI大模型公司下场AI代理，代理需求催生的高端CPU需求会在2-3个季度内快速被爆拉到1/1。八倍的需求提升，而高端CPU的产能完全不可能在最近的2个季度内实现产能8倍提升。CPU需求的爆发点很接近了，从这个季度英特尔的高端CPU挤压低端CPU产能可以看出这种变化正在加速。最快今年年底最慢27年Q1就能看见CPU大幅提价，复刻存储26年行情。也就是只剩下3-5个月时间窗口了。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088248618767778069",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "未来每个国家都不得不投入巨额资金来建立本地的AI云厂实现AI数据的本地化管理，\n因为各国的各类研究和开发不能都通过国外的云服务来做AI调用，这样机密和实验技术等都会被国外ai吸收掌握。\n必须通过本地部署开源模型，为这类涉密数据搭建本地AI云服务。 https://t.co/maEBr0Z3Jh",
+    "tweet_url": "https://x.com/xiaomustock/status/2088248618767778069",
+    "published_at": "2026-08-14T12:57:23+00:00",
+    "fetched_at": "2026-08-14T15:12:56.128077+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文认为各国将被迫建立本地化的AI云基础设施以保护数据安全，这将推动本地化AI云服务和开源模型部署的需求增长，对相关基础设施和软件公司构成利好。",
+      "translation": "未来每个国家都不得不投入巨额资金来建立本地的AI云厂实现AI数据的本地化管理，因为各国的各类研究和开发不能都通过国外的云服务来做AI调用，这样机密和实验技术等都会被国外ai吸收掌握。必须通过本地部署开源模型，为这类涉密数据搭建本地AI云服务。",
       "confidence": "medium"
     }
   },
