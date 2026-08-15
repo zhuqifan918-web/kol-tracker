@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "SPCX",
       "AMZN",
+      "SPCX",
       "GOOGL",
-      "AMD"
+      "PLTR"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "人工智能与自动化对就业的影响",
-      "对冲基金13F持仓披露",
-      "市场情绪与宏观经济指标",
-      "地缘政治风险与能源市场",
-      "科技巨头估值与盈利增长"
+      "AI对就业和经济的冲击",
+      "政府债务和财政赤字问题",
+      "住房和租金成本高企",
+      "13F持仓变动和机构动向",
+      "地缘政治风险（如霍尔木兹海峡）"
     ],
-    "recent_shift": "近期观点从关注AI的乐观转向对AI泡沫和估值担忧的讨论，同时增加了对宏观经济数据（如赤字、租金）的负面评论。",
+    "recent_shift": "从对AI潜在增长的乐观转向强调AI对就业和公司盈利的负面影响，以及对经济数据的悲观解读。",
     "representative_quotes": [
-      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,” per YF",
-      "BREAKING: Earnings are growing faster than stock prices, per Bloomberg.",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
+      "AI companies are recruiting electricians and carpenters by the thousands...",
+      "The deficit for the first 10 months of fiscal 2026 reached $1.799 trillion, already exceeding the $1.775 trillion deficit recorded for all of fiscal 2025.",
+      "Michael Burry has doubled down on his Nvidia, NVDA, short, warning its $500 billion AI deal has “shades of Enron.”"
     ],
-    "generated_at": "2026-08-15T20:11:42.612017+00:00"
+    "generated_at": "2026-08-15T22:10:37.638115+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
