@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2088446577656676408",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: World Liberty Financial, the Trump family’s flagship crypto venture, says its trust company has received preliminary approval from the Office of the Comptroller of the Currency to become a bank.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088446577656676408",
+    "published_at": "2026-08-15T02:04:00+00:00",
+    "fetched_at": "2026-08-15T02:08:01.496330+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普家族支持的加密企业World Liberty Financial旗下信托公司获得美国货币监理署初步批准成立银行，这标志着加密货币与传统金融融合的进展，可能对加密行业整体产生积极影响。",
+      "translation": "突发新闻：特朗普家族的旗舰加密企业World Liberty Financial表示，其信托公司已获得美国货币监理署（OCC）的初步批准，可以成为一家银行。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088438273194561718",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "On X, Burry wrote that “that $500 billion Nvidia Wall Street stunt involves Nvidia taking 25% stakes and providing residual value guarantees on purchase of its chips.\"\n\nRead more: https://t.co/9mqsuDwBob",
+    "tweet_url": "https://x.com/unusual_whales/status/2088438273194561718",
+    "published_at": "2026-08-15T01:31:00+00:00",
+    "fetched_at": "2026-08-15T02:08:06.746335+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "该推文批评英伟达的500亿美元市场操作，认为其通过收购25%股份并提供残值担保来推动芯片销售，这可能掩盖真实需求并增加财务风险，投资者需警惕。",
+      "translation": "在X上，Burry写道，那500亿美元的英伟达华尔街噱头涉及英伟达收购25%股份并为其芯片购买提供残值担保。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088423173461332252",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -15,6 +55,25 @@
       "direction": "neutral",
       "summary": "该推文披露了某人的持股和期权信息，包括A类和B类股票，以及限制性股票和期权，但没有提及具体公司或市场趋势，未提供明确的投资建议。",
       "translation": "他报告的持股包括由信托持有的849,494,440股A类股票和3,916,980,790股B类股票，加上1,302,072,285股限制性B类股票和350,000,000份B类期权。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088408073950159351",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Between February 2025 and February 2026, US employers added a lackluster 156,000 nonfarm payroll jobs, an average of just 13,000 jobs each month.\n\nRead more: https://t.co/qXj2z6Z8zW",
+    "tweet_url": "https://x.com/unusual_whales/status/2088408073950159351",
+    "published_at": "2026-08-14T23:31:00+00:00",
+    "fetched_at": "2026-08-15T02:08:15.765843+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国就业数据疲软，非农就业增长远低于预期，可能影响经济增长预期，利空股市。",
+      "translation": "2025年2月至2026年2月期间，美国雇主仅新增了15.6万个非农就业岗位，平均每月仅增加1.3万个。",
       "confidence": "medium"
     }
   },
