@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "GOOGL",
       "AMZN",
-      "SPCX",
+      "GOOGL",
       "NVDA",
-      "AMD"
+      "AMD",
+      "TSM"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI概念股与算力需求",
-      "大型科技公司与指数基金持仓",
+      "AI投资热潮",
       "地缘政治风险（霍尔木兹海峡）",
-      "机构动向与13F文件",
-      "宏观经济与货币政策"
+      "科技巨头持仓变动",
+      "利率与财政政策",
+      "市场情绪贪婪"
     ],
-    "recent_shift": "近期调性从关注市场风险（如巴里做空英伟达、地缘冲突）转向积极跟踪机构大举买入和AI产业利好，整体情绪更趋乐观。",
+    "recent_shift": "近期观点从关注通胀和美联储政策转向强调AI投资机会和地缘政治风险。",
     "representative_quotes": [
       "Earnings are growing faster than stock prices, per Bloomberg.",
-      "Berkshire Hathaway bought $23.47 billion of equities and sold just $3.69 billion in Q2 2026, ending 14 consecutive quarters as a net seller.",
-      "Morgan Stanley says it expects AI compute demand to outpace supply for years."
+      "Morgan Stanley says it expects AI compute demand to outpace supply for years.",
+      "Hyperscalers have lined up $2.6 trillion in future spending for data centers and other AI related items, per Bloomberg."
     ],
-    "generated_at": "2026-08-14T21:46:52.718770+00:00"
+    "generated_at": "2026-08-15T00:39:54.722504+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

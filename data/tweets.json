@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2088423173461332252",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "His reported holdings include 849,494,440 Class A shares and 3,916,980,790 Class B shares held by trusts, plus 1,302,072,285 restricted Class B shares and 350,000,000 Class B options.\n\nRead more: https://t.co/0lBY4RY4rL",
+    "tweet_url": "https://x.com/unusual_whales/status/2088423173461332252",
+    "published_at": "2026-08-15T00:31:00+00:00",
+    "fetched_at": "2026-08-15T00:39:41.197482+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文披露了某人的持股和期权信息，包括A类和B类股票，以及限制性股票和期权，但没有提及具体公司或市场趋势，未提供明确的投资建议。",
+      "translation": "他报告的持股包括由信托持有的849,494,440股A类股票和3,916,980,790股B类股票，加上1,302,072,285股限制性B类股票和350,000,000份B类期权。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088393308204888411",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
