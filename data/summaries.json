@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "SPCX",
-      "AMZN",
-      "GOOGL",
-      "AMD"
+      "$NVDA",
+      "$SPCX",
+      "$GOOGL",
+      "$AMZN",
+      "$AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI算力需求与投资",
-      "13F机构持仓变动",
-      "财政赤字与利率",
-      "地缘政治风险（霍尔木兹海峡）",
-      "市场情绪与波动性"
+      "人工智能与算力需求持续增长，但估值和盈利能力存疑",
+      "宏观经济数据疲软，财政赤字和债务担忧加剧",
+      "市场对美联储政策预期波动，通胀与就业数据影响决策",
+      "机构投资者13F持仓披露，关注大资金动向",
+      "地缘政治风险（如霍尔木兹海峡）对市场潜在影响"
     ],
-    "recent_shift": "近期观点从偏乐观转向中性，强调AI投资回报不确定性及宏观风险。",
+    "recent_shift": "近期关注点从单纯的市场乐观转向对AI炒作和宏观风险的更多质疑，同时强调宏观经济疲软与市场高位并存的矛盾。",
     "representative_quotes": [
-      "$500 billion Nvidia Wall Street stunt involves Nvidia taking 25% stakes and providing residual value guarantees on purchase of its chips.",
-      "Growth and labor market outcomes have decoupled.",
-      "Profits are currently being funded by investors rather than earned from customers."
+      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has 'shades of Enron,' per YF",
+      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+      "The deficit for the first 10 months of fiscal 2026 reached $1.799 trillion, already exceeding the $1.775 trillion deficit recorded for all of fiscal 2025."
     ],
-    "generated_at": "2026-08-15T14:45:20.053184+00:00"
+    "generated_at": "2026-08-15T15:42:49.195056+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
