@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2088457278928412812",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "US Government urges $AAPL not to buy Chinese memory chips. \n\n$MU, $SKHY, and Samsung are happy to hear this...\n\nHilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". \n\nApple once upon a time actually had extreme supplier leverage before the AI boom.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2088457278928412812",
+    "published_at": "2026-08-15T02:46:31+00:00",
+    "fetched_at": "2026-08-15T03:09:48.504986+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL",
+        "MU",
+        "SKHY"
+      ],
+      "direction": "bullish",
+      "summary": "美国敦促苹果不用中国存储芯片，利好美光、SK海力士和三星；同时中国厂商CXMT/YMTC涨价，表明需求强劲，进一步支撑存储板块看涨情绪。",
+      "translation": "美国政府敦促苹果不要购买中国存储芯片。美光、SK海力士和三星听到这个消息很高兴……搞笑的是，长鑫存储（CXMT）和长江存储（YMTC）也在涨价，所以并不是“廉价的中国存储芯片充斥市场”。苹果在AI繁荣之前曾拥有极端的供应商议价能力。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088446577656676408",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
