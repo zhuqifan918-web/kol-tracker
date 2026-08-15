@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2088501133543407959",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "说我归零的传闻未免也太夸张了吧 哈哈\n\n经历了7月份AI板块的崩盘后，我的YTD收益依然还有 +2,411.84% https://t.co/m49XcPRgC3",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2088501133543407959",
+    "published_at": "2026-08-15T05:40:47+00:00",
+    "fetched_at": "2026-08-15T05:47:50.698494+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及7月AI板块崩盘后，其年初至今收益仍高达+2,411.84%，反驳了关于其归零的传闻，显示出对AI相关投资的乐观态度和信心。",
+      "translation": "说我归零的传闻未免也太夸张了吧 哈哈。经历了7月份AI板块的崩盘后，我的YTD收益依然还有+2,411.84%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088490366102094023",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The deficit for the first 10 months of fiscal 2026 reached $1.799 trillion, already exceeding the $1.775 trillion deficit recorded for all of fiscal 2025.\n\nRead more: https://t.co/7joIY6uG90",
+    "tweet_url": "https://x.com/unusual_whales/status/2088490366102094023",
+    "published_at": "2026-08-15T04:58:00+00:00",
+    "fetched_at": "2026-08-15T05:48:07.742554+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文显示美国财政赤字在2026财年前十个月已超过整个2025财年的赤字，表明财政状况恶化。这可能对美元、美债收益率和风险资产（如股市）产生负面影响，投资者需关注潜在的市场波动和避险情绪。",
+      "translation": "2026财年前10个月的赤字已达到1.799万亿美元，已超过2025财年全年的1.775万亿美元赤字。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088457278928412812",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
