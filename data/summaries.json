@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "SPCX",
-      "GOOGL",
-      "AMZN",
-      "TSM"
+      "$NVDA",
+      "$AMZN",
+      "$GOOGL",
+      "$SPCX",
+      "$TSM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "宏观经济风险与财政赤字",
-      "AI投资热潮与估值担忧",
-      "大型基金持仓变动",
-      "地缘政治紧张局势",
-      "消费与劳动力市场疲软"
+      "宏观经济悲观预期",
+      "AI泡沫担忧",
+      "地缘政治风险加剧",
+      "财政与债务恶化",
+      "消费压力上升"
     ],
-    "recent_shift": "近期观点从乐观转向谨慎，突出财政赤字、地缘政治风险及AI估值泡沫担忧。",
+    "recent_shift": "近期更加强调经济放缓、政府债务和AI泡沫风险，同时关注地缘冲突升级。",
     "representative_quotes": [
       "The deficit for the first 10 months of fiscal 2026 reached $1.799 trillion, already exceeding the $1.775 trillion deficit recorded for all of fiscal 2025.",
-      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\"",
-      "Apollo Slok's has said that that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’"
+      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,”",
+      "As KPMG chief economist Diane Swonk put it, ‘Growth and labor market outcomes have decoupled.’"
     ],
-    "generated_at": "2026-08-15T08:52:25.751676+00:00"
+    "generated_at": "2026-08-15T10:45:35.981796+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

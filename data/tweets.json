@@ -177,6 +177,25 @@
     }
   },
   {
+    "tweet_id": "2088399769060479488",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The median rent sits at $5,295, up 6% from last July, though it held flat month over month after climbing 3% in both June and July from May's previous record of $5,125.\n\nRead more: https://t.co/5PK2Ww0S4P",
+    "tweet_url": "https://x.com/unusual_whales/status/2088399769060479488",
+    "published_at": "2026-08-14T22:58:00+00:00",
+    "fetched_at": "2026-08-15T10:45:27.863903+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了美国房地产市场的租金数据，显示租金同比上涨6%，环比持平，但未涉及具体股票或投资建议。对房地产投资信托（REITs）等资产可能有间接影响，但信息本身不构成直接的投资信号。",
+      "translation": "7月份的租金中位数为5295美元，比去年7月上涨6%，但环比持平，此前在6月和7月连续上涨3%，打破了5月份创下的5125美元纪录。阅读更多：https://t.co/5PK2Ww0S4P",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088393308204888411",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
