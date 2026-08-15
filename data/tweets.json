@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2088611917417869693",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has updated its GEX tool.   \n\nSee where dealers must hedge, as well as market maker positioning visualized. \n\n It is a must have tool.   \n\nSee more: https://t.co/rcc3pEbEwP https://t.co/0M0FCATPnw",
+    "tweet_url": "https://x.com/unusual_whales/status/2088611917417869693",
+    "published_at": "2026-08-15T13:01:00+00:00",
+    "fetched_at": "2026-08-15T13:05:03.883482+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文介绍了Unusual Whales更新了其GEX（Gamma Exposure）工具，该工具可直观展示做市商的对冲需求和持仓情况，对期权交易者具有参考价值。但推文本身并未给出具体投资建议或方向性判断。",
+      "translation": "Unusual Whales更新了其GEX工具。查看做市商必须在何处对冲，以及做市商持仓的可视化。这是一个必备工具。查看更多：https://t.co/rcc3pEbEwP https://t.co/0M0FCATPnw",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088501133543407959",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -2043,6 +2062,25 @@
       "summary": "挪威主权财富基金警告股市上涨不可持续，暗示未来市场可能回调，投资者需警惕风险。",
       "translation": "挪威主权财富基金表示，股市的上涨不会持续。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2087543880044466197",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Manhattan rents reach all-time high of $6,655/month, per NYP",
+    "tweet_url": "https://x.com/unusual_whales/status/2087543880044466197",
+    "published_at": "2026-08-12T14:17:00+00:00",
+    "fetched_at": "2026-08-15T13:05:16.628079+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "曼哈顿租金创新高，反映通胀压力持续，可能对房地产和消费板块构成压力，但未提及具体股票。",
+      "translation": "据纽约邮报报道，曼哈顿租金达到历史新高，每月6655美元。",
+      "confidence": "medium"
     }
   },
   {
