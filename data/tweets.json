@@ -9778,6 +9778,25 @@
     }
   },
   {
+    "tweet_id": "2082701995341975887",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "上个月的股神名单，如今只剩一人存活 https://t.co/ckIiugE2h9",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2082701995341975887",
+    "published_at": "2026-07-30T05:37:05+00:00",
+    "fetched_at": "2026-08-15T07:04:47.217917+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到上个月的股神名单目前仅剩一人，暗示市场波动剧烈，多数前期热门股或投资策略已失效，提醒投资者谨慎对待短期市场热点。",
+      "translation": "上个月的股神名单，如今只剩一人存活。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2082655166801588507",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

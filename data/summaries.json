@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "LITE",
       "AAOI",
+      "LITE",
       "COHR",
-      "MTSI"
+      "NBIS"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施和光互连瓶颈",
-      "中美供应链脱钩和国内替代",
-      "半导体材料与光电子器件投资",
-      "内存和HBM结构性短缺",
-      "人形机器人和AI数据中心扩建"
+      "AI基础设施",
+      "光通信瓶颈",
+      "记忆体短缺",
+      "供应链瓶颈",
+      "CPO/硅光子"
     ],
-    "recent_shift": "近期观点从对市场调整的担忧转向强调基本面强劲和需求超出供应，更加坚定看多AI硬件和光电子板块。",
+    "recent_shift": "从讨论宏观市场回调转变为强调基本面强劲和财报验证，强调需求超预期和供应链紧缩。",
     "representative_quotes": [
-      "CW lasers demand ramp second half of 2027, Extreme demand imbalance for UHP CW laser capacity surprised Lumentum, UHP lasers commands very high margins and is able to price up CW laser capacity.",
-      "AAOI not meaningfully participating in CPO first-gen deployments... CPO first-gen laser deployments, might even be narrowed down further for Western players like SIVE, LITE, AVGO, and COHR.",
-      "I can't tell others what to do: But $AAOI at $140 and $AAOI at $75 are the same company. Samsung at a $1.5T MC and Samsung at a $980B MC are the same company. Just valuations and narratives (often noise) change, and markets rotate from sector to sector."
+      "CW laser scarcity is already happening before the main volume ramp even begins...",
+      "But basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials.",
+      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings."
     ],
-    "generated_at": "2026-08-15T05:48:34.770258+00:00"
+    "generated_at": "2026-08-15T07:05:24.043447+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
