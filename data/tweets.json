@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2088642117442720003",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "t's here.  \n\nThis will change how you engage with the stock market.  \n\nGet the automations you want, for the tickers you want, with the information you want.  \n\nAll how you want it.  \n\nCheck out AI automations with Unusual Whales.  \n\nSee more: https://t.co/oiANAmHUJ4 https://t.co/dniwVCCG7B",
+    "tweet_url": "https://x.com/unusual_whales/status/2088642117442720003",
+    "published_at": "2026-08-15T15:01:00+00:00",
+    "fetched_at": "2026-08-15T16:12:46.475914+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文宣传Unusual Whales推出的AI自动化功能，旨在让用户自定义股票市场相关信息和自动化操作。虽涉及股票市场工具，但未提供具体投资建议或分析。",
+      "translation": "它来了。这将改变你参与股市的方式。获得你想要的自动化，针对你想要的股票代码，提供你想要的信息。一切如你所愿。看看Unusual Whales的AI自动化。更多信息：https://t.co/oiANAmHUJ4",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088627017264636171",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
