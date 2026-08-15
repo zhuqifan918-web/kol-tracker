@@ -38,6 +38,25 @@
     }
   },
   {
+    "tweet_id": "2088468472179105947",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "53% of Americans now list grocery costs as a major source of stress, surpassing concerns about rent, health care, and student loans.\n\nRead more: https://t.co/VivU9Pq5CZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2088468472179105947",
+    "published_at": "2026-08-15T03:31:00+00:00",
+    "fetched_at": "2026-08-15T08:52:05.022856+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美国消费者面临食品杂货成本压力，可能影响消费支出和通胀预期，对零售和消费品行业有潜在影响。但没有直接提及具体投资标的或市场方向。",
+      "translation": "53%的美国人现在将食品杂货成本列为主要的压力来源，超过了房租、医疗保健和学生贷款的担忧。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088457278928412812",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
