@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2088717613602083302",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Thousands of customer service jobs have been eliminated due to AI, with Microsoft, $MSFT, cutting its support workforce from 50,000 to 40,000, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2088717613602083302",
+    "published_at": "2026-08-15T20:01:00+00:00",
+    "fetched_at": "2026-08-15T20:11:26.914658+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bearish",
+      "summary": "微软因AI削减客服岗位，从5万减至4万，反映AI对就业的冲击，可能影响短期市场情绪，但对公司长期成本效率有正面作用，需综合评估。",
+      "translation": "据彭博社报道，由于AI的应用，数千个客服岗位被淘汰，微软（$MSFT）将其支持团队从5万人削减至4万人。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088657217176093154",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
