@@ -120,6 +120,25 @@
     }
   },
   {
+    "tweet_id": "2088414868705546662",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "As KPMG chief economist Diane Swonk put it, ‘Growth and labor market outcomes have decoupled.’\n\nRead more: https://t.co/8PbS21nP1S",
+    "tweet_url": "https://x.com/unusual_whales/status/2088414868705546662",
+    "published_at": "2026-08-14T23:58:00+00:00",
+    "fetched_at": "2026-08-15T06:20:42.156201+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用KPMG首席经济学家的话，指出经济增长与劳动力市场表现脱钩，暗示宏观经济数据可能无法全面反映就业状况，对投资决策有间接影响，但未提供具体投资建议。",
+      "translation": "正如毕马威首席经济学家黛安·斯旺克所言，‘经济增长和劳动力市场结果已经脱钩。’",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2088408073950159351",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
