@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2088824821115425137",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jane Street lost $15 billion in its first down month in a decade, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2088824821115425137",
+    "published_at": "2026-08-16T03:07:00+00:00",
+    "fetched_at": "2026-08-16T03:25:10.508258+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "报道称Jane Street遭遇十年来首次月度亏损，亏损额达150亿美元，这反映了市场波动加剧，可能对市场情绪产生负面影响。",
+      "translation": "据CNBC报道，Jane Street在其十年来的第一个亏损月份中损失了150亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088747812771225823",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
