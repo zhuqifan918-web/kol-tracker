@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "AAOI",
+      "SIVE",
       "LITE",
-      "COHR",
-      "NBIS"
+      "NBIS",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施",
-      "光通信瓶颈",
-      "记忆体短缺",
-      "供应链瓶颈",
-      "CPO/硅光子"
+      "AI算力基础设施的持续扩张与上游供应链瓶颈",
+      "光模块与CPO（共封装光学）技术的快速发展",
+      "内存（HBM/DRAM/NAND）供需紧平衡",
+      "中美科技竞争与供应链安全",
+      "机器人（人形）产业的投资机会"
     ],
-    "recent_shift": "从讨论宏观市场回调转变为强调基本面强劲和财报验证，强调需求超预期和供应链紧缩。",
+    "recent_shift": "近期观点未出现明显转向，仍维持对AI供应链瓶颈和光通信赛道的强烈看多，并认为市场回调是买入机会。",
     "representative_quotes": [
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "But basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials.",
-      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings."
+      "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life.",
+      "I think Optimus will be the biggest product ever.",
+      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade."
     ],
-    "generated_at": "2026-08-15T07:05:24.043447+00:00"
+    "generated_at": "2026-08-16T04:06:18.232190+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
