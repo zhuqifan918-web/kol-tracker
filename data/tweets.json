@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2088865695320928754",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "牛栏山酒厂母公司顺鑫农业的排卵区粪腾了。\n全是牛来喊公司改名牛栏山😂 https://t.co/HsuOUXBKAa",
+    "tweet_url": "https://x.com/xiaomustock/status/2088865695320928754",
+    "published_at": "2026-08-16T05:49:25+00:00",
+    "fetched_at": "2026-08-16T05:51:00.784694+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "000860"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及顺鑫农业（牛栏山酒厂母公司）的股票，因网友热议公司改名牛栏山而受到关注，但未明确表达看多或看空观点。",
+      "translation": "牛栏山酒厂的母公司顺鑫农业的排卵区粪腾了（可能指股价波动或网友热议）。全是牛来喊公司改名牛栏山😂",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088860816561082475",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "差点我这艺术创作收不回来成本😂\n买了一组从跌停板爆拉到涨停板，\n再跌到跌停板的《牛来》座位票 https://t.co/1pQmB5K36g",
+    "tweet_url": "https://x.com/xiaomustock/status/2088860816561082475",
+    "published_at": "2026-08-16T05:30:02+00:00",
+    "fetched_at": "2026-08-16T05:50:59.210675+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "发布者提到自己购买了一种名为《牛来》的艺术品座位票，该票经历了从跌停到涨停再跌停的剧烈波动，暗示了市场的高风险性，同时以艺术创作的形式表达了投资成本的损失，透露出对市场波动性的感慨。",
+      "translation": "差点我这艺术创作收不回来成本😂 买了一组从跌停板爆拉到涨停板，再跌到跌停板的《牛来》座位票",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088835269013483637",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
