@@ -310,6 +310,25 @@
     }
   },
   {
+    "tweet_id": "2088793111241580823",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "71% say Trump hasn't gone far enough in trying to reduce the price of everyday goods, up from 58% a year ago, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2088793111241580823",
+    "published_at": "2026-08-16T01:01:00+00:00",
+    "fetched_at": "2026-08-16T23:11:26.660360+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文反映美国民众对通胀和物价高企的不满情绪上升，可能影响消费者信心和支出，对消费类股票和整体市场情绪构成潜在压力。但未提及具体投资标的或交易建议。",
+      "translation": "71%的人表示，认为特朗普在降低日常商品价格方面做得还不够，这一比例高于一年前的58%（据CNN报道）。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088778011734949991",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
