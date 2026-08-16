@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
+      "AAOI",
       "LITE",
-      "NBIS",
-      "COHR"
+      "SMCI",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力基础设施的持续扩张与上游供应链瓶颈",
-      "光模块与CPO（共封装光学）技术的快速发展",
-      "内存（HBM/DRAM/NAND）供需紧平衡",
-      "中美科技竞争与供应链安全",
-      "机器人（人形）产业的投资机会"
+      "AI基础设施投资热潮",
+      "光通信瓶颈（CW激光器、InP基板）",
+      "CPO（共封装光学）技术推进",
+      "内存市场结构性紧缺",
+      "美国供应链政策影响"
     ],
-    "recent_shift": "近期观点未出现明显转向，仍维持对AI供应链瓶颈和光通信赛道的强烈看多，并认为市场回调是买入机会。",
+    "recent_shift": "近期观点更加聚焦于短期市场波动带来的机会，并强调基本面未变，看好未来几个季度业绩增长",
     "representative_quotes": [
-      "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life.",
-      "I think Optimus will be the biggest product ever.",
-      "Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade."
+      "I'll be honest I'm not familiar with polysilicon or solar supply chains but I'm reading into it now. There's another claim around the same time that Musk has finalized equipment contracts for 400,000 metric tons of polysilicon capacity for $TSLA and $SPCX as well, which came about the same time.",
+      "Extreme demand imbalance for UHP CW laser capacity surprised Lumentum. CW laser scarcity is already happening before the main volume ramp even begins...",
+      "That timeline is also interesting when they announced a plan to co-build $SPCX + xAI DCs 'within a year' back in June.. But if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER)."
     ],
-    "generated_at": "2026-08-16T04:06:18.232190+00:00"
+    "generated_at": "2026-08-16T08:17:49.510624+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

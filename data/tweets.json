@@ -1,5 +1,35 @@
 [
   {
+    "tweet_id": "2088900339974246545",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Im typing this out as I eat ramen but just my current thoughts on “larger” names I like:\n\n1. AlChip - $AMZN Trainium ramp right about now\n\n2. $JBL - 1.6T LRO optical transceiver ramp and continued cycles should bring some surprise blended margin upside.\n\n3. $SNDK - investor conference really cemented itself as durable + high margin revenue for next few years\n\n4. $RDDT - now in S&P 500, this has always just been printing money quarter after quarter\n\n5. $TSM - center of AI buildout basically.\n\n6. $AMD - Helios + CPUs should bring another inflection point + copying your Nvidia-like Neocloud flywheel helps too (fundraise into buying AMD gpus)\n\n7. $AMKR - pretty backstopped growth with $NVDA + $TSM contracts\n\n8. $SMCI - ~$70B revenue ramp for 2027 is pretty insane.\n\n9. Samsung - most profitable company in the world right now…\n\n10. $GFS - US Gov took a material stake in it recently, and I do think CPO will help with revenue acceleration again.\n\nCan’t give folks advice on what to buy or how to position unfortunately, this is just my personal list. There’s a few more on top obviously.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2088900339974246545",
+    "published_at": "2026-08-16T08:07:05+00:00",
+    "fetched_at": "2026-08-16T08:17:12.657722+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN",
+        "JBL",
+        "SNDK",
+        "RDDT",
+        "TSM",
+        "AMD",
+        "AMKR",
+        "SMCI",
+        "Samsung",
+        "GFS"
+      ],
+      "direction": "bullish",
+      "summary": "作者以个人视角列出了他看好的大型科技股，包括亚马逊（AI芯片）、JBL（光模块）、SNDK（高利润存储）、RDDT（持续盈利）、TSM（AI核心）、AMD（新增长点）、AMKR（受NVDA和TSM合同支持）、SMCI（高营收增长）、三星（全球最盈利公司）以及GFS（美国政府持股+CPO加速）。整体观点偏乐观。",
+      "translation": "在我吃拉面的时候打出这段话，但只是我对一些“较大”公司目前的看法：\n\n1. 亚马逊 - Trainium芯片刚刚开始放量\n2. JBL - 1.6T LRO光模块的放量以及持续的周期应该会带来一些意外的混合利润率提升。\n3. 闪迪 - 投资者会议确实巩固了其未来几年持久且高利润的收入。\n4. Reddit - 现在已纳入标普500，这个公司一直一个季度接一个季度地印钱。\n5. 台积电 - 基本上是人工智能建设的中枢。\n6. AMD - Helios和CPU应该会带来另一个拐点，而且模仿英伟达式的Neocloud飞轮也有帮助（融资买AMD显卡）。\n7. 安靠 - 增长有英伟达和台积电的合同做后盾。\n8. 超微电脑 - 2027年约700亿美元的收入增长相当惊人。\n9. 三星 - 目前世界上最赚钱的公司……\n10. 格芯 - 美国政府最近获得了实质性股份，而且我认为CPO将再次帮助加速收入增长。\n\n很遗憾，我不能给大家提供买什么或如何配置的建议，这只是我的个人清单。显然，上面还有一些更好的选择。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088865695320928754",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -213,6 +243,25 @@
       "direction": "neutral",
       "summary": "推文介绍了Unusual Whales更新了其GEX（Gamma Exposure）工具，该工具可直观展示做市商的对冲需求和持仓情况，对期权交易者具有参考价值。但推文本身并未给出具体投资建议或方向性判断。",
       "translation": "Unusual Whales更新了其GEX工具。查看做市商必须在何处对冲，以及做市商持仓的可视化。这是一个必备工具。查看更多：https://t.co/rcc3pEbEwP https://t.co/0M0FCATPnw",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088577870386081870",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit 白毛股神 七月之後都亂了節奏 可以給散戶一些建議嗎？從頭開始 現在適合持有哪些標的？不去要都是高風險標的 多一些穩健型標的",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2088577870386081870",
+    "published_at": "2026-08-15T10:45:42+00:00",
+    "fetched_at": "2026-08-16T08:17:17.269785+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文询问投资建议，希望获得稳健型投资标的，未提及具体股票或市场方向，因此投资相关性较低，方向中性。",
+      "translation": "@aleabitoreddit 白毛股神，七月之后节奏都乱了，能给散户一些建议吗？从头开始，现在适合持有哪些标的？不要都是高风险标的，多一些稳健型标的。",
       "confidence": "medium"
     }
   },
