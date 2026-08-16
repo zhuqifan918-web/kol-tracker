@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LITE",
-      "$COHR",
-      "$NVDA"
+      "SIVE",
+      "AAOI",
+      "LITE",
+      "NVDA",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与光通信瓶颈",
-      "CPO（共封装光学）与激光器供应链",
-      "半导体材料与内存短缺",
-      "机器人产业与IPO",
-      "地缘政治与供应链转移"
+      "光通信与激光器瓶颈",
+      "CPO（共封装光学）",
+      "AI基础设施需求",
+      "半导体上游供应链",
+      "存储器与内存"
     ],
-    "recent_shift": "近期观点强调AI需求持续强劲，市场回调被视作过度去杠杆，而非基本面恶化。",
+    "recent_shift": "近期观点更为乐观，强调从激光器到内存的瓶颈将持续存在，并看好AI基建的长期需求。",
     "representative_quotes": [
-      "CW lasers demand ramp second half of 2027; Extreme demand imbalance for UHP CW laser capacity surprised Lumentum.",
-      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
-      "My 'bottleneck' thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory... Gets rerated when their inflection period hits."
+      "CW laser scarcity is already happening before the main volume ramp even begins...",
+      "The demand signal has increased, and we are very much further behind relative to our ability to supply.",
+      "Every layer of the AI buildout goes brrrrr, and it's showing up in earnings."
     ],
-    "generated_at": "2026-08-16T11:42:26.194061+00:00"
+    "generated_at": "2026-08-16T18:57:23.435842+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
