@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "SPCX",
       "NVDA",
       "AMZN",
       "GOOGL",
-      "AMD"
+      "AMD",
+      "SPY"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技股投资",
-      "对冲基金13F持仓动向",
-      "宏观经济与财政政策",
-      "市场风险管理"
+      "AI与数据中心",
+      "市场中性信号与对冲基金动向",
+      "宏观经济与通胀",
+      "地缘政治风险",
+      "盈利与估值"
     ],
-    "recent_shift": "近期关注点从宏观风险转向AI驱动的增长机会，同时对市场泡沫保持警惕。",
+    "recent_shift": "近期更加关注AI对就业和市场的双刃剑效应，以及地缘政治紧张对能源和航运的影响。",
     "representative_quotes": [
-      "We have launched the free trial of the Unusual Whales API. The Unusual Whales API gives full access to live options, equities, prediction market data, congress trades and much more.",
-      "BREAKING: 13Fs are coming out. Unusual Whales gets them as soon as they do. Get updated right from the source.",
-      "Market sentiment is in GREED."
+      "AI companies are recruiting electricians and carpenters by the thousands.",
+      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly.",
+      "Earnings are growing faster than stock prices, per Bloomberg."
     ],
-    "generated_at": "2026-08-16T14:13:26.269206+00:00"
+    "generated_at": "2026-08-16T15:11:55.257940+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
