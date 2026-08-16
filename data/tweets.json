@@ -1,5 +1,30 @@
 [
   {
+    "tweet_id": "2088947694886920409",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I feel like AI investing is simpler than what people expect. \n\nBecause $NVDA + Jensen literally tells everyone what's coming. \n\nBut somehow. Almost every. single. time. Markets dismiss it until it actually happens? \n\nBe Nvidia in 2025:  Buys up EML and laser capacity. \n\nMarkets dismissing it: \"Photonics is a bubble and like quantum! ____ company is a scam with shady management\" \n\n1 year later: $LITE +678%, $AAOI +475.12%, $COHR +260.7%, $AXTI +3,843.9%.\n\n_\n\nNvidia in 2026: \n\nBuys up CW/EML capacity with LTAs. 800V shift. Extraordinary explicit about CPO shift. States Physical AI as the next theme. \n\nMarkets now: \"CW players are meme stocks! 800v, CPO is not coming anytime soon, Humanoids are not profitable!\" \n\nYeah... We'll see what happens in 2027. \n\nI think I'm putting my money on Jensen/Nvidia as the leading indicator.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2088947694886920409",
+    "published_at": "2026-08-16T11:15:15+00:00",
+    "fetched_at": "2026-08-16T11:41:52.976833+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "LITE",
+        "AAOI",
+        "COHR",
+        "AXTI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为英伟达的采购和战略指引是行业领先指标，市场经常低估其暗示的投资机会。作者看好光通信、CPO和物理AI相关公司，并预期这些领域将在未来实现显著增长。",
+      "translation": "我感觉AI投资比人们预期的要简单。因为$NVDA和Jensen基本上告诉了大家即将发生的事情。但不知为何，几乎每一次市场都对此不屑一顾，直到事情真正发生？看看英伟达在2025年：买下了EML和激光产能。市场对此不屑一顾：“光子学是一个泡沫，就像量子！____公司是骗子，管理层可疑。”一年后：$LITE上涨678%，$AAOI上涨475.12%，$COHR上涨260.7%，$AXTI上涨3843.9%。英伟达在2026年：通过LTA买下CW/EML产能。800V转变。对CPO转型异常明确。将物理AI列为下一个主题。市场现在：“CW股票是meme股！800V、CPO不会很快到来，人形机器人不赚钱！”是的……我们拭目以待2027年会发生什么。我想我会把钱押在Jensen/英伟达作为领先指标上。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2088900339974246545",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LITE",
-      "SMCI",
-      "SNDK"
+      "$SIVE",
+      "$AAOI",
+      "$LITE",
+      "$COHR",
+      "$NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资热潮",
-      "光通信瓶颈（CW激光器、InP基板）",
-      "CPO（共封装光学）技术推进",
-      "内存市场结构性紧缺",
-      "美国供应链政策影响"
+      "AI基础设施与光通信瓶颈",
+      "CPO（共封装光学）与激光器供应链",
+      "半导体材料与内存短缺",
+      "机器人产业与IPO",
+      "地缘政治与供应链转移"
     ],
-    "recent_shift": "近期观点更加聚焦于短期市场波动带来的机会，并强调基本面未变，看好未来几个季度业绩增长",
+    "recent_shift": "近期观点强调AI需求持续强劲，市场回调被视作过度去杠杆，而非基本面恶化。",
     "representative_quotes": [
-      "I'll be honest I'm not familiar with polysilicon or solar supply chains but I'm reading into it now. There's another claim around the same time that Musk has finalized equipment contracts for 400,000 metric tons of polysilicon capacity for $TSLA and $SPCX as well, which came about the same time.",
-      "Extreme demand imbalance for UHP CW laser capacity surprised Lumentum. CW laser scarcity is already happening before the main volume ramp even begins...",
-      "That timeline is also interesting when they announced a plan to co-build $SPCX + xAI DCs 'within a year' back in June.. But if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER)."
+      "CW lasers demand ramp second half of 2027; Extreme demand imbalance for UHP CW laser capacity surprised Lumentum.",
+      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
+      "My 'bottleneck' thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory... Gets rerated when their inflection period hits."
     ],
-    "generated_at": "2026-08-16T08:17:49.510624+00:00"
+    "generated_at": "2026-08-16T11:42:26.194061+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
