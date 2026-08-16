@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089064901981417811",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ray Dalio: We are past the point of no return.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089064901981417811",
+    "published_at": "2026-08-16T19:01:00+00:00",
+    "fetched_at": "2026-08-16T19:13:35.414065+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "雷·达利欧认为已越过不可逆转的临界点，暗示经济或市场前景悲观。但未具体提及资产类别或标的，属于宏观警示而非具体投资建议。",
+      "translation": "雷·达利欧：我们已经越过了不可逆转的临界点。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089057857652338993",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -268,6 +287,25 @@
       "direction": "bearish",
       "summary": "报道称Jane Street遭遇十年来首次月度亏损，亏损额达150亿美元，这反映了市场波动加剧，可能对市场情绪产生负面影响。",
       "translation": "据CNBC报道，Jane Street在其十年来的第一个亏损月份中损失了150亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2088808211088548048",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "From WSJ: “The widespread popular dissatisfaction with the working of modern American capitalism may be the product of some real, objective problems in the way American capitalism is working: income and wealth inequality on a scale not seen in a century; the concentration of economic, cultural and increasingly political power in a class of technology leaders whose products are dissolving the bonds that keep society together; the tightening nexus between business elites and the people who control the political process; rampant corruption and a political establishment that doesn’t seem interested in accountability; the revival, after decades of stable prices, of inflationary pressures that are pushing the cost of living to painful levels—and not only for those with a taste for luxury burritos.”",
+    "tweet_url": "https://x.com/unusual_whales/status/2088808211088548048",
+    "published_at": "2026-08-16T02:01:00+00:00",
+    "fetched_at": "2026-08-16T19:13:40.296413+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用华尔街日报，指出美国资本主义面临诸多问题，如收入不平等、科技巨头权力集中、通货膨胀等，这些因素可能对市场情绪和投资环境产生负面影响。虽然没有具体提及股票，但整体氛围偏空，暗示投资者需警惕系统性风险。",
+      "translation": "来自《华尔街日报》：'美国现代资本主义运作方式引发的广泛民众不满，可能源于其存在的真实客观问题：收入和财富不平等达到一个世纪以来未见之程度；经济、文化乃至政治权力日益集中于科技领袖阶层，其产品正在瓦解维系社会的纽带；商业精英与控制政治进程者之间的纽带日益紧密；腐败猖獗，政治体制似乎对问责制毫无兴趣；在稳定价格数十年之后，通货膨胀压力重现，将生活成本推至令人痛苦的水平——不仅限于那些喜欢奢侈卷饼的人。'",
       "confidence": "medium"
     }
   },

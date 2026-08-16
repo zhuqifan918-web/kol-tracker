@@ -28,22 +28,22 @@
       "NVDA",
       "AMZN",
       "GOOGL",
-      "TSM",
-      "AMD"
+      "TSLA",
+      "SPCX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI与科技股",
-      "宏观经济数据",
-      "市场结构与工具"
+      "AI投资过热与泡沫风险",
+      "经济数据疲软与通胀压力",
+      "大型机构持仓动向"
     ],
-    "recent_shift": "近期更关注AI对就业和市场的冲击，以及政府政策对市场的影响，整体态度从乐观转为谨慎。",
+    "recent_shift": "近期观点转向更加谨慎，强调经济衰退风险和AI泡沫可能，同时关注政府赤字和地缘政治紧张。",
     "representative_quotes": [
-      "The stock market thinks the economy is accelerating. Don't expect jobs to follow",
-      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron",
-      "As KPMG chief economist Diane Swonk put it, ‘Growth and labor market outcomes have decoupled.’"
+      "We are past the point of no return.",
+      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
+      "BREAKING: Earnings are growing faster than stock prices, per Bloomberg."
     ],
-    "generated_at": "2026-08-16T17:11:50.511730+00:00"
+    "generated_at": "2026-08-16T19:13:47.894172+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
