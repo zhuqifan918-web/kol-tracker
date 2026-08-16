@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089034703047209271",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"THe stock market thinks the economy is accelerating. Don't expect jobs to follow,\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2089034703047209271",
+    "published_at": "2026-08-16T17:01:00+00:00",
+    "fetched_at": "2026-08-16T17:11:40.950748+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用华尔街日报的观点，指出股市认为经济在加速，但就业可能不会随之增长。这暗示市场预期与实际经济数据之间可能存在分歧，对投资者而言，需关注就业数据与股市表现的背离风险。",
+      "translation": "据《华尔街日报》报道，股市认为经济在加速。但别指望就业会跟着增长。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089019603561467937",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
