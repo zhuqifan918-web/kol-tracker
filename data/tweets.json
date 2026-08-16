@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2088989404874559976",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We have launched the free trial of the Unusual Whales API.\n\nThe Unusual Whales API gives full access to live options, equities, prediction market data, congress trades and much more.\n\nIt is a must have for traders.\n\nCheck it out here: https://t.co/JWOGQSKf9Y https://t.co/tumd8t8neT",
+    "tweet_url": "https://x.com/unusual_whales/status/2088989404874559976",
+    "published_at": "2026-08-16T14:01:00+00:00",
+    "fetched_at": "2026-08-16T14:13:13.738622+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布推出Unusual Whales API的免费试用，该API提供实时期权、股票、预测市场数据和国会交易等信息。这对交易者而言是一个有用的工具，但并未对任何特定资产提出投资建议。",
+      "translation": "我们已推出Unusual Whales API的免费试用。该API提供实时期权、股票、预测市场数据、国会交易等完整访问权限。这是交易者的必备工具。在此查看：https://t.co/JWOGQSKf9Y https://t.co/tumd8t8neT",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088974305313038688",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
