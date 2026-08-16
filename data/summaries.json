@@ -27,23 +27,23 @@
     "focus_tickers": [
       "NVDA",
       "AMZN",
-      "AAPL",
       "GOOGL",
-      "TSLA"
+      "TSM",
+      "AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能对就业和市场的影响",
-      "市场波动与经济数据",
-      "大型投资机构和知名投资者的持仓变动"
+      "AI与科技股",
+      "宏观经济数据",
+      "市场结构与工具"
     ],
-    "recent_shift": "近期关注点从单一公司财报转向宏观经济数据、AI对就业的冲击以及地缘政治风险，偏中性态度。",
+    "recent_shift": "近期更关注AI对就业和市场的冲击，以及政府政策对市场的影响，整体态度从乐观转为谨慎。",
     "representative_quotes": [
-      "\"Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has 'shades of Enron,' per YF\"",
-      "\"Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly\"",
-      "\"BREAKING: Earnings are growing faster than stock prices, per Bloomberg.\""
+      "The stock market thinks the economy is accelerating. Don't expect jobs to follow",
+      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron",
+      "As KPMG chief economist Diane Swonk put it, ‘Growth and labor market outcomes have decoupled.’"
     ],
-    "generated_at": "2026-08-16T16:13:03.839203+00:00"
+    "generated_at": "2026-08-16T17:11:50.511730+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
