@@ -26,24 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "AMZN",
       "GOOGL",
-      "TSLA",
-      "SPCX"
+      "AMZN",
+      "AMD",
+      "TSM"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI投资过热与泡沫风险",
-      "经济数据疲软与通胀压力",
-      "大型机构持仓动向"
+      "经济衰退与就业市场疲软",
+      "AI泡沫与科技股风险",
+      "通胀与生活成本上升",
+      "政府债务与财政赤字",
+      "地缘政治紧张"
     ],
-    "recent_shift": "近期观点转向更加谨慎，强调经济衰退风险和AI泡沫可能，同时关注政府赤字和地缘政治紧张。",
+    "recent_shift": "近期言论更偏向悲观，强调经济数据疲软、市场与基本面脱钩，并对AI领域高估值表示担忧。",
     "representative_quotes": [
       "We are past the point of no return.",
-      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
-      "BREAKING: Earnings are growing faster than stock prices, per Bloomberg."
+      "The stock market thinks the economy is accelerating. Don't expect jobs to follow.",
+      "Michael Burry has doubled down on his Nvidia short, warning its $500 billion AI deal has 'shades of Enron'."
     ],
-    "generated_at": "2026-08-16T19:13:47.894172+00:00"
+    "generated_at": "2026-08-16T20:44:41.170318+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

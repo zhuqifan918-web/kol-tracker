@@ -367,6 +367,25 @@
     }
   },
   {
+    "tweet_id": "2088732713268170995",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "74% of Americans say rising gas prices have caused them at least some hardship, up from 63% in March, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2088732713268170995",
+    "published_at": "2026-08-15T21:01:00+00:00",
+    "fetched_at": "2026-08-16T20:44:36.372144+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "油价上涨导致更多美国人面临经济困难，这可能抑制消费支出，但对能源股和通胀相关资产（如大宗商品）可能构成利好。投资者可关注能源板块及通胀对冲资产。",
+      "translation": "据CNN报道，74%的美国人表示油价上涨已经给他们带来了至少一些困难，高于3月份的63%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2088717613602083302",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
