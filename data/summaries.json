@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AMZN",
-      "GOOGL",
-      "SPCX",
-      "AMD"
+      "$NVDA",
+      "$AMZN",
+      "$GOOGL",
+      "$SPY",
+      "$TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技发展",
-      "宏观经济数据与政策",
-      "市场情绪与投资者行为",
-      "大资金持仓动向",
-      "地缘政治风险"
+      "AI对就业和劳动力市场的冲击",
+      "美股估值与市场情绪",
+      "财政赤字与政府债务",
+      "住房与生活成本压力",
+      "对冲基金持仓动向"
     ],
-    "recent_shift": "近期从关注AI机遇转向强调AI对就业和市场的冲击，以及经济数据走弱带来的风险。",
+    "recent_shift": "近期从关注市场波动转向强调AI对就业和经济的长期影响，并频繁推广自家工具。",
     "representative_quotes": [
       "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,” per YF",
-      "Growth and labor market outcomes have decoupled.",
-      "53% of Americans now list grocery costs as a major source of stress, surpassing concerns about rent, health care, and student loans."
+      "Earnings are growing faster than stock prices, per Bloomberg.",
+      "The deficit for the first 10 months of fiscal 2026 reached $1.799 trillion, already exceeding the $1.775 trillion deficit recorded for all of fiscal 2025."
     ],
-    "generated_at": "2026-08-16T13:07:51.894696+00:00"
+    "generated_at": "2026-08-16T13:50:24.872439+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
