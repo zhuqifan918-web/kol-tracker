@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "SPCX",
       "AMZN",
+      "SPCX",
       "GOOGL",
       "AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能投资与算力需求",
-      "对冲基金持仓动向（13F）",
-      "宏观经济与债务担忧",
-      "地缘政治风险（霍尔木兹海峡）",
-      "市场工具与平台推广"
+      "AI对就业的冲击",
+      "地缘政治紧张局势",
+      "高通胀和高利率",
+      "机构持仓动向",
+      "市场情绪与政府政策"
     ],
-    "recent_shift": "近期观点从宏观担忧转向关注AI与市场热点，同时频繁推广自身工具。",
+    "recent_shift": "近期更关注AI对就业和经济的负面影响，同时对地缘政治风险和市场泡沫表示担忧。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,” per YF",
-      "BREAKING: 13Fs are coming out. Unusual Whales gets them as soon as they do. Get updated right from the source. Citadel, Ackman, Bridgewater and so many more will file.",
-      "BREAKING: Fitch Ratings has affirmed US rating at AA+."
+      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
+      "BREAKING: The US federal government has posted a record July budget deficit of $432 billion",
+      "BREAKING: The White House has accused more than 40 countries, including Canada, Mexico and Japan, of helping Beijing illegally avoid US tariffs by rerouting trade through nations subject to lower American import duties than China,\" per FT"
     ],
-    "generated_at": "2026-08-16T03:25:26.747344+00:00"
+    "generated_at": "2026-08-16T06:22:35.581025+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
