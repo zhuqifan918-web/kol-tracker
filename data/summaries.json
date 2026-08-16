@@ -27,25 +27,23 @@
     "focus_tickers": [
       "NVDA",
       "AMZN",
+      "AAPL",
       "GOOGL",
-      "AMD",
-      "SPY"
+      "TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与数据中心",
-      "市场中性信号与对冲基金动向",
-      "宏观经济与通胀",
-      "地缘政治风险",
-      "盈利与估值"
+      "人工智能对就业和市场的影响",
+      "市场波动与经济数据",
+      "大型投资机构和知名投资者的持仓变动"
     ],
-    "recent_shift": "近期更加关注AI对就业和市场的双刃剑效应，以及地缘政治紧张对能源和航运的影响。",
+    "recent_shift": "近期关注点从单一公司财报转向宏观经济数据、AI对就业的冲击以及地缘政治风险，偏中性态度。",
     "representative_quotes": [
-      "AI companies are recruiting electricians and carpenters by the thousands.",
-      "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly.",
-      "Earnings are growing faster than stock prices, per Bloomberg."
+      "\"Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has 'shades of Enron,' per YF\"",
+      "\"Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly\"",
+      "\"BREAKING: Earnings are growing faster than stock prices, per Bloomberg.\""
     ],
-    "generated_at": "2026-08-16T15:11:55.257940+00:00"
+    "generated_at": "2026-08-16T16:13:03.839203+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
