@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2089452203765268657",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Tesla, $TSLA, to launch Cybercab in Austin this month, per the Information.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089452203765268657",
+    "published_at": "2026-08-17T20:40:00+00:00",
+    "fetched_at": "2026-08-17T20:50:28.695209+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "特斯拉即将在奥斯汀推出Cybercab，这标志着其自动驾驶出租车业务即将落地，可能为特斯拉带来新的收入来源，并提升市场对其未来增长潜力的预期，短期可能利好股价。",
+      "translation": "突发消息：据The Information报道，特斯拉（$TSLA）本月将在奥斯汀推出Cybercab。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089448177430663609",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Nasdaq plans to introduce an overnight trading session from 9:00 p.m. to 4:00 a.m. ET.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089448177430663609",
+    "published_at": "2026-08-17T20:24:00+00:00",
+    "fetched_at": "2026-08-17T20:50:30.694782+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "纳斯达克计划推出夜间交易时段，从晚上9点到凌晨4点。这可能增加市场流动性，但本身不构成直接的投资建议或信号。",
+      "translation": "突发新闻：纳斯达克计划推出夜间交易时段，从晚上9点到凌晨4点（美国东部时间）。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089436349451653143",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
