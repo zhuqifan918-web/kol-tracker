@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089436349451653143",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The U.S. 30-year Treasury yield has hit 5.30% for the first time since 2007",
+    "tweet_url": "https://x.com/unusual_whales/status/2089436349451653143",
+    "published_at": "2026-08-17T19:37:00+00:00",
+    "fetched_at": "2026-08-17T19:48:30.020791+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国30年期国债收益率升至5.30%，为2007年以来首次，反映出市场对长期利率上升的担忧，可能对股票等风险资产构成压力。",
+      "translation": "突发：美国30年期国债收益率自2007年以来首次升至5.30%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089426283163975902",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
