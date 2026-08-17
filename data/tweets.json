@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2089385316528607540",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "IMPORTANT: Unusual Whales and Subversive have mutually agreed to part ways with respect to Unusual Whales Subversive Democratic Trading ETF ($NANC) and the Unusual Whales Subversive Republican Trading ETF (KRUZ, now known as $GOP). \n\nUnusual Whales will no longer be part of these ETFs. We wish Subversive and its team continued success in their future endeavors.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089385316528607540",
+    "published_at": "2026-08-17T16:14:13+00:00",
+    "fetched_at": "2026-08-17T16:16:04.915885+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NANC",
+        "KRUZ",
+        "GOP"
+      ],
+      "direction": "neutral",
+      "summary": "该推文宣布Unusual Whales与Subversive在两只政治主题ETF（NANC和GOP）上的合作终止，Unusual Whales退出这两只ETF。这对ETF的运营和策略可能产生影响，但未提供明确的多空信号。",
+      "translation": "重要提示：Unusual Whales和Subversive已就Unusual Whales Subversive民主党交易ETF（$NANC）和Unusual Whales Subversive共和党交易ETF（KRUZ，现更名为$GOP）达成一致，双方将分道扬镳。Unusual Whales将不再参与这些ETF。我们祝愿Subversive及其团队在未来的事业中继续取得成功。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089380984571719882",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China's economy slows further in July as retail sales barely grow, and investment slump steepens, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2089380984571719882",
+    "published_at": "2026-08-17T15:57:00+00:00",
+    "fetched_at": "2026-08-17T16:16:06.626254+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "中国7月经济数据走弱，零售销售几乎零增长，投资大幅下滑，暗示经济下行压力加大，利空中国相关资产，如A股和港股。",
+      "translation": "据CNBC报道，随着零售销售几乎无增长、投资下滑加剧，中国经济在7月进一步放缓。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089376641445482583",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -171,6 +213,25 @@
       "direction": "bullish",
       "summary": "该推文引用彭博报道称，市场交易员认为美国财政部长贝森特将竭尽全力防止债券收益率飙升，这暗示政策可能偏向宽松，对股市构成支撑，整体市场情绪偏乐观。",
       "translation": "据彭博社报道，交易员表示，斯科特·贝森特正在发出明确信号：他将尽其所能防止债券收益率飙升。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089330653384880472",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Americans are deeply negative on the economy with nearly 8 in 10 Americans rating the economy poorly, per ABC",
+    "tweet_url": "https://x.com/unusual_whales/status/2089330653384880472",
+    "published_at": "2026-08-17T12:37:00+00:00",
+    "fetched_at": "2026-08-17T16:16:13.363696+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文显示美国民众对经济评价极差，近80%的美国人认为经济不佳，这暗示消费者信心低落，可能对市场情绪和经济增长产生负面影响。",
+      "translation": "根据ABC新闻，美国人对经济持深度负面看法，近八成美国人认为经济状况不佳。",
       "confidence": "medium"
     }
   },
