@@ -1,5 +1,48 @@
 [
   {
+    "tweet_id": "2089167231716651313",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "From BI: \"Nvidia gets paid upfront, the borrowers and their lenders carry the default risk, and because private credit is ultimately funded by ordinary savers through instruments like pension funds, the tail risk lands on households.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2089167231716651313",
+    "published_at": "2026-08-17T01:47:37+00:00",
+    "fetched_at": "2026-08-17T02:14:24.407692+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出英伟达虽然预先收到付款，但借款人和贷款人承担违约风险，而最终风险通过养老金等工具转嫁给普通家庭。这可能暗示英伟达的商业模式存在系统性风险，对投资者而言是负面信号。",
+      "translation": "来自商业内幕：英伟达提前获得付款，借款人和贷款人承担违约风险，而由于私人信贷最终通过养老金等工具由普通储户提供资金，尾部风险落在家庭身上。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089165155741622679",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. \n\nSuppliers have bluntly stated that \"even if you have the money, you still may not be able to get the material\" (lol). \n\n- Industry sources revealed that InP substrate prices began rising in Q4 last year and was the fourth consecutive substrate price hike. \n\n- The latest Q4 hike is expected to be >10%,\n\n- Meanwhile, prices for epitaxial wafers made from those substrates have already been raised two times, and the market is moving toward a 3rd consecutive increase in Q4. (I also wrote a thesis on $IQE, which benefits here too). \n\nArticle states VPEC, Landmark, IET benefits (Taiwan centric reporting). \n\nI did predict this last year... The bottleneck is real, but I do have higher expectations for price hikes that comes next. \n\nGlad it's starting to play out.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089165155741622679",
+    "published_at": "2026-08-17T01:39:22+00:00",
+    "fetched_at": "2026-08-17T02:14:02.677402+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "IQE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到磷化铟（InP）基板严重短缺导致价格大涨，预计Q4涨幅超10%，且相关外延片价格连续上调。作者看多AXTI和IQE，认为行业瓶颈将持续推动价格上涨。",
+      "translation": "严重的InP短缺引发了有史以来最大的价格上涨 - $AXTI。供应商直言不讳地表示“即使你有钱，也可能拿不到材料”（哈哈）。行业消息人士透露，InP基板价格从去年第四季度开始上涨，这是基板连续第四次涨价。最新第四季度的涨幅预计将超过10%。与此同时，用这些基板制成的外延片价格已经上调了两次，市场正向第四季度第三次上涨迈进。（我也写了一篇关于$IQE的论文，它也会受益）。文章提到VPEC、Landmark、IET获益（以台湾为中心报道）。我去年确实预测到了这一点……瓶颈是真实存在的，但我对接下来更大幅度的涨价有更高的期望。很高兴它开始兑现了。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089148883838611460",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
