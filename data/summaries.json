@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "TSLA",
+      "SPX",
       "MSFT",
-      "AMZN",
-      "GOOGL"
+      "TSLA",
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI热潮与泡沫担忧",
-      "利率与债券收益率上升",
-      "地缘政治风险（伊朗、霍尔木兹海峡）",
-      "美国经济数据疲软与消费压力",
-      "特朗普概念股与政策影响"
+      "AI泡沫风险",
+      "债券收益率上行",
+      "市场估值高企"
     ],
-    "recent_shift": "近期观点转向谨慎，开始强调AI泡沫风险和市场脆弱性。",
+    "recent_shift": "近期从对AI的乐观转向警告泡沫和估值风险，且关注债券收益率上升的负面影响。",
     "representative_quotes": [
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
       "There is a 17% chance that the US will invade Iran before 2027, per Polymarket.",
-      "AI companies are recruiting electricians and carpenters by the thousands."
+      "From WSJ: 'The widespread popular dissatisfaction with the working of modern American capitalism may be the product of some real, objective problems in the way American capitalism is working...'"
     ],
-    "generated_at": "2026-08-17T20:50:43.275834+00:00"
+    "generated_at": "2026-08-17T21:17:09.954372+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
