@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2089401117402874351",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089401117402874351",
+    "published_at": "2026-08-17T17:17:00+00:00",
+    "fetched_at": "2026-08-17T17:17:26.413907+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "Ray Dalio认为AI和股市出现了典型的泡沫迹象，市场可能重演1929年或2000年的崩盘。这暗示投资者应警惕当前估值过高，考虑风险管理。",
+      "translation": "雷·达利欧表示，他在人工智能领域看到了典型的泡沫迹象，股市看起来像1929年或2000年的上涨行情。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089396575462391874",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "What are the billionaires buying now?\n\nTake Druckenmiller's Duquesne.\n\nThey are up at least 15%.\n\nAnd have made billions in positions.\n\nSee them below. https://t.co/W92OAimHum",
+    "tweet_url": "https://x.com/unusual_whales/status/2089396575462391874",
+    "published_at": "2026-08-17T16:58:57+00:00",
+    "fetched_at": "2026-08-17T17:17:28.253371+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文提到亿万富翁的持仓动态，特别是德鲁肯米勒的杜肯资本表现强劲，上涨至少15%，并暗示其投资组合值得关注。整体传递出对跟随顶尖投资者策略的乐观情绪。",
+      "translation": "现在亿万富翁们都在买什么？看看德鲁肯米勒的杜肯资本。他们至少上涨了15%，并在仓位中赚了数十亿。下面查看他们的持仓。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089385316528607540",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
