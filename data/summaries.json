@@ -27,25 +27,25 @@
     "focus_tickers": [
       "NVDA",
       "AMZN",
-      "SPCX",
       "GOOGL",
-      "AMD"
+      "AMD",
+      "SPCX"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI泡沫与债务风险",
-      "地缘政治紧张",
-      "通胀与生活成本压力",
-      "市场结构与流动性",
-      "经济衰退担忧"
+      "AI泡沫与集中风险",
+      "债务与财政赤字扩大",
+      "消费者压力与通胀",
+      "经济与就业脱节",
+      "地缘政治紧张"
     ],
-    "recent_shift": "近期观点转向悲观，强调债务、通胀和地缘政治风险，并多次引用Michael Burry对Nvidia的看空言论。",
+    "recent_shift": "近期观点从关注AI增长转向强调AI泡沫、债务风险和消费疲软，同时担忧就业市场恶化。",
     "representative_quotes": [
-      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,” per YF",
-      "From WSJ: “The widespread popular dissatisfaction with the working of modern American capitalism may be the product of some real, objective problems in the way American capitalism is working: income and wealth inequality on a scale not seen in a century...",
-      "Ray Dalio: We are past the point of no return."
+      "From WSJ: “The widespread popular dissatisfaction with the working of modern American capitalism may be the product of some real, objective problems in the way American capitalism is working: income and wealth inequality on a scale not seen in a century; the concentration of economic, cultural and increasingly political power in a class of technology leaders whose products are dissolving the bonds that keep society together; the tightening nexus between business elites and the people who control the political process; rampant corruption and a political establishment that doesn’t seem interested in accountability; the revival, after decades of stable prices, of inflationary pressures that are pushing the cost of living to painful levels—and not only for those with a taste for luxury burritos.”",
+      "Michael Burry has said that Berkshire Hathaway is \"no longer attractive... without Buffett.\"",
+      "From BI: \"Nvidia gets paid upfront, the borrowers and their lenders carry the default risk, and because private credit is ultimately funded by ordinary savers through instruments like pension funds, the tail risk lands on households.\""
     ],
-    "generated_at": "2026-08-17T07:43:58.839073+00:00"
+    "generated_at": "2026-08-17T11:47:35.673393+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

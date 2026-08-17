@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2089315553521643974",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Big Short investor Steve Eisman has said that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2089315553521643974",
+    "published_at": "2026-08-17T11:37:00+00:00",
+    "fetched_at": "2026-08-17T11:47:12.620406+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "知名投资者Steve Eisman指出，AI热潮的成败越来越依赖于OpenAI和Anthropic两家公司，提示市场集中度风险，但未给出具体投资建议。",
+      "translation": "大空头投资者Steve Eisman表示，人工智能热潮已越来越依赖于OpenAI和Anthropic两家公司的命运，据CNBC报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2089305487376556086",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: \"The economy is doing unbelievably from the standpoint of Wall Street\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2089305487376556086",
+    "published_at": "2026-08-17T10:57:00+00:00",
+    "fetched_at": "2026-08-17T11:47:16.044236+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普称华尔街角度看经济表现极佳，暗示市场情绪乐观，利好股市整体环境，但未提及具体标的。",
+      "translation": "特朗普：从华尔街的角度来看，经济表现非常出色。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089264987328151637",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
