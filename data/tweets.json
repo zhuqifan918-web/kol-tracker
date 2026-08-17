@@ -1,5 +1,30 @@
 [
   {
+    "tweet_id": "2089183484556480536",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.\n\nIf you get Vietnam flashbacks like I do to $MU / Samsung / SK Hynix -> Legacy DRAM: \n\nMy thesis is we'll see the same thing here maybe late H2, early 2027 with consumer/broad MLCCs. \n\nFrom July 6th: \n\n\"the crowding-out effect from AI-oriented high-end MLCC production has begun spilling over into both the automotive and consumer markets.\" \n\nJuly 28th: \n\n\"AI Demand Pushes Japanese and Korean MLCC Suppliers to Record Monthly Shipments; Consumer-Grade Order Spillovers Continue to Surge\"\n\nAug 12: \n\nAs [MLCC] capacity shifts from consumer grades to AI-oriented products... (Trendforce)\n\nAug 12: \n\nChina's electronics market channel checks found 22µF and 47µF MLCCs (used more broadly) out of stock. Then found and said certain manufacturers had stopped taking orders. \n\n(for reference: Walsin said high-volume smartphone/PC products such as... 22µF, so it's broader MLCCs)\n\nObviously Samsung Electro-Mechanics/Murata are main beneficiaries of AI server MLCC ramp. \n\nBut companies with large market share of overall MLCCs like Taiyo Yuden (6976, disclosure: I have positions) with less AI server share, would be a major beneficiary of this. \n\nFun part is, we're only in H2 2026, so the next major bottleneck should be fun!",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089183484556480536",
+    "published_at": "2026-08-17T02:52:12+00:00",
+    "fetched_at": "2026-08-17T03:25:12.503806+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "Samsung",
+        "SK Hynix",
+        "Walsin",
+        "Taiyo Yuden"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为AI服务器MLCC需求正挤占消费级MLCC产能，导致消费级MLCC价格上涨或缺货，类似于2017年内存涨价周期。作者看好拥有广泛MLCC市场份额但AI服务器份额较低的公司（如Taiyo Yuden），认为它们将受益于供给紧张带来的价格提升。",
+      "translation": "我认为我们正在看到AI服务器MLCC需求引发的一个有趣效应……消费/通用型MLCC的产能正在收紧。如果你像我一样对美光/三星/海力士（传统DRAM）有越南战争式的回忆，我的论点是，我们可能在2026年下半年末或2027年初在消费/通用MLCC上看到同样的情况。从7月6日起：‘AI高端MLCC生产的挤出效应已开始蔓延到汽车和消费市场。’7月28日：‘AI需求推动日韩MLCC供应商创月度出货纪录；消费级订单溢出继续激增。’8月12日：随着MLCC产能从消费级转向AI产品……（Trendforce）。8月12日：中国电子市场渠道调查发现22µF和47µF MLCC（更广泛使用）缺货，随后发现并称部分制造商已停止接单。（参考：华新科表示高容量智能手机/PC产品如……22µF，因此这属于更广泛的MLCC）。显然，三星电机/村田是AI服务器MLCC扩张的主要受益者。但拥有整体MLCC大量市场份额、AI服务器份额较低的公司，如太阳诱电（声明：我持有仓位），将是这一趋势的主要受益者。有趣的是，我们才刚进入2026年下半年，所以下一个主要瓶颈应该会很有趣！",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089167231716651313",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -43,6 +68,25 @@
     }
   },
   {
+    "tweet_id": "2089155498993955004",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "64% of young men day trading stocks feel like failures, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2089155498993955004",
+    "published_at": "2026-08-17T01:01:00+00:00",
+    "fetched_at": "2026-08-17T03:25:32.189826+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用雅虎财经数据，指出64%的年轻男性日内交易者感到自己是失败者，反映了散户交易中的负面情绪和高失败率，可能暗示市场情绪低迷或散户参与风险。",
+      "translation": "据雅虎财经报道，64%的年轻男性日内交易者感觉自己像失败者。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089148883838611460",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -58,6 +102,25 @@
       "direction": "neutral",
       "summary": "该推文讨论了Stripe拟以70亿美元收购OpenRouter的交易，作者认为OpenRouter护城河薄弱，但拥有用户基础、数据和势头。对Stripe的这笔收购持观望态度，既非明确看好也非看空。",
       "translation": "据报道，Stripe将以70亿美元收购OpenRouter。我认为他们的编排很容易复制和切换，而且护城河非常薄弱。但目前，OpenRouter拥有用户基础、宝贵的数据集和势头。我的看法是……对这家支付公司来说是赞成还是不赞成？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089125300433236478",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US public debt has hit a record $39.8 trillion, $200 billion away from the $40 trillion.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089125300433236478",
+    "published_at": "2026-08-16T23:01:00+00:00",
+    "fetched_at": "2026-08-17T03:25:34.513014+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国公共债务逼近40万亿美元，创历史新高，可能引发市场对财政可持续性和通胀的担忧，对债券和风险资产构成潜在利空。",
+      "translation": "美国公共债务已达到创纪录的39.8万亿美元，距离40万亿美元仅差2000亿。",
       "confidence": "medium"
     }
   },
