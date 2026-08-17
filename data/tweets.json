@@ -80,6 +80,25 @@
     }
   },
   {
+    "tweet_id": "2089365633549136258",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The 60-day deadline for a U.S.-Iran agreement has officially passed without a final deal, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2089365633549136258",
+    "published_at": "2026-08-17T14:56:00+00:00",
+    "fetched_at": "2026-08-17T16:52:21.317932+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国与伊朗未能在60天期限内达成最终协议，这可能影响地缘政治风险和市场情绪，但对特定股票或加密货币没有直接指向。投资者需关注后续谈判进展和可能的制裁变化。",
+      "translation": "突发新闻：据路透社报道，美国与伊朗的60天协议期限已过，但未达成最终协议。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089360852097138847",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -251,6 +270,25 @@
       "direction": "neutral",
       "summary": "该推文提及马斯克旗下SpaceX的AI业务数据中心将使用天然气涡轮机供电，可能影响天然气需求和数据中心能源相关股票，但未提及具体投资标的或明确方向，属于行业动态而非直接投资建议。",
       "translation": "据《华尔街日报》报道，埃隆·马斯克正严重依赖天然气涡轮机为SpaceX的人工智能业务数据中心建设提供电力。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089315553710162115",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Elon Musk: AI may exceed the sum of human intelligence in about ... five years.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089315553710162115",
+    "published_at": "2026-08-17T11:37:00+00:00",
+    "fetched_at": "2026-08-17T16:52:34.485144+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "马斯克关于AI可能在五年内超越人类总智能的言论属于对AI行业未来发展的宏观判断。虽未明确指出具体公司，但此类言论通常利好AI相关科技板块，可能提升市场对AI技术加速发展的预期。",
+      "translation": "埃隆·马斯克：人工智能可能会在约五年内超越人类智能的总和。",
       "confidence": "medium"
     }
   },
