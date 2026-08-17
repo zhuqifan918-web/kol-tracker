@@ -4,24 +4,24 @@
       "SIVE",
       "LITE",
       "AAOI",
-      "COHR",
-      "TSLA"
+      "MU",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学激光器与CPO供应链瓶颈",
-      "被动元件（MLCC）供需紧张",
-      "AI基础设施投资与算力需求增长",
-      "存储芯片（HBM/DRAM/NAND）结构性短缺",
-      "人形机器人与机器人供应链"
+      "光模块与激光器瓶颈",
+      "存储芯片供不应求",
+      "AI基础设施投资持续",
+      "MLCC产能紧张",
+      "CPO与硅光子学"
     ],
-    "recent_shift": "近期观点更加强调光学激光器与CPO供应链的供需失衡，以及AI基础设施的持续扩张，同时继续看好MLCC和存储芯片的结构性短缺。",
+    "recent_shift": "观点依然强烈看多，但近期反复强调市场过度修正，并聚焦于2027年CPO、800V等新架构的催化。",
     "representative_quotes": [
-      "CW lasers are the bottleneck within a 20-40% demand imbalance for transceivers.",
-      "Be Nvidia in 2025: Buys up EML and laser capacity. Markets dismissing it: 'Photonics is a bubble...' 1 year later: $LITE +678%, $AAOI +475.12%, $COHR +260.7%, $AXTI +3,843.9%.",
-      "Hard to see those memory 'oversupply' claims in early-mid 2027 when they're all sold out of capacity already."
+      "Lumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers.",
+      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.",
+      "SK Hynix, $MU, and Samsung have sold out of 2027 capacity for DRAM/HBM."
     ],
-    "generated_at": "2026-08-17T03:25:52.346558+00:00"
+    "generated_at": "2026-08-17T08:32:08.032580+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [

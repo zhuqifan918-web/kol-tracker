@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2089264987328151637",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. \n\nPhison CEO: \"2027 capacity constraints will be even more severe than in 2026.\"\n\n\"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual production.\n\nWith demand growing explosively and supply expansion limited, the NAND shortage is likely to last for years.\"\n\nDon't quite think I agree with the people claiming it's all over for memory, esp. NAND bottlenecks in 2026...",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089264987328151637",
+    "published_at": "2026-08-17T08:16:04+00:00",
+    "fetched_at": "2026-08-17T08:31:30.784698+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK",
+        "SKHY",
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "该推文引用Phison CEO观点，指出NAND供应短缺将持续多年，2026年内存行业并非悲观，2027年产能限制更严重，看好NAND相关股票（如SNDK、SKHY、MU）的长期前景。",
+      "translation": "这只是为了提供更多的需求失衡可见性，涉及$SNDK、$SKHY、$MU、Kioxia以及你的NAND厂商。Phison CEO表示：“2027年的产能限制将比2026年更加严重。” “上游供应商从工厂建设和设备投资到实际生产需要长达4年的时间。在需求爆发式增长而供应扩张有限的情况下，NAND短缺可能会持续多年。” 我不同意那些声称内存行业（尤其是NAND）已经结束的人，2026年的瓶颈还在等着呢……",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089226437320753320",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
