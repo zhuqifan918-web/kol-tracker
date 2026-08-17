@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2089370918523191579",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran says an agreement with Oman on shipping through the Strait of Hormuz is nearly finalized.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089370918523191579",
+    "published_at": "2026-08-17T15:17:00+00:00",
+    "fetched_at": "2026-08-17T15:17:38.359498+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "伊朗与阿曼即将就霍尔木兹海峡航运达成协议，可能降低该区域地缘政治风险，对全球油运和能源市场有潜在影响，但未直接提及具体投资标的，方向偏中性。",
+      "translation": "伊朗表示，与阿曼就霍尔木兹海峡航运达成的协议已接近完成。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089360852097138847",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The S&amp;P500 could hit 9000 in 12 months, per Evercore",
+    "tweet_url": "https://x.com/unusual_whales/status/2089360852097138847",
+    "published_at": "2026-08-17T14:37:00+00:00",
+    "fetched_at": "2026-08-17T15:17:40.717354+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及Evercore预测标普500指数在未来12个月可能达到9000点，表达了看涨的市场预期。这对美股投资者而言可能是一个积极的信号，但需注意这是机构预测而非事实。",
+      "translation": "据Evercore预测，标普500指数在12个月内可能达到9000点。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089359741269025016",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A great morning trading $SPX gamma exposure and futures on WhaleWatch!\n\nFor one more hour, join in for flow reviews while our hosts carve it up!\n\nhttps://t.co/GGLSn9zHeL",
+    "tweet_url": "https://x.com/unusual_whales/status/2089359741269025016",
+    "published_at": "2026-08-17T14:32:35+00:00",
+    "fetched_at": "2026-08-17T15:17:42.652579+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到在WhaleWatch平台上交易SPX伽马敞口和期货，并邀请用户参与流量分析直播。这属于市场交易工具推广，未给出明确的多空观点。",
+      "translation": "在WhaleWatch上交易标普500伽马敞口和期货，今天早上心情不错！还有一小时，加入我们的流量回顾直播，主持人将为您剖析！https://t.co/GGLSn9zHeL",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089355682286092748",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -212,6 +271,25 @@
       "summary": "该推文提及Polymarket预测市场显示美国在2027年前入侵伊朗的概率为17%，属于地缘政治风险类信息，虽不直接涉及具体投资标的，但可能影响市场情绪和风险偏好，投资者可关注其对油价、黄金及国防板块的潜在影响。",
       "translation": "根据Polymarket的数据，美国在2027年前入侵伊朗的可能性为17%。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2089223648083374112",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 17% chance that the US will invade Iran before 2027, per Polymarket.\n\nSee more: https://t.co/JZJyK3cPIo",
+    "tweet_url": "https://x.com/unusual_whales/status/2089223648083374112",
+    "published_at": "2026-08-17T05:31:48+00:00",
+    "fetched_at": "2026-08-17T15:17:55.064866+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推特内容引用Polymarket数据，指出美国在2027年前入侵伊朗的概率为17%。此信息涉及地缘政治风险，可能影响市场情绪和避险资产，但未提及具体投资建议。",
+      "translation": "据Polymarket数据，美国在2027年前入侵伊朗的可能性为17%。\n\n查看更多：https://t.co/JZJyK3cPIo",
+      "confidence": "medium"
     }
   },
   {
