@@ -2,26 +2,24 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
+      "NVDA",
       "AAOI",
       "LITE",
-      "NVDA",
       "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信与激光器瓶颈",
-      "CPO（共封装光学）",
-      "AI基础设施需求",
-      "半导体上游供应链",
-      "存储器与内存"
+      "AI基础设施和供应链瓶颈",
+      "光通信与CPO技术",
+      "半导体领域投资机会"
     ],
-    "recent_shift": "近期观点更为乐观，强调从激光器到内存的瓶颈将持续存在，并看好AI基建的长期需求。",
+    "recent_shift": "近期更强调短期市场波动中的机遇，并淡化对利率和宏观事件的担忧",
     "representative_quotes": [
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "The demand signal has increased, and we are very much further behind relative to our ability to supply.",
-      "Every layer of the AI buildout goes brrrrr, and it's showing up in earnings."
+      "Be Nvidia in 2025: Buys up EML and laser capacity. Markets dismissing it: 'Photonics is a bubble and like quantum! ____ company is a scam with shady management' 1 year later: $LITE +678%, $AAOI +475.12%, $COHR +260.7%, $AXTI +3,843.9%.",
+      "I think I'm putting my money on Jensen/Nvidia as the leading indicator.",
+      "Not everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent."
     ],
-    "generated_at": "2026-08-16T18:57:23.435842+00:00"
+    "generated_at": "2026-08-17T00:40:17.517953+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
