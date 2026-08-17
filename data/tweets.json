@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089486932707508661",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales has built a robust 13F platform for you.\n\nGet all institutional data, right on site.\n\nSee more: https://t.co/wooOthczpj",
+    "tweet_url": "https://x.com/unusual_whales/status/2089486932707508661",
+    "published_at": "2026-08-17T22:58:00+00:00",
+    "fetched_at": "2026-08-17T23:13:45.754130+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这是一条关于金融工具的宣传推文，介绍了一个提供机构持仓（13F）数据的平台，对投资者有数据获取的辅助价值，但没有具体的投资建议或市场观点。",
+      "translation": "Unusual Whales 为你构建了一个强大的 13F 平台。直接在你的网站上获取所有机构数据。了解更多：https://t.co/wooOthczpj",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089459231686815999",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
