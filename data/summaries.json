@@ -26,23 +26,24 @@
       "NVDA",
       "GOOGL",
       "AMZN",
-      "SPY",
-      "MSFT"
+      "TSLA",
+      "SPX"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI泡沫担忧",
-      "经济放缓与通胀",
-      "地缘政治风险",
-      "市场情绪与交易工具"
+      "AI泡沫风险",
+      "市场回调担忧",
+      "经济衰退迹象",
+      "财政赤字",
+      "地缘政治紧张"
     ],
-    "recent_shift": "近期观点从对AI乐观转向警告泡沫风险，同时强调经济数据疲软与债务问题。",
+    "recent_shift": "最近的观点更加强调市场泡沫和风险，同时关注地缘政治冲突和财政赤字，整体转为更谨慎。",
     "representative_quotes": [
-      "Ray Dalio says he sees the classic signs of a bubble with AI...",
-      "Michael Burry has doubled down on his Nvidia short, warning its $500 billion AI deal has 'shades of Enron'",
-      "China's economy slows further in July as retail sales barely grow..."
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has 'shades of Enron,' per YF",
+      "BREAKING: The US federal government has posted a record July budget deficit of $432 billion"
     ],
-    "generated_at": "2026-08-17T17:17:52.847076+00:00"
+    "generated_at": "2026-08-17T17:52:21.988589+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

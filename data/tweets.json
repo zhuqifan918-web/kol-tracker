@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089406150383149564",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: 75% of active fund managers failed to beat the S&amp;P 500 over the preceding 12-month period, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2089406150383149564",
+    "published_at": "2026-08-17T17:37:00+00:00",
+    "fetched_at": "2026-08-17T17:51:57.001289+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该数据表明主动型基金整体表现不佳，多数未能跑赢标普500指数，可能促使投资者关注被动型指数基金或增强指数投资策略。",
+      "translation": "突发：据《华尔街日报》报道，在过去12个月中，75%的主动型基金经理未能跑赢标普500指数。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089401117402874351",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
