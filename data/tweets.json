@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089376641445482583",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "在闪迪美光长鑫涨成这逼样的情况下，\n海力士再此非常具有性价比。\n虽然韩国股市是一坨 https://t.co/PRPXKFBCAy",
+    "tweet_url": "https://x.com/xiaomustock/status/2089376641445482583",
+    "published_at": "2026-08-17T15:39:44+00:00",
+    "fetched_at": "2026-08-17T15:46:57.969157+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "发帖人认为在闪迪、美光、长鑫存储等股票大幅上涨后，SK海力士的估值更具性价比，虽然韩国股市整体表现不佳，但海力士仍值得关注。",
+      "translation": "在闪迪、美光、长鑫存储涨成这个样子的时候，海力士再次显得非常有性价比。虽然韩国股市是一坨（不好），但海力士值得考虑。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089370918523191579",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
