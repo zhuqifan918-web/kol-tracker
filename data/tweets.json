@@ -42,6 +42,25 @@
     }
   },
   {
+    "tweet_id": "2089220928840548847",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "始终坚信这一条，\n如果机会足够伟大，\n绝对显而易见随时都能上车，\n而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。\n万事万物中的伟大机会都会遵循这个原则。\n如果没有遵循说明不够伟大很垃圾。",
+    "tweet_url": "https://x.com/xiaomustock/status/2089220928840548847",
+    "published_at": "2026-08-17T05:20:59+00:00",
+    "fetched_at": "2026-08-17T09:30:28.363625+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文表达了一种投资哲学，即真正伟大的机会一定显而易见且随时可以上车，如果做不到这一点，说明机会不够好。核心是提醒投资者不要因为个人偏见或历史经验而过度纠结于短期波动，而应关注机会的绝对质量。",
+      "translation": "始终坚信这一条，如果机会足够伟大，绝对显而易见随时都能上车，而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。万事万物中的伟大机会都会遵循这个原则。如果没有遵循说明不够伟大很垃圾。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089195093874061458",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
