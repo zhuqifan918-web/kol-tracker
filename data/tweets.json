@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089335686922920410",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Scott Bessent is sending a clear signal, traders say: He will do whatever he can to prevent bond yields from soaring,\" per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089335686922920410",
+    "published_at": "2026-08-17T12:57:00+00:00",
+    "fetched_at": "2026-08-17T13:13:42.205248+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文引用彭博报道称，市场交易员认为美国财政部长贝森特将竭尽全力防止债券收益率飙升，这暗示政策可能偏向宽松，对股市构成支撑，整体市场情绪偏乐观。",
+      "translation": "据彭博社报道，交易员表示，斯科特·贝森特正在发出明确信号：他将尽其所能防止债券收益率飙升。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089325619880599703",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
