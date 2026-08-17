@@ -4,44 +4,48 @@
       "SIVE",
       "AAOI",
       "LITE",
-      "SNDK",
-      "MU"
+      "COHR",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件瓶颈",
-      "光学互联与CPO",
-      "存储供需紧张"
+      "AI基础设施瓶颈",
+      "光通信与CPO",
+      "内存与存储",
+      "人形机器人",
+      "MLCC供应链"
     ],
-    "recent_shift": "近期观点未发生根本变化，但对光通信瓶颈的紧迫性表述有所加强。",
+    "recent_shift": "近期观点从早期关注AI基础设施投资转向更强调光通信和CPO等细分瓶颈，并持续看多",
     "representative_quotes": [
-      "激光是当前瓶颈，客户需求比产能高出20%-40%",
-      "CPO规模化部署时间表在2027年下半年，需求强劲，任何延迟传闻都是噪音。",
-      "NAND短缺可能持续数年，2027年产能限制将比2026年更严重。"
+      "CW laser scarcity is already happening before the main volume ramp even begins...",
+      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.",
+      "The demand imbalance should be even worse next year."
     ],
-    "generated_at": "2026-08-17T14:26:42.951419+00:00"
+    "generated_at": "2026-08-17T19:06:22.062911+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "SPY",
-      "AMZN",
       "GOOGL",
-      "TSLA"
+      "AMZN",
+      "MSFT",
+      "TSM"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与估值风险",
-      "政治关联交易与利益冲突",
-      "宏观经济疲软与滞胀担忧"
+      "人工智能繁荣",
+      "市场泡沫风险",
+      "经济与市场脱钩",
+      "政府与政治影响",
+      "私人信贷压力"
     ],
-    "recent_shift": "近期加大了对AI泡沫和债务风险的警告，转而强调市场脆弱性。",
+    "recent_shift": "近期更多关注AI泡沫与市场风险的警示，而早期偏重乐观的AI增长预期。",
     "representative_quotes": [
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
-      "The deficit for the first 10 months of fiscal 2026 reached $1.799 trillion, already exceeding the $1.775 trillion deficit recorded for all of fiscal 2025."
+      "Big Short investor Steve Eisman has said that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic, per CNBC",
+      "From BI: \"Nvidia gets paid upfront, the borrowers and their lenders carry the default risk, and because private credit is ultimately funded by ordinary savers through instruments like pension funds, the tail risk lands on households.\""
     ],
-    "generated_at": "2026-08-17T18:23:51.044168+00:00"
+    "generated_at": "2026-08-17T19:06:19.278607+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

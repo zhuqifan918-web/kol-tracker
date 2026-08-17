@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2089426283163975902",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan, $JPM, on the AI financing: https://t.co/RxGNCtFVsQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2089426283163975902",
+    "published_at": "2026-08-17T18:57:00+00:00",
+    "fetched_at": "2026-08-17T19:06:07.812440+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPM"
+      ],
+      "direction": "neutral",
+      "summary": "推文提及摩根大通（JPM）关于AI融资的新闻，可能涉及AI领域的投资机会或金融动态，但未给出明确的多空观点。",
+      "translation": "摩根大通，$JPM，关于AI融资：https://t.co/RxGNCtFVsQ",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2089422562019393654",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I've decided to name my next two pets Applied Optoelectronics and Sivers Semiconductors",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089422562019393654",
+    "published_at": "2026-08-17T18:42:13+00:00",
+    "fetched_at": "2026-08-17T19:05:48.451922+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "SIVERS"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及两只股票（Applied Optoelectronics和Sivers Semiconductors），但仅为幽默比喻，未给出明确投资观点或分析。",
+      "translation": "我决定给我接下来的两只宠物取名为Applied Optoelectronics和Sivers Semiconductors。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2089421501573562569",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ai is driving up Treasury yields, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089421501573562569",
+    "published_at": "2026-08-17T18:38:00+00:00",
+    "fetched_at": "2026-08-17T19:06:09.723596+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文援引彭博社报道，指出人工智能正在推高美国国债收益率，这反映了市场对AI技术进步可能带来的经济增长和通胀预期的重新定价，对债券市场和股市具有广泛影响，但未提及具体投资标的或明确多空方向。",
+      "translation": "据彭博社报道，人工智能正在推高美国国债收益率。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089415965058470259",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
