@@ -42747,6 +42747,32 @@
     }
   },
   {
+    "tweet_id": "1969835755074965933",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "我一直坚信一个原则：\n伟大的机会绝对显而易见随时可以上车！\n如果是因为比较小众，或者老鼠仓，更或各种杂七杂八的原因，导致不敢下手买，那么也不是啥好机会.\n伟大的机会随时梭哈都能赚到！永远不嫌晚.\n\n即使这是币圈，但不乏btc，eth，sol，\n传统投资圈的英伟达谷歌腾讯.\n\n区别在于\n平时看到的信息量级，\n我们可以定义其“伟大”的程度，来觉得他值得梭哈多久多远.",
+    "tweet_url": "https://x.com/xiaomustock/status/1969835755074965933",
+    "published_at": "2025-09-21T18:46:56+00:00",
+    "fetched_at": "2026-08-17T05:57:16.600535+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "NVDA",
+        "GOOG",
+        "TCEHY"
+      ],
+      "direction": "bullish",
+      "summary": "认为伟大的投资机会总是显而易见且随时可以重仓买入，不应因小众或市场杂音而犹豫。提到BTC、ETH、SOL等加密货币和英伟达、谷歌、腾讯等传统股票，鼓励长期重仓持有。",
+      "translation": "我一直坚信一个原则：伟大的机会绝对显而易见随时可以上车！如果是因为比较小众，或者老鼠仓，更或各种杂七杂八的原因，导致不敢下手买，那么也不是啥好机会。伟大的机会随时梭哈都能赚到！永远不嫌晚。即使这是币圈，但不乏btc，eth，sol，传统投资圈的英伟达谷歌腾讯。区别在于平时看到的信息量级，我们可以定义其“伟大”的程度，来觉得他值得梭哈多久多远。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "1955998477059809371",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
