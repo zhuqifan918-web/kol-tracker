@@ -1,5 +1,52 @@
 [
   {
+    "tweet_id": "2089415965058470259",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, has pledged $100 billion backing for OpenAI data centre in Ohio, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2089415965058470259",
+    "published_at": "2026-08-17T18:16:00+00:00",
+    "fetched_at": "2026-08-17T18:23:17.964572+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达宣布承诺投入1000亿美元支持OpenAI在俄亥俄州的数据中心项目，这一巨额投资显示英伟达对AI基础设施的长期看好，可能增强市场对其业务增长的信心，属于正面信号。",
+      "translation": "英伟达（$NVDA）已承诺为OpenAI在俄亥俄州的数据中心提供1000亿美元支持，据《金融时报》报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2089409934144520665",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Update: The Trump Portfolio Tracker is coming for Pelosi \n\nIn May, we recreated Trump’s top 20 holdings on Autopilot so anyone could invest alongside him\n\n3 months later, it just crossed $2,000,000 of capital invested\n\nHere's what he owns & possible conflicts of interest:\n\nOracle $ORCL: Ellison (CEO) gave $45M to a pro-Trump nonprofit\n\nDell $DELL: Trump told Americans to go buy a Dell\n\nMotorola Solutions $MSI: Won a $16M ICE radio contract\n\nMicrosoft $MSFT: Signed a $3.1B discount deal with Trump's GSA\n\nNvidia $NVDA: Trump personally cut the China chip revenue deal\n\nGeneral Motors $GM: Trump killed the EV penalties GM used to pay\n\nThe portfolio is still live and tracks every move on @joinautopilot",
+    "tweet_url": "https://x.com/unusual_whales/status/2089409934144520665",
+    "published_at": "2026-08-17T17:52:02+00:00",
+    "fetched_at": "2026-08-17T18:23:21.116071+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ORCL",
+        "DELL",
+        "MSI",
+        "MSFT",
+        "NVDA",
+        "GM"
+      ],
+      "direction": "neutral",
+      "summary": "该推文介绍了特朗普投资组合追踪器，并列举了特朗普可能持有的股票及其潜在的利益冲突，但未明确给出投资建议或方向性观点。",
+      "translation": "更新：特朗普投资组合追踪器即将上线，用于追踪佩洛西。五月，我们在Autopilot上重建了特朗普的前20大持仓，让任何人都能跟着他投资。三个月后，投入资本已超过200万美元。以下是他持有的股票及可能的利益冲突：Oracle（ORCL）：CEO埃里森向支持特朗普的非营利组织捐赠4500万美元；戴尔（DELL）：特朗普告诉美国人去买戴尔；摩托罗拉解决方案（MSI）：赢得1600万美元的ICE无线电合同；微软（MSFT）：与特朗普的GSA签署31亿美元的折扣协议；英伟达（NVDA）：特朗普亲自敲定了中国芯片收入协议；通用汽车（GM）：特朗普取消了通用汽车曾需支付的电动车罚款。该投资组合仍在运行，并在@joinautopilot上追踪每一步操作。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089406150383149564",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -42615,6 +42662,31 @@
       "summary": "存储行业仍有上涨空间，但获利难度加大，容易赚的钱已经赚完，后续需应对FUD和估值模型变化，投资回报将更曲折。",
       "translation": "Many friends ask whether the storage sector has peaked. I think it hasn't, but to put it another way: the easy money in storage has already been made. Making money from here on will be more difficult, involving FUD, changes in valuation models, etc., and the path will be more winding.",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2055325826225443298",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Yesterday Donald Trump filed his entire personal stock portfolio\n\nSo we recreated his top 20 holdings and launched it on Autopilot for the world to invest alongside\n\nHere's the breakdown & possible conflicts of interest\n\n1. ServiceNow $NOW: est. owns ~$3.3M\nNo major details on possible connections\n\n2. Nvidia $NVDA: est. owns ~1.6M\nHas tweeted about Nvidia multiple times\n\n3. Dell $DELL: est. owns ~3.1M\nTold the world to \"buy a dell\" a couple months ago, has only bought\n\n4. Oracle Corp $ORCL: est. owns ~$3.6M\nAllegedly close to Larry Ellison\n\n5. Costco $COST: est. owns ~$4.0M",
+    "tweet_url": "https://x.com/unusual_whales/status/2055325826225443298",
+    "published_at": "2026-05-15T16:33:57+00:00",
+    "fetched_at": "2026-08-17T18:23:23.903174+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NOW",
+        "NVDA",
+        "DELL",
+        "ORCL",
+        "COST"
+      ],
+      "direction": "bullish",
+      "summary": "据报道，特朗普披露了其个人股票投资组合，包含ServiceNow、Nvidia、Dell、Oracle和Costco等主要科技和消费股，并推出自动化投资工具供公众跟随。这暗示这些股票可能因政治关联而受到关注，但需注意潜在的利益冲突。",
+      "translation": "突发：昨日唐纳德·特朗普提交了其全部个人股票投资组合。因此我们重新创建了他的前20大持仓，并推出了自动投资工具供全球投资者跟随。以下是持仓明细及可能的利益冲突：1. ServiceNow $NOW：估计持有约330万美元。暂无重大关联细节。2. Nvidia $NVDA：估计持有约160万美元。曾多次发布关于Nvidia的推文。3. Dell $DELL：估计持有约310万美元。几个月前曾告诉世界“买一台戴尔”，并且一直在买入。4. Oracle Corp $ORCL：估计持有约360万美元。据称与拉里·埃里森关系密切。5. Costco $COST：估计持有约400万美元。",
+      "confidence": "high"
     }
   },
   {
