@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089325619880599703",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Elon Musk is leaning heavily on natural gas turbines to power the build-out of data centers for SpaceX's artificial intelligence business, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2089325619880599703",
+    "published_at": "2026-08-17T12:17:00+00:00",
+    "fetched_at": "2026-08-17T12:22:26.405349+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及马斯克旗下SpaceX的AI业务数据中心将使用天然气涡轮机供电，可能影响天然气需求和数据中心能源相关股票，但未提及具体投资标的或明确方向，属于行业动态而非直接投资建议。",
+      "translation": "据《华尔街日报》报道，埃隆·马斯克正严重依赖天然气涡轮机为SpaceX的人工智能业务数据中心建设提供电力。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089315553521643974",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
