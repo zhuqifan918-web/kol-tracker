@@ -24,25 +24,25 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "AMZN",
       "GOOGL",
-      "TSLA",
-      "AMD"
+      "AMZN",
+      "SPY",
+      "MSFT"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与估值担忧",
-      "经济衰退信号与通胀压力",
-      "地缘政治风险升温",
-      "市场流动性收紧"
+      "AI泡沫担忧",
+      "经济放缓与通胀",
+      "地缘政治风险",
+      "市场情绪与交易工具"
     ],
-    "recent_shift": "近期观点更趋谨慎，强调经济数据疲软和AI泡沫风险，同时关注地缘政治紧张局势。",
+    "recent_shift": "近期观点从对AI乐观转向警告泡沫风险，同时强调经济数据疲软与债务问题。",
     "representative_quotes": [
-      "BREAKING: Michael Burry has doubled down on his Nvidia, $NVDA, short, warning its $500 billion AI deal has “shades of Enron,\" per YF",
-      "America's economy is doing unbelievably from the standpoint of Wall Street",
-      "Strain is spreading across private credit portfolios, with signals of stress in the market reaching levels last seen in 2017, per FT"
+      "Ray Dalio says he sees the classic signs of a bubble with AI...",
+      "Michael Burry has doubled down on his Nvidia short, warning its $500 billion AI deal has 'shades of Enron'",
+      "China's economy slows further in July as retail sales barely grow..."
     ],
-    "generated_at": "2026-08-17T16:53:04.302196+00:00"
+    "generated_at": "2026-08-17T17:17:52.847076+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
