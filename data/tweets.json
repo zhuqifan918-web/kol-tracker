@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2089350785868161358",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Strain is spreading across private credit portfolios, with signals of stress in the market reaching levels last seen in 2017, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2089350785868161358",
+    "published_at": "2026-08-17T13:57:00+00:00",
+    "fetched_at": "2026-08-17T13:58:48.559063+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出私募信贷市场压力正在蔓延，市场承压信号已达到2017年以来的最高水平，表明私募信贷领域存在潜在风险，投资者应警惕该领域的系统性风险。",
+      "translation": "私募信贷投资组合中的压力正在蔓延，市场承压信号已达到2017年以来的最高水平，据英国《金融时报》报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089344350815662422",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Our trading show WhaleWatch is live now, checking options flow and day trading futures!\n\nWill $SPX push through all time highs, or is it time for a dip?\n\nhttps://t.co/GGLSn9zHeL",
+    "tweet_url": "https://x.com/unusual_whales/status/2089344350815662422",
+    "published_at": "2026-08-17T13:31:26+00:00",
+    "fetched_at": "2026-08-17T13:58:52.374527+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文来自交易节目，讨论标普500指数（SPX）是否突破历史高点或面临回调，属于市场分析，未给出明确方向，仅提出问题，因此方向中性。",
+      "translation": "刚刚：我们的交易节目WhaleWatch正在直播，查看期权流动和日内期货交易！标普500（SPX）会突破历史高点，还是该回调了？https://t.co/GGLSn9zHeL",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089335686922920410",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -54,6 +94,25 @@
       "summary": "知名投资者Steve Eisman指出，AI热潮的成败越来越依赖于OpenAI和Anthropic两家公司，提示市场集中度风险，但未给出具体投资建议。",
       "translation": "大空头投资者Steve Eisman表示，人工智能热潮已越来越依赖于OpenAI和Anthropic两家公司的命运，据CNBC报道。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2089310520574869614",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AI could impact nearly half of customer service roles by 2030, with outsourced jobs facing the greatest risk, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089310520574869614",
+    "published_at": "2026-08-17T11:17:00+00:00",
+    "fetched_at": "2026-08-17T13:58:59.715451+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文涉及AI对客服行业就业的影响，属于行业趋势分析，可能影响相关公司股票，但未提及具体标的。整体对客服外包行业构成利空，建议关注相关企业业绩风险。",
+      "translation": "据彭博社报道，到2030年，人工智能可能影响近一半的客服岗位，其中外包岗位面临的风险最大。",
+      "confidence": "medium"
     }
   },
   {
