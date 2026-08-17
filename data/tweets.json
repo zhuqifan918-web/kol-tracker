@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2089459231686815999",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The portfolio is now live to see the performance and connect your broker to invest alongside\nhttps://t.co/zeKdYMukRL\n\nBecause if Trump is going to own stocks, now you can own the same ones too",
+    "tweet_url": "https://x.com/unusual_whales/status/2089459231686815999",
+    "published_at": "2026-08-17T21:07:55+00:00",
+    "fetched_at": "2026-08-17T21:16:52.697072+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提供了一个投资组合的实时表现查看及券商连接功能，并暗示跟随特朗普的股票投资策略。这属于投资推荐，但未提及具体股票代码，整体方向偏乐观。",
+      "translation": "投资组合现已上线，可查看表现并连接你的券商进行同步投资。因为如果特朗普要持有股票，现在你也能持有同样的股票。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089456985410285621",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
+    "tweet_url": "https://x.com/unusual_whales/status/2089456985410285621",
+    "published_at": "2026-08-17T20:59:00+00:00",
+    "fetched_at": "2026-08-17T21:16:54.314030+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "欧洲央行警告称，人工智能热潮可能将科技股估值推至互联网泡沫时期的水平，股市或面临回调风险。",
+      "translation": "突发：欧洲央行表示，随着人工智能热潮将科技股估值推至互联网泡沫时期的水平，股市可能面临回调。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089452203765268657",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
