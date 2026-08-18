@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "AAOI",
       "LITE",
-      "SNDK",
-      "MU"
+      "SIVE",
+      "COHR",
+      "LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈",
-      "光学互连和激光器",
-      "内存和存储短缺",
-      "机器人技术",
-      "供应链回流"
+      "AI硬件瓶颈（激光器、MLCC、存储等）",
+      "光通信与CPO供应链",
+      "上游材料与产能紧张",
+      "人形机器人与IPO",
+      "人工智能基础设施建设持续加速"
     ],
-    "recent_shift": "近期观点从全面看多转向更专注于验证瓶颈和回调买入机会。",
+    "recent_shift": "近期观点未变，仍看好AI硬件供应链，但短期波动大，关注EPS增长。",
     "representative_quotes": [
-      "Leading indicators point to sustained AI infrastructure buildout, with bottlenecks from lasers to memory set to persist.",
-      "CW supply chain is incredibly constrained, and there's a bottleneck for merchants. That's just how the industry works.",
-      "What a legend, Situational Awareness bought 1/6th of the entire company of Taiyo Yuden."
+      "The customer demand is 20%-40% higher than expanded built out capacity.",
+      "Lasers are the biggest bottleneck right now for the transceiver business.",
+      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs."
     ],
-    "generated_at": "2026-08-18T03:14:43.203273+00:00"
+    "generated_at": "2026-08-18T16:19:56.699180+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$JPM",
+      "$AMZN",
+      "$GOOGL",
       "$TSLA",
-      "$MSFT",
-      "$AMZN"
+      "$PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮",
-      "经济衰退与通胀",
-      "国债收益率上升",
-      "市场波动与对冲",
-      "机构持仓动向"
+      "AI基础设施投资与泡沫风险",
+      "地缘政治紧张（霍尔木兹海峡、伊朗）",
+      "美债收益率上升与财政赤字",
+      "12F机构持仓变动与交易策略",
+      "消费经济压力与通胀"
     ],
-    "recent_shift": "近期观点转向谨慎，强调了AI泡沫风险和债券收益率上升的压力。",
+    "recent_shift": "近期观点从乐观转向谨慎，开始强调AI泡沫风险、地缘政治不确定性和经济数据疲软。",
     "representative_quotes": [
+      "Investors are preparing for stagflation over next 12 months, per Bank of America.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
-      "The S&P500 could hit 9000 in 12 months, per Evercore"
+      "BreaKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
     ],
-    "generated_at": "2026-08-18T15:32:33.219754+00:00"
+    "generated_at": "2026-08-18T16:19:53.859680+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
