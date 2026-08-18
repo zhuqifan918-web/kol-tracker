@@ -28,24 +28,24 @@
       "NVDA",
       "GOOGL",
       "TSLA",
-      "AMZN",
-      "MSFT"
+      "SPY",
+      "BRK.B"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能泡沫担忧",
-      "国债收益率上升与通胀压力",
-      "市场集中风险与高管交易",
-      "地缘政治紧张加剧",
-      "消费者经济压力增大"
+      "AI驱动的市场泡沫担忧",
+      "地缘政治紧张局势影响市场",
+      "机构投资者仓位变动",
+      "美国经济衰退与通胀风险",
+      "ETF与交易工具创新"
     ],
-    "recent_shift": "最近观点从对科技股的热情转向对AI泡沫和宏观经济风险的担忧，同时强化了对市场脆弱性的警惕。",
+    "recent_shift": "从对特朗普政策积极效应感到乐观转向关注AI泡沫、债务负担和地缘冲突带来的市场风险。",
     "representative_quotes": [
-      "Holy, look at this. KKR offered to buy $UGI at 42.50 a share But RIGHT BEFORE THE News, someone placed a huge, unsual trade...",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
+      "The backlash against AI and the data centers needed to run it is becoming such a touchy election issue that Wall Street is being forced to factor it into its stock market recommendations.",
+      "Trump says he will declare the Strait of Hormuz \"a territory of the United States.\""
     ],
-    "generated_at": "2026-08-18T23:13:59.049534+00:00"
+    "generated_at": "2026-08-18T23:43:49.895940+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
