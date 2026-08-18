@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089819121496023068",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "You can read more about the ETFs here.\n\nUnusual Whales has partnered with Siebert Financial to launch them.\n\nSee more: https://t.co/btYKKqaiIl",
+    "tweet_url": "https://x.com/unusual_whales/status/2089819121496023068",
+    "published_at": "2026-08-18T20:58:00+00:00",
+    "fetched_at": "2026-08-18T21:14:08.848589+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文宣布Unusual Whales与Siebert Financial合作推出新的ETF，这通常被视为对相关金融产品及市场参与的积极信号。",
+      "translation": "你可以在这里了解更多关于ETF的信息。Unusual Whales已与Siebert Financial合作推出它们。查看更多：https://t.co/btYKKqaiIl",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089812326795071676",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
