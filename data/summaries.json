@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$NVDA",
-      "$AMZN",
       "$GOOGL",
       "$TSLA",
-      "$PLTR"
+      "$AMZN",
+      "$SPY"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施投资与泡沫风险",
-      "地缘政治紧张（霍尔木兹海峡、伊朗）",
-      "美债收益率上升与财政赤字",
-      "12F机构持仓变动与交易策略",
-      "消费经济压力与通胀"
+      "AI泡沫焦虑与市场修正风险",
+      "地缘政治紧张（伊朗/霍尔木兹海峡）",
+      "通胀与美债收益率高企",
+      "宏观经济数据分化（就业弱、企业盈利强）",
+      "科技巨头供应链转移"
     ],
-    "recent_shift": "近期观点从乐观转向谨慎，开始强调AI泡沫风险、地缘政治不确定性和经济数据疲软。",
+    "recent_shift": "近期观点从早期对AI和市场的乐观转向更关注泡沫警告、地缘政治风险及宏观经济不确定性。",
     "representative_quotes": [
-      "Investors are preparing for stagflation over next 12 months, per Bank of America.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BreaKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB.",
+      "The S&P500 could hit 9000 in 12 months, per Evercore."
     ],
-    "generated_at": "2026-08-18T16:19:53.859680+00:00"
+    "generated_at": "2026-08-18T17:19:08.260022+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
