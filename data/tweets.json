@@ -57,6 +57,25 @@
     }
   },
   {
+    "tweet_id": "2089799197549543835",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump officials are moving to open nearly 45 million acres of wilderness in national forests to new roads and logging, removing protections that had been in place since 2001, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2089799197549543835",
+    "published_at": "2026-08-18T19:38:49+00:00",
+    "fetched_at": "2026-08-18T22:47:26.382521+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普政府计划开放国家森林大面积荒野用于道路和伐木，可能对木材和相关林业公司构成利好，但对环境保护及依赖森林的生态旅游可能产生负面影响，整体投资相关性不确定，但政策变化可能影响木材供应预期。",
+      "translation": "重大新闻：特朗普官员正采取措施，开放国家森林中近4500万英亩的荒野用于新建道路和伐木，取消自2001年以来实施的保护措施。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2089766053274661143",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -233,6 +252,25 @@
       "summary": "美国银行调查显示投资者对美国股市持乐观态度，市场情绪偏多。",
       "translation": "据美国银行称，投资者看好美国股市。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2089723239971066330",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said the Strait of Hormuz is \"new American territory.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2089723239971066330",
+    "published_at": "2026-08-18T14:37:00+00:00",
+    "fetched_at": "2026-08-18T22:47:36.431889+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普声称霍尔木兹海峡为美国新领土，可能引发中东地缘政治紧张，推高油价和通胀，对全球股市构成压力。投资者需关注能源价格波动及风险资产下行风险。",
+      "translation": "特朗普表示霍尔木兹海峡是“美国新领土”。",
+      "confidence": "medium"
     }
   },
   {
