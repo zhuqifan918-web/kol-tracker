@@ -1,5 +1,83 @@
 [
   {
+    "tweet_id": "2089748405782487249",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The backlash against AI and the data centers needed to run it is becoming such a touchy election issue that Wall Street is being forced to factor it into its stock market recommendations,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2089748405782487249",
+    "published_at": "2026-08-18T16:17:00+00:00",
+    "fetched_at": "2026-08-18T16:19:35.716540+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及华尔街因AI及数据中心成为选举敏感议题，而被逼调整股市建议。这暗示AI相关板块（如科技和公用事业）可能面临政策风险，但未指明具体标的，投资影响中性偏向谨慎。",
+      "translation": "据彭博社报道，对AI及其运行所需数据中心的抵制正成为一个敏感的选举议题，以至于华尔街被迫将其纳入股市建议考量。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089746797300432912",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'm getting Vietnam flashbacks to the launch of OpenAi. \n\nWhere with every model, it just keeps getting better... but now with hunanoids. \n\nUnitree has claimed that their humanoids:\n\n- Can now run faster than Usain Bolt.\n- Can now jump higher than any human. \n\nAnd with their IPO tomorrow, it seems like China is leading the hardware race.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089746797300432912",
+    "published_at": "2026-08-18T16:10:36+00:00",
+    "fetched_at": "2026-08-18T16:19:15.477946+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Unitree"
+      ],
+      "direction": "bullish",
+      "summary": "推特提到Unitree（宇树科技）的人形机器人性能超群，并且即将IPO，暗示中国在硬件领域领先，投资前景看好。",
+      "translation": "我在回忆OpenAI发布时的越南战争回忆。每个模型都越来越好……但现在是人形机器人。宇树科技声称他们的人形机器人：- 现在跑得比博尔特还快。- 现在跳得比任何人都高。随着他们明天IPO，似乎中国正在引领硬件竞赛。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089743372822941778",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Long-term borrowing costs across major economies hit multi-decade highs, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2089743372822941778",
+    "published_at": "2026-08-18T15:57:00+00:00",
+    "fetched_at": "2026-08-18T16:19:37.533003+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "主要经济体的长期借贷成本升至多年高位，通常意味着利率上升和债券价格下跌，对股市和风险资产构成压力。这反映了市场对通胀和央行紧缩政策的担忧，可能引发估值压缩和经济增长放缓的担忧。",
+      "translation": "据《金融时报》报道，主要经济体的长期借贷成本升至数十年高位。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089738591278662005",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran: The Strait of Hormuz will remain closed.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089738591278662005",
+    "published_at": "2026-08-18T15:38:00+00:00",
+    "fetched_at": "2026-08-18T16:19:38.862538+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该消息显示地缘政治风险升级，霍尔木兹海峡关闭将严重影响全球石油运输，可能推高油价并引发市场避险情绪，对能源股和全球股市构成压力。",
+      "translation": "伊朗：霍尔木兹海峡将继续关闭。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089733306728272287",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
