@@ -27,25 +27,25 @@
     "focus_tickers": [
       "NVDA",
       "GOOGL",
+      "TSLA",
       "AMZN",
-      "SPY",
-      "TSLA"
+      "MSFT"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "人工智能与数据中心",
-      "利率与债务风险",
-      "政治与地缘政治影响",
-      "市场情绪与机构仓位",
-      "通胀与生活成本"
+      "人工智能泡沫担忧",
+      "国债收益率上升与通胀压力",
+      "市场集中风险与高管交易",
+      "地缘政治紧张加剧",
+      "消费者经济压力增大"
     ],
-    "recent_shift": "最近关注点从宏观担忧转向具体的ETF推出和政治事件，但对市场整体保持中立态度。",
+    "recent_shift": "最近观点从对科技股的热情转向对AI泡沫和宏观经济风险的担忧，同时强化了对市场脆弱性的警惕。",
     "representative_quotes": [
-      "AI is driving up Treasury yields, per Bloomberg.",
-      "BREAKING: Unusual Whales is partnering with Siebert Financial to launch a new series of ETFs.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB."
+      "Holy, look at this. KKR offered to buy $UGI at 42.50 a share But RIGHT BEFORE THE News, someone placed a huge, unsual trade...",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
     ],
-    "generated_at": "2026-08-18T22:47:52.908626+00:00"
+    "generated_at": "2026-08-18T23:13:59.049534+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

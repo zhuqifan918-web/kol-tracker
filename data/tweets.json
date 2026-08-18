@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2089849320485036307",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Holy, look at this.\n\nKKR offered to buy $UGI at 42.50 a share  \n\nBut RIGHT BEFORE THE News, someone placed a huge, unsual trade.\n\nA trader place a little over 700 of the weekly 35c opened at .60 per.  \n\n5 minutes later the contracts were worth 4.50 a piece.\n\nUnusual. https://t.co/yhMhrqJwEj",
+    "tweet_url": "https://x.com/unusual_whales/status/2089849320485036307",
+    "published_at": "2026-08-18T22:58:00+00:00",
+    "fetched_at": "2026-08-18T23:13:12.159301+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "UGI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到KKR提议以每股42.50美元收购UGI，但在消息公布前出现异常期权交易，暗示可能存在内幕交易。投资相关性在于短期股价可能受收购消息影响，但操作风险较高。",
+      "translation": "天哪，看看这个。KKR提出以每股42.50美元收购$UGI。但就在消息公布前，有人进行了巨量、异常的期权交易。一位交易者以0.60美元的价格买入了700多份每周35美元的看涨期权。5分钟后，这些期权每份价值4.50美元。异常。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089834221221331158",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
