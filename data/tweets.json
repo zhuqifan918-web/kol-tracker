@@ -1,5 +1,62 @@
 [
   {
+    "tweet_id": "2089547564249219163",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So just tracking the MLCC cycle:\n\nComponentNews classified server MLCCs as “severe” shortage stage, with ETNews reporting:\n\n- Samsung has reached ~40 week lead times for some high capacitance MLCCs per DigiKey’s shipment data.\n\nEarlier this year, broader reports were ~20 weeks, so the AI server MLCC bottleneck keeps growing.\n\n- Murata was ~24 weeks in June. \n\nJuly was ~30 weeks. And now some at ~36 weeks. \n\nThis was interesting: \n\n“The expansion of new production capacity is being postponed from Q4 2026 to 2027”\n\nDoesn’t say which expansion… maybe Murata? But if capacity expansion reportedly gets stalled, the bottleneck should tighten short term.\n\nLead times are a good way to track demand imbalances.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089547564249219163",
+    "published_at": "2026-08-18T02:58:55+00:00",
+    "fetched_at": "2026-08-18T03:13:46.793361+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文分析了MLCC（多层陶瓷电容器）的供需状况，指出AI服务器用MLCC的交货期大幅延长，且产能扩张推迟至2027年，表明供应紧张将持续，对相关MLCC制造商（如三星、村田）可能构成利好。",
+      "translation": "我正在追踪MLCC周期：ComponentNews将服务器MLCC列为“严重”短缺阶段，ETNews报道：三星部分高容值MLCC的交货期已达到约40周（根据DigiKey的出货数据）。今年早些时候，广泛报道约为20周，因此AI服务器MLCC的瓶颈持续加剧。村田6月约24周，7月约30周，现在部分约36周。有趣的是：“新产能的扩张从2026年第四季度推迟到2027年。”未说明是哪个扩张……可能是村田？但如果产能扩张停滞，短期内瓶颈应该会收紧。交货期是追踪需求失衡的好方法。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089547330772975755",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jane Street, which invests in Situational Awareness and directly invests in AI ventures, suffered a rare and severe downturn amid volatile stock markets.\n\nRead more: https://t.co/FJBD8klZbx",
+    "tweet_url": "https://x.com/unusual_whales/status/2089547330772975755",
+    "published_at": "2026-08-18T02:58:00+00:00",
+    "fetched_at": "2026-08-18T03:14:09.319943+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "简街（Jane Street）虽然投资于“情境意识”并直接投资AI初创企业，但在市场动荡中遭遇罕见且严重的亏损，显示其在当前波动市场中的风险敞口。该事件可能影响投资者对相关投资策略和市场的信心。",
+      "translation": "简街（Jane Street）投资于“情境意识”并直接投资AI企业，但在股市波动中遭受罕见且严重的亏损。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089540536030081387",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "In the first quarter of 2026, S&amp;P 500 companies reported a 27% surge in profits, more than double analysts' expectations.\n\nRead more: https://t.co/BIxuPV0zzO",
+    "tweet_url": "https://x.com/unusual_whales/status/2089540536030081387",
+    "published_at": "2026-08-18T02:31:00+00:00",
+    "fetched_at": "2026-08-18T03:14:11.215241+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文显示标普500企业利润大幅超出预期，通常被视为股市利好信号，可能提升投资者信心并推动股价上行。",
+      "translation": "2026年第一季度，标普500公司报告利润飙升27%，超过分析师预期的两倍多。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089486932707508661",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
