@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089595014058057863",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Get ready for this.\n\nWe are hosting @BlueMoonMetals and their CEO @AdventusCEO for a panel on critical metal, particularly tungsten.\n\nJoin the panel of speakers, including:\n@Teo_Sinamin \n@Edark94 \nCraig Bradshaw\n\nJoin Wednesday at 8AM EST: https://t.co/RDHEDpyf2c",
+    "tweet_url": "https://x.com/unusual_whales/status/2089595014058057863",
+    "published_at": "2026-08-18T06:07:28+00:00",
+    "fetched_at": "2026-08-18T06:25:39.792842+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布了一场关于关键金属（特别是钨）的小组讨论，由BlueMoonMetals及其CEO参与。虽然提及了关键金属相关公司，但推文本身并未给出具体的投资建议或市场分析，因此投资相关但中性。",
+      "translation": "准备好。我们正在邀请@BlueMoonMetals及其CEO @AdventusCEO参加关于关键金属（特别是钨）的小组讨论。加入包括@Teo_Sinamin、@Edark94、Craig Bradshaw在内的小组。周三上午8点（美国东部时间）加入：https://t.co/RDHEDpyf2c",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089547564249219163",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -54,6 +73,25 @@
       "summary": "该推文显示标普500企业利润大幅超出预期，通常被视为股市利好信号，可能提升投资者信心并推动股价上行。",
       "translation": "2026年第一季度，标普500公司报告利润飙升27%，超过分析师预期的两倍多。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2089525436548309452",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The influx of younger adults back into parental homes has led to a decrease in demand for rental properties and starter homes.\n\nRead more: https://t.co/W5VQhUF5ss",
+    "tweet_url": "https://x.com/unusual_whales/status/2089525436548309452",
+    "published_at": "2026-08-18T01:31:00+00:00",
+    "fetched_at": "2026-08-18T06:25:48.541998+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出年轻人回流父母家导致租赁和入门级住房需求下降，这可能对房地产相关投资（如住宅REITs或建筑商）构成利空。",
+      "translation": "年轻人回流父母家导致租赁房产和入门级住房需求下降。",
+      "confidence": "medium"
     }
   },
   {
