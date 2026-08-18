@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089834221221331158",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Dalio's analogy underscores the growing burden of debt service payments on the economy. As these payments increase, they consume a larger portion of budgets, leaving less room for essential spending and investment.\n\nRead more: https://t.co/hTU6OBeORo",
+    "tweet_url": "https://x.com/unusual_whales/status/2089834221221331158",
+    "published_at": "2026-08-18T21:58:00+00:00",
+    "fetched_at": "2026-08-18T22:12:40.145567+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "达利欧的类比强调了债务偿还负担对经济日益沉重的压力，这可能导致政府削减必要支出和投资，对经济增长构成负面影响，投资风险上升。",
+      "translation": "达利欧的类比突显了偿债负担对经济日益沉重的压力。随着这些偿债支付的增加，它们占据了预算的更大份额，留给基本支出和投资的余地越来越少。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089819121496023068",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

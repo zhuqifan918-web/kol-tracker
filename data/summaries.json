@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "TSLA",
-      "AMZN",
       "GOOGL",
-      "SPY"
+      "JPM",
+      "TSLA",
+      "AMZN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI与数据中心投资",
-      "市场波动与避险情绪",
-      "政治与政策影响",
-      "机构持仓变动",
-      "通胀与消费者压力"
+      "AI泡沫与估值风险",
+      "债务与利率上升",
+      "地缘政治紧张",
+      "消费通胀与生活成本",
+      "市场结构性脆弱"
     ],
-    "recent_shift": "最近观点无明显转变，但更加关注AI带来的风险和利率上升。",
+    "recent_shift": "近期更强调系统性风险，从乐观转向防御性观点",
     "representative_quotes": [
-      "BREAKING: Unusual Whales is partnering with Siebert Financial to launch a new series of ETFs.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
+      "Strain is spreading across private credit portfolios, with signals of stress in the market reaching levels last seen in 2017, per FT"
     ],
-    "generated_at": "2026-08-18T21:14:42.040445+00:00"
+    "generated_at": "2026-08-18T22:13:09.202557+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
