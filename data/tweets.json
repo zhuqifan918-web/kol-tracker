@@ -76,6 +76,25 @@
     }
   },
   {
+    "tweet_id": "2089471833200279677",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To follow these trades, you can subscribe directly to Unusual Whales.\n\nGet the 13Fs as they come out.\n\nSee more: https://t.co/wooOthc1zL",
+    "tweet_url": "https://x.com/unusual_whales/status/2089471833200279677",
+    "published_at": "2026-08-17T21:58:00+00:00",
+    "fetched_at": "2026-08-18T05:31:25.681108+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales的订阅服务，可跟踪大宗交易和获取13F文件，但未提及具体投资标的或市场观点。",
+      "translation": "要跟踪这些交易，您可以直接订阅Unusual Whales。获取新发布的13F文件。查看更多：https://t.co/wooOthc1zL",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2089459231686815999",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
