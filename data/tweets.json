@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089667874969248029",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, up more than sevenfold from its pace at the end of last year, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089667874969248029",
+    "published_at": "2026-08-18T10:57:00+00:00",
+    "fetched_at": "2026-08-18T11:16:07.116109+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "Anthropic 年化收入预计超过650亿美元，较去年底增长7倍以上，显示AI行业高增长态势，利好人工智能相关产业链投资。",
+      "translation": "突发：据彭博社报道，Anthropic 基于当前表现，年化收入有望超过650亿美元，比去年年底的速度增长七倍以上。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089607956493205766",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
