@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089728021343465598",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Investors are bullish on US stocks, per Bank of America.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089728021343465598",
+    "published_at": "2026-08-18T14:56:00+00:00",
+    "fetched_at": "2026-08-18T14:59:22.426479+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国银行调查显示投资者对美国股市持乐观态度，市场情绪偏多。",
+      "translation": "据美国银行称，投资者看好美国股市。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089693040923517160",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -76,6 +95,25 @@
       "direction": "neutral",
       "summary": "该推文宣布了一场关于关键金属（特别是钨）的小组讨论，由BlueMoonMetals及其CEO参与。虽然提及了关键金属相关公司，但推文本身并未给出具体的投资建议或市场分析，因此投资相关但中性。",
       "translation": "准备好。我们正在邀请@BlueMoonMetals及其CEO @AdventusCEO参加关于关键金属（特别是钨）的小组讨论。加入包括@Teo_Sinamin、@Edark94、Craig Bradshaw在内的小组。周三上午8点（美国东部时间）加入：https://t.co/RDHEDpyf2c",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089570734859563335",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Between January 2020 and June 2024, urban consumer food prices increased by over 26%, outpacing the 19% rise in core goods and services during the same period.\n\nRead more: https://t.co/9Bc9kIf1WJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2089570734859563335",
+    "published_at": "2026-08-18T04:31:00+00:00",
+    "fetched_at": "2026-08-18T14:59:35.306201+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出城市食品价格涨幅超过核心商品和服务，可能暗示通胀压力，但未直接提供投资建议。投资者可关注通胀对消费行业及货币政策的影响。",
+      "translation": "2020年1月至2024年6月期间，城市消费者食品价格上涨超过26%，超过了同期核心商品和服务19%的涨幅。",
       "confidence": "medium"
     }
   },
