@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2089763253618434473",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Unusual Whales is partnering with Siebert Financial to launch a new series of ETFs.\n\nThe funds will combine Unusual Whales’ political trading data, options flow, institutional activity, and other “shadow data” with Siebert’s financial infrastructure.\n\nTurning the data we track every day into investable products.\n\nGet ready.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089763253618434473",
+    "published_at": "2026-08-18T17:16:00+00:00",
+    "fetched_at": "2026-08-18T17:18:51.843574+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "Unusual Whales与Siebert Financial合作推出新ETF系列，将结合政治交易数据、期权流、机构活动等数据转化为可投资产品。目前无具体标的或方向，属于行业动态，对投资者而言或可关注后续ETF的发行细节。",
+      "translation": "突发：Unusual Whales正在与Siebert Financial合作推出新系列ETF。这些基金将Unusual Whales的政治交易数据、期权流、机构活动以及其他“影子数据”与Siebert的金融基础设施相结合。将我们每天追踪的数据转化为可投资产品。做好准备。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089758472036356399",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Google, $GOOGL, is reportedly preparing to move its entire Pixel supply chain out of China by 2027, shifting smartphone, watch, and earbud production primarily to Vietnam and India, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2089758472036356399",
+    "published_at": "2026-08-18T16:57:00+00:00",
+    "fetched_at": "2026-08-18T17:18:53.563645+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "谷歌计划将Pixel供应链全部迁出中国，转向越南和印度，旨在降低地缘政治风险并提升供应链韧性，对长期盈利和股价构成利好。",
+      "translation": "据报道，谷歌$GOOGL正筹备在2027年前将其整个Pixel供应链移出中国，将智能手机、手表和耳机的生产主要转移至越南和印度，据YF消息。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089748405782487249",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
