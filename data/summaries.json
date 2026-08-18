@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
+      "SPY",
       "TSLA",
       "AMZN",
-      "SPCX",
       "GOOGL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI与科技股泡沫风险",
-      "国债收益率上升与利率担忧",
-      "机构持仓变动与13F报告",
-      "地缘政治与市场不确定性",
-      "散户市场情绪与经济压力"
+      "人工智能",
+      "利率与债券",
+      "市场流动性"
     ],
-    "recent_shift": "近期态度从关注市场机会转向展示交易工具和传播风险警告，整体更加谨慎。",
+    "recent_shift": "近期，AI投资热情可能引发股市回调，但科技股依然被看好。",
     "representative_quotes": [
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
       "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
-      "JPMorgan, $JPM, on the AI financing: https://t.co/RxGNCtFVsQ"
+      "The S&P500 could hit 9000 in 12 months, per Evercore"
     ],
-    "generated_at": "2026-08-18T06:26:02.671846+00:00"
+    "generated_at": "2026-08-18T11:16:38.459025+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
