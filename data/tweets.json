@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089812326795071676",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Governor Josh Shapiro is expected to sign a sweeping executive order restricting data center development in Pennsylvania, per WaPo",
+    "tweet_url": "https://x.com/unusual_whales/status/2089812326795071676",
+    "published_at": "2026-08-18T20:31:00+00:00",
+    "fetched_at": "2026-08-18T20:46:14.167720+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "宾夕法尼亚州州长预计将签署行政命令限制数据中心开发，可能影响该州数据中心及相关产业的投资前景，但未提及具体公司或股票。",
+      "translation": "据《华盛顿邮报》报道，宾夕法尼亚州州长乔什·夏皮罗预计将签署一项全面行政命令，限制该州的数据中心开发。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089766053274661143",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
