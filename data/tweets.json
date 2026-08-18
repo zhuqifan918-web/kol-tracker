@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2089766053274661143",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). \n\n- Sold out at least through second half of next year and beyond. (High demand visibility like $LITE)\n\n- Has 300-400 mW lasers already. \n\n- Expects margins to be above 40%+ once CPO comes about (probably most material for rerating). \n\nI can't see how anyone can be bearish on this company...",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089766053274661143",
+    "published_at": "2026-08-18T17:27:07+00:00",
+    "fetched_at": "2026-08-18T17:50:24.856313+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "NVDA",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了AAOI公司在Rosenblatt峰会上的积极信号：美国产能获得溢价、订单能见度高、激光器产能充足，并预期CPO相关业务将推动利润率超过40%，因此作者认为该公司没有看空理由。",
+      "translation": "我在Rosenblatt峰会上记录的$AAOI要点笔记：\n- 预计美国生产的800g/1.6T产品将获得溢价（对ASP和利润率非常有利）。\n- 有几份长期协议在谈判中，但公司不想签署以避免产能被其他客户（比如$NVDA）占用。\n- 至少到明年下半年及以后都已售罄（高需求可见性，类似$LITE）。\n- 已有300-400毫瓦激光器。\n- 一旦CPO推出，预期利润率将超过40%+（可能是最重要的重估因素）。\n我看不出有任何人会看空这家公司……",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089763253618434473",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "AAOI",
-      "LITE",
       "SIVE",
-      "COHR",
-      "LITE"
+      "LITE",
+      "AXTI",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件瓶颈（激光器、MLCC、存储等）",
-      "光通信与CPO供应链",
-      "上游材料与产能紧张",
-      "人形机器人与IPO",
-      "人工智能基础设施建设持续加速"
+      "光通信与激光器瓶颈",
+      "AI基础设施与算力需求",
+      "MLCC与被动元件短缺",
+      "存储芯片结构性紧缺",
+      "人形机器人与IPO热潮"
     ],
-    "recent_shift": "近期观点未变，仍看好AI硬件供应链，但短期波动大，关注EPS增长。",
+    "recent_shift": "近期观点从单纯关注光通信拓展到更广泛的供应链瓶颈，并对部分高估值标的（如POET）采取谨慎态度，但整体看多立场未变。",
     "representative_quotes": [
-      "The customer demand is 20%-40% higher than expanded built out capacity.",
+      "I can't see how anyone can be bearish on this company...",
       "Lasers are the biggest bottleneck right now for the transceiver business.",
-      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs."
+      "The customer demand is 20%-40% higher."
     ],
-    "generated_at": "2026-08-18T16:19:56.699180+00:00"
+    "generated_at": "2026-08-18T17:51:02.937622+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
