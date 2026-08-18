@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2089693040923517160",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jamie Dimon of JPMorgan, $JPM, has said that the US dollar could lose its reserve currency status within 25 years.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089693040923517160",
+    "published_at": "2026-08-18T12:37:00+00:00",
+    "fetched_at": "2026-08-18T13:16:11.037956+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPM"
+      ],
+      "direction": "neutral",
+      "summary": "摩根大通CEO戴蒙表示美元可能在25年内失去储备货币地位，这一观点引发对美元长期走势和全球货币体系变化的关注，但未直接给出投资建议。",
+      "translation": "摩根大通的杰米·戴蒙表示，美元可能在未来25年内失去其储备货币地位。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089667874969248029",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
