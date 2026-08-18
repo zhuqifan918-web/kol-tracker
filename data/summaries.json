@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "SPY",
-      "GOOGL",
-      "TSLA",
-      "AMZN"
+      "$NVDA",
+      "$JPM",
+      "$TSLA",
+      "$MSFT",
+      "$AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与估值泡沫风险",
-      "13F机构持仓追踪",
-      "美国经济与财政状况",
-      "科技巨头动态",
-      "市场波动与投资者情绪"
+      "AI投资热潮",
+      "经济衰退与通胀",
+      "国债收益率上升",
+      "市场波动与对冲",
+      "机构持仓动向"
     ],
-    "recent_shift": "近期市场观点转向对AI泡沫和估值过高的担忧，同时关注机构持仓变化和美国经济数据。",
+    "recent_shift": "近期观点转向谨慎，强调了AI泡沫风险和债券收益率上升的压力。",
     "representative_quotes": [
-      "AI is driving up Treasury yields, per Bloomberg.",
-      "Nvidia, $NVDA, has pledged $100 billion backing for OpenAI data centre in Ohio, per FT",
-      "JPMorgan, $JPM, on the AI financing:"
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
+      "The S&P500 could hit 9000 in 12 months, per Evercore"
     ],
-    "generated_at": "2026-08-18T14:59:42.552934+00:00"
+    "generated_at": "2026-08-18T15:32:33.219754+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
