@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2089857625496109563",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nBerkshire Hathaway pivoted on their strategy.\n\nThey started spending their cash pile.\n\nTake a look. https://t.co/AK2Gj2H9uq",
+    "tweet_url": "https://x.com/unusual_whales/status/2089857625496109563",
+    "published_at": "2026-08-18T23:31:00+00:00",
+    "fetched_at": "2026-08-18T23:43:22.458454+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK"
+      ],
+      "direction": "bullish",
+      "summary": "推特指出伯克希尔·哈撒韦改变了策略，开始动用其巨额现金储备进行投资或支出，这可能被视为对市场或该公司未来收益的积极信号。",
+      "translation": "看这个。伯克希尔·哈撒韦调整了他们的策略。他们开始动用他们的现金储备。看看这个。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089849320485036307",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
