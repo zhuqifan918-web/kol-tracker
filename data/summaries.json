@@ -27,25 +27,23 @@
     "focus_tickers": [
       "MRNA",
       "PLTR",
-      "GOOGL",
+      "JPM",
       "TSLA",
-      "JPM"
+      "GOOGL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "加密货币与政策",
-      "AI与科技股泡沫",
-      "利率与债券市场",
-      "地缘政治风险",
-      "期权异常交易"
+      "债务与财政风险",
+      "AI泡沫与估值担忧",
+      "市场波动与危机信号"
     ],
-    "recent_shift": "近期观点从对AI和科技股的乐观转向对市场泡沫和债务问题的担忧，同时增加了对地缘政治风险（如伊朗）的关注。",
+    "recent_shift": "近期更关注债务、AI估值风险和潜在市场回调，观点转为防御性。",
     "representative_quotes": [
-      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
+      "Ray Dalio: We are past the point of no return.",
+      "The backlash against AI and the data centers needed to run it is becoming such a touchy election issue that Wall Street is being forced to factor it into its stock market recommendations.",
+      "From BI: Nvidia gets paid upfront, the borrowers and their lenders carry the default risk, and because private credit is ultimately funded by ordinary savers through instruments like pension funds, the tail risk lands on households."
     ],
-    "generated_at": "2026-08-19T20:51:28.042212+00:00"
+    "generated_at": "2026-08-19T21:17:13.904682+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
