@@ -28,22 +28,24 @@
       "PLTR",
       "NVDA",
       "MSFT",
-      "GOOGL",
-      "JPM"
+      "JPM",
+      "GOOGL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "AI泡沫与估值警示",
-      "利率与债务上升",
-      "市场脆弱性"
+      "AI泡沫风险",
+      "高利率与债务压力",
+      "市场回调预警",
+      "地缘政治不确定性",
+      "宏观经济衰退迹象"
     ],
-    "recent_shift": "近期关注点从股市创新高转向对经济放缓和政策风险的担忧。",
+    "recent_shift": "近期对市场更加谨慎，强调AI泡沫和债务负担。",
     "representative_quotes": [
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "We are right now rising close to—not at—the same level in 2000 and the same level in 1929,' Dalio said.",
-      "From BI: 'Nvidia gets paid upfront, the borrowers and their lenders carry the default risk, and because private credit is ultimately funded by ordinary savers through instruments like pension funds, the tail risk lands on households.'"
+      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
+      "The US sold $25 billion of 30-year bonds at 5.216%, the highest interest rate in a quarter century"
     ],
-    "generated_at": "2026-08-19T13:23:27.365120+00:00"
+    "generated_at": "2026-08-19T14:04:13.330342+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
