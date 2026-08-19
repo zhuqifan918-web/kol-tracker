@@ -2,48 +2,50 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "AAOI",
-      "LITE",
       "SIVE",
+      "LITE",
       "COHR",
-      "SNDK"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信与激光器瓶颈",
-      "AI 基础设施需求",
-      "存储芯片短缺",
-      "人形机器人投资机会",
-      "美中供应链分化"
+      "AI光模块和激光器供需失衡",
+      "存储芯片短缺持续",
+      "人形机器人IPO热潮",
+      "MLCC和被动元件瓶颈",
+      "CPO（共封装光学）技术进展"
     ],
-    "recent_shift": "近期从关注广泛 AI 硬件转向更聚焦光通信和激光器瓶颈，并强调需求可见性持续改善。",
+    "recent_shift": "近期观点更加聚焦于激光器和CPO供应链瓶颈，同时看好AI基础设施需求的持续增长。",
     "representative_quotes": [
-      "I can't see how anyone can be bearish on this company...",
-      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
-      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any 'delay' news as market 'noise'.",
+      "The customer demand is 20%-40% higher than expanded built out capacity.",
+      "I can't see how anyone can be bearish on this company..."
     ],
-    "generated_at": "2026-08-19T07:13:48.193839+00:00"
+    "generated_at": "2026-08-19T16:20:11.674860+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$PLTR",
-      "$GOOGL",
-      "$JPM",
-      "$TSLA",
-      "$NVDA"
+      "MRNA",
+      "PLTR",
+      "NVDA",
+      "TSLA",
+      "GOOGL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI泡沫风险与估值担忧",
-      "宏观经济与利率走势",
-      "地缘政治与大宗商品"
+      "AI泡沫与市场估值过高",
+      "国债收益率上升与利率风险",
+      "地缘政治紧张与供应链转移",
+      "经济放缓与债务压力",
+      "市场操纵与内幕交易"
     ],
-    "recent_shift": "近期转向关注AI泡沫和利率上升风险，但整体保持中性。",
+    "recent_shift": "近期观点转向更为谨慎，强调AI泡沫、市场估值过高以及债券收益率上升带来的风险。",
     "representative_quotes": [
       "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
+      "Ray Dalio: We are past the point of no return.",
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
     ],
-    "generated_at": "2026-08-19T15:33:38.095354+00:00"
+    "generated_at": "2026-08-19T16:20:08.663026+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
