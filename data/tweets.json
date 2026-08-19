@@ -40,6 +40,25 @@
     }
   },
   {
+    "tweet_id": "2090050395699851328",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Goldman Sachs research reveals that AI is eliminating approximately 16,000 U.S. jobs monthly",
+    "tweet_url": "https://x.com/unusual_whales/status/2090050395699851328",
+    "published_at": "2026-08-19T12:17:00+00:00",
+    "fetched_at": "2026-08-19T14:04:00.015087+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "高盛研究显示AI每月约减少1.6万个美国工作岗位，这反映了AI对就业市场的广泛影响，可能对宏观经济和部分行业产生深远影响，但未直接指向具体投资标的或买卖建议。",
+      "translation": "高盛研究显示，人工智能正在美国每月大约减少16,000个工作岗位。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090025229888463011",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
