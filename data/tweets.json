@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089945202417164375",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unitree Robotics shares have increased 629% in its Shanghai trading debut.",
+    "tweet_url": "https://x.com/unusual_whales/status/2089945202417164375",
+    "published_at": "2026-08-19T05:19:00+00:00",
+    "fetched_at": "2026-08-19T05:31:20.338508+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "宇树机器人股票在上海上市首日大涨629%，表明市场对其高度看好，属于重大利好消息。",
+      "translation": "宇树机器人股价在其上海上市首日上涨了629%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089935891049451693",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
