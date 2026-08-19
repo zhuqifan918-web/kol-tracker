@@ -27,25 +27,25 @@
     "focus_tickers": [
       "NVDA",
       "GOOGL",
+      "JPM",
       "AMZN",
-      "TSLA",
-      "PLTR"
+      "TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "利率上升与债务压力",
-      "AI泡沫与市场风险",
-      "经济衰退与滞胀风险",
-      "地缘政治紧张",
-      "市场操纵与交易异常"
+      "利率上升与债券市场风险",
+      "AI泡沫与高估值担忧",
+      "地缘政治紧张的避险情绪",
+      "市场集中度与流动性紧缩",
+      "消费者经济压力与通胀"
     ],
-    "recent_shift": "近期观点更趋谨慎，强调市场泡沫与债务风险，同时提示交易异常和地缘政治不确定性。",
+    "recent_shift": "近期观点从对股市上涨的乐观转向对美国债务、利率和AI泡沫的担忧。",
     "representative_quotes": [
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
-      "BREAKING: 75% of active fund managers failed to beat the S&P 500 over the preceding 12-month period, per WSJ"
+      "The US sold $25 billion of 30-year bonds at 5.216%, the highest interest rate in a quarter century.",
+      "Strain is spreading across private credit portfolios, with signals of stress in the market reaching levels last seen in 2017, per FT."
     ],
-    "generated_at": "2026-08-19T00:40:28.356867+00:00"
+    "generated_at": "2026-08-19T02:12:20.257180+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
