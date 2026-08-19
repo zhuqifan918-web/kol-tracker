@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2089973586425766134",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... \n\nAnd now Elazr GM at their investor conference stated: \n\nOptical supply is still far behind the market demand, the expected AI optical supply chain are likely to continue for years.\n\n- \"the entire supply chain is out of stock\"\n\n- \"the supply is still far behind the market demand\"\n\n- \"the shortage will continue to the next few years\"\n\n\"Whether it is PCB, carrier board, laser chip, or even related packaging  capacity, as long as the AI supply chain link, almost all are in short supply.\" \n\nWhen demand visibility extends for years with the supply chain bottlenecked:\n\nIt's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089973586425766134",
+    "published_at": "2026-08-19T07:11:47+00:00",
+    "fetched_at": "2026-08-19T07:13:13.555600+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LITE",
+        "MTSI",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文引用多家公司财报及Elazr高管言论，指出AI光学供应链存在持续多年的供需失衡，认为相关光通信板块可能复制内存超级周期，进入2027年仍将景气。整体观点强烈看多光学和AI供应链相关股票。",
+      "translation": "我们从LITE、MTSI、AAOI的财报中看到，激光、TIA、DSP等领域存在极端的需求失衡……现在Elazr总经理在投资者会议上表示：光学供应仍远落后于市场需求，预期的AI光学供应链可能会持续数年。\n-“整个供应链都缺货”\n-“供应仍远落后于市场需求”\n-“短缺将持续到未来几年”\n“无论是PCB、载板、激光芯片，还是相关的封装产能，只要是AI供应链环节，几乎都处于短缺状态。”\n当需求可见性延伸到数年且供应链瓶颈存在时：越来越难以不将光子学视为进入2027年的内存超级周期。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089945202417164375",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
