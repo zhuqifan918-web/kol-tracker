@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090189814390047083",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump on the bond market: Americans should not be concerned about volatility.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090189814390047083",
+    "published_at": "2026-08-19T21:31:00+00:00",
+    "fetched_at": "2026-08-19T21:47:33.213520+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普就债券市场波动发表评论，试图安抚投资者情绪，但未提供具体投资建议或提及特定资产，对市场影响中性。",
+      "translation": "特朗普在债券市场上表示：美国人不应该担心波动。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090177004725481911",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
