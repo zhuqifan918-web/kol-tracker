@@ -27,24 +27,25 @@
     "focus_tickers": [
       "MRNA",
       "PLTR",
+      "GOOGL",
       "TSLA",
-      "NVDA",
-      "GOOGL"
+      "JPM"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与科技泡沫担忧",
-      "宏观经济与利率风险",
-      "地缘政治与市场不确定性",
-      "期权交易与特殊机会"
+      "加密货币与政策",
+      "AI与科技股泡沫",
+      "利率与债券市场",
+      "地缘政治风险",
+      "期权异常交易"
     ],
-    "recent_shift": "近期观点从关注宏观经济和地缘政治风险转向更加聚焦于AI投资的机会与风险，并对市场高位表示警惕。",
+    "recent_shift": "近期观点从对AI和科技股的乐观转向对市场泡沫和债务问题的担忧，同时增加了对地缘政治风险（如伊朗）的关注。",
     "representative_quotes": [
-      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients.",
+      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "Dow Jones Indices indicates that in 2020, 60% of U.S. large-cap stock-picking funds lagged behind the S&P 500."
+      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
     ],
-    "generated_at": "2026-08-19T19:28:31.594767+00:00"
+    "generated_at": "2026-08-19T20:51:28.042212+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
