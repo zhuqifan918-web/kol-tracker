@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090220013248553261",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SpaceX is building AI data centers and a $16.8 billion chip-manufacturing facility in Texas\n\nRead more: https://t.co/jUjcwg3ffJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2090220013248553261",
+    "published_at": "2026-08-19T23:31:00+00:00",
+    "fetched_at": "2026-08-19T23:43:56.497136+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "SpaceX 正在得克萨斯州建设 AI 数据中心和 168 亿美元的芯片制造工厂，这显示出对 AI 基础设施和半导体制造领域的重大投资趋势。相关受益方可能包括芯片设备供应商和建筑公司，但未提及具体上市公司。",
+      "translation": "SpaceX 正在得克萨斯州建设 AI 数据中心和一个耗资 168 亿美元的芯片制造工厂。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090189814390047083",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -769,6 +788,25 @@
       "summary": "宾夕法尼亚州州长预计将签署行政命令限制数据中心开发，可能影响该州数据中心及相关产业的投资前景，但未提及具体公司或股票。",
       "translation": "据《华盛顿邮报》报道，宾夕法尼亚州州长乔什·夏皮罗预计将签署一项全面行政命令，限制该州的数据中心开发。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089804905053897048",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Call your semiconductor. https://t.co/QKYBZitBGu",
+    "tweet_url": "https://x.com/unusual_whales/status/2089804905053897048",
+    "published_at": "2026-08-18T20:01:30+00:00",
+    "fetched_at": "2026-08-19T23:44:00.143779+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文简短地提及半导体行业，但未提供具体方向或详细分析，可能暗示与半导体相关的投资机会或风险，但缺乏明确信息。",
+      "translation": "给你的半导体打电话。",
+      "confidence": "low"
     }
   },
   {
