@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090020196534907094",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Australia’s financial crimes agency has identified coordinated mortgage fraud that could reach into the hundreds of millions of dollars following a review of the country’s major banks",
+    "tweet_url": "https://x.com/unusual_whales/status/2090020196534907094",
+    "published_at": "2026-08-19T10:17:00+00:00",
+    "fetched_at": "2026-08-19T10:19:33.949805+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "澳大利亚金融犯罪机构发现主要银行存在协同抵押贷款欺诈，涉及金额可能高达数亿澳元。这将增加银行业的监管风险，可能对银行股产生负面影响，投资者需警惕。",
+      "translation": "突发：澳大利亚金融犯罪机构在审查该国主要银行后，发现了协调性抵押贷款欺诈，涉及金额可能达数亿澳元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089974136437449126",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
