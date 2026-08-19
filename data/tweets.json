@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090157049527321028",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: Oil prices will be a lot lower when this is over.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090157049527321028",
+    "published_at": "2026-08-19T19:20:48+00:00",
+    "fetched_at": "2026-08-19T19:28:06.970885+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普表示，当疫情结束时，油价将会大幅下跌。这暗示未来原油供应可能过剩或需求减弱，对能源板块及相关资产构成利空。",
+      "translation": "特朗普：当这一切结束时，油价将会低得多。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090151310498656710",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -36,6 +55,25 @@
       "direction": "neutral",
       "summary": "美国据报将把对加拿大钢铝的关税减半，这可能影响相关行业股票，但未明确提及具体公司，整体影响偏向中性。",
       "translation": "突发：据彭博社报道，美国据称将在贸易协议中将加拿大钢铁和铝的关税减半。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090140992309764299",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Singapore has unveiled tax cuts for asset managers, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2090140992309764299",
+    "published_at": "2026-08-19T18:17:00+00:00",
+    "fetched_at": "2026-08-19T19:28:08.395863+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "新加坡宣布对资产管理公司实施减税政策，这将降低运营成本，吸引更多国际资本流入，对新加坡金融业及相关资产构成利好。",
+      "translation": "新加坡宣布对资产管理公司实施减税政策，据金融时报报道。",
       "confidence": "medium"
     }
   },
