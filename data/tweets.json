@@ -1,5 +1,69 @@
 [
   {
+    "tweet_id": "2090110043366866977",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Holy look at this.\n\nModerna, $MRNA, is up 130% today.\n\nAn experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said https://t.co/0OWTKMDLgu",
+    "tweet_url": "https://x.com/unusual_whales/status/2090110043366866977",
+    "published_at": "2026-08-19T16:14:01+00:00",
+    "fetched_at": "2026-08-19T16:19:42.321879+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRNA"
+      ],
+      "direction": "bullish",
+      "summary": "Moderna股价因实验性mRNA癌症疫苗在黑色素瘤高危患者中显示出预防复发或扩散的积极效果而大涨130%，该消息为重大利好，可能推动股价进一步上涨。",
+      "translation": "看看这个。Moderna（$MRNA）今天上涨了130%。一项实验性mRNA疫苗在针对高危黑色素瘤患者的研究中成功阻止了癌症复发或扩散，Moderna及其合作伙伴默克公司表示。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090105760495841393",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US Treasury increasing size of liquidity support buyback operations for longer-dated nominal coupon securities",
+    "tweet_url": "https://x.com/unusual_whales/status/2090105760495841393",
+    "published_at": "2026-08-19T15:57:00+00:00",
+    "fetched_at": "2026-08-19T16:19:43.980173+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国财政部扩大长期名义国债的流动性支持回购操作规模，此举旨在增加市场流动性，可能对债券市场及相关资产产生影响，但方向不明确。",
+      "translation": "突发：美国财政部正在扩大对较长期限名义息票证券的流动性支持回购操作的规模。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090103899302826302",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$MRVL gives $GOOGL options to buy $12.2B of the company. \n\n\"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and  move information ⁠across networks.\"\n\nWhich could translate into ~$120 billion ​in revenue through 2033. \n\nMarvell also has separate warrants with $AMZN after their Celestial acquisition (for purchases of photonic fabric).\n\nRemember the good times when Jensen said Marvell would be the next $1T+ company?  \n\nSeems Nvidia knew Marvell was \"networking\" its way into all the hyperscalers with warrants.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090103899302826302",
+    "published_at": "2026-08-19T15:49:36+00:00",
+    "fetched_at": "2026-08-19T16:19:22.418317+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL",
+        "GOOGL",
+        "AMZN",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调Marvell与谷歌和亚马逊的深度合作及认股权证，可能带来巨额收入增长，并提及英伟达CEO曾看好其未来，整体传递积极信号。",
+      "translation": "$MRVL 给予 $GOOGL 以122亿美元收购该公司的期权。'Marvell-Google协议涵盖用于TPU的广泛技术，包括运行AI模型的处理器、管理数据存储以及在网络中传输信息。' 这可能转化为到2033年约1200亿美元的收入。Marvell在收购Celestial后还拥有与$AMZN的单独认股权证（用于购买光子结构）。还记得 Jensen 说 Marvell 将成为下一个1万亿美元公司的好时光吗？似乎英伟达知道 Marvell 正在通过认股权证'网络化'其进入所有超级云巨头的道路。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090097112662807038",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -34,6 +98,25 @@
       "direction": "neutral",
       "summary": "美国财政部宣布增加长期国债的发行规模，这可能影响长期利率和债券市场。投资者需关注其对股市和经济的潜在影响。",
       "translation": "突发：美国财政部宣布增加名义长期国债的发行规模。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090092307517235529",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Get ready for this.  \n\nStarting now! We are hosting @BlueMoonMetals and their CEO @AdventusCEO for a panel on critical metal, particularly tungsten.  \n\nJoin the panel of speakers, including:\n@Teo_Sinamin\n@eqresourcesasx\n\nhttps://t.co/PhIhZqLM2k",
+    "tweet_url": "https://x.com/unusual_whales/status/2090092307517235529",
+    "published_at": "2026-08-19T15:03:32+00:00",
+    "fetched_at": "2026-08-19T16:19:54.144492+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布举办关于关键金属（尤其是钨）的小组讨论，邀请BlueMoon Metals及其CEO等嘉宾，属于行业资讯分享，未提供明确投资建议或方向，但提及的公司可能受关注。",
+      "translation": "准备好！现在开始！我们将主办@BlueMoonMetals及其CEO @AdventusCEO关于关键金属（特别是钨）的小组讨论。加入包括@Teo_Sinamin和@eqresourcesasx在内的演讲嘉宾小组。",
       "confidence": "medium"
     }
   },
