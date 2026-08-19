@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090174714664644861",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said that the U.S. government is considering plans to purchase and accumulate \"sizable\" amounts of Bitcoin and other cryptocurrencies.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090174714664644861",
+    "published_at": "2026-08-19T20:31:00+00:00",
+    "fetched_at": "2026-08-19T20:51:06.250708+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普表示美国政府正考虑购买和积累大量比特币及其他加密货币，这对比特币等加密资产构成潜在利好，可能推动价格上涨。",
+      "translation": "特朗普表示，美国政府正在考虑购买和积累'相当数量'的比特币和其他加密货币的计划。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090157049527321028",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -275,6 +296,25 @@
       "direction": "bearish",
       "summary": "私募股权行业面临大量未出售企业，可能对私募股权相关股票或指数产生负面压力，反映市场流动性紧张和退出困难。",
       "translation": "据《纽约时报》报道，私募股权公司手头积压了33,575家未出售的企业。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090055428839510237",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nearly half of all AI/ML talent sits in California, per a16z.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090055428839510237",
+    "published_at": "2026-08-19T12:37:00+00:00",
+    "fetched_at": "2026-08-19T20:51:13.924211+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及a16z的数据显示加州集中了近一半的AI/ML人才，这可能对AI相关行业和公司投资有潜在影响，但推文本未给出具体投资建议或股票方向，因此视为中性信息。",
+      "translation": "根据a16z的数据，近一半的AI/ML人才位于加州。",
       "confidence": "medium"
     }
   },
