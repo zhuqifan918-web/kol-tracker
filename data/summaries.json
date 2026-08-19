@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "PLTR",
-      "NVDA",
-      "MSFT",
-      "JPM",
-      "GOOGL"
+      "$PLTR",
+      "$GOOGL",
+      "$JPM",
+      "$TSLA",
+      "$NVDA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫风险",
-      "高利率与债务压力",
-      "市场回调预警",
-      "地缘政治不确定性",
-      "宏观经济衰退迹象"
+      "AI泡沫风险与估值担忧",
+      "宏观经济与利率走势",
+      "地缘政治与大宗商品"
     ],
-    "recent_shift": "近期对市场更加谨慎，强调AI泡沫和债务负担。",
+    "recent_shift": "近期转向关注AI泡沫和利率上升风险，但整体保持中性。",
     "representative_quotes": [
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
       "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
-      "The US sold $25 billion of 30-year bonds at 5.216%, the highest interest rate in a quarter century"
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
     ],
-    "generated_at": "2026-08-19T14:04:13.330342+00:00"
+    "generated_at": "2026-08-19T15:33:38.095354+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
