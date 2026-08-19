@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "PLTR",
       "NVDA",
+      "MSFT",
       "GOOGL",
-      "AMZN",
-      "TSM",
-      "SPY"
+      "JPM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI和数据中心投资热潮",
-      "利率上升与债务问题",
-      "市场泡沫警告",
-      "对冲基金和机构动向",
-      "散户投资工具推广"
+      "AI泡沫与估值警示",
+      "利率与债务上升",
+      "市场脆弱性"
     ],
-    "recent_shift": "近期从关注AI增长转向强调市场泡沫风险和债务负担加重。",
+    "recent_shift": "近期关注点从股市创新高转向对经济放缓和政策风险的担忧。",
     "representative_quotes": [
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
-      "BREAKING: Nvidia, $NVDA, has pledged $100 billion backing for OpenAI data centre in Ohio, per FT"
+      "We are right now rising close to—not at—the same level in 2000 and the same level in 1929,' Dalio said.",
+      "From BI: 'Nvidia gets paid upfront, the borrowers and their lenders carry the default risk, and because private credit is ultimately funded by ordinary savers through instruments like pension funds, the tail risk lands on households.'"
     ],
-    "generated_at": "2026-08-19T11:16:51.310389+00:00"
+    "generated_at": "2026-08-19T13:23:27.365120+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

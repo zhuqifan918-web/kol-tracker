@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2090065495366214130",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090065495366214130",
+    "published_at": "2026-08-19T13:17:00+00:00",
+    "fetched_at": "2026-08-19T13:23:10.130312+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PLTR"
+      ],
+      "direction": "bearish",
+      "summary": "知名投资者迈克尔·伯里预测Palantir（PLTR）股价长期将跌破1美元，表达极度看空观点。",
+      "translation": "迈克尔·伯里表示，Palantir（$PLTR）长期来看股价将低于1美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090060461932954026",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Private equity is stuck with 33,575 unsold businesses, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2090060461932954026",
+    "published_at": "2026-08-19T12:57:00+00:00",
+    "fetched_at": "2026-08-19T13:23:11.608856+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "私募股权行业面临大量未出售企业，可能对私募股权相关股票或指数产生负面压力，反映市场流动性紧张和退出困难。",
+      "translation": "据《纽约时报》报道，私募股权公司手头积压了33,575家未出售的企业。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090025229888463011",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
