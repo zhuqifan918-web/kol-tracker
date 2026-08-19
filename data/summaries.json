@@ -28,22 +28,22 @@
       "NVDA",
       "GOOGL",
       "JPM",
-      "AMZN",
-      "TSLA"
+      "TSLA",
+      "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
       "人工智能与数据中心",
-      "债券收益率与通胀",
-      "地缘政治风险"
+      "宏观经济与利率走势",
+      "市场波动与交易策略"
     ],
-    "recent_shift": "近期观点转向关注债券收益率上升和市场泡沫风险。",
+    "recent_shift": "近期对市场泡沫和利率风险的担忧增加，但对AI和科技股的长期前景仍持乐观态度。",
     "representative_quotes": [
-      "We are right now rising close to—not at—the same level in 2000 and the same level in 1929, Dalio said.",
-      "The S&P500 could hit 9000 in 12 months, per Evercore.",
-      "JUST IN: Wells Fargo has said the Fed will hike rates by 25 bps in 2026."
+      "Ray Dalio: We are past the point of no return.",
+      "Big Short investor Steve Eisman has said that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic, per CNBC",
+      "Jane Street lost $15 billion in its first down month in a decade, per CNBC"
     ],
-    "generated_at": "2026-08-19T04:59:44.270971+00:00"
+    "generated_at": "2026-08-19T05:31:34.896397+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
