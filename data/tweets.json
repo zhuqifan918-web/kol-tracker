@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2090151310498656710",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.  \n\nThis is a wild, unlikely play, but this option contract is up 711,500% and was nowhere near priced in by the market.\n\nModerna, $MRNA, announced MRNA vaccine working on melanoma.\n\nIf you had invested only $1 yesterday you would have made $7000.\n\nYou can see it via Unusual Whales.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090151310498656710",
+    "published_at": "2026-08-19T18:58:00+00:00",
+    "fetched_at": "2026-08-19T19:00:19.030390+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRNA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到Moderna的MRNA疫苗在黑色素瘤治疗中取得突破，导致相关期权合约暴涨711,500%，暗示市场对该消息定价不足，看涨情绪强烈。",
+      "translation": "突发新闻：看看这个。这是一个疯狂且不太可能的机会，但这个期权合约上涨了711,500%，而市场远未对此进行定价。Moderna（$MRNA）宣布其mRNA疫苗对黑色素瘤有效。如果你昨天只投资了1美元，现在就能赚到7000美元。你可以通过Unusual Whales查看。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090145773908291770",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US to reportedly halve tariffs on Canadian steel and aluminum in trade deal, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090145773908291770",
+    "published_at": "2026-08-19T18:36:00+00:00",
+    "fetched_at": "2026-08-19T19:00:20.823556+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国据报将把对加拿大钢铝的关税减半，这可能影响相关行业股票，但未明确提及具体公司，整体影响偏向中性。",
+      "translation": "突发：据彭博社报道，美国据称将在贸易协议中将加拿大钢铁和铝的关税减半。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090136211209719984",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2090136211209719984",
+    "published_at": "2026-08-19T17:58:00+00:00",
+    "fetched_at": "2026-08-19T19:00:24.523883+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国国债利息支出达到创纪录的1.4万亿美元，反映财政赤字扩大和借贷成本上升，可能对市场风险偏好和长期利率产生负面影响，构成潜在利空因素。",
+      "translation": "美国国债的利息支出在过去12个月达到创纪录的1.4万亿美元，原因是借贷成本上升和联邦赤字迅速扩大，据美国银行数据。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090121111581364567",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

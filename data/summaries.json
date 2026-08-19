@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$PLTR",
-      "$MRNA",
-      "$NVDA",
-      "$GOOGL",
-      "$TSLA"
+      "MRNA",
+      "PLTR",
+      "PYPL",
+      "GOOGL",
+      "TSLA"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "人工智能泡沫与估值风险",
-      "债务与利率上升",
-      "市场操纵与内幕交易"
+      "债务与利率风险",
+      "AI泡沫与估值担忧",
+      "地缘政治不确定性与贸易",
+      "市场结构与监管变化",
+      "内幕交易与市场操纵信号"
     ],
-    "recent_shift": "近期观点从前期的关注个股机会转向对宏观债务、AI泡沫和市场风险的担忧。",
+    "recent_shift": "近期观点从对AI和科技股的乐观转向对市场泡沫、债务危机和地缘风险的担忧，且更强调监管和结构性风险。",
     "representative_quotes": [
       "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "Holy, look at this. KKR offered to buy $UGI at 42.50 a share But RIGHT BEFORE THE News, someone placed a huge, unsual trade."
+      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients."
     ],
-    "generated_at": "2026-08-19T17:18:35.298737+00:00"
+    "generated_at": "2026-08-19T19:00:52.900760+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
