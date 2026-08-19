@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090177004725481911",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US national debt officially hits $40 trillion for the first time ever, per FOX",
+    "tweet_url": "https://x.com/unusual_whales/status/2090177004725481911",
+    "published_at": "2026-08-19T20:40:06+00:00",
+    "fetched_at": "2026-08-19T21:16:54.268008+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国国债突破40万亿美元，反映政府债务压力加大，可能影响长期经济增长和金融市场稳定。对投资者而言，需关注财政赤字、利率及通胀风险，可能减少风险资产吸引力。",
+      "translation": "突发：美国国债正式突破40万亿美元大关，创历史新高（据FOX报道）。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090174714664644861",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
