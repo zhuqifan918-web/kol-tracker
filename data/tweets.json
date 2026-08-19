@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090025229888463011",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: OpenAI's revenue grew much slower than Anthropic's last quarter, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2090025229888463011",
+    "published_at": "2026-08-19T10:37:00+00:00",
+    "fetched_at": "2026-08-19T11:16:37.778096+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到OpenAI上季度营收增速慢于Anthropic，反映出AI行业内部竞争格局变化，可能对相关未上市公司估值或投资者情绪产生间接影响，但未直接涉及上市公司或具体投资建议。",
+      "translation": "突发：据《华尔街日报》报道，OpenAI上季度的营收增长明显慢于Anthropic。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090020196534907094",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

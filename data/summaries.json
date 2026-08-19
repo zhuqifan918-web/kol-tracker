@@ -27,24 +27,25 @@
     "focus_tickers": [
       "NVDA",
       "GOOGL",
-      "TSLA",
-      "JPM",
-      "AMD"
+      "AMZN",
+      "TSM",
+      "SPY"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技泡沫",
-      "利率与国债收益率上升",
-      "地缘政治风险（伊朗、海峡）",
-      "市场波动与对冲策略"
+      "AI和数据中心投资热潮",
+      "利率上升与债务问题",
+      "市场泡沫警告",
+      "对冲基金和机构动向",
+      "散户投资工具推广"
     ],
-    "recent_shift": "近期转向关注AI泡沫风险及地缘政治紧张，同时利用市场波动推广工具和ETF产品。",
+    "recent_shift": "近期从关注AI增长转向强调市场泡沫风险和债务负担加重。",
     "representative_quotes": [
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "Nvidia, $NVDA, has pledged $100 billion backing for OpenAI data centre in Ohio, per FT",
-      "JPMorgan, $JPM, on the AI financing: https://t.co/RxGNCtFVsQ"
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
+      "BREAKING: Nvidia, $NVDA, has pledged $100 billion backing for OpenAI data centre in Ohio, per FT"
     ],
-    "generated_at": "2026-08-19T10:19:48.247408+00:00"
+    "generated_at": "2026-08-19T11:16:51.310389+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
