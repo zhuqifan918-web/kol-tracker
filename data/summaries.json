@@ -27,25 +27,25 @@
     "focus_tickers": [
       "NVDA",
       "GOOGL",
+      "AMZN",
       "TSLA",
-      "SPY",
-      "BRK.B"
+      "PLTR"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI驱动的市场泡沫担忧",
-      "地缘政治紧张局势影响市场",
-      "机构投资者仓位变动",
-      "美国经济衰退与通胀风险",
-      "ETF与交易工具创新"
+      "利率上升与债务压力",
+      "AI泡沫与市场风险",
+      "经济衰退与滞胀风险",
+      "地缘政治紧张",
+      "市场操纵与交易异常"
     ],
-    "recent_shift": "从对特朗普政策积极效应感到乐观转向关注AI泡沫、债务负担和地缘冲突带来的市场风险。",
+    "recent_shift": "近期观点更趋谨慎，强调市场泡沫与债务风险，同时提示交易异常和地缘政治不确定性。",
     "representative_quotes": [
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "The backlash against AI and the data centers needed to run it is becoming such a touchy election issue that Wall Street is being forced to factor it into its stock market recommendations.",
-      "Trump says he will declare the Strait of Hormuz \"a territory of the United States.\""
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
+      "BREAKING: 75% of active fund managers failed to beat the S&P 500 over the preceding 12-month period, per WSJ"
     ],
-    "generated_at": "2026-08-18T23:43:49.895940+00:00"
+    "generated_at": "2026-08-19T00:40:28.356867+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
