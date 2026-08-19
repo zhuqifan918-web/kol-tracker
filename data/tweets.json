@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090121111581364567",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US PayPal, $PYPL, users can now use the PayPal app to make in-store QR code payments at Weixin Pay merchants across China through PayPal World",
+    "tweet_url": "https://x.com/unusual_whales/status/2090121111581364567",
+    "published_at": "2026-08-19T16:58:00+00:00",
+    "fetched_at": "2026-08-19T17:18:11.265588+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PYPL"
+      ],
+      "direction": "bullish",
+      "summary": "PayPal与微信支付的合作扩展了其跨境支付能力，可能增加交易量和用户粘性，对PYPL构成利好。此消息暗示公司国际业务增长潜力，投资者情绪可能偏正面。",
+      "translation": "美国PayPal（$PYPL）用户现在可以通过PayPal App，在遍布中国的微信支付商户处，使用PayPal World进行店内二维码支付。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090110043366866977",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
