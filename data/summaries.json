@@ -27,23 +27,24 @@
     "focus_tickers": [
       "NVDA",
       "GOOGL",
-      "JPM",
       "TSLA",
-      "MSFT"
+      "JPM",
+      "AMD"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与数据中心",
-      "宏观经济与利率走势",
-      "市场波动与交易策略"
+      "人工智能与科技泡沫",
+      "利率与国债收益率上升",
+      "地缘政治风险（伊朗、海峡）",
+      "市场波动与对冲策略"
     ],
-    "recent_shift": "近期对市场泡沫和利率风险的担忧增加，但对AI和科技股的长期前景仍持乐观态度。",
+    "recent_shift": "近期转向关注AI泡沫风险及地缘政治紧张，同时利用市场波动推广工具和ETF产品。",
     "representative_quotes": [
-      "Ray Dalio: We are past the point of no return.",
-      "Big Short investor Steve Eisman has said that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic, per CNBC",
-      "Jane Street lost $15 billion in its first down month in a decade, per CNBC"
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "Nvidia, $NVDA, has pledged $100 billion backing for OpenAI data centre in Ohio, per FT",
+      "JPMorgan, $JPM, on the AI financing: https://t.co/RxGNCtFVsQ"
     ],
-    "generated_at": "2026-08-19T05:31:34.896397+00:00"
+    "generated_at": "2026-08-19T10:19:48.247408+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
