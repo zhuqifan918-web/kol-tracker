@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2089935891049451693",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Going forward, Nasdaq will conduct trading 23 hours per day, five days per week in two trading sessions\n\nRead more: https://t.co/3MUMvIO9RJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2089935891049451693",
+    "published_at": "2026-08-19T04:42:00+00:00",
+    "fetched_at": "2026-08-19T04:59:28.804837+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "纳斯达克将延长交易时间至每周五天每天23小时，分为两个交易时段。这属于市场基础设施变化，可能影响交易流动性和波动性，但未直接指向具体投资方向或标的。",
+      "translation": "未来，纳斯达克将在每周五个交易日中，每天进行23小时的交易，分为两个交易时段。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2089924817994817930",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16,6 +35,25 @@
       "summary": "该推文透露OpenAI正在洽谈一笔价值5000亿美元的租赁交易，显示其业务扩张和资金需求，可能对AI行业及相关投资者产生积极影响。",
       "translation": "正在与OpenAI讨论的一项潜在交易将帮助ChatGPT的创建者租赁5000亿美元",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2089920523698651370",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says he has paused the 50% tariff against Canada",
+    "tweet_url": "https://x.com/unusual_whales/status/2089920523698651370",
+    "published_at": "2026-08-19T03:40:56+00:00",
+    "fetched_at": "2026-08-19T04:59:31.204221+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普暂停对加拿大征收50%关税，缓解贸易紧张局势，利好市场风险偏好，可能提振加元及相关资产。",
+      "translation": "突发：特朗普表示已暂停对加拿大征收50%的关税。",
+      "confidence": "medium"
     }
   },
   {

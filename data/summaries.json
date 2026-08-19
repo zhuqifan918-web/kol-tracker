@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "TSLA",
       "GOOGL",
       "JPM",
-      "AMZN"
+      "AMZN",
+      "TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮",
-      "国债收益率攀升",
-      "美国政府债务",
-      "市场估值泡沫风险",
-      "大选与政策影响"
+      "人工智能与数据中心",
+      "债券收益率与通胀",
+      "地缘政治风险"
     ],
-    "recent_shift": "近期观点从关注个股动向转向对市场泡沫和系统性风险的警告，同时加大了对AI产业链融资和地缘政治风险的关注。",
+    "recent_shift": "近期观点转向关注债券收益率上升和市场泡沫风险。",
     "representative_quotes": [
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
-      "The US sold $25 billion of 30-year bonds at 5.216%, the highest interest rate in a quarter century"
+      "We are right now rising close to—not at—the same level in 2000 and the same level in 1929, Dalio said.",
+      "The S&P500 could hit 9000 in 12 months, per Evercore.",
+      "JUST IN: Wells Fargo has said the Fed will hike rates by 25 bps in 2026."
     ],
-    "generated_at": "2026-08-19T04:05:35.060894+00:00"
+    "generated_at": "2026-08-19T04:59:44.270971+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
