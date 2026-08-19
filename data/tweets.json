@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2089909718483640664",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "‘We are right now rising close to—not at—the same level in 2000 and the same level in 1929,’ Dalio said.\n\nRead more: https://t.co/c4mneVuvzI",
+    "tweet_url": "https://x.com/unusual_whales/status/2089909718483640664",
+    "published_at": "2026-08-19T02:58:00+00:00",
+    "fetched_at": "2026-08-19T03:23:03.165980+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "达利欧指出当前市场水平接近2000年和1929年的高位，暗示市场可能面临类似的历史性回调风险。这被视为对股市的谨慎信号，投资者需警惕潜在的下行风险。",
+      "translation": "达利欧表示：‘我们现在正在接近——但尚未达到——2000年和1929年的同一水平。’",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089908198694351064",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Unitree (688836) is now public.\n\nAnd is valued at ~$53.3B, after rising +492.18%\n\nWe finally have a major public company benchmark for humanoids.\n\nFor reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. \n\n$TSLA is $1T+, but Optimus is wrapped inside a much larger company.\n\nBut I think Unitree showed that the demand for pure play humanoid players is much larger… than people expected in public markets.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2089908198694351064",
+    "published_at": "2026-08-19T02:51:57+00:00",
+    "fetched_at": "2026-08-19T03:22:43.535618+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "688836",
+        "NVDA",
+        "AMZN",
+        "CCXI",
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "宇树科技上市后市值约533亿美元，大涨492%，表明市场对人形机器人纯玩家需求远超预期。对比Agility（通过CCXI）估值25亿美元和特斯拉Optimus（包含在更大公司中），宇树的表现证明纯人形机器人公司有巨大投资潜力。",
+      "translation": "宇树科技（688836）现已上市。市值约533亿美元，上市后上涨492.18%。我们终于有了人形机器人领域的主要上市公司基准。作为参考，Agility（由英伟达和亚马逊支持）通过CCXI预计在第四季度以25亿美元的投资前估值上市。特斯拉市值超过1万亿美元，但Optimus被包含在一个更大的公司内部。但我认为宇树表明，对纯人形机器人玩家的需求比人们在公开市场预期的要大得多。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089894619077337411",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -15,6 +59,27 @@
       "direction": "neutral",
       "summary": "该推文引用富国银行的观点，指出美联储虽目标通胀回到2%，但加息可能性取决于通胀趋势和经济稳定。这暗示未来货币政策存在不确定性，对市场影响中性偏谨慎。",
       "translation": "富国银行指出，尽管美联储旨在将通胀带回2%的目标，但加息的可能性仍取决于通胀趋势和经济稳定。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2089887824392675621",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan already employs more people in Texas than in any other state, growing from 4,000 workers in the Dallas area in 2003 to about 18,500 today\n\nRead more: https://t.co/ZakaWNAQbR",
+    "tweet_url": "https://x.com/unusual_whales/status/2089887824392675621",
+    "published_at": "2026-08-19T01:31:00+00:00",
+    "fetched_at": "2026-08-19T03:23:09.470410+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "JPM"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到摩根大通在德克萨斯州的员工数量已超过其他任何州，从2003年达拉斯地区的4000人增长至如今的约18500人，反映了该行在德州的扩张，未直接给出投资建议，但可能暗示对该地区业务的重视。",
+      "translation": "摩根大通在德克萨斯州的员工人数已超过其他任何州，从2003年达拉斯地区的4000人增长至如今的约18500人。阅读更多：https://t.co/ZakaWNAQbR",
       "confidence": "medium"
     }
   },

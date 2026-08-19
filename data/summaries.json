@@ -2,50 +2,48 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "AAOI",
-      "SIVE",
       "LITE",
-      "AXTI",
-      "MU"
+      "SIVE",
+      "COHR",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信与激光器瓶颈",
-      "AI基础设施与算力需求",
-      "MLCC与被动元件短缺",
-      "存储芯片结构性紧缺",
-      "人形机器人与IPO热潮"
+      "光学与激光供应链瓶颈",
+      "内存与存储短缺",
+      "人形机器人IPO热潮",
+      "CPO共封装光学技术",
+      "AI基础设施持续扩张"
     ],
-    "recent_shift": "近期观点从单纯关注光通信拓展到更广泛的供应链瓶颈，并对部分高估值标的（如POET）采取谨慎态度，但整体看多立场未变。",
+    "recent_shift": "从7月市场回调后，近期观点转向乐观，强调需求依然旺盛，并对回调视为机会。",
     "representative_quotes": [
       "I can't see how anyone can be bearish on this company...",
-      "Lasers are the biggest bottleneck right now for the transceiver business.",
-      "The customer demand is 20%-40% higher."
+      "The customer demand is 20%-40% higher.",
+      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs."
     ],
-    "generated_at": "2026-08-18T17:51:02.937622+00:00"
+    "generated_at": "2026-08-19T03:23:31.198090+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "GOOGL",
-      "JPM",
-      "AMZN",
-      "TSLA"
+      "$NVDA",
+      "$GOOGL",
+      "$JPM",
+      "$TSLA",
+      "$PLTR"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "利率上升与债券市场风险",
-      "AI泡沫与高估值担忧",
-      "地缘政治紧张的避险情绪",
-      "市场集中度与流动性紧缩",
-      "消费者经济压力与通胀"
+      "AI热潮",
+      "利率与债券收益率",
+      "地缘政治风险"
     ],
-    "recent_shift": "近期观点从对股市上涨的乐观转向对美国债务、利率和AI泡沫的担忧。",
+    "recent_shift": "近期关注点从AI估值泡沫担忧转向对利率上升和地缘政治紧张局势的担忧。",
     "representative_quotes": [
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "The US sold $25 billion of 30-year bonds at 5.216%, the highest interest rate in a quarter century.",
-      "Strain is spreading across private credit portfolios, with signals of stress in the market reaching levels last seen in 2017, per FT."
+      "We are right now rising close to—not at—the same level in 2000 and the same level in 1929,' Dalio said.",
+      "Investors are preparing for stagflation over next 12 months, per Bank of America.",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
     ],
-    "generated_at": "2026-08-19T02:12:20.257180+00:00"
+    "generated_at": "2026-08-19T03:23:28.324121+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
