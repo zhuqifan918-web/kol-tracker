@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$GOOGL",
-      "$JPM",
-      "$TSLA",
-      "$PLTR"
+      "NVDA",
+      "TSLA",
+      "GOOGL",
+      "JPM",
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI热潮",
-      "利率与债券收益率",
-      "地缘政治风险"
+      "AI投资热潮",
+      "国债收益率攀升",
+      "美国政府债务",
+      "市场估值泡沫风险",
+      "大选与政策影响"
     ],
-    "recent_shift": "近期关注点从AI估值泡沫担忧转向对利率上升和地缘政治紧张局势的担忧。",
+    "recent_shift": "近期观点从关注个股动向转向对市场泡沫和系统性风险的警告，同时加大了对AI产业链融资和地缘政治风险的关注。",
     "representative_quotes": [
-      "We are right now rising close to—not at—the same level in 2000 and the same level in 1929,' Dalio said.",
-      "Investors are preparing for stagflation over next 12 months, per Bank of America.",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
+      "The US sold $25 billion of 30-year bonds at 5.216%, the highest interest rate in a quarter century"
     ],
-    "generated_at": "2026-08-19T03:23:28.324121+00:00"
+    "generated_at": "2026-08-19T04:05:35.060894+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

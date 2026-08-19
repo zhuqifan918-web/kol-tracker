@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2089924817994817930",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A prospective deal under discussion with OpenAI would help the ChatGPT creator lease a $500 billion\n\nRead more: https://t.co/tdHgzyKWxn",
+    "tweet_url": "https://x.com/unusual_whales/status/2089924817994817930",
+    "published_at": "2026-08-19T03:58:00+00:00",
+    "fetched_at": "2026-08-19T04:05:16.084811+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文透露OpenAI正在洽谈一笔价值5000亿美元的租赁交易，显示其业务扩张和资金需求，可能对AI行业及相关投资者产生积极影响。",
+      "translation": "正在与OpenAI讨论的一项潜在交易将帮助ChatGPT的创建者租赁5000亿美元",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2089918023541166536",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Data from S&amp;P Dow Jones Indices indicates that in 2020, 60% of U.S. large-cap stock-picking funds lagged behind the S&amp;P 500.\n\nRead more: https://t.co/X1kHijlyD2",
+    "tweet_url": "https://x.com/unusual_whales/status/2089918023541166536",
+    "published_at": "2026-08-19T03:31:00+00:00",
+    "fetched_at": "2026-08-19T04:05:19.146241+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用了标普道琼斯指数公司的数据，指出2020年有60%的美国大盘股主动型基金跑输标普500指数，这反映了主动型基金相对被动指数基金的劣势，对指数基金投资者可能有利，但未给出具体投资建议。",
+      "translation": "标普道琼斯指数的数据表明，2020年有60%的美国大盘股选股基金落后于标普500指数。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2089909718483640664",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
