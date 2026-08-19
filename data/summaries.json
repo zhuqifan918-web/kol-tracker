@@ -9,19 +9,19 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学与激光供应链瓶颈",
-      "内存与存储短缺",
-      "人形机器人IPO热潮",
-      "CPO共封装光学技术",
-      "AI基础设施持续扩张"
+      "光通信与激光器瓶颈",
+      "AI 基础设施需求",
+      "存储芯片短缺",
+      "人形机器人投资机会",
+      "美中供应链分化"
     ],
-    "recent_shift": "从7月市场回调后，近期观点转向乐观，强调需求依然旺盛，并对回调视为机会。",
+    "recent_shift": "近期从关注广泛 AI 硬件转向更聚焦光通信和激光器瓶颈，并强调需求可见性持续改善。",
     "representative_quotes": [
       "I can't see how anyone can be bearish on this company...",
-      "The customer demand is 20%-40% higher.",
-      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs."
+      "TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
+      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-08-19T03:23:31.198090+00:00"
+    "generated_at": "2026-08-19T07:13:48.193839+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
