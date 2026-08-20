@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2090360916877664495",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "市场开始拥抱加密黄金炒美债危机叙事，\n抛弃了存储科技。 https://t.co/Fx0yZlpxEe",
+    "tweet_url": "https://x.com/xiaomustock/status/2090360916877664495",
+    "published_at": "2026-08-20T08:50:54+00:00",
+    "fetched_at": "2026-08-20T09:03:09.492704+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC",
+        "GLD"
+      ],
+      "direction": "bearish",
+      "summary": "市场偏好转向加密货币和黄金，担忧美债危机，同时抛售存储科技股。建议关注加密和黄金相关资产，谨慎对待存储科技板块。",
+      "translation": "市场开始拥抱加密黄金炒美债危机叙事，抛弃了存储科技。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090310169079214261",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
