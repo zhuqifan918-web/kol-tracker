@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090474026523394272",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Scott Bessent: We can grow our way out of debt.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090474026523394272",
+    "published_at": "2026-08-20T16:20:21+00:00",
+    "fetched_at": "2026-08-20T16:59:17.720906+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该言论表明政策制定者倾向于通过经济增长而非紧缩措施来应对债务问题，这可能对风险资产构成利好。",
+      "translation": "斯科特·贝森特：我们可以通过增长来摆脱债务。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090468399801569602",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

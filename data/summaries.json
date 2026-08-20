@@ -29,23 +29,23 @@
       "META",
       "MSFT",
       "NVDA",
-      "TSLA"
+      "JPM"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI与科技基础设施投资",
-      "地缘政治风险（霍尔木兹海峡）",
-      "通胀与利率上升",
-      "政治关联交易与政策影响",
-      "散户交易与另类数据"
+      "AI投资热潮与估值泡沫",
+      "国债收益率飙升与债务危机",
+      "通胀与滞胀风险",
+      "地缘政治紧张（霍尔木兹海峡）",
+      "科技巨头AI支出与回报"
     ],
-    "recent_shift": "近期观点从对AI和科技股的极度乐观转向关注市场泡沫风险、债务负担和地缘政治不确定性，同时强调通胀和利率上升对市场的影响。",
+    "recent_shift": "近期观点更偏向对AI泡沫和债务可持续性的担忧，同时关注债券收益率上升和滞胀风险。",
     "representative_quotes": [
-      "BREAKING: Trump bought Moderna, $MRNA.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
+      "Long-term borrowing costs across major economies hit multi-decade highs, per FT.",
+      "Iran: The Strait of Hormuz will remain closed."
     ],
-    "generated_at": "2026-08-20T16:24:15.649537+00:00"
+    "generated_at": "2026-08-20T16:59:28.338245+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
