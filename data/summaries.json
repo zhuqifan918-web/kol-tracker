@@ -26,48 +26,49 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "PLTR",
-      "TSLA",
       "JPM",
-      "NVDA"
+      "NVDA",
+      "TSLA",
+      "GOOGL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与数据中心投资热潮",
-      "美国国债收益率上升与债务问题",
-      "地缘政治风险（伊朗、霍尔木兹海峡）",
-      "市场泡沫担忧",
-      "散户投资工具与数据服务"
+      "加密货币与财政政策",
+      "AI基础设施与科技增长",
+      "市场泡沫与债务风险",
+      "地缘政治与能源市场",
+      "交易工具与市场数据"
     ],
-    "recent_shift": "近期观点转向对市场泡沫和债务风险的担忧加剧，同时关注AI和地缘政治事件对市场的影响。",
+    "recent_shift": "近期特朗普的言论和政策动向可能驱动市场情绪，但整体方向未明显转变。",
     "representative_quotes": [
-      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients."
+      "In the second quarter, Anthropic reported over $11.5 billion in preliminary revenue.",
+      "BREAKING: US national debt officially hits $40 trillion for the first time ever, per FOX",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
     ],
-    "generated_at": "2026-08-20T02:11:37.961166+00:00"
+    "generated_at": "2026-08-20T03:22:35.051171+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
+      "SKHynix",
       "SNDK",
-      "META",
-      "SK Hynix",
       "MU",
-      "GOOGL"
+      "META",
+      "INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张与涨价周期",
-      "AI算力需求驱动存储与CPU结构性缺口",
-      "公司股东回报与资本配置策略",
-      "市场波动与风险控制"
+      "存储行业景气持续，涨价与供不应求",
+      "AI算力与存储需求激增，云厂商受益",
+      "股东回报政策（回购+分红）",
+      "韩国股市折价与投资机会",
+      "风险控制与长期投资理念"
     ],
-    "recent_shift": "近期从对存储行业的极度乐观转向谨慎，强调风险控制和长期投资，同时关注市场和宏观经济不确定性。",
+    "recent_shift": "从激进交易转向更注重风险控制和长期配置，开始定投SPY和QQQ，并计划保持现金仓位等待黑天鹅机会。",
     "representative_quotes": [
       "闪迪承诺100%的股东回报，其他几家不能太不要脸吧。",
-      "存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了",
-      "我不明白市场听了梁文峰的讲话，为啥还担心负现金流的问题。10个月回本哦，年华100%+的apr，这是什么生意，不借个倾家荡产都算保守吧。"
+      "存储利润率80%多，卖给英伟达，英伟达利润率66%卖个ds和openai，ds说我赚的少，我10个月回本就够了，openai claude：我定价贵十倍。尼玛，这是什么利润率啊，白粉都要哭出来。",
+      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。"
     ],
-    "generated_at": "2026-08-19T08:00:27.568299+00:00"
+    "generated_at": "2026-08-20T03:22:32.838803+00:00"
   }
 }
