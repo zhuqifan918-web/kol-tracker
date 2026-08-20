@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2090569818218844189",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Asked whether the administration plans to accumulate a sizable amount of Bitcoin, the president did not rule it out, tying the idea directly to the dollar’s strength.\n\nRead more: https://t.co/d2k85UjVs7",
+    "tweet_url": "https://x.com/unusual_whales/status/2090569818218844189",
+    "published_at": "2026-08-20T22:41:00+00:00",
+    "fetched_at": "2026-08-20T22:52:02.202511+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提及总统未排除大量持有比特币的可能性，并将其与美元走强联系起来，这对比特币构成潜在利好。可能引发市场对比特币作为储备资产的乐观预期。",
+      "translation": "当被问及政府是否计划积累大量比特币时，总统没有排除这一可能性，并将其与美元的强势直接挂钩。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090558997375897839",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "It added that 88 percent of the Forbes AI 50, including OpenAI and Anthropic, build on its platform.\n\nRead more: https://t.co/5JZZWRVxU1",
+    "tweet_url": "https://x.com/unusual_whales/status/2090558997375897839",
+    "published_at": "2026-08-20T21:58:00+00:00",
+    "fetched_at": "2026-08-20T22:52:04.859155+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文表明英伟达平台在AI领域具有极高的市场占有率，88%的福布斯AI 50强公司（包括OpenAI和Anthropic）都在其平台上构建，这利好英伟达的长期增长前景。",
+      "translation": "它补充说，福布斯AI 50强中有88%的公司（包括OpenAI和Anthropic）在其平台上构建。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090552202133983609",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
