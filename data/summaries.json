@@ -25,23 +25,25 @@
     "focus_tickers": [
       "MRNA",
       "META",
+      "MSFT",
       "NVDA",
-      "TSLA",
-      "PLTR"
+      "TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技投资",
-      "宏观经济与债券市场",
-      "地缘政治与大宗商品"
+      "AI驱动的基础设施投资和经济增长",
+      "财政赤字与国债收益率上升",
+      "地缘政治紧张（霍尔木兹海峡）",
+      "通胀与消费疲软",
+      "市场泡沫担忧（AI估值）"
     ],
-    "recent_shift": "近期关注焦点从通胀和利率风险转向AI投资热潮与地缘政治紧张局势，但整体市场情绪保持中性。",
+    "recent_shift": "近期更强调AI泡沫风险和高收益率带来的市场脆弱性，同时关注Moderna等个股的极端波动。",
     "representative_quotes": [
-      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
-      "Dalio's analogy underscores the growing burden of debt service payments on the economy. As these payments increase, they consume a larger portion of budgets, leaving less room for essential spending and investment.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+      "The U.S. 30-year Treasury yield has hit 5.30% for the first time since 2007"
     ],
-    "generated_at": "2026-08-20T17:29:18.242857+00:00"
+    "generated_at": "2026-08-20T17:56:29.146327+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
