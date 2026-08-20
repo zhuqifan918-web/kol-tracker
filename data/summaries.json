@@ -27,25 +27,25 @@
     "focus_tickers": [
       "MRNA",
       "META",
-      "NVDA",
-      "ORCL",
-      "TSLA"
+      "AMZN",
+      "MSFT",
+      "NVDA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资热潮",
-      "财政赤字与国债收益率上升",
-      "地缘政治风险（霍尔木兹海峡）",
-      "市场泡沫担忧（AI估值）",
-      "通胀压力与货币政策"
+      "AI投资热潮",
+      "国债收益率上升",
+      "Strait of Hormuz地缘政治紧张",
+      "政治交易和ETF",
+      "高估值风险"
     ],
-    "recent_shift": "近期重点关注从AI企业盈利转向宏观风险（如债务、通胀）和市场泡沫风险，并增加对个股期权异常波动的关注。",
+    "recent_shift": "从对AI和科技股的乐观转向关注估值泡沫和债务风险。",
     "representative_quotes": [
-      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day. All seen on Unusual Whales.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
+      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
     ],
-    "generated_at": "2026-08-20T19:10:00.344663+00:00"
+    "generated_at": "2026-08-20T21:18:37.708133+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

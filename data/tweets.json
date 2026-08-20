@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090543897306968121",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Amazon, $AMZN, is destroying tons of rare books to feed its AI training,\" per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2090543897306968121",
+    "published_at": "2026-08-20T20:58:00+00:00",
+    "fetched_at": "2026-08-20T21:18:25.363420+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bearish",
+      "summary": "该推文报道亚马逊因AI训练需求销毁大量珍稀书籍，可能引发公众对亚马逊商业行为的负面关注，从而对其股价造成一定压力。",
+      "translation": "据雅虎财经报道，亚马逊正销毁大量珍稀书籍以用于其AI训练。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090510568474231045",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
