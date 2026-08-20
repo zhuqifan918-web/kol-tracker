@@ -1,5 +1,65 @@
 [
   {
+    "tweet_id": "2090453048879698062",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Waymo is now doing over 1.4 million rides per month in California, a 10x increase over the past two years, per Charlie Bilello",
+    "tweet_url": "https://x.com/unusual_whales/status/2090453048879698062",
+    "published_at": "2026-08-20T14:57:00+00:00",
+    "fetched_at": "2026-08-20T15:02:04.075029+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "Waymo的月度载客量大幅增长，表明自动驾驶出租车行业发展迅速，竞争力增强。该消息对Alphabet旗下自动驾驶业务构成积极信号，但未提及具体投资标的，影响较为间接。",
+      "translation": "Waymo目前在加利福尼亚州每月完成超过140万次的载客量，在过去两年中增长了10倍，据Charlie Bilello报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090448015702241746",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Elon Musk's X is exploring stablecoins to pay influencers and content providers, per CoinDesk",
+    "tweet_url": "https://x.com/unusual_whales/status/2090448015702241746",
+    "published_at": "2026-08-20T14:37:00+00:00",
+    "fetched_at": "2026-08-20T15:02:05.621600+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "马斯克旗下X平台探索使用稳定币支付内容创作者，可能增加稳定币的应用场景和需求，对加密市场情绪产生积极影响。但未提及具体股票或代币，属于间接利好。",
+      "translation": "据CoinDesk报道，埃隆·马斯克旗下的X平台正在探索使用稳定币向影响者和内容提供者支付。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090442982331936956",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, has quietly become one of Microsoft’s, $MSFT, largest AI customers, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2090442982331936956",
+    "published_at": "2026-08-20T14:17:00+00:00",
+    "fetched_at": "2026-08-20T15:02:07.490239+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "Meta成为微软最大AI客户之一，表明Meta在AI领域的投入和需求强劲，可能对Meta和微软的AI业务收入产生积极影响，利好其股价。",
+      "translation": "据彭博社报道，Meta（$META）已悄然成为微软（$MSFT）最大的AI客户之一。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090438201148395538",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

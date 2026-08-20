@@ -26,25 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "NVDA",
       "META",
-      "UBER",
-      "TSLA"
+      "NVDA",
+      "TSLA",
+      "JPM"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技股估值泡沫风险",
-      "通胀与滞胀担忧",
-      "地缘政治紧张（霍尔木兹海峡）",
-      "债券收益率上升与债务问题"
+      "AI基础设施与算力",
+      "利率与债券市场",
+      "地缘政治影响",
+      "通胀与消费",
+      "对冲基金策略"
     ],
-    "recent_shift": "近期更关注AI泡沫风险和地缘政治风险，而对通胀的担忧略有缓解，但滞胀仍是主导预期。",
+    "recent_shift": "近期观点转向对AI估值泡沫和债市风险的担忧，同时关注地缘政治和监管变化。",
     "representative_quotes": [
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
-      "According to BofA, stagflation remains the dominant description of the next 12 months, cited by 58% of respondents, though down from 69% in May"
+      "The circular nature of AI deals, per Bloomberg: https://t.co/0OQmfiLFBs",
+      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day. All seen on Unusual Whales. https://t.co/mT3y1IJkv0",
+      "Since February 28, 2026, following U.S. and Israeli airstrikes on Iranian targets, Iran has restricted passage through the Strait of Hormuz. Read more: https://t.co/ooE2YUorys"
     ],
-    "generated_at": "2026-08-20T14:06:57.417469+00:00"
+    "generated_at": "2026-08-20T15:02:20.678904+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
