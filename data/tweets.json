@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090438201148395538",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Daly: The Fed is missing its inflation goal by quite a bit",
+    "tweet_url": "https://x.com/unusual_whales/status/2090438201148395538",
+    "published_at": "2026-08-20T13:58:00+00:00",
+    "fetched_at": "2026-08-20T14:06:37.485544+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储官员戴利表示通胀目标远未达成，暗示货币政策可能持续紧缩或维持高利率，对风险资产（如股市和加密货币）构成潜在压力。投资者应关注通胀数据及美联储政策动向。",
+      "translation": "美联储的戴利表示：美联储偏离通胀目标相当远。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090422850129940887",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

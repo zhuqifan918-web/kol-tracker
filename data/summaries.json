@@ -25,26 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MRNA",
-      "$META",
-      "$UBER",
-      "$NVDA",
-      "$TSLA"
+      "MRNA",
+      "NVDA",
+      "META",
+      "UBER",
+      "TSLA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与估值担忧",
-      "地缘政治风险与能源",
-      "通胀与债务压力",
-      "市场波动与回调风险"
+      "AI与科技股估值泡沫风险",
+      "通胀与滞胀担忧",
+      "地缘政治紧张（霍尔木兹海峡）",
+      "债券收益率上升与债务问题"
     ],
-    "recent_shift": "近期观点从关注AI增长转向警惕泡沫和债务压力，并强调市场面临回调风险。",
+    "recent_shift": "近期更关注AI泡沫风险和地缘政治风险，而对通胀的担忧略有缓解，但滞胀仍是主导预期。",
     "representative_quotes": [
-      "Moderna is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+      "According to BofA, stagflation remains the dominant description of the next 12 months, cited by 58% of respondents, though down from 69% in May"
     ],
-    "generated_at": "2026-08-20T13:26:07.987968+00:00"
+    "generated_at": "2026-08-20T14:06:57.417469+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
