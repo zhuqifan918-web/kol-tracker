@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090510568474231045",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "After seeing how the robotics and space sectors reacted to Unitree and $SPCX IPOs\n\nI’m not quite sure I want Anthropic to go public… https://t.co/hY6tM1r4Qb",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090510568474231045",
+    "published_at": "2026-08-20T18:45:33+00:00",
+    "fetched_at": "2026-08-20T19:52:17.835465+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "bearish",
+      "summary": "该推文暗示，鉴于Unitree和SPCX IPO后的市场表现不佳，投资者对Anthropic潜在的上市持悲观态度，认为其IPO可能面临类似风险。",
+      "translation": "在看到了机器人和航天板块对Unitree和$SPCX IPO的反应之后，我不太确定是否希望Anthropic上市……",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090507634021708256",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
