@@ -27,25 +27,25 @@
     "focus_tickers": [
       "MRNA",
       "PLTR",
+      "NVDA",
       "TSLA",
-      "ORCL",
-      "NVDA"
+      "GOOGL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技泡沫担忧",
-      "利率与债券市场压力",
-      "地缘政治风险（伊朗、霍尔木兹海峡）",
-      "财政赤字与债务问题",
-      "关键金属（钨）与供应链"
+      "人工智能与数据中心",
+      "地缘政治与石油",
+      "债券市场与收益率",
+      "期权异动与散户交易",
+      "特朗普政策影响"
     ],
-    "recent_shift": "近期从关注个股机会转向更多讨论宏观风险，如债务、利率和地缘政治，同时强调市场泡沫可能性。",
+    "recent_shift": "最近更加强调债券市场风险和地缘政治紧张，同时关注AI泡沫风险，整体从前期偏多转向谨慎观望。",
     "representative_quotes": [
-      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "These contracts were up 700,000%. ... This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
+      "The stock market thinks the economy is accelerating. Don't expect jobs to follow."
     ],
-    "generated_at": "2026-08-20T05:01:46.739858+00:00"
+    "generated_at": "2026-08-20T05:53:31.287748+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
