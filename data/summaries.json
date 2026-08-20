@@ -25,25 +25,25 @@
     "focus_tickers": [
       "MRNA",
       "META",
+      "JPM",
       "MSFT",
-      "NVDA",
-      "TSLA"
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI驱动的基础设施投资和经济增长",
-      "财政赤字与国债收益率上升",
-      "地缘政治紧张（霍尔木兹海峡）",
-      "通胀与消费疲软",
-      "市场泡沫担忧（AI估值）"
+      "AI驱动的基础设施投资与经济增长",
+      "国债收益率上升与财政赤字担忧",
+      "地缘政治风险与能源市场波动",
+      "监管与合规风险（数据隐私、政治交易）",
+      "通胀与滞胀预期"
     ],
-    "recent_shift": "近期更强调AI泡沫风险和高收益率带来的市场脆弱性，同时关注Moderna等个股的极端波动。",
+    "recent_shift": "近期关注点从单纯的AI乐观转向对估值泡沫和债务成本的担忧，同时增加了对政治交易和监管风险的讨论。",
     "representative_quotes": [
+      "AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
-      "The U.S. 30-year Treasury yield has hit 5.30% for the first time since 2007"
+      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
     ],
-    "generated_at": "2026-08-20T17:56:29.146327+00:00"
+    "generated_at": "2026-08-20T18:27:15.277080+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
