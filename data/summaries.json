@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MRNA",
-      "NVDA",
-      "ORCL",
-      "MSFT",
-      "JPM"
+      "$MRNA",
+      "$PLTR",
+      "$TSLA",
+      "$NVDA",
+      "$GOOGL"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "地缘政治风险（霍尔木兹海峡）",
-      "债券收益率上升与债务负担",
-      "AI泡沫担忧与科技股估值过高",
-      "滞胀预期",
-      "市场波动与交易机会"
+      "AI投资热潮与泡沫担忧",
+      "国债收益率上升与债券市场压力",
+      "地缘政治风险（伊朗、霍尔木兹海峡）",
+      "滞胀风险与经济不确定性",
+      "个股与期权交易机会"
     ],
-    "recent_shift": "近期观点从对AI和科技股的乐观转向对债券市场、债务和地缘政治风险的担忧，同时强调市场泡沫和潜在的调整风险。",
+    "recent_shift": "近期关注点从单纯看好AI转向担忧泡沫和债务问题，同时增加对宏观风险的关注。",
     "representative_quotes": [
-      "Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "The US sold $25 billion of 30-year bonds at 5.216%, the highest interest rate in a quarter century"
+      "Ray Dalio: We are past the point of no return.",
+      "Dalio's analogy underscores the growing burden of debt service payments on the economy.",
+      "The stock market thinks the economy is accelerating. Don't expect jobs to follow."
     ],
-    "generated_at": "2026-08-20T11:17:59.929059+00:00"
+    "generated_at": "2026-08-20T11:50:20.972230+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

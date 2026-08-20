@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090402717201997833",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090402717201997833",
+    "published_at": "2026-08-20T11:37:00+00:00",
+    "fetched_at": "2026-08-20T11:50:03.007657+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文引述彭博报道，称AI正在带来历史上最大规模的资本支出驱动的GDP增长，对整体经济和科技行业构成利好，可能推动市场情绪和投资机会。",
+      "translation": "突发新闻：据彭博社报道，人工智能正在带来历史上最大的资本支出驱动的GDP增长。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090387617569558895",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
