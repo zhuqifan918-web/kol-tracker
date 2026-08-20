@@ -1,5 +1,68 @@
 [
   {
+    "tweet_id": "2090490101260591481",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd.\n\nThe demand visibility... is just way too stupidly high.\n\nAOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in the next 3 years” (2029)\n\nElazr GM: \"entire optical supply chain was facing major shortages.\" \"The shortage will continue to the next few years\"\n\nSivers CEO said the same thing about InP laser demand imbalances expected for the next 3-5 years.\n\nCan go on and on about $LITE, $MTSI and other comments.\n\nWe haven't even hit the inflection point with 1.6T, NPO, CPO scale out/up, and optics with memory (as seen with SK Hynix).\n\nYet the industry is already bottlenecked by EML/CW and all your other upstream components from PDs/TIA/DSPs, transceivers, and soon FAU + others when CPO scales… \n\nI'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090490101260591481",
+    "published_at": "2026-08-20T17:24:14+00:00",
+    "fetched_at": "2026-08-20T17:28:39.665660+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "SIVE",
+        "AOI",
+        "LITE",
+        "MTSI"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为光学板块近期被低估，尽管需求可见性极高，供应链瓶颈将持续多年，且1.6T、CPO等新技术尚未完全放量。市场未能前瞻性定价，因此作者对行业前景非常乐观。",
+      "translation": "非常积极。我的观点是，最近光学板块从AAOI到SIVE的低迷表现是荒谬的。需求可见性……实在是高得太愚蠢了。AOI：'即使将AOI和Coherent的项目合并，未来3年（2029年）仍然很难满足客户需求'。Elazr总经理：'整个光供应链都面临严重短缺。短缺将持续未来几年'。Sivers CEO也说了同样的话，关于InP激光器需求失衡预计持续3-5年。关于LITE、MTSI和其他评论还可以继续列举。我们甚至还没有达到1.6T、NPO、CPO规模放量的拐点，以及光学与存储的结合（如SK海力士所见）。而行业已经被EML/CW以及所有其他上游组件从PD/TIA/DSP、收发器，以及当CPO规模化时很快会出现的FAU等瓶颈所困扰……我个人非常安心地看着这一切发展，只是有点困惑市场为何不懂提前一两年做数学计算。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090486869532528707",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US Treasury Secretary Bessent: There's a very good chance we have seen a peak in the fiscal deficit.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090486869532528707",
+    "published_at": "2026-08-20T17:11:23+00:00",
+    "fetched_at": "2026-08-20T17:29:03.855350+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国财政部长贝森特表示财政赤字可能已达到峰值，这暗示未来政府债务压力或缓解，可能对债券市场形成利好，同时降低市场对财政紧缩或债务危机的担忧，整体对风险资产构成支撑。",
+      "translation": "美国财政部长贝森特：我们很有可能已经看到了财政赤字的高峰。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090479556868407501",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Representative Ro Khanna just updated his 2025 annual financial disclosure:\n\n5,402 trades\nUp to $165.4 million in trading volume\nNet worth reported as high as $167 million\nUp to $10.8 million in dividends and business distributions",
+    "tweet_url": "https://x.com/unusual_whales/status/2090479556868407501",
+    "published_at": "2026-08-20T16:42:20+00:00",
+    "fetched_at": "2026-08-20T17:29:05.767653+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报告了众议员Ro Khanna的2025年财务披露，显示大量交易和高额资产，但未提及具体标的或投资建议，因此仅具有一般参考价值。",
+      "translation": "突发新闻：众议员Ro Khanna刚刚更新了其2025年年度财务披露：5,402笔交易，交易量高达1.654亿美元，净资产据报道高达1.67亿美元，股息和业务分配高达1,080万美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090474026523394272",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -235,6 +298,27 @@
       "direction": "bearish",
       "summary": "沃顿商学院教授杰里米·西格尔表示，工人正在输给通货膨胀。这意味着实际购买力下降，可能对消费和经济增长产生负面影响，对股市是利空信号。",
       "translation": "沃顿商学院的杰里米·西格尔教授表示，工人们正在输给通货膨胀。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090395700685058370",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @EnamelEquity you’re still positive about $SIVE, right? just needs time to play out.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090395700685058370",
+    "published_at": "2026-08-20T11:09:07+00:00",
+    "fetched_at": "2026-08-20T17:28:44.314989+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文询问关于$SIVE的积极看法是否仍然成立，并认为需要时间等待其发展，表明作者对$SIVE持乐观态度。",
+      "translation": "@aleabitoreddit @EnamelEquity 你仍然看好$SIVE，对吗？只是需要时间来发展。",
       "confidence": "medium"
     }
   },
