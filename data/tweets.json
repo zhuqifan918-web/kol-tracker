@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090463366913597773",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Walmart, $WMT, posted its slowest US sales growth in 6 years: https://t.co/FvJ2ODf0HN",
+    "tweet_url": "https://x.com/unusual_whales/status/2090463366913597773",
+    "published_at": "2026-08-20T15:38:00+00:00",
+    "fetched_at": "2026-08-20T15:56:13.475108+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WMT"
+      ],
+      "direction": "bearish",
+      "summary": "沃尔玛美国销售增长创六年来最慢，表明消费疲软，对零售股构成利空。可能影响投资者对沃尔玛及其他零售板块的信心。",
+      "translation": "沃尔玛，$WMT，公布了其六年来最慢的美国销售增长：https://t.co/FvJ2ODf0HN",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090453048879698062",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
