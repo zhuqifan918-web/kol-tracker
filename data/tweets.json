@@ -19,6 +19,27 @@
     }
   },
   {
+    "tweet_id": "2090493314076164513",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Mark Zuckerberg of $META has reportedly purchased a 19th-century Gothic castle in Ireland worth up to $30 million, per CTV",
+    "tweet_url": "https://x.com/unusual_whales/status/2090493314076164513",
+    "published_at": "2026-08-20T17:37:00+00:00",
+    "fetched_at": "2026-08-20T18:27:07.185309+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "neutral",
+      "summary": "该消息仅关于扎克伯格个人购买城堡，不涉及公司基本面或投资建议，对META股价影响中性。",
+      "translation": "据报道，$META的马克·扎克伯格购买了一座位于爱尔兰的19世纪哥特式城堡，价格高达3000万美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090490101260591481",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
