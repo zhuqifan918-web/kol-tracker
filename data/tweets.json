@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090310169079214261",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "8% chance OpenAI's valuation hits $2.5 trillion by December 31, per Polymarket: https://t.co/YOOB4LX0Y0",
+    "tweet_url": "https://x.com/unusual_whales/status/2090310169079214261",
+    "published_at": "2026-08-20T05:29:15+00:00",
+    "fetched_at": "2026-08-20T05:53:15.584893+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用Polymarket预测市场数据，显示OpenAI估值在12月31日前达到2.5万亿美元的概率为8%，属于对AI公司估值的概率性市场信息，非直接投资建议。",
+      "translation": "根据Polymarket的数据，OpenAI估值在12月31日前达到2.5万亿美元的概率为8%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090302305463881778",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
