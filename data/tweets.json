@@ -21,6 +21,25 @@
     }
   },
   {
+    "tweet_id": "2090566676769378771",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Anthropic has an 80% chance of IPOing by October 31, 2026, per Polymarket: https://t.co/WQbnXVskf0",
+    "tweet_url": "https://x.com/unusual_whales/status/2090566676769378771",
+    "published_at": "2026-08-20T22:28:31+00:00",
+    "fetched_at": "2026-08-20T23:16:38.203943+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Polymarket上关于Anthropic在2026年10月31日前IPO的概率为80%，反映了市场对Anthropic上市可能性的预期，但未直接涉及具体投资建议或方向。",
+      "translation": "根据Polymarket，Anthropic在2026年10月31日前IPO的概率为80%：https://t.co/WQbnXVskf0",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090558997375897839",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
