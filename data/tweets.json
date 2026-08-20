@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090235112776454162",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Since February 28, 2026, following U.S. and Israeli airstrikes on Iranian targets, Iran has restricted passage through the Strait of Hormuz.\n\nRead more: https://t.co/ooE2YUorys",
+    "tweet_url": "https://x.com/unusual_whales/status/2090235112776454162",
+    "published_at": "2026-08-20T00:31:00+00:00",
+    "fetched_at": "2026-08-20T00:39:38.492031+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国及以色列对伊朗目标的空袭导致伊朗限制霍尔木兹海峡通行，可能引发油价上涨与能源市场波动，对依赖中东石油供应的行业形成负面影响。投资者需关注相关地缘风险对全球供应链和通胀预期的冲击。",
+      "translation": "自2026年2月28日起，在美国和以色列对伊朗目标进行空袭后，伊朗限制船只通过霍尔木兹海峡。阅读更多：https://t.co/ooE2YUorys",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090220013248553261",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
