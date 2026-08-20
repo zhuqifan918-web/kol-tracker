@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$WMT",
-      "$META",
-      "$MSFT",
-      "$MRNA",
-      "$UBER"
+      "MRNA",
+      "META",
+      "MSFT",
+      "NVDA",
+      "TSLA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "债务与财政压力",
-      "人工智能投资泡沫",
-      "通胀与滞胀风险"
+      "AI与科技基础设施投资",
+      "地缘政治风险（霍尔木兹海峡）",
+      "通胀与利率上升",
+      "政治关联交易与政策影响",
+      "散户交易与另类数据"
     ],
-    "recent_shift": "最近观点从对AI的乐观转向警惕泡沫，同时更多关注债务和滞胀风险。",
+    "recent_shift": "近期观点从对AI和科技股的极度乐观转向关注市场泡沫风险、债务负担和地缘政治不确定性，同时强调通胀和利率上升对市场的影响。",
     "representative_quotes": [
+      "BREAKING: Trump bought Moderna, $MRNA.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "According to BofA, stagflation remains the dominant description of the next 12 months, cited by 58% of respondents, though down from 69% in May",
-      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
     ],
-    "generated_at": "2026-08-20T15:56:25.281674+00:00"
+    "generated_at": "2026-08-20T16:24:15.649537+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
