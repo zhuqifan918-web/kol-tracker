@@ -1,51 +1,47 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "AAOI",
-      "LITE",
-      "COHR",
-      "SNDK"
+      "$SIVE",
+      "$AAOI",
+      "$LITE",
+      "$COHR",
+      "$MTSI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信与激光器瓶颈",
-      "AI硬件供应链需求失衡",
-      "存储超级周期",
-      "CPO（共封装光学）与硅光子",
-      "MLCC与被动元件紧缺"
+      "光模块与激光器供应链瓶颈",
+      "无源光网络(CPO)技术演进",
+      "内存与AI芯片需求持续增长"
     ],
-    "recent_shift": "近期观点从关注光通信和AI基础设施的广泛瓶颈，转向更聚焦于激光器（CW/DFB）和CPO的特定瓶颈，并强调供应短缺加剧和需求可见性延长。",
+    "recent_shift": "近期观点从对光模块和激光器短缺的担忧转向对CPO技术普及和供应链瓶颈的乐观确认。",
     "representative_quotes": [
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "The customer demand is 20%-40% higher than expanded built out capacity. Lasers are the biggest bottleneck right now for the transceiver business.",
-      "I don't see any time in the near future where we would be selling indium phosphide lasers externally."
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
+      "CW lasers demand ramp second half of 2027... Extreme demand imbalance for UHP CW laser capacity... basically validated timelines + demand/pricing for Western CW laser players.",
+      "Same bear story will always be there... but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins... we kinda got this read through from all your hyperscaler cloud earnings."
     ],
-    "generated_at": "2026-08-20T09:57:46.495567+00:00"
+    "generated_at": "2026-08-20T17:29:15.809425+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
       "META",
-      "MSFT",
       "NVDA",
-      "JPM"
+      "TSLA",
+      "PLTR"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮与估值泡沫",
-      "国债收益率飙升与债务危机",
-      "通胀与滞胀风险",
-      "地缘政治紧张（霍尔木兹海峡）",
-      "科技巨头AI支出与回报"
+      "AI与科技投资",
+      "宏观经济与债券市场",
+      "地缘政治与大宗商品"
     ],
-    "recent_shift": "近期观点更偏向对AI泡沫和债务可持续性的担忧，同时关注债券收益率上升和滞胀风险。",
+    "recent_shift": "近期关注焦点从通胀和利率风险转向AI投资热潮与地缘政治紧张局势，但整体市场情绪保持中性。",
     "representative_quotes": [
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "Long-term borrowing costs across major economies hit multi-decade highs, per FT.",
-      "Iran: The Strait of Hormuz will remain closed."
+      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "Dalio's analogy underscores the growing burden of debt service payments on the economy. As these payments increase, they consume a larger portion of budgets, leaving less room for essential spending and investment.",
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
     ],
-    "generated_at": "2026-08-20T16:59:28.338245+00:00"
+    "generated_at": "2026-08-20T17:29:18.242857+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
