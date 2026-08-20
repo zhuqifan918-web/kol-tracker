@@ -1,25 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$LITE",
-      "$COHR",
-      "$MTSI"
+      "SIVE",
+      "AAOI",
+      "LITE",
+      "MTSI",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光模块与激光器供应链瓶颈",
-      "无源光网络(CPO)技术演进",
-      "内存与AI芯片需求持续增长"
+      "光学供应链瓶颈与短缺持续",
+      "AI基础设施投资热潮",
+      "CPO（共封装光学）与激光器需求",
+      "记忆体（存储器）超级周期",
+      "人形机器人与IPO热潮"
     ],
-    "recent_shift": "近期观点从对光模块和激光器短缺的担忧转向对CPO技术普及和供应链瓶颈的乐观确认。",
+    "recent_shift": "近期观点更加乐观，强调光学和激光器需求失衡加剧，并看好美股光学和半导体供应链。",
     "representative_quotes": [
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
-      "CW lasers demand ramp second half of 2027... Extreme demand imbalance for UHP CW laser capacity... basically validated timelines + demand/pricing for Western CW laser players.",
-      "Same bear story will always be there... but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins... we kinda got this read through from all your hyperscaler cloud earnings."
+      "The demand visibility... is just way too stupidly high.",
+      "I can't see how anyone can be bearish on this company...",
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-08-20T17:29:15.809425+00:00"
+    "generated_at": "2026-08-20T19:52:47.085396+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
