@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MRNA",
-      "TSLA",
-      "NVDA",
-      "GOOGL",
-      "PLTR"
+      "$MRNA",
+      "$META",
+      "$UBER",
+      "$NVDA",
+      "$TSLA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI基础设施与数据中心",
-      "国债收益率与通胀",
-      "地缘政治风险（霍尔木兹海峡）",
-      "期权市场异常波动",
-      "Stagflation预期"
+      "AI泡沫与估值担忧",
+      "地缘政治风险与能源",
+      "通胀与债务压力",
+      "市场波动与回调风险"
     ],
-    "recent_shift": "近期观点从关注AI繁荣转向更担忧市场泡沫和利率上升风险，同时增加了对地缘政治事件的关注。",
+    "recent_shift": "近期观点从关注AI增长转向警惕泡沫和债务压力，并强调市场面临回调风险。",
     "representative_quotes": [
-      "'The circular nature of AI deals, per Bloomberg.'",
-      "'Workers are losing to inflation,' Wharton School's Professor Jeremy Siegel has said.",
-      "'Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70.'"
+      "Moderna is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
     ],
-    "generated_at": "2026-08-20T12:26:55.537038+00:00"
+    "generated_at": "2026-08-20T13:26:07.987968+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
