@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090302305463881778",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "According to BofA, stagflation remains the dominant description of the next 12 months, cited by 58% of respondents, though down from 69% in May\n\nRead more: https://t.co/U3z8i8hQaM",
+    "tweet_url": "https://x.com/unusual_whales/status/2090302305463881778",
+    "published_at": "2026-08-20T04:58:00+00:00",
+    "fetched_at": "2026-08-20T05:01:25.719952+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国银行调查显示，尽管将滞胀视为未来12个月主要风险的受访者比例从5月的69%降至58%，但滞胀仍是主流预期，这暗示市场对经济增长放缓和通胀上升的担忧持续，可能对风险资产构成压力。",
+      "translation": "据美国银行称，滞胀仍是未来12个月的主要描述，58%的受访者持此观点，虽低于5月的69%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090267331788488922",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

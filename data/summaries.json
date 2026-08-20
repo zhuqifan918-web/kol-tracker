@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "JPM",
-      "NVDA",
+      "PLTR",
       "TSLA",
-      "GOOGL"
+      "ORCL",
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "加密货币与财政政策",
-      "AI基础设施与科技增长",
-      "市场泡沫与债务风险",
-      "地缘政治与能源市场",
-      "交易工具与市场数据"
+      "AI与科技泡沫担忧",
+      "利率与债券市场压力",
+      "地缘政治风险（伊朗、霍尔木兹海峡）",
+      "财政赤字与债务问题",
+      "关键金属（钨）与供应链"
     ],
-    "recent_shift": "近期特朗普的言论和政策动向可能驱动市场情绪，但整体方向未明显转变。",
+    "recent_shift": "近期从关注个股机会转向更多讨论宏观风险，如债务、利率和地缘政治，同时强调市场泡沫可能性。",
     "representative_quotes": [
-      "In the second quarter, Anthropic reported over $11.5 billion in preliminary revenue.",
-      "BREAKING: US national debt officially hits $40 trillion for the first time ever, per FOX",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
+      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
     ],
-    "generated_at": "2026-08-20T03:22:35.051171+00:00"
+    "generated_at": "2026-08-20T05:01:46.739858+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
