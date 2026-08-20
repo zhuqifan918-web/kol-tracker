@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MRNA",
-      "$PLTR",
-      "$TSLA",
-      "$NVDA",
-      "$GOOGL"
+      "MRNA",
+      "TSLA",
+      "NVDA",
+      "GOOGL",
+      "PLTR"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮与泡沫担忧",
-      "国债收益率上升与债券市场压力",
-      "地缘政治风险（伊朗、霍尔木兹海峡）",
-      "滞胀风险与经济不确定性",
-      "个股与期权交易机会"
+      "AI基础设施与数据中心",
+      "国债收益率与通胀",
+      "地缘政治风险（霍尔木兹海峡）",
+      "期权市场异常波动",
+      "Stagflation预期"
     ],
-    "recent_shift": "近期关注点从单纯看好AI转向担忧泡沫和债务问题，同时增加对宏观风险的关注。",
+    "recent_shift": "近期观点从关注AI繁荣转向更担忧市场泡沫和利率上升风险，同时增加了对地缘政治事件的关注。",
     "representative_quotes": [
-      "Ray Dalio: We are past the point of no return.",
-      "Dalio's analogy underscores the growing burden of debt service payments on the economy.",
-      "The stock market thinks the economy is accelerating. Don't expect jobs to follow."
+      "'The circular nature of AI deals, per Bloomberg.'",
+      "'Workers are losing to inflation,' Wharton School's Professor Jeremy Siegel has said.",
+      "'Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70.'"
     ],
-    "generated_at": "2026-08-20T11:50:20.972230+00:00"
+    "generated_at": "2026-08-20T12:26:55.537038+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

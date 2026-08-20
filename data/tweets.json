@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090412783951085982",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The circular nature of AI deals, per Bloomberg: https://t.co/0OQmfiLFBs",
+    "tweet_url": "https://x.com/unusual_whales/status/2090412783951085982",
+    "published_at": "2026-08-20T12:17:00+00:00",
+    "fetched_at": "2026-08-20T12:26:36.834936+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及彭博报道的AI交易循环性质，暗示可能存在过度关联或泡沫风险，但未给出具体股票或明确方向，投资相关性中等。",
+      "translation": "AI交易的循环性质，据彭博报道：https://t.co/0OQmfiLFBs",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090402717201997833",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -15,6 +34,25 @@
       "direction": "bullish",
       "summary": "该推文引述彭博报道，称AI正在带来历史上最大规模的资本支出驱动的GDP增长，对整体经济和科技行业构成利好，可能推动市场情绪和投资机会。",
       "translation": "突发新闻：据彭博社报道，人工智能正在带来历史上最大的资本支出驱动的GDP增长。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090397684205003257",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Workers are losing to inflation,\"  Wharton School's Professor Jeremy Siegel has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2090397684205003257",
+    "published_at": "2026-08-20T11:17:00+00:00",
+    "fetched_at": "2026-08-20T12:26:39.211311+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "沃顿商学院教授杰里米·西格尔表示，工人正在输给通货膨胀。这意味着实际购买力下降，可能对消费和经济增长产生负面影响，对股市是利空信号。",
+      "translation": "沃顿商学院的杰里米·西格尔教授表示，工人们正在输给通货膨胀。",
       "confidence": "medium"
     }
   },
