@@ -27,25 +27,25 @@
     "focus_tickers": [
       "MRNA",
       "META",
-      "MSFT",
-      "NVDA",
-      "TSLA"
+      "AMZN",
+      "UBER",
+      "WMT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技股",
-      "地缘政治风险",
-      "通胀与利率",
-      "财政赤字与债务",
-      "市场波动与回调风险"
+      "人工智能与科技巨头投资",
+      "财政赤字与债务问题",
+      "通胀与滞胀风险",
+      "地缘政治冲突影响",
+      "AI泡沫担忧"
     ],
-    "recent_shift": "近期观点从关注AI驱动的市场上涨转向警惕估值泡沫和债务风险。",
+    "recent_shift": "最近观点从关注具体公司事件转向对宏观风险（债务、通胀、AI泡沫）的警示，但仍保持对AI增长潜力的认可。",
     "representative_quotes": [
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "US national debt officially hits $40 trillion for the first time ever, per FOX"
+      "AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
     ],
-    "generated_at": "2026-08-20T22:52:16.808264+00:00"
+    "generated_at": "2026-08-20T23:16:50.646268+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
