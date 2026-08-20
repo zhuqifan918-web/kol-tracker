@@ -25,27 +25,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MRNA",
-      "META",
-      "NVDA",
-      "TSLA",
-      "JPM"
+      "$WMT",
+      "$META",
+      "$MSFT",
+      "$MRNA",
+      "$UBER"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI基础设施与算力",
-      "利率与债券市场",
-      "地缘政治影响",
-      "通胀与消费",
-      "对冲基金策略"
+      "债务与财政压力",
+      "人工智能投资泡沫",
+      "通胀与滞胀风险"
     ],
-    "recent_shift": "近期观点转向对AI估值泡沫和债市风险的担忧，同时关注地缘政治和监管变化。",
+    "recent_shift": "最近观点从对AI的乐观转向警惕泡沫，同时更多关注债务和滞胀风险。",
     "representative_quotes": [
-      "The circular nature of AI deals, per Bloomberg: https://t.co/0OQmfiLFBs",
-      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day. All seen on Unusual Whales. https://t.co/mT3y1IJkv0",
-      "Since February 28, 2026, following U.S. and Israeli airstrikes on Iranian targets, Iran has restricted passage through the Strait of Hormuz. Read more: https://t.co/ooE2YUorys"
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "According to BofA, stagflation remains the dominant description of the next 12 months, cited by 58% of respondents, though down from 69% in May",
+      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
     ],
-    "generated_at": "2026-08-20T15:02:20.678904+00:00"
+    "generated_at": "2026-08-20T15:56:25.281674+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
