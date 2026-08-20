@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
+      "AAOI",
       "LITE",
       "COHR",
-      "NVDA"
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI光模块和激光器供需失衡",
-      "存储芯片短缺持续",
-      "人形机器人IPO热潮",
-      "MLCC和被动元件瓶颈",
-      "CPO（共封装光学）技术进展"
+      "光通信与激光器瓶颈",
+      "AI硬件供应链需求失衡",
+      "存储超级周期",
+      "CPO（共封装光学）与硅光子",
+      "MLCC与被动元件紧缺"
     ],
-    "recent_shift": "近期观点更加聚焦于激光器和CPO供应链瓶颈，同时看好AI基础设施需求的持续增长。",
+    "recent_shift": "近期观点从关注光通信和AI基础设施的广泛瓶颈，转向更聚焦于激光器（CW/DFB）和CPO的特定瓶颈，并强调供应短缺加剧和需求可见性延长。",
     "representative_quotes": [
-      "Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any 'delay' news as market 'noise'.",
-      "The customer demand is 20%-40% higher than expanded built out capacity.",
-      "I can't see how anyone can be bearish on this company..."
+      "CW laser scarcity is already happening before the main volume ramp even begins...",
+      "The customer demand is 20%-40% higher than expanded built out capacity. Lasers are the biggest bottleneck right now for the transceiver business.",
+      "I don't see any time in the near future where we would be selling indium phosphide lasers externally."
     ],
-    "generated_at": "2026-08-19T16:20:11.674860+00:00"
+    "generated_at": "2026-08-20T09:57:46.495567+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
