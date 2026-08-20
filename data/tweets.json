@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090507634021708256",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Anthropic is preparing to publicly file its initial public offering prospectus as soon as the end of August 2026, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2090507634021708256",
+    "published_at": "2026-08-20T18:33:54+00:00",
+    "fetched_at": "2026-08-20T19:09:52.162166+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息表明AI公司Anthropic计划于2026年8月底公开提交IPO招股说明书，可能引发市场对AI板块的关注，但具体投资影响需视后续发行细节而定。",
+      "translation": "突发：据彭博社报道，Anthropic正准备最早于2026年8月底公开提交其首次公开募股招股说明书。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090498095553384600",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

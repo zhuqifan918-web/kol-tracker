@@ -25,25 +25,25 @@
     "focus_tickers": [
       "MRNA",
       "META",
-      "JPM",
-      "MSFT",
-      "NVDA"
+      "NVDA",
+      "ORCL",
+      "TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI驱动的基础设施投资与经济增长",
-      "国债收益率上升与财政赤字担忧",
-      "地缘政治风险与能源市场波动",
-      "监管与合规风险（数据隐私、政治交易）",
-      "通胀与滞胀预期"
+      "AI基础设施投资热潮",
+      "财政赤字与国债收益率上升",
+      "地缘政治风险（霍尔木兹海峡）",
+      "市场泡沫担忧（AI估值）",
+      "通胀压力与货币政策"
     ],
-    "recent_shift": "近期关注点从单纯的AI乐观转向对估值泡沫和债务成本的担忧，同时增加了对政治交易和监管风险的讨论。",
+    "recent_shift": "近期重点关注从AI企业盈利转向宏观风险（如债务、通胀）和市场泡沫风险，并增加对个股期权异常波动的关注。",
     "representative_quotes": [
-      "AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
+      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day. All seen on Unusual Whales.",
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
     ],
-    "generated_at": "2026-08-20T18:27:15.277080+00:00"
+    "generated_at": "2026-08-20T19:10:00.344663+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
