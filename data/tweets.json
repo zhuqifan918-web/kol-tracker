@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090250212371800072",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Weak demand at the long end means dealers are absorbing more paper, and that typically keeps upward pressure on yields until real money buyers step back in.\n\nRead more: https://t.co/R3iPSYpAFq",
+    "tweet_url": "https://x.com/unusual_whales/status/2090250212371800072",
+    "published_at": "2026-08-20T01:31:00+00:00",
+    "fetched_at": "2026-08-20T02:11:22.577769+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "长期国债需求疲软，交易商被迫吸收更多债券，这通常会对收益率形成上行压力，直到真正的资金买家重新入场。该消息对债券市场不利，可能间接影响股市估值。",
+      "translation": "长期债券需求疲软意味着交易商正在吸收更多债券，这通常会持续对收益率施加上行压力，直到真正的资金买家重新介入。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090235112776454162",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -54,6 +73,25 @@
       "summary": "特朗普就债券市场波动发表评论，试图安抚投资者情绪，但未提供具体投资建议或提及特定资产，对市场影响中性。",
       "translation": "特朗普在债券市场上表示：美国人不应该担心波动。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090181509370302617",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Stripe tells investors that \"the singularity\" has begun, per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2090181509370302617",
+    "published_at": "2026-08-19T20:58:00+00:00",
+    "fetched_at": "2026-08-20T02:11:31.019039+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "Stripe向投资者表示“奇点”已经开始，这可能关乎AI和金融科技的投资趋势。虽然未提及具体股票，但可能影响市场对AI相关公司的预期。",
+      "translation": "突发：据Axios报道，Stripe告诉投资者“奇点”已经开始。",
+      "confidence": "medium"
     }
   },
   {

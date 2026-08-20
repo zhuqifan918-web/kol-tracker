@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MRNA",
-      "$TSLA",
-      "$NVDA",
-      "$JPM",
-      "$PLTR"
+      "MRNA",
+      "PLTR",
+      "TSLA",
+      "JPM",
+      "NVDA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI及数据中心泡沫风险",
-      "美国国债与财政赤字担忧",
-      "地缘政治紧张（伊朗、霍尔木兹海峡）",
-      "市场波动与回调预警"
+      "AI与数据中心投资热潮",
+      "美国国债收益率上升与债务问题",
+      "地缘政治风险（伊朗、霍尔木兹海峡）",
+      "市场泡沫担忧",
+      "散户投资工具与数据服务"
     ],
-    "recent_shift": "近期观点从关注个股机会转向对市场泡沫、债务和地缘风险的担忧，整体情绪转为谨慎。",
+    "recent_shift": "近期观点转向对市场泡沫和债务风险的担忧加剧，同时关注AI和地缘政治事件对市场的影响。",
     "representative_quotes": [
-      "Ray Dalio: We are past the point of no return.",
+      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
+      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients."
     ],
-    "generated_at": "2026-08-20T00:39:57.361420+00:00"
+    "generated_at": "2026-08-20T02:11:37.961166+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
