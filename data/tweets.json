@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090387617569558895",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran has lost significant control of the Strait of Hormuz, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2090387617569558895",
+    "published_at": "2026-08-20T10:37:00+00:00",
+    "fetched_at": "2026-08-20T11:17:40.981178+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗失去对霍尔木兹海峡的控制可能影响全球石油供应，增加地缘政治风险，从而对油价和相关市场产生负面影响。投资者需关注能源板块和航运成本的变化。",
+      "translation": "据CNN报道，伊朗已失去对霍尔木兹海峡的重大控制。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090374603264929981",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
