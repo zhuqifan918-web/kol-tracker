@@ -25,27 +25,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MRNA",
-      "PLTR",
-      "TSLA",
-      "NVDA",
-      "GOOGL"
+      "$MRNA",
+      "$TSLA",
+      "$NVDA",
+      "$JPM",
+      "$PLTR"
     ],
     "overall_bias": "bearish",
     "key_themes": [
-      "国债收益率飙升与债务危机",
-      "AI泡沫与市场估值过高",
-      "地缘政治风险（伊朗、贸易战）",
-      "经济衰退与滞胀担忧",
-      "加密货币与比特币作为替代资产"
+      "AI及数据中心泡沫风险",
+      "美国国债与财政赤字担忧",
+      "地缘政治紧张（伊朗、霍尔木兹海峡）",
+      "市场波动与回调预警"
     ],
-    "recent_shift": "从早前对市场相对乐观的态度，转为对债务、AI泡沫和地缘政治风险的担忧日益加深。",
+    "recent_shift": "近期观点从关注个股机会转向对市场泡沫、债务和地缘风险的担忧，整体情绪转为谨慎。",
     "representative_quotes": [
+      "Ray Dalio: We are past the point of no return.",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "The US sold $25 billion of 30-year bonds at 5.216%, the highest interest rate in a quarter century",
-      "BREAKING: US national debt officially hits $40 trillion for the first time ever, per FOX"
+      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
     ],
-    "generated_at": "2026-08-19T21:47:54.237025+00:00"
+    "generated_at": "2026-08-20T00:39:57.361420+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
