@@ -27,25 +27,24 @@
     "focus_tickers": [
       "MRNA",
       "META",
-      "AMZN",
       "MSFT",
-      "NVDA"
+      "NVDA",
+      "JPM"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮",
-      "国债收益率上升",
-      "Strait of Hormuz地缘政治紧张",
-      "政治交易和ETF",
-      "高估值风险"
+      "AI投资热潮与泡沫担忧",
+      "美国国债收益率与财政赤字",
+      "地缘政治风险（霍尔木兹海峡）",
+      "个股重大事件（如Moderna、Meta等）"
     ],
-    "recent_shift": "从对AI和科技股的乐观转向关注估值泡沫和债务风险。",
+    "recent_shift": "近期更多关注市场泡沫风险和财政赤字问题，同时积极报道AI相关积极动态，整体从乐观转向谨慎中性。",
     "representative_quotes": [
-      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
+      "Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
       "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
+      "BREAKING: US Treasury increasing size of liquidity support buyback operations for longer-dated nominal coupon securities"
     ],
-    "generated_at": "2026-08-20T21:18:37.708133+00:00"
+    "generated_at": "2026-08-20T22:16:48.914242+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
