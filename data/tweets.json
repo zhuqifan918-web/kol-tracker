@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2090422850129940887",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Uber, $UBER, aims to make 1 million drone deliveries daily by the end of 2029, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2090422850129940887",
+    "published_at": "2026-08-20T12:57:00+00:00",
+    "fetched_at": "2026-08-20T13:25:51.870008+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "UBER"
+      ],
+      "direction": "bullish",
+      "summary": "优步计划到2029年底实现每日100万次无人机送货，这一长期目标可能提升其运营效率和市场潜力，对股价构成利好。",
+      "translation": "优步，$UBER，目标是在2029年底前每天进行100万次无人机送货，据YF报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090417816809939173",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Meta, $META, is heading to trial over allegations it designed Facebook and Instagram to keep young users hooked while misleading the public about risks to children, per FOX",
+    "tweet_url": "https://x.com/unusual_whales/status/2090417816809939173",
+    "published_at": "2026-08-20T12:37:00+00:00",
+    "fetched_at": "2026-08-20T13:25:53.799172+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "Meta因设计产品让青少年上瘾并误导公众而面临审判，可能带来法律和监管风险，短期利空股价，但长期影响需观察。",
+      "translation": "据福克斯报道，Meta（$META）正因被指控设计Facebook和Instagram以让年轻用户上瘾、同时误导公众关于儿童风险而面临审判。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090412783951085982",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
