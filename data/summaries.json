@@ -28,24 +28,24 @@
       "MRNA",
       "PLTR",
       "WMT",
-      "META",
-      "ANTH"
+      "AMZN",
+      "META"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与估值风险",
-      "地缘政治与能源市场",
-      "国债与财政政策",
-      "市场流动性与交易机会",
-      "消费与通胀压力"
+      "AI投资与生产力影响",
+      "市场泡沫与回调风险",
+      "财政赤字与债务问题",
+      "政治事件与市场反应",
+      "地缘政治与大宗商品"
     ],
-    "recent_shift": "近期观点从看多AI和科技股转向关注AI泡沫风险和地缘政治不确定性，同时强调市场流动性充裕与短期交易机会。",
+    "recent_shift": "近期关注点从AI的积极影响转向市场泡沫风险和债务压力。",
     "representative_quotes": [
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
-      "Goldman’s breakdown shows AI substitution wiped out roughly 25,000 jobs per month in the past year, while augmentation added back about 9,000",
-      "Burry has re-entered out-of-the-money put trades on Palantir, purchasing March 2027 puts with strike prices in the low-to-mid $100 as option volatility cooled"
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg: https://t.co/QwhavkFvED",
+      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn.",
+      "BREAKING: Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, up more than sevenfold from its pace at the end of last year, per Bloomberg."
     ],
-    "generated_at": "2026-08-21T16:58:55.245292+00:00"
+    "generated_at": "2026-08-21T17:27:08.859796+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
