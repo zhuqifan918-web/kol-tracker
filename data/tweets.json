@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090921384809730128",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Walmart, $WMT, will soon allow you to pay for your items with Google Pay or Apple Pay, per TC",
+    "tweet_url": "https://x.com/unusual_whales/status/2090921384809730128",
+    "published_at": "2026-08-21T21:58:00+00:00",
+    "fetched_at": "2026-08-21T22:13:37.730097+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WMT"
+      ],
+      "direction": "bullish",
+      "summary": "沃尔玛将支持Google Pay和Apple Pay支付，这将提升客户便利性和支付体验，可能促进销售增长，对WMT股价构成利好。",
+      "translation": "沃尔玛（$WMT）很快将允许你用Google Pay或Apple Pay付款，据TechCrunch报道。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090914841825530289",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

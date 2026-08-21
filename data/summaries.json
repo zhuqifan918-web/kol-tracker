@@ -27,23 +27,25 @@
     "focus_tickers": [
       "MRNA",
       "FCX",
-      "NVDA",
-      "PLTR",
-      "META"
+      "WMT",
+      "META",
+      "NVDA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮",
-      "财政赤字与债务",
-      "地缘政治风险"
+      "AI驱动的经济增长与就业影响",
+      "美国国债、赤字与地缘政治风险",
+      "医药创新与生物科技热潮",
+      "市场波动与机构策略分歧",
+      "供应链与贸易政策调整"
     ],
-    "recent_shift": "近期，对AI和科技股的乐观情绪增强，同时关注债务风险和黄金对冲。",
+    "recent_shift": "近期观点从关注AI与市场乐观情绪转向对债务危机、地缘政治紧张及政策不确定性的担忧。",
     "representative_quotes": [
+      "The copper trade is heating up! $FCX hits a new all time high today.",
       "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
       "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
     ],
-    "generated_at": "2026-08-21T21:45:53.819387+00:00"
+    "generated_at": "2026-08-21T22:13:49.041476+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
