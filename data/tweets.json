@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090800589160497361",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: UBS says the bull run will continue.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090800589160497361",
+    "published_at": "2026-08-21T13:58:00+00:00",
+    "fetched_at": "2026-08-21T14:04:41.603588+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "瑞银表示牛市行情将持续，对市场前景持乐观态度。投资者可关注相关市场机会，但需注意具体投资标的未明确提及。",
+      "translation": "突发：瑞银表示牛市行情将继续。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090760071890542729",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
