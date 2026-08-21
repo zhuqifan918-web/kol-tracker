@@ -28,24 +28,24 @@
       "MRNA",
       "PLTR",
       "AMZN",
-      "TSLA",
-      "NVDA"
+      "META",
+      "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技股泡沫",
-      "宏观经济与财政赤字",
-      "地缘政治风险",
-      "国债收益率与利率",
-      "另类数据与事件驱动"
+      "AI投资与生产力",
+      "债务与财政赤字",
+      "市场波动与风险",
+      "地缘政治与供应链",
+      "加密货币与政策"
     ],
-    "recent_shift": "近期关注点从单纯看多科技转向关注AI带来的生产率提升与债务、通胀等宏观风险的平衡。",
+    "recent_shift": "近期更强调AI带来的经济影响和债务风险，同时关注市场波动与地缘政治不确定性。",
     "representative_quotes": [
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg: https://t.co/QwhavkFvED",
-      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
-      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg",
+      "The change is effective September 9, 2026 and runs through November 4, 2026, with more detail on future buyback sizes due at the next Quarterly Refunding on November 4.",
+      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
     ],
-    "generated_at": "2026-08-21T14:05:02.993322+00:00"
+    "generated_at": "2026-08-21T15:01:26.034132+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
