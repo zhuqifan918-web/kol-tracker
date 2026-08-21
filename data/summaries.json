@@ -26,25 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "PLTR",
       "NVDA",
-      "WMT",
+      "PLTR",
+      "AMZN",
       "META"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "政治人物交易追踪",
-      "AI与科技巨头动态",
-      "宏观经济与地缘风险",
-      "市场机构观点分歧"
+      "AI投资热潮",
+      "Moderna股价飙升",
+      "市场买跌预期",
+      "数据驱动投资",
+      "债券收益率上升"
     ],
-    "recent_shift": "近期更关注政治人物交易和市场风险，且对AI影响看法更为复杂，显示从乐观转向谨慎。",
+    "recent_shift": "近期观点偏向乐观，强调AI驱动的增长和买入机会，但同时对市场泡沫和债务问题有所警示。",
     "representative_quotes": [
-      "Holy look at this. Moderna, $MRNA, is up 130% today.",
-      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
-      "AI delivers the largest capex-drive boost to GDP in history."
+      "Moderna, $MRNA, is up 130% today.",
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
+      "Citi Bank has said to buy any market dip before the midterms."
     ],
-    "generated_at": "2026-08-21T19:05:30.999011+00:00"
+    "generated_at": "2026-08-21T19:44:58.717028+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
