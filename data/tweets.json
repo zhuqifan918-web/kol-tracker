@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090847658214822309",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Wall Street is helping Nvidia, $NVDA, help customers buy more chips,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2090847658214822309",
+    "published_at": "2026-08-21T17:05:02+00:00",
+    "fetched_at": "2026-08-21T17:26:49.424388+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文引用彭博报道，指出华尔街正在帮助英伟达（NVDA）促进客户购买更多芯片，这有助于提升英伟达的销量和业绩，对股价构成利好。",
+      "translation": "据彭博社报道，华尔街正在帮助英伟达（NVDA）协助客户购买更多芯片。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090840899060367654",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
