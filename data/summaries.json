@@ -29,21 +29,23 @@
       "PLTR",
       "WMT",
       "META",
-      "MSFT"
+      "ANTH"
     ],
     "overall_bias": "neutral",
     "key_themes": [
       "AI投资与估值风险",
-      "政府政策与财政",
-      "市场波动与关税"
+      "地缘政治与能源市场",
+      "国债与财政政策",
+      "市场流动性与交易机会",
+      "消费与通胀压力"
     ],
-    "recent_shift": "最新动态显示关注点从AI增长转向风险警告和财政压力。",
+    "recent_shift": "近期观点从看多AI和科技股转向关注AI泡沫风险和地缘政治不确定性，同时强调市场流动性充裕与短期交易机会。",
     "representative_quotes": [
-      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
-      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB",
+      "Goldman’s breakdown shows AI substitution wiped out roughly 25,000 jobs per month in the past year, while augmentation added back about 9,000",
+      "Burry has re-entered out-of-the-money put trades on Palantir, purchasing March 2027 puts with strike prices in the low-to-mid $100 as option volatility cooled"
     ],
-    "generated_at": "2026-08-21T16:22:38.192041+00:00"
+    "generated_at": "2026-08-21T16:58:55.245292+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

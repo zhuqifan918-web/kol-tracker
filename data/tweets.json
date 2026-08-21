@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090840899060367654",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ken Griffin has said that Citadel has sold more than 80% of risk tied to Situational Awareness portfolio, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2090840899060367654",
+    "published_at": "2026-08-21T16:38:10+00:00",
+    "fetched_at": "2026-08-21T16:58:35.096795+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "肯·格里芬表示，Citadel已抛售超过80%与情境感知投资组合相关的风险。这显示大型机构对该投资组合的风险敞口持谨慎态度，可能反映其对相关资产或策略的看空情绪。",
+      "translation": "肯·格里芬表示，据CNBC报道，Citadel已出售超过80%与情境感知投资组合相关的风险。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090835569538445714",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
