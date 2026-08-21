@@ -27,25 +27,23 @@
     "focus_tickers": [
       "MRNA",
       "PLTR",
-      "AMZN",
+      "WMT",
       "META",
-      "JPM"
+      "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI对经济与就业的双重影响",
-      "地缘政治风险（霍尔木兹海峡）",
-      "美国国债与财政赤字问题",
-      "市场波动与潜在回调",
-      "个股与期权激进交易"
+      "AI投资与估值风险",
+      "政府政策与财政",
+      "市场波动与关税"
     ],
-    "recent_shift": "近期观点从对AI和市场的乐观转向对债券收益率、地缘风险和AI泡沫的担忧。",
+    "recent_shift": "最新动态显示关注点从AI增长转向风险警告和财政压力。",
     "representative_quotes": [
       "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn.",
       "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
-      "The 30-year Treasury yield has hit 5.30% for the first time since 2007"
+      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
     ],
-    "generated_at": "2026-08-21T15:56:35.195453+00:00"
+    "generated_at": "2026-08-21T16:22:38.192041+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
