@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "META",
+      "PLTR",
       "AMZN",
-      "UBER",
-      "WMT"
+      "META",
+      "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技巨头投资",
-      "财政赤字与债务问题",
+      "AI投资热潮与估值泡沫担忧",
+      "国债收益率上升与财政赤字",
+      "地缘政治风险（霍尔木兹海峡）",
       "通胀与滞胀风险",
-      "地缘政治冲突影响",
-      "AI泡沫担忧"
+      "个别股票异动与期权交易机会"
     ],
-    "recent_shift": "最近观点从关注具体公司事件转向对宏观风险（债务、通胀、AI泡沫）的警示，但仍保持对AI增长潜力的认可。",
+    "recent_shift": "近期关注点从单纯AI热潮转向AI带来的财政后果、地缘风险以及市场泡沫警示，同时对个别股票如Moderna的异常上涨表现出高度关注。",
     "representative_quotes": [
-      "AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
-      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
-      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000."
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+      "Ray Dalio says he sees the classic signs of a bubble with AI, says the stock market looks like the run up to 1929 or 2000.",
+      "These contracts were up 700,000%.\n\nYou read that right.\n\nThis Moderna, $MRNA, contract went from $0.01 to $70.\n\nSo $1 was worth $7000 end of day.\n\nAll seen on Unusual Whales."
     ],
-    "generated_at": "2026-08-20T23:16:50.646268+00:00"
+    "generated_at": "2026-08-21T00:42:55.550194+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
