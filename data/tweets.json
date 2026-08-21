@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2090906285277667729",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Canadian home prices appear to have hit bottom,\" per RBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2090906285277667729",
+    "published_at": "2026-08-21T20:58:00+00:00",
+    "fetched_at": "2026-08-21T21:14:21.237852+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "加拿大皇家银行（RBC）表示加拿大房价似乎已触底，这对房地产市场及相关投资可能构成利好，但未提及具体股票或ETF。",
+      "translation": "据加拿大皇家银行（RBC）分析，加拿大房价似乎已经触底。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090906285135061421",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Companies say there is still more AI demand they can handle... but they're also taking precautions so they don't end up holding the bag,\" per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2090906285135061421",
+    "published_at": "2026-08-21T20:58:00+00:00",
+    "fetched_at": "2026-08-21T21:14:23.122941+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出，尽管企业表示AI需求仍然旺盛，但它们也在采取预防措施以避免承担过多风险，这可能意味着AI投资热潮正在趋于谨慎，对相关股票的影响可能是短期的正面消息，但长期不确定性增加。",
+      "translation": "据彭博社报道，企业表示AI需求仍然旺盛，但也在采取预防措施，以免最终承担过多风险。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090903631793127644",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right. \n\nAt a certain point, the operating outlook could be positive. \n\nBut the share structure/financing becomes increasingly shareholder unfriendly. \n\nReally, really, dislike ATMs and incessant capital raises, even if they're building up capacity.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090903631793127644",
+    "published_at": "2026-08-21T20:47:27+00:00",
+    "fetched_at": "2026-08-21T21:13:59.408818+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI"
+      ],
+      "direction": "bearish",
+      "summary": "该推文对AAOI持负面看法，批评其频繁进行巨额ATM增发（500-6亿美元），认为尽管运营前景可能向好，但股权结构稀释和不断融资对股东不友好，因此投资吸引力下降。",
+      "translation": "越来越难以支持$AAOI，因为他们不断进行5亿美元或6亿美元的ATM增发。在某个时点，运营前景可能是正面的。但股权结构/融资变得越来越对股东不友好。真的非常不喜欢ATM和不间断的资本筹集，即使他们是在建设产能。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090888970028638433",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
