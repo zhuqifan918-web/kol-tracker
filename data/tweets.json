@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2090735668532224224",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Since people are having fun speculating on $SKHY CPO roadmap supply chains.\n\nI'm gonna do my own guess and say SK Hynix is evaluating Celestial/Ayar. Then doing heavy evaluation into microLEDs past first-gen deployments. \n\nBoth have been kinda working on it for awhile. \n\n- Ayar shown up in SK hynix's own website in the context of optical <-> memory links. \n- Marvell is actively working with SK Hynix in custom memory solutions (and guess who owns Celestial now). \n\nCelestial/Ayar are both also cited in SK Hynix's linked Nature Paper, which helps a bit with technical relevance: \n\n(121): Stojanovic, V. A UCIe optical I/O retimer chiplet for AI scale-up. In 2025 IEEE Hot Chips 37 Symposium (HCS) 1–22 (IEEE, 2025) \n\n- This is Ayar reference (Ayar’s teraphy optical I/O chiplet), Stojanovic is Ayar Lab's co-founder btw. \n\n(123): Winterbottom, P. Photonic interconnect for accelerated computing celestial AI photonic fabric module (cough cough Celestial)\n\nThere's more breadcrumbs out there, but wanted to keep this relatively short-form. \n\nFor more upstream beneficaries: \n\n-> I still think $SIVE is the cleanest read through since they're likely supplying to both Celestial/Ayar. \n\nThe interposer/packaging IP layer... People were speculating $POET, but Marvell probably vertically integrated players them out this year after the announcement. \n\nGiven they've had their own SiPH interposer tech/integration IP before Celestials acquisition (eg. presented a silicon-photonics interposer back in 2023)\n\n-> AMS Osram (which I don't own), seems like they're co-developing in this area given they randomly went out of their way this year to say HBM <-> optics was a TAM increase for them. \n\nTLDR: I see Ayar/Celestial as candidates for SK Hynix's CPO roadmap, then microLEDs being commercialized past gen-1 maybe 2029. (this is all speculation)\n\nJust to throw a bone to quantum dot bros, this got cited like 5 times.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090735668532224224",
+    "published_at": "2026-08-21T09:40:02+00:00",
+    "fetched_at": "2026-08-21T09:58:09.749411+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHY",
+        "SIVE",
+        "POET"
+      ],
+      "direction": "bullish",
+      "summary": "该推文推测SK海力士正在评估将Celestial/Ayar用于其CPO路线图，并看好上游供应商如SIVE，认为其是最清晰的投资标的。推文对SK海力士的CPO相关股票和SIVE持乐观态度。",
+      "translation": "既然大家都在猜测$SKHY的CPO路线图供应链，我也来猜一下：SK海力士正在评估Celestial/Ayar，并对微LED进行深入评估，超越第一代部署。这两家都已经在这方面研发了一段时间。Ayar出现在SK海力士的官网上，涉及光学到内存的连接。Marvell正在与SK海力士合作定制内存解决方案（现在Celestial的拥有者是谁呢）。Celestial/Ayar也都被引用在SK海力士关联的Nature论文中，这有助于技术相关性。参考(121)：Stojanovic，V.，用于AI扩展的UCIe光学I/O重定时器小芯片，2025年IEEE Hot Chips 37研讨会。这是Ayar的引用，Stojanovic是Ayar Labs的联合创始人。参考(123)：Winterbottom，P.，用于加速计算的光子互连，Celestial AI光子结构模块（咳咳，Celestial）。还有更多线索，但我想保持简短。对于更上游的受益者：我仍然认为$SIVE是最干净的传导，因为他们可能同时向Celestial和Ayar供货。中介层/封装IP层……人们猜测$POET，但Marvell可能在今年的公告后通过垂直整合将他们淘汰。考虑到在收购Celestial之前，他们已经拥有自己的SiPH中介层技术/集成IP（例如，2023年就展示了硅光子中介层）。AMS Osram（我没有持有），似乎他们在这个领域进行合作开发，因为他们今年特意提到HBM到光学的TAM增加。TLDR：我认为Ayar/Celestial是SK海力士CPO路线图的候选者，然后微LED可能在2029年后商业化。 （这都是猜测）顺便给量子点爱好者一个线索，这被引用了5次。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090718082268573728",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
