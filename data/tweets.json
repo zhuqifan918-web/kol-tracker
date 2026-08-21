@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090914841825530289",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ray Dalio has said a debt crisis in the US could be three years away.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090914841825530289",
+    "published_at": "2026-08-21T21:32:00+00:00",
+    "fetched_at": "2026-08-21T21:45:41.731810+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及雷·达利欧预测美国可能在三年内爆发债务危机，暗示未来市场可能面临风险，属于宏观经济层面的看空观点。",
+      "translation": "雷·达利欧表示，美国可能在三年内爆发债务危机。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090906285277667729",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

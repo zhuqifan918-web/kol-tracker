@@ -28,24 +28,22 @@
       "MRNA",
       "FCX",
       "NVDA",
-      "AAPL",
-      "WMT"
+      "PLTR",
+      "META"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "人工智能及其对GDP、就业和公司收入的影响",
-      "地缘政治紧张局势（伊朗、霍尔木兹海峡）",
-      "国债与财政赤字",
-      "市场波动与投资策略",
-      "加密货币与政府参与"
+      "AI投资热潮",
+      "财政赤字与债务",
+      "地缘政治风险"
     ],
-    "recent_shift": "近期观点在人工智能和国债方面的表述更为谨慎，而此前的乐观情绪有所减弱。",
+    "recent_shift": "近期，对AI和科技股的乐观情绪增强，同时关注债务风险和黄金对冲。",
     "representative_quotes": [
-      "Canadian home prices appear to have hit bottom, per RBC",
-      "The copper trade is heating up! $FCX hits a new all time high today.",
+      "Ray Dalio has said a debt crisis in the US could be three years away.",
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
       "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
     ],
-    "generated_at": "2026-08-21T21:14:40.299846+00:00"
+    "generated_at": "2026-08-21T21:45:53.819387+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
