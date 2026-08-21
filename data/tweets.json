@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090835569538445714",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Walmart, $WMT, said it plans on using its Trump tariff refunds to lower product costs, according to CFO John David Rainey",
+    "tweet_url": "https://x.com/unusual_whales/status/2090835569538445714",
+    "published_at": "2026-08-21T16:17:00+00:00",
+    "fetched_at": "2026-08-21T16:22:16.481597+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "WMT"
+      ],
+      "direction": "bullish",
+      "summary": "沃尔玛计划利用特朗普关税退款降低产品成本，此举可能提升其价格竞争力并刺激销售，对WMT构成利好。",
+      "translation": "沃尔玛（$WMT）表示，根据首席财务官约翰·戴维·雷尼的说法，该公司计划利用特朗普关税退款来降低产品成本。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090826006278050256",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
