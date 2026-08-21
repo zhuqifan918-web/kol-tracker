@@ -1,5 +1,50 @@
 [
   {
+    "tweet_id": "2090718082268573728",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "btc&amp;bnb&amp;hype｜mstr&amp;crcl&amp;coin\n这俩天就原生家庭拉盘爽，\n一路辜负了btc，美国佬财政部发增加国债回购的时候以为短期炒作买了一下没敢长拿赚几百u涨幅跑了，眼红然后又接盘赚几百u跑了，\n如果能一直相信原生家庭那就舒服了😂 https://t.co/gjmhk3TwfK",
+    "tweet_url": "https://x.com/xiaomustock/status/2090718082268573728",
+    "published_at": "2026-08-21T08:30:09+00:00",
+    "fetched_at": "2026-08-21T09:05:43.855225+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC",
+        "BNB",
+        "HYPE",
+        "MSTR",
+        "CRCL",
+        "COIN"
+      ],
+      "direction": "bullish",
+      "summary": "作者感叹只持有原生加密资产（如BTC、BNB等）和链上项目（HYPE）更能盈利，而交易美股相关标的（MSTR、CRCL、COIN）或债券相关消息导致踏空。整体表达对持有原生资产持乐观态度。",
+      "translation": "比特币和币安币以及HYPE｜微策略和Circle以及Coinbase。这两天就原生家庭（指原生加密资产）拉盘最爽。一路辜负了比特币，美国财政部说要增加国债回购的时候，以为只是短期炒作买了一下，没敢长拿，赚了几百U涨幅就跑了，眼红之后又接盘，又赚了几百U跑了。如果能一直相信原生家庭那就舒服了😂",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090714894874050824",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There’s a lot of viral fabricated screenshots of me going around recently. \n\nSome are annoying jokes for engagement, like text-edited posts from me citing bible verses.\n\nBut some like “Innolight secures Nvidia NPO orders” or off platform promotional content are maliciously fabricated.\n\nUnfortunately I don’t have the power to prevent false images from circulating.\n\nSo please make sure to double check primary sources.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090714894874050824",
+    "published_at": "2026-08-21T08:17:29+00:00",
+    "fetched_at": "2026-08-21T09:05:27.450804+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出关于英诺赛科（Innolight）获得Nvidia订单的传闻是恶意捏造的虚假信息，提醒投资者注意核实信息来源，避免被不实信息误导。",
+      "translation": "最近有很多关于我的伪造截图在流传。有些是搞笑的玩笑，比如文字编辑过的帖子引用圣经经文。但有些如“英诺赛科获得Nvidia NPO订单”或平台外宣传内容则是恶意伪造的。不幸的是我无法阻止虚假图片传播。所以请务必核实主要来源。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2090672543820869918",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
