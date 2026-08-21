@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090888970028638433",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The copper trade is heating up! $FCX hits a new all time high today.\n\nSome unusual options flows seen yesterday: \n- the 80c 12/18 with over $3m in premiums traded\n\nThey're seeing a 65% return since yesterday.\n\nFollow the flow today: https://t.co/2LGEEfuqzY https://t.co/Lcot5Pfv2L",
+    "tweet_url": "https://x.com/unusual_whales/status/2090888970028638433",
+    "published_at": "2026-08-21T19:49:11+00:00",
+    "fetched_at": "2026-08-21T20:14:54.003338+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "FCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出铜价交易升温，FCX股价创历史新高，且观察到大额看涨期权交易（80c 12/18），暗示市场对FCX的看涨情绪浓厚。",
+      "translation": "铜交易正在升温！$FCX今天创下历史新高。昨天看到一些不寻常的期权流动：- 12月18日到期的80看涨期权，交易额超过300万美元。他们自昨天以来看到65%的回报。今天跟随资金流向：https://t.co/2LGEEfuqzY https://t.co/Lcot5Pfv2L",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090885900884660406",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -705,6 +726,27 @@
       "direction": "neutral",
       "summary": "该推文报告了众议员Ro Khanna的2025年财务披露，显示大量交易和高额资产，但未提及具体标的或投资建议，因此仅具有一般参考价值。",
       "translation": "突发新闻：众议员Ro Khanna刚刚更新了其2025年年度财务披露：5,402笔交易，交易量高达1.654亿美元，净资产据报道高达1.67亿美元，股息和业务分配高达1,080万美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090478810995024024",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$FCX 80c Dec seeing some volume, probably openers https://t.co/b4uR2neMi0",
+    "tweet_url": "https://x.com/unusual_whales/status/2090478810995024024",
+    "published_at": "2026-08-20T16:39:22+00:00",
+    "fetched_at": "2026-08-21T20:14:55.708493+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "FCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到FCX 12月到期的80美元看涨期权出现成交量，可能是开盘建仓行为，暗示投资者对该股未来走势持乐观态度，认为股价可能上涨至80美元以上。",
+      "translation": "$FCX 12月到期的80美元看涨期权出现成交量，可能是开盘建仓。",
       "confidence": "medium"
     }
   },
