@@ -27,25 +27,25 @@
     "focus_tickers": [
       "MRNA",
       "PLTR",
-      "META",
-      "MSFT",
-      "AMZN"
+      "AMZN",
+      "TSLA",
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI对GDP和就业的冲击",
-      "政府债务与财政赤字",
-      "地缘政治风险（霍尔木兹海峡）",
-      "市场波动与通胀压力",
-      "AI公司IPO与估值"
+      "人工智能与科技股泡沫",
+      "宏观经济与财政赤字",
+      "地缘政治风险",
+      "国债收益率与利率",
+      "另类数据与事件驱动"
     ],
-    "recent_shift": "近期观点从聚焦AI增长潜力转向关注AI带来的就业替代、财政赤字和地缘政治风险，市场情绪更为谨慎。",
+    "recent_shift": "近期关注点从单纯看多科技转向关注AI带来的生产率提升与债务、通胀等宏观风险的平衡。",
     "representative_quotes": [
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg",
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg: https://t.co/QwhavkFvED",
       "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
-      "Trump has said the Strait of Hormuz is \"new American territory.\""
+      "BREAKING: Stocks could be headed for a correction as AI enthusiasm pushes tech valuations toward dot-com bubble levels, per ECB"
     ],
-    "generated_at": "2026-08-21T11:20:11.023209+00:00"
+    "generated_at": "2026-08-21T14:05:02.993322+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
