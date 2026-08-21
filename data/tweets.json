@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2090810656018559337",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Citi Bank has said to buy any market dip before the midterms.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090810656018559337",
+    "published_at": "2026-08-21T14:38:00+00:00",
+    "fetched_at": "2026-08-21T15:00:50.829672+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "花旗银行建议在中期选举前逢低买入，认为市场下跌是买入机会，整体看多市场。",
+      "translation": "花旗银行表示，在中期选举前应买入任何市场下跌。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090805370901958785",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090805370901958785",
+    "published_at": "2026-08-21T14:17:00+00:00",
+    "fetched_at": "2026-08-21T15:00:52.728288+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通警告称秋季股市存在下行风险，提示投资者关注市场可能出现的回调。",
+      "translation": "最新消息：摩根大通表示，秋季股市存在下行的风险。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090800589160497361",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
