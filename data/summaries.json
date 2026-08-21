@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
+      "FCX",
       "NVDA",
-      "PLTR",
-      "AMZN",
+      "AAPL",
       "META"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮",
-      "Moderna股价飙升",
-      "市场买跌预期",
-      "数据驱动投资",
-      "债券收益率上升"
+      "人工智能与数据中心投资热潮",
+      "地缘政治风险与大宗商品（铜、石油）",
+      "财政赤字与国债收益率上升",
+      "政治人物交易与国会股票交易",
+      "健康医疗创新（mRNA癌症疫苗）"
     ],
-    "recent_shift": "近期观点偏向乐观，强调AI驱动的增长和买入机会，但同时对市场泡沫和债务问题有所警示。",
+    "recent_shift": "近期观点从乐观转向中性，强调市场风险如债务、通胀和秋季股市回调可能性。",
     "representative_quotes": [
-      "Moderna, $MRNA, is up 130% today.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
-      "Citi Bank has said to buy any market dip before the midterms."
+      "The copper trade is heating up! $FCX hits a new all time high today.",
+      "BREAKING: Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold, per Bloomberg.",
+      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
     ],
-    "generated_at": "2026-08-21T19:44:58.717028+00:00"
+    "generated_at": "2026-08-21T20:15:08.026488+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
