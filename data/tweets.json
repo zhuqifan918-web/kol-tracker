@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2090627910315266105",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "谷歌122亿入股 $MRVL ，绑定1200亿asic芯片订单。 https://t.co/rMUrTJxrnu",
+    "tweet_url": "https://x.com/xiaomustock/status/2090627910315266105",
+    "published_at": "2026-08-21T02:31:50+00:00",
+    "fetched_at": "2026-08-21T03:27:26.295115+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "谷歌向Marvell投资122亿美元，并锁定1200亿美元ASIC芯片订单，这对MRVL是重大利好，表明其芯片需求强劲，未来业绩增长可期。",
+      "translation": "谷歌出122亿美元入股MRVL，并且绑定了1200亿美元的ASIC芯片订单。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090612600182853766",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Goldman’s breakdown shows AI substitution wiped out roughly 25,000 jobs per month in the past year, while augmentation added back about 9,000\n\nRead more: https://t.co/uETSWUIdJl",
+    "tweet_url": "https://x.com/unusual_whales/status/2090612600182853766",
+    "published_at": "2026-08-21T01:31:00+00:00",
+    "fetched_at": "2026-08-21T03:27:39.411044+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "高盛的研报指出AI在取代工作岗位的同时也创造了新的就业机会，但整体净影响偏负面，这可能会影响科技公司和AI相关企业的投资前景，但未明确指向特定个股或建议。",
+      "translation": "高盛的分析显示，过去一年中，AI的替代效应每月抹去了大约25,000个工作岗位，而增强效应又增加了约9,000个。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2090597500713681256",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
