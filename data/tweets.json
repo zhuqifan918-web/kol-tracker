@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2090597500713681256",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Burry has re-entered out-of-the-money put trades on Palantir, purchasing March 2027 puts with strike prices in the low-to-mid $100 as option volatility cooled\n\nRead more: https://t.co/kEZ1pXZbcH",
+    "tweet_url": "https://x.com/unusual_whales/status/2090597500713681256",
+    "published_at": "2026-08-21T00:31:00+00:00",
+    "fetched_at": "2026-08-21T00:42:30.719217+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PLTR"
+      ],
+      "direction": "bearish",
+      "summary": "迈克尔·伯里重新买入Palantir的看跌期权，行权价在100美元左右，到期日为2027年3月，表明他看跌该股票。期权波动率下降提供了相对便宜的入场机会，这进一步强化了其看空立场。",
+      "translation": "伯里重新进入Palantir的价外看跌期权交易，在期权波动率降温之际，购买了2027年3月到期、行权价在100美元中低区间的看跌期权。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090589195974918179",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The change is effective September 9, 2026 and runs through November 4, 2026, with more detail on future buyback sizes due at the next Quarterly Refunding on November 4.\n\nRead more: https://t.co/CauAn7BlVA",
+    "tweet_url": "https://x.com/unusual_whales/status/2090589195974918179",
+    "published_at": "2026-08-20T23:58:00+00:00",
+    "fetched_at": "2026-08-21T00:42:32.780802+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到美国国债回购将于2026年9月9日至11月4日期间进行，下一季度再融资会议将公布未来回购规模细节，这可能影响债券市场流动性和收益率，对投资者有一定参考意义。",
+      "translation": "这一变化自2026年9月9日起生效，持续至2026年11月4日，下一季度再融资会议将于11月4日公布未来回购规模的更多细节。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090569818218844189",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
