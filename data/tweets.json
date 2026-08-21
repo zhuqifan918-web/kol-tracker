@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090860986794221727",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Market sentiment is currently neutral on Unusual Whales: https://t.co/0Cl63LMttD",
+    "tweet_url": "https://x.com/unusual_whales/status/2090860986794221727",
+    "published_at": "2026-08-21T17:58:00+00:00",
+    "fetched_at": "2026-08-21T18:22:34.581363+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及市场情绪对Unusual Whales相关资产为中性，未给出明确方向，但属于市场分析范畴。",
+      "translation": "目前市场对Unusual Whales的情绪为中性。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090847658214822309",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -78,6 +97,25 @@
       "direction": "neutral",
       "summary": "该推特提及AT&T（T）使用开源模型来降低其在Anthropic上的支出，这反映了AT&T在成本管理方面的努力，可能对投资者有参考意义，但未直接给出买卖建议。",
       "translation": "据The Information报道，AT&T正在使用开源模型来降低其在Anthropic上的账单费用。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090820721589260513",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran warned that any new US threats would be met with a “crushing” response after Washington pledged its toughest sanctions yet.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090820721589260513",
+    "published_at": "2026-08-21T15:18:00+00:00",
+    "fetched_at": "2026-08-21T18:22:39.280576+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗与美国的紧张关系升级，可能引发地缘政治风险，对全球市场产生负面影响，尤其是能源和避险资产。投资者应关注油价波动和风险规避情绪。",
+      "translation": "伊朗警告称，任何新的美国威胁都将遭到“压倒性”回应，此前华盛顿承诺实施迄今为止最严厉的制裁。",
       "confidence": "medium"
     }
   },
