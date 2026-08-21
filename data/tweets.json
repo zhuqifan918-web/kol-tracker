@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2090875834496127068",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Representative Ro Khanna purchased Moderna, $MRNA, stock on June 30, 2026, up to $15,000. \n\nOn August 19, Moderna’s stock surged following positive late-stage clinical trial results for an experimental mRNA cancer vaccine.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090875834496127068",
+    "published_at": "2026-08-21T18:57:00+00:00",
+    "fetched_at": "2026-08-21T19:05:11.762543+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRNA"
+      ],
+      "direction": "bullish",
+      "summary": "国会议员Ro Khanna购入Moderna股票，且随后Moderna因mRNA癌症疫苗试验结果积极而股价大涨，这可能预示着投资机会。",
+      "translation": "众议员Ro Khanna于2026年6月30日购买了Moderna（$MRNA）股票，金额高达15,000美元。8月19日，Moderna的股价因实验性mRNA癌症疫苗后期临床试验结果积极而飙升。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090860986794221727",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
