@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "TSLA",
-      "NVDA",
+      "PLTR",
       "META",
-      "PLTR"
+      "MSFT",
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技股泡沫风险",
-      "政府政策与市场干预",
-      "债务与财政赤字担忧",
-      "地缘政治与能源市场",
-      "股市波动与投资机会"
+      "AI对GDP和就业的冲击",
+      "政府债务与财政赤字",
+      "地缘政治风险（霍尔木兹海峡）",
+      "市场波动与通胀压力",
+      "AI公司IPO与估值"
     ],
-    "recent_shift": "近期从关注AI增长和个股机会转向警惕市场泡沫和债务风险，同时关注政策动向。",
+    "recent_shift": "近期观点从聚焦AI增长潜力转向关注AI带来的就业替代、财政赤字和地缘政治风险，市场情绪更为谨慎。",
     "representative_quotes": [
-      "We are right now rising close to—not at—the same level in 2000 and the same level in 1929.",
-      "AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
-      "Workers are losing to inflation."
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg",
+      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
+      "Trump has said the Strait of Hormuz is \"new American territory.\""
     ],
-    "generated_at": "2026-08-21T03:27:53.578087+00:00"
+    "generated_at": "2026-08-21T11:20:11.023209+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
