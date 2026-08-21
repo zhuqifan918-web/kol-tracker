@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2090885900884660406",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2090885900884660406",
+    "published_at": "2026-08-21T19:37:00+00:00",
+    "fetched_at": "2026-08-21T19:44:45.796474+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "亿万富翁瑞·达利欧建议投资者减少债券持仓，并将最多15%的资金配置到黄金上。这表明他对债券市场持谨慎态度，同时看好黄金作为避险资产。",
+      "translation": "突发：亿万富翁瑞·达利欧表示，投资者应减少债券持仓，并将最多15%的资金配置到黄金上，据彭博社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2090880867745055059",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, has cutt jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2090880867745055059",
+    "published_at": "2026-08-21T19:17:00+00:00",
+    "fetched_at": "2026-08-21T19:44:47.409923+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果公司裁员涉及Siri和Vision Pro团队，可能影响其AI和AR业务的推进，对股价构成利空。",
+      "translation": "苹果公司，$AAPL，已裁减负责Siri数字助手和Vision Pro头显的多个团队的职位，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090875834496127068",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
