@@ -2,26 +2,26 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "$AAOI",
-      "$SIVE",
       "$LITE",
-      "$SKHY",
-      "$AXTI"
+      "$SIVE",
+      "$COHR",
+      "$SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光模块与激光器供应链瓶颈",
-      "CPO与硅光子技术",
-      "内存与存储超级周期",
-      "中国供应链与美国关税政策",
-      "人形机器人IPO热潮"
+      "AI基础设施需求远超供给",
+      "光子学供应链瓶颈（激光、InP衬底）",
+      "内存（DRAM/NAND）超级周期延续",
+      "CPO（共封装光学）即将放量",
+      "中国供应链受限利好西方厂商"
     ],
-    "recent_shift": "近期观点从关注AI基础设施的广泛投资转向更聚焦于光学、CPO和内存的供应链瓶颈，并强调短期回调是买入机会。",
+    "recent_shift": "近期观点基本保持连贯，持续强调供应链瓶颈和需求可见性，未见明显转向。",
     "representative_quotes": [
-      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "All three hyperscaler capex largely in line with Google hiking capex figures. AI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL. Compute scarcity is visible throughout every single hyperscaler ER.",
+      "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages. 2027 capacity ramp on track. To map inflection period with timelines, would be around early next year, as stated in their previous earnings call.",
+      "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life."
     ],
-    "generated_at": "2026-08-21T09:58:47.772537+00:00"
+    "generated_at": "2026-08-21T15:56:32.790588+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -29,23 +29,23 @@
       "PLTR",
       "AMZN",
       "META",
-      "MSFT"
+      "JPM"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与生产力",
-      "债务与财政赤字",
-      "市场波动与风险",
-      "地缘政治与供应链",
-      "加密货币与政策"
+      "AI对经济与就业的双重影响",
+      "地缘政治风险（霍尔木兹海峡）",
+      "美国国债与财政赤字问题",
+      "市场波动与潜在回调",
+      "个股与期权激进交易"
     ],
-    "recent_shift": "近期更强调AI带来的经济影响和债务风险，同时关注市场波动与地缘政治不确定性。",
+    "recent_shift": "近期观点从对AI和市场的乐观转向对债券收益率、地缘风险和AI泡沫的担忧。",
     "representative_quotes": [
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg",
-      "The change is effective September 9, 2026 and runs through November 4, 2026, with more detail on future buyback sizes due at the next Quarterly Refunding on November 4.",
-      "US interest expense on the national debt reached a record $1.4 trillion over the trailing 12-month period, driven by higher borrowing costs and a rapidly expanding federal deficit, per Bank of America"
+      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn.",
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
+      "The 30-year Treasury yield has hit 5.30% for the first time since 2007"
     ],
-    "generated_at": "2026-08-21T15:01:26.034132+00:00"
+    "generated_at": "2026-08-21T15:56:35.195453+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

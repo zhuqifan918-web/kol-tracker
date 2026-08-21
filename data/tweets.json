@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2090826006278050256",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "AT&amp;T is using open source models to decrease the costs of its Anthropic bills, per the Information",
+    "tweet_url": "https://x.com/unusual_whales/status/2090826006278050256",
+    "published_at": "2026-08-21T15:39:00+00:00",
+    "fetched_at": "2026-08-21T15:56:09.202576+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "T"
+      ],
+      "direction": "neutral",
+      "summary": "该推特提及AT&T（T）使用开源模型来降低其在Anthropic上的支出，这反映了AT&T在成本管理方面的努力，可能对投资者有参考意义，但未直接给出买卖建议。",
+      "translation": "据The Information报道，AT&T正在使用开源模型来降低其在Anthropic上的账单费用。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090816483861696517",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Uhh Citadel?\n\n> Say emergency rate hike. More crashes/liquidations follow\n\n> No rate hike\n\n> Reaches out to buy liquidated hedge fund portfolios\n\n> buys billions of Situational Awareness holdings.\n\n> Says AI bull case is intact\n\n>markets rally\n\n> Sells AI stocks into the buying pressure\n\nI’m just stating the timeline here…",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090816483861696517",
+    "published_at": "2026-08-21T15:01:09+00:00",
+    "fetched_at": "2026-08-21T15:55:48.419014+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文暗示Citadel可能通过制造市场动荡来低价收购资产，并操纵市场情绪以高位卖出AI股票，对AI相关股票持看空态度。",
+      "translation": "嗯，Citadel？\n\n> 说紧急加息。更多崩溃/清算随之而来\n\n> 不加息\n\n> 联系购买被清算的对冲基金投资组合\n\n> 购买数十亿美元的Situation Awareness持仓。\n\n> 说AI牛市论调仍然完好\n\n> 市场反弹\n\n> 在买盘压力下卖出AI股票\n\n我只是在陈述时间线……",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090810656018559337",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
