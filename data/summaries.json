@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AAOI",
-      "$LITE",
-      "$SIVE",
-      "$COHR",
-      "$SNDK"
+      "AAOI",
+      "SIVE",
+      "LITE",
+      "COHR",
+      "SKHY"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施需求远超供给",
-      "光子学供应链瓶颈（激光、InP衬底）",
-      "内存（DRAM/NAND）超级周期延续",
-      "CPO（共封装光学）即将放量",
-      "中国供应链受限利好西方厂商"
+      "光学供应链瓶颈与需求失衡",
+      "CPO/光互连技术升级周期",
+      "内存超级周期与供需紧张",
+      "AI基础设施资本开支持续扩张",
+      "中国竞争对手在高端光学领域落后"
     ],
-    "recent_shift": "近期观点基本保持连贯，持续强调供应链瓶颈和需求可见性，未见明显转向。",
+    "recent_shift": "近期观点变化不大，但作者在7月市场调整后强调基本面未变，并持续看多光学、内存等瓶颈环节，同时表达对IPO市场热潮的谨慎态度。",
     "representative_quotes": [
-      "All three hyperscaler capex largely in line with Google hiking capex figures. AI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL. Compute scarcity is visible throughout every single hyperscaler ER.",
-      "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages. 2027 capacity ramp on track. To map inflection period with timelines, would be around early next year, as stated in their previous earnings call.",
-      "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life."
+      "It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right... But the operating outlook could be positive... the share structure/financing becomes increasingly shareholder unfriendly.",
+      "After seeing how the robotics and space sectors reacted to Unitree and $SPCX IPOs, I’m not quite sure I want Anthropic to go public…",
+      "TLDR: I see Ayar/Celestial as candidates for SK Hynix's CPO roadmap, then microLEDs being commercialized past gen-1 maybe 2029. (this is all speculation)"
     ],
-    "generated_at": "2026-08-21T15:56:32.790588+00:00"
+    "generated_at": "2026-08-21T21:14:37.857245+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -29,23 +29,23 @@
       "FCX",
       "NVDA",
       "AAPL",
-      "META"
+      "WMT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与数据中心投资热潮",
-      "地缘政治风险与大宗商品（铜、石油）",
-      "财政赤字与国债收益率上升",
-      "政治人物交易与国会股票交易",
-      "健康医疗创新（mRNA癌症疫苗）"
+      "人工智能及其对GDP、就业和公司收入的影响",
+      "地缘政治紧张局势（伊朗、霍尔木兹海峡）",
+      "国债与财政赤字",
+      "市场波动与投资策略",
+      "加密货币与政府参与"
     ],
-    "recent_shift": "近期观点从乐观转向中性，强调市场风险如债务、通胀和秋季股市回调可能性。",
+    "recent_shift": "近期观点在人工智能和国债方面的表述更为谨慎，而此前的乐观情绪有所减弱。",
     "representative_quotes": [
+      "Canadian home prices appear to have hit bottom, per RBC",
       "The copper trade is heating up! $FCX hits a new all time high today.",
-      "BREAKING: Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold, per Bloomberg.",
       "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
     ],
-    "generated_at": "2026-08-21T20:15:08.026488+00:00"
+    "generated_at": "2026-08-21T21:14:40.299846+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
