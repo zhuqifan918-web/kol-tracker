@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "AAPL",
       "AMZN",
-      "FCX",
-      "WMT"
+      "WMT",
+      "META",
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI驱动的经济增长",
-      "国债与债务危机",
-      "贸易战与关税",
-      "机构投资者动向",
-      "生物科技突破"
+      "AI与科技投资",
+      "关税与贸易摩擦",
+      "国债与财政赤字",
+      "政治人物交易",
+      "市场波动与风险"
     ],
-    "recent_shift": "近期观点从关注贸易战和债务问题转向强调AI增长和生物科技投资机会。",
+    "recent_shift": "近期观点从关注关税和贸易摩擦转向强调AI投资机会和财政赤字风险，但总体保持中性。",
     "representative_quotes": [
+      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million.",
       "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
-      "Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients."
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg."
     ],
-    "generated_at": "2026-08-22T21:12:48.010499+00:00"
+    "generated_at": "2026-08-22T21:43:26.679446+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

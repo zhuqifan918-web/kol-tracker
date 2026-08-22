@@ -1,5 +1,29 @@
 [
   {
+    "tweet_id": "2091276621361856853",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million.\n\nRecent purchases include Visa, $V, Berkshire Hathaway, $BRK.B, Mastercard, $MA, and Cintas, $CTAS.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091276621361856853",
+    "published_at": "2026-08-22T21:29:35+00:00",
+    "fetched_at": "2026-08-22T21:43:14.887089+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "V",
+        "BRK.B",
+        "MA",
+        "CTAS"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普披露6月进行了超过1000笔交易，总额达2.63亿美元，近期购买包括Visa、伯克希尔、万事达和Cintas，表明对金融和消费类股票的看多倾向。",
+      "translation": "突发：特朗普披露6月进行了超过1000笔交易，总金额高达2.63亿美元。近期购买包括Visa（$V）、伯克希尔·哈撒韦（$BRK.B）、万事达（$MA）和Cintas（$CTAS）。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091269428277297367",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
