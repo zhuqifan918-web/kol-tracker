@@ -27,25 +27,25 @@
     "focus_tickers": [
       "MRNA",
       "FCX",
-      "WMT",
       "PLTR",
+      "WMT",
       "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技投资",
-      "债务与财政风险",
-      "地缘政治紧张",
-      "市场波动与机会",
-      "政治交易与内幕"
+      "AI与数据中心投资",
+      "财政赤字与债务危机",
+      "政治交易与政策影响",
+      "地缘政治风险",
+      "市场波动与防御策略"
     ],
-    "recent_shift": "近期观点从对债务和地缘政治的担忧，转向关注AI投资热潮和政治交易机会。",
+    "recent_shift": "近期关注点从AI增长转向债务危机与市场风险，同时强调政治交易机会。",
     "representative_quotes": [
-      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
-      "JUST IN: UBS says the bull run will continue.",
-      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn."
+      "BREAKING: Trump bought Moderna, $MRNA. He bought up to $50,000 of $MRNA on March 2, bought again on March 17, and only partially sold in May. It was up more than 150% yesterday.",
+      "Ray Dalio has said a debt crisis in the US could be three years away.",
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg."
     ],
-    "generated_at": "2026-08-22T04:03:05.948005+00:00"
+    "generated_at": "2026-08-22T04:57:27.142383+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
