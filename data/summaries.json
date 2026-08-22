@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "FCX",
       "WMT",
-      "META",
+      "FCX",
+      "AAPL",
       "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI驱动的经济增长与就业影响",
-      "美国国债、赤字与地缘政治风险",
-      "医药创新与生物科技热潮",
-      "市场波动与机构策略分歧",
-      "供应链与贸易政策调整"
+      "AI对GDP的推动与就业替代",
+      "地缘政治风险与大宗商品（铜、石油）",
+      "债务与财政赤字担忧",
+      "个股事件驱动机会（如Moderna）",
+      "市场对经济前景的分歧（衰退vs牛市）"
     ],
-    "recent_shift": "近期观点从关注AI与市场乐观情绪转向对债务危机、地缘政治紧张及政策不确定性的担忧。",
+    "recent_shift": "近期观点从对债务危机的担忧转向关注市场创新高和AI资本开支的积极影响，同时保留对股市回调的警告。",
     "representative_quotes": [
       "The copper trade is heating up! $FCX hits a new all time high today.",
-      "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
+      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn.",
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
     ],
-    "generated_at": "2026-08-21T22:13:49.041476+00:00"
+    "generated_at": "2026-08-22T03:13:00.969277+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
