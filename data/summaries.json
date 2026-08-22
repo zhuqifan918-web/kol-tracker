@@ -27,25 +27,24 @@
     "focus_tickers": [
       "MRNA",
       "FCX",
-      "WMT",
-      "PLTR",
-      "NVDA"
+      "NVDA",
+      "META",
+      "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施与算力投资",
-      "政府与政治人物股票交易",
-      "国债与财政赤字",
-      "科技巨头动向",
-      "地缘政治风险"
+      "医疗突破与期权投机",
+      "AI资本开支与经济增长",
+      "地缘政治与关税影响",
+      "市场波动与机构动向"
     ],
-    "recent_shift": "近期关注点从纯宏观风险转向了具体交易机会与政治人物持仓，同时AI与财政赤字话题热度上升。",
+    "recent_shift": "从关注特定股票转向宏观不确定性和市场整体风险。",
     "representative_quotes": [
-      "If you had invested only $1 yesterday you would have made $7000.",
-      "Holy look at this. Moderna, $MRNA, is up 130% today.",
-      "Ray Dalio has said a debt crisis in the US could be three years away."
+      "Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients.",
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
+      "Canada will match US tariffs imposed at midnight dollar for dollar, per CNN."
     ],
-    "generated_at": "2026-08-22T16:12:25.681660+00:00"
+    "generated_at": "2026-08-22T17:12:14.324180+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

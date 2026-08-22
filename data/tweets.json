@@ -200,6 +200,25 @@
     }
   },
   {
+    "tweet_id": "2090981782657310964",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "More than 80% of liquids transits through the Strait of Hormuz over the past two weeks have taken the Omani route\n\nRead more: https://t.co/wLidrbPa0U",
+    "tweet_url": "https://x.com/unusual_whales/status/2090981782657310964",
+    "published_at": "2026-08-22T01:58:00+00:00",
+    "fetched_at": "2026-08-22T17:12:06.023438+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到霍尔木兹海峡80%以上的液体运输在过去两周选择了阿曼路线，这可能反映地缘政治或航运物流的变化，但对具体投资方向无明确指向，属于中性宏观观察。",
+      "translation": "过去两周，超过80%的液体运输通过霍尔木兹海峡时都选择了阿曼路线。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2090974987968708686",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
