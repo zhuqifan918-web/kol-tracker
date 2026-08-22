@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2090929689489711571",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get updates on politicians' trades, subscribe to Unusual Whales.\n\nSee their portfolios and more.\n\nRead more: https://t.co/e9bnW7BdAt",
+    "tweet_url": "https://x.com/unusual_whales/status/2090929689489711571",
+    "published_at": "2026-08-21T22:31:00+00:00",
+    "fetched_at": "2026-08-22T03:12:53.547988+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文推广Unusual Whales服务，该服务提供政客交易动态和投资组合信息，对关注政治关联投资机会的用户有参考价值，但未提及具体投资标的或方向。",
+      "translation": "要获取政客交易的最新动态，请订阅Unusual Whales。查看他们的投资组合及更多信息。阅读更多：https://t.co/e9bnW7BdAt",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090921384809730128",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
