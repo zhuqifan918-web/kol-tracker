@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "WMT",
       "FCX",
-      "AAPL",
+      "WMT",
+      "PLTR",
       "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI对GDP的推动与就业替代",
-      "地缘政治风险与大宗商品（铜、石油）",
-      "债务与财政赤字担忧",
-      "个股事件驱动机会（如Moderna）",
-      "市场对经济前景的分歧（衰退vs牛市）"
+      "AI与科技投资",
+      "债务与财政风险",
+      "地缘政治紧张",
+      "市场波动与机会",
+      "政治交易与内幕"
     ],
-    "recent_shift": "近期观点从对债务危机的担忧转向关注市场创新高和AI资本开支的积极影响，同时保留对股市回调的警告。",
+    "recent_shift": "近期观点从对债务和地缘政治的担忧，转向关注AI投资热潮和政治交易机会。",
     "representative_quotes": [
-      "The copper trade is heating up! $FCX hits a new all time high today.",
-      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
+      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "JUST IN: UBS says the bull run will continue.",
+      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn."
     ],
-    "generated_at": "2026-08-22T03:13:00.969277+00:00"
+    "generated_at": "2026-08-22T04:03:05.948005+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
