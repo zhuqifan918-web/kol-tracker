@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
-      "SIVE",
-      "LITE",
-      "SKHY",
-      "NVDA"
+      "$AAOI",
+      "$SIVE",
+      "$LITE",
+      "$COHR",
+      "$SKHY"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学与CPO瓶颈",
-      "存储与内存超级周期",
-      "供应链瓶颈与涨价",
-      "人形机器人IPO热度",
-      "AI基础设施需求持续强劲"
+      "光模块与激光器瓶颈",
+      "AI基础设施持续扩张",
+      "内存与HBM短缺",
+      "CPO/硅光子技术趋势",
+      "地缘政治与供应链重构"
     ],
-    "recent_shift": "近期依然坚定看多，强调市场短期波动不改长期基本面，并认为市场错误低估了光学、存储等瓶颈行业的持续性。",
+    "recent_shift": "近期观点保持高度一致，持续强调光学与内存供应链瓶颈的严重性，并认为市场低估了这些瓶颈的持续性，没有显著转变。",
     "representative_quotes": [
-      "We haven't even hit the inflection point with 1.6T, NPO, CPO scale out/up, and optics with memory (as seen with SK Hynix).",
-      "So I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
-      "For certain optical names, it's one cycle (eg. 1.6T, CPO scale out/up, NPO, etc. ), stacked on top of one another... stacked on top of another... with TAM + margins stacking like minions after Anivia uses W in line."
+      "The demand visibility... is just way too stupidly high.",
+      "I can't see how anyone can be bearish on this company...",
+      "The customer demand is 20%-40% higher."
     ],
-    "generated_at": "2026-08-22T15:11:50.972094+00:00"
+    "generated_at": "2026-08-22T20:46:05.044943+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
