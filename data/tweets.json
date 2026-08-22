@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2091264273007960320",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Apparently, $RDDT thinks $MRVL had two major catalysts recently:\n\nThe $12.2B Google TPU ecosystem agreement.\n\nAnd…\n\nSpider-Man: “Brand New Day” https://t.co/qmUvJqjcpo",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091264273007960320",
+    "published_at": "2026-08-22T20:40:31+00:00",
+    "fetched_at": "2026-08-22T20:45:33.724038+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RDDT",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到Reddit认为Marvell近期有两个重大催化剂，一是与谷歌签订的122亿美元TPU生态系统协议，另一个是蜘蛛侠电影相关的消息。整体上暗示对Marvell持正面看法。",
+      "translation": "显然，$RDDT认为$MRVL最近有两个重大催化剂：谷歌122亿美元的TPU生态系统协议，以及……蜘蛛侠：'崭新一日' https://t.co/qmUvJqjcpo",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091239229166944713",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
