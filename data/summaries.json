@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "FCX",
       "WMT",
+      "FCX",
       "NVDA",
-      "AAPL"
+      "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与投资",
-      "关税与贸易紧张",
-      "国债与债务危机",
-      "大宗商品机会",
-      "政治交易与内幕"
+      "AI与科技投资",
+      "关税与贸易摩擦",
+      "政府政策对市场的影响"
     ],
-    "recent_shift": "近期观点从对AI和科技股的乐观转向对债务危机和关税风险的担忧，同时强调个人交易机会。",
+    "recent_shift": "近期更加关注AI相关股票的波动和机会，同时对债务和通胀风险保持警惕。",
     "representative_quotes": [
-      "Moderna, $MRNA, is up 130% today.\n\nAn experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
-      "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "This Moderna, $MRNA, contract went from $0.01 to $70.\n\nSo $1 was worth $7000 end of day."
+      "Look at this. These contracts were up 700,000%. This Moderna, $MRNA, contract went from $0.01 to $70.",
+      "BREAKING: Trump bought Moderna, $MRNA. He bought up to $50,000 of $MRNA on March 2, bought again on March 17, and only partially sold in May. It was up more than 150% yesterday.",
+      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
     ],
-    "generated_at": "2026-08-22T08:17:42.443335+00:00"
+    "generated_at": "2026-08-22T13:07:45.219877+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
