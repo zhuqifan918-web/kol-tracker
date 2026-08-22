@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "AAOI",
+      "SIVE",
       "LITE",
-      "SNDK",
-      "SKHY"
+      "SKHY",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光通信与激光芯片供不应求",
-      "HBM/内存超周期",
-      "AI供应链瓶颈（CPO、MLCC、InP等）",
-      "人形机器人IPO热潮",
-      "美国制造业回流与供应链安全"
+      "光学与CPO瓶颈",
+      "存储与内存超级周期",
+      "供应链瓶颈与涨价",
+      "人形机器人IPO热度",
+      "AI基础设施需求持续强劲"
     ],
-    "recent_shift": "近期观点未发生根本转变，依然坚信AI供应链瓶颈持续，但强调短期波动和杠杆风险。",
+    "recent_shift": "近期依然坚定看多，强调市场短期波动不改长期基本面，并认为市场错误低估了光学、存储等瓶颈行业的持续性。",
     "representative_quotes": [
-      "The demand visibility... is just way too stupidly high.",
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
-      "I can't see how anyone can be bearish on this company... (AAOI)"
+      "We haven't even hit the inflection point with 1.6T, NPO, CPO scale out/up, and optics with memory (as seen with SK Hynix).",
+      "So I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
+      "For certain optical names, it's one cycle (eg. 1.6T, CPO scale out/up, NPO, etc. ), stacked on top of one another... stacked on top of another... with TAM + margins stacking like minions after Anivia uses W in line."
     ],
-    "generated_at": "2026-08-22T05:21:47.216837+00:00"
+    "generated_at": "2026-08-22T15:11:50.972094+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
       "WMT",
       "FCX",
-      "NVDA",
-      "PLTR"
+      "PLTR",
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技投资",
-      "关税与贸易摩擦",
-      "政府政策对市场的影响"
+      "人工智能与科技巨头投资",
+      "政府政策与贸易关税",
+      "市场波动与避险资产",
+      "债务与财政赤字",
+      "个股异动与期权交易"
     ],
-    "recent_shift": "近期更加关注AI相关股票的波动和机会，同时对债务和通胀风险保持警惕。",
+    "recent_shift": "近期从关注具体个股异动转向宏观风险（如债务、关税）和人工智能投资主题。",
     "representative_quotes": [
-      "Look at this. These contracts were up 700,000%. This Moderna, $MRNA, contract went from $0.01 to $70.",
-      "BREAKING: Trump bought Moderna, $MRNA. He bought up to $50,000 of $MRNA on March 2, bought again on March 17, and only partially sold in May. It was up more than 150% yesterday.",
-      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run."
+      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+      "Ray Dalio has said a debt crisis in the US could be three years away."
     ],
-    "generated_at": "2026-08-22T13:07:45.219877+00:00"
+    "generated_at": "2026-08-22T15:11:53.333570+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
