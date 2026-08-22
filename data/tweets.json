@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091193930885030082",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Did you check what the largest institutions are buying?\n\nYou can do so on Unusual Whales.\n\nSee more: https://t.co/wooOthczpj https://t.co/piN6nV5WkW",
+    "tweet_url": "https://x.com/unusual_whales/status/2091193930885030082",
+    "published_at": "2026-08-22T16:01:00+00:00",
+    "fetched_at": "2026-08-22T16:12:09.945542+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文提醒投资者关注大型机构的最新买入动向，并推荐使用Unusual Whales平台查看相关信息，属于市场情报类内容，未提及具体标的或方向。",
+      "translation": "你查看了大型机构正在买入什么吗？你可以在Unusual Whales上查看。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091178832489218191",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
