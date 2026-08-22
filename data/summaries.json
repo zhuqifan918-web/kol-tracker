@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "WMT",
       "FCX",
-      "PLTR",
-      "NVDA"
+      "WMT",
+      "META",
+      "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热",
       "关税与贸易战",
-      "财政赤字与国债",
-      "政治交易数据",
-      "期权异常流动"
+      "AI基础设施",
+      "债务与财政",
+      "医疗创新",
+      "地缘政治"
     ],
-    "recent_shift": "近期从关注关税和贸易战转向更多聚焦AI和科技股，同时强调国债和财政风险。",
+    "recent_shift": "近期观点从关注关税和债务转向更多AI投资机会和个股波动，但整体保持中性。",
     "representative_quotes": [
-      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day. All seen on Unusual Whales.",
-      "BREAKING: US national debt officially hits $40 trillion for the first time ever, per FOX",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
+      "BREAKING: Canada will match US tariffs imposed at midnight dollar for dollar, per CNN",
+      "BREAKING: The US said Canada had declined a trade deal to stave off 50% tariffs, per NYT",
+      "A confidential prospectus does not lock Anthropic into a specific timeframe, but the official prospectus must land with investors at least 15 days before the roadshow begins."
     ],
-    "generated_at": "2026-08-22T07:07:38.009999+00:00"
+    "generated_at": "2026-08-22T07:52:18.047353+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

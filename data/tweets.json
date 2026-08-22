@@ -21,6 +21,25 @@
     }
   },
   {
+    "tweet_id": "2091028641279054053",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Canada will match US tariffs imposed at midnight dollar for dollar, per CNN",
+    "tweet_url": "https://x.com/unusual_whales/status/2091028641279054053",
+    "published_at": "2026-08-22T05:04:12+00:00",
+    "fetched_at": "2026-08-22T07:52:04.078238+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "加拿大宣布对美国关税进行同等反制，加剧贸易紧张局势，可能对全球市场风险偏好产生负面影响。投资者需关注贸易摩擦升级对相关行业和股市的潜在冲击。",
+      "translation": "突发：据CNN报道，加拿大将对美国在午夜实施的关税进行一对一的同等反制。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091025111503757416",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -114,6 +133,25 @@
       "direction": "bullish",
       "summary": "美国副总统万斯提到，贝森特和特朗普总统有一个'谨慎'的计划，旨在让美国经济增长超过债务曲线，这可能对市场情绪产生积极影响，暗示未来有刺激增长的政策预期。",
       "translation": "副总统JD·万斯表示，贝森特和特朗普总统有一个他称之为'谨慎'的计划，以让美国经济增长超过债务曲线。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090936484232868252",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bessent was asked whether the most recent jobs report was a sign of the US labor market cracking, and he replied that the data at the moment are quite noisy\n\nRead more: https://t.co/WYg0frFJwY",
+    "tweet_url": "https://x.com/unusual_whales/status/2090936484232868252",
+    "published_at": "2026-08-21T22:58:00+00:00",
+    "fetched_at": "2026-08-22T07:52:12.032137+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "贝森特（美国财政部长）表示最新就业数据噪音较大，暗示劳动力市场状况不明朗，市场解读或趋于谨慎，但无明确的多空倾向。",
+      "translation": "贝森特被问及最近的就业报告是否是美国劳动力市场出现裂痕的迹象，他回答说目前的数据相当嘈杂。",
       "confidence": "medium"
     }
   },
