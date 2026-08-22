@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2091032889609920515",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Why would any investor be excited to invest in Anthropic at a $2T MC?\n\nWhereas Chinese IPOs like Unitree or $CMXT are price discovery events.\n\nUS IPOs have gotten it completely wrong nowadays… with pubic markets now serving as liquidity for private holders at hiked valuations. https://t.co/X9h6sr9Lc2",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091032889609920515",
+    "published_at": "2026-08-22T05:21:05+00:00",
+    "fetched_at": "2026-08-22T05:21:12.757133+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CMXT"
+      ],
+      "direction": "bearish",
+      "summary": "该推文对美国IPO市场持负面看法，认为美国IPO以高估值向私人持有者提供流动性，而中国IPO如Unitree或CMXT则是价格发现事件，暗示投资美国IPO不如中国IPO有利。",
+      "translation": "为什么任何投资者会激动地投资于估值2万亿美元的Anthropic？而像Unitree或$CMXT这样的中国IPO才是价格发现事件。如今美国IPO完全搞错了……公开市场现在只是以抬高的估值服务于私人持有者的流动性。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091025111503757416",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The US said Canada had declined a trade deal to stave off 50% tariffs, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2091025111503757416",
+    "published_at": "2026-08-22T04:50:10+00:00",
+    "fetched_at": "2026-08-22T05:21:33.525151+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美加贸易谈判破裂，美国将对加拿大商品征收50%关税，这增加了市场不确定性，可能对加拿大相关企业和北美供应链构成负面影响，但未提及具体公司或行业。",
+      "translation": "突发新闻：据《纽约时报》报道，美国表示加拿大已拒绝达成贸易协议以避免50%的关税。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091014143105204630",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

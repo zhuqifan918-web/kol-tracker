@@ -1,51 +1,50 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
+      "AAOI",
       "LITE",
-      "COHR",
+      "SNDK",
       "SKHY"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学供应链瓶颈与需求失衡",
-      "CPO/光互连技术升级周期",
-      "内存超级周期与供需紧张",
-      "AI基础设施资本开支持续扩张",
-      "中国竞争对手在高端光学领域落后"
+      "光通信与激光芯片供不应求",
+      "HBM/内存超周期",
+      "AI供应链瓶颈（CPO、MLCC、InP等）",
+      "人形机器人IPO热潮",
+      "美国制造业回流与供应链安全"
     ],
-    "recent_shift": "近期观点变化不大，但作者在7月市场调整后强调基本面未变，并持续看多光学、内存等瓶颈环节，同时表达对IPO市场热潮的谨慎态度。",
+    "recent_shift": "近期观点未发生根本转变，依然坚信AI供应链瓶颈持续，但强调短期波动和杠杆风险。",
     "representative_quotes": [
-      "It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right... But the operating outlook could be positive... the share structure/financing becomes increasingly shareholder unfriendly.",
-      "After seeing how the robotics and space sectors reacted to Unitree and $SPCX IPOs, I’m not quite sure I want Anthropic to go public…",
-      "TLDR: I see Ayar/Celestial as candidates for SK Hynix's CPO roadmap, then microLEDs being commercialized past gen-1 maybe 2029. (this is all speculation)"
+      "The demand visibility... is just way too stupidly high.",
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
+      "I can't see how anyone can be bearish on this company... (AAOI)"
     ],
-    "generated_at": "2026-08-21T21:14:37.857245+00:00"
+    "generated_at": "2026-08-22T05:21:47.216837+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
       "FCX",
-      "PLTR",
       "WMT",
+      "META",
       "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与数据中心投资",
+      "AI驱动的资本支出与经济增长",
       "财政赤字与债务危机",
-      "政治交易与政策影响",
-      "地缘政治风险",
-      "市场波动与防御策略"
+      "地缘政治风险与贸易紧张",
+      "市场波动与投资策略分歧"
     ],
-    "recent_shift": "近期关注点从AI增长转向债务危机与市场风险，同时强调政治交易机会。",
+    "recent_shift": "近期观点从对债务危机的忧虑转向关注AI带来的增长机会，但同时也提醒市场波动风险。",
     "representative_quotes": [
-      "BREAKING: Trump bought Moderna, $MRNA. He bought up to $50,000 of $MRNA on March 2, bought again on March 17, and only partially sold in May. It was up more than 150% yesterday.",
+      "BREAKING: Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
       "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg."
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg"
     ],
-    "generated_at": "2026-08-22T04:57:27.142383+00:00"
+    "generated_at": "2026-08-22T05:21:49.522820+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
