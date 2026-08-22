@@ -1,5 +1,64 @@
 [
   {
+    "tweet_id": "2091014143105204630",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: A new round of punishing U.S. tariffs on Canada went into effect early Saturday morning, as the two countries failed to reach a deal ahead of the midnight deadline, per CTV",
+    "tweet_url": "https://x.com/unusual_whales/status/2091014143105204630",
+    "published_at": "2026-08-22T04:06:35+00:00",
+    "fetched_at": "2026-08-22T04:57:09.022196+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美加关税冲突升级，影响跨境贸易和供应链，利空相关市场情绪。",
+      "translation": "突发：新一轮针对加拿大的惩罚性美国关税于周六凌晨生效，两国未能在午夜截止日期前达成协议，据CTV报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090996882193437181",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To see what politicians are buying, subscribe to Unusual Whales.\n\nYou can get updates on their portfolios, right on site.\n\nRead more: https://t.co/e9bnW7AFKV",
+    "tweet_url": "https://x.com/unusual_whales/status/2090996882193437181",
+    "published_at": "2026-08-22T02:58:00+00:00",
+    "fetched_at": "2026-08-22T04:57:10.858692+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文推广Unusual Whales服务，该服务提供政治家投资组合的更新，帮助投资者关注政治人物买卖的股票。虽然提及投资相关服务，但未涉及具体股票或投资建议。",
+      "translation": "要了解政治家在买什么，订阅Unusual Whales。您可以在网站上获取他们的投资组合更新。阅读更多：https://t.co/e9bnW7AFKV",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090990087601348924",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A confidential prospectus does not lock Anthropic into a specific timeframe, but the official prospectus must land with investors at least 15 days before the roadshow begins.\n\nRead more: https://t.co/npIikvAAQq",
+    "tweet_url": "https://x.com/unusual_whales/status/2090990087601348924",
+    "published_at": "2026-08-22T02:31:00+00:00",
+    "fetched_at": "2026-08-22T04:57:12.780243+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ANTHIC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及Anthropic的机密招股说明书并未锁定具体时间表，但正式招股说明书必须在路演开始前至少15天送达投资者。这暗示Anthropic可能进行IPO，但未提供明确的投资方向或信号。",
+      "translation": "一份机密招股说明书并未将Anthropic锁定在具体时间表内，但正式招股说明书必须在路演开始前至少15天送达投资者。阅读更多：https://t.co/npIikvAAQq",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090959888482550118",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
