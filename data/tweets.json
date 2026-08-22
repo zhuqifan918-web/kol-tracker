@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2091178832489218191",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The 13F season was wild.\n\nSee what the billionaires were betting on.\n\nTake Berkshire. https://t.co/11Rttqk7i4",
+    "tweet_url": "https://x.com/unusual_whales/status/2091178832489218191",
+    "published_at": "2026-08-22T15:01:00+00:00",
+    "fetched_at": "2026-08-22T15:11:38.825411+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK"
+      ],
+      "direction": "neutral",
+      "summary": "推特提到13F季度信息披露季，亿万富翁的持仓动向引人关注，并提及伯克希尔哈撒韦。该推文旨在吸引读者查看具体内容，但未提供明确的投资观点或建议。",
+      "translation": "13F季报季非常热闹。看看亿万富翁们在押注什么。看看伯克希尔哈撒韦。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091177173789069797",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "It's been fun to read these US Gov fact sheets (few a week) recently. \n\nEarlier this week was \"Golden Age of Space Transportation\", with $SPCX hard carrying the launch sector like Faker. \n\nAnd $RKLB + other rocket companies as beneficiaries of the 1K launch/reentry goal by 2030. \n\nThis month we also had:\n- Drone component tariffs \n-  American Mining / Critical Mineral deals\n- Polysilicon supply chains tariffs\n\nand a lot more... So helpful to see what sectors US policy is focusing on.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091177173789069797",
+    "published_at": "2026-08-22T14:54:25+00:00",
+    "fetched_at": "2026-08-22T15:11:17.217340+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "RKLB"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论了美国政府在航天、无人机、矿业及多晶硅等领域的政策重点，特别指出$SPCX（SpaceX）和$RKLB（Rocket Lab）等火箭公司将从2030年千次发射目标中受益，整体对航天相关股票持乐观态度。",
+      "translation": "最近阅读美国政府的白皮书（每周几份）很有趣。本周早些时候是“太空运输的黄金时代”，$SPCX像Faker一样扛起发射大旗。而$RKLB和其他火箭公司是2030年1000次发射/再入目标的受益者。本月我们还有：无人机组件关税、美国矿业/关键矿产交易、多晶硅供应链关税等等……看到美国政策关注哪些领域很有帮助。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091148633252987221",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
