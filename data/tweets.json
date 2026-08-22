@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2091224130003640531",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Amazon, $AMZN, quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset ‘significant increases’ in memory costs, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2091224130003640531",
+    "published_at": "2026-08-22T18:01:00+00:00",
+    "fetched_at": "2026-08-22T18:14:59.495572+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "neutral",
+      "summary": "亚马逊因内存成本显著上升，悄然提高了Echo、Fire TV、Kindle和eero的价格。这可能影响其硬件业务利润率，但也会转嫁成本给消费者，总体影响需进一步观察。",
+      "translation": "亚马逊（$AMZN）悄悄提高了Echo、Fire TV、Kindle和eero的价格，以抵消‘显著增加’的内存成本，据《财富》杂志报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091193930885030082",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

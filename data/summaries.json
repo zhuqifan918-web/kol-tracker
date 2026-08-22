@@ -26,25 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
+      "AMZN",
+      "WMT",
       "FCX",
-      "NVDA",
-      "META",
       "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "医疗突破与期权投机",
-      "AI资本开支与经济增长",
-      "地缘政治与关税影响",
-      "市场波动与机构动向"
+      "AI与科技股",
+      "利率与债务",
+      "地缘政治风险"
     ],
-    "recent_shift": "从关注特定股票转向宏观不确定性和市场整体风险。",
+    "recent_shift": "近期观点从关注经济衰退风险转向关注AI驱动的增长机会，但对债务和地缘政治保持警惕。",
     "representative_quotes": [
-      "Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
-      "Canada will match US tariffs imposed at midnight dollar for dollar, per CNN."
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+      "Ray Dalio has said a debt crisis in the US could be three years away.",
+      "BREAKING: Canada will match US tariffs imposed at midnight dollar for dollar, per CNN."
     ],
-    "generated_at": "2026-08-22T17:12:14.324180+00:00"
+    "generated_at": "2026-08-22T18:15:09.993122+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
