@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "AMZN",
       "WMT",
-      "META",
-      "NVDA"
+      "AMZN",
+      "FCX",
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
+      "关税与贸易战",
       "AI与科技投资",
-      "关税与贸易摩擦",
-      "国债与财政赤字",
-      "政治人物交易",
-      "市场波动与风险"
+      "政府官员交易透明化"
     ],
-    "recent_shift": "近期观点从关注关税和贸易摩擦转向强调AI投资机会和财政赤字风险，但总体保持中性。",
+    "recent_shift": "最近从关注AI增长转向对市场波动和债务危机的担忧",
     "representative_quotes": [
-      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million.",
-      "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg."
+      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million. Recent purchases include Visa, $V, Berkshire Hathaway, $BRK.B, Mastercard, $MA, and Cintas, $CTAS.",
+      "Ray Dalio has said to sell bonds and buy gold.",
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
     ],
-    "generated_at": "2026-08-22T21:43:26.679446+00:00"
+    "generated_at": "2026-08-22T23:11:34.862323+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

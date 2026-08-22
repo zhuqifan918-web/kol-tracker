@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2091299627224162330",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Super Micro Computer said that an independent investigation led by its board found no evidence that current members of senior management knew about an alleged scheme to smuggle $2.5 billion in hardware packed with Nvidia chips to China.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091299627224162330",
+    "published_at": "2026-08-22T23:01:00+00:00",
+    "fetched_at": "2026-08-22T23:11:21.320075+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMCI",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提及超微电脑（SMCI）董事会独立调查未发现高管知晓向中国走私英伟达芯片（NVDA）的计划，消除了部分监管风险，对SMCI股价可能构成利好，同时涉及NVDA供应链的合规性问题。",
+      "translation": "超微电脑表示，其董事会领导的独立调查未发现现任高级管理层知晓一项涉嫌将装有英伟达芯片的价值25亿美元硬件走私至中国的计划。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091276621361856853",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
