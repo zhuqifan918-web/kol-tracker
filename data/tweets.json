@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091269428277297367",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Ray Dalio has said to sell bonds and buy gold.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091269428277297367",
+    "published_at": "2026-08-22T21:01:00+00:00",
+    "fetched_at": "2026-08-22T21:12:35.403394+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "雷·达里奥建议卖出债券并买入黄金，这反映了他对债券市场的悲观预期，以及对黄金作为避险资产的看好。投资者可能考虑调整资产配置，减少债券持仓，增加黄金配置。",
+      "translation": "雷·达里奥曾表示应该卖出债券并买入黄金。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091264273007960320",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
