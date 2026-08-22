@@ -26,25 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "FCX",
       "WMT",
-      "META",
+      "FCX",
+      "PLTR",
       "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI驱动的资本支出与经济增长",
-      "财政赤字与债务危机",
-      "地缘政治风险与贸易紧张",
-      "市场波动与投资策略分歧"
+      "AI投资热",
+      "关税与贸易战",
+      "财政赤字与国债",
+      "政治交易数据",
+      "期权异常流动"
     ],
-    "recent_shift": "近期观点从对债务危机的忧虑转向关注AI带来的增长机会，但同时也提醒市场波动风险。",
+    "recent_shift": "近期从关注关税和贸易战转向更多聚焦AI和科技股，同时强调国债和财政风险。",
     "representative_quotes": [
-      "BREAKING: Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
-      "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg"
+      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day. All seen on Unusual Whales.",
+      "BREAKING: US national debt officially hits $40 trillion for the first time ever, per FOX",
+      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
     ],
-    "generated_at": "2026-08-22T05:21:49.522820+00:00"
+    "generated_at": "2026-08-22T07:07:38.009999+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

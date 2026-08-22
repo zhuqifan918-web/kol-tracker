@@ -863,6 +863,25 @@
     }
   },
   {
+    "tweet_id": "2090503128676507872",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Scott Bessent: \"After the deportations that we've seen and the closing of the border, we don't need to produce as many jobs\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2090503128676507872",
+    "published_at": "2026-08-20T18:16:00+00:00",
+    "fetched_at": "2026-08-22T07:07:30.964989+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该言论暗示美国劳动力需求可能因移民减少而下降，可能影响就业数据和经济预期，对宏观经济和劳动力市场相关投资有潜在影响。",
+      "translation": "斯科特·贝森特：\"在经历了我们所见到的驱逐出境和边境关闭之后，我们不需要创造那么多就业机会。\"",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090498095553384600",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
