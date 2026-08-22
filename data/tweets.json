@@ -118,6 +118,25 @@
     }
   },
   {
+    "tweet_id": "2090974987968708686",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The FDA classified the recall as Class 1 on Tuesday, according to an enforcement report from the FDA\n\nRead more: https://t.co/Qq6n7CTNm7",
+    "tweet_url": "https://x.com/unusual_whales/status/2090974987968708686",
+    "published_at": "2026-08-22T01:31:00+00:00",
+    "fetched_at": "2026-08-22T08:17:31.299582+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及FDA将召回级别升级为一级（最严重），可能对相关医疗或食品公司股票构成负面影响，但未指明具体公司。",
+      "translation": "据FDA执法报告，FDA周二将此次召回归类为一级。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2090959888482550118",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
