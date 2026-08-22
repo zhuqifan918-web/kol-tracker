@@ -33,17 +33,19 @@
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技股",
-      "利率与债务",
-      "地缘政治风险"
+      "AI与科技投资",
+      "贸易战与关税",
+      "国债与货币政策",
+      "大宗商品与避险资产",
+      "机构与政治人物交易"
     ],
-    "recent_shift": "近期观点从关注经济衰退风险转向关注AI驱动的增长机会，但对债务和地缘政治保持警惕。",
+    "recent_shift": "近期从关注关税和贸易紧张转向更多谈论AI投资和科技股机会，但整体仍保持中性。",
     "representative_quotes": [
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
-      "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "BREAKING: Canada will match US tariffs imposed at midnight dollar for dollar, per CNN."
+      "Look at this. These contracts were up 700,000%. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "BREAKING: The US said Canada had declined a trade deal to stave off 50% tariffs, per NYT",
+      "Bessent: We can grow our way out of debt."
     ],
-    "generated_at": "2026-08-22T18:15:09.993122+00:00"
+    "generated_at": "2026-08-22T19:43:24.164953+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

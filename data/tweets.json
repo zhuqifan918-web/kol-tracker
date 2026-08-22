@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091239229166944713",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "‘Damage from the chaotic tariff regime cannot be refunded’: The $100 billion in refunds have wiped out revenue the import taxes brought in since May, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2091239229166944713",
+    "published_at": "2026-08-22T19:01:00+00:00",
+    "fetched_at": "2026-08-22T19:43:11.939697+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出，由于关税政策混乱，虽退税1000亿美元，但反而抵消了自5月以来征收的关税收入，造成财政损失，暗示政策的不确定性对市场和贸易环境形成负面影响。",
+      "translation": "'混乱关税制度造成的损失无法退还'：据《财富》杂志，1000亿美元的退税已抵消了自5月以来关税带来的收入。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091224130003640531",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
