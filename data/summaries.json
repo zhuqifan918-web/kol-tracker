@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "WMT",
       "FCX",
+      "WMT",
       "PLTR",
-      "AAPL"
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技巨头投资",
-      "政府政策与贸易关税",
-      "市场波动与避险资产",
-      "债务与财政赤字",
-      "个股异动与期权交易"
+      "AI基础设施与算力投资",
+      "政府与政治人物股票交易",
+      "国债与财政赤字",
+      "科技巨头动向",
+      "地缘政治风险"
     ],
-    "recent_shift": "近期从关注具体个股异动转向宏观风险（如债务、关税）和人工智能投资主题。",
+    "recent_shift": "近期关注点从纯宏观风险转向了具体交易机会与政治人物持仓，同时AI与财政赤字话题热度上升。",
     "representative_quotes": [
-      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg.",
+      "If you had invested only $1 yesterday you would have made $7000.",
+      "Holy look at this. Moderna, $MRNA, is up 130% today.",
       "Ray Dalio has said a debt crisis in the US could be three years away."
     ],
-    "generated_at": "2026-08-22T15:11:53.333570+00:00"
+    "generated_at": "2026-08-22T16:12:25.681660+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
