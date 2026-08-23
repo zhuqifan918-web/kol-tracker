@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091601617074401322",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Older Americans are leaving the workforce at a faster pace... due to the gains in the stock market,\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2091601617074401322",
+    "published_at": "2026-08-23T19:01:00+00:00",
+    "fetched_at": "2026-08-23T19:15:56.292865+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用华尔街日报报道，指出因股市上涨，美国老年人正加速退出劳动力市场。这反映了股市财富效应对劳动力供给的影响，但未提及具体投资标的或方向，宏观上可能影响劳动力市场和经济走势。",
+      "translation": "据《华尔街日报》报道，由于股市上涨，美国老年人正以更快的速度退出劳动力市场。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091556318746395061",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
