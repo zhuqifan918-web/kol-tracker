@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091631816096518537",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The AI bubble may deflate, not burst,\" per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2091631816096518537",
+    "published_at": "2026-08-23T21:01:00+00:00",
+    "fetched_at": "2026-08-23T21:12:40.298262+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用华尔街日报观点，认为AI泡沫可能逐渐收缩而非突然破裂，暗示市场可能经历缓慢调整而非剧烈崩盘，对投资者而言需关注风险释放过程。",
+      "translation": "据《华尔街日报》报道，AI泡沫可能会收缩，而不是破裂。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091616716589502700",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
