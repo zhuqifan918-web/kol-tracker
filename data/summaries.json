@@ -26,24 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "WMT",
+      "NVDA",
       "AMZN",
-      "META",
-      "AAPL"
+      "WMT",
+      "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与生产力",
-      "政府监管与贸易政策",
-      "市场波动与避险资产"
+      "AI算力投资与科技巨头",
+      "债券市场与债务危机",
+      "关税政策与贸易摩擦",
+      "加密货币与比特币政策",
+      "个股期权异动与政客交易"
     ],
-    "recent_shift": "近期观点从对AI和市场的乐观转向对债务、贸易冲突和通胀的担忧。",
+    "recent_shift": "从关注市场整体动向转向强调个股机会和政策影响，尤其关注MRNA等爆发性事件。",
     "representative_quotes": [
-      "Ray Dalio has said to sell bonds and buy gold.",
-      "Citi Bank has said to buy any market dip before the midterms.",
-      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn."
+      "There is a 43% chance that Bitcoin hits $90,000 by December 31, 2026, per Polymarket⁠.com",
+      "Ray Dalio has said a debt crisis in the US could be three years away.",
+      "The circular nature of AI deals, per Bloomberg: https://t.co/0OQmfiLFBs"
     ],
-    "generated_at": "2026-08-23T08:18:35.427231+00:00"
+    "generated_at": "2026-08-23T08:55:20.319322+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
