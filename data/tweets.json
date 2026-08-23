@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2091488091110531106",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Having a mid-X identity crisis rn:\n\n✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone\n✓ we got $AMD bandanas\n✓ #1 most subscribed person on X by accident\n✓ Chinese “White Hair” nicknames\n✓ 1M followers\n\nStill here to track ideas, but what’s the next side quest?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091488091110531106",
+    "published_at": "2026-08-23T11:29:53+00:00",
+    "fetched_at": "2026-08-23T11:42:19.702584+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "NBIS",
+        "AMD"
+      ],
+      "direction": "neutral",
+      "summary": "推文提到2025年的一些投资观点（涉及AXTI、NBIS、AMD），但内容主要是个人成就回顾和未来计划，没有给出具体的投资建议或市场分析。",
+      "translation": "我现在正经历一个中年身份危机：\n✓ 看到了2025年从$AXTI到$NBIS的想法被大家验证\n✓ 我们拿到了$AMD的头巾\n✓ 意外成为X上订阅人数最多的人\n✓ 中国“白发”绰号\n✓ 100万粉丝\n\n我仍在这里追踪想法，但下一个支线任务是什么？",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2091375915347722625",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
