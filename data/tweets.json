@@ -146,6 +146,25 @@
     }
   },
   {
+    "tweet_id": "2091209030576558168",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Did you know you can ask our bot ANYTHING?\n\nLiterally, ask it anything and it will try to help you with the options.\n\nTake a look: https://t.co/E7SDkYdrvv https://t.co/4jHI3Akgqi",
+    "tweet_url": "https://x.com/unusual_whales/status/2091209030576558168",
+    "published_at": "2026-08-22T17:01:00+00:00",
+    "fetched_at": "2026-08-23T00:42:31.755602+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了一个可回答任何问题的投资机器人，可用于辅助期权投资决策，但未提供具体投资建议或市场分析。",
+      "translation": "你知道吗，你可以向我们的机器人询问任何问题？ 字面上，问它任何问题，它都会尽力帮你处理期权问题。 看看这个：https://t.co/E7SDkYdrvv https://t.co/4jHI3Akgqi",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091193930885030082",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
