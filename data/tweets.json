@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091556318746395061",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: White House has said that the President’s stock market accounts are invested in ‘computer-based model portfolios’ to replicate stock indexes.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091556318746395061",
+    "published_at": "2026-08-23T16:01:00+00:00",
+    "fetched_at": "2026-08-23T16:48:36.106869+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文报道了白宫表示总统的股票账户投资于基于计算机的模型组合以跟踪股票指数。这提供了对总统投资策略的透明度，但对市场方向没有明确的指向性，属于中性信息。",
+      "translation": "突发新闻：白宫表示，总统的股票账户投资于基于计算机的模型组合，以复制股票指数。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091541220854047088",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
