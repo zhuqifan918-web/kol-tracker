@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2091616716589502700",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, paid 40% of its global taxes to Ireland in last fiscal year, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2091616716589502700",
+    "published_at": "2026-08-23T20:01:00+00:00",
+    "fetched_at": "2026-08-23T20:11:53.241468+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及苹果公司向爱尔兰支付了其全球税款总额的40%，但未提供直接影响投资决策的分析或观点，因此对股价方向的影响为中性。",
+      "translation": "苹果公司（AAPL）在上一财年将其全球税款的40%支付给了爱尔兰，据路透社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2091612406900564407",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "After watching clips of China's humanoid Olympics... \n\nI think we're cooked chat. \n\nStill can't believe $GOOGL sold Boston Dynamics, don't think we have another humanoid that can backflip. https://t.co/uERCqW85F5",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091612406900564407",
+    "published_at": "2026-08-23T19:43:52+00:00",
+    "fetched_at": "2026-08-23T20:11:32.730077+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "bearish",
+      "summary": "作者认为谷歌出售波士顿动力公司是一个重大失误，导致其在人形机器人领域落后于中国，对中国的人形机器人发展持悲观态度，对GOOGL的机器人业务前景表示看空。",
+      "translation": "看完中国人形机器人奥运会的片段后...我觉得我们完了。仍然不敢相信谷歌卖了波士顿动力，我不认为我们还有另一个能后空翻的人形机器人。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091601617074401322",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
