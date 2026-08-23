@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
+      "AAPL",
       "WMT",
-      "AMZN",
       "FCX",
-      "NVDA"
+      "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI技术革命与资本开支",
-      "贸易战与关税影响",
-      "政府政策与市场干预",
-      "通胀与债务危机",
-      "生物科技突破"
+      "AI泡沫与市场风险",
+      "关税贸易战",
+      "政治人物交易",
+      "债券与黄金",
+      "经济衰退担忧"
     ],
-    "recent_shift": "近期内容从纯粹的宏观警告转向对人工智能、生物科技等具体主题的乐观叙述，同时仍保持对债务和通胀风险的关注。",
+    "recent_shift": "近期对AI投资热情有所降温，但对市场的长期前景仍保持谨慎乐观。",
     "representative_quotes": [
-      "Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg",
-      "Ray Dalio has said to sell bonds and buy gold."
+      "The AI bubble may deflate, not burst.",
+      "Ray Dalio has said to sell bonds and buy gold.",
+      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn."
     ],
-    "generated_at": "2026-08-23T20:12:05.587683+00:00"
+    "generated_at": "2026-08-23T21:12:52.379386+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
