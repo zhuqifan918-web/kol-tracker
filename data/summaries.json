@@ -4,47 +4,48 @@
       "AAOI",
       "SIVE",
       "LITE",
-      "SKHY",
-      "COHR"
+      "MRVL",
+      "SKHY"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学供应链瓶颈与激光器短缺",
-      "AI基础设施需求强劲（数据中心、光模块、存储）",
-      "中国政府政策支持（关税、补贴）",
-      "新兴技术（CPO、NPO、人形机器人）"
+      "光模块与激光器供应瓶颈",
+      "存储芯片超级周期",
+      "CPO与光互连技术",
+      "人形机器人IPO",
+      "美国供应链保护"
     ],
-    "recent_shift": "近期观点更加坚定看多光学和存储，认为市场错杀提供了买入机会，整体仓位保持高配。",
+    "recent_shift": "近期从关注人形机器人IPO转向强调光学和存储领域的供应紧张，并保持看涨态度。",
     "representative_quotes": [
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
       "The demand visibility... is just way too stupidly high.",
-      "Lumentum confirmed timelines... extreme demand for qualified CW lasers.",
-      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead."
+      "If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it."
     ],
-    "generated_at": "2026-08-23T11:42:51.463489+00:00"
+    "generated_at": "2026-08-23T20:12:08.218354+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
       "WMT",
-      "META",
+      "AMZN",
       "FCX",
-      "PLTR"
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能",
-      "加密货币",
-      "贸易战与关税",
-      "国债与财政政策",
-      "医疗创新"
+      "AI技术革命与资本开支",
+      "贸易战与关税影响",
+      "政府政策与市场干预",
+      "通胀与债务危机",
+      "生物科技突破"
     ],
-    "recent_shift": "近期关注点从国债和财政政策转向人工智能和加密货币，同时对Mederna等个股的炒作增加。",
+    "recent_shift": "近期内容从纯粹的宏观警告转向对人工智能、生物科技等具体主题的乐观叙述，同时仍保持对债务和通胀风险的关注。",
     "representative_quotes": [
-      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
-      "The circular nature of AI deals, per Bloomberg",
-      "Goldman's breakdown shows AI substitution wiped out roughly 25,000 jobs per month in the past year, while augmentation added back about 9,000"
+      "Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients, Moderna and its partner Merck said",
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg",
+      "Ray Dalio has said to sell bonds and buy gold."
     ],
-    "generated_at": "2026-08-23T19:16:09.137428+00:00"
+    "generated_at": "2026-08-23T20:12:05.587683+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
