@@ -1,27 +1,26 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AAOI",
-      "$SIVE",
-      "$LITE",
-      "$COHR",
-      "$SKHY"
+      "AAOI",
+      "SIVE",
+      "LITE",
+      "SKHY",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光模块与激光器瓶颈",
-      "AI基础设施持续扩张",
-      "内存与HBM短缺",
-      "CPO/硅光子技术趋势",
-      "地缘政治与供应链重构"
+      "光学供应链瓶颈与激光器短缺",
+      "AI基础设施需求强劲（数据中心、光模块、存储）",
+      "中国政府政策支持（关税、补贴）",
+      "新兴技术（CPO、NPO、人形机器人）"
     ],
-    "recent_shift": "近期观点保持高度一致，持续强调光学与内存供应链瓶颈的严重性，并认为市场低估了这些瓶颈的持续性，没有显著转变。",
+    "recent_shift": "近期观点更加坚定看多光学和存储，认为市场错杀提供了买入机会，整体仓位保持高配。",
     "representative_quotes": [
       "The demand visibility... is just way too stupidly high.",
-      "I can't see how anyone can be bearish on this company...",
-      "The customer demand is 20%-40% higher."
+      "Lumentum confirmed timelines... extreme demand for qualified CW lasers.",
+      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead."
     ],
-    "generated_at": "2026-08-22T20:46:05.044943+00:00"
+    "generated_at": "2026-08-23T11:42:51.463489+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
