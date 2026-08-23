@@ -25,26 +25,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "FCX",
-      "AMZN",
       "WMT",
-      "BRK.B"
+      "META",
+      "FCX",
+      "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技巨头投资",
-      "关税与贸易战风险",
-      "财政赤字与债券市场",
-      "加密货币与比特币",
-      "市场波动与机构动向"
+      "人工智能",
+      "加密货币",
+      "贸易战与关税",
+      "国债与财政政策",
+      "医疗创新"
     ],
-    "recent_shift": "近期观点从关注AI增长和机构交易转向强调贸易战升级、财政赤字和债券市场压力，以及总统交易披露等政治因素。",
+    "recent_shift": "近期关注点从国债和财政政策转向人工智能和加密货币，同时对Mederna等个股的炒作增加。",
     "representative_quotes": [
-      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million.",
-      "Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading.",
-      "Ray Dalio has said to sell bonds and buy gold."
+      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "The circular nature of AI deals, per Bloomberg",
+      "Goldman's breakdown shows AI substitution wiped out roughly 25,000 jobs per month in the past year, while augmentation added back about 9,000"
     ],
-    "generated_at": "2026-08-23T16:48:49.001412+00:00"
+    "generated_at": "2026-08-23T19:16:09.137428+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
