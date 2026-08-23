@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "NVDA",
+      "WMT",
       "AMZN",
-      "PLTR",
-      "WMT"
+      "FCX",
+      "NVDA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI带来的经济增长",
-      "地缘政治与贸易摩擦",
-      "国债与财政政策",
-      "生物科技与疫苗",
-      "美股市场波动"
+      "人工智能与科技投资",
+      "贸易战与关税",
+      "通胀与债务",
+      "医疗创新",
+      "市场情绪与机构动向"
     ],
-    "recent_shift": "从关注生物科技和AI的投资机会转向了更多关注地缘政治风险和贸易政策，同时强调了国债和财政赤字的担忧。",
+    "recent_shift": "从关注贸易战和关税转向强调AI投资和债务风险。",
     "representative_quotes": [
-      "Ray Dalio has said to sell bonds and buy gold.",
-      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million.",
-      "BREAKING: AI is delivering the largest capex-driven boost to GDP in history, per Bloomberg."
+      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg.",
+      "Ray Dalio has said investors should reduce their bond holdings and put as much as 15% of their money in gold, per Bloomberg.",
+      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million."
     ],
-    "generated_at": "2026-08-22T23:42:36.062869+00:00"
+    "generated_at": "2026-08-23T00:42:37.562625+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
