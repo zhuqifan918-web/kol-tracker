@@ -43,6 +43,27 @@
     }
   },
   {
+    "tweet_id": "2091284527775977822",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Elon Musk is no longer a trillionaire,\" per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2091284527775977822",
+    "published_at": "2026-08-22T22:01:00+00:00",
+    "fetched_at": "2026-08-23T08:18:26.238613+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bearish",
+      "summary": "该推文报道埃隆·马斯克不再是万亿美元富翁，这一消息可能对特斯拉（TSLA）的股价产生负面影响，因为马斯克的财富主要与特斯拉股票挂钩。投资者可能将此视为特斯拉市值或股价下跌的信号。",
+      "translation": "据报道，埃隆·马斯克不再是万亿美元富翁。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091276621361856853",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
