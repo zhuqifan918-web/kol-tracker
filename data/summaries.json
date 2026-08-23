@@ -28,23 +28,23 @@
       "NVDA",
       "AMZN",
       "WMT",
-      "META"
+      "PLTR"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI与科技股",
-      "关税与贸易战",
-      "政治人物交易",
-      "宏观经济与利率",
-      "期权与波动性"
+      "AI与科技投资",
+      "生物科技突破",
+      "政治与贸易政策",
+      "宏观经济与债务",
+      "大宗商品与黄金"
     ],
-    "recent_shift": "近期关注点从AI和科技股转向了关税升级和宏观风险，同时增加了对政治人物交易的关注。",
+    "recent_shift": "近期观点从关注贸易战风险转向强调AI和生物科技带来的投资机会。",
     "representative_quotes": [
-      "There is a 43% chance that Bitcoin hits $90,000 by December 31, 2026, per Polymarket⁠.com",
-      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million.",
-      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70."
+      "Holy look at this. Moderna, $MRNA, is up 130% today. An experimental mRNA-based vaccine succeeded in preventing cancer from coming back or spreading in a study of high-risk melanoma patients...",
+      "Elon Musk is no longer a trillionaire, per YF",
+      "Ray Dalio has said a debt crisis in the US could be three years away."
     ],
-    "generated_at": "2026-08-23T14:14:08.753814+00:00"
+    "generated_at": "2026-08-23T15:12:45.716458+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

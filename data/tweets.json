@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2091541220854047088",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This week, Moderna, $MRNA, spiked more than 150%.  \n\nCheck out Unusual Whales FDA tool to not miss any updates.  \n\nSee more: https://t.co/4Ik984HxHk https://t.co/hDNAPCfe8P",
+    "tweet_url": "https://x.com/unusual_whales/status/2091541220854047088",
+    "published_at": "2026-08-23T15:01:00+00:00",
+    "fetched_at": "2026-08-23T15:12:34.166832+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRNA"
+      ],
+      "direction": "bullish",
+      "summary": "Modern本周股价飙升超过150%，推文通过推广FDA工具暗示关注相关动态，整体传递积极信号。",
+      "translation": "本周，Moderna（$MRNA）股价飙升超过150%。查看Unusual Whales的FDA工具，不错过任何更新。更多信息：https://t.co/4Ik984HxHk https://t.co/hDNAPCfe8P",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091526119833096282",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
