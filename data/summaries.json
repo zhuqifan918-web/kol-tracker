@@ -27,24 +27,24 @@
       "MRNA",
       "NVDA",
       "AMZN",
-      "WMT",
+      "FCX",
       "PLTR"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI算力投资与科技巨头",
-      "债券市场与债务危机",
-      "关税政策与贸易摩擦",
-      "加密货币与比特币政策",
-      "个股期权异动与政客交易"
+      "AI相关交易与影响",
+      "地缘政治风险与供应链",
+      "货币政策与财政刺激",
+      "生物技术突破与投机",
+      "市场结构与监管变化"
     ],
-    "recent_shift": "从关注市场整体动向转向强调个股机会和政策影响，尤其关注MRNA等爆发性事件。",
+    "recent_shift": "最近观点转向对地缘政治紧张的担忧，同时关注AI带来的经济刺激与潜在泡沫风险。",
     "representative_quotes": [
-      "There is a 43% chance that Bitcoin hits $90,000 by December 31, 2026, per Polymarket⁠.com",
-      "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "The circular nature of AI deals, per Bloomberg: https://t.co/0OQmfiLFBs"
+      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
+      "Ray Dalio has said to sell bonds and buy gold.",
+      "JUST IN: UBS says the bull run will continue."
     ],
-    "generated_at": "2026-08-23T08:55:20.319322+00:00"
+    "generated_at": "2026-08-23T13:08:48.678494+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
