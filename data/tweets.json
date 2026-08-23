@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2091375915347722625",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 43% chance that Bitcoin hits $90,000 by December 31, 2026, per Polymarket⁠.com https://t.co/aF3MWpOvyy",
+    "tweet_url": "https://x.com/unusual_whales/status/2091375915347722625",
+    "published_at": "2026-08-23T04:04:08+00:00",
+    "fetched_at": "2026-08-23T04:08:18.081748+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文引用Polymarket平台的数据，显示比特币在2026年12月31日前达到9万美元的概率为43%。这为投资者提供了市场对未来比特币价格走势的预测概率，但并未给出明确的买卖建议，因此方向中性。",
+      "translation": "根据Polymarket网站，比特币在2026年12月31日前达到90,000美元的概率为43%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091299627224162330",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
