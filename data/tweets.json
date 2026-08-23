@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2091526119833096282",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Thos 13F season was wild.\n\nSee what the billionaires were betting on.\n\nTake Berkshire.\n\nThey spent the billions of their cash.\n\nSee more: https://t.co/wooOthczpj https://t.co/x2McGVN6fb",
+    "tweet_url": "https://x.com/unusual_whales/status/2091526119833096282",
+    "published_at": "2026-08-23T14:01:00+00:00",
+    "fetched_at": "2026-08-23T14:13:56.401659+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK"
+      ],
+      "direction": "bullish",
+      "summary": "推文提及13F季度持仓披露季节，暗示亿万富翁投资者（如伯克希尔）的投资动向值得关注。伯克希尔动用大量现金进行投资，显示出看涨态度。",
+      "translation": "这次13F申报季真是热闹。看看亿万富翁们在押注什么。就拿伯克希尔来说，他们花掉了数十亿现金。查看更多：https://t.co/wooOthczpj https://t.co/x2McGVN6fb",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091511020296773926",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

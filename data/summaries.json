@@ -27,24 +27,24 @@
       "MRNA",
       "NVDA",
       "AMZN",
-      "FCX",
-      "PLTR"
+      "WMT",
+      "META"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI相关交易与影响",
-      "地缘政治风险与供应链",
-      "货币政策与财政刺激",
-      "生物技术突破与投机",
-      "市场结构与监管变化"
+      "AI与科技股",
+      "关税与贸易战",
+      "政治人物交易",
+      "宏观经济与利率",
+      "期权与波动性"
     ],
-    "recent_shift": "最近观点转向对地缘政治紧张的担忧，同时关注AI带来的经济刺激与潜在泡沫风险。",
+    "recent_shift": "近期关注点从AI和科技股转向了关税升级和宏观风险，同时增加了对政治人物交易的关注。",
     "representative_quotes": [
-      "Michael Burry says Palantir, $PLTR, will be at under $1 over the long run.",
-      "Ray Dalio has said to sell bonds and buy gold.",
-      "JUST IN: UBS says the bull run will continue."
+      "There is a 43% chance that Bitcoin hits $90,000 by December 31, 2026, per Polymarket⁠.com",
+      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million.",
+      "Look at this. These contracts were up 700,000%. You read that right. This Moderna, $MRNA, contract went from $0.01 to $70."
     ],
-    "generated_at": "2026-08-23T13:08:48.678494+00:00"
+    "generated_at": "2026-08-23T14:14:08.753814+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
