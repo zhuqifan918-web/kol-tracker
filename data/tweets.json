@@ -21,6 +21,25 @@
     }
   },
   {
+    "tweet_id": "2091314726785655294",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The era of cheap used cars is rapidly disappearing,\" per Edmunds",
+    "tweet_url": "https://x.com/unusual_whales/status/2091314726785655294",
+    "published_at": "2026-08-23T00:01:00+00:00",
+    "fetched_at": "2026-08-23T08:55:11.044185+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用Edmunds的观点，认为便宜二手车时代正在迅速消失。这可能预示着二手车价格上涨，或对汽车市场及相关行业（如二手车经销商、汽车租赁公司）产生负面影响，投资者需关注相关公司的成本压力和需求变化。",
+      "translation": "据Edmunds称，便宜二手车的时代正在迅速消失。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091299627224162330",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
