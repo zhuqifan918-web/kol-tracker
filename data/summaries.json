@@ -26,26 +26,24 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "AMZN",
       "WMT",
+      "AMZN",
       "META",
-      "NVDA"
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技股",
-      "国债与财政赤字",
-      "地缘政治与贸易战",
-      "市场波动与期权交易",
-      "机构动向与政客交易"
+      "AI投资与生产力",
+      "政府监管与贸易政策",
+      "市场波动与避险资产"
     ],
-    "recent_shift": "近期观点从关注贸易战转向更关注AI、国债和加密货币，且对市场短期波动保持中性态度。",
+    "recent_shift": "近期观点从对AI和市场的乐观转向对债务、贸易冲突和通胀的担忧。",
     "representative_quotes": [
       "Ray Dalio has said to sell bonds and buy gold.",
-      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million.",
-      "AI delivers the largest capex-drive boost to GDP in history, per Bloomberg."
+      "Citi Bank has said to buy any market dip before the midterms.",
+      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn."
     ],
-    "generated_at": "2026-08-23T04:08:32.599913+00:00"
+    "generated_at": "2026-08-23T08:18:35.427231+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
