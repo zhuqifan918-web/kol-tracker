@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091677114600772067",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,\" per Apollo's Slok",
+    "tweet_url": "https://x.com/unusual_whales/status/2091677114600772067",
+    "published_at": "2026-08-24T00:01:00+00:00",
+    "fetched_at": "2026-08-24T00:41:01.713925+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用Apollo的Slok观点，指出当前企业利润并非来自客户，而是由投资者资金支撑，暗示市场存在泡沫风险，对整体股市构成利空。",
+      "translation": "AI数学说不通：'利润目前由投资者提供资金，而非来自客户，' Apollo的Slok表示。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091631816096518537",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

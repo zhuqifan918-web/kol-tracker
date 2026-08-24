@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
+      "FCX",
       "AAPL",
       "WMT",
-      "FCX",
-      "PLTR"
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与市场风险",
-      "关税贸易战",
-      "政治人物交易",
-      "债券与黄金",
-      "经济衰退担忧"
+      "AI泡沫与估值担忧",
+      "政治人物交易披露",
+      "地缘政治与贸易摩擦",
+      "国债与财政赤字",
+      "市场波动与投资策略"
     ],
-    "recent_shift": "近期对AI投资热情有所降温，但对市场的长期前景仍保持谨慎乐观。",
+    "recent_shift": "近期观点从对AI泡沫的担忧转向关注政治人物交易和市场机遇，但整体保持中性。",
     "representative_quotes": [
-      "The AI bubble may deflate, not burst.",
-      "Ray Dalio has said to sell bonds and buy gold.",
-      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn."
+      "AI math doesn't make sense: 'Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
+      "The AI bubble may deflate, not burst, per WSJ",
+      "BREAKING: Representative Ro Khanna just updated his 2025 annual financial disclosure: 5,402 trades, up to $165.4 million in trading volume"
     ],
-    "generated_at": "2026-08-23T21:12:52.379386+00:00"
+    "generated_at": "2026-08-24T00:41:14.620567+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
