@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "TRUMP",
-      "META",
-      "AAPL",
-      "WMT"
+      "FCX",
+      "AMZN",
+      "WMT",
+      "AAPL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮与泡沫担忧",
-      "政治人物股票交易与利益冲突",
-      "铜短缺与资源类股机会",
-      "美国国债与财政政策",
-      "中产阶级退休账户与加密货币"
+      "AI泡沫",
+      "关税与贸易战",
+      "政客股票交易",
+      "衰退风险",
+      "大宗商品"
     ],
-    "recent_shift": "近期态度从关注AI增长和牛市转向担忧市场回调风险和AI盈利可持续性。",
+    "recent_shift": "近期观点从中性偏多转向中性偏空，开始强调市场下跌风险。",
     "representative_quotes": [
-      "\"AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,\" per Apollo's Slok",
-      "\"The AI bubble may deflate, not burst,\" per WSJ",
-      "\"JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends\""
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
+      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends",
+      "Ray Dalio has said to sell bonds and buy gold."
     ],
-    "generated_at": "2026-08-24T16:03:19.285457+00:00"
+    "generated_at": "2026-08-24T17:03:34.441888+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
