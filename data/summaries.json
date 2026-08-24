@@ -27,25 +27,25 @@
     "focus_tickers": [
       "MRNA",
       "AAPL",
-      "AMZN",
+      "NVDA",
       "WMT",
-      "NVDA"
+      "FCX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与泡沫风险",
-      "政治人物交易与政策影响",
-      "国债与财政赤字",
-      "中美贸易战与关税",
-      "加密货币与市场波动"
+      "AI泡沫与回报",
+      "关税与贸易战",
+      "通胀与债务",
+      "政治人物交易披露",
+      "市场波动与对冲"
     ],
-    "recent_shift": "近期对AI泡沫的担忧加剧，同时关注政治人物交易，但对市场整体持中性态度。",
+    "recent_shift": "近期观点从单纯关注AI增长转向警惕AI泡沫风险及美股回调风险，同时关注债券市场和黄金。",
     "representative_quotes": [
       "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
-      "The AI bubble may deflate, not burst, per WSJ",
-      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million."
+      "The AI bubble may deflate, not burst,' per WSJ",
+      "JUST IN: JPMorgan has said there is risk of a downturn in stocks in Autumn."
     ],
-    "generated_at": "2026-08-24T02:17:38.159877+00:00"
+    "generated_at": "2026-08-24T03:29:12.453139+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
