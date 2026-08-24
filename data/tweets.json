@@ -1,5 +1,81 @@
 [
   {
+    "tweet_id": "2091932098869305618",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Democrats chance to win the Senate midterms has decreased, and now they are in a dead tie with Republicans at 50% chance, per Polymarket⁠.com.\n\nBank of America’s Harnett says that if Democrats win the Senate, the stock market will drop 10%. https://t.co/doAYYDXy3M",
+    "tweet_url": "https://x.com/unusual_whales/status/2091932098869305618",
+    "published_at": "2026-08-24T16:54:13+00:00",
+    "fetched_at": "2026-08-24T17:03:03.074874+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到参议院选举的不确定性，并引用美国银行策略师观点：若民主党赢得参议院，股市可能下跌10%。整体对股市偏空。",
+      "translation": "突发新闻：根据Polymarket网站，民主党赢得中期选举参议院的机会下降，目前与共和党持平，均为50%。美国银行的哈内特表示，如果民主党赢得参议院，股市将下跌10%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091927514700505407",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US homebuyer demand has fallen to a record low, with just 967,000 buyers competing against 1.46 million sellers, a 51% surplus of sellers.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091927514700505407",
+    "published_at": "2026-08-24T16:36:00+00:00",
+    "fetched_at": "2026-08-24T17:03:04.859737+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国购房需求降至历史新低，卖家数量比买家多出51%，表明房地产市场供需失衡加剧，可能对房地产相关行业和整体经济构成利空。",
+      "translation": "突发新闻：美国购房者需求已降至历史最低点，仅有96.7万购房者与146万卖家竞争，卖家过剩51%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091917700142686561",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"80% of major metros are now a buyer's market, with sellers outnumbering buyers,\" per Redfin.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091917700142686561",
+    "published_at": "2026-08-24T15:57:00+00:00",
+    "fetched_at": "2026-08-24T17:03:07.693245+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Redfin数据，显示美国主要都会区中80%已转为买方市场，卖家多于买家，反映房地产市场供需变化，可能影响房地产相关投资，但未明确指向具体股票或投资建议。",
+      "translation": "根据Redfin的数据，80%的主要都会区现在都是买方市场，卖家数量超过买家。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091912667367637483",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Cheaper new offerings from US labs have driven a recent drop in closed model prices,\" per FT: https://t.co/ljKlAS6eKU",
+    "tweet_url": "https://x.com/unusual_whales/status/2091912667367637483",
+    "published_at": "2026-08-24T15:37:00+00:00",
+    "fetched_at": "2026-08-24T17:03:09.508838+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到美国实验室推出的更便宜的新产品导致封闭模型价格下降，这可能影响AI相关公司的定价和竞争格局，但未具体提及标的或明确投资方向。",
+      "translation": "据《金融时报》报道，美国实验室推出的更便宜的新产品导致封闭模型价格近期下降：https://t.co/ljKlAS6eKU",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091909391238979970",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -98,6 +174,32 @@
       "summary": "该推文提及特朗普宣布自2027年起对汽车、汽车零部件和钢铁征收50%关税，这可能对相关行业股票和整体市场情绪产生负面影响，属于贸易战升级的潜在风险。",
       "translation": "为什么我们要和我们友好的金毛猎犬加拿大打贸易战。我们难道不应该今天关注伊朗吗？特朗普：宣布从2027年起对汽车、汽车零部件和钢铁征收50%关税。https://t.co/40SbPDPMFC",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091885557576020325",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump said: On January 1st, 2027, tariffs on all Canadian cars, trucks, both large and small, automotive parts, and steel, will be increased to 50%.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091885557576020325",
+    "published_at": "2026-08-24T13:49:16+00:00",
+    "fetched_at": "2026-08-24T17:03:15.661630+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "F",
+        "GM",
+        "TSLA",
+        "STLA",
+        "TM",
+        "HMC"
+      ],
+      "direction": "bearish",
+      "summary": "特朗普宣布自2027年1月1日起，将对所有加拿大汽车、卡车、零部件及钢铁的关税提高至50%。这将对依赖加拿大生产的汽车制造商如福特、通用、特斯拉、斯特兰蒂斯、丰田和本田造成成本压力，可能影响其盈利和股价，整体行业情绪偏空。",
+      "translation": "突发：特朗普表示，自2027年1月1日起，对加拿大所有汽车、卡车（大型和小型）、汽车零部件和钢铁的关税将提高至50%。",
+      "confidence": "high"
     }
   },
   {
