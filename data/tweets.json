@@ -1,5 +1,49 @@
 [
   {
+    "tweet_id": "2091857301875646943",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Greg Byrne, an 87-year-old melanoma trial participant from Arizona, bought Moderna, $MRNA, stock when he enrolled in an experimental mRNA cancer vaccine study two years ago, per WSJ\n\nThe stock soared more than 150% last week, on experimental successful results.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091857301875646943",
+    "published_at": "2026-08-24T11:57:00+00:00",
+    "fetched_at": "2026-08-24T12:27:16.324163+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRNA"
+      ],
+      "direction": "bullish",
+      "summary": "这条推文提及Moderna的mRNA癌症疫苗试验成功，股价上周大涨150%，一次试验参与者因早期买入股票而获利，整体透露出对Moderna的积极预期。",
+      "translation": "突发：来自亚利桑那州的87岁黑色素瘤试验参与者格雷格·伯恩，两年前在参加实验性mRNA癌症疫苗研究时购买了Moderna股票，据《华尔街日报》报道，该股上周因实验结果成功而飙升超过150%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091851831718879660",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actually further ahead in commercialization than Xpeng. \n\nRegardless, humanoids + physical AI sector funding is really taking off.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091851831718879660",
+    "published_at": "2026-08-24T11:35:16+00:00",
+    "fetched_at": "2026-08-24T12:26:53.936104+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XPEV",
+        "NVDA",
+        "AMZN"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论人形机器人和物理AI领域的融资热潮，提及小鹏汽车分拆机器人部门融资超9亿美元，估值63亿美元以上，并对比宇树科技（估值350-360亿美元）和Agility Robotics（获英伟达和亚马逊支持，估值25亿美元），暗示该赛道投资火热，整体看多。",
+      "translation": "小鹏汽车（$XPEV）拆分了其机器人部门，并以63亿美元以上的估值融资超过9亿美元。这是继宇树科技IPO之后，该公司目前市值约350-360亿美元。然后还有英伟达（$NVDA）和亚马逊（$AMZN）支持的Agility…其投前估值为25亿美元。我认为Agility在商业化方面实际上比小鹏更领先。不管怎样，人形机器人和物理AI领域的资金正在真正起飞。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091843192639672553",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -176,6 +220,25 @@
       "direction": "bearish",
       "summary": "该数据表明美国老年劳动力参与率下降，可能反映经济结构性问题或退休提前趋势，对长期经济增长和消费需求构成潜在负面影响，进而可能拖累股市表现。",
       "translation": "据彭博社报道，美国55岁及以上人口的劳动力参与率已从疫情前的40%以上降至7月份的36.9%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091657281826140492",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Scott Bessent has called a press conference for Monday, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2091657281826140492",
+    "published_at": "2026-08-23T22:42:11+00:00",
+    "fetched_at": "2026-08-24T12:27:27.860185+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息仅提及斯科特·贝森特将于周一召开新闻发布会，未涉及具体投资标的或市场方向，但此类官方声明可能对市场情绪产生影响，建议关注后续内容。",
+      "translation": "刚刚：据路透社报道，斯科特·贝森特已定于周一召开新闻发布会。",
       "confidence": "medium"
     }
   },
