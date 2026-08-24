@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2091879110775652722",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Treasury may tap $1 trillion cash account for bond buybacks, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2091879110775652722",
+    "published_at": "2026-08-24T13:23:39+00:00",
+    "fetched_at": "2026-08-24T13:29:33.732328+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国财政部可能动用其巨额现金账户进行债券回购，此举可能增加市场流动性，对债券市场和相关资产价格构成潜在利好。投资者可关注此举对利率和风险资产的影响。",
+      "translation": "突发：据CNBC报道，美国财政部可能会动用1万亿美元现金账户进行债券回购。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091867369446477933",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Hyperscalers have lined up $2.6 trillion of future spending, per Bloomberg: https://t.co/qVNUe1kbSa",
+    "tweet_url": "https://x.com/unusual_whales/status/2091867369446477933",
+    "published_at": "2026-08-24T12:37:00+00:00",
+    "fetched_at": "2026-08-24T13:29:36.851955+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "大型云计算公司（超大规模企业）已规划未来支出总额达2.6万亿美元，这一巨额资本开支预示着对数据中心、AI基础设施等领域的强劲需求，利好相关科技产业链。",
+      "translation": "据彭博社报道，超大规模企业已经排定了总额达2.6万亿美元的未来支出计划。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091857301875646943",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

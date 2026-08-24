@@ -28,24 +28,23 @@
       "MRNA",
       "AAPL",
       "WMT",
-      "META",
-      "NVDA"
+      "NVDA",
+      "FCX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与投资周期",
-      "政治人物与市场交易",
+      "人工智能投资与泡沫风险",
+      "财政刺激与债务扩张",
       "地缘政治与贸易摩擦",
-      "利率与债券市场",
-      "市场波动与风险预警"
+      "市场机构动向与政治交易"
     ],
-    "recent_shift": "最近观点从乐观转向对市场回调风险的担忧，并强调AI投资回报的不确定性。",
+    "recent_shift": "近期对AI泡沫和秋季市场回调的担忧有所上升，但整体信息仍保持平衡。",
     "representative_quotes": [
       "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
       "The AI bubble may deflate, not burst, per WSJ",
       "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends"
     ],
-    "generated_at": "2026-08-24T12:27:35.920286+00:00"
+    "generated_at": "2026-08-24T13:29:50.195461+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
