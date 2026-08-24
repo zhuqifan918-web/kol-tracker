@@ -19,6 +19,25 @@
     }
   },
   {
+    "tweet_id": "2091662015064604674",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Labor force participation among Americans 55+ has fallen from over 40% before the pandemic to 36.9% in July, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091662015064604674",
+    "published_at": "2026-08-23T23:01:00+00:00",
+    "fetched_at": "2026-08-24T02:17:26.814392+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该数据表明美国老年劳动力参与率下降，可能反映经济结构性问题或退休提前趋势，对长期经济增长和消费需求构成潜在负面影响，进而可能拖累股市表现。",
+      "translation": "据彭博社报道，美国55岁及以上人口的劳动力参与率已从疫情前的40%以上降至7月份的36.9%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091631816096518537",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

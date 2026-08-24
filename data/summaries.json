@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "FCX",
       "AAPL",
+      "AMZN",
       "WMT",
       "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与估值担忧",
-      "政治人物交易披露",
-      "地缘政治与贸易摩擦",
+      "AI投资与泡沫风险",
+      "政治人物交易与政策影响",
       "国债与财政赤字",
-      "市场波动与投资策略"
+      "中美贸易战与关税",
+      "加密货币与市场波动"
     ],
-    "recent_shift": "近期观点从对AI泡沫的担忧转向关注政治人物交易和市场机遇，但整体保持中性。",
+    "recent_shift": "近期对AI泡沫的担忧加剧，同时关注政治人物交易，但对市场整体持中性态度。",
     "representative_quotes": [
-      "AI math doesn't make sense: 'Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
       "The AI bubble may deflate, not burst, per WSJ",
-      "BREAKING: Representative Ro Khanna just updated his 2025 annual financial disclosure: 5,402 trades, up to $165.4 million in trading volume"
+      "BREAKING: Trump has disclosed more than 1,000 trades in June totaling up to $263 million."
     ],
-    "generated_at": "2026-08-24T00:41:14.620567+00:00"
+    "generated_at": "2026-08-24T02:17:38.159877+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
