@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091737512603738211",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends\n\nRead more: https://t.co/kcnwwQS14Y",
+    "tweet_url": "https://x.com/unusual_whales/status/2091737512603738211",
+    "published_at": "2026-08-24T04:01:00+00:00",
+    "fetched_at": "2026-08-24T04:20:49.432105+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通策略师杰森·亨特警告，尽管主要指数仍处于看涨趋势，但该银行认为夏末或初秋市场下跌的风险正在增加。这提示投资者需警惕短期回调风险。",
+      "translation": "摩根大通策略师杰森·亨特指出，该银行认为尽管主要指数仍处于看涨趋势，但夏末或初秋市场下跌的风险正在增加。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091692214334226593",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
