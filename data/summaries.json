@@ -2,49 +2,49 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "AAOI",
-      "SIVE",
       "LITE",
-      "COHR",
-      "SKHY"
+      "SIVE",
+      "NVDA",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光模块与激光器瓶颈",
-      "CPO与光互连",
-      "AI基础设施投资",
-      "存储芯片短缺",
-      "人形机器人"
+      "光学供应链瓶颈与需求失衡",
+      "人形机器人与物理AI投资主题",
+      "内存与存储超级周期",
+      "中国IPO市场估值溢价",
+      "美国政策与关税对供应链的影响"
     ],
-    "recent_shift": "近期观点没有明显转变，依然看好光模块、激光器、存储等AI供应链瓶颈，但提醒部分个股存在融资稀释风险。",
+    "recent_shift": "近期观点从全面看多转向对特定公司融资稀释（如AAOI的ATM）表示谨慎，但仍强调长期基本面强劲。",
     "representative_quotes": [
-      "The demand visibility... is just way too stupidly high.",
-      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
-      "Basically just validated timelines + demand/pricing for Western CW laser players."
+      "$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028. 400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (>50% gross margin) product line.",
+      "I'm still bullish on $AAOI and I have large positions ... However, the reason I'm still overweight on AOI vs. the rest ... Is that AOI is actually capacity constrained with high demand visibility.",
+      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-08-24T12:27:33.844212+00:00"
+    "generated_at": "2026-08-24T14:11:41.255181+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "AAPL",
-      "WMT",
-      "NVDA",
-      "FCX"
+      "BE",
+      "INTC",
+      "FCX",
+      "NVDA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能投资与泡沫风险",
-      "财政刺激与债务扩张",
-      "地缘政治与贸易摩擦",
-      "市场机构动向与政治交易"
+      "政治人物交易跟踪",
+      "AI基础设施与算力投资",
+      "国债与财政风险",
+      "市场波动与下行风险"
     ],
-    "recent_shift": "近期对AI泡沫和秋季市场回调的担忧有所上升，但整体信息仍保持平衡。",
+    "recent_shift": "近期观点从中性偏向谨慎，强调市场可能面临回调风险。",
     "representative_quotes": [
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
-      "The AI bubble may deflate, not burst, per WSJ",
-      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends"
+      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades. Major buys include: 15,000 shares of Bloom Energy, $BE; 10,000 shares of Intel, $INTC.",
+      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends",
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok"
     ],
-    "generated_at": "2026-08-24T13:29:50.195461+00:00"
+    "generated_at": "2026-08-24T14:11:43.891012+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
