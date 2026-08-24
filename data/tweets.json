@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091692214334226593",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fidelity has said there are now 595,000 accounts worth over a million dollars, the highest ever.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091692214334226593",
+    "published_at": "2026-08-24T01:01:00+00:00",
+    "fetched_at": "2026-08-24T03:29:00.344416+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及富达投资报告称有59.5万个账户资产超过100万美元，创历史新高，反映市场财富效应和投资者参与度提升，但未明确指向具体投资标的或方向，属于市场情绪或整体财富状况的观察。",
+      "translation": "富达表示，目前有59.5万个账户资产超过一百万美元，创历史新高。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091677114600772067",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -115,6 +134,25 @@
       "summary": "该推文引用华尔街日报报道，指出因股市上涨，美国老年人正加速退出劳动力市场。这反映了股市财富效应对劳动力供给的影响，但未提及具体投资标的或方向，宏观上可能影响劳动力市场和经济走势。",
       "translation": "据《华尔街日报》报道，由于股市上涨，美国老年人正以更快的速度退出劳动力市场。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091586517546438778",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The White House has said that Trump's June trades, worth up to $263 million, show \"no conflict of interest.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2091586517546438778",
+    "published_at": "2026-08-23T18:01:00+00:00",
+    "fetched_at": "2026-08-24T03:29:05.064373+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道白宫声明特朗普6月份的交易（价值高达2.63亿美元）不存在利益冲突。这涉及政治人物的交易活动，但未提及具体标的或投资建议，对市场影响方向不明确。",
+      "translation": "突发新闻：白宫表示，特朗普6月份的交易（价值高达2.63亿美元）显示'没有利益冲突'。",
+      "confidence": "low"
     }
   },
   {
