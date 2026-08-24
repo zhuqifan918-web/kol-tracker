@@ -1,5 +1,28 @@
 [
   {
+    "tweet_id": "2091843192639672553",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). \n\nWhat I've been consistent with is not being a fan of overusing ATMs/dilution for financing. I've said this before with $IREN + $POET.\n\nAnd I'll be consistent with my own positions like AOI. \n\nHowever, the reason I'm still overweight on AOI vs. the rest (looking at you Poet): \n\nIs that AOI is actually capacity constrained with high demand visibility. \n\nIn terms of timing:\n\n- AOI should have waited until completion of 1.6T qualifications (expected in the next few weeks)\n\n- Could have used other structures like convertible notes above market prices. \n\nBut they did it on the drop from $220 -> $130, and it's likely there will be short term structural overhang whenever they want to tap into it. \n\nI don't have to support every single business decision to  remain long.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091843192639672553",
+    "published_at": "2026-08-24T11:00:56+00:00",
+    "fetched_at": "2026-08-24T11:30:55.907046+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI",
+        "IREN",
+        "POET"
+      ],
+      "direction": "bullish",
+      "summary": "作者对AAOI保持看涨，尽管ATM发行造成短期压力，但看好其高需求可见性和产能受限的基本面。认为时机不佳，但长期仍持有。",
+      "translation": "关于6000万美元的ATM，有很多误解四处传播。我仍然看好AAOI，并且我有大量仓位（这就是为什么我更关心）。我一直以来的观点是不喜欢过度使用ATM/稀释来融资。我之前对IREN和POET也这样说过。我也会对自己的仓位如AOI保持一致。然而，我仍然超配AOI而非其他（比如POET）的原因是：AOI实际上产能受限，需求可见性高。在时机方面：AOI应该等到1.6T认证完成（预计未来几周）之后再进行。也可以使用其他结构，如高于市场价的可转换票据。但他们在从220美元跌到130美元的过程中做了这件事，而且短期内可能会存在结构性压力，无论何时他们想动用它。我不必支持每一个商业决策才能保持长期持仓。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091842202238361953",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -954,6 +977,27 @@
       "direction": "neutral",
       "summary": "该推文指出，尽管企业表示AI需求仍然旺盛，但它们也在采取预防措施以避免承担过多风险，这可能意味着AI投资热潮正在趋于谨慎，对相关股票的影响可能是短期的正面消息，但长期不确定性增加。",
       "translation": "据彭博社报道，企业表示AI需求仍然旺盛，但也在采取预防措施，以免最终承担过多风险。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2090904029651939443",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Not bullish anymore??!\n\nUgly price action at the moment for $Aaoi",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2090904029651939443",
+    "published_at": "2026-08-21T20:49:02+00:00",
+    "fetched_at": "2026-08-24T11:31:00.545664+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AOI"
+      ],
+      "direction": "bearish",
+      "summary": "推文提到AOI价格走势难看，并质疑之前的看涨观点，暗示当前市场情绪转为悲观。",
+      "translation": "@aleabitoreddit 不再看涨了吗？！目前$AOI的价格走势很难看。",
       "confidence": "medium"
     }
   },

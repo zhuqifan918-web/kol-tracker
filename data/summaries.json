@@ -5,21 +5,23 @@
       "SIVE",
       "LITE",
       "COHR",
-      "AXTI"
+      "MTSI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学互连与CPO供应链瓶颈",
-      "存储器超级周期",
-      "人形机器人与IPO市场"
+      "光模块与光通信上游瓶颈（激光器、InP衬底）",
+      "CPO与1.6T需求爆发，订单能见度极高",
+      "半导体内存（DRAM/NAND）供不应求，价格持续上涨",
+      "先进封装与MLCC等供应链吃紧",
+      "中国公司IPO带动机器人板块估值提升"
     ],
-    "recent_shift": "近期观点更加聚焦于光学供应链的持续短缺和CPO的确定性，同时强调市场情绪波动不改基本面。",
+    "recent_shift": "近期对AAOI的批评增多（因ATM增发），但整体仍持乐观态度，并强调光学行业需求端瓶颈未变且加剧。",
     "representative_quotes": [
-      "The demand visibility... is just way too stupidly high.",
-      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
-      "I can't see how anyone can be bearish on this company..."
+      "I can't see how anyone can be bearish on this company...",
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
+      "AOI confirmed demand imbalances + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players."
     ],
-    "generated_at": "2026-08-24T11:00:26.098155+00:00"
+    "generated_at": "2026-08-24T11:31:34.247595+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
