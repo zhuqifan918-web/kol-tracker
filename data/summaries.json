@@ -4,48 +4,46 @@
       "AAOI",
       "SIVE",
       "LITE",
-      "MRVL",
-      "SKHY"
+      "COHR",
+      "AXTI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光模块与激光器供应瓶颈",
-      "存储芯片超级周期",
-      "CPO与光互连技术",
-      "人形机器人IPO",
-      "美国供应链保护"
+      "光学互连与CPO供应链瓶颈",
+      "存储器超级周期",
+      "人形机器人与IPO市场"
     ],
-    "recent_shift": "近期从关注人形机器人IPO转向强调光学和存储领域的供应紧张，并保持看涨态度。",
+    "recent_shift": "近期观点更加聚焦于光学供应链的持续短缺和CPO的确定性，同时强调市场情绪波动不改基本面。",
     "representative_quotes": [
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
       "The demand visibility... is just way too stupidly high.",
-      "If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it."
+      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
+      "I can't see how anyone can be bearish on this company..."
     ],
-    "generated_at": "2026-08-23T20:12:08.218354+00:00"
+    "generated_at": "2026-08-24T11:00:26.098155+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
+      "FCX",
+      "NVDA",
       "AAPL",
-      "WMT",
-      "META",
-      "NVDA"
+      "WMT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与估值担忧",
-      "关税与贸易战影响",
-      "市场回调风险",
-      "国债与财政赤字",
-      "政治人物交易"
+      "AI泡沫风险",
+      "市场回调担忧",
+      "国债与通胀压力",
+      "地缘政治风险",
+      "政策与政治交易"
     ],
-    "recent_shift": "近期观点从对AI和市场的乐观转向对潜在回调风险及AI盈利可持续性的担忧。",
+    "recent_shift": "近期，观点从对AI增长的乐观转向对AI泡沫和秋季市场回调的担忧。",
     "representative_quotes": [
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,’ per Apollo's Slok",
-      "The AI bubble may deflate, not burst, per WSJ",
-      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends"
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
+      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends",
+      "Ray Dalio has said to sell bonds and buy gold."
     ],
-    "generated_at": "2026-08-24T06:00:38.571014+00:00"
+    "generated_at": "2026-08-24T11:00:23.678657+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

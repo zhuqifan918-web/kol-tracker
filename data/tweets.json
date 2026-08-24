@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2091842202238361953",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Alibaba's, $BABA, open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta, Alphabet and domestic peers to become the world’s No. 1 artificial-intelligence model, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091842202238361953",
+    "published_at": "2026-08-24T10:57:00+00:00",
+    "fetched_at": "2026-08-24T11:00:07.196694+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BABA"
+      ],
+      "direction": "bullish",
+      "summary": "阿里巴巴的开源AI模型全球下载量超过30亿次，超越Meta、Alphabet等竞争对手，成为全球第一，这标志着阿里巴巴在AI领域的领先地位，对其股票构成利好。",
+      "translation": "阿里巴巴的开源模型在过去六个月全球下载量累计超过30亿次，超过Meta、Alphabet和国内同行，成为全球第一的AI模型，据彭博社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2091832136139760034",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Representative Rashida Tlaib has voted against major crypto legislation in Congress, despite holding digital currencies Bitcoin and Ethereum in her $1.2 million retirement account, per NYP.\n\nThe Michigan Democrat’s Charles Schwab retirement account includes up to $15,000 in the Grayscale Ethereum Staking Mini ETF and another $15,000 in an iShares Bitcoin ETF",
+    "tweet_url": "https://x.com/unusual_whales/status/2091832136139760034",
+    "published_at": "2026-08-24T10:17:00+00:00",
+    "fetched_at": "2026-08-24T11:00:10.095994+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ETH",
+        "BTC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文报道了美国众议员Rashida Tlaib在退休账户中持有比特币和以太坊ETF，但投票反对主要加密立法。这一信息展示了政治人物在加密货币投资与政策立场之间的矛盾，可能影响市场情绪，但未直接给出投资建议。",
+      "translation": "据《纽约邮报》报道，民主党众议员Rashida Tlaib尽管在120万美元的退休账户中持有比特币和以太坊，但在国会投票反对主要加密货币立法。这位密歇根州民主党人的嘉信理财退休账户中包括高达1.5万美元的灰度以太坊质押迷你ETF和另外1.5万美元的iShares比特币ETF。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2091755022937940422",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "\"At dawn begins an economic D-Day, \n\nThe single greatest financial offensive ​ever marshalled against an adversary\", per Bessent in FT. \n\nThe US would target nations that engage with Iran's economy and financial system. Press conference is today 1 PM ET.\n\nNot quite sure markets would appreciate this, but we'll see.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091755022937940422",
+    "published_at": "2026-08-24T05:10:35+00:00",
+    "fetched_at": "2026-08-24T10:59:47.840365+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到美国将对与伊朗经济金融往来的国家实施大规模金融制裁，可能引发市场波动和地缘政治风险，对全球市场情绪构成负面影响。虽未直接提及具体资产，但投资者需警惕相关风险。",
+      "translation": "黎明时分开启经济上的D日，这是有史以来针对对手发动的最大规模金融攻势——贝森特在《金融时报》中如此表示。美国将针对与伊朗经济和金融体系有来往的国家。新闻发布会今天美东时间下午1点举行。不太确定市场是否会喜欢这样，但我们会拭目以待。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091737512603738211",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
