@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2091896841273004035",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "One more hour of trades; is the low of the day in? \n\nJoin below: https://t.co/f4g68fjXAg",
+    "tweet_url": "https://x.com/unusual_whales/status/2091896841273004035",
+    "published_at": "2026-08-24T14:34:07+00:00",
+    "fetched_at": "2026-08-24T15:07:37.457700+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文询问当天低点是否已出现，暗示市场交易情绪，但未提供具体标的或明确观点，仅涉及日内交易时机。",
+      "translation": "还有一个小时的交易时间；今天的低点是否已经出现？\n\n点击加入：https://t.co/f4g68fjXAg",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2091889263210029475",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
