@@ -1,5 +1,46 @@
 [
   {
+    "tweet_id": "2091889263210029475",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades.\n\nMajor buys include:\n\n15,000 shares of Bloom Energy, $BE\n10,000 shares of Intel, $INTC\n\nShe also purchased calls worth up to $5 million in $BE and $500,000 in $INTC, expiring 06/17/2027.  \n\nYou read that right.\n\nShe bought leveraged positions in companies that the government legislates.",
+    "tweet_url": "https://x.com/unusual_whales/status/2091889263210029475",
+    "published_at": "2026-08-24T14:04:00+00:00",
+    "fetched_at": "2026-08-24T14:11:22.267800+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE",
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "南希·佩洛西披露了高达1350万美元的新股票交易，主要买入包括Bloom Energy和Intel的股票及看涨期权，期权到期日为2027年6月。这显示她对这两家公司持看涨态度，尤其在政府立法影响下，可能带来投资机会。",
+      "translation": "突发：南希·佩洛西刚刚披露了高达1350万美元的新股票交易。主要买入包括：15,000股Bloom Energy（$BE），10,000股英特尔（$INTC）。她还购买了价值高达500万美元的$BE看涨期权和50万美元的$INTC看涨期权，到期日为2027年6月17日。你没看错，她买入了政府立法监管公司的杠杆头寸。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2091889047325335611",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Bro why are we fighting a Trade War with our friendly Golden Retriever named Canada.\n\nShouldn't we be focusing on Iran today? \n\nTrump: Announces 50% Tariffs On Cars, Automotive Parts, and Steel From 2027. https://t.co/40SbPDPMFC",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091889047325335611",
+    "published_at": "2026-08-24T14:03:08+00:00",
+    "fetched_at": "2026-08-24T14:11:00.485454+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提及特朗普宣布自2027年起对汽车、汽车零部件和钢铁征收50%关税，这可能对相关行业股票和整体市场情绪产生负面影响，属于贸易战升级的潜在风险。",
+      "translation": "为什么我们要和我们友好的金毛猎犬加拿大打贸易战。我们难道不应该今天关注伊朗吗？特朗普：宣布从2027年起对汽车、汽车零部件和钢铁征收50%关税。https://t.co/40SbPDPMFC",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091879110775652722",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
