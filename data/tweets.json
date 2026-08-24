@@ -19,6 +19,25 @@
     }
   },
   {
+    "tweet_id": "2091707313761464510",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Edmunds reported that three-year-old used vehicles averaged $31,548 in the first quarter of 2026, the second-highest first-quarter figure it has recorded\n\nRead more: https://t.co/hJobo8Jf2i",
+    "tweet_url": "https://x.com/unusual_whales/status/2091707313761464510",
+    "published_at": "2026-08-24T02:01:00+00:00",
+    "fetched_at": "2026-08-24T06:00:30.656302+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "埃德蒙兹报告称，2026年第一季度三年车龄的二手车均价为31,548美元，为有记录以来第二高的第一季度水平。这可能反映二手车市场供需紧张，对汽车制造商和经销商有利，但未直接涉及具体股票。",
+      "translation": "埃德蒙兹报告称，2026年第一季度三年车龄的二手车均价为31,548美元，为有记录以来第二高的第一季度水平。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091692214334226593",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
