@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
-      "LITE",
-      "SIVE",
-      "NVDA",
-      "MU"
+      "$AAOI",
+      "$COHR",
+      "$LITE",
+      "$SIVE",
+      "$MTSI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学供应链瓶颈与需求失衡",
-      "人形机器人与物理AI投资主题",
-      "内存与存储超级周期",
-      "中国IPO市场估值溢价",
-      "美国政策与关税对供应链的影响"
+      "AI基础设施与算力需求扩张",
+      "光通信与激光器供应链瓶颈",
+      "存储芯片与MLCC供需紧张",
+      "人形机器人产业化进程",
+      "贸易政策与供应链本地化"
     ],
-    "recent_shift": "近期观点从全面看多转向对特定公司融资稀释（如AAOI的ATM）表示谨慎，但仍强调长期基本面强劲。",
+    "recent_shift": "近期更加聚焦于光通信和激光器供应链的瓶颈与投资机会，同时持续强调AI基础设施的长期增长潜力。",
     "representative_quotes": [
-      "$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028. 400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (>50% gross margin) product line.",
-      "I'm still bullish on $AAOI and I have large positions ... However, the reason I'm still overweight on AOI vs. the rest ... Is that AOI is actually capacity constrained with high demand visibility.",
-      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. It’s one letter too long to say $TSM or $AMD. And nobody ever says to a friend “Wow, I like applied optoelectronics!”",
+      "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages.",
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-08-24T14:11:41.255181+00:00"
+    "generated_at": "2026-08-24T16:03:15.305141+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "MRNA",
-      "BE",
-      "INTC",
+      "TRUMP",
+      "META",
       "AAPL",
-      "AMZN"
+      "WMT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技巨头资本开支",
-      "政治人物交易与内幕信息",
-      "宏观经济与债务危机",
-      "关税与贸易战",
-      "市场波动与风险"
+      "AI投资热潮与泡沫担忧",
+      "政治人物股票交易与利益冲突",
+      "铜短缺与资源类股机会",
+      "美国国债与财政政策",
+      "中产阶级退休账户与加密货币"
     ],
-    "recent_shift": "近期观点从关注具体事件转向强调宏观风险，如债务危机、关税影响和AI泡沫可能，整体更为谨慎。",
+    "recent_shift": "近期态度从关注AI增长和牛市转向担忧市场回调风险和AI盈利可持续性。",
     "representative_quotes": [
-      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
-      "Ray Dalio has said to sell bonds and buy gold."
+      "\"AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,\" per Apollo's Slok",
+      "\"The AI bubble may deflate, not burst,\" per WSJ",
+      "\"JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends\""
     ],
-    "generated_at": "2026-08-24T15:08:02.790417+00:00"
+    "generated_at": "2026-08-24T16:03:19.285457+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
