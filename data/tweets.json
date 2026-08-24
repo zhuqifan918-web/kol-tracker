@@ -1,5 +1,46 @@
 [
   {
+    "tweet_id": "2091909391238979970",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA, following their $20B deal... Announces Groq3 LPX now in full production.\n\nWith $NBIS the first to adopt through Nebius token factory.\n\n- 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context\n- 4x faster responsiveness than the nearest alternative\n\nThing that caught my attention.. was a former press release after Nvidia's $2B investment into Nebius. \n\nThat it would support their \"early adoption of Nvidia's latest generation\" architectures. \n\nGuess we're seeing that special treatment here.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091909391238979970",
+    "published_at": "2026-08-24T15:23:59+00:00",
+    "fetched_at": "2026-08-24T16:02:01.341768+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "NBIS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文透露英伟达（NVDA）的Groq3 LPX已全面投产，且Nebius（NBIS）作为首个采用客户，体现了英伟达对其投资的特殊优待。这被视为对两家公司尤其是Nebius的利好，表明其技术领先和合作关系紧密。",
+      "translation": "英伟达（NVDA）在达成200亿美元交易后...宣布Groq3 LPX现已全面投产。而NBIS通过Nebius代币工厂成为首个采用者。- 在Artificial Analysis基准测试中，运行Gemma 4 31B模型达到3400 token/秒，并支持100k token上下文- 响应速度比最近的竞品快4倍。引起我注意的是...英伟达向Nebius投资20亿美元后的新闻稿中提到，这将支持他们“对英伟达最新一代架构的早期采用”。看来我们在这里看到了这种特殊待遇。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091907633787637892",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is expected to be an increasing copper shortage, per Bloomberg: https://t.co/NBTzKDLoiQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2091907633787637892",
+    "published_at": "2026-08-24T15:17:00+00:00",
+    "fetched_at": "2026-08-24T16:02:31.569731+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及彭博报道预计铜供应短缺加剧，这通常利好铜价及相关矿业公司股票。",
+      "translation": "根据彭博社报道，预计铜短缺将加剧。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2091896841273004035",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
