@@ -33,19 +33,19 @@
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫与投资风险",
-      "关税与贸易紧张局势",
-      "政治人物股票交易",
-      "国债与赤字问题",
-      "市场波动与下行风险"
+      "AI泡沫与估值担忧",
+      "关税与贸易战影响",
+      "市场回调风险",
+      "国债与财政赤字",
+      "政治人物交易"
     ],
-    "recent_shift": "近期观点转向谨慎，更多提及市场下跌风险和AI投资回报问题，但亦有机构看好牛市持续。",
+    "recent_shift": "近期观点从对AI和市场的乐观转向对潜在回调风险及AI盈利可持续性的担忧。",
     "representative_quotes": [
-      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends",
-      "\"AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok\"",
-      "Ray Dalio has said investors should reduce their bond holdings and put as much as 15% of their money in gold, per Bloomberg."
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,’ per Apollo's Slok",
+      "The AI bubble may deflate, not burst, per WSJ",
+      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends"
     ],
-    "generated_at": "2026-08-24T04:21:03.384628+00:00"
+    "generated_at": "2026-08-24T06:00:38.571014+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
