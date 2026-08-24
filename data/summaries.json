@@ -28,23 +28,24 @@
       "MRNA",
       "BE",
       "INTC",
-      "FCX",
-      "NVDA"
+      "AAPL",
+      "AMZN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "政治人物交易跟踪",
-      "AI基础设施与算力投资",
-      "国债与财政风险",
-      "市场波动与下行风险"
+      "人工智能与科技巨头资本开支",
+      "政治人物交易与内幕信息",
+      "宏观经济与债务危机",
+      "关税与贸易战",
+      "市场波动与风险"
     ],
-    "recent_shift": "近期观点从中性偏向谨慎，强调市场可能面临回调风险。",
+    "recent_shift": "近期观点从关注具体事件转向强调宏观风险，如债务危机、关税影响和AI泡沫可能，整体更为谨慎。",
     "representative_quotes": [
-      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades. Major buys include: 15,000 shares of Bloom Energy, $BE; 10,000 shares of Intel, $INTC.",
-      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends",
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok"
+      "This Moderna, $MRNA, contract went from $0.01 to $70. So $1 was worth $7000 end of day.",
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
+      "Ray Dalio has said to sell bonds and buy gold."
     ],
-    "generated_at": "2026-08-24T14:11:43.891012+00:00"
+    "generated_at": "2026-08-24T15:08:02.790417+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
