@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MRNA",
-      "FCX",
-      "WMT",
       "AAPL",
-      "BA"
+      "NVDA",
+      "MRNA",
+      "BE",
+      "INTC"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫风险",
-      "政治人物交易",
-      "贸易战",
-      "市场回调",
-      "债券与黄金配置"
+      "AI与科技股泡沫",
+      "政治人物交易与利益冲突",
+      "债券与黄金配置",
+      "关税与贸易战",
+      "市场回调风险"
     ],
-    "recent_shift": "近期观点从关注AI和科技股转向警惕市场回调风险，并强调债券和黄金的配置价值。",
+    "recent_shift": "近期观点从关注AI增长转向强调市场回调风险和关税影响。",
     "representative_quotes": [
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers",
-      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn",
-      "Ray Dalio has said to sell bonds and buy gold."
+      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades.",
+      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends",
+      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
     ],
-    "generated_at": "2026-08-25T17:53:32.252484+00:00"
+    "generated_at": "2026-08-25T18:25:06.568180+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
