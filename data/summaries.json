@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AAOI",
-      "$COHR",
-      "$LITE",
-      "$SIVE",
-      "$MTSI"
+      "AAOI",
+      "SIVE",
+      "NVDA",
+      "LITE",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力需求扩张",
-      "光通信与激光器供应链瓶颈",
-      "存储芯片与MLCC供需紧张",
-      "人形机器人产业化进程",
-      "贸易政策与供应链本地化"
+      "光通信瓶颈",
+      "CPO与激光器供应紧张",
+      "内存超级周期"
     ],
-    "recent_shift": "近期更加聚焦于光通信和激光器供应链的瓶颈与投资机会，同时持续强调AI基础设施的长期增长潜力。",
+    "recent_shift": "对AAOI的ATM融资表示担忧，但维持多头仓位，并强调其需求可见性。",
     "representative_quotes": [
-      "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. It’s one letter too long to say $TSM or $AMD. And nobody ever says to a friend “Wow, I like applied optoelectronics!”",
-      "TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages.",
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "The demand visibility... is just way too stupidly high.",
+      "Cough cough, \"existing supply chain capacity is currently unable to meet demand\"",
+      "I can't see how anyone can be bearish on this company..."
     ],
-    "generated_at": "2026-08-24T16:03:15.305141+00:00"
+    "generated_at": "2026-08-25T17:04:13.246187+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MRNA",
-      "FCX",
-      "AMZN",
-      "WMT",
-      "AAPL"
+      "$MRNA",
+      "$BA",
+      "$BE",
+      "$INTC",
+      "$FCX"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫",
+      "AI泡沫与投资回报",
+      "政治人物股票交易与利益冲突",
       "关税与贸易战",
-      "政客股票交易",
-      "衰退风险",
-      "大宗商品"
+      "国债回购与债务危机",
+      "经济衰退风险与市场前景"
     ],
-    "recent_shift": "近期观点从中性偏多转向中性偏空，开始强调市场下跌风险。",
+    "recent_shift": "近期观点偏向警惕市场回调风险，强调AI泡沫和债务危机可能带来的负面影响。",
     "representative_quotes": [
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
-      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends",
-      "Ray Dalio has said to sell bonds and buy gold."
+      "BREAKING: On June 18, Trump bought up to $500,000 of Boeing, $BA. That EXACT SAME DAY, the Navy awarded Boeing an $880 million contract for P-8A training systems.",
+      "You read that right. She bought leveraged positions in companies that the government legislates.",
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok"
     ],
-    "generated_at": "2026-08-24T17:03:34.441888+00:00"
+    "generated_at": "2026-08-25T17:04:10.758933+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
