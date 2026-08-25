@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2092354322432684098",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Lost interest in $SMTC and every other earnings report today after finding a memory name way too interesting not to research...",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092354322432684098",
+    "published_at": "2026-08-25T20:51:59+00:00",
+    "fetched_at": "2026-08-25T20:52:42.048334+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SMTC"
+      ],
+      "direction": "neutral",
+      "summary": "推文提到对SMTC失去兴趣，因发现其他更值得研究的股票，但未明确表示看空或看多，仅表明注意力转移。",
+      "translation": "在发现一个名字过于有趣的股票值得研究后，我对$SMTC和今天所有的财报都失去了兴趣……",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2092335452401418723",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -160,6 +181,25 @@
       "summary": "加拿大对美国商品征收报复性关税，涉及钢铁、家电和乳制品，可能加剧贸易紧张并影响相关行业，对美股部分板块构成利空。",
       "translation": "突发新闻：加拿大将对价值200亿美元的美国商品征收高达50%的报复性关税，包括钢铁、家电和乳制品。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092272914582167874",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump has said all the mines have been removed from the Strait of Hormuz",
+    "tweet_url": "https://x.com/unusual_whales/status/2092272914582167874",
+    "published_at": "2026-08-25T15:28:30+00:00",
+    "fetched_at": "2026-08-25T20:53:13.034253+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及地缘政治事件，特朗普声称霍尔木兹海峡水雷已被清除，可能降低中东冲突风险，改善原油运输稳定性，对油价构成潜在利空，但对全球市场情绪有正面影响。未直接提及具体投资标的。",
+      "translation": "特朗普表示霍尔木兹海峡中的所有水雷都已被清除。",
+      "confidence": "low"
     }
   },
   {
