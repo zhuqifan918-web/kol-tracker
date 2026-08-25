@@ -1,5 +1,47 @@
 [
   {
+    "tweet_id": "2092315823163728258",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, App Store sales dropped for the first time in a decade https://t.co/D07TG7BgL1",
+    "tweet_url": "https://x.com/unusual_whales/status/2092315823163728258",
+    "published_at": "2026-08-25T18:19:00+00:00",
+    "fetched_at": "2026-08-25T18:24:28.089680+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bearish",
+      "summary": "苹果公司App Store销售额十年来首次下降，这可能对苹果的营收和服务业务产生负面影响，投资者需关注其业绩表现。",
+      "translation": "苹果公司，$AAPL，App Store销售额十年来首次下降。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092311545028174243",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "A Nvidia, $NVDA, employee has been charged with smuggling advanced chips into China, per Reuters.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092311545028174243",
+    "published_at": "2026-08-25T18:02:00+00:00",
+    "fetched_at": "2026-08-25T18:24:30.088681+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推特报道了英伟达员工因涉嫌将先进芯片走私至中国而被指控的事件。这可能涉及出口管制合规问题，但短期对NVDA股价的影响尚不明确，属于公司相关负面新闻，但未直接给出具体投资方向。",
+      "translation": "据路透社报道，一名英伟达（NVDA）员工因涉嫌向中国走私先进芯片而被起诉。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2092308656859517223",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -79,6 +121,44 @@
       "direction": "neutral",
       "summary": "该推文指出特朗普在6月18日买入高达50万美元的波音股票，而同一天美国海军授予波音8.8亿美元的P-8A训练系统合同。这暗示可能存在内幕交易或利用信息优势的嫌疑，但本身并不提供明确的投资建议或方向判断。",
       "translation": "突发新闻：看看这个。6月18日，特朗普购买了高达50万美元的波音股票，$BA。就在同一天，海军授予波音一份8.8亿美元的P-8A训练系统合同。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092273786523447701",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Canada to impose retaliatory tariffs of up to 50% on $20 billion of U.S. goods including steel, appliances and dairy products",
+    "tweet_url": "https://x.com/unusual_whales/status/2092273786523447701",
+    "published_at": "2026-08-25T15:31:57+00:00",
+    "fetched_at": "2026-08-25T18:24:38.840542+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "加拿大对美国商品征收报复性关税，涉及钢铁、家电和乳制品，可能加剧贸易紧张并影响相关行业，对美股部分板块构成利空。",
+      "translation": "突发新闻：加拿大将对价值200亿美元的美国商品征收高达50%的报复性关税，包括钢铁、家电和乳制品。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092265673041084505",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Today we are announcing @KeenableAI, an AI-native index of the best human knowledge we have, starting with the open web.\n\nAI seems to know just about everything until you ask it about something you know deeply. The answer isn’t wrong, but it's just very average.\n\nWe started Keenable to fix this problem: every model and every agent should be able to query, reason over, and continuously learn from the living web.\n\nBacked by a $26M Seed from @Accel and @conviction. Built by the team that took on Google at Yandex Search, with researchers and engineers from Amazon AGI, X, and Perplexity.\n\nThe Web Search API and Web Query Language for AI are live now. Together they make the web queryable at AI scale. Both are free until end of September.\n\nSeven days of benchmarks, stories, and launches ahead.\n\nLet your agents search.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092265673041084505",
+    "published_at": "2026-08-25T14:59:43+00:00",
+    "fetched_at": "2026-08-25T18:24:36.171714+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文宣布推出AI原生搜索索引KeenableAI，并获2600万美元种子融资，表明AI搜索基础设施领域投资活跃，对AI相关初创公司生态是积极信号。",
+      "translation": "今天我们宣布推出@KeenableAI，一个以开放网络为起点的、AI原生的最佳人类知识索引。AI似乎无所不知，直到你问它一个你深入了解的话题。答案并非错误，但就是很平庸。我们创立Keenable就是为了解决这个问题：每个模型和每个代理都应该能查询、推理，并从鲜活的网络中持续学习。由@Accel和@conviction领投的2600万美元种子轮支持。由曾在Yandex搜索与Google竞争的团队打造，团队成员来自Amazon AGI、X和Perplexity的研究人员和工程师。Web搜索API和面向AI的Web查询语言现已上线。它们共同使网络在AI规模下可查询。两者在九月底前免费。未来七天将有基准测试、故事和发布。让你的代理去搜索吧。",
       "confidence": "medium"
     }
   },
@@ -215,6 +295,25 @@
       "direction": "bullish",
       "summary": "财政部宣布下月将加倍购买长期国债，此举可能压低长期利率，对债券市场构成利好，同时可能影响股市资金流向。",
       "translation": "财政部周三出乎华尔街意料，宣布下月将加倍购买长期政府债券。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092023647829627029",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Trump administration initiated 50% tariffs on a broad range of Canadian products.\n\nRead more: https://t.co/5Ns4aLnovF",
+    "tweet_url": "https://x.com/unusual_whales/status/2092023647829627029",
+    "published_at": "2026-08-24T22:58:00+00:00",
+    "fetched_at": "2026-08-25T18:25:00.031132+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普政府对加拿大产品征收50%的关税，这可能导致市场不确定性增加，对相关行业和股票产生负面影响。投资者需关注贸易摩擦升级对全球市场的潜在冲击。",
+      "translation": "特朗普政府对多种加拿大产品征收50%的关税。",
       "confidence": "medium"
     }
   },
