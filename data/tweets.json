@@ -1,5 +1,108 @@
 [
   {
+    "tweet_id": "2092285340685901908",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nOn June 18, Trump bought up to $500,000 of Boeing, $BA.\n\nThat EXACT SAME DAY, the Navy awarded Boeing an $880 million contract for P-8A training systems.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092285340685901908",
+    "published_at": "2026-08-25T16:17:52+00:00",
+    "fetched_at": "2026-08-25T17:03:45.814094+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文指出特朗普在6月18日买入高达50万美元的波音股票，而同一天美国海军授予波音8.8亿美元的P-8A训练系统合同。这暗示可能存在内幕交易或利用信息优势的嫌疑，但本身并不提供明确的投资建议或方向判断。",
+      "translation": "突发新闻：看看这个。6月18日，特朗普购买了高达50万美元的波音股票，$BA。就在同一天，海军授予波音一份8.8亿美元的P-8A训练系统合同。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092260459017544020",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: US Treasury buybacks are a  'mistake' costing credibility, says Druckenmiller",
+    "tweet_url": "https://x.com/unusual_whales/status/2092260459017544020",
+    "published_at": "2026-08-25T14:39:00+00:00",
+    "fetched_at": "2026-08-25T17:03:55.518365+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "德鲁肯米勒批评美国财政部回购债券是损害信誉的错误，暗示对美国国债市场或美元信心的负面看法。该言论可能影响投资者对美债及相关金融市场的信心。",
+      "translation": "突发：德鲁肯米勒表示，美国财政部回购债券是一个\"错误\"，损害了信誉。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092229756842279211",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "12.9% of credit card balances in the US are 90+ days delinquent, near the highest since 2011, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092229756842279211",
+    "published_at": "2026-08-25T12:37:00+00:00",
+    "fetched_at": "2026-08-25T17:04:02.378158+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国信用卡债务逾期率接近2011年以来最高，反映消费者财务压力加大，可能预示消费支出放缓，对经济增长和股市构成潜在利空。",
+      "translation": "据彭博社报道，美国信用卡余额中90天以上逾期未还的比例达到12.9%，接近2011年以来的最高水平。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092209623411401003",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Gen Z is moving money from stocks to sports betting,\" per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092209623411401003",
+    "published_at": "2026-08-25T11:17:00+00:00",
+    "fetched_at": "2026-08-25T17:04:06.541018+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用彭博报道，指出Z世代正在将资金从股票转向体育博彩，这可能意味着散户资金流出股市，对股票市场构成潜在的负面信号，尤其是对依赖散户交易的标的。",
+      "translation": "Z世代正在将资金从股票转向体育博彩，据彭博报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091955482613486028",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... \n\nBut you know what else is cool? \n\nFAU bottlenecks for CPO. \n\nI remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / $NVDA CPO roadmaps... \n\nThis was some media commentary supporting that: \n\n\"It is understood that Largan Precision (3008), FOCI (3363), and China’s TFC have entered $NVDA FAU supply chain\"\n\n\"Based on an estimated 20,000 Spectrum-X systems shipped this year, the optical engines installed in those systems would require approximately 600k-700k FAUs\" \n\nIn 2027, demand is expected to reach several million units, and existing supply chain capacity is currently unable to meet demand.\" (UDN, mandarin -> english translation is kinda off)\n\nCough cough, \"existing supply chain capacity is currently unable to meet demand\"\n\nTad early right now since mass production is expected H2 2027, but cool to read updates around this.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091955482613486028",
+    "published_at": "2026-08-24T18:27:08+00:00",
+    "fetched_at": "2026-08-25T17:03:30.412543+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE",
+        "TSM",
+        "NVDA",
+        "Largan Precision",
+        "FOCI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出FAU（光纤阵列单元）可能成为CPO（共封装光学）领域的瓶颈，并引用媒体报道称Largan、FOCI等已进入英伟达供应链，预计2027年需求将达数百万单位而现有产能不足。作者认为虽然大规模生产要到2027年下半年，但这一趋势值得关注，整体对相关供应商持看涨态度。",
+      "translation": "我知道大家都关注着Nancy Pelosi的跟单交易者，他们让$BE上涨了11.83%。或者特朗普……但你们知道还有什么很酷吗？CPO的FAU瓶颈。我记得今年早些时候说过，FAU/Foci可能成为$TSM/$NVDA CPO路线图上的未来瓶颈……这是支持这一观点的一些媒体评论：“据了解，大立光（3008）、FOCI（3363）和中国的TFC已进入$NVDA FAU供应链。”“根据今年出货的约20,000套Spectrum-X系统估算，这些系统中安装的光引擎将需要大约60万至70万个FAU。”到2027年，需求预计将达到数百万个，而现有供应链产能目前无法满足需求。”（UDN，中文翻译有点生硬）咳咳，“现有供应链产能目前无法满足需求”现在还有点早，因为量产预计在2027年下半年，但看到这些更新很酷。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2091932098869305618",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
