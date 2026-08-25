@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
       "MRNA",
+      "NVDA",
+      "AAPL",
       "BE",
       "INTC"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技股泡沫",
-      "政治人物交易与利益冲突",
-      "债券与黄金配置",
-      "关税与贸易战",
-      "市场回调风险"
+      "AI投资与算力需求",
+      "政客交易与IPO",
+      "宏观经济与债务",
+      "贸易战与关税",
+      "房地产与消费"
     ],
-    "recent_shift": "近期观点从关注AI增长转向强调市场回调风险和关税影响。",
+    "recent_shift": "近期观点从单纯关注AI增长转向对市场下行风险和债务危机的担忧。",
     "representative_quotes": [
-      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades.",
-      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends",
-      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
+      "The push comes as Anthropic prepares to IPO in the coming months, with the company reportedly telling investors its potential revenue could exceed $30 trillion.",
+      "She bought leveraged positions in companies that the government legislates.",
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers, per Apollo's Slok"
     ],
-    "generated_at": "2026-08-25T18:25:06.568180+00:00"
+    "generated_at": "2026-08-25T19:53:18.150242+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

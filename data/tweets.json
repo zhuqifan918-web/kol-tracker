@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2092335452401418723",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Anthropic will reportedly tell investors that its potential AI market is above $30 trillion, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2092335452401418723",
+    "published_at": "2026-08-25T19:37:00+00:00",
+    "fetched_at": "2026-08-25T19:53:02.497881+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文报道了Anthropic将向投资者宣称其潜在AI市场超过30万亿美元，这显示了AI行业巨大的市场潜力，可能利好AI相关投资。",
+      "translation": "据《华尔街日报》报道，Anthropic将告诉投资者，其潜在的人工智能市场超过30万亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092315823163728258",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
