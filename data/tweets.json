@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2092308656859517223",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: There is a 74% chance Anthropic releases its next Mythos-class model by September 9, per Polymarket⁠.com.\n\nThe push comes as Anthropic prepares to IPO in the coming months, with the company reportedly telling investors its potential revenue could exceed $30 trillion. https://t.co/yrJKzphrxQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2092308656859517223",
+    "published_at": "2026-08-25T17:50:31+00:00",
+    "fetched_at": "2026-08-25T17:52:38.758364+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到Anthropic即将IPO，并预测其收入可能超过30万亿美元，这对投资者而言是积极信号。同时，Polymarket数据显示其新模型发布概率较高，可能提振市场信心。",
+      "translation": "突发：根据Polymarket，Anthropic在9月9日前发布下一款Mythos级模型的可能性为74%。与此同时，Anthropic正准备在未来几个月内进行IPO，据报道该公司告诉投资者其潜在收入可能超过30万亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092306260024754480",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "No politician can hide from me, not even Nancy Pelosi.  \n\nShe disclose $BE call options on July 24 and $INTC call options on July 28.  \n\nUsing Unusual Whales, we can find her EXACT trade.  \n\nShe paid millions for her calls, done 1 hour before close.  \n\nThese were traded while Congress was in session.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092306260024754480",
+    "published_at": "2026-08-25T17:41:00+00:00",
+    "fetched_at": "2026-08-25T17:52:41.257243+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE",
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "该推文披露了众议员南希·佩洛西在7月24日和28日分别买入BE和INTC的看涨期权，交易发生在国会开会期间，且金额达数百万美元。这被视为内幕交易或知情交易的信号，暗示这些股票可能上涨。",
+      "translation": "没有政客能躲过我，甚至南希·佩洛西也不例外。她在7月24日披露了BE的看涨期权，7月28日披露了INTC的看涨期权。使用Unusual Whales，我们可以找到她的确切交易。她为这些期权支付了数百万美元，在收盘前一小时完成。这些交易是在国会开会期间进行的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092300018526892431",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nOn June 23, Trump bought $50,000 of SpaceX, $SPCX.\n\nThat EXACT SAME DAY, NASA awarded a $425.6 million contract to SpaceX.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092300018526892431",
+    "published_at": "2026-08-25T17:16:12+00:00",
+    "fetched_at": "2026-08-25T17:52:43.353532+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "该推文指出特朗普购买了SpaceX股票，并且同一天NASA授予了SpaceX一份价值4.256亿美元的合同。这一信息可能暗示SpaceX获得重大合同，但推文本身未给出明确的投资建议或市场分析。",
+      "translation": "突发新闻：看看这个。6月23日，特朗普购买了价值5万美元的SpaceX股票，$SPCX。就在同一天，NASA授予SpaceX一份价值4.256亿美元的合同。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092285340685901908",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -40,6 +102,25 @@
     }
   },
   {
+    "tweet_id": "2092249888935563616",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Miami is the best buyer's market in the country, with 154% more sellers than buyers, per Redfin.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092249888935563616",
+    "published_at": "2026-08-25T13:57:00+00:00",
+    "fetched_at": "2026-08-25T17:52:55.738167+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及迈阿密房地产市场出现买方市场，卖家比买家多154%，可能对房地产相关投资或当地市场情绪有影响，但未直接提及具体标的。",
+      "translation": "根据Redfin的数据，迈阿密是全国最好的买方市场，卖家比买家多154%。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2092229756842279211",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -75,6 +156,87 @@
       "summary": "该推文引用彭博报道，指出Z世代正在将资金从股票转向体育博彩，这可能意味着散户资金流出股市，对股票市场构成潜在的负面信号，尤其是对依赖散户交易的标的。",
       "translation": "Z世代正在将资金从股票转向体育博彩，据彭博报道。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092062151892406330",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio\n\nRead more: https://t.co/g3xdGpSajL",
+    "tweet_url": "https://x.com/unusual_whales/status/2092062151892406330",
+    "published_at": "2026-08-25T01:31:00+00:00",
+    "fetched_at": "2026-08-25T17:53:12.846724+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC",
+        "GLD"
+      ],
+      "direction": "bullish",
+      "summary": "达里奥建议减持债券，并将投资组合的10%-15%配置于黄金和少量比特币，认为这样既能降低风险又能提高回报。此观点对黄金和比特币构成利好。",
+      "translation": "达里奥表示，减持债券并将投资组合的10%至15%配置于黄金以及少量比特币，既可以降低风险，又可以提高回报。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092047052372857081",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The US and Canada fell deeper into a trade war Saturday, with Washington imposing 50% tariffs on roughly $20 billion worth of Canadian goods\n\nRead more: https://t.co/mMTSXGJsZZ",
+    "tweet_url": "https://x.com/unusual_whales/status/2092047052372857081",
+    "published_at": "2026-08-25T00:31:00+00:00",
+    "fetched_at": "2026-08-25T17:53:16.566807+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美加贸易战升级，美国对加拿大商品加征50%关税，涉及约200亿美元，短期可能加剧市场波动，利空两国股市及相关贸易板块，需注意风险。",
+      "translation": "美国与加拿大周六进一步陷入贸易战，华盛顿对约200亿美元的加拿大商品征收50%的关税。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092038747311468559",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Treasury Department caught Wall Street off guard on Wednesday when it said it would double its purchases of long-term government bonds next month\n\nRead more: https://t.co/ZHKOA1goDU",
+    "tweet_url": "https://x.com/unusual_whales/status/2092038747311468559",
+    "published_at": "2026-08-24T23:58:00+00:00",
+    "fetched_at": "2026-08-25T17:53:19.475199+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "财政部宣布下月将加倍购买长期国债，此举可能压低长期利率，对债券市场构成利好，同时可能影响股市资金流向。",
+      "translation": "财政部周三出乎华尔街意料，宣布下月将加倍购买长期政府债券。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2091961629101474032",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @Partfortynineg1 Please give us some $sive cope 😔🙏",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2091961629101474032",
+    "published_at": "2026-08-24T18:51:33+00:00",
+    "fetched_at": "2026-08-25T17:52:19.266989+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推特提及SIVE（可能是股票或加密货币代号），并恳请给些“应对”（cope），暗示用户希望获得看涨或积极方面的消息。",
+      "translation": "@aleabitoreddit @Partfortynineg1 请给我们一些$SIVE的应对好吗😔🙏",
+      "confidence": "low"
     }
   },
   {
