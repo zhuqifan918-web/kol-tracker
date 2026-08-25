@@ -24,26 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "MRNA",
-      "BE",
-      "INTC",
       "AAPL",
-      "NVDA"
+      "NVDA",
+      "MRNA",
+      "ANTHROPIC",
+      "BA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI基础设施与模型竞争",
-      "政治人物交易与内幕关联",
-      "宏观经济与贸易政策风险",
-      "市场风险与对冲策略"
+      "贸易战与关税",
+      "政治人物交易",
+      "AI泡沫与IPO",
+      "市场风险与回调",
+      "宏观债务与黄金"
     ],
-    "recent_shift": "近期关注点从宏观风险转向AI投资与政治交易，同时认可黄金和比特币的避险价值。",
+    "recent_shift": "近期观点从对AI和科技股的乐观转向警告市场可能出现的秋季回调，并强调政治和贸易风险。",
     "representative_quotes": [
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,",
-      "Ray Dalio has said a debt crisis in the US could be three years away.",
-      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns"
+      "BREAKING: US Treasury buybacks are a  'mistake' costing credibility, says Druckenmiller",
+      "The AI bubble may deflate, not burst, per WSJ",
+      "No politician can hide from me, not even Nancy Pelosi."
     ],
-    "generated_at": "2026-08-25T20:53:20.697829+00:00"
+    "generated_at": "2026-08-25T21:18:27.788581+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
