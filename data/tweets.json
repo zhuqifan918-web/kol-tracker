@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2092665229880836597",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The concept of “cascading bottlenecks” is just super cool.\n\nBecause of DDR4 supply shocks and costs:\n\nLot of ODMs are redesigning downward from DDR4 -&gt; DDR3 -&gt; DDR2.\n\nBut even the legacy players themselves like Winbond are withdrawing from DDR2.\n\nMaking the bottleneck even worse",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092665229880836597",
+    "published_at": "2026-08-26T17:27:25+00:00",
+    "fetched_at": "2026-08-26T18:10:21.497413+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出DDR4供应冲击导致ODM厂商向下重新设计至DDR3/DDR2，但连Winbond等传统厂商也在退出DDR2，加剧了瓶颈，对存储芯片供应链构成负面影响，可能推高成本并影响相关公司盈利。",
+      "translation": "“级联瓶颈”的概念非常酷。由于DDR4供应冲击和成本问题，许多ODM厂商正在从DDR4向下重新设计至DDR3和DDR2。但即便是像Winbond这样的传统玩家也在退出DDR2，使得瓶颈更加严重。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092627628226212046",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
