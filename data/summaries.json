@@ -1,50 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$AAOI",
-      "$SIVE",
-      "$LITE",
-      "$NVDA",
-      "$COHR"
+      "AAOI",
+      "SIVE",
+      "LITE",
+      "SMTC",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学供应链瓶颈",
-      "AI硬件需求强劲",
-      "人形机器人投资机会",
-      "内存超级周期"
+      "光学与光模块供应链瓶颈",
+      "AI基础设施建设与算力需求",
+      "存储器与MLCC供需紧张",
+      "激光器与CPO技术演进",
+      "人形机器人与太空经济"
     ],
-    "recent_shift": "近期观点未变，仍持续看好光学和AI基础设施的长期需求。",
+    "recent_shift": "近期观点从对AI板块回调的担忧转向对光学、存储及人形机器人等主题的强劲看好，并强调需求可见性高。",
     "representative_quotes": [
-      "I can't see how anyone can be bearish on this company...",
+      "So gigantic beat, great read through on 1.6T ramp.",
       "The demand visibility... is just way too stupidly high.",
-      "Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
+      "CW laser scarcity is already happening before the main volume ramp even begins..."
     ],
-    "generated_at": "2026-08-25T20:53:23.061563+00:00"
+    "generated_at": "2026-08-26T00:42:24.842745+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
+      "COIN",
+      "BTC",
       "MRNA",
-      "ANTHROPIC",
-      "BA"
+      "AAPL",
+      "NVDA"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "bullish",
     "key_themes": [
-      "贸易战与关税",
-      "政治人物交易",
-      "AI泡沫与IPO",
-      "市场风险与回调",
-      "宏观债务与黄金"
+      "加密货币与数字资产",
+      "AI与科技股",
+      "政治与市场联动"
     ],
-    "recent_shift": "近期观点从对AI和科技股的乐观转向警告市场可能出现的秋季回调，并强调政治和贸易风险。",
+    "recent_shift": "近期从对市场风险的担忧转向对加密货币和AI的乐观态度。",
     "representative_quotes": [
-      "BREAKING: US Treasury buybacks are a  'mistake' costing credibility, says Druckenmiller",
-      "The AI bubble may deflate, not burst, per WSJ",
-      "No politician can hide from me, not even Nancy Pelosi."
+      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
+      "This time, the flow started “coincidentally” talking one day before Washington did.",
+      "She bought leveraged positions in companies that the government legislates."
     ],
-    "generated_at": "2026-08-25T21:18:27.788581+00:00"
+    "generated_at": "2026-08-26T00:42:21.884957+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
