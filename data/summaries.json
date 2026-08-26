@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "META",
       "MRNA",
       "COIN",
       "BE",
+      "INTC",
       "NVDA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "加密货币与比特币看涨",
-      "mRNA疫苗与生物科技",
-      "政治人物交易与内幕",
-      "国债回购与财政政策",
-      "AI与科技巨头"
+      "加密货币市场",
+      "生物科技（mRNA疫苗）",
+      "政治人物交易",
+      "人工智能与科技",
+      "美加贸易战"
     ],
-    "recent_shift": "近期观点从关注贸易战和债务风险转向更加看好比特币与加密货币，并强调政治人物交易机会。",
+    "recent_shift": "近期市场情绪从对议员交易和贸易战的关注，转向对加密货币政策利好和生物科技突破的炒作，同时出现对AI泡沫的警告。",
     "representative_quotes": [
       "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio.",
-      "The Treasury could use its near $1 trillion General Account to help fund its recently announced plans to increase purchases of government bonds, according to two senior Treasury officials."
+      "Ray Dalio has said investors should reduce their bond holdings and put as much as 15% of their money in gold.",
+      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades. She bought leveraged positions in companies that the government legislates."
     ],
-    "generated_at": "2026-08-26T13:45:50.046140+00:00"
+    "generated_at": "2026-08-26T14:35:48.790336+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
