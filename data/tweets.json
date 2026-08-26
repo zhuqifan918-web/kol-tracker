@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2092572011407020407",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "10.6% of student loan balances are now 90+ days delinquent, the highest since 2020, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092572011407020407",
+    "published_at": "2026-08-26T11:17:00+00:00",
+    "fetched_at": "2026-08-26T12:33:19.212951+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "学生贷款逾期率上升至2020年以来最高，可能抑制消费支出，对经济和企业盈利构成压力，利空股市。",
+      "translation": "据彭博社报道，目前10.6%的学生贷款余额逾期90天以上，为2020年以来最高水平。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092517102339162263",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
