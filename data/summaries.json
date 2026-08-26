@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "META",
       "MRNA",
-      "NVDA",
-      "AAPL",
       "COIN",
-      "BTC"
+      "BE",
+      "NVDA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "政府政策与市场干预",
-      "贸易战与关税",
-      "加密货币与区块链",
-      "AI与科技投资",
-      "经济衰退担忧"
+      "加密货币与比特币看涨",
+      "mRNA疫苗与生物科技",
+      "政治人物交易与内幕",
+      "国债回购与财政政策",
+      "AI与科技巨头"
     ],
-    "recent_shift": "近期言论转向关注贸易战升级和经济衰退风险，同时看好比特币和黄金作为对冲工具。",
+    "recent_shift": "近期观点从关注贸易战和债务风险转向更加看好比特币与加密货币，并强调政治人物交易机会。",
     "representative_quotes": [
       "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio",
-      "The US and Canada fell deeper into a trade war Saturday, with Washington imposing 50% tariffs on roughly $20 billion worth of Canadian goods"
+      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio.",
+      "The Treasury could use its near $1 trillion General Account to help fund its recently announced plans to increase purchases of government bonds, according to two senior Treasury officials."
     ],
-    "generated_at": "2026-08-26T12:33:37.496477+00:00"
+    "generated_at": "2026-08-26T13:45:50.046140+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
