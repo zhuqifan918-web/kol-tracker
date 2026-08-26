@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "COIN",
-      "BTC",
-      "MRNA",
-      "AAPL",
-      "NVDA"
+      "$MRNA",
+      "$COIN",
+      "$BTC",
+      "$NVDA",
+      "$AAPL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "加密货币与数字资产",
-      "AI与科技股",
-      "政治与市场联动"
+      "政治人物与内幕交易",
+      "加密货币与机构资金流入",
+      "AI泡沫与估值担忧",
+      "关税与贸易冲突",
+      "市场情绪与机构观点"
     ],
-    "recent_shift": "近期从对市场风险的担忧转向对加密货币和AI的乐观态度。",
+    "recent_shift": "近期对经济与市场的表述更趋谨慎，从单纯看多转向对短期回调风险、AI泡沫和债务危机的明确警告。",
     "representative_quotes": [
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "This time, the flow started “coincidentally” talking one day before Washington did.",
-      "She bought leveraged positions in companies that the government legislates."
+      "No politician can hide from me, not even Nancy Pelosi. She disclose $BE call options on July 24 and $INTC call options on July 28. Using Unusual Whales, we can find her EXACT trade.",
+      "AI math doesn't make sense: 'Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
+      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
     ],
-    "generated_at": "2026-08-26T00:42:21.884957+00:00"
+    "generated_at": "2026-08-26T02:19:39.209227+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

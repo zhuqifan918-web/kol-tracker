@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2092431334039785570",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The mRNA-based shot in combination with Merck’s immunotherapy Keytruda met key goals in the Phase 3 trial in more than 1,100 patients with higher-risk or advanced melanoma whose detectable cancer had been completely removed\n\nRead more: https://t.co/oNZqVX14O7",
+    "tweet_url": "https://x.com/unusual_whales/status/2092431334039785570",
+    "published_at": "2026-08-26T01:58:00+00:00",
+    "fetched_at": "2026-08-26T02:19:17.559781+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRK",
+        "MRNA"
+      ],
+      "direction": "bullish",
+      "summary": "该消息对默沙东（MRK）和摩德纳（MRNA）构成利好，因为mRNA疫苗与Keytruda联合疗法在III期临床试验中达到主要终点，表明癌症治疗取得重大进展，可能提升相关公司的营收预期。",
+      "translation": "mRNA疫苗与默沙东的免疫疗法Keytruda联合使用，在超过1100名高危或晚期黑色素瘤且已完全切除可见肿瘤的患者中进行的III期试验中达到主要目标。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2092408620277457255",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -42,6 +64,25 @@
       "summary": "该推文通过分析COIN的期权流动，指出大额OTM看涨期权买入可能预示加密货币市场的重大转向。随后，美国财政部扩大长期债券回购、特朗普政府支持加密货币政策等事件推动比特币和COIN大涨，形成强劲的看涨信号。",
       "translation": "周二我指出了一些在COIN上数月未见的情况：大量OTM看涨期权突然涌入更长期的合约。其中一笔交易引起了我的注意：近650万美元的溢价购买了2027年1月到期的$230看涨期权。考虑到第二天早上财政部宣布扩大长期债券回购，这个时机相当有趣。收益率和美元走低，立刻为比特币、黄金和白银等美元对冲工具提供了顺风。然后当天晚些时候，特朗普总统将一些最大的加密人物带到白宫，公开呼吁国会通过CLARITY法案，并推动美国保持加密资本的世界领先地位。接着最大的头条出现：当被问及美国是否会开始积累大量比特币和其他加密资产时，特朗普证实这一想法已被讨论，并对其政府的建议持开放态度。此后，加密ETF流入加速，空头被迫回补，整个交易爆发，引发了历史上最大的加密空头清算。比特币本周上涨超过20%，有望创下自2023年以来最好的一周，而COIN也紧随其后，创下自2025年6月参议院通过GENIUS法案以来的最好一周。我总说：期权流不需要精确告诉你某事何时发生。但当数百万美元突然开始为几个月未见的情况布局时，它可以告诉你在何时开始为大规模方向变化做布局。这一次，流动在华盛顿行动前一天\"巧合\"地开始说话。@unusual_whales",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092379241157378245",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get updates on politicians' portfolios, subscribe to Unusual Whales.\n\nGet direct updates right on site.\n\nSee more: https://t.co/YFLvuTYtC8",
+    "tweet_url": "https://x.com/unusual_whales/status/2092379241157378245",
+    "published_at": "2026-08-25T22:31:00+00:00",
+    "fetched_at": "2026-08-26T02:19:29.083303+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广订阅Unusual Whales服务，以获取政客投资组合的更新。虽然不直接提及具体股票，但涉及投资信息提供，因此与投资相关，方向为中性。",
+      "translation": "要获取政客投资组合的更新，请订阅Unusual Whales。直接在网站上获取更新。查看更多：https://t.co/YFLvuTYtC8",
+      "confidence": "medium"
     }
   },
   {
