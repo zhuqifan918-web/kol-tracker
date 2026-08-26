@@ -22,6 +22,25 @@
     }
   },
   {
+    "tweet_id": "2092424539460223463",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Treasury could use its near $1 trillion General Account to help fund its recently announced plans to increase purchases of government bonds, according to two senior Treasury officials.\n\nRead more: https://t.co/ZqodJVhG9I",
+    "tweet_url": "https://x.com/unusual_whales/status/2092424539460223463",
+    "published_at": "2026-08-26T01:31:00+00:00",
+    "fetched_at": "2026-08-26T03:30:57.019915+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国财政部可能动用其近1万亿美元的现金储备来购买政府债券，这属于宏观流动性政策动向，可能影响债券市场和整体金融环境，但未直接指向具体股票或加密资产，投资信号偏中性。",
+      "translation": "据两位高级财政部官员称，财政部可以利用其近1万亿美元的普通账户来帮助资助其最近宣布的增购政府债券的计划。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092408620277457255",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

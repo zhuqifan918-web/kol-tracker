@@ -31,21 +31,21 @@
       "$NVDA",
       "$AAPL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "政治人物与内幕交易",
-      "加密货币与机构资金流入",
-      "AI泡沫与估值担忧",
-      "关税与贸易冲突",
-      "市场情绪与机构观点"
+      "加密货币与比特币利好",
+      "美国政府政策影响市场",
+      "AI与科技投资热潮",
+      "政治人物交易与内幕",
+      "黄金与避险资产"
     ],
-    "recent_shift": "近期对经济与市场的表述更趋谨慎，从单纯看多转向对短期回调风险、AI泡沫和债务危机的明确警告。",
+    "recent_shift": "近期观点从关注关税和贸易战转为看好加密货币和AI相关股票，同时强调政治事件驱动的市场机会。",
     "representative_quotes": [
-      "No politician can hide from me, not even Nancy Pelosi. She disclose $BE call options on July 24 and $INTC call options on July 28. Using Unusual Whales, we can find her EXACT trade.",
-      "AI math doesn't make sense: 'Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
+      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
+      "$BTC is now up 20%+ this week and on pace for its best week since 2023, while $COIN has ripped alongside it for its best week since June 2025 when the GENIUS Act was passed by the Senate.",
       "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
     ],
-    "generated_at": "2026-08-26T02:19:39.209227+00:00"
+    "generated_at": "2026-08-26T03:31:17.660399+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
