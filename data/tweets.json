@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2092446433601638586",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The number of IRA-created millionaires also increased by 16% to a record 501,481.\n\nRead more: https://t.co/NQA08qMT2r",
+    "tweet_url": "https://x.com/unusual_whales/status/2092446433601638586",
+    "published_at": "2026-08-26T02:58:00+00:00",
+    "fetched_at": "2026-08-26T05:57:23.771305+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息提到IRA（个人退休账户）创造的百万富翁数量创纪录增长，反映了美国退休账户投资环境的积极面。关注IRA相关的金融产品和服务可能受益，但无具体股票或主动信号。",
+      "translation": "IRA（个人退休账户）创造的百万富翁数量也增加了16%，达到创纪录的501,481人。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092431334039785570",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
