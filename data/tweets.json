@@ -1,5 +1,110 @@
 [
   {
+    "tweet_id": "2092708960063066193",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Nvidia, $NVDA, earnings:\n\n- Revenue: $96 billion, est: $92 billion\n- EPS: $2.22, est: $2.09",
+    "tweet_url": "https://x.com/unusual_whales/status/2092708960063066193",
+    "published_at": "2026-08-26T20:21:11+00:00",
+    "fetched_at": "2026-08-26T20:22:34.189769+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达财报超预期，营收和每股收益均高于市场预估，显示公司强劲增长，对股价构成利好。",
+      "translation": "重磅：英伟达（$NVDA）财报：营收960亿美元，预期920亿美元；每股收益2.22美元，预期2.09美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092705387082313834",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Crowdstrike, $CRWD, earnings:\n\n- Revenue: $1.47 billion, est: $1.44 billion\n- EPS: $0.31, est: $0.29",
+    "tweet_url": "https://x.com/unusual_whales/status/2092705387082313834",
+    "published_at": "2026-08-26T20:06:59+00:00",
+    "fetched_at": "2026-08-26T20:22:35.377471+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CRWD"
+      ],
+      "direction": "bullish",
+      "summary": "CrowdStrike公布的营收和每股收益均超预期，显示出强劲的业绩表现。这通常被视为积极信号，可能推动股价上涨。",
+      "translation": "CrowdStrike，$CRWD，财报：营收：14.7亿美元，预期：14.4亿美元；每股收益：0.31美元，预期：0.29美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092704618312589602",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Salesforce, $CRM, earnings:\n\n- Revenue: $11.34 billion, est: $11.3 billion\n- EPS: $5.9, est: $3.27",
+    "tweet_url": "https://x.com/unusual_whales/status/2092704618312589602",
+    "published_at": "2026-08-26T20:03:56+00:00",
+    "fetched_at": "2026-08-26T20:22:36.867178+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CRM"
+      ],
+      "direction": "bullish",
+      "summary": "Salesforce公布的营收和每股收益均超预期，尤其是每股收益5.9美元远超预估的3.27美元，显示出公司盈利能力强劲，属于利好消息。",
+      "translation": "Salesforce，$CRM，财报：- 营收：113.4亿美元，预期113亿美元 - 每股收益：5.9美元，预期3.27美元",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092696573020975175",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Nvidia, $NVDA, earnings are in after hours.\n\nSee them live here: https://t.co/nnHiV4wKWo",
+    "tweet_url": "https://x.com/unusual_whales/status/2092696573020975175",
+    "published_at": "2026-08-26T19:31:58+00:00",
+    "fetched_at": "2026-08-26T20:22:39.188241+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文仅提及英伟达（NVDA）盘后发布财报，并提供观看链接，未透露具体业绩数据或市场预期，因此无法判断多空方向。",
+      "translation": "突发新闻：英伟达（$NVDA）财报盘后公布。点击此处观看直播：https://t.co/nnHiV4wKWo",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092690276590534658",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia’s, $NVDA, earnings are today.\n\nHow did they do the last earnings?\n\nCheck Unusual Whales.\n\nSee more: https://t.co/nnHiV4wKWo https://t.co/eaMCEDzSiR",
+    "tweet_url": "https://x.com/unusual_whales/status/2092690276590534658",
+    "published_at": "2026-08-26T19:06:56+00:00",
+    "fetched_at": "2026-08-26T20:22:40.903248+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及英伟达今日发布财报，并建议查看Unusual Whales平台以了解上一次财报表现，但未给出明确的多空观点，属于信息提示类内容。",
+      "translation": "英伟达（$NVDA）今天发布财报。他们上一次财报表现如何？查看Unusual Whales。了解更多：https://t.co/nnHiV4wKWo https://t.co/eaMCEDzSiR",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2092665229880836597",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -16,6 +121,25 @@
       "summary": "该推文指出DDR4供应冲击导致ODM厂商向下重新设计至DDR3/DDR2，但连Winbond等传统厂商也在退出DDR2，加剧了瓶颈，对存储芯片供应链构成负面影响，可能推高成本并影响相关公司盈利。",
       "translation": "“级联瓶颈”的概念非常酷。由于DDR4供应冲击和成本问题，许多ODM厂商正在从DDR4向下重新设计至DDR3和DDR2。但即便是像Winbond这样的传统玩家也在退出DDR2，使得瓶颈更加严重。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092637442616799415",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Iran says the Strait of Hormuz will remain closed until the U.S. lifts its naval blockade and the war permanently ends, including fighting in Lebanon.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092637442616799415",
+    "published_at": "2026-08-26T15:37:00+00:00",
+    "fetched_at": "2026-08-26T20:22:47.315439+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "伊朗威胁长期封锁霍尔木兹海峡，可能影响全球石油供应，推高油价并加剧市场不确定性，对能源股和全球股市构成负面影响。",
+      "translation": "伊朗表示，在美国解除海军封锁并永久结束战争（包括黎巴嫩战斗）之前，霍尔木兹海峡将继续关闭。",
+      "confidence": "high"
     }
   },
   {

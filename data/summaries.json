@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MRNA",
-      "$COIN",
-      "$BTC",
-      "$AAPL",
-      "$NVDA"
+      "NVDA",
+      "MRNA",
+      "COIN",
+      "AAPL",
+      "BA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "加密货币与政治互动",
-      "AI投资与泡沫担忧",
-      "贸易战与关税升级",
-      "消费者债务与房产市场",
-      "政治人物股票交易"
+      "AI与科技股",
+      "加密货币与数字资产",
+      "地缘政治与贸易摩擦",
+      "市场流动性与美联储政策",
+      "政治人物交易"
     ],
-    "recent_shift": "从关注债务危机和贸易战转向关注货币政策和政府支持下的加密资产上涨",
+    "recent_shift": "近期对市场风险提示增加，但对AI长期前景仍保持乐观。",
     "representative_quotes": [
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
       "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio",
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,” per Apollo's Slok"
+      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
     ],
-    "generated_at": "2026-08-26T16:10:39.247829+00:00"
+    "generated_at": "2026-08-26T20:22:53.028545+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
