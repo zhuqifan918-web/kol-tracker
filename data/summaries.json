@@ -1,51 +1,50 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
+      "AAOI",
       "LITE",
-      "SMTC",
-      "COHR"
+      "COHR",
+      "SMTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学与光模块供应链瓶颈",
-      "AI基础设施建设与算力需求",
-      "存储器与MLCC供需紧张",
-      "激光器与CPO技术演进",
-      "人形机器人与太空经济"
+      "光通信与激光器瓶颈",
+      "算力基础设施与内存短缺",
+      "机器人与物理AI",
+      "政策与地缘政治影响"
     ],
-    "recent_shift": "近期观点从对AI板块回调的担忧转向对光学、存储及人形机器人等主题的强劲看好，并强调需求可见性高。",
+    "recent_shift": "近期观点未明显转变，但更加关注光通信与激光器瓶颈的验证和投资机会。",
     "representative_quotes": [
-      "So gigantic beat, great read through on 1.6T ramp.",
-      "The demand visibility... is just way too stupidly high.",
-      "CW laser scarcity is already happening before the main volume ramp even begins..."
+      "“The demand visibility... is just way too stupidly high.”",
+      "“Evidence is mounting that optical supply is far behind demand, with bottlenecks across the chain.”",
+      "“I feel like AI investing is simpler than what people expect. Because $NVDA + Jensen literally tells everyone what's coming.”"
     ],
-    "generated_at": "2026-08-26T00:42:24.842745+00:00"
+    "generated_at": "2026-08-26T08:32:05.019886+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$MRNA",
-      "$BTC",
       "$COIN",
+      "$BTC",
       "$AAPL",
       "$NVDA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "政治人物股票交易监控",
-      "加密货币与比特币走势",
-      "市场流动性与国债回购",
-      "AI相关投资与市场泡沫担忧",
-      "贸易战与关税影响"
+      "加密货币与比特币看涨",
+      "政治人物股票交易与利益冲突",
+      "AI与科技股增长",
+      "国债回购与市场流动性",
+      "美加贸易战与关税"
     ],
-    "recent_shift": "近期观点转向关注市场回调风险和债券市场动态，而之前更多聚焦于政治人物交易和加密货币机会。",
+    "recent_shift": "近期观点转向更加看涨加密货币和黄金，同时关注市场回调风险。",
     "representative_quotes": [
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "She bought leveraged positions in companies that the government legislates.",
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers.'"
+      "$BTC is now up 20%+ this week and on pace for its best week since 2023, while $COIN has ripped alongside it for its best week since June 2025 when the GENIUS Act was passed by the Senate.",
+      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio",
+      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades."
     ],
-    "generated_at": "2026-08-26T05:57:44.477697+00:00"
+    "generated_at": "2026-08-26T08:32:07.237227+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
