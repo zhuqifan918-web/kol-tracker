@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "NVDA",
       "AAOI",
-      "SIVE",
       "LITE",
-      "COHR",
-      "SMTC"
+      "SIVE",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光模块与激光器瓶颈",
-      "AI基础设施需求爆发",
-      "半导体材料短缺",
-      "人形机器人投资热潮",
-      "内包络与CPO技术演进"
+      "AI基础设施与供应链瓶颈",
+      "光学互联与激光器短缺",
+      "存储芯片超级周期",
+      "人形机器人与物理AI",
+      "CPO与先进封装技术"
     ],
-    "recent_shift": "近期更加强调激光器和光模块的供应瓶颈，并淡化对部分公司融资稀释的担忧。",
+    "recent_shift": "近期观点从相对中性转向更加强调供应链瓶颈的持续性和投资机会，但在市场回调后对高估值和融资行为（如ATM）表现出更多谨慎。",
     "representative_quotes": [
-      "The demand visibility... is just way too stupidly high.",
-      "We haven't even hit the inflection point with 1.6T, NPO, CPO scale out/up, and optics with memory (as seen with SK Hynix). Yet the industry is already bottlenecked by EML/CW and all your other upstream components.",
-      "I can't see how anyone can be bearish on this company..."
+      "However, the reason I'm still overweight on AOI vs. the rest (looking at you Poet): Is that AOI is actually capacity constrained with high demand visibility.",
+      "We already knew COHR / LITE lasers were completely sold out for the next 2 years during July's drop. We knew about demand imbalance from AAOI from last quarter's earnings calls. Nothing deteriorated fundamentally during July's crash, other than listed price after liquidations.",
+      "I think I'm putting my money on Jensen/Nvidia as the leading indicator."
     ],
-    "generated_at": "2026-08-26T18:11:41.312749+00:00"
+    "generated_at": "2026-08-26T23:52:45.505305+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
       "MRNA",
       "COIN",
-      "AAPL",
-      "BA"
+      "BE",
+      "INTC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI与科技股",
-      "加密货币与数字资产",
-      "地缘政治与贸易摩擦",
-      "市场流动性与美联储政策",
-      "政治人物交易"
+      "AI算力与芯片需求强劲",
+      "加密货币与数字资产大涨",
+      "政治人物交易与政策联动",
+      "贸易战升级与关税影响",
+      "市场流动性充裕与散户财富效应"
     ],
-    "recent_shift": "近期对市场风险提示增加，但对AI长期前景仍保持乐观。",
+    "recent_shift": "近期观点从关注贸易战风险转向积极看待AI与加密资产机会，同时关注政治交易带来的市场信号。",
     "representative_quotes": [
-      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,' per Apollo's Slok",
+      "Nvidia, $NVDA, beat earnings. But how can you determine how much it may move after? Check the options market.",
       "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
+      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades. Major buys include: 15,000 shares of Bloom Energy, $BE 10,000 shares of Intel, $INTC"
     ],
-    "generated_at": "2026-08-26T20:22:53.028545+00:00"
+    "generated_at": "2026-08-26T23:52:42.490679+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,114 @@
 [
   {
+    "tweet_id": "2092741628939116645",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, beat earnings.\n\nBut how can you determine how much it may move after?\n\nCheck the options market.\n\nSee more, at Unusual Whales. https://t.co/IvnJLAm9rv",
+    "tweet_url": "https://x.com/unusual_whales/status/2092741628939116645",
+    "published_at": "2026-08-26T22:31:00+00:00",
+    "fetched_at": "2026-08-26T23:52:25.545255+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "推特提到英伟达（NVDA）财报超预期，但未明确指出股价涨跌方向，而是强调可通过期权市场数据来判断财报后的潜在波动幅度。这提供了一个利用期权市场进行投资决策的参考角度。",
+      "translation": "英伟达（$NVDA）财报超预期。但如何判断它之后可能有多大波动？可以看看期权市场。更多内容，见Unusual Whales。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092723606702743862",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Anthropic has passed SpaceX as the favorite for the biggest IPO ever, per Polymarket⁠.com.\n\nThe shift follows Anthropic setting its total addressable market at $30 trillion, and news today of a $45 billion compute deal with Nscale. https://t.co/bQKZCjlKfS",
+    "tweet_url": "https://x.com/unusual_whales/status/2092723606702743862",
+    "published_at": "2026-08-26T21:19:23+00:00",
+    "fetched_at": "2026-08-26T23:52:29.244637+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推特报道了Anthropic超越SpaceX成为Polymarket上最受期待的IPO，并提到其总潜在市场达30万亿美元及与Nscale的450亿美元计算交易，暗示其估值和投资吸引力上升，整体偏向看涨情绪。",
+      "translation": "突发消息：根据Polymarket数据，Anthropic已超越SpaceX成为史上最大IPO的最热门候选。这一转变发生在Anthropic将其总潜在市场规模设定为30万亿美元，以及今日宣布与Nscale达成450亿美元计算交易之后。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092723047107355133",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA: \"We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook\"\n\nThat statement alone is probably more important than the entire earnings beat just now? \n\nInsane upward revision beat from +43.9% expected to 70%. \n\n\"With cloud industry backlog now greater than 2 trillion, CapEx by the top five hyperscalers is expected to reach nearly $800 Billion in 2026 and 1.3 Trillion in 2027\"\n\n$1.3 Trillion in 2027. (MS was around $1.2T June, so this is upward projection revisions)\n\nYeah the high-beta parts of the supply chain growth is going to like this.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092723047107355133",
+    "published_at": "2026-08-26T21:17:10+00:00",
+    "fetched_at": "2026-08-26T23:51:38.330517+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出英伟达预计2028财年营收增长约70%，远超市场预期，且云行业积压订单超2万亿美元，主要云厂商资本开支大幅上调，表明AI基础设施需求强劲，对英伟达及供应链上游企业构成重大利好。",
+      "translation": "\"我们预计2028财年营收将增长约70%。这是一个受供应限制的前景。\" 这一声明本身可能比刚刚公布的财报超预期更重要？ 惊人的向上修正，从预期增长43.9%上调至70%。 \"随着云行业积压订单超过2万亿美元，前五大超大规模云厂商的资本开支预计将在2026年达到近8000亿美元，并在2027年达到1.3万亿美元。\" 2027年达到1.3万亿美元（摩根士丹利6月份时预测约为1.2万亿美元，所以这是预测上调）。 是的，供应链中的高贝塔部分将会喜欢这个。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092718416683819292",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA earnings TLDR:\n\nRevenue: $96.22B vs. ~$92.17B (beat)\nAdj. EPS: $2.22 vs. $2.09-$2.10 (beat)\nDC: $89.0B vs. ~$86.3B (beat)\nAdj. gross margin: 75% vs. 75%\n\nHyperscaler Revenue: $48.71B from $43.05B last quarter (custom ASIC growth hasn't really prevented this revenue from accelerating)\n\nFor guidance:\nRevenue: $108B vs. ~$104.2B\nAdj. gross margin: 74% vs. 75% (kinda the only soft spot)\n\nRevenue ramp has been genuinely absurd over last 4 quarters. \n-> $68.1B\n-> $81.6B\n-> $96.2B (we are here)\n-> next quarter guidance: $108B, despite assuming zero China DC compute revenue. \n\nFun thing to note is Nvidia says its commitments jumped from $119B last quarter to $279B, primarily related to procurement of memory (for next few years).. So memory goes brrr. \n\nTLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing. \n\nGiven Nvidia is already a $5T+ company, I think most of the alpha comes from how Nvidia's architecture/capacity decisions impact elsewhere in the supply chain (eg. CPO, memory, 800V) nowadays.\n\nRather than simply finding mispricing in Nvidia itself.\n\nRegardless, all the fun stuff happens in the earnings call in a few min.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092718416683819292",
+    "published_at": "2026-08-26T20:58:46+00:00",
+    "fetched_at": "2026-08-26T23:51:44.901654+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了NVIDIA的最新财报，业绩全面超预期，营收和每股收益均高于市场预期，且下季度指引强劲，尽管毛利率略有下滑。推文认为NVIDIA需求强劲，AI趋势持续，投资机会更多在于供应链（如CPO、内存、800V）而非NVIDIA本身。",
+      "translation": "NVIDIA财报TLDR：\n\n营收：$96.22B vs. 预期~$92.17B（超预期）\n调整后每股收益：$2.22 vs. 预期$2.09-$2.10（超预期）\n数据中心：$89.0B vs. 预期~$86.3B（超预期）\n调整后毛利率：75% vs. 预期75%\n\n超大规模客户收入：本季度$48.71B，上季度$43.05B（定制ASIC增长并未阻止该收入加速）\n\n对于指引：\n营收：$108B vs. 预期~$104.2B\n调整后毛利率：74% vs. 预期75%（唯一软点）\n\n过去四个季度营收增长确实惊人：\n-> $68.1B\n-> $81.6B\n-> $96.2B（当前位置）\n-> 下季度指引：$108B，尽管假设中国数据中心计算收入为零。\n\n有趣的是，NVIDIA表示其承诺从上一季度的$119B跃升至$279B，主要与采购内存有关（未来几年）。所以内存行业会大发展。\n\nTLDR：AI继续高速发展。NVIDIA显然引领潮流，没有明显需求放缓迹象。\n\n鉴于NVIDIA已经是$5T+公司，我认为大部分超额收益来自于NVIDIA的架构/产能决策如何影响供应链其他部分（例如CPO、内存、800V）的时机。\n\n而不是仅仅在NVIDIA本身寻找错误定价。\n\n无论如何，几分钟后的财报电话会议上会有所有有趣的事情。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092710854290764161",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I know everyone’s watching $NVDA earnings right now…\n\nBut did you know Landmark signed a 4 year CW agreement with US customer to ensure “sufficient supply”?\n\nSo now you have:\n\n- $LITE (capacity gone)\n- $COHR (capacity gone)\n- Landmark (capacity committed)\n- $AAOI (capacity for transceivers)\n- $MTSI (not online)\n- $SMTC (limited)\n\nI remember saying earlier this year CW lasers would be the next optical shift and heavily bottlenecked by Nvidia?\n\nSo fun watching this play out, with players signing LTAs already to 2030 (signaling less availability for other players).\n\nImplications for $SIVE / Win Semi are very material as one of the few remaining CW merchant suppliers with capacity (+ CPO-grade lasers).\n\nLet’s see how they execute.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092710854290764161",
+    "published_at": "2026-08-26T20:28:43+00:00",
+    "fetched_at": "2026-08-26T23:51:50.172932+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "LITE",
+        "COHR",
+        "AAOI",
+        "MTSI",
+        "SMTC",
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为CW激光器是光通信领域下一个瓶颈，多家公司已锁定产能，而SIVE/Win Semi作为少数仍有剩余产能的供应商将显著受益，因此对其持看涨态度。",
+      "translation": "我知道大家都在关注$NVDA的财报……但你知道吗，Landmark与一家美国客户签署了为期4年的CW协议，以确保“充足供应”。所以现在你有：$LITE（产能已满）、$COHR（产能已满）、Landmark（产能被锁定）、$AAOI（用于收发器的产能）、$MTSI（尚未上线）、$SMTC（有限）。我记得今年早些时候就说过CW激光器将成为下一个光通信转变点，并且受到英伟达的严重瓶颈制约？所以看着这一发展很有趣，参与者已经签署了到2030年的长期协议（预示着其他参与者可获得性减少）。对$SIVE / Win Semi的影响非常重大，因为它们是少数仍拥有产能（加上CPO级激光器）的CW商业供应商之一。让我们看看他们如何执行。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092708960063066193",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
