@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2092608886918250825",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Meta, $META, has agreed to an $18 billion settlement with 48 states over child-safety claims and will create new safeguards for users under 18",
+    "tweet_url": "https://x.com/unusual_whales/status/2092608886918250825",
+    "published_at": "2026-08-26T13:43:32+00:00",
+    "fetched_at": "2026-08-26T13:45:26.291510+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META"
+      ],
+      "direction": "bearish",
+      "summary": "Meta同意支付180亿美元和解金，涉及儿童安全问题，并新增保护措施。此巨额支出可能增加运营成本，短期或对股价构成压力。",
+      "translation": "突发：Meta（$META）已同意与48个州达成180亿美元的和解协议，涉及儿童安全指控，并将为18岁以下用户制定新的保护措施。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092605148086284440",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales live trading show WhaleWatch is live now!\n\nTune in to see how traders use our tools, and scour the feed for interesting flow:\n\nhttps://t.co/QZsJynd9be",
+    "tweet_url": "https://x.com/unusual_whales/status/2092605148086284440",
+    "published_at": "2026-08-26T13:28:40+00:00",
+    "fetched_at": "2026-08-26T13:45:28.132556+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文宣传Unusual Whales的直播节目WhaleWatch，邀请观众了解交易者如何使用其工具并浏览有趣的资金流向。内容涉及交易工具和市场分析，但未提供具体投资建议或方向。",
+      "translation": "突发消息：Unusual Whales的现场交易节目WhaleWatch现在正在直播！快来观看交易者如何使用我们的工具，并浏览有趣的资金流向：https://t.co/QZsJynd9be",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092572011407020407",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
