@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2092627628226212046",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bitcoin could hit $300,000 by 2029, per Bernstein.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092627628226212046",
+    "published_at": "2026-08-26T14:58:00+00:00",
+    "fetched_at": "2026-08-26T16:10:06.330681+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "bullish",
+      "summary": "Bernstein 预测比特币到2029年可能达到30万美元，这是一个看涨的长期价格预测，表明对加密货币市场持乐观态度。",
+      "translation": "比特币到2029年可能达到30万美元，根据伯恩斯坦（Bernstein）的预测。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092622846778359841",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "DOW Jones industrial to hit 54,500 by year end, per Reuters poll.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092622846778359841",
+    "published_at": "2026-08-26T14:39:00+00:00",
+    "fetched_at": "2026-08-26T16:10:07.790902+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文引用路透调查，预测道琼斯工业指数将在年底前达到54,500点，表明对股市前景持乐观态度，可能吸引投资者关注大盘走势。",
+      "translation": "据路透调查，道琼斯工业指数将在年底前达到54,500点。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092618317026443770",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -17,6 +57,25 @@
       "direction": "bullish",
       "summary": "据路透调查，预测标普500指数将升至7,900点，显示市场对美股前景持乐观态度。此预测可能基于对经济和企业盈利增长的预期。",
       "translation": "据路透调查，标普500指数将触及7,900点。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092616311050281334",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Live now, covering options flow and hunting down futures trades using our GEX Periscope. Do we push back to highs, or reverse to lows?\n\nVote now: https://t.co/1G7LjawjvT",
+    "tweet_url": "https://x.com/unusual_whales/status/2092616311050281334",
+    "published_at": "2026-08-26T14:13:02+00:00",
+    "fetched_at": "2026-08-26T16:10:09.567657+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文为实时交易分析，涉及期权流和期货交易，使用GEX Periscope工具判断市场是否会回到高点或反转走低，属于市场情绪和交易策略讨论，但未提及具体标的或明确方向。",
+      "translation": "直播中，使用我们的GEX Periscope工具分析期权流并追踪期货交易。我们是否会推回高点，还是反转至低点？现在投票：https://t.co/1G7LjawjvT",
       "confidence": "medium"
     }
   },
@@ -96,6 +155,25 @@
       "summary": "法国兴业银行指出，AI可能扩大财富差距。这一观点涉及宏观层面的财富分配影响，并非针对具体投资标的，但可视为对AI长期影响的社会经济分析，投资者可关注相关政策风险。",
       "translation": "据法国兴业银行称，人工智能可能扩大财富鸿沟。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092587110608044446",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Biggest trading losses of all time, per FT: https://t.co/z0z0yVSuCJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2092587110608044446",
+    "published_at": "2026-08-26T12:17:00+00:00",
+    "fetched_at": "2026-08-26T16:10:13.718182+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及金融时报列举的史上最大交易亏损案例，属于金融市场历史事件回顾，未涉及具体投资建议或特定标的，对当前投资决策参考价值有限。",
+      "translation": "根据金融时报，史上最大的交易亏损：https://t.co/z0z0yVSuCJ",
+      "confidence": "low"
     }
   },
   {
