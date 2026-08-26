@@ -1,5 +1,45 @@
 [
   {
+    "tweet_id": "2092618317026443770",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "S&amp;P500 to hit 7,900, per Reuters poll.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092618317026443770",
+    "published_at": "2026-08-26T14:21:00+00:00",
+    "fetched_at": "2026-08-26T14:35:16.963583+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPX"
+      ],
+      "direction": "bullish",
+      "summary": "据路透调查，预测标普500指数将升至7,900点，显示市场对美股前景持乐观态度。此预测可能基于对经济和企业盈利增长的预期。",
+      "translation": "据路透调查，标普500指数将触及7,900点。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092613786654154994",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: The strait of Hormuz is functioning... prices are coming down.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092613786654154994",
+    "published_at": "2026-08-26T14:03:00+00:00",
+    "fetched_at": "2026-08-26T14:35:19.532892+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普表示霍尔木兹海峡运作正常且油价正在下跌，这对能源价格和通胀预期构成利好，可能对整体市场情绪产生正面影响。",
+      "translation": "特朗普：霍尔木兹海峡正在运作...价格正在下降。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2092608886918250825",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -36,6 +76,25 @@
       "direction": null,
       "summary": "该推文宣传Unusual Whales的直播节目WhaleWatch，邀请观众了解交易者如何使用其工具并浏览有趣的资金流向。内容涉及交易工具和市场分析，但未提供具体投资建议或方向。",
       "translation": "突发消息：Unusual Whales的现场交易节目WhaleWatch现在正在直播！快来观看交易者如何使用我们的工具，并浏览有趣的资金流向：https://t.co/QZsJynd9be",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092597177696608342",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"AI could widen the wealth cap,\" per Societe Generale.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092597177696608342",
+    "published_at": "2026-08-26T12:57:00+00:00",
+    "fetched_at": "2026-08-26T14:35:22.413026+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "法国兴业银行指出，AI可能扩大财富差距。这一观点涉及宏观层面的财富分配影响，并非针对具体投资标的，但可视为对AI长期影响的社会经济分析，投资者可关注相关政策风险。",
+      "translation": "据法国兴业银行称，人工智能可能扩大财富鸿沟。",
       "confidence": "medium"
     }
   },
