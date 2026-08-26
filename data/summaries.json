@@ -24,27 +24,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$MRNA",
-      "$COIN",
-      "$BTC",
-      "$AAPL",
-      "$NVDA"
+      "MRNA",
+      "NVDA",
+      "AAPL",
+      "COIN",
+      "BTC"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "加密货币与比特币看涨",
-      "政治人物股票交易与利益冲突",
-      "AI与科技股增长",
-      "国债回购与市场流动性",
-      "美加贸易战与关税"
+      "政府政策与市场干预",
+      "贸易战与关税",
+      "加密货币与区块链",
+      "AI与科技投资",
+      "经济衰退担忧"
     ],
-    "recent_shift": "近期观点转向更加看涨加密货币和黄金，同时关注市场回调风险。",
+    "recent_shift": "近期言论转向关注贸易战升级和经济衰退风险，同时看好比特币和黄金作为对冲工具。",
     "representative_quotes": [
-      "$BTC is now up 20%+ this week and on pace for its best week since 2023, while $COIN has ripped alongside it for its best week since June 2025 when the GENIUS Act was passed by the Senate.",
+      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
       "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio",
-      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades."
+      "The US and Canada fell deeper into a trade war Saturday, with Washington imposing 50% tariffs on roughly $20 billion worth of Canadian goods"
     ],
-    "generated_at": "2026-08-26T08:32:07.237227+00:00"
+    "generated_at": "2026-08-26T12:33:37.496477+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
