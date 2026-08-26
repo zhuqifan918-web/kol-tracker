@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "$MRNA",
-      "$COIN",
       "$BTC",
-      "$NVDA",
-      "$AAPL"
+      "$COIN",
+      "$AAPL",
+      "$NVDA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "加密货币与比特币利好",
-      "美国政府政策影响市场",
-      "AI与科技投资热潮",
-      "政治人物交易与内幕",
-      "黄金与避险资产"
+      "政治人物股票交易监控",
+      "加密货币与比特币走势",
+      "市场流动性与国债回购",
+      "AI相关投资与市场泡沫担忧",
+      "贸易战与关税影响"
     ],
-    "recent_shift": "近期观点从关注关税和贸易战转为看好加密货币和AI相关股票，同时强调政治事件驱动的市场机会。",
+    "recent_shift": "近期观点转向关注市场回调风险和债券市场动态，而之前更多聚焦于政治人物交易和加密货币机会。",
     "representative_quotes": [
       "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "$BTC is now up 20%+ this week and on pace for its best week since 2023, while $COIN has ripped alongside it for its best week since June 2025 when the GENIUS Act was passed by the Senate.",
-      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
+      "She bought leveraged positions in companies that the government legislates.",
+      "AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers.'"
     ],
-    "generated_at": "2026-08-26T03:31:17.660399+00:00"
+    "generated_at": "2026-08-26T05:57:44.477697+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
