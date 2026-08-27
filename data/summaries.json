@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "NVDA",
       "AAOI",
       "LITE",
       "SIVE",
+      "NVDA",
       "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与供应链瓶颈",
-      "光学互联与激光器短缺",
-      "存储芯片超级周期",
-      "人形机器人与物理AI",
-      "CPO与先进封装技术"
+      "光子学与光学瓶颈",
+      "内存与存储超级周期",
+      "NVDA供应链传导",
+      "机器人技术与人形机器人",
+      "MLCC与被动元件供应紧张"
     ],
-    "recent_shift": "近期观点从相对中性转向更加强调供应链瓶颈的持续性和投资机会，但在市场回调后对高估值和融资行为（如ATM）表现出更多谨慎。",
+    "recent_shift": "近期观点无显著变化，仍维持对光学和存储瓶颈的强烈看多。",
     "representative_quotes": [
-      "However, the reason I'm still overweight on AOI vs. the rest (looking at you Poet): Is that AOI is actually capacity constrained with high demand visibility.",
-      "We already knew COHR / LITE lasers were completely sold out for the next 2 years during July's drop. We knew about demand imbalance from AAOI from last quarter's earnings calls. Nothing deteriorated fundamentally during July's crash, other than listed price after liquidations.",
-      "I think I'm putting my money on Jensen/Nvidia as the leading indicator."
+      "AAOI: 'The customer demand is 20%-40% higher... Lasers are the biggest bottleneck right now for the transceiver business.'",
+      "NVDA: 'We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook.'",
+      "LITE: 'We are way behind in our shipments, unfortunately, on high-powered lasers... The demand signal has increased, and we are very much further behind relative to our ability to supply.'"
     ],
-    "generated_at": "2026-08-26T23:52:45.505305+00:00"
+    "generated_at": "2026-08-27T05:47:34.930650+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
