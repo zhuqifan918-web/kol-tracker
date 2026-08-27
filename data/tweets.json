@@ -1,5 +1,27 @@
 [
   {
+    "tweet_id": "2092789800428622128",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006). \n\nA $2.5B MC fabless company with PSMC wafer allocation (esp. focused on DDR2). \n\nLast month's net income was: $109.5M (July month), which annualized is $1.31B net profit (1.9x runrate P/E). \n\nIf we look at net profit throughout the months tracking legacy DRAM price hikes:\n\nJan 2026: ~$16M (est)\nFeb 2026: ~$17M\nMar 2026: ~$31M (est)\nApril 2026: ~$58M\nMay 2026: ~$60M (est)\nJune 2026: ~$67M (est)\nJul 2026: ~$110M\n(Estimated months are inferred from reported quarterly totals. July is company reported)\n\nThis earnings progression reminds me of $SNDK style price hikes + earnings inflection (esp. the report released this month). \n\nAnd I do expect DDR2/DDR3 capacity to remain constrained throughout 2027 (with legacy players like Winbond withdrawing from certain lines too like DDR2).\n\nIt's not quite all inventory liquidation like the other peers. Sure lower cost inventory helped, but the primary driver seems to be the widening spread between wafer costs/supply and legacy dram ASPs?\n\nTheir balance sheet is extremely solid as well:\n\n- Cash on hand: ~$395.9M net cash\n- $249.6M inventory, $146.3M receivables\n\nAnd the net income progression... is before further legacy DRAM hikes expected in Q3. \n\n*disclosure own positions, NFA\n\nIt's always a bit daunting being early without much commentary around the idea. Wondering if anyone can stress test this thesis?\n\nSince a company that grew monthly net income from $16M -> $100m this year alone (July Annualized would be 1.9x P/E). \n\nAnd benefits from another projected wave of DDR2/DDR3 hikes this quarter... maybe like 35-40% for DDR2 lines per Trendforce, and DDR3 likely continuing to rise. \n\nDo markets just not know about this bottleneck/company or am I missing something from my research?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092789800428622128",
+    "published_at": "2026-08-27T01:42:25+00:00",
+    "fetched_at": "2026-08-27T05:46:10.398633+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "3006",
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "作者看好台湾存储器IC设计公司ESMT（3006），认为DDR2/DDR3内存短缺将持续至2027年，公司月度净利润从年初的约1600万美元增长至7月的1.095亿美元，年化市盈率仅1.9倍，且资产负债表稳健，并预计Q3内存价格继续上涨，但市场对此关注不足。",
+      "translation": "我原本想接触DDR2/DDR3瓶颈持续的机会，找到了ESMT（3006）。这是一家市值25亿美元的MC无晶圆厂公司，拥有PSMC晶圆分配（特别专注于DDR2）。上个月的净利润为：1.095亿美元（7月），年化为13.1亿美元净利润（1.9倍滚动市盈率）。如果我们看看跟踪传统DRAM价格上涨的月度净利润走势：2026年1月：约1600万美元（估计）；2026年2月：约1700万美元；2026年3月：约3100万美元（估计）；2026年4月：约5800万美元；2026年5月：约6000万美元（估计）；2026年6月：约6700万美元（估计）；2026年7月：约1.1亿美元。（估计月份是根据报告的季度总数推断的。7月是公司报告。）这一盈利进展让我想起了$SNDK风格的涨价和盈利拐点（尤其是本月发布的报告）。而且我确实预计DDR2/DDR3产能将在2027年全年保持紧张（像Winbond这样的传统厂商也在退出某些产品线，如DDR2）。这并不完全像其他同行那样是库存清算。当然，低成本库存有所帮助，但主要驱动因素似乎是晶圆成本/供应与传统DRAM ASP之间的价差扩大？他们的资产负债表也非常稳健：现金：约3.959亿美元净现金；库存2.496亿美元，应收账款1.463亿美元。而且净利润进展...是在进一步预期Q3传统DRAM涨价之前。*披露：持有多头仓位，非财务建议。早期进入且没有太多评论总是有点令人畏惧。有人能压力测试这个论点吗？因为一家公司的月度净利润从今年的1600万美元增长到1亿美元（7月年化市盈率仅1.9倍）。并且受益于本季度预期的另一波DDR2/DDR3涨价...比如TrendForce预计DDR2上涨35-40%，DDR3可能继续上涨。市场是否就是不知道这个瓶颈/公司，还是我的研究漏了什么？",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2092741628939116645",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
