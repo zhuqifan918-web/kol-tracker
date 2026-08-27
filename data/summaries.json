@@ -2,50 +2,50 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "AAOI",
-      "LITE",
       "SIVE",
       "NVDA",
-      "COHR"
+      "LITE",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学与光学瓶颈",
-      "内存与存储超级周期",
-      "NVDA供应链传导",
-      "机器人技术与人形机器人",
-      "MLCC与被动元件供应紧张"
+      "光学供应链瓶颈",
+      "AI基础设施投资",
+      "存储超级周期",
+      "激光器与CPO技术",
+      "人形机器人"
     ],
-    "recent_shift": "近期观点无显著变化，仍维持对光学和存储瓶颈的强烈看多。",
+    "recent_shift": "近期观点没有明显变化，保持对光学和存储瓶颈的看涨立场。",
     "representative_quotes": [
-      "AAOI: 'The customer demand is 20%-40% higher... Lasers are the biggest bottleneck right now for the transceiver business.'",
-      "NVDA: 'We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook.'",
-      "LITE: 'We are way behind in our shipments, unfortunately, on high-powered lasers... The demand signal has increased, and we are very much further behind relative to our ability to supply.'"
+      "The demand visibility... is just way too stupidly high.",
+      "Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in the next 3 years.",
+      "The entire optical supply chain was facing major shortages... the shortage will continue to the next few years."
     ],
-    "generated_at": "2026-08-27T05:47:34.930650+00:00"
+    "generated_at": "2026-08-27T17:06:37.903914+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "XOM",
       "NVDA",
       "MRNA",
       "COIN",
-      "BE",
-      "INTC"
+      "BE"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "bearish",
     "key_themes": [
-      "AI算力与芯片需求强劲",
-      "加密货币与数字资产大涨",
-      "政治人物交易与政策联动",
-      "贸易战升级与关税影响",
-      "市场流动性充裕与散户财富效应"
+      "地缘政治风险与市场联动",
+      "人工智能泡沫风险",
+      "美国国债市场与财政政策",
+      "政治人物交易与利益冲突",
+      "贸易战与关税"
     ],
-    "recent_shift": "近期观点从关注贸易战风险转向积极看待AI与加密资产机会，同时关注政治交易带来的市场信号。",
+    "recent_shift": "近期观点转向更加关注政治人物交易与政策时点的巧合，以及对市场泡沫和债务风险的担忧加剧。",
     "representative_quotes": [
-      "Nvidia, $NVDA, beat earnings. But how can you determine how much it may move after? Check the options market.",
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades. Major buys include: 15,000 shares of Bloom Energy, $BE 10,000 shares of Intel, $INTC"
+      "BREAKING: Look at this. On April 7, the same day Trump announced a ceasefire in the Iran war. His investment accounts, ON THAT SAME DAY, sold $1 million of ExxonMobil, $XOM.",
+      "BREAKING: Look at this. On June 23, Trump bought $50,000 of SpaceX, $SPCX. That EXACT SAME DAY, NASA awarded a $425.6 million contract to SpaceX.",
+      "\"The AI boom has echoes of Enron,\" per BI"
     ],
-    "generated_at": "2026-08-26T23:52:42.490679+00:00"
+    "generated_at": "2026-08-27T17:06:35.049350+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

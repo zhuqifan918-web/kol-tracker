@@ -1,5 +1,208 @@
 [
   {
+    "tweet_id": "2093020214518546622",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this.\n\nOn April 7, the same day Trump announced a ceasefire in the Iran war.\n\nHis investment accounts, ON THAT SAME DAY, sold $1 million of ExxonMobil, $XOM.\n\nXOM closed at $163.91 that day, then opened 6.5% lower at $153.52 the following morning.\n\nUnusual",
+    "tweet_url": "https://x.com/unusual_whales/status/2093020214518546622",
+    "published_at": "2026-08-27T16:58:00+00:00",
+    "fetched_at": "2026-08-27T17:06:06.276412+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "XOM"
+      ],
+      "direction": "bearish",
+      "summary": "该推文暗示特朗普在宣布伊朗停火当天，其投资账户抛售了100万美元的埃克森美孚股票，随后该股次日开盘大跌6.5%，可能涉及内幕交易或利用信息优势获利，对XOM构成负面影响。",
+      "translation": "重大新闻：看看这个。4月7日，就在特朗普宣布伊朗战争停火的同一天，他的投资账户在当天卖出了100万美元的埃克森美孚股票，$XOM。当天XOM收于163.91美元，次日开盘报153.52美元，低开6.5%。不同寻常。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2093014569279189295",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE earnings just got released:\n\n$1.2 billion revenue opportunity pipeline growth up 268% from December (incredible growth). \n\nLast ER: $799M (this was a surprise, likely linked to Jabil)\n\nJuly 2026: ~$1.2B (hinting more either more customer engagements than what's announced or larger volume ramps within programs). \n\n\"Sivers continued to reallocate resources from NRE projects toward product ramp preparation. \n\nSivers expects the impact of this transition to become visible in Q4 2026 and accelerate through 2027 as multiple programs progress toward volume production.\"\n\nMakes sense on timelines. \n\nCurrent financials reflect a qualification-stage player before volume ramp: \n\n- $5.64M in revenue (reducing NRE activity, shifting to volume ramps soon) \n-$3.72M in adjusted EBITDA (what to look at given one-off charges, eg. social security accounting expense)\n\nKey thing to look at is earnings call in 30 minutes, very excited so far.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093014569279189295",
+    "published_at": "2026-08-27T16:35:34+00:00",
+    "fetched_at": "2026-08-27T17:05:19.925179+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了Sivers Semiconductors（SIVE）的财报，强调了其收入管道增长268%至12亿美元，并预计2026年Q4开始向量产过渡，2027年加速。尽管当前财务表现反映的是资格认证阶段，但调整后EBITDA亏损较小，整体前景积极，属于看涨信号。",
+      "translation": "SIVE财报刚刚发布：$12亿美元收入机会管道增长，自12月以来增长268%（令人难以置信的增长）。上次财报：$799M（这一意外可能关联Jabil）。2026年7月：约$12亿（暗示比已公布的有更多客户接触或更大的量产爬坡）。'Sivers继续将资源从NRE项目重新分配至产品量产准备。Sivers预计这一转变的影响将在2026年Q4显现，并在2027年随着多个项目进入量产而加速。'时间线上说得通。当前财务反映的是量产前的资质阶段：收入$5.64M（NRE活动减少，即将转向量产），调整后EBITDA为-$3.72M（考虑到一次性费用，如社会保障会计费用）。关键是30分钟后的财报电话会议，目前非常兴奋。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093009896887230705",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Scott Bessent wants to lower US borrowing costs but the bond market has other ideas,\" per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2093009896887230705",
+    "published_at": "2026-08-27T16:17:00+00:00",
+    "fetched_at": "2026-08-27T17:06:07.959397+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条消息讨论美国财政部长贝森特试图降低政府借贷成本，但债券市场走势相反，可能影响利率及股市估值，属于宏观经济面信息，无直接个股或行业指向。",
+      "translation": "据路透社报道，斯科特·贝森特希望降低美国的借款成本，但债券市场却另有想法。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092995048904560743",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Indians sent a record amount of money abroad in June to buy equity and debt, accelerating a trend among local investors to diversify their portfolios overseas, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2092995048904560743",
+    "published_at": "2026-08-27T15:18:00+00:00",
+    "fetched_at": "2026-08-27T17:06:11.966014+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "印度投资者在6月创纪录地向海外投资股票和债券，反映当地投资者加速分散投资组合的趋势，可能体现对海外市场的兴趣增加，但对具体资产方向无明显偏好。",
+      "translation": "据彭博社报道，印度人在6月份将创纪录的资金汇往海外购买股票和债券，加速了当地投资者分散投资组合至海外的趋势。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092979697777041827",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Oracle’s, $ORCL, default risk hits record, passes 2008, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2092979697777041827",
+    "published_at": "2026-08-27T14:17:00+00:00",
+    "fetched_at": "2026-08-27T17:06:15.151373+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ORCL"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出甲骨文公司的违约风险已升至历史高位，甚至超过2008年金融危机时期，这表明市场对其财务健康状况的担忧加剧，可能对股价构成压力。",
+      "translation": "甲骨文公司的违约风险创下历史新高，超过了2008年金融危机期间的水平，据彭博社报道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092974916253413504",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Debasement trade to take bitcoin to $300,000 in three years, Bernstein has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2092974916253413504",
+    "published_at": "2026-08-27T13:58:00+00:00",
+    "fetched_at": "2026-08-27T17:06:16.976749+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC"
+      ],
+      "direction": "bullish",
+      "summary": "伯恩斯坦分析师预测比特币将在三年内达到30万美元，理由是\"贬值交易\"（debasement trade）逻辑，即法定货币贬值推动投资者转向比特币等硬资产。这对比特币价格构成看多信号。",
+      "translation": "伯恩斯坦表示，贬值交易将在三年内将比特币推至30万美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092954532372250872",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The AI boom has echoes of Enron,\" per BI",
+    "tweet_url": "https://x.com/unusual_whales/status/2092954532372250872",
+    "published_at": "2026-08-27T12:37:00+00:00",
+    "fetched_at": "2026-08-27T17:06:20.610978+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用商业内幕的报道，将当前人工智能热潮与安然公司相提并论，暗示可能存在泡沫或欺诈风险，对AI相关投资持谨慎或看空态度。",
+      "translation": "据商业内幕报道，人工智能热潮有安然的影子。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092939432144052593",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan has said that there may be a large-scale food supply crisis in the next year.",
+    "tweet_url": "https://x.com/unusual_whales/status/2092939432144052593",
+    "published_at": "2026-08-27T11:37:00+00:00",
+    "fetched_at": "2026-08-27T17:06:24.510657+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通警告未来一年可能发生大规模食品供应危机，这属于宏观基本面风险，可能影响农业、食品及相关大宗商品板块，但不涉及具体标的，方向偏空。",
+      "translation": "摩根大通表示，未来一年可能发生大规模食品供应危机。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092923803391172908",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Trump administration is considering a new ​round of sweeping tariffs on semiconductors, per Politico",
+    "tweet_url": "https://x.com/unusual_whales/status/2092923803391172908",
+    "published_at": "2026-08-27T10:34:54+00:00",
+    "fetched_at": "2026-08-27T17:06:27.948945+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "特朗普政府考虑对半导体征收新关税，这可能对半导体行业及相关股票构成负面影响，增加成本并扰乱供应链。投资者需关注该政策动向，可能引发板块短期波动。",
+      "translation": "突发：据Politico报道，特朗普政府正在考虑对半导体实施新一轮大规模关税。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092845125282009430",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Serenity, how bullish are you on memory after last nights NVDA call?\nWhich names tradable in the US do you prefer ? Is there anything beyond $SNDK $MU $WDC",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092845125282009430",
+    "published_at": "2026-08-27T05:22:15+00:00",
+    "fetched_at": "2026-08-27T17:05:30.946970+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "SNDK",
+        "MU",
+        "WDC"
+      ],
+      "direction": "bullish",
+      "summary": "该推文询问对内存股的看涨程度，提及英伟达财报，并列举了闪迪、美光、西部数据等美股标的，整体情绪偏乐观，但未明确给出交易建议。",
+      "translation": "@aleabitoreddit Serenity，在昨晚英伟达财报电话会后，你对内存股的看涨程度有多高？你更偏好哪些在美国可交易的标的？除了$SNDK、$MU、$WDC之外，还有其他的吗？",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2092789800428622128",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
