@@ -1,5 +1,144 @@
 [
   {
+    "tweet_id": "2093466404670636173",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "In the monthly retail sales report, spending at sporting goods, hobby, musical instruments and book stores rose 15% in June from a year earlier, outpacing almost every other category tracked.\n\nRead more: https://t.co/YLX8uWsm1c",
+    "tweet_url": "https://x.com/unusual_whales/status/2093466404670636173",
+    "published_at": "2026-08-28T22:31:00+00:00",
+    "fetched_at": "2026-08-28T23:18:19.963948+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国6月零售销售数据显示体育用品、爱好、乐器及书店类支出同比增长15%，远超其他零售类别，表明消费者在这些领域的消费强劲，可能对相关零售商和消费股构成利好。",
+      "translation": "在月度零售销售报告中，6月份体育用品、爱好、乐器和书店的支出同比增长15%，超过了几乎所有其他跟踪类别。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093458099873165766",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The SEC has opened an inquiry into how Wall Street’s biggest prime brokers financed one of the most leveraged AI trades of the cycle\n\nRead more: https://t.co/s67GsISNZV",
+    "tweet_url": "https://x.com/unusual_whales/status/2093458099873165766",
+    "published_at": "2026-08-28T21:58:00+00:00",
+    "fetched_at": "2026-08-28T23:18:22.892970+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国SEC对华尔街大型主要经纪商在高杠杆AI交易中的融资行为展开调查，这可能引发监管风险，对AI相关股票和杠杆交易活动产生影响。",
+      "translation": "美国证券交易委员会已就华尔街最大的主要经纪商如何为这个周期中杠杆率最高的AI交易之一提供融资展开调查。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093404251645005945",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Next week's $MSFT 510 strike calls saw big flow yesterday as seen here... up over 100% today!\n\nCatch the latest big flows on Unusual Whales, and tune into our weekly streams: \nhttps://t.co/D04dQ5y0jC https://t.co/EjF6fiy5ho",
+    "tweet_url": "https://x.com/unusual_whales/status/2093404251645005945",
+    "published_at": "2026-08-28T18:24:01+00:00",
+    "fetched_at": "2026-08-28T23:18:31.139109+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出微软（MSFT）的510美元行权价看涨期权出现了大量资金流入，且价格当日上涨超过100%，暗示市场对微软短期走势持乐观态度。推文还推广了Unusual Whales平台，用于追踪类似的大额期权流动。",
+      "translation": "下周到期的$MSFT 510行权价看涨期权昨日出现了大量资金流入，今日上涨超过100%！在Unusual Whales上捕捉最新的大额流动，并收听我们的每周直播：https://t.co/D04dQ5y0jC https://t.co/EjF6fiy5ho",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093402231773028432",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Chevron and other U.S. energy companies are nearing deals to invest billions of dollars in Venezuela’s oil fields, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2093402231773028432",
+    "published_at": "2026-08-28T18:16:00+00:00",
+    "fetched_at": "2026-08-28T23:18:34.694685+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CVX"
+      ],
+      "direction": "bullish",
+      "summary": "雪佛龙等美国能源公司即将达成在委内瑞拉油田投资数十亿美元的交易，这将直接利好相关能源公司的未来产量和利润，对雪佛龙股价构成正面影响。",
+      "translation": "据《华尔街日报》报道，雪佛龙和其他美国能源公司即将达成在委内瑞拉油田投资数十亿美元的交易。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093387383748301193",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "General Mills has announced that it has officially removed artificial colors from all its cereals in the U.S.",
+    "tweet_url": "https://x.com/unusual_whales/status/2093387383748301193",
+    "published_at": "2026-08-28T17:17:00+00:00",
+    "fetched_at": "2026-08-28T23:18:38.633648+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GIS"
+      ],
+      "direction": "bullish",
+      "summary": "通用磨坊宣布在美国所有谷物产品中正式去除人工色素，显示公司顺应健康消费趋势，可能提升品牌形象和产品竞争力，对股价有潜在积极影响。",
+      "translation": "通用磨坊宣布已正式从美国所有谷物产品中去除人工色素。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093377569177612548",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "SoftBank is seeking a $10 billion loan as it looks for more funding to help refinance debt used for its investment in OpenAI, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2093377569177612548",
+    "published_at": "2026-08-28T16:38:00+00:00",
+    "fetched_at": "2026-08-28T23:18:41.168662+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "软银寻求100亿美元贷款以再融资其投资OpenAI的债务，反映其资金需求及对AI领域的持续投入。该消息可能影响市场对软银及AI板块的情绪，但未直接提及具体上市公司，投资相关性中等。",
+      "translation": "据彭博社报道，软银正在寻求一笔100亿美元的贷款，以寻求更多资金帮助再融资其投资OpenAI所使用的债务。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093367503548297222",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US corporate profits have hit a record, but as worker payouts have decreased to the lowest level since the 1950s, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2093367503548297222",
+    "published_at": "2026-08-28T15:58:00+00:00",
+    "fetched_at": "2026-08-28T23:18:43.973499+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美国企业利润创历史新高，但劳动者报酬占比降至1950年代以来最低，反映利润与工资分配失衡，可能影响消费与经济持续性，对整体市场影响偏中性但需关注结构性风险。",
+      "translation": "据《金融时报》报道，美国企业利润创下历史新高，但劳动者报酬占比已降至1950年代以来的最低水平。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093301820043268367",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -333,6 +472,27 @@
       "summary": "该消息提到英伟达将成立员工出资的政治行动委员会，属于公司治理层面的新闻，不直接影响其股价或运营基本面，因此对投资影响偏中性。",
       "translation": "据路透社报道，英伟达（$NVDA）将成立一个由员工出资的美国政治行动委员会。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093029365659402299",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Next week $MSFT 510c popped here https://t.co/UBGVVGU97p",
+    "tweet_url": "https://x.com/unusual_whales/status/2093029365659402299",
+    "published_at": "2026-08-27T17:34:22+00:00",
+    "fetched_at": "2026-08-28T23:18:32.887575+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "推特提到微软的看涨期权在短期内大幅上涨，暗示交易者看好微软股价走势，可能意味着即将上涨或波动加大。",
+      "translation": "下周$MSFT 510美元的看涨期权在这里暴涨 https://t.co/UBGVVGU97p",
+      "confidence": "medium"
     }
   },
   {
@@ -1052,6 +1212,28 @@
       "direction": "bullish",
       "summary": "该推文强调投资者对SIVE股票的需求旺盛，并提及Saxo Japan上市及公司即将发布的财报和纳斯达克上市计划，总体情绪乐观，看好该激光公司前景。",
       "translation": "我非常喜欢这么多人要求$SIVE，以至于Saxo Japan特意将其上市！这充分显示了市场对这家激光公司的需求。特别感谢Saxo。当然，也对Sivers即将公布的财报和纳斯达克上市计划感到兴奋。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2092492550515122622",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Thoughts on this 1.9x P/E memory company: (annualized off recent ER)\n\nSpent a lot of time going through the memory stack for new $SNDK style names because cascading structural shortages from HBM/DDR5 into DDR4/DDR3/DDR2.  \n\nESMT at $2.5B MC caught my interest.\n\nHere's a note from my high-level thoughts/research on this name:\n\nJuly's (1 month) earnings were:\n- $212.8M revenue / $109.5M (net income, +- few M depending on FX)\n\nAnnualized that's: $1.314B net income/year off a $2.5B MC, so 1.9x July runrate P/E.\n\n- Cash on hand: $455.7M (~$395.9M net cash)\n- $943.5M assets\n- $249.6M inventory, $146.3M receivables\n- $596.0M book equity\n\nThey ~$359.6M net income in the first seven months of 2026, and it's accelerated to ~$109.5M a month net income. \n\nWhat's even more interesting is Winbond is gradually withdrawing from DDR2 (June Trendforce report), which should give increased leverage to ESMT H2 (with price forecasts of DDR2 being 35-40% Q3)\n\nWhat's not disclosed is wafer allocations from PSMC and possible risk is margin decrease due to upstream wafer hikes. \n\n(You can think of an analogy like Kioxia: PSMC, ESMT: Sandisk, but without ownership)\n\nPSMC did raise DRAM wafer-start prices about 45% (started in July, maybe shows up Nov/Dec) and ESMT said H2 margins could slip due to wafers having a higher cost.\n\nSo wanted to look at the bear case, and do some speculative napkin math wafer calculations based on their \"2026 wafer capacity is roughly unchanged from 2025 and only satisfies ~60–70% of customer demand\" claims\n\nNapkin math: \n\nESMT did ~NT$13.5B revenue in 2024 at near 0 profitability, so monthly COGS was ~$30M, of which wafers might be $20M. \n\nA 45% hike on that base gets you somewhere around ~$9M/month headwind. \n\nFor a harsher stress test, using Q2's ~31.3% COGS/revenue ratio as a proxy for July, July's $212.8M rev would imply roughly $66.6M of monthly COGS.\n\nIf  100% of that were exposed to the +45% DRAM wafer repricing: would imply roughly a $30M/month pretax headwind\n\n-> net income would fall to $85M/month, or about 2.45× annualized P/E (which is still pretty impressive)\n\nFun thing is July's net income report was only because TWSE forced a supplemental disclosure after abnormal trading. \n\nSo, with Winbond winding down their segments, and DRAM est. going up Q/Q, signals point to ESMT maintaining similar profitability levels. There's DDR3 and others as main exposure, but DDR4 hikes trickles down the stack. \n\nRevenue growth looks like:\n\nFeb 2026: $65.6M\nMarch: $95.1M\nApril: $145.3M\nMay: $140.3M\nJune: $152.2M\nJuly: $212.8M\n\nJan–July as a whole:\n~$879M revenue\n~$360M net income\n\nBut the issue most of the times is durability:\n\nThere's going to be folks saying \"oh it's just July, look at TTM\" but each quarter legacy DRAM keeps getting hiked, and there's further hikes ahead (so TTM is the wrong way to go), but maybe $100m+ net income a month is an anomaly, we'll see what other earnings are. \n\nOut of the Teamgroup/Apacer/ADATA/Innodisk/Etron type names I looked at that actually can maintain pricing power as well (and not just flipping inventory).\n\nFelt like ESMT was the winner of the bunch (where cash just keeps flowing into balance sheet) given wafer allocations and an substantial increase in gross profit.\n\nAnd durable are earnings + the shortage?\n\n- “DDR4 / LPDDR4 structural supply gap remains evident through 2028 and onward\" Winbond's May 2026 investor presentation (which supports further cascading)\n\nWinbond had characterized DDR4/DDR3 as having ongoing structural supply gaps with \"no near-term resolution\"\n\n- TrendForce says OEMs unable or unwilling to secure DDR4 are redesigning/down-specing into DDR3, which then forces DDR3 users toward DDR2\n\n- There's not much coverage or players in DDR2 despite its importance now... which is appreciated.  \n\nTLDR:\n\n- $2.5B company with $943M in assets, ~$395M net cash\n- $110M net income a month in July, 1.9x annualized July P/E\n- Even in a bear case where earnings are unsustainable, reverting monthly net income back to $55m, would give it a 3.8x P/E. \n- Winbond withdrawing from DDR2 markets helps earnings\n- Same bear case like every other memory if earnings can persist, but industry sees further tightened supply in 2027. \n\n*disclosure, have positions, NFA, not an investment recommendation. \n\nHope others find this interesting, I'll be tracking DDR4/DDR3/DDR2 trends to see how this plays out.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092492550515122622",
+    "published_at": "2026-08-26T06:01:15+00:00",
+    "fetched_at": "2026-08-28T23:17:48.278834+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ESMT",
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "该推文详细分析了记忆体公司ESMT的投资价值，指出其7月年化市盈率仅为1.9倍，尽管存在晶圆成本上升的潜在风险，但即使压力测试后仍具吸引力。同时，行业结构性短缺（如Winbond退出DDR2）预计将支撑盈利持续性，整体观点偏乐观。",
+      "translation": "",
       "confidence": "high"
     }
   },
