@@ -5,47 +5,43 @@
       "AAOI",
       "LITE",
       "NVDA",
-      "MTSI"
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈",
+      "光子学与激光瓶颈",
       "内存超级周期",
-      "CPO技术普及",
-      "供应链紧俏",
-      "中国竞争"
+      "AI基础设施需求"
     ],
-    "recent_shift": "近期观点从广泛AI供应链转向更具体的光子学瓶颈和内存机会，表现出对特定环节的强烈信心。",
+    "recent_shift": "从内存转向光子学，依然保持乐观",
     "representative_quotes": [
-      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.",
-      "Among all the potential photonics companies this is the very last on the list.",
-      "Yeah... We'll see what happens in 2027. I think I'm putting my money on Jensen/Nvidia as the leading indicator."
+      "I think Sivers is going to cook after connecting the dots.",
+      "Nvidia earnings just reaffirms what we know about extreme demand since commitments went from $119B -> $279B largely driven by memory procurement.",
+      "CW laser scarcity is already happening before the main volume ramp even begins..."
     ],
-    "generated_at": "2026-08-28T01:36:38.331330+00:00"
+    "generated_at": "2026-08-28T13:34:18.551039+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "BE",
-      "INTC",
-      "MRNA",
-      "COIN"
+      "TRUMP",
+      "BA",
+      "XOM",
+      "MRNA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技股财报超预期",
-      "政治人物股票交易与利益冲突",
-      "市场流动性与债券回购",
-      "加密货币与比特币前景",
-      "贸易战与关税政策"
+      "AI与科技股",
+      "地缘政治与贸易",
+      "市场风险"
     ],
-    "recent_shift": "近期关注焦点从单纯的财报转向政治事件对市场的影响，并强调期权流和工具的使用。",
+    "recent_shift": "",
     "representative_quotes": [
       "This is not a memecoin. This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "Debasement trade to take bitcoin to $300,000 in three years, Bernstein has said."
+      "Debasement trade to take bitcoin to $300,000 in three years, Bernstein has said.",
+      "JPMorgan strategist Jason Hunter flagged that the bank sees growing risks of a late-summer or early-autumn market downturn despite major indexes remaining in bullish trends"
     ],
-    "generated_at": "2026-08-28T01:36:41.793718+00:00"
+    "generated_at": "2026-08-28T13:34:20.745027+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

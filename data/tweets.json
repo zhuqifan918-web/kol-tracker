@@ -1,5 +1,132 @@
 [
   {
+    "tweet_id": "2093301820043268367",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Stocks would fall over 10%\" if Democrats take the Senate,\" per Bank of America's Hartnett",
+    "tweet_url": "https://x.com/unusual_whales/status/2093301820043268367",
+    "published_at": "2026-08-28T11:37:00+00:00",
+    "fetched_at": "2026-08-28T13:33:59.286894+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国银行策略师哈特奈特表示，如果民主党掌控参议院，股市可能下跌超过10%。这反映了政治变化对市场的潜在负面影响，投资者需关注选举结果带来的风险。",
+      "translation": "据美国银行的哈特奈特称，如果民主党掌控参议院，股市将下跌超过10%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093265972207718782",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Are Frontier lab relative valuations are too absurd nowadays?\n\nIf Anthropic IPOs at $2T… 10% of that can buy up almost every major established consumer brand:\n\nFrom: \n\nTaco Bell/Pizza Hut/KFC, GAP, American eagle, Levi’s, Victoria’s Secret, Cheesecake Factory, Krispy Kreme…\n\nCalvin Klein, Kohls, AMC, Kura Sushi, Dennys, Nike, Build a Bear, Jack in the Box, IHOP, Papa John’s…\n\nShake Shack, Apple Bees, Dave & Busters, Under Armour, Petco, Canada Goose.\n\nAll together. Using 10% of Anthropic.\n\nAnd they’d still have $51.6B leftover.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093265972207718782",
+    "published_at": "2026-08-28T09:14:33+00:00",
+    "fetched_at": "2026-08-28T13:32:50.841331+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文通过对比Anthropic的潜在IPO估值与众多知名消费品牌的市值，暗示前沿实验室（如Anthropic）的估值可能过高。推文未明确推荐买卖，但表达了对AI公司估值泡沫的担忧。",
+      "translation": "前沿实验室的相对估值现在是不是太荒谬了？如果Anthropic以2万亿美元IPO……其中10%就可以买下几乎所有主要的成熟消费品牌：从塔可钟/必胜客/肯德基、GAP、American Eagle、Levi's、维多利亚的秘密、Cheesecake Factory、Krispy Kreme……Calvin Klein、Kohl's、AMC、Kura寿司、Denny's、Nike、Build-A-Bear、Jack in the Box、IHOP、Papa John's……Shake Shack、Applebee's、Dave & Buster's、Under Armour、Petco、Canada Goose。全部加在一起，用Anthropic的10%就够了，而且还能剩下516亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093252439973777674",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "所以… 回到存储这边我们现在有：\n\n$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”\n\n$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%.\n\n$NVDA 表示 供应承诺从 1,190 亿美元增加到 2,790 亿美元，主要由存储采购推动…与此同时, 存储定价处于“极端”水平 而且还在继续上涨.\n\nWinbond 正在与多家客户就延伸至 2029-2030 年的配额展开讨论.\n\n我之前就说过, 存储需求看起来是结构性的, 而现在从传统 DRAM 到 HBM，需求可见度已经延伸到了未来数年..\n\n所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093252439973777674",
+    "published_at": "2026-08-28T08:20:47+00:00",
+    "fetched_at": "2026-08-28T13:32:56.974699+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHY",
+        "SNDK",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文引用多家存储芯片公司（SK Hynix、SanDisk、Nvidia、华邦电子）的高管言论，表明存储芯片（DRAM、NAND、HBM）需求强劲且短缺将持续至2030年，价格处于极端水平并继续上涨。作者认为该板块的远期市盈率有进一步上升空间，整体观点看多。",
+      "translation": "所以……回到存储这边，我们现在有：$SKHY CEO表示：“我们预计[存储]短缺将持续到2030年底”。$SNDK表示：“我们看到直到2030年，NAND都存在结构性的巨大需求”，非GAAP毛利率将维持在约80%。$NVDA表示供应承诺从1190亿美元增加到2790亿美元，主要由存储采购推动……与此同时，存储定价处于“极端”水平而且还在继续上涨。华邦电子正在与多家客户就延伸至2029-2030年的配额展开讨论。我之前就说过，存储需求看起来是结构性的，而现在从传统DRAM到HBM，需求可见度已经延伸到了未来数年……所以我确实认为，整个板块的远期市盈率倍数都有进一步上升的机会。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093230562261823905",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Here's the angle I'm looking at $SIVE at: \n\nCompanies/CSPs have been going out of their way way to lock up any qualified CW laser capacity for optical transceivers. \n\nSo now, Sivers is coming into the industry with:\n\n- Large capacity from Win Semi\n- \"tremendous capacity that is available now\" from a new foundry (likely qualifications since 2024) since it's engaged \"for a while\"\n\nAnd what excited me from this earnings was the \"6 pluggable/module\" engagements (which is an enormous amount).\n\nThe nuance I'm reading is: \n\n- $COHR said it sees no near term ability to sell InP lasers externally because internal transceiver demand consumes all available\n- $AAOI said the same about consuming laser capacity internally (wasn't a major merchant supplier before though).\n- $LITE has been bottlenecked and been buying lasers off the open market \n\nYour previous merchant players rerouted laser capacity internally. \n\nSo a lot of the bigger names (eg. Eoptolink/Innolight as just a random example) are probably looking to source more lasers. \n\nAnd that kinda matches the quote \"capable of very rapid qualification and ramp\" (which would not match Series B startup)...\n\nLot of people are asking why aren't there LTAs to 2030 then? \n\n-> You can't just randomly escape the qualification process that established players have already completed. \n\nWhy aren't the customers disclosed?\n\nAnd as seen with the $MRVL + $POET engagement, you can't just disclose the vendors you're working with.\n\nBut the \"$1.2B opportunity pipeline\" almost doubled  relative to the jump of $JBL + $GFS. So it's signals that the new pluggable engagements might be pretty substantial relative to Jabil. \n\nSo if $SIVE comes along with enormous amounts of  CW DFB laser capacity during a supply shortage...\n\nThe  industry conditions have changed in a major way that increases conversion rates of engagements. \n\nAnd with the sheer size from all your ~est. customers jabil, globalfoundries, poet, aeva, lightium, ayar, (maybe lightmatter, celestial, lightelligence), 6 other pluggable players, and others. \n\nI think Sivers is going to cook after connecting the dots.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093230562261823905",
+    "published_at": "2026-08-28T06:53:51+00:00",
+    "fetched_at": "2026-08-28T13:33:24.605736+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "COHR",
+        "AAOI",
+        "LITE",
+        "MRVL",
+        "POET",
+        "JBL",
+        "GFS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强烈看好Sivers（SIVE），认为其在CW激光器供应短缺中拥有大量产能，并新增六个可插拔模块客户，有望大幅提升营收，因此预期股价将上涨。",
+      "translation": "我在看的$SIVE的角度是：\n\n公司/CSP一直不遗余力地锁定用于光收发器的合格CW激光器产能。\n\n所以现在，Sivers带着以下优势进入行业：\n\n- 来自Win Semi的大量产能\n- 来自新代工厂的'现在可用的巨大产能'（很可能自2024年以来一直在认证中），因为它已经'一段时间'参与了\n\n而让我对这次财报感到兴奋的是'6个可插拔/模块'的接洽（这是一个巨大的数量）。\n\n我读出的微妙之处是：\n\n- $COHR表示，短期内无法对外销售InP激光器，因为内部收发器需求消耗了所有可用产能\n- $AAOI也表示了同样的意思（虽然之前并不是主要的商业供应商）\n- $LITE一直受限于瓶颈，并在公开市场上购买激光器\n\n你之前的商业玩家将激光器产能转移到内部。\n\n所以很多大公司（例如，Eoptolink/Innolight作为随机例子）可能正在寻找更多激光器来源。\n\n而这与'能够非常快速地进行认证和爬坡'的说法相符（这不会匹配一个B轮初创公司）...\n\n很多人问为什么到2030年没有LTA？\n\n-> 你不能随意绕过现有玩家已经完成的认证流程。\n\n为什么客户没有披露？\n\n正如$MRVL和$POET的合作所看到的，你不能随便披露你正在合作的供应商。\n\n但是'$1.2B机会管道'相对于$JBL + $GFS的增长几乎翻了一番。所以这标志着新的可插拔接洽可能相对于Jabil相当可观。\n\n所以如果$SIVE在供应短缺期间带来大量的CW DFB激光器产能...\n\n行业状况已经发生了重大变化，这提高了接洽的转化率。\n\n而且凭借你所有~估计的客户的规模——Jabil、GlobalFoundries、Poet、Aeva、Lightium、Ayar（也许还有Lightmatter、Celestial、Lightelligence）、6个其他可插拔玩家等等。\n\n我认为Sivers在理清这些线索之后将会大放异彩。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093216965842162028",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Trump administration must lift its ban on Anthropic's artificial intelligence technology for federal agencies, a US judge ruled, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2093216965842162028",
+    "published_at": "2026-08-28T05:59:49+00:00",
+    "fetched_at": "2026-08-28T13:34:01.704522+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国法官裁定特朗普政府必须解除对Anthropic人工智能技术在联邦机构使用的禁令，这有利于Anthropic及其相关AI行业，可能提振AI板块投资情绪。",
+      "translation": "突发：据彭博社报道，美国法官裁定特朗普政府必须解除对Anthropic人工智能技术在联邦机构使用的禁令。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093165169765458392",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wages and salaries are at roughly 43% of U.S. gross domestic income in the first quarter of 2026, the lowest since the Great Depression began, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2093165169765458392",
+    "published_at": "2026-08-28T02:34:00+00:00",
+    "fetched_at": "2026-08-28T13:34:04.509273+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出美国工资和薪金占国内总收入的比例降至43%，为上世纪大萧条以来的最低水平，反映劳动者收入份额下降，可能抑制消费并拖累经济，对市场整体构成利空。",
+      "translation": "工资和薪金占美国国内总收入的比例在2026年第一季度约为43%，为自大萧条开始以来的最低水平，据YF报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093130193418567884",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
