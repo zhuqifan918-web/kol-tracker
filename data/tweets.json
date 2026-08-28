@@ -1,5 +1,214 @@
 [
   {
+    "tweet_id": "2093130193418567884",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @snorlax_uw: GEX heatmap update frequency has been increased significantly: near second-to-second updates\n\nhttps://t.co/lLnigf3NDB\n\nhttps://t.co/AxY1es8Byd https://t.co/jVFBQ9TthW",
+    "tweet_url": "https://x.com/unusual_whales/status/2093130193418567884",
+    "published_at": "2026-08-28T00:15:01+00:00",
+    "fetched_at": "2026-08-28T01:35:25.024768+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及GEX热力图更新频率显著提升至近秒级，表明市场情绪指标数据更加实时，有助于投资者更及时地追踪市场动态，但未直接给出买卖建议。",
+      "translation": "RT @snorlax_uw: GEX热力图更新频率已显著提高：接近每秒更新。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093127700223267144",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "GEX heatmap update frequency has been increased significantly: near second-to-second updates\n\nhttps://t.co/8HmNcJEtUB\n\nhttps://t.co/SgtQedCuEx https://t.co/zxlfln9CCr",
+    "tweet_url": "https://x.com/unusual_whales/status/2093127700223267144",
+    "published_at": "2026-08-28T00:05:06+00:00",
+    "fetched_at": "2026-08-28T01:35:30.354288+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布GEX热力图更新频率大幅提高，接近每秒更新，这对于依赖实时期权仓位数据的交易者可能提升决策时效性，但未直接给出交易建议。",
+      "translation": "GEX热力图更新频率已大幅提高：接近每秒更新",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093096506811199821",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump: Nvidia, $NVDA, just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028.\n\nCongratulations to Jensen Huang on these incredible numbers, and the Company’s Great Success. Only in America! https://t.co/01HwTodJAn",
+    "tweet_url": "https://x.com/unusual_whales/status/2093096506811199821",
+    "published_at": "2026-08-27T22:01:09+00:00",
+    "fetched_at": "2026-08-28T01:35:40.734994+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普转发了英伟达创纪录的962亿美元销售额，并预测2028年营收将增长70%，这是一个非常积极的信号，表明英伟达增长强劲，对投资者构成利好。",
+      "translation": "突发新闻：特朗普：英伟达刚刚宣布创纪录的962亿美元销售额，预测2028年营收将增长70%。祝贺黄仁勋取得这些惊人的数字，以及公司的巨大成功。只有在美国！",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093087267594314182",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as primary ramp (with H1 2027 timeline)\n- ELS path with O-Net\n- ELS path with $POET \n- Lasers to Ayar for CPO I/O (now in $NVDA nvlink ecosystem)\n- Lasers for $AEVA (which now has NPO agreements with optical engine providers for hyperscalers)\n- Celestial/Lightmatter/Lightelligence (likely customers in 2023/2024)\n- InP lasers on TFLN with Lightium\n\nThen it has 2 substantial allocations for CW DFB laser capacity during an industry shortage. \n\nAs well as one of the few CPO-grade laser suppliers out in the industry. \n\nLet me know what other player around this range has so many ongoing qualifications, a large TAM, and in photonics. \n\n$SIVE is the #1 for me in terms of MC relative to qualifications paths across the industry.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093087267594314182",
+    "published_at": "2026-08-27T21:24:26+00:00",
+    "fetched_at": "2026-08-28T01:34:02.996536+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "GFS",
+        "JBL",
+        "POET",
+        "NVDA",
+        "AEVA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强烈看涨$SIVE，认为其作为光子学公司，在AI数据中心领域拥有多项认证和合作（如与GFS、JBL、POET、Aeva等），且产能扩张，市场空间大，当前市值相对于其资格路径被低估。",
+      "translation": "天哪，$SIVE是我见过的最不寻常的10亿美元光子学公司。仅就AI数据中心而言：- 为$GFS SCALE提供参考激光器（CPO/NPO/可插拔）- 披露了7项可插拔合作，$JBL是主要推动者（时间线为2027年上半年）- 与O-Net的ELS路径- 与$POET的ELS路径- 为Ayar提供用于CPO I/O的激光器（现在在$NVDA nvlink生态系统中）- 为$AEVA提供激光器（该公司现在与超大规模数据中心的光学引擎提供商有NPO协议）- Celestial/Lightmatter/Lightelligence（可能是2023/2024年的客户）- 与Lightium合作在TFLN上使用InP激光器。然后，在行业短缺期间，它有2个重要的CW DFB激光器产能分配。以及业内少数CPO级激光器供应商之一。告诉我这个范围内还有哪个玩家有这么多持续认证、巨大的TAM，并且在光子学领域。$SIVE对我来说是#1，就市值相对于整个行业的认证路径而言。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093081265041756202",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: $IREN earnings:\n\n- Revenue: $137 million, est: $135 million\n- EPS: -$0.61, est: -$2.04\n\nhttps://t.co/c0DtB2DyZ1",
+    "tweet_url": "https://x.com/unusual_whales/status/2093081265041756202",
+    "published_at": "2026-08-27T21:00:35+00:00",
+    "fetched_at": "2026-08-28T01:35:47.089778+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IREN"
+      ],
+      "direction": "bullish",
+      "summary": "IREN公布的季度营收略超预期，每股亏损远低于市场预期，显示公司业绩好于预期，可能对股价产生积极影响。",
+      "translation": "突发：$IREN 财报：- 营收：1.37亿美元，预期：1.35亿美元- 每股收益：-0.61美元，预期：-2.04美元",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093074069319254209",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "This is not a memecoin.\n\nThis is Nvidia, $NVDA, one of the most valuable companies in the world.\n\nIt finished the day up more than 8% after a double earnings beat. https://t.co/y8oAMZR6FP",
+    "tweet_url": "https://x.com/unusual_whales/status/2093074069319254209",
+    "published_at": "2026-08-27T20:32:00+00:00",
+    "fetched_at": "2026-08-28T01:35:51.373161+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出NVDA并非迷因币，而是全球最具价值的公司之一，在公布双超预期的财报后股价上涨超过8%，释放出强烈的看涨信号。",
+      "translation": "这不是迷因币。这是英伟达，$NVDA，全球最有价值的公司之一。在双重盈利超预期后，它今天收盘上涨超过8%。https://t.co/y8oAMZR6FP",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093067910650445889",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Marvell, $MRVL, earnings:\n\n- Revenue: $2.73 billion, est: $2.71 billion\n- EPS: $0.94. est: $0.93",
+    "tweet_url": "https://x.com/unusual_whales/status/2093067910650445889",
+    "published_at": "2026-08-27T20:07:31+00:00",
+    "fetched_at": "2026-08-28T01:35:53.607191+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "Marvell 财报超预期，营收和每股收益均高于市场预估，显示公司业绩向好，可能对股价有积极影响。",
+      "translation": "突发新闻：Marvell（$MRVL）财报：营收27.3亿美元，预估27.1亿美元；每股收益0.94美元，预估0.93美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093066300461314177",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Call your Nvidia, $NVDA. https://t.co/CG14w3MwNY",
+    "tweet_url": "https://x.com/unusual_whales/status/2093066300461314177",
+    "published_at": "2026-08-27T20:01:07+00:00",
+    "fetched_at": "2026-08-28T01:35:55.934461+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文号召读者关注并可能买入英伟达（NVDA）股票，暗示看涨情绪。",
+      "translation": "快给你的英伟达（NVDA）打电话。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2093059528166154480",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit Blah blah blah.... Among all the potential photonics companies this is the very last on the list.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093059528166154480",
+    "published_at": "2026-08-27T19:34:13+00:00",
+    "fetched_at": "2026-08-28T01:34:08.500629+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文对某光子学公司持负面态度，认为在所有潜在光子学公司中排名最后，但未指明具体公司。",
+      "translation": "等等等等....在所有潜在的光子学公司中，这家是最垫底的。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2093038471799546076",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, will start an ⁠employee-funded U.S. political ⁠action committee, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2093038471799546076",
+    "published_at": "2026-08-27T18:10:33+00:00",
+    "fetched_at": "2026-08-28T01:36:07.760661+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该消息提到英伟达将成立员工出资的政治行动委员会，属于公司治理层面的新闻，不直接影响其股价或运营基本面，因此对投资影响偏中性。",
+      "translation": "据路透社报道，英伟达（$NVDA）将成立一个由员工出资的美国政治行动委员会。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2093020214518546622",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -176,6 +385,32 @@
       "summary": "特朗普政府考虑对半导体征收新关税，这可能对半导体行业及相关股票构成负面影响，增加成本并扰乱供应链。投资者需关注该政策动向，可能引发板块短期波动。",
       "translation": "突发：据Politico报道，特朗普政府正在考虑对半导体实施新一轮大规模关税。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092851118233764178",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I've always been bullish on memory with $MU / Samsung / solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3 for the 2026-2027 period.  \n\nSame opinion, even after $NVDA call. \n\nAnd I've been fervently defending how high end memory demand is structural + OP for operating income (especially during Iran tensions around LNG/Helium). \n\nNvidia earnings just reaffirms what we know about extreme demand since commitments went from $119B -> $279B largely driven by memory procurement. \n\nNvidia's CFO also said: \"We are experiencing extreme pricing conditions in memory.\"\n\nAs for what I've done, H1 2026 I was extremely overweight in memory: \n\nWith $MU, $SNDK, Phison, $SIMO, Nanya, Macronix, Winbond, and $EWY / SK Hynix (HBM/DRAM + NAND + legacy DRAM/NAND + controllers + NOR Flash).\n\nI trimmed down those positions aside from Samsung/SK Hynix longs, since I do believe many have been rerated (eg. Micron $300 -> $1000+ already).\n\nI think the largest price discovery period has played out, but just a waiting game for the operating income to catch up (esp u samsung)\n\nAnd I used that period to go overweight on photonics. \n\nBut I do believe we're seeing a relatively newer cascade down into the \"legacy legacy\" memory like DDR2/DDR3 with the \"legacy\" players like Winbond leaving some of those segments.  \n\nWhere the price hikes finally hit the 40-60% Q/Q mark, which reminds me of the extreme $SNDK days, across  DDR2/DDR3.  \n\nWhich is why I started up positions in ESMT (1.9x P/E from July annualized) and Etron. \n\nMaybe we'll see a price discovery moment further down the legacy memory stack (could be wrong), but that's the area I've focused on recently.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092851118233764178",
+    "published_at": "2026-08-27T05:46:04+00:00",
+    "fetched_at": "2026-08-28T01:34:25.743723+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "NVDA",
+        "SNDK",
+        "SIMO",
+        "EWY",
+        "solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3"
+      ],
+      "direction": "bullish",
+      "summary": "作者长期看好内存行业，特别是三星和SK海力士，认为高端内存需求是结构性的，且Nvidia财报证实了内存的极度需求。作者已削减部分仓位，但近期关注DDR2/DDR3等传统内存市场的价格飙升，并开始建仓ESMT和Etron。整体立场偏多。",
+      "translation": "我一直看好内存，包括$MU、三星和solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3，看好2026-2027年期间。即使在$NVDA电话会议之后，我依然持同样观点。我一直在激烈捍卫高端内存需求是结构性的，并且对营业利润至关重要（尤其是在伊朗局势围绕LNG/氦气紧张时）。Nvidia的财报再次证实了我们已知的极端需求，因为承诺从1190亿美元增加到2790亿美元，主要由内存采购驱动。Nvidia的CFO也说：'我们正经历内存的极端定价条件。'至于我做了什么，2026年上半年我极度超配内存：包括$MU、$SNDK、Phison、$SIMO、Nanya、Macronix、Winbond以及$EWY/ SK海力士（HBM/DRAM + NAND + 传统DRAM/NAND + 控制器 + NOR Flash）。我削减了那些仓位，除了三星/SK海力士的多头，因为我相信许多股票已经被重新定价（例如美光从300美元涨到1000美元以上）。我认为最大的价格发现时期已经过去，但只是等待营业利润跟上（尤其是三星）。我利用那段时期超配光子学。但我确实相信我们正在看到相对较新的向下游蔓延到'传统中的传统'内存，如DDR2/DDR3，而像Winbond这样的'传统'玩家正在退出某些细分市场。价格涨幅最终达到环比40-60%的水平，这让我想起了$SNDK的极端时期，遍及DDR2/DDR3。这就是我开始建仓ESMT（7月年化市盈率1.9倍）和Etron的原因。也许我们会在传统内存堆栈的更深处看到价格发现时刻（可能我错了），但那是我最近关注的领域。",
+      "confidence": "high"
     }
   },
   {
@@ -48767,6 +49002,29 @@
       "summary": "用户提到AMD在网吧和特斯拉中广泛应用，并已购买3万股，表达强烈看多意愿。",
       "translation": "谁来让我清醒一下，想梭哈amd了。现在网吧清一色amd，特斯拉车机器芯片也是amd。夜盘干了3万股。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "1887019435422036045",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "孙割你但凡看一眼，兜里的钱都能少三块.\n孙割的火币链上资产孙割直接2-3折，\n孙割的p网直接下架还不给提币，强制你归零.\n买的gala孙割给你创新+p也直接归零.\n你敢开杠杆，哪怕再低倍数，直接半夜限制你登录，然后插针给你爆了.\n都是真实案例. https://t.co/gGFMiIqgXS",
+    "tweet_url": "https://x.com/xiaomustock/status/1887019435422036045",
+    "published_at": "2025-02-05T06:04:27+00:00",
+    "fetched_at": "2026-08-28T01:35:01.335132+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GALA",
+        "P",
+        "HT"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指控火币创始人孙宇晨（孙割）涉嫌操纵市场，导致其平台上的资产贬值、下架并限制提币，甚至通过插针爆仓等方式损害投资者利益，对相关加密货币和平台持强烈看空态度。",
+      "translation": "孙宇晨你但凡看一眼，兜里的钱都能少三块。孙宇晨的火币链上资产直接打2-3折，孙宇晨的P网（Poloniex）直接下架还不给提币，强制你归零。买的GALA孙宇晨给你创新+P也直接归零。你敢开杠杆，哪怕再低倍数，直接半夜限制你登录，然后插针给你爆了。都是真实案例。",
+      "confidence": "medium"
     }
   }
 ]
