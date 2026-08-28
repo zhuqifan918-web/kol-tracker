@@ -1,72 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
-      "NVDA",
+      "AAOI",
       "LITE",
-      "SNDK"
+      "NVDA",
+      "MTSI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学供应链瓶颈",
-      "AI基础设施投资",
-      "存储超级周期",
-      "激光器与CPO技术",
-      "人形机器人"
+      "光子学瓶颈",
+      "内存超级周期",
+      "CPO技术普及",
+      "供应链紧俏",
+      "中国竞争"
     ],
-    "recent_shift": "近期观点没有明显变化，保持对光学和存储瓶颈的看涨立场。",
+    "recent_shift": "近期观点从广泛AI供应链转向更具体的光子学瓶颈和内存机会，表现出对特定环节的强烈信心。",
     "representative_quotes": [
-      "The demand visibility... is just way too stupidly high.",
-      "Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in the next 3 years.",
-      "The entire optical supply chain was facing major shortages... the shortage will continue to the next few years."
+      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.",
+      "Among all the potential photonics companies this is the very last on the list.",
+      "Yeah... We'll see what happens in 2027. I think I'm putting my money on Jensen/Nvidia as the leading indicator."
     ],
-    "generated_at": "2026-08-27T17:06:37.903914+00:00"
+    "generated_at": "2026-08-28T01:36:38.331330+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "XOM",
       "NVDA",
+      "BE",
+      "INTC",
       "MRNA",
-      "COIN",
-      "BE"
+      "COIN"
     ],
-    "overall_bias": "bearish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "地缘政治风险与市场联动",
-      "人工智能泡沫风险",
-      "美国国债市场与财政政策",
-      "政治人物交易与利益冲突",
-      "贸易战与关税"
+      "AI与科技股财报超预期",
+      "政治人物股票交易与利益冲突",
+      "市场流动性与债券回购",
+      "加密货币与比特币前景",
+      "贸易战与关税政策"
     ],
-    "recent_shift": "近期观点转向更加关注政治人物交易与政策时点的巧合，以及对市场泡沫和债务风险的担忧加剧。",
+    "recent_shift": "近期关注焦点从单纯的财报转向政治事件对市场的影响，并强调期权流和工具的使用。",
     "representative_quotes": [
-      "BREAKING: Look at this. On April 7, the same day Trump announced a ceasefire in the Iran war. His investment accounts, ON THAT SAME DAY, sold $1 million of ExxonMobil, $XOM.",
-      "BREAKING: Look at this. On June 23, Trump bought $50,000 of SpaceX, $SPCX. That EXACT SAME DAY, NASA awarded a $425.6 million contract to SpaceX.",
-      "\"The AI boom has echoes of Enron,\" per BI"
+      "This is not a memecoin. This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
+      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
+      "Debasement trade to take bitcoin to $300,000 in three years, Bernstein has said."
     ],
-    "generated_at": "2026-08-27T17:06:35.049350+00:00"
+    "generated_at": "2026-08-28T01:36:41.793718+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SNDK",
       "MU",
-      "SK Hynix",
-      "MRVL",
-      "META"
+      "SKHynix",
+      "META",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片牛市",
-      "AI革命与美债危机",
-      "云厂商与AI基建投资"
+      "存储超级周期",
+      "AI算力与云厂投资",
+      "美债危机与避险资产",
+      "韩国存储股折价机会",
+      "CPU需求爆发"
     ],
-    "recent_shift": "从激进杠杆操作转向稳健配置SPY和QQQ，强调风险控制。",
+    "recent_shift": "近期从关注存储科技转向拥抱加密黄金和美债危机叙事，但仍长期看好存储和AI。",
     "representative_quotes": [
-      "如果机会足够伟大，绝对显而易见随时都能上车",
-      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。",
-      "打算以后长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手"
+      "人类往往高估了一年内的变化，同时也低估了10年后的变化。",
+      "市场是真不缺机会，更不缺黑天鹅。",
+      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。"
     ],
-    "generated_at": "2026-08-21T09:06:11.218417+00:00"
+    "generated_at": "2026-08-28T01:36:44.725984+00:00"
   }
 }
