@@ -26,26 +26,26 @@
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "COIN",
       "AAPL",
-      "BA",
-      "INTC"
+      "MSFT",
+      "COIN",
+      "MRNA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI和半导体行业的爆炸性增长",
-      "政治关联交易与利益冲突",
-      "加密资产和比特币的看涨前景",
-      "市场对经济数据与政策的高度敏感性",
-      "机构投资者行为和市场流动性"
+      "人工智能投资热潮与泡沫风险",
+      "政治事件对市场影响",
+      "通胀与利率环境",
+      "地缘政治风险",
+      "市场流动性与散户交易"
     ],
-    "recent_shift": "近期观点明显转向更加激进看涨，特别是对AI和加密资产，从关注风险转向强调增长机会。",
+    "recent_shift": "近期观点从关注人工智能进一步增长潜力转向担忧泡沫和风险，同时更强调政治不确定性对市场的影响。",
     "representative_quotes": [
-      "This is not a memecoin. This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "Debasement trade to take bitcoin to $300,000 in three years, Bernstein has said"
+      "Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
+      "The AI boom has echoes of Enron, per BI.",
+      "JPMorgan has said that there may be a large-scale food supply crisis in the next year."
     ],
-    "generated_at": "2026-08-29T19:01:50.839132+00:00"
+    "generated_at": "2026-08-29T21:51:17.132325+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

@@ -1,5 +1,48 @@
 [
   {
+    "tweet_id": "2093811019823132903",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Okay just to simplify this:\n\nThere is a guy who eats a lot called $NVDA. Nvidia only wants to buy high-priced potatos off the farmers.\n\nA potato farmer $MU, that was selling carrots... now shifted farmland to potatos. \n\nNvidia caused a great potato famine cause they can eat a lot. So everyone else who farmed carrots like SK Hynix and Samsung moved their farmland capacity to grow potato. \n\nBut... people still need to eat. And carrots are a healthy part of their everyday diet..\n\nNow there's no more carrots aside from a player like \"ESMT\", the legacy carrot farmer. \n\nSo now, because everyone buys carrots off ESMT, there's a shortage and the price goes up.\n\nSo ESMT needs more carrot seeds (from PSMC). But PSMC is running low on carrot seeds to grow the carrots. \n\nSo PSMC charges ESMT more for the seeds.\n\nBut the price ESMT sells the carrots at are much higher than what PSMC hikes the carrod seed price. \n\nnow... ESMT is making enough from selling carrots that it traded 1.9x P/E off July's earnings. \n\nCan ESMT keep selling these carrots through 2027?\n\nAll the other farmers thinks so since it's both hard + low incentive to migrate their valuable potato farms back to carrot farms.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093811019823132903",
+    "published_at": "2026-08-29T21:20:22+00:00",
+    "fetched_at": "2026-08-29T21:49:55.289513+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MU",
+        "ESMT",
+        "PSMC"
+      ],
+      "direction": "bullish",
+      "summary": "该推文以比喻方式分析存储芯片市场，认为因AI需求（NVDA）导致存储芯片产能转向HBM（土豆），传统DRAM（胡萝卜）供应紧张，利好专注DRAM的ESMT（推测为ESMT）及其代工厂PSMC，认为ESMT盈利可持续至2027年，并提及1.9倍市盈率，整体看多。",
+      "translation": "好的，简单解释一下：有个人很能吃，叫$NVDA。Nvidia只想从农民那里买高价的土豆。一个土豆农民$MU，之前卖胡萝卜，现在把农田改种土豆。Nvidia造成了土豆大饥荒，因为他们胃口很大。所以其他种胡萝卜的农民，比如SK海力士和三星，都把农田产能转向种土豆。但是……人们仍然需要吃饭。胡萝卜是他们日常饮食中健康的一部分。现在除了一个叫“ESMT”的传统胡萝卜农民外，已经没有胡萝卜了。所以，因为大家都从ESMT买胡萝卜，供应短缺，价格上涨。ESMT需要更多的胡萝卜种子（从PSMC购买）。但PSMC的胡萝卜种子快用完了。所以PSMC提高种子价格卖给ESMT。但ESMT卖胡萝卜的价格远高于PSMC提高的种子价格。现在……ESMT通过卖胡萝卜赚了很多，以至于7月份收益的市盈率为1.9倍。ESMT能一直卖这些胡萝卜到2027年吗？其他农民都认为可以，因为把宝贵的土豆农场改回胡萝卜农场既困难又缺乏激励。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093791044005474377",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "14.9% of all homes for sale in the United States tried to de-list and re-list, per Parcl",
+    "tweet_url": "https://x.com/unusual_whales/status/2093791044005474377",
+    "published_at": "2026-08-29T20:01:00+00:00",
+    "fetched_at": "2026-08-29T21:50:52.738295+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出美国有14.9%的待售房屋尝试下架后重新挂牌，这可能反映市场定价行为或操纵迹象，对房地产市场有一定参考价值，但未直接涉及股市或加密货币。",
+      "translation": "据Parcl数据，美国有14.9%的待售房屋尝试下架并重新挂牌。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2093760498072485919",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -876,6 +919,25 @@
       "direction": "bearish",
       "summary": "摩根大通警告未来一年可能发生大规模食品供应危机，这属于宏观基本面风险，可能影响农业、食品及相关大宗商品板块，但不涉及具体标的，方向偏空。",
       "translation": "摩根大通表示，未来一年可能发生大规模食品供应危机。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2092937465342611622",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit 晶豪确实好，利基型内存+模拟IC双主线，避开三星、美光主流消费级DRAM内卷，都完全没跌过……",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2092937465342611622",
+    "published_at": "2026-08-27T11:29:11+00:00",
+    "fetched_at": "2026-08-29T21:50:04.750936+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "用户看好晶豪科技（尚未上市），认为其利基型内存与模拟IC双主线可避开主流DRAM竞争，走势稳定，未随大盘下跌。",
+      "translation": "晶豪确实好，利基型内存和模拟IC双主线，避开了三星、美光主流消费级DRAM的内卷，都完全没跌过……",
       "confidence": "medium"
     }
   },
