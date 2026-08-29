@@ -1,5 +1,48 @@
 [
   {
+    "tweet_id": "2093760498072485919",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$MU: goes from $133B -&gt; $1T+ in a year.\n\n$RDDT after a 2-month correction: \"Garbage stock\" https://t.co/HlIXwJ7ZdB",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093760498072485919",
+    "published_at": "2026-08-29T17:59:37+00:00",
+    "fetched_at": "2026-08-29T19:00:24.603059+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "RDDT"
+      ],
+      "direction": "neutral",
+      "summary": "这条推文对比了美光（MU）的巨大涨幅与Reddit（RDDT）近期回调，批评市场对RDDT的负面看法，暗示其可能被低估。整体态度对MU乐观，对RDDT则持反思态度。",
+      "translation": "$MU：一年内从1330亿美元涨到超过1万亿美元。$RDDT在经历2个月回调后，被说成“垃圾股”。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093730647126724714",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Tim Cook steps down as Apple, $AAPL, CEO on August 31 after taking the company from $350 billion to over $4 trillion.",
+    "tweet_url": "https://x.com/unusual_whales/status/2093730647126724714",
+    "published_at": "2026-08-29T16:01:00+00:00",
+    "fetched_at": "2026-08-29T19:01:24.604123+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "该推文报告了苹果CEO蒂姆·库克将于8月31日卸任的消息，苹果公司市值在库克任期内从3500亿美元增长至超过4万亿美元。该事件对苹果股价影响不确定，方向中性。",
+      "translation": "蒂姆·库克将于8月31日卸任苹果公司CEO，他带领公司从3500亿美元市值增长至超过4万亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093712497949950242",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
