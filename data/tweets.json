@@ -1,5 +1,31 @@
 [
   {
+    "tweet_id": "2093839436782190731",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So I'm looking through $MRVL SEC filings for fun over the weekend.\n\nFor constraints they're citing:\n\n\"advanced wafer fabrication, advanced packaging, and large body substrates.\"\n\nwhich results in increased lead times, inability to meet demand, and increased costs...\n\n-> So $TSM is Marvell's sole source foundry for all of our advanced process-node wafers according to their filings (no surprise there). \n\nthe less obvious one is Large Body Substrates to look at: \n\nABF substrates are already known, but lage body substrates might be a more acute bottleneck inside ABF. \n\nThere's..\n\nDaeduck Electronics (353200) \nKinsus (3189) - \"large-area high-layer-count ABF substrates\" already up +496.07% YTD tho\nLG Innotek (011070) - Large AI substrates with \"Developing large AI substrates with a NA Big Tech customer, mass production beginning H2 26\" \n$ATS +370.12%\n\nfor the \"lesser known\" names outside of Ibiden, Nan Ya PCB, and Unimicron (but many have already rerated). \n\nIn May they worded it as supply challenges have occurred / may occur and large-body substrates were in a continuing tight environment.\n\nNow it's \"We are currently in a supply constrained environment.\" \n\nMaybe there's more emerging players that I missed that I'll go hunting for. \n\nBut just disclosure on what acute bottleneck $MRVL is facing.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093839436782190731",
+    "published_at": "2026-08-29T23:13:18+00:00",
+    "fetched_at": "2026-08-29T23:42:19.554698+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL",
+        "TSM",
+        "ATS",
+        "353200",
+        "3189",
+        "011070"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了MRVL的供应链瓶颈，特别指出大型基板（large body substrates）是ABF基板中的关键限制因素，并提及相关供应商如Daeduck、Kinsus、LG Innotek等，暗示这些供应商可能面临供应紧张带来的投资机会。整体观点偏向看多相关供应链企业。",
+      "translation": "所以我周末在查看$MRVL的SEC文件，纯粹是为了好玩。对于他们的制约因素，他们引用的是：'先进的晶圆制造、先进的封装和大型基板。'这导致交货时间延长、无法满足需求以及成本上升……所以$TSM是Marvell所有先进工艺节点晶圆的唯一代工厂（这并不意外）。不太明显的是大型基板需要关注：ABF基板已经众所周知，但大型基板可能是ABF内部更严重的瓶颈。有Daeduck Electronics（353200）、Kinsus（3189）——'大面积高层数ABF基板'，但年初至今已上涨496.07%，还有LG Innotek（011070）——大型AI基板，'与北美大型科技客户共同开发大型AI基板，计划于26年下半年开始量产'，$ATS上涨370.12%。对于'不太知名'的公司，除了Ibiden、Nan Ya PCB和Unimicron（但很多已经重新定价）。在5月份，他们的措辞是供应挑战已经发生/可能发生，大型基板处于持续紧张的环境中。现在他们说'我们目前处于供应受限的环境。'也许还有其他我遗漏的新兴参与者，我会继续寻找。但这只是披露了$MRVL面临的严重瓶颈。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093811019823132903",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -40,6 +66,25 @@
       "summary": "该推文指出美国有14.9%的待售房屋尝试下架后重新挂牌，这可能反映市场定价行为或操纵迹象，对房地产市场有一定参考价值，但未直接涉及股市或加密货币。",
       "translation": "据Parcl数据，美国有14.9%的待售房屋尝试下架并重新挂牌。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2093775944385208732",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Studios in Manhattan now average $4,088 per month, up 8% year over year, while one-bedrooms average $5,486, a 7% increase, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2093775944385208732",
+    "published_at": "2026-08-29T19:01:00+00:00",
+    "fetched_at": "2026-08-29T23:42:58.465141+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "曼哈顿房租大涨，反映住宅市场需求强劲，可能利好房地产投资信托和房地产板块。",
+      "translation": "曼哈顿单间公寓平均月租现为4,088美元，同比上涨8%，而一居室平均房租5,486美元，同比上涨7%，据彭博数据。",
+      "confidence": "medium"
     }
   },
   {
