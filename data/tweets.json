@@ -19,6 +19,25 @@
     }
   },
   {
+    "tweet_id": "2093461477231374715",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Canada's economy posts fastest growth in three years, per FP",
+    "tweet_url": "https://x.com/unusual_whales/status/2093461477231374715",
+    "published_at": "2026-08-28T22:11:25+00:00",
+    "fetched_at": "2026-08-29T04:14:06.701977+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "加拿大经济增速创三年最快，表明经济基本面走强，利于股市（特别是加拿大相关指数及个股）的宏观环境；但需注意增长是否可持续及政策变化。",
+      "translation": "据《金融时报》报道，加拿大经济创下三年来最快增速。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093458099873165766",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
