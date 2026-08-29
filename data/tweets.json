@@ -1,5 +1,86 @@
 [
   {
+    "tweet_id": "2093640624864166058",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "别八卦了，多关注点搞钱信息流。\n今年最强的厄尔尼诺导致小麦期货今年大幅上涨。增大产量的话各种化肥磷肥钾肥氮肥不得涨。 https://t.co/ryeij6phYv",
+    "tweet_url": "https://x.com/xiaomustock/status/2093640624864166058",
+    "published_at": "2026-08-29T10:03:17+00:00",
+    "fetched_at": "2026-08-29T11:15:04.411651+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文认为厄尔尼诺现象导致小麦期货大涨，进而可能推高化肥（磷肥、钾肥、氮肥）需求与价格，建议投资者关注相关农产品和化肥板块。",
+      "translation": "别八卦了，多关注点搞钱信息流。今年最强的厄尔尼诺导致小麦期货今年大幅上涨。增大产量的话各种化肥磷肥钾肥氮肥不得涨。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093604758485717289",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Something else to look at aside from DDR2/DDR3\n\nAre your legacy SLC NAND fabless companies with wafer allocations given the 120-170% contract pricing revisions.\n\nEtron/ESMT are in this same bottleneck too (with varying exposure).\n\nThen there’s others like Jeju Semiconductor (080220) (need to look at inventory/revenue mix)\n\nWhere Q2 annualized is 4.5x p/e ish. But if you’re hiking by150-170%, numbers should compress a lot depending on exposure.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093604758485717289",
+    "published_at": "2026-08-29T07:40:46+00:00",
+    "fetched_at": "2026-08-29T11:14:30.268586+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "080220"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出，除DDR2/DDR3外，传统SLC NAND无晶圆厂公司面临晶圆分配紧张，合同价格修订幅度达120-170%，这可能大幅提升相关公司的盈利。特别提到济州半导体（080220）的年化市盈率约4.5倍，若提价150-170%，其盈利有望大幅压缩市盈率，属于看涨提示。",
+      "translation": "除了DDR2/DDR3之外，还有值得关注的事情：传统的SLC NAND无晶圆厂公司是否拥有晶圆分配，因为合同价格修订幅度达120-170%。Etron/ESMT也面临同样的瓶颈（但敞口不同）。还有像济州半导体（080220）这样的公司（需要关注库存/收入结构），其Q2年化市盈率约为4.5倍。但如果价格上调150-170%，根据敞口不同，盈利数据应该会大幅压缩。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093582328857833883",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "If you're curious what I'm doing this weekend:\n\nI'm trying to piece together who has Powerchip (PSMC) wafer allocations and also serves DDR2/DDR3 markets.\n\nthen mapping those allocations against operating income inflections / MC to see which ones are most compelling. \n\nSo far I found ESMT to be the most interesting, since a lot of the others trade around 4 p/e based on most recent Q2's annualized (ESMT was 1.9x based on July)... \n\nBut THE MOST IMPORTANT THING IS July's ESMT earnings gives a good hint about the other's Q3 operating income reports.  \n\nThe reason I think this trade hasn't been very popular so far is:\n\n> Barely anyone knows about it + limited coverage, esp. around allocations\n> High risk of normalized prices, but I do think it tightens further throughout 2027 from my research.  \n> Hard to model effects of PSMC 45% wafer hikes + inventory (if its sustainable) (I did the math on ESMT, but haven't done so about the rest), which others might be more uncertain about.\n> If July was one-off or not (if August earnings delivers $100m+ net income, I think it's going to cook super hard). \n\nBut I think markets would do all the price discovery before the earnings so that's where I'm just taking a guess here. \n\nSo I'm just going down line by line to double check and I did find a few I missed, so just going through their filings. \n\nI do think this theme can cook given the extreme DDR2 price hikes recently + Winbond withdrawing, so I'm doing heavy research into it. \n\nIf you're curious how my current AI portfolio is roughly structured, kinda looks like this rn (not a recommendation): \n\n- 50% photonics/networking\n- 25% memory\n- 10% robotics + upstream\n- bunch of misc (energy, MLCCs, software, non-ai, random exposure like GCS, QD, substrate, etc)\n\non ~1.3x share only margin, probably only 2.3% of my portfolio is options. \n\nThe individual names I'm in are high-beta enough so any additional leverage would be pretty bad.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093582328857833883",
+    "published_at": "2026-08-29T06:11:38+00:00",
+    "fetched_at": "2026-08-29T11:14:37.762199+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "PSMC",
+        "ESMT"
+      ],
+      "direction": "bullish",
+      "summary": "作者正在分析Powerchip（PSMC）晶圆分配与DDR2/DDR3市场的关系，特别关注ESMT等公司，认为ESMT的7月盈利预示其他公司Q3业绩，并看好DDR2涨价和Winbond退出带来的机会。整体偏看多，但认为市场可能在财报前提前定价。",
+      "translation": "如果你想知道我周末在做什么：\n我在尝试梳理谁拥有Powerchip（PSMC）的晶圆分配，并且也服务于DDR2/DDR3市场。\n然后将这些分配与营业收入拐点/市值进行映射，看看哪些最具吸引力。\n到目前为止，我发现ESMT最有趣，因为很多其他公司基于最近Q2年化的市盈率在4倍左右（ESMT基于7月是1.9倍）...\n但最重要的是7月ESMT的财报对其他公司Q3营业收入报告给出了很好的暗示。\n我认为这个交易到目前为止不太流行的原因是：\n> 几乎没人知道 + 覆盖有限，尤其是关于分配的情况\n> 正常化价格风险高，但我认为到2027年会进一步收紧，根据我的研究。\n> 难以模拟PSMC 45%晶圆涨价和库存的影响（如果可持续）（我在ESMT上做了计算，但其他公司还没做），其他人可能更不确定。\n> 如果7月是一次性的，或者8月财报实现1亿美元以上的净利润，我觉得它会超级火热。\n但我认为市场会在财报前完成所有价格发现，所以这是我猜的。\n所以我正在逐个仔细检查，确实发现了一些我遗漏的，所以正在阅读它们的文件。\n我确实认为这个主题能火，鉴于最近DDR2大幅涨价和Winbond退出，所以我正在做深入的研究。\n如果你好奇我目前AI投资组合的大致结构，大概是这样的（不是推荐）：\n- 50% 光子学/网络\n- 25% 内存\n- 10% 机器人+上游\n- 杂项（能源、MLCC、软件、非AI、随机敞口如GCS、QD、基板等）\n大约1.3倍保证金，可能只有2.3%的投资组合是期权。\n我持有的单个名称是高贝塔的，所以任何额外的杠杆都会很糟糕。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093553226716946907",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Commerce Secretary Howard Lutnick favors a structure that will tie foreign companies’ relief from the tariffs to investment in U.S. chip manufacturing to boost local production, the report said.\n\nRead more: https://t.co/Xfll7OeNGk",
+    "tweet_url": "https://x.com/unusual_whales/status/2093553226716946907",
+    "published_at": "2026-08-29T04:16:00+00:00",
+    "fetched_at": "2026-08-29T11:15:11.961726+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国商务部长卢特尼克提出，将外国公司的关税减免与在美投资芯片制造业挂钩，以促进本土生产。这一政策若实施，将对芯片制造相关行业产生潜在影响，但具体利好或利空尚不明确。",
+      "translation": "据报道，美国商务部长霍华德·卢特尼克倾向于一种结构，将外国公司的关税减免与在美国投资芯片制造业挂钩，以促进本土生产。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093466404670636173",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -54,6 +135,25 @@
       "summary": "美国SEC对华尔街大型主要经纪商在高杠杆AI交易中的融资行为展开调查，这可能引发监管风险，对AI相关股票和杠杆交易活动产生影响。",
       "translation": "美国证券交易委员会已就华尔街最大的主要经纪商如何为这个周期中杠杆率最高的AI交易之一提供融资展开调查。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093413084274536604",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"China is secretly fueling America's data center rage,\" per Axios",
+    "tweet_url": "https://x.com/unusual_whales/status/2093413084274536604",
+    "published_at": "2026-08-28T18:59:07+00:00",
+    "fetched_at": "2026-08-29T11:15:31.993927+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及中国在暗中支持美国数据中心建设热潮，可能影响能源或基建相关行业，但未明确指向具体投资标的或方向。",
+      "translation": "据Axios报道，中国正在暗中推动美国数据中心热潮。",
+      "confidence": "low"
     }
   },
   {

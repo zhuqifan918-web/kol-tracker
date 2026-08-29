@@ -1,25 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
       "AAOI",
-      "NVDA",
-      "SNDK",
-      "MU"
+      "SIVE",
+      "LITE",
+      "ESMT",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
+      "光学互连与激光瓶颈",
+      "存储超级周期（HBM、DDR2/DDR3）",
       "AI基础设施投资",
-      "光电子供应链瓶颈",
-      "存储芯片超级周期"
+      "人形机器人",
+      "供应链瓶颈与价格弹性"
     ],
-    "recent_shift": "近期观点从存储芯片转向光电子和CPO，但整体仍看好AI硬件需求。",
+    "recent_shift": "近期观点从存储向光学和激光领域转变，强调AI需求推动的瓶颈和价格弹性。",
     "representative_quotes": [
-      "TLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing.",
+      "I think photonics is echoing the memory supercycle entering 2027.",
       "The demand visibility... is just way too stupidly high.",
-      "people tend to capitulate and follow narratives when a sector drops (eg. Helium/LNG back in Iran war), even if the bottleneck or fundamental situation hasn't really changed much"
+      "If you're curious how my current AI portfolio is roughly structured... 50% photonics/networking, 25% memory."
     ],
-    "generated_at": "2026-08-28T23:18:52.093326+00:00"
+    "generated_at": "2026-08-29T11:15:36.792415+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -27,44 +29,46 @@
       "MSFT",
       "MRNA",
       "COIN",
-      "AAPL"
+      "ORCL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "人工智能与科技股",
-      "市场流动性风险",
-      "政治与市场关联"
+      "AI算力与基础设施投资",
+      "政治人物交易与内幕关联",
+      "加密货币与比特币牛市",
+      "关税政策与市场波动",
+      "财报超预期与期权市场信号"
     ],
-    "recent_shift": "近期从对科技股盈利的乐观转向关注AI泡沫与市场流动性风险。",
+    "recent_shift": "近期更加关注加密货币和AI领域的政策动向及市场影响，同时强调政治交易与市场波动的关联性。",
     "representative_quotes": [
-      "This is not a memecoin. This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
-      "\"The AI boom has echoes of Enron,\" per BI",
-      "\"AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers,'\" per Apollo's Slok"
+      "This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
+      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
+      "No politician can hide from me, not even Nancy Pelosi. She disclose $BE call options on July 24 and $INTC call options on July 28."
     ],
-    "generated_at": "2026-08-28T23:18:49.136968+00:00"
+    "generated_at": "2026-08-29T11:15:39.353326+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SNDK",
       "MU",
-      "SKHynix",
-      "META",
-      "MRVL"
+      "SKHNY",
+      "MRVL",
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储超级周期",
-      "AI算力与云厂投资",
+      "存储芯片超级周期",
+      "AI算力与云厂需求",
       "美债危机与避险资产",
-      "韩国存储股折价机会",
-      "CPU需求爆发"
+      "港股通与国产AI",
+      "谨慎杠杆与风险管理"
     ],
-    "recent_shift": "近期从关注存储科技转向拥抱加密黄金和美债危机叙事，但仍长期看好存储和AI。",
+    "recent_shift": "近期观点从激进的存储杠杆交易转向更稳健的策略，强调定投SPY和QQQ，并降低杠杆使用。",
     "representative_quotes": [
-      "人类往往高估了一年内的变化，同时也低估了10年后的变化。",
-      "市场是真不缺机会，更不缺黑天鹅。",
-      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。"
+      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。那时50万亿美元级别债务和AI第一轮大规模生产率数据会第一次正面碰撞。",
+      "如果AI真的能把美国长期实际生产率增速从约1.5–2%推到3–4%以上，整个美债估值模型都要重写，经济会飞速腾飞，增发的货币反而会给整个人类社会带来空前的繁荣。",
+      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手。"
     ],
-    "generated_at": "2026-08-28T01:36:44.725984+00:00"
+    "generated_at": "2026-08-29T11:15:41.858431+00:00"
   }
 }
