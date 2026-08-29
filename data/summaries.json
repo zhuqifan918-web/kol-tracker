@@ -1,51 +1,52 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
       "SIVE",
+      "AAOI",
       "LITE",
-      "ESMT",
-      "NVDA"
+      "NVDA",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光学互连与激光瓶颈",
-      "存储超级周期（HBM、DDR2/DDR3）",
-      "AI基础设施投资",
-      "人形机器人",
-      "供应链瓶颈与价格弹性"
+      "人工智慧供应链瓶颈与投资机会，从存储、光子到被动元件等",
+      "供应链瓶颈的连锁反应（如存储与封装产能）",
+      "市场情绪与基本面脱节，股价波动创造错杀机会",
+      "对AI需求长期结构性增长的坚定信心",
+      "批判市场对人工智能供应链关键环节的认识不足"
     ],
-    "recent_shift": "近期观点从存储向光学和激光领域转变，强调AI需求推动的瓶颈和价格弹性。",
+    "recent_shift": "近期从关注数据中心与半导体，转向深入探索利基市场瓶颈（如传统DRAM、MLCC）并调整投资组合，同时针对AI供应链中的新瓶颈（如传统DRAM、MLCC）进行布局。",
     "representative_quotes": [
-      "I think photonics is echoing the memory supercycle entering 2027.",
-      "The demand visibility... is just way too stupidly high.",
-      "If you're curious how my current AI portfolio is roughly structured... 50% photonics/networking, 25% memory."
+      "NVDA: \"We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook\"",
+      "I think the optical sector underperformance recently from $AAOI to $SIVE has been absurd. The demand visibility... is just way too stupidly high.",
+      "AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing."
     ],
-    "generated_at": "2026-08-29T11:15:36.792415+00:00"
+    "generated_at": "2026-08-29T15:43:02.508482+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
+      "BE",
+      "INTC",
       "MSFT",
-      "MRNA",
-      "COIN",
-      "ORCL"
+      "MRNA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力与基础设施投资",
-      "政治人物交易与内幕关联",
-      "加密货币与比特币牛市",
-      "关税政策与市场波动",
-      "财报超预期与期权市场信号"
+      "AI基础设施建设与算力投入",
+      "算力与芯片出口限制及地缘政治风险",
+      "美国宏观经济数据与降息预期",
+      "科技股巨头财报与期权市场动向",
+      "政府政策与股市的潜在影响",
+      "能源与地缘政治（石油、铜）"
     ],
-    "recent_shift": "近期更加关注加密货币和AI领域的政策动向及市场影响，同时强调政治交易与市场波动的关联性。",
+    "recent_shift": "近期观点从关注宏观风险（如关税、债务）转向更乐观的AI投资主题，特别强调Nvidia的强势财报和AI相关机遇。",
     "representative_quotes": [
-      "This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "No politician can hide from me, not even Nancy Pelosi. She disclose $BE call options on July 24 and $INTC call options on July 28."
+      "This is not a memecoin. This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
+      "Call your Nvidia, $NVDA.",
+      "Debasement trade to take bitcoin to $300,000 in three years, Bernstein has said."
     ],
-    "generated_at": "2026-08-29T11:15:39.353326+00:00"
+    "generated_at": "2026-08-29T15:43:05.610094+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
