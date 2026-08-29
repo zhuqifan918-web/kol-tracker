@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2093712497949950242",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Missed this mention earlier but IC design insiders reveal that OSAT providers have already warned clients:\n\n\"traditional packaging capacity could face a deficit exceeding 20% by 2027\" (eg. $AMKR, ethereum:0x041ff0e49f6f774e7dc7bd10ee4a14c00b1d80b2, Powertech as potential beneficaries)\n\nWith: \"wire bonding equipment\" emerging as the primary bottleneck (ASMPT, $KLIC)\n\n-> influx of AI server shipments has triggered a spike in demand for mature chips\n-> existing mature packaging capacity at OSATs is being rapidly absorbed\n-> securing early access to traditional packaging capacity is now becoming a challenge \n\nCascading bottleneck patterns are occurring across memory (eg. DDR2, DDR3) and now packaging capacity I guess.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093712497949950242",
+    "published_at": "2026-08-29T14:48:53+00:00",
+    "fetched_at": "2026-08-29T15:41:38.826909+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMKR",
+        "KLIC"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出，由于AI服务器需求激增，传统封装产能预计到2027年将面临超过20%的缺口，线键合设备成为主要瓶颈，利好OSAT和封装设备供应商如AMKR和KLIC。",
+      "translation": "之前错过了这条消息，但IC设计内部人士透露，OSAT供应商已经警告客户：'传统封装产能到2027年可能出现超过20%的缺口'（例如，$AMKR、ethereum:0x041ff0e49f6f774e7dc7bd10ee4a14c00b1d80b2、Powertech可能受益）。随之而来的是：'线键合设备'成为主要瓶颈（ASMPT、$KLIC）。-> AI服务器出货量的涌入引发了对成熟芯片需求的激增；-> OSAT现有的成熟封装产能正在被迅速吸收；-> 提前获取传统封装产能现在正变得困难。级联瓶颈模式正在内存（例如DDR2、DDR3）和现在的封装产能中出现。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093700447433290006",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Huge change on site.\n\nThe GEX heatmap update frequency has been increased significantly.\n\nGet near second-to-second updates\n\nSee more: https://t.co/SgtQedCuEx https://t.co/bPRMFkg8XN",
+    "tweet_url": "https://x.com/unusual_whales/status/2093700447433290006",
+    "published_at": "2026-08-29T14:01:00+00:00",
+    "fetched_at": "2026-08-29T15:42:36.826691+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布GEX热力图更新频率大幅提升，提供接近秒级的数据更新。GEX（Gamma Exposure）是期权市场分析的重要指标，对交易者判断市场动态和潜在波动有参考价值，但推文本身未给出具体投资建议或方向性观点。",
+      "translation": "网站有大变化。GEX热力图的更新频率已大幅提高。获得接近秒级的更新。更多信息：https://t.co/SgtQedCuEx https://t.co/bPRMFkg8XN",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093678493335011831",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Yes. I genuinely don't have a clue why $SIVE still focuses on local Swedish markets for communication/private fundraising. \n\nOver the US. \n\nThe questions you get from Swedish heavy audiences include:\n\n- Leading questions like how would you \"stop the bleeding\" \n- \"Why can't you disclosure your private customers\"\n- Why focus on transceivers (it's obvious)\n- Implications for non-photonics orders\n\nSo 1/3rd of the time, the CEO needs to be defending leading/accusatory questions around what \"opportunity pipeline means\" \n\nUS analysts would have pressed:\n\n- Economic implications from 2 foundry allocations during a bottleneck + ASP hike/operating leverage  \n- Around much capacity revenue would those allocations lead to (half of AOI calls are around those from US analysts) \n- $GFS NPO/CPO/pluggable scale implications and downstream end customers opportunities  \n- Ayar / CPO player 2028 ramp (that happened to raise $500m+) or other products like ELS production with O-net and TAM opportunities there.   \n- How big those 6 new pluggable players were, rather than asking \"why can't you disclosure them\"  \n- Clarifying CFO legalposts around listing timeline and M&A TAM expansion opportunities\n\nSo investors can get a sense of future growth for 2027-2028.\n\nInstead, the way leading questions are framed/answers, the entire calls were focused around current financials (which US investors don't care about), non-photonic implications, or skepticism of wording.\n\nRather than exciting US investors about economic implications from their time in a CW laser bottleneck. \n\nThe more time $SIVE spends in Swedish markets, the more they will be valued as such.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093678493335011831",
+    "published_at": "2026-08-29T12:33:46+00:00",
+    "fetched_at": "2026-08-29T15:41:46.906797+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "GFS"
+      ],
+      "direction": "bearish",
+      "summary": "该推文批评SIVE公司管理层在市场沟通策略上过度聚焦瑞典本地市场，导致电话会议被引导性问题占据，未能向美国投资者展示其在CW激光瓶颈、代工分配及CPO等领域的增长潜力，从而可能影响估值。整体情绪偏负面，认为公司价值被低估或市场沟通不佳。",
+      "translation": "是的。我真的不明白为什么$SIVE仍然专注于瑞典本地市场的沟通/私人融资。相对于美国市场。来自瑞典重量级受众的问题包括：引导性问题，比如你如何“止血”；“为什么你不能披露你的私人客户”；为什么专注于收发器（这很明显）；对非光子学订单的影响。所以有1/3的时间，CEO需要为围绕“机会管道是什么意思”的引导性/指责性问题辩护。美国分析师会追问：在瓶颈期两次代工分配的经济影响以及ASP上涨/运营杠杆；这些分配会带来多少产能收入（AOI电话会议中一半的问题来自美国分析师）；$GFS NPO/CPO/可插拔规模影响以及下游最终客户机会；Ayar/CPO玩家2028年产能爬坡（恰好筹集了5亿多美元）或其他产品如与O-net的ELS生产以及那里的TAM机会；那6个新的可插拔玩家有多大，而不是问“为什么你不能披露他们”；澄清CFO关于上市时间表和M&A TAM扩展机会的法律立场。这样投资者可以了解2027-2028年的未来增长。相反，由于引导性问题的构成/回答，整个电话会议都集中在当前财务状况（美国投资者不关心）、非光子学影响或对措辞的怀疑上。而不是让美国投资者对他们在CW激光瓶颈期间的经济影响感到兴奋。$SIVE在瑞典市场的时间越多，他们就越会被如此估值。"
+    }
+  },
+  {
     "tweet_id": "2093640624864166058",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
