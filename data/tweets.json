@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2094174317110260194",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @snorlax_uw: Contracts where OI increases by 95-100% of the previous session's volume + added a .70% minimum ask/bid filter. Not sure how useful it is yet, but the use case would be to identify contracts where the increase in OI is effectively equal to the previous day's volume.\n\nhttps://t.co/SwK4ZiOFen",
+    "tweet_url": "https://x.com/unusual_whales/status/2094174317110260194",
+    "published_at": "2026-08-30T21:23:59+00:00",
+    "fetched_at": "2026-08-30T22:52:37.466157+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文介绍了一种基于期权未平仓合约（OI）增幅与前一交易日成交量比较的筛选方法，用于识别OI增幅几乎等于前一日成交量的合约，以发现潜在交易机会。作者对此方法的效果尚不确定，但提出了其可能的应用场景。",
+      "translation": "转发 @snorlax_uw：筛选出OI增幅达到前一交易日成交量的95-100%的合约，并添加了0.70%的最小买卖价差过滤器。还不知道这有多大用处，但用例是识别OI增幅等于前一交易日成交量的合约。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094140700522643734",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -58,6 +77,25 @@
       "direction": "bearish",
       "summary": "韩国监管措施导致散户对三星和SK海力士杠杆ETF的交易量暴跌，交易价值仅为6月峰值的4%。此外，强制要求下载Windows程序进行模拟交易，进一步抑制了散户投机活动，对相关ETF和高波动科技股构成利空。",
       "translation": "我会怀念韩国散户对$EWY / 三星 / $SKHY每日波动剧烈反应的日子。新文章：'韩国日内交易者因监管限制而逃离杠杆芯片ETF'——旨在提供三星/SK海力士2倍日回报的ETF交易价值已跌至6月峰值的4%。此要求是在包括提高最低存款等旨在冷却投机活动的措施之后出台的。然后是最后的大Boss……一个为期5天的交易课程，要求'投资者必须下载一个仅限Windows的程序，每天至少花一小时用虚拟资金进行交易'。$MSFT Windows wiped out the Korean retail（微软Windows消灭了韩国散户）。"
+    }
+  },
+  {
+    "tweet_id": "2094108134121865402",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Student debt is rising and the default rate is at a historic high,\" per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094108134121865402",
+    "published_at": "2026-08-30T17:01:00+00:00",
+    "fetched_at": "2026-08-30T22:52:44.205469+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用彭博报道，指出学生债务上升且违约率创历史新高，可能对消费支出和经济增长产生负面影响，进而利空股市。",
+      "translation": "据彭博报道，学生债务正在上升，违约率处于历史高位。",
+      "confidence": "medium"
     }
   },
   {
