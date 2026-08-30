@@ -1,5 +1,96 @@
 [
   {
+    "tweet_id": "2094047735519592579",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Huge change on site.  \n\nThe GEX heatmap update frequency has been increased significantly.  \n\nGet near second-to-second updates  \n\nSee more: https://t.co/SgtQedD2u5 https://t.co/FvbHn1zvSP",
+    "tweet_url": "https://x.com/unusual_whales/status/2094047735519592579",
+    "published_at": "2026-08-30T13:01:00+00:00",
+    "fetched_at": "2026-08-30T13:54:48.448110+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布GEX热力图更新频率大幅提升至近乎每秒级，属于市场分析工具的功能更新，为投资者提供更及时的市场数据，但未提及具体投资建议或标的。",
+      "translation": "网站有大变化。GEX热力图的更新频率已大幅提高。可获得近乎每秒的更新。查看更多：https://t.co/SgtQedD2u5 https://t.co/FvbHn1zvSP",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094027369648681284",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just some random ideas from Elon’s post:\n\n$AAON - Chillers / liquid cooling\n$NVT - Cooling\n$MOD - Chillers / Cooling\n$IESC - Wiring\n$MTRS - chillers\n$JCI - chillers\n$HPS.A - Transformers (disclosure I own positions in this)\n$PRY.MI - networking/wiring(fiber)\n$CRDO / $AAOI (same) / $LITE / $COHR - networking\n\nSince Elon Musk cited:\n\n- transformers\n- wiring\n- liquid cooling\n- massive chillers + complex networking\n\nAs the point of failure for AI compute buildout. \n\nWhich is “harder than finding power”",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+    "published_at": "2026-08-30T11:40:04+00:00",
+    "fetched_at": "2026-08-30T13:53:34.608146+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAON",
+        "NVT",
+        "MOD",
+        "IESC",
+        "MTRS",
+        "JCI",
+        "HPS.A",
+        "PRY.MI",
+        "CRDO",
+        "AAOI",
+        "LITE",
+        "COHR"
+      ],
+      "direction": "bullish",
+      "summary": "该推文基于马斯克关于AI计算建设瓶颈（变压器、布线、液冷、大型冷却器和复杂网络）的观点，列出了相关受益股票，暗示这些领域的公司可能因AI基础设施需求而受益，整体看多。",
+      "translation": "这只是埃隆帖子中的一些随机想法：$AAON - 冷却器/液冷；$NVT - 冷却；$MOD - 冷却器/冷却；$IESC - 布线；$MTRS - 冷却器；$JCI - 冷却器；$HPS.A - 变压器（披露我持有此仓位）；$PRY.MI - 网络/布线（光纤）；$CRDO / $AAOI（相同）/ $LITE / $COHR - 网络。由于埃隆·马斯克提到：变压器、布线、液冷、大型冷却器和复杂网络是AI计算建设中的失败点，这比“找到电力”更难。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094019167527776711",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "FYI to the AI bears: $NVDA projects $1.3T of hyperscaler spend for 2027.\n\nUp from ~$800B in 2026, alongside ~70% revenue growth despite remaining capacity constrained… far above prior Street expectations of ~45%.\n\nThat capex flows across the AI supply chain… from memory and networking to foundries. Especially through the new bottlenecks/chokepoints that didn’t benefit from older generations.\n\nWe’re like 2 hours into the party where people started off drinking Sapporo draft beer.\n\nSomeone spiked Situational’s drinks and we had to pause the party for 30 min.\n\nBut now it’s back on with tequila shots on the table.\n\nI think the real party is about to begin.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094019167527776711",
+    "published_at": "2026-08-30T11:07:29+00:00",
+    "fetched_at": "2026-08-30T13:53:45.005303+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文对NVIDIA（NVDA）持看涨观点，指出其预计2027年超大规模数据中心支出将达到1.3万亿美元，远超市场预期，并强调AI供应链（如存储、网络、晶圆代工）将受益于新瓶颈环节。整体情绪乐观，认为AI投资热潮才刚刚开始。",
+      "translation": "致AI空头：$NVDA预计2027年超大规模数据中心支出将达到1.3万亿美元。高于2026年的约8000亿美元，同时收入增长约70%，尽管产能受限……远高于此前华尔街约45%的预期。这笔资本支出将流向AI供应链……从存储、网络到晶圆代工。尤其是那些在旧世代中未受益的新瓶颈/堵点。派对开始才两个小时，大家一开始喝的是札幌生啤。有人给Situational的饮料下了药，我们不得不暂停派对30分钟。但现在派对重新开始，桌上摆着龙舌兰酒。我认为真正的派对即将开始。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093939773631009185",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Employees’ share from wages and benefits fell to 60 per cent, the lowest level since the 1950s.\n\nRead more: https://t.co/NPPFw2PKYM",
+    "tweet_url": "https://x.com/unusual_whales/status/2093939773631009185",
+    "published_at": "2026-08-30T05:52:00+00:00",
+    "fetched_at": "2026-08-30T13:54:51.964460+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "员工工资和福利占比降至1950年代以来最低，表明劳动者收入份额下降，可能抑制消费需求，对依赖内需的行业和企业盈利前景构成压力。",
+      "translation": "员工在工资和福利中的份额降至60%，是1950年代以来的最低水平。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093839436782190731",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -50,6 +141,25 @@
     }
   },
   {
+    "tweet_id": "2093810234141634702",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Consensus estimate is that ~15GW of AI compute produced in 2027 cannot be turned on in 2027. \n\nThis is harder than just finding power, as you also need to build out all the transformers, wiring, liquid-cooling, (massive) chillers &amp; complex networking. https://t.co/cRXJ1Wrkri",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093810234141634702",
+    "published_at": "2026-08-29T21:17:15+00:00",
+    "fetched_at": "2026-08-30T13:53:39.894788+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出2027年约有15GW的AI算力因基础设施（如变压器、布线和冷却系统）建设瓶颈无法按时启用，影响AI产能释放。对AI基础设施和电力设备供应商可能是潜在利好，但对依赖AI算力及时扩张的公司则是风险。",
+      "translation": "共识估计，2027年生产的约15GW AI算力在2027年无法投入使用。这比仅仅找到电力更难，因为你还需要建设所有的变压器、布线、液冷、（大型）冷水机组以及复杂的网络。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093791044005474377",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -84,6 +194,25 @@
       "direction": "bullish",
       "summary": "曼哈顿房租大涨，反映住宅市场需求强劲，可能利好房地产投资信托和房地产板块。",
       "translation": "曼哈顿单间公寓平均月租现为4,088美元，同比上涨8%，而一居室平均房租5,486美元，同比上涨7%，据彭博数据。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093760844811125187",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Americans are spending 5% of their goods spending to hobbies, an all time high, per Bloomberg: https://t.co/51FXl0HRWM",
+    "tweet_url": "https://x.com/unusual_whales/status/2093760844811125187",
+    "published_at": "2026-08-29T18:01:00+00:00",
+    "fetched_at": "2026-08-30T13:55:07.580103+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国消费者在商品支出中用于爱好的比例达到历史最高点（5%），这可能反映出消费趋势的变化，对相关行业（如休闲、零售）可能有影响，但未直接提及具体投资标的。",
+      "translation": "美国人将商品支出的5%用于爱好，创历史新高，据彭博社报道。",
       "confidence": "medium"
     }
   },
@@ -169,6 +298,25 @@
       "summary": "该推文指出，由于AI服务器需求激增，传统封装产能预计到2027年将面临超过20%的缺口，线键合设备成为主要瓶颈，利好OSAT和封装设备供应商如AMKR和KLIC。",
       "translation": "之前错过了这条消息，但IC设计内部人士透露，OSAT供应商已经警告客户：'传统封装产能到2027年可能出现超过20%的缺口'（例如，$AMKR、ethereum:0x041ff0e49f6f774e7dc7bd10ee4a14c00b1d80b2、Powertech可能受益）。随之而来的是：'线键合设备'成为主要瓶颈（ASMPT、$KLIC）。-> AI服务器出货量的涌入引发了对成熟芯片需求的激增；-> OSAT现有的成熟封装产能正在被迅速吸收；-> 提前获取传统封装产能现在正变得困难。级联瓶颈模式正在内存（例如DDR2、DDR3）和现在的封装产能中出现。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2093705282249781268",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit A company can have the right fundamentals and still get the wrong multiple if it’s telling the story to the wrong audience.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093705282249781268",
+    "published_at": "2026-08-29T14:20:13+00:00",
+    "fetched_at": "2026-08-30T13:53:54.687530+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "这条推文指出，即使公司基本面良好，如果向错误的受众讲述其故事，也可能获得错误的估值倍数。它强调了投资者沟通和目标受众在估值中的重要性，而非具体投资建议。",
+      "translation": "一家公司可以有正确的基本面，但如果向错误的受众讲述其故事，仍然可能获得错误的估值倍数。",
+      "confidence": "medium"
     }
   },
   {
