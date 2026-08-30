@@ -110,6 +110,25 @@
     }
   },
   {
+    "tweet_id": "2093745745669275727",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"35% of workers are treated as disposable... and artificial intelligence could create an even less secure workforce,\" per Forbes.",
+    "tweet_url": "https://x.com/unusual_whales/status/2093745745669275727",
+    "published_at": "2026-08-29T17:01:00+00:00",
+    "fetched_at": "2026-08-30T02:26:56.574056+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文引用福布斯报告，指出35%的工人被视为可消耗品，且人工智能可能加剧劳动力市场的不安全感。这可能对消费支出和某些行业产生负面影响，间接影响股市，但未直接涉及特定投资标的。",
+      "translation": "据福布斯报道，35%的工人被视为可消耗品，而人工智能可能创造更不稳定的劳动力队伍。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2093730647126724714",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
