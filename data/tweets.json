@@ -1,5 +1,108 @@
 [
   {
+    "tweet_id": "2094140700522643734",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump says that the US will refill the Strategic Petroleum Reserve using Venezuelan oil",
+    "tweet_url": "https://x.com/unusual_whales/status/2094140700522643734",
+    "published_at": "2026-08-30T19:10:24+00:00",
+    "fetched_at": "2026-08-30T20:18:28.994781+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国将利用委内瑞拉石油补充战略石油储备，这增加了美国对委内瑞拉石油的需求，可能推高油价并利好石油相关股票，但对委内瑞拉石油出口的制裁可能带来不确定性。",
+      "translation": "突发：特朗普表示，美国将使用委内瑞拉石油来补充战略石油储备。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094135845326659681",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "失眠让gpt扒了一圈最近的全球市场a股美股，\n做agent的标的在本次2季度报后业绩都非常出色。随着ai智力提升，很可能是一个才具备提升效率能力的长期增长的新兴行业。\n太困了睡醒找找能干的标的。",
+    "tweet_url": "https://x.com/xiaomustock/status/2094135845326659681",
+    "published_at": "2026-08-30T18:51:07+00:00",
+    "fetched_at": "2026-08-30T20:18:17.008860+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "用户在失眠时让GPT分析了全球A股和美股市场，发现做AI agent相关标的在第二季度财报后业绩表现都很出色，认为随着AI智力提升，这可能是具有长期增长潜力的新兴行业。",
+      "translation": "失眠让GPT扒了一圈最近的全球市场A股美股，做agent的标的在本次2季度报后业绩都非常出色。随着AI智力提升，很可能是一个才具备提升效率能力的长期增长的新兴行业。太困了睡醒找找能干的标的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094129989071536351",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility.\n\nNew piece: \"Korean day traders flee leveraged chip ETFs as regulatory curbs bite\"\n\n- Trading value in ETFs designed to deliver 2x daily returns of Samsung / SK Hynix has fallen to just 4% of its June peak\n\n- The requirement follows earlier measures, including a higher minimum deposit, aimed at cooling speculative activity\n\n- And then came the final boss... A 5 day trading course where:\n\n\"Investors must download a Windows-only program  and spend at least one hour each day trading with virtual funds\"\n\n$MSFT Windows wiped out the Korean retail.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094129989071536351",
+    "published_at": "2026-08-30T18:27:51+00:00",
+    "fetched_at": "2026-08-30T20:17:11.885396+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "EWY",
+        "SAMSUNG",
+        "SKHY",
+        "MSFT"
+      ],
+      "direction": "bearish",
+      "summary": "韩国监管措施导致散户对三星和SK海力士杠杆ETF的交易量暴跌，交易价值仅为6月峰值的4%。此外，强制要求下载Windows程序进行模拟交易，进一步抑制了散户投机活动，对相关ETF和高波动科技股构成利空。",
+      "translation": "我会怀念韩国散户对$EWY / 三星 / $SKHY每日波动剧烈反应的日子。新文章：'韩国日内交易者因监管限制而逃离杠杆芯片ETF'——旨在提供三星/SK海力士2倍日回报的ETF交易价值已跌至6月峰值的4%。此要求是在包括提高最低存款等旨在冷却投机活动的措施之后出台的。然后是最后的大Boss……一个为期5天的交易课程，要求'投资者必须下载一个仅限Windows的程序，每天至少花一小时用虚拟资金进行交易'。$MSFT Windows wiped out the Korean retail（微软Windows消灭了韩国散户）。"
+    }
+  },
+  {
+    "tweet_id": "2094104168642297965",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Google, $GOOGL, Maps has changed the name of \"Lake Ontario\" to \"Lake America\" for U.S. users, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2094104168642297965",
+    "published_at": "2026-08-30T16:45:15+00:00",
+    "fetched_at": "2026-08-30T20:18:34.269970+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GOOGL"
+      ],
+      "direction": "neutral",
+      "summary": "该消息提及谷歌及其股票代号，但内容仅涉及产品功能变更，不构成实质性投资信号。属于轻微公司新闻，但无明确的投资导向。",
+      "translation": "突发：据路透社报道，谷歌（$GOOGL）地图已将“安大略湖”更名为“美国湖”，针对美国用户。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2094086864215097480",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "受三星海力士刺激，\n美光员工也在计划组织罢工，提高奖金分配。 https://t.co/q7Yb5ujveF",
+    "tweet_url": "https://x.com/xiaomustock/status/2094086864215097480",
+    "published_at": "2026-08-30T15:36:29+00:00",
+    "fetched_at": "2026-08-30T20:18:18.495915+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bullish",
+      "summary": "美光员工受三星和海力士影响计划组织罢工以争取更高奖金，这可能影响美光的产能和成本，但短期内可能推高内存价格，利好美光股价。",
+      "translation": "受三星和海力士刺激，美光员工也在计划组织罢工，提高奖金分配。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094083798204047577",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -21,6 +124,27 @@
     }
   },
   {
+    "tweet_id": "2094077936211050773",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia CEO Jensen Huang is open to ideas about how to share the massive wealth being generated by the AI boom, and says he “perfectly fine” with proposals to tax the ultra-wealthy more, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2094077936211050773",
+    "published_at": "2026-08-30T15:01:00+00:00",
+    "fetched_at": "2026-08-30T20:18:36.481423+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及英伟达CEO黄仁勋对AI热潮创造的财富持开放态度，并支持对超级富豪增税，但未直接涉及股价或投资建议，对投资方向影响中性。",
+      "translation": "英伟达CEO黄仁勋对如何分享AI热潮创造的巨额财富持开放态度，并表示对向超级富豪增税的提议“完全没问题”，据《财富》杂志报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094047735519592579",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -37,6 +161,27 @@
       "summary": "该推文宣布GEX热力图更新频率大幅提升至近乎每秒级，属于市场分析工具的功能更新，为投资者提供更及时的市场数据，但未提及具体投资建议或标的。",
       "translation": "网站有大变化。GEX热力图的更新频率已大幅提高。可获得近乎每秒的更新。查看更多：https://t.co/SgtQedD2u5 https://t.co/FvbHn1zvSP",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094040450252619804",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "記憶體產業(20260810)\n- DRAM 結構：主流型約 80%（高容量 DDR4／DDR5，Data Center、PC）；利基型約 20%（DDR3、低容量 DDR4，工控、醫療）。供給高度集中：三星、美光、SK 海力士約 95%；長鑫 2–3%；南亞科約 1%。\n\n- AI 帶動結構性需求：美光預估 HBM 市場由 2025 年 350 億美元成長至 2028 年 1,000 億美元。此波強度（營收與毛利）已超越 2000 年網路泡沫，屬結構性而非單純供給收縮。\n\n- DDR4 仍關鍵：資料中心擴建推升 SSD，每顆 SSD 控制器仍需一顆 DDR4 當 buffer，故 DDR4 未因 HBM／DDR5 而退出。南亞科同時受惠大廠退出 DDR4 的轉單與 AI 需求。\n\n- NAND：預期 2026 年供需接近平衡、至少出現 2% 缺口；2027 年約 3%。主因庫存已調整、CSP 提前大量下單。\n\n- Nvidia SOCAMM 容量減半：Vera Rubin LPDDR5 SOCAMM 由 1536GB 調至 768GB，研判是產能吃緊下的出貨權衡，非需求放緩；供應商 LPDDR5x／SOCAMM 供給預估由 180 億 Gb 升至 2027 年 290 億 Gb。\n\n-7 月營收（記憶體相關）：南亞科 438.7 億（MoM +49.3%、YoY +720%）、華邦電 267.7 億（+30%、+292%）、晶豪科 67.8 億（+40%、+491%）、威剛 183.8 億、群聯 271.6 億，普遍受產能排擠與漲價驅動。\n\n3006 晶豪科（20260311）\n\n- 定位\n無晶圓廠的利基型記憶體 IC 設計公司。產品約：DRAM（以 DDR3 為主）約 55%、NAND／NOR／eMCP 約 35%、類比約 10%。主要代工為力積電。客戶多為通路與模組廠，產品多用於 IP Cam、HDD、消費與工控，占客戶 BOM 比重低，轉嫁能力相對較佳。\n\n核心邏輯\n- AI 產能排擠從 HBM／DDR5 蔓延至 DDR4，再至 DDR3／DDR2；同業轉向更高階產品，利基型訂單轉向晶豪科。\n\n- 1H26 仍吃低價庫存，合約價已鎖定且漲幅可觀（部分預估 2Q26 營收 QoQ 大增、ASP 再大幅上漲）。\n\n- 管理層預期 1H26 獲利有機會接近或優於 2021 年高峰（當年全年 EPS 約 17.6 元）。\n\n- 2H26 風險：力積電代工價顯著上漲、新成本顆粒自 3Q26 起出貨；但多數認為缺貨格局下可轉嫁，毛利率未必立刻大幅回落。\n\nAI 產能排擠讓利基型 DRAM／Flash 缺貨與漲價延續，晶豪科因產品組合與轉單受惠最大；1H26 獲利跳升幾乎無爭議，分歧主要在 2H26 成本轉嫁能力，以及該給多少本益比。8 月產業數據顯示漲價與營收動能仍強，較 3 月預估更樂觀。",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094040450252619804",
+    "published_at": "2026-08-30T12:32:03+00:00",
+    "fetched_at": "2026-08-30T20:17:17.357352+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "3006"
+      ],
+      "direction": "bullish",
+      "summary": "記憶體產業受AI帶動需求，利基型DRAM/Flash缺貨漲價，晶豪科因轉單效應受惠，1H26獲利預期大幅成長。",
+      "translation": "記憶體產業(20260810)：DRAM結構主流型約80%，利基型約20%，供給高度集中。AI帶動結構性需求，HBM市場預期大幅成長。DDR4仍關鍵，南亞科受惠轉單與AI需求。NAND供需接近平衡。Nvidia SOCAMM容量減半，但非需求放緩。7月營收普遍成長。3006晶豪科：利基型記憶體IC設計公司，受惠AI產能排擠與轉單，1H26獲利預期接近或優於2021年高峰，但2H26有成本轉嫁風險。8月產業數據顯示漲價與營收動能仍強。",
+      "confidence": "high"
     }
   },
   {
