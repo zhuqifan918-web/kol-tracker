@@ -27,24 +27,25 @@
     "focus_tickers": [
       "NVDA",
       "AAPL",
-      "MSFT",
       "COIN",
+      "MSFT",
       "BE"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技巨头",
-      "政治与市场关联",
-      "经济数据与政策",
-      "加密资产与流动性"
+      "AI与半导体产业动态",
+      "美国政治与政策对市场的影响",
+      "市场风险与债务问题",
+      "加密货币与区块链",
+      "住房市场与消费者金融"
     ],
-    "recent_shift": "近期观点从关注企业财报转向关注宏观政策和政治事件对市场的影响，并强调结构性风险。",
+    "recent_shift": "从关注财报和经济数据转向更多讨论政策干预和市场风险。",
     "representative_quotes": [
-      "This is not a memecoin. This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
-      "The AI boom has echoes of Enron.",
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction."
+      "Call your Nvidia, $NVDA. https://t.co/CG14w3MwNY",
+      "BREAKING: Tim Cook steps down as Apple, $AAPL, CEO on August 31 after taking the company from $350 billion to over $4 trillion.",
+      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades."
     ],
-    "generated_at": "2026-08-29T23:43:20.336799+00:00"
+    "generated_at": "2026-08-30T02:27:10.715548+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
