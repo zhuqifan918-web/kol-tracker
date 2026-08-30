@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$AAOI",
-      "$MU",
-      "$NVDA",
-      "$ESMT"
+      "NVDA",
+      "SIVE",
+      "AAOI",
+      "MRVL",
+      "COHR"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "光子学瓶颈（CW激光器、CPO）",
-      "内存超级周期（传统DRAM、NAND）",
-      "级联瓶颈与供应链紧张",
-      "AI基础设施需求（超大规模云、数据中心）",
-      "人形机器人与物理AI"
+      "AI算力供应链瓶颈",
+      "光模块与激光器短缺",
+      "存储芯片超级周期",
+      "CPO技术演进",
+      "上游元器件涨价"
     ],
-    "recent_shift": "近期观点从广泛内存和光通信转向更细化的供应链瓶颈（如CW激光器、传统DRAM），并强调对光通信和内存公司保持强烈看涨。",
+    "recent_shift": "观点从关注光通信和存储转向更广泛的供应链瓶颈，并强调长期结构性需求。",
     "representative_quotes": [
-      "The more time $SIVE spends in Swedish markets, the more they will be valued as such.",
-      "Cascading bottleneck patterns are occurring across memory (eg. DDR2, DDR3) and now packaging capacity I guess.",
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "I think the real party is about to begin.",
+      "The demand visibility... is just way too stupidly high.",
+      "AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing."
     ],
-    "generated_at": "2026-08-29T23:43:23.540439+00:00"
+    "generated_at": "2026-08-30T13:55:12.068045+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
       "AAPL",
-      "COIN",
       "MSFT",
-      "BE"
+      "MRNA",
+      "COIN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与半导体产业动态",
-      "美国政治与政策对市场的影响",
-      "市场风险与债务问题",
-      "加密货币与区块链",
-      "住房市场与消费者金融"
+      "AI与科技巨头财报",
+      "宏观经济与利率",
+      "地缘政治与贸易政策",
+      "加密货币与数字资产",
+      "消费与住房市场"
     ],
-    "recent_shift": "从关注财报和经济数据转向更多讨论政策干预和市场风险。",
+    "recent_shift": "近期观点中，对AI股的乐观情绪仍然存在，但同时也强调了潜在的经济风险和不确定性，整体保持中性偏谨慎。",
     "representative_quotes": [
-      "Call your Nvidia, $NVDA. https://t.co/CG14w3MwNY",
-      "BREAKING: Tim Cook steps down as Apple, $AAPL, CEO on August 31 after taking the company from $350 billion to over $4 trillion.",
-      "BREAKING: Nancy Pelosi just disclosed up to $13.5 million in new stock trades."
+      "This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
+      "The US Treasury buybacks are a 'mistake' costing credibility, says Druckenmiller.",
+      "JPMorgan has said that there may be a large-scale food supply crisis in the next year."
     ],
-    "generated_at": "2026-08-30T02:27:10.715548+00:00"
+    "generated_at": "2026-08-30T13:55:14.346736+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
