@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2094083798204047577",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "The more I look at ESMT, the more excited I get researching legacy memory themes. \n\nSo looked through H1 sellside models...\n\nFrom March ESMT reports:\nHuanan: DDR3 4Gb ASP +50% QoQ in Q2\nFubon: cited roughly +40% Q2 DRAM pricing\n\nBy August... Huanan was citing ESMT Q2 ASP growth of: \n+105–113% Q/Q blended. \n\nSaying DDR3 pricing had come in substantially better than expected. \n\nSo legacy memory pricing translated into much more operating leverage at ESMT. \n\nAbout PSMC wafer cost hikes: Huanan estimated manufacturing costs could rise ~100% in 2H26, but customers remained highly willing to accept the pass-through\n\nIf we look at July net income was roughly $109M...  way above the earnings levels the earlier models were built around.\n\nIf I had to give a TLDR \"consensus\" of reports\n\n1. DDR3/DDR2 supply remains structurally tight as competitors move capacity toward higher-value memory.\n2. Concord saw no conditions supporting a price reversal during 2026.\n3. Concord expected contract-price increases to cover higher foundry costs.\n4. Huanan later found that customer willingness to accept those cost increases was stronger than expected.\n\nFun thing I read from Huanan was DDR3 is used in products such as IP cameras and HDDs where the memory component is a relatively small part of the customer's total BOM. \n\nSo even very large legacy DRAM price hike may only add a few dollars to the finished product's BOM... and for many customers, paying a few extra dollars would be more economical than redesigning + requalifying (but this flows materially into ESMT's net income)\n\nAnyway, just excited about this idea (*disclosure I have positions)\n\nTLDR:\n-> Huanan updated ESMT blended Q2 ASP to +105-113% Q/Q\n-> Given July's blowout net income (putting ESMT at 1.9x p/e annualized RR), implications for the future are exciting if inelasticity continues + ESMT has the ability to hike further due to low % of finished product BOM cost. \n-> Indication customers were still willing to accept pass through for PSMC wafer hikes.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094083798204047577",
+    "published_at": "2026-08-30T15:24:18+00:00",
+    "fetched_at": "2026-08-30T17:50:36.099754+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ESMT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为ESMT因DDR3/DDR2等利基内存价格大幅上涨，业绩远超预期，且客户对成本转嫁接受度高，需求具有刚性，因此看好其未来表现。",
+      "translation": "我越看ESMT，就越对研究传统内存主题感到兴奋。所以翻阅了上半年的卖方模型……从3月份的ESMT报告来看：华南表示DDR3 4Gb ASP在Q2环比上涨50%；富邦则引用Q2 DRAM价格约上涨40%。到了8月……华南引用ESMT Q2 ASP增长为：混合环比上涨105-113%。也就是说DDR3定价远好于预期。因此传统内存定价转化为ESMT更大的运营杠杆。关于PSMC晶圆成本上涨：华南估计制造成本可能在2026年下半年上涨约100%，但客户仍然非常愿意接受转嫁。如果看看7月净利润约为1.09亿美元……远高于早期模型所基于的盈利水平。如果要给出一个TLDR“共识”报告：1. DDR3/DDR2供应仍然结构性紧张，因为竞争对手将产能转向更高价值的内存。2. Concord认为2026年期间没有支持价格逆转的条件。3. Concord预期合约价格上涨将覆盖更高的代工成本。4. 华南后来发现客户接受这些成本上涨的意愿比预期更强。我从华南那里读到的有趣一点是，DDR3用于IP摄像头和HDD等产品，其中内存组件占客户总BOM的比例相对较小。因此，即使传统DRAM价格大幅上涨，可能只会给最终产品的BOM增加几美元……对许多客户来说，支付几美元比重新设计和重新认证更经济（但这会实质性地影响ESMT的净收入）。总之，对这个想法感到兴奋（*披露我持有仓位）。TLDR: -> 华南将ESMT混合Q2 ASP更新为环比上涨105-113% -> 鉴于7月业绩井喷（按年化计算ESMT市盈率约为1.9倍），如果需求刚性持续且ESMT因占最终产品BOM成本比例低而能进一步提价，未来前景令人兴奋。 -> 有迹象表明客户仍愿意接受PSMC晶圆涨价的转嫁。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2094047735519592579",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

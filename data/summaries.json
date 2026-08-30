@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "NVDA",
+      "ESMT",
       "SIVE",
       "AAOI",
-      "MRVL",
-      "COHR"
+      "LITE",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力供应链瓶颈",
-      "光模块与激光器短缺",
+      "AI基础设施瓶颈",
       "存储芯片超级周期",
-      "CPO技术演进",
-      "上游元器件涨价"
+      "光子学与激光器短缺",
+      "供应链瓶颈传导",
+      "人形机器人"
     ],
-    "recent_shift": "观点从关注光通信和存储转向更广泛的供应链瓶颈，并强调长期结构性需求。",
+    "recent_shift": "从关注高利润率的高端存储和光模块，转向更广泛的供应链瓶颈机会，如旧式存储和传统封装。",
     "representative_quotes": [
-      "I think the real party is about to begin.",
-      "The demand visibility... is just way too stupidly high.",
-      "AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing."
+      "That capex flows across the AI supply chain… from memory and networking to foundries. Especially through the new bottlenecks/chokepoints that didn't benefit from older generations.",
+      "Availability currently matters more than pricing. In the current market for optical products.",
+      "If you're curious what I'm doing this weekend: I'm trying to piece together who has Powerchip (PSMC) wafer allocations and also serves DDR2/DDR3 markets."
     ],
-    "generated_at": "2026-08-30T13:55:12.068045+00:00"
+    "generated_at": "2026-08-30T17:52:16.216830+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
