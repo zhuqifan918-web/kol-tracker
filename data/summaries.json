@@ -1,74 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "ESMT",
       "SIVE",
+      "ESMT",
       "NVDA",
       "AAOI",
       "LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施瓶颈",
-      "光模块和激光器短缺",
-      "存储器涨价周期",
-      "人形机器人",
-      "供应链瓶颈传导"
+      "AI光通信与激光器瓶颈",
+      "利基型存储涨价周期",
+      "AI算力基础设施需求强劲",
+      "CPO/硅光子技术演进",
+      "多环节瓶颈传递"
     ],
-    "recent_shift": "从关注大型AI芯片和服务器，转向更深层的瓶颈环节，如传统存储（DDR2/DDR3）、光模块激光器、以及MLCC等上游组件。",
+    "recent_shift": "近期观点从关注AI算力整体转向更细分的瓶颈环节，特别强调光通信激光器与利基存储的供需失衡。",
     "representative_quotes": [
-      "Cascading bottleneck patterns are occurring across memory (eg. DDR2, DDR3) and now packaging capacity I guess.",
-      "CW laser scarcity is already happening before the main volume ramp even begins...",
-      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "Can ESMT keep selling these carrots through 2027? All the other farmers thinks so since it's both hard + low incentive to migrate their valuable potato farms back to carrot farms.",
+      "I think Sivers is going to cook after connecting the dots.",
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-08-30T20:18:53.465066+00:00"
+    "generated_at": "2026-08-31T06:48:48.267784+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
-      "MSFT",
       "AAPL",
-      "MRNA",
-      "COIN"
+      "MSFT",
+      "COIN",
+      "BE"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与半导体",
-      "加密货币与比特币",
-      "地缘政治与关税",
-      "财富分配与劳动力市场",
-      "房地产与消费"
+      "AI与科技股估值",
+      "地缘政治与贸易政策",
+      "财政与货币政策",
+      "消费者压力与债务",
+      "市场结构性变化"
     ],
-    "recent_shift": "近期偏向看涨，特别是对科技股和加密货币，同时对政治人物交易和财政政策保持警惕。",
+    "recent_shift": "近期观点变化不大，但注意到对市场过度乐观的警告和地缘政治风险的关注增加。",
     "representative_quotes": [
-      "BREAKING: Trump: Nvidia, $NVDA, just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incredible numbers, and the Company’s Great Success. Only in America!",
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
+      "Hartnett believes the market is overly optimistic, pricing in moderate midterm election results and a continuation of deregulation and AI-friendly policies.",
+      "'Stocks would fall over 10%' if Democrats take the Senate, per Bank of America's Hartnett",
+      "Nvidia, $NVDA, beat earnings. But how can you determine how much it may move after? Check the options market."
     ],
-    "generated_at": "2026-08-31T01:01:31.981547+00:00"
+    "generated_at": "2026-08-31T06:48:54.069065+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SNDK",
       "MU",
-      "HXSCL",
-      "MRVL",
-      "META"
+      "SK Hynix",
+      "META",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储行业高景气与供需紧张",
-      "AI算力需求驱动存储、CPU、云厂商投资",
-      "美债危机与避险资产（BTC/黄金）",
-      "国产存储与半导体自主可控",
-      "Gate平台安全事件与维权"
+      "AI Agent推动存储需求爆发",
+      "美债危机与AI生产效率提升",
+      "存储行业高回报与市场波动",
+      "CPU需求即将迎来结构性缺口",
+      "长期投资转向定投SPY和QQQ"
     ],
-    "recent_shift": "近期从极度看好存储转为更加谨慎，强调控制风险、计划定投，并意识到市场波动和黑天鹅风险。",
+    "recent_shift": "从8月中旬的存储极度乐观和重仓杠杆，转向月末强调长期稳健投资、增加现金仓位和定投ETF，同时依然看好AI存储长期机会。",
     "representative_quotes": [
-      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。AI想搞起来，就离不开存储。",
-      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。",
-      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。像闪迪能一天拉40%，1000拉到1400。"
+      "始终坚信这一条，如果机会足够伟大，绝对显而易见随时都能上车，而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。",
+      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。那时50万亿美元级别债务和AI第一轮大规模生产率数据会第一次正面碰撞。",
+      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。"
     ],
-    "generated_at": "2026-08-31T01:01:36.055086+00:00"
+    "generated_at": "2026-08-31T06:48:51.541070+00:00"
   }
 }
