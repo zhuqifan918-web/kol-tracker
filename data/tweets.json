@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2094198730442330133",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "16% of fund managers say gold is undervalued, per Bank of America.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094198730442330133",
+    "published_at": "2026-08-30T23:01:00+00:00",
+    "fetched_at": "2026-08-31T01:00:51.624926+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国银行调查显示，16%的基金经理认为黄金被低估，这反映了市场对黄金的看多情绪有所上升，但并非强烈看多，可能意味着黄金存在一定的投资机会。",
+      "translation": "美国银行调查显示，16%的基金经理认为黄金被低估。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094174317110260194",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -138,6 +157,25 @@
       "summary": "美光员工受三星和海力士影响计划组织罢工以争取更高奖金，这可能影响美光的产能和成本，但短期内可能推高内存价格，利好美光股价。",
       "translation": "受三星和海力士刺激，美光员工也在计划组织罢工，提高奖金分配。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094085080084091308",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "孙割：妈妈！\n景甜：牛来！ https://t.co/nN2kzG3z2l",
+    "tweet_url": "https://x.com/xiaomustock/status/2094085080084091308",
+    "published_at": "2026-08-30T15:29:23+00:00",
+    "fetched_at": "2026-08-31T01:00:42.712624+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文使用网络流行语和隐喻表达对市场的看涨情绪，涉及孙割和景甜等人物，暗示牛市即将到来。",
+      "translation": "孙割：妈妈！景甜：牛来！（暗示市场看涨）",
+      "confidence": "low"
     }
   },
   {

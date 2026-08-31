@@ -28,47 +28,47 @@
       "NVDA",
       "MSFT",
       "AAPL",
-      "META",
+      "MRNA",
       "COIN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI与科技股",
-      "政治与市场联动",
-      "经济数据疲软",
-      "加密货币与财政政策",
-      "关税与贸易战"
+      "人工智能与半导体",
+      "加密货币与比特币",
+      "地缘政治与关税",
+      "财富分配与劳动力市场",
+      "房地产与消费"
     ],
-    "recent_shift": "近期观点从对AI和科技股的乐观转向对经济衰退和债务问题的担忧，同时关注政治事件对市场的即时影响。",
+    "recent_shift": "近期偏向看涨，特别是对科技股和加密货币，同时对政治人物交易和财政政策保持警惕。",
     "representative_quotes": [
-      "This is not a memecoin. This is Nvidia, $NVDA, one of the most valuable companies in the world. It finished the day up more than 8% after a double earnings beat.",
-      "Employees’ share from wages and benefits fell to 60 per cent, the lowest level since the 1950s.",
-      "BREAKING: Trump says that the US will refill the Strategic Petroleum Reserve using Venezuelan oil"
+      "BREAKING: Trump: Nvidia, $NVDA, just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incredible numbers, and the Company’s Great Success. Only in America!",
+      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
+      "Underweighting bonds and holding about 10% to 15% of a portfolio in gold and a bit of Bitcoin could both reduce risk and boost returns, said Dalio"
     ],
-    "generated_at": "2026-08-30T22:53:10.435319+00:00"
+    "generated_at": "2026-08-31T01:01:31.981547+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SNDK",
       "MU",
-      "HX",
-      "META",
-      "SKHNY"
+      "HXSCL",
+      "MRVL",
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片需求爆发",
-      "AI基础设施投资",
-      "美债危机与避险资产",
-      "DeepSeek低价策略推动存储消耗",
-      "CPU需求提升"
+      "存储行业高景气与供需紧张",
+      "AI算力需求驱动存储、CPU、云厂商投资",
+      "美债危机与避险资产（BTC/黄金）",
+      "国产存储与半导体自主可控",
+      "Gate平台安全事件与维权"
     ],
-    "recent_shift": "近期从极度看好存储转向谨慎，承认亏损并强调降低杠杆、定投指数，但依然长期看好AI和存储。",
+    "recent_shift": "近期从极度看好存储转为更加谨慎，强调控制风险、计划定投，并意识到市场波动和黑天鹅风险。",
     "representative_quotes": [
-      "失眠让gpt扒了一圈最近的全球市场a股美股，做agent的标的在本次2季度报后业绩都非常出色。",
-      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。那时50万亿美元级别债务和AI第一轮大规模生产率数据会第一次正面碰撞。",
-      "虽然过去一个月亏了35%，账户接近腰斩，但是今年存储带来的收益还能剩268%。不再激进求获得多高的收益，只求能稳定健康点。"
+      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。AI想搞起来，就离不开存储。",
+      "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。",
+      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。像闪迪能一天拉40%，1000拉到1400。"
     ],
-    "generated_at": "2026-08-30T20:18:56.194939+00:00"
+    "generated_at": "2026-08-31T01:01:36.055086+00:00"
   }
 }
