@@ -1,5 +1,297 @@
 [
   {
+    "tweet_id": "2094422769156927877",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Currently 2 for 3 on GEX Periscope scalps using /MNQ futures! Join below to see how traders use our tools for scalping, and for 20% off Unusual Whales sitewide:\n\nhttps://t.co/fGVDUt0hGD",
+    "tweet_url": "https://x.com/unusual_whales/status/2094422769156927877",
+    "published_at": "2026-08-31T13:51:15+00:00",
+    "fetched_at": "2026-08-31T14:37:30.519317+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MNQ"
+      ],
+      "direction": "neutral",
+      "summary": "该推文宣传使用GEX Periscope工具和MNQ期货进行日内波段交易，并提到成功率2/3，但未涉及具体投资建议或市场观点。其主要目的是推广Unusual Whales的订阅服务，附带20%折扣。",
+      "translation": "目前使用/MNQ期货进行GEX Periscope日内波段交易，成功率为2/3！加入下方，了解交易者如何使用我们的工具进行波段交易，并享受Unusual Whales全站20%折扣：https://t.co/fGVDUt0hGD",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094418931079598256",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Saudi Arabia is in early talks to raise at least $8 billion in a new loan as the Iran war strains finances, per Bloomebrg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094418931079598256",
+    "published_at": "2026-08-31T13:36:00+00:00",
+    "fetched_at": "2026-08-31T14:37:32.174719+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "沙特阿拉伯正在谈判新的贷款，因与伊朗的战争导致财政压力，这可能影响全球油市和地缘政治风险，但未直接提及具体投资标的。",
+      "translation": "据彭博社报道，沙特阿拉伯正在进行早期谈判，以筹集至少80亿美元的新贷款，因为与伊朗的战争使财政承压。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094416430032896428",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Yep, with $NVDA investing $3.5B into Mediatek.\n\nIt does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek, with a second order effect of eroding $AVGO position.\n\nPlaybook feels similar to what they did with Neoclouds like $NBIS and $CRWV (vs. hyperscaler cloud programs)\n\nHelp create the next leaders, then make them both financially and strategically aligned with Nvidia.\n\nI do think it’s brilliant, but moves like this might push $AMD, $AVGO, and certain hyperscalers closer together.\n\nRegardless this move cements Nvidia’s strategic position in inference (where hyperscaler ASICs were a former long-term bear case).",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094416430032896428",
+    "published_at": "2026-08-31T13:26:03+00:00",
+    "fetched_at": "2026-08-31T14:36:10.259263+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MRVL",
+        "AVGO",
+        "NBIS",
+        "CRWV",
+        "AMD"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为英伟达投资联发科3.5亿美元，将巩固其在推理市场的战略地位，并可能削弱博通（AVGO）的ASIC优势，同时利好Marvell（MRVL）和联发科。这种策略有助于英伟达扶持新的领导者，但可能促使AMD、博通及超大规模云厂商更紧密合作。整体对英伟达及受益方（MRVL、联发科）持乐观态度。",
+      "translation": "是的，英伟达向联发科投资35亿美元。感觉英伟达正在扮演造王者角色，培育下一代ASIC赢家，如Marvell/联发科，同时产生削弱博通地位的二阶效应。这玩法类似他们对Neoclouds（如NBIS和CRWV）所做的（相对超大规模云项目）。先帮助创造新领导者，然后让它们在财务和战略上与英伟达对齐。我认为这很聪明，但这类举措可能促使AMD、博通及某些超大规模云厂商更紧密地联合。无论如何，此举巩固了英伟达在推理市场的战略地位（而超大规模云ASIC曾是长久以来的空头理由）。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094416206170062901",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: The Unusual Whales live trading show WhaleWatch is live now!\n\nJoin to see how traders use our GEX Periscope to trade futures:\nhttps://t.co/fGVDUt0hGD",
+    "tweet_url": "https://x.com/unusual_whales/status/2094416206170062901",
+    "published_at": "2026-08-31T13:25:10+00:00",
+    "fetched_at": "2026-08-31T14:37:28.348601+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣传Unusual Whales的现场交易节目WhaleWatch，介绍如何使用GEX Periscope工具交易期货，属于市场分析和工具推广内容，未给出具体投资建议。",
+      "translation": "突发新闻：Unusual Whales的现场交易节目WhaleWatch正在直播！快来观看交易者如何使用我们的GEX Periscope交易期货：https://t.co/fGVDUt0hGD",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094410797984162303",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit $NVDA is the winner here - they cover even custom chips via $MRVL and MediaTek",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094410797984162303",
+    "published_at": "2026-08-31T13:03:41+00:00",
+    "fetched_at": "2026-08-31T14:36:15.321941+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为英伟达在定制芯片领域具有竞争优势，其市场覆盖范围包括通过收购Marvell和联发科的合作来实现，暗示看好英伟达的长期投资价值。",
+      "translation": "@aleabitoreddit $NVDA 是这里的赢家——他们甚至通过 $MRVL 和联发科来覆盖定制芯片。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094409117263700139",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"AI stocks show similarities to 2000 tech peak,\" per JPMorgan",
+    "tweet_url": "https://x.com/unusual_whales/status/2094409117263700139",
+    "published_at": "2026-08-31T12:57:00+00:00",
+    "fetched_at": "2026-08-31T14:37:34.582610+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通指出，当前AI股票的表现与2000年互联网泡沫顶峰时期相似，暗示市场可能过热，存在回调风险。投资者需警惕AI板块估值过高，注意风险管理。",
+      "translation": "摩根大通：AI股票与2000年科技股顶峰有相似之处。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094405648293482965",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Today, $NVDA has announced a $3.5B investment into Mediatek. \n\nIt appears Nvidia is \"networking\" itself into the broader ASIC ecosystem, from $MRVL to MediaTek.\n\nAnd have future ecosystems aligned with Nvidia standards. (maybe to fend off $AVGO as well) https://t.co/okdGKS51U3",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094405648293482965",
+    "published_at": "2026-08-31T12:43:13+00:00",
+    "fetched_at": "2026-08-31T14:36:20.242106+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MRVL",
+        "AVGO"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达宣布向联发科投资35亿美元，表明其正积极布局ASIC生态系统，以扩大自身标准的影响力并可能对抗博通。此举对英伟达及合作方（如联发科、迈威尔）构成利好。",
+      "translation": "今天，$NVDA宣布向联发科投资35亿美元。看起来英伟达正在将自己\"网络化\"到更广泛的ASIC生态系统中，从$MRVL到联发科。并且让未来的生态系统与英伟达的标准保持一致。（也许是为了抵御$AVGO）",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094399050711781522",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Investors are growing more bullish on US stocks.... with 27% of managers are overweight US stocks,\" per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2094399050711781522",
+    "published_at": "2026-08-31T12:17:00+00:00",
+    "fetched_at": "2026-08-31T14:37:36.869649+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "美国银行调查显示，投资者对美国股市的看涨情绪升温，27%的基金经理超配美股，反映出市场对美股前景的乐观态度。",
+      "translation": "投资者对美国股市越来越看涨……据美国银行调查，27%的基金经理超配美股。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094388983895667198",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran",
+    "tweet_url": "https://x.com/unusual_whales/status/2094388983895667198",
+    "published_at": "2026-08-31T11:37:00+00:00",
+    "fetched_at": "2026-08-31T14:37:41.121307+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道伊朗指责以色列推动美国与伊朗开战，地缘政治紧张局势可能影响市场风险偏好，但对具体投资标的没有明确指向。投资者需关注油价波动和避险资产走势。",
+      "translation": "突发：伊朗表示，以色列和以色列总理内塔尼亚胡正在将美国推向与伊朗的战争。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094383950768844960",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The EU has designated ChatGPT with designation under a \"very large online search engine.\"\n\nAs a result, they will now have to comply with additional obligations such as taking steps to ensure their systems can’t be misused to spread illegal content, influence elections or harm users.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094383950768844960",
+    "published_at": "2026-08-31T11:17:00+00:00",
+    "fetched_at": "2026-08-31T14:37:42.853694+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "欧盟将ChatGPT指定为超大型在线搜索引擎，要求其遵守额外义务以防止滥用。此监管消息可能对OpenAI及其相关企业带来合规成本，但短期内对具体上市公司影响有限，属于中性事件。",
+      "translation": "突发：欧盟已将ChatGPT指定为“超大型在线搜索引擎”。因此，他们现在必须遵守额外义务，例如采取措施确保其系统不会被滥用以传播非法内容、影响选举或伤害用户。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094378917528481875",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Tim Cook steps down as Apple, $AAPL, CEO on today after taking the company from $350 billion to over $4 trillion.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094378917528481875",
+    "published_at": "2026-08-31T10:57:00+00:00",
+    "fetched_at": "2026-08-31T14:37:44.383871+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "蒂姆·库克卸任苹果CEO的新闻本身对股价影响中性，但投资者可能关注继任者及公司未来战略方向。苹果市值从3500亿增长至4万亿，显示其长期增长强劲，但领导层变动可能带来不确定性。",
+      "translation": "突发：蒂姆·库克今日卸任苹果公司CEO，他带领公司市值从3500亿美元增长至超过4万亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094378666927239596",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Remember my $SOI thesis anon? Soitec interview commentary today:\n\n- 80% of capacity reservation agreements expected within 1-2 weeks, with more than 10 in total. \n\n-  $200M Photonics-SOI revenue now described as \"absolutely a floor\"\n\n$TSM also sees SiPH going mainstream in 2027 with market share topping 50%+ of the optical transceiver market\n\nIf you hold a monopoly-like position over a chokepoint:\n(UBS estimates Soitec has 95% share of the market for substrates underpinning silicon photonics chips)\n\nRevenue usually flows through you.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094378666927239596",
+    "published_at": "2026-08-31T10:56:00+00:00",
+    "fetched_at": "2026-08-31T14:36:25.505188+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOI",
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "该推文强调Soitec在硅光子学领域的垄断地位（95%市场份额），并指出其产能预留协议即将敲定，Photonics-SOI收入预期上调，同时台积电预计硅光子将在2027年成为主流，这些因素共同构成对Soitec的强烈看涨信号。",
+      "translation": "还记得我的$SOI论点吗？Soitec今天的采访评论：- 80%的产能预留协议预计将在1-2周内敲定，总计超过10份。- 2亿美元的Photonics-SOI收入现在被描述为'绝对是最低水平'。$TSM也认为硅光子将在2027年成为主流，市场占有率将超过光收发器市场的50%。如果你在瓶颈环节拥有近乎垄断的地位（UBS估计Soitec在硅光子芯片基底市场占有95%的份额），收入通常会流向你。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094365307876040857",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "“Memory is a bubble.”Explain this then, KOSPI bears:\n\nSamsung has reportedly reserved ~70% of its memory production capacity through 2031 via LTAs with $NVDA, $MSFT, and $GOOGL as main counterparties.\n\nFive years of demand visibility… https://t.co/GUGWTkXkMc",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094365307876040857",
+    "published_at": "2026-08-31T10:02:55+00:00",
+    "fetched_at": "2026-08-31T14:36:30.333701+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文对三星及内存行业持乐观态度，因为三星已通过与英伟达、微软和谷歌等主要客户签订长期协议，预留了约70%的内存产能直至2031年，提供了五年的需求可见性。这对内存股和AI相关供应链是积极信号。",
+      "translation": "内存是一个泡沫。向KOSPI空头解释一下这个：据报道，三星已通过与英伟达、微软和谷歌作为主要对手方签订的长期协议，预留了其约70%的内存产能直至2031年。五年的需求可见性……",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094353950040592854",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Imagine Celestial ($MRVL acquisition) was public. \n\nThe valuation would probably be astronomical in US markets (if I had to guess, $6-10B)\n\nBecause 2028 revenue projections were $500m (q4 annualized runrate), 2029 revenue projections were $1B.\n\nAnd because Celestial is a core part of hyperscaler CPO programs. \n\nCelestial's 2026 Q2 earnings would have been:\n\n- Close to $0 revenue (Marvell said \"revenue and earnings since the acquisition were not material\")\n-  Losing -$12.5M/quarter ($50M/year)\n\nWould people who knew what they were talking about looking at qualification cycle players say...\n\n1. based on Celestial's Q2 P/S numbers and because it was losing -$12.5M a quarter... That it's a worthless meme stock? \n\nOr \n\n2. with CPO hyperscaler opportunities for 2028, it should be valued at $6-10B? \n\nAnd I think that's a core cultural disagreement between US / EU cultures + markets. \n\nIf you knew how to evaluate qualification cycle players, which number actually matters? I'd argue overwhelmingly the latter.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094353950040592854",
+    "published_at": "2026-08-31T09:17:47+00:00",
+    "fetched_at": "2026-08-31T14:36:36.703190+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论了Marvell收购的Celestial公司的估值问题，强调在评估合格周期（qualification cycle）中的公司时，应关注未来增长潜力（如2028-2029年的收入预期）而非当前财务表现。作者认为美国市场更看重前瞻性估值，而欧洲文化更注重当前数据。",
+      "translation": "想象一下，如果Celestial（被Marvell收购）是上市公司。其估值在美国市场可能会非常高（我猜，大概60-100亿美元）。因为2028年的收入预测为5亿美元（Q4年化运行率），2029年的收入预测为10亿美元。而且Celestial是超大规模云厂商CPO项目的核心部分。Celestial的2026年Q2财报将会是：收入接近0美元（Marvell表示“自收购以来的收入和收益并不重要”），每季度亏损1250万美元（每年亏损5000万美元）。那些懂行的人，看资格周期玩家时会怎么看呢？1. 基于Celestial的Q2 P/S数据，并且每季度亏损1250万美元……它是一文不值的meme股？还是2. 考虑到2028年CPO超大规模云厂商的机会，它应该价值60-100亿美元？我认为这正是美国与欧洲文化和市场之间的核心分歧。如果你知道如何评估资格周期玩家，哪个数字真正重要？我认为绝对是后者。"
+    }
+  },
+  {
     "tweet_id": "2094312656148877332",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -127,6 +419,25 @@
       "summary": "该推文认为ESMT（3006）的市盈率极低，仅基于年化盈利的1.9倍，且公司拥有大量净现金和库存，受益于内存价格上涨。作者看好其价值，认为市场可能低估了该股票。",
       "translation": "ESMT（3006）的市盈率仅为7月年化盈利的1.9倍。最近净利润为1.09亿美元/月，年化约13亿美元。拥有约3.959亿美元净现金和2.496亿美元库存。市值减去净现金和库存后，相当于约17个月的7月盈利。其中，库存变现受益于内存价格上涨。上个季度其他分析师的报告显示，他们的平均售价（ASP）预期环比增长105-113%。DDR2/DDR3、NOR闪存、SLC NAND的价格预计在下半年继续上涨。主要问题是持续时间，但我个人认为传统DRAM/NAND的短缺将持续到2027年。其他人可能有不同意见。其他分析师如Huanan认为，PSMC的晶圆涨价很大程度上是转嫁的（我们将在下半年看到结果）。大多数人认为到2028年约20倍远期市盈率的公司具有吸引力……但对我个人来说，1.9倍的当前运行率市盈率似乎是个异常值。这是我对该公司/传统内存主题的看法，让其他人/市场来决定这是否被低估。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094244028749418496",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The $10 million in question originated from a larger $67 million Medicaid settlement in 2024 between Florida and Centene Corp\n\nRead more: https://t.co/ie4c1VtIBP",
+    "tweet_url": "https://x.com/unusual_whales/status/2094244028749418496",
+    "published_at": "2026-08-31T02:01:00+00:00",
+    "fetched_at": "2026-08-31T14:37:56.601749+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及佛罗里达州与Centene Corp之间的6700万美元医疗补助和解案，其中涉及1000万美元。这属于企业法律与财务事件，但未提供对Centene股票投资价值的直接分析或观点。",
+      "translation": "问题中的1000万美元来源于2024年佛罗里达州与Centene Corp之间6700万美元的医疗补助和解案。",
+      "confidence": "medium"
     }
   },
   {
