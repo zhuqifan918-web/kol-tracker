@@ -1,51 +1,49 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "NVDA",
       "SIVE",
       "ESMT",
-      "NVDA",
-      "AAOI",
-      "LITE"
+      "MRVL",
+      "AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI光通信与激光器瓶颈",
-      "利基型存储涨价周期",
-      "AI算力基础设施需求强劲",
-      "CPO/硅光子技术演进",
-      "多环节瓶颈传递"
+      "AI算力基础设施持续扩张",
+      "光学/光模块供应链瓶颈与受益股",
+      "利基型存储（DDR2/DDR3）涨价与短缺",
+      "定制ASIC与Nvidia生态影响力",
+      "电力与散热等AI配套基础设施"
     ],
-    "recent_shift": "近期观点从关注AI算力整体转向更细分的瓶颈环节，特别强调光通信激光器与利基存储的供需失衡。",
+    "recent_shift": "近期观点从关注AI服务器和光模块需求，转向更深入地挖掘光学上游（如CW激光器）和利基存储（如ESMT）的细分瓶颈机会，同时保持对AI算力扩张的乐观态度。",
     "representative_quotes": [
-      "Can ESMT keep selling these carrots through 2027? All the other farmers thinks so since it's both hard + low incentive to migrate their valuable potato farms back to carrot farms.",
+      "AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing.",
       "I think Sivers is going to cook after connecting the dots.",
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "Can ESMT keep selling these carrots through 2027? All the other farmers thinks so since it's both hard + low incentive to migrate their valuable potato farms back to carrot farms."
     ],
-    "generated_at": "2026-08-31T06:48:48.267784+00:00"
+    "generated_at": "2026-08-31T14:38:10.643979+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "COIN",
-      "BE"
+      "$NVDA",
+      "$AAPL",
+      "$MSFT",
+      "$COIN",
+      "$IREN"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI与科技股估值",
-      "地缘政治与贸易政策",
-      "财政与货币政策",
-      "消费者压力与债务",
-      "市场结构性变化"
+      "AI 股票估值与泡沫风险",
+      "加密资产与比特币牛市",
+      "地缘政治与能源市场"
     ],
-    "recent_shift": "近期观点变化不大，但注意到对市场过度乐观的警告和地缘政治风险的关注增加。",
+    "recent_shift": "近期偏多科技和加密，但对于债务和劳动力市场表示担忧。",
     "representative_quotes": [
-      "Hartnett believes the market is overly optimistic, pricing in moderate midterm election results and a continuation of deregulation and AI-friendly policies.",
-      "'Stocks would fall over 10%' if Democrats take the Senate, per Bank of America's Hartnett",
-      "Nvidia, $NVDA, beat earnings. But how can you determine how much it may move after? Check the options market."
+      "Nvidia, $NVDA, beat earnings. But how can you determine how much it may move after?",
+      "S&P500 to hit 7,900, per Reuters poll.",
+      "Bitcoin could hit $300,000 by 2029, per Bernstein."
     ],
-    "generated_at": "2026-08-31T06:48:54.069065+00:00"
+    "generated_at": "2026-08-31T14:38:12.996308+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
