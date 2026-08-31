@@ -4,69 +4,69 @@
       "NVDA",
       "SIVE",
       "ESMT",
-      "MRVL",
-      "AAOI"
+      "AAOI",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力基础设施持续扩张",
-      "光学/光模块供应链瓶颈与受益股",
-      "利基型存储（DDR2/DDR3）涨价与短缺",
-      "定制ASIC与Nvidia生态影响力",
-      "电力与散热等AI配套基础设施"
+      "AI基础设施建设与算力投资持续高涨",
+      "存储芯片（特别是利基型DRAM）供需紧张、价格上涨",
+      "光子学与光互连技术成为新瓶颈，激光器/光模块需求强劲",
+      "供应链瓶颈从高端向低端蔓延，带来投资机会"
     ],
-    "recent_shift": "近期观点从关注AI服务器和光模块需求，转向更深入地挖掘光学上游（如CW激光器）和利基存储（如ESMT）的细分瓶颈机会，同时保持对AI算力扩张的乐观态度。",
+    "recent_shift": "近期观点从关注AI核心受益股转向挖掘供应链瓶颈环节（如利基存储、光通信激光器）中的价值洼地，同时表达对宏观波动和融资稀释的担忧。",
     "representative_quotes": [
-      "AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing.",
-      "I think Sivers is going to cook after connecting the dots.",
-      "Can ESMT keep selling these carrots through 2027? All the other farmers thinks so since it's both hard + low incentive to migrate their valuable potato farms back to carrot farms."
+      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
+      "Even in a bear case where earnings are unsustainable, reverting monthly net income back to $55m, would give it a 3.8x P/E.",
+      "The demand visibility... is just way too stupidly high."
     ],
-    "generated_at": "2026-08-31T14:38:10.643979+00:00"
+    "generated_at": "2026-08-31T20:31:28.541571+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$AAPL",
-      "$MSFT",
-      "$COIN",
-      "$IREN"
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "META",
+      "GOOGL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI 股票估值与泡沫风险",
-      "加密资产与比特币牛市",
-      "地缘政治与能源市场"
+      "AI与科技巨头",
+      "政治与市场",
+      "宏观政策",
+      "市场情绪"
     ],
-    "recent_shift": "近期偏多科技和加密，但对于债务和劳动力市场表示担忧。",
+    "recent_shift": "近期明显偏向看多AI和科技股，同时对政治事件的影响更为关注。",
     "representative_quotes": [
-      "Nvidia, $NVDA, beat earnings. But how can you determine how much it may move after?",
-      "S&P500 to hit 7,900, per Reuters poll.",
-      "Bitcoin could hit $300,000 by 2029, per Bernstein."
+      "\"Nvidia, $NVDA, could be up to 50% undervalued,\" per Bank of America",
+      "\"AI stocks show similarities to 2000 tech peak,\" per JPMorgan",
+      "\"The AI boom has echoes of Enron,\" per BI"
     ],
-    "generated_at": "2026-08-31T14:38:12.996308+00:00"
+    "generated_at": "2026-08-31T20:31:24.903702+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
       "SNDK",
-      "MU",
       "SK Hynix",
+      "MU",
       "META",
       "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI Agent推动存储需求爆发",
-      "美债危机与AI生产效率提升",
-      "存储行业高回报与市场波动",
-      "CPU需求即将迎来结构性缺口",
-      "长期投资转向定投SPY和QQQ"
+      "存储芯片供需紧张与涨价周期",
+      "AI基础设施投资（算力、存储、光互连）",
+      "美债危机与避险资产选择",
+      "Agent（AI代理）商业化加速",
+      "风险控制与去杠杆"
     ],
-    "recent_shift": "从8月中旬的存储极度乐观和重仓杠杆，转向月末强调长期稳健投资、增加现金仓位和定投ETF，同时依然看好AI存储长期机会。",
+    "recent_shift": "从前期重仓存储、追求高杠杆收益，转向增加现金仓位、配置SPY/QQQ等指数基金，并强调风险控制和稳健操作，同时关注点从存储扩展到多个科技子板块。",
     "representative_quotes": [
       "始终坚信这一条，如果机会足够伟大，绝对显而易见随时都能上车，而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。",
-      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。那时50万亿美元级别债务和AI第一轮大规模生产率数据会第一次正面碰撞。",
-      "市场是真不缺机会，更不缺黑天鹅。以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。"
+      "真正解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。AI想搞起来，就离不开存储。",
+      "不贪就不返贫。"
     ],
-    "generated_at": "2026-08-31T06:48:51.541070+00:00"
+    "generated_at": "2026-08-31T20:31:22.452330+00:00"
   }
 }

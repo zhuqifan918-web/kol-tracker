@@ -1,5 +1,226 @@
 [
   {
+    "tweet_id": "2094516012557427002",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Interesting to see $QQQ spike when Trump gave a comment on potential rate hikes:\n\nAnswer: \"Trump: No, I have a lot of respect for him, and he'll do what he has to do.\n\nI think our interest rates are too high.\" https://t.co/vKwUWbUfHx",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094516012557427002",
+    "published_at": "2026-08-31T20:01:46+00:00",
+    "fetched_at": "2026-08-31T20:29:15.262804+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "QQQ"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普评论利率过高并尊重美联储主席，市场解读为未来可能降息，推动QQQ上涨，短期对科技股偏利好。",
+      "translation": "有趣的是，当特朗普就潜在加息发表评论时，QQQ出现了飙升：特朗普说：“不，我非常尊重他，他会做他必须做的事。我认为我们的利率太高了。”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094509779649732935",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jensen Huang of Nvidia, $NVDA, has said:\n\nAI is bringing manufacturing back to America and reindustrializing the nation after decades of offshoring.  AI is creating demand that drives investment in our aging power grid and sustainable energy, powered by market forces, not subsidies.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094509779649732935",
+    "published_at": "2026-08-31T19:37:00+00:00",
+    "fetched_at": "2026-08-31T20:30:34.216733+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "黄仁勋的观点表明AI正在推动美国制造业回流和电网投资，对英伟达及新能源、电网相关行业构成长期利好。",
+      "translation": "英伟达的黄仁勋表示，人工智能正在将制造业带回美国，并在数十年的离岸外包后重新实现国家工业化。AI正在创造需求，推动对老化电网和可持续能源的投资，这是由市场力量而非补贴驱动的。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094499713269571968",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Bernstein expects Meta to overtake Google Search in advertising revenue by the end of 2026.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094499713269571968",
+    "published_at": "2026-08-31T18:57:00+00:00",
+    "fetched_at": "2026-08-31T20:30:37.171212+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "GOOGL"
+      ],
+      "direction": "bullish",
+      "summary": "伯恩斯坦预测Meta将在2026年底前超越谷歌搜索广告收入，这可能对Meta的股价构成利好，而对谷歌母公司Alphabet构成潜在压力。",
+      "translation": "伯恩斯坦预计，到2026年底，Meta将在广告收入上超越谷歌搜索。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094496493558472930",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Apple, $AAPL, may change 'Lake Ontario' to 'Lake America' soon after talk with Trump, US Interior Secretary has said",
+    "tweet_url": "https://x.com/unusual_whales/status/2094496493558472930",
+    "published_at": "2026-08-31T18:44:12+00:00",
+    "fetched_at": "2026-08-31T20:30:39.268204+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "该消息提及苹果公司（AAPL）与特朗普政府可能就地理命名进行讨论，但未涉及公司基本面或财务数据，因此对投资影响中性。投资者应关注后续是否有实质性政策或业务影响。",
+      "translation": "突发：苹果公司（AAPL）可能在与特朗普会谈后，将‘安大略湖’更名为‘美国湖’，美国内政部长已表示。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094494680062828586",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US Treasury Secretary Bessent: Traditionally, you don't raise rates into a supply shock.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094494680062828586",
+    "published_at": "2026-08-31T18:37:00+00:00",
+    "fetched_at": "2026-08-31T20:30:41.109338+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "贝森特表示，在供应冲击时通常不会加息，这暗示货币政策可能不会收紧以应对通胀，对市场流动性构成一定支撑。但该言论也可能被解读为对通胀压力的某种担忧，从而对风险资产造成不确定性。",
+      "translation": "美国财政部长贝森特：传统上，你不会在供应冲击时加息。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094492628758999451",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Macro has clearly cut high beta AI valuations over the past few months. But I try to stay focused on fundamentals.\n\nIf you're curious about my take though:\n\nWe're seeing record visibility with\n- memory (2031), photonics (2029-2030), etc LTAs\n-  $NBIS, solana:5aQcoaSyy7fnhvpRHasBUAMH2nL5tTjVrmFw6BeGmoon, etc. massive demand imbalance for compute despite capex spend. \n- combined with record projections ( $NVDA 70% growth 2027, $SMCI $60B+ new server orders, etc). \n\nvs. \n\nuncomfortable macro where:\n- Warsh said the Fed has \"more work to do\" if underlying inflation isn't clearly returning to 2%.\n- July PCE came in at 3.7% Y/Y\n- July jobs report payrolls fell by 23k with unemployment at 4.1%\n-10Y Treasury high/ 30Y highest since 2007\n- Iran tensions continuing\n- Japan Yen weakened to 160/ 2 rate hikes in Korea\n\nAnd with rate 40/60 in favor of 25BPS near-term hikes. \n\nThere's definitely implications on financing + too many third/fourth order effects for me to personally map. \n\nI'm not a macro expert but my take is: \n\nThe AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints. \n\nWhile markets chopped off forward valuations and rotated toward currently profitable/defensive companies. \n\nI don't know what's going to happen, especially since rate hike odds are almost a coinflip, and Trump posts can change sentiment overnight. \n\nAs long as I don't see indicators of hyperscalers cutting capex or demand wavering. \n\nI'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout. \n\nAnd if there's any indicators of better macro climates, high beta are typically the fastest to recover.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094492628758999451",
+    "published_at": "2026-08-31T18:28:51+00:00",
+    "fetched_at": "2026-08-31T20:29:23.085033+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NBIS",
+        "NVDA",
+        "SMCI",
+        "SOL"
+      ],
+      "direction": "bullish",
+      "summary": "作者认为尽管宏观环境不佳（通胀、就业疲软、利率不确定性），但AI基础设施建设的基本面强劲，内存、光子学等领域的长约需求和算力供不应求，大厂资本开支持续增加，因此保持看多AI相关高Beta标的。",
+      "translation": "宏观因素明显在过去几个月打压了高Beta AI估值。但我尽量专注于基本面。如果你对我的看法感到好奇：我们看到创纪录的可见性——内存（2031年）、光子学（2029-2030年）等长期协议；NBIS、Solana等对算力的巨大需求失衡，尽管资本开支巨大；再加上创纪录的预测（NVDA 2027年增长70%，SMCI 600亿美元新服务器订单等）。相比之下，宏观令人不安：Warsh表示如果潜在通胀没有明确回到2%，美联储还有“更多工作要做”；7月PCE同比3.7%；7月非农就业减少2.3万，失业率4.1%；10年期美债收益率高，30年期创2007年以来新高；伊朗紧张局势持续；日元贬至160，韩国两次加息。而近期加息25个基点的概率为40/60。这肯定对融资有影响，加上太多三阶和四阶效应，我无法个人梳理。我不是宏观专家，但我的看法是：AI建设将继续，明年预计有1.3万亿美元以上的上游资本开支，流经许多瓶颈和堵点。而市场砍掉了远期估值，转向当前盈利/防御性公司。我不知道会发生什么，尤其是加息概率几乎是抛硬币，特朗普的帖子可能一夜改变情绪。只要我没有看到超大容量客户削减资本开支或需求疲软的迹象，我就会在宏观波动中保持做多，因为我想拥有控制AI建设未来的公司的所有权。如果有任何宏观气候改善的迹象，高Beta通常恢复最快。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094476309032546328",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Today is Tim Cook's last day at Apple, $AAPL.\n\nApple's share price is up about 2,230% from Cook's first day as CEO.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094476309032546328",
+    "published_at": "2026-08-31T17:24:00+00:00",
+    "fetched_at": "2026-08-31T20:30:48.865423+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "推特提及苹果CEO蒂姆·库克卸任，并指出苹果股价自其上任以来上涨了约2230%，但未给出明确的多空建议，属于中性信息。",
+      "translation": "今天是蒂姆·库克在苹果的最后一天，$AAPL。自库克出任CEO以来，苹果股价上涨了约2230%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094474122139242966",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 56% chance of a 25 BPS rate hike by the Fed in September, per Polymarket⁠.com. https://t.co/IBXuDgj6BW",
+    "tweet_url": "https://x.com/unusual_whales/status/2094474122139242966",
+    "published_at": "2026-08-31T17:15:18+00:00",
+    "fetched_at": "2026-08-31T20:30:50.810340+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Polymarket预测美联储9月加息25个基点的概率为56%，属于宏观经济事件，对投资情绪有影响，但未明确指向具体资产方向，因此方向中性。",
+      "translation": "根据Polymarket.com的数据，美联储在9月份加息25个基点的概率为56%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094454241759023377",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Chinese memory chipmaker CXMT has begun producing advanced ​high-bandwidth memory in small ‌quantities, per the Information",
+    "tweet_url": "https://x.com/unusual_whales/status/2094454241759023377",
+    "published_at": "2026-08-31T15:56:18+00:00",
+    "fetched_at": "2026-08-31T20:30:58.063907+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "中国存储芯片厂商长鑫存储（CXMT）已开始小批量生产先进高带宽存储器（HBM），这标志着中国在HBM领域取得突破，可能提升国产存储芯片竞争力，并影响全球存储芯片市场格局。该消息对相关产业链公司（如设备、材料、封测）及国产替代概念构成利好。",
+      "translation": "突发：中国存储芯片厂商长鑫存储（CXMT）已开始小批量生产先进高带宽存储器（HBM），据The Information报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094454096552202629",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Mediatek + solana:LruuJRDNxyuVhpFe8eXK2keMFo9V9e4DzfERscBpump beneficiaries:\n\nFirst thing that comes to mind is who benefits, if I had to rank from intial look: \n\n1. Keystone Microtech (6683), $1.04B MC\nProbe cards, SLT + test. Multiple Taiwan industry reports identify MediaTek as Keystone's #1 customer.\n\n2.  CHPT (6510), $2.8B\nAdvanced probe cards / (XPU wafer test)\n\n3. Sigurd (6257), $3.3B\nWafer probing, burn-in, MediaTek backend test partner\n\n4. WinWay (6515) $7.2B\ntest sockets/interfaces for MediaTek\n\n5. KYEC (2449) $10.9B\ntesting, burn-in for MediaTek\n\nTheres your Kinsus, Unimicron, Shennan Circuits, Zhen Ding, Tongfu Microelectronics, JCET, Ibiden, ASE, and other players that work with Mediatek as well (but less beta). \n\nAiroha (6526) is probably the most interesting one i need to investigate more, since it's a Mediatek subsidary: \n\nThey do DSPs, TIA/optical connectivity, EML/SiPh/VSCEL drivers, SerDes, and others... where a lot of these happen to be large bottlenecks if you look at $SMTC + $AAOI earnings. \n\n(don't own any of flagged names above, just sharing notes)\n\nUS related with Mediatek exposure would be:\n\n$AMKR, $TER, $INTC, $TSM (yeah taiwan but us listed), $MU, then for design/IP prob $SNPS, $CDNS, $ARM. \n\nBut those are much less correlation (Mediatek is in Taiwan, so all your small suppliers are over there).  \n\nAgain probably need to filter more into what benefits specifically with Mediatek's ASIC program\n\nBut usually a rising boat lifts all tides if they're suppliers in other segments. \n\nJust initial look",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094454096552202629",
+    "published_at": "2026-08-31T15:55:44+00:00",
+    "fetched_at": "2026-08-31T20:29:31.664189+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "6683",
+        "6510",
+        "6257",
+        "6515",
+        "2449",
+        "6526",
+        "AMKR",
+        "TER",
+        "INTC",
+        "TSM",
+        "MU",
+        "SNPS",
+        "CDNS",
+        "ARM"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析联发科供应链中的潜在受益股票，认为相关台湾测试和探针卡供应商（如Keystone、CHPT、Sigurd等）将受益于联发科的ASIC项目。作者对这些供应商持乐观态度，并提到联发科子公司Airoha可能具有更大潜力。",
+      "translation": "联发科+Solana:LruuJRDNxyuVhpFe8eXK2keMFo9V9e4DzfERscBpump的受益者：首先想到的是谁受益，如果从初步观察排序：1. 钛思科技（6683），市值10.4亿美元——探针卡、SLT和测试。多家台湾行业报告指出联发科是钛思科技的第一大客户。2. CHPT（6510），市值28亿美元——先进探针卡（/XPU晶圆测试）。3. 思源科技（6257），市值33亿美元——晶圆探测、老化测试，联发科后端测试合作伙伴。4. WinWay（6515），市值72亿美元——联发科的测试插座/接口。5. 京元电子（2449），市值109亿美元——联发科的测试、老化测试。还有金相、欣兴、深南电路、振鼎、通富微电、长电科技、Ibiden、日月光等与联发科合作的厂商（但beta较低）。Airoha（6526）可能是最有趣的，需要进一步研究，因为它是联发科的子公司：他们做DSP、TIA/光连接、EML/SiPh/VCSEL驱动器、SerDes等，这些领域有很多是大型瓶颈，如果看SMTC和AAOI的财报的话。（我不持有上述任何股票，只是分享笔记）。与美国相关的联发科敞口包括：$AMKR、$TER、$INTC、$TSM（是的，台湾但美股上市）、$MU，以及设计/IP方面可能的$SNPS、$CDNS、$ARM。但这些与联发科的关联度较低（联发科在台湾，所以所有小供应商都在那边）。再次强调，可能需要进一步筛选哪些具体受益于联发科的ASIC项目。但通常如果供应商在其他细分领域，水涨船高。只是初步观察。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094422769156927877",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -272,6 +493,25 @@
     }
   },
   {
+    "tweet_id": "2094357357849682309",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天的小作文\n黄果短剧，月利润 1 亿美金\n🤣 https://t.co/N1WZFHXkm1",
+    "tweet_url": "https://x.com/xiaomustock/status/2094357357849682309",
+    "published_at": "2026-08-31T09:31:20+00:00",
+    "fetched_at": "2026-08-31T20:30:17.374698+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到某短视频应用（黄果短剧）月利润达1亿美元，暗示其商业模式盈利能力强劲，可能利好相关概念股或行业投资。",
+      "translation": "今天的小作文：黄果短剧，月利润1亿美元。🤣 https://t.co/N1WZFHXkm1",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2094353950040592854",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -496,6 +736,25 @@
       "direction": null,
       "summary": "该推文介绍了一种基于期权未平仓合约（OI）增幅与前一交易日成交量比较的筛选方法，用于识别OI增幅几乎等于前一日成交量的合约，以发现潜在交易机会。作者对此方法的效果尚不确定，但提出了其可能的应用场景。",
       "translation": "转发 @snorlax_uw：筛选出OI增幅达到前一交易日成交量的95-100%的合约，并添加了0.70%的最小买卖价差过滤器。还不知道这有多大用处，但用例是识别OI增幅等于前一交易日成交量的合约。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094159300809871415",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit 会不会现在的价格已经price in 了呀",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094159300809871415",
+    "published_at": "2026-08-30T20:24:19+00:00",
+    "fetched_at": "2026-08-31T20:29:35.383019+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文询问当前价格是否已经反映了所有已知信息，属于对市场定价的疑问，未明确看多或看空。",
+      "translation": "@aleabitoreddit 会不会现在的价格已经price in 了呀",
       "confidence": "medium"
     }
   },
