@@ -1,5 +1,156 @@
 [
   {
+    "tweet_id": "2094312656148877332",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "从年初3月份龙虾爆火，那么二季度才是做agent业务真正开始进入大众视野转化成收入的起点，通过半年报找出a股美股或港股中agent大幅转化收入的股票应该不是很困难。\n二季度财报是agent新兴行业的第一份财报。\n爆炸式增长的新机会，估计增长速度远超存储。\n还没想好干啥，美股a股港股打算一起梭哈搞agent的股票。\n如果是伟大的机会，不差这一俩天，随时能上车，所以也不是特别着急立马买。",
+    "tweet_url": "https://x.com/xiaomustock/status/2094312656148877332",
+    "published_at": "2026-08-31T06:33:42+00:00",
+    "fetched_at": "2026-08-31T06:47:54.237467+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "作者认为二季度财报是agent业务收入转化的首份报告，看好agent相关股票，认为其增长可能超过存储，并计划同时投资美股、A股和港股。",
+      "translation": "从今年3月份龙虾爆火开始，二季度才是agent业务真正开始进入大众视野并转化为收入的起点。通过半年报找出A股、美股或港股中agent收入大幅转化的股票应该不难。二季度财报是agent新兴行业的第一份财报。爆炸式增长的新机会，估计增长速度远超存储。还没想好具体干啥，但美股、A股、港股打算一起梭哈agent股票。如果是伟大的机会，不差这一两天，随时能上车，所以也不是特别着急立马买。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094310089553482149",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "往东方财富打了2260，梭哈了紫光股份，\n紫光这半年报业绩牛逼，我单调一波。 https://t.co/QyAutxUx7i",
+    "tweet_url": "https://x.com/xiaomustock/status/2094310089553482149",
+    "published_at": "2026-08-31T06:23:30+00:00",
+    "fetched_at": "2026-08-31T06:47:55.783637+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "000938"
+      ],
+      "direction": "bullish",
+      "summary": "用户投入2260元全仓买入紫光股份，认为其半年报业绩表现优异，因此看好并重仓该股。",
+      "translation": "往东方财富打了2260元，全仓买入紫光股份，紫光这半年报业绩很牛，我单吊这一只。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094306322812666156",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AAPL is now an important AI company apparently? \n\n-> \"OpenAI Hoarding Tens Of Thousands Of Apple Mac mini and Mac Studio\" for reinforcement learning\n\n-> Anthropic is renting Apple Mac mini units from $AMZN to complete similar AI tasks\n\nI've never seen a company win so hard by doing nothing. \n\nBut whenever I see Apple + AI, I think of my beloved $RPI. Apparently Anthropic is working with Raspberry Pi now for their new model Hardware Standard, as of the 27th. \n\nThere's nothing yet about Anthropic/OpenAI buying Raspberry Pi devices for similar tasks, but maybe some OSINT researcher can do some digging.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094306322812666156",
+    "published_at": "2026-08-31T06:08:32+00:00",
+    "fetched_at": "2026-08-31T06:46:38.210088+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL",
+        "AMZN",
+        "RPI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论苹果公司（AAPL）在AI领域的新角色，提到OpenAI和Anthropic使用Mac mini和Mac Studio，以及Anthropic与亚马逊合作租用Mac mini，还提到Anthropic与树莓派（RPI）的合作。作者对苹果“不劳而获”的评论带有讽刺，但整体没有明确看多或看空，因此方向中性。",
+      "translation": "苹果现在显然是一家重要的AI公司？-> OpenAI囤积数万台Mac mini和Mac Studio用于强化学习 -> Anthropic从亚马逊租用Mac mini设备来完成类似的AI任务。我从未见过一家公司通过什么都不做而赢得如此彻底。但每当我看到苹果+AI，我就会想起我心爱的RPI。显然，Anthropic目前正在与树莓派合作，为其新模型硬件标准（截至27日）。目前还没有关于Anthropic/OpenAI购买树莓派设备用于类似任务的消息，但也许一些OSINT研究人员可以做些挖掘。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094303671370793128",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Hartnett believes the market is overly optimistic, pricing in moderate midterm election results and a continuation of deregulation and AI-friendly policies.\n\nRead more: https://t.co/YrloxWTiqD",
+    "tweet_url": "https://x.com/unusual_whales/status/2094303671370793128",
+    "published_at": "2026-08-31T05:58:00+00:00",
+    "fetched_at": "2026-08-31T06:48:05.270763+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "哈特内特认为市场过于乐观，定价了温和的中期选举结果以及政策延续，但实际可能不如预期，存在回调风险。",
+      "translation": "哈特内特认为市场过于乐观，定价了温和的中期选举结果以及放松管制和人工智能友好政策的延续。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094298008955535500",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$TSM Vice President of Advanced Packaging:\n\n\"Foundries can scale up the optical engine, but the real bottlenecks to large scale deployment lie elsewhere...\n\nIncluding lasers, optical fiber, fiber-optic connectors, and test\" (UDN)\n\nJust some bucket ideas: \n\nLasers: $LITE, $SIVE, $COHR, LandMark (3081), LuxNet, Sumitomo, Furukawa\nOptical fiber / FAU: Foci, Browave, $GLW, Sumitomo\nFiber Optic / CPO Connectors: BizLink, $GLW , Fujikura, Nextronics, COXOC\nCPO testing: MPI (6223), Advantest, $FORM, Msscorps, $KEYS, Chroma\n\n(disclosure: exposure to theme above, individual names not named by TSMC)\n\nThere are others I like as well, such as ShunSin, which now has explicit TSMC COUPE exposure but probably belongs under a different category like packaging/integration.\n\neg. \"Foxconn unit ShunSin confirms TSMC COUPE partnership\"\n\nI don't think there's anything too new vs. H1, aside from ongoing news (eg. FAU looks like there will have a demand imbalance in 2027, from a report last week). \n\nBut it's helpful to reiterate overall beneficiaries from time to time...",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094298008955535500",
+    "published_at": "2026-08-31T05:35:30+00:00",
+    "fetched_at": "2026-08-31T06:46:45.529170+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSM",
+        "LITE",
+        "SIVE",
+        "COHR",
+        "GLW",
+        "FORM",
+        "KEYS"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出，台积电高级封装副总裁提及光学引擎规模化部署的瓶颈在于激光器、光纤、连接器和测试等环节，并列举了相关受益公司。推文整体看好CPO（共封装光学）及相关供应链的投资机会，认为需求可能超预期。",
+      "translation": "台积电先进封装副总裁表示：晶圆厂可以扩大光学引擎的规模，但大规模部署的真正瓶颈在别处……包括激光器、光纤、光纤连接器和测试。以下是一些板块思路：激光器：LITE、SIVE、COHR、LandMark(3081)、LuxNet、住友电工、藤仓；光纤/FAU：Foci、Browave、康宁、住友电工；光纤/CPO连接器：BizLink、康宁、藤仓、Nextronics、COXOC；CPO测试：MPI(6223)、Advantest、FORM、Msscorps、KEYS、Chroma。（披露：持有相关主题仓位，个股未获台积电点名）还有其他我喜欢的，比如ShunSin，现在明确有台积电COUPE接触，但可能属于封装/集成类别。例如“富士康旗下ShunSin确认与台积电COUPE合作”。我觉得与上半年相比没有太多新东西，除了持续的新闻（例如上周一份报告显示FAU在2027年会出现供需失衡）。但时不时重申整体受益者是有帮助的。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094281116421370213",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized. \n\nLatest net income was: $109M net income/July, which is ~$1.3B annualized. With ~$395.9M net cash and with $249.6M in inventory.\n\nThe market cap less net cash and inventory is equivalent to: \n\n~17 months of July earnings.\n\nWhere monetizing that inventory benefits from rising memory prices. \n\nTheir ASP hike expectations were +105–113% Q/Q last quarter from other analyst notes. \n\nDDR2/DDR3, NOR Flash, SLC NAND, prices are expected to keep rising H2. \n\nThe main question is duration, but I personally think legacy DRAM/NAND shortages tightens throughout 2027. Others might disagree. \n\nOther analysts like Huanan argue that PSMC wafer hikes are largely pass through (we'll find out H2). \n\nMost people are finding companies with ~20 forward P/E ending 2028 to be attractive...\n\nBut 1.9x current runrate P/E seems like an anomaly to me personally. \n\nThat's my take on the company/legacy memory theme, I'll let others/markets decide if that's undervalued.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094281116421370213",
+    "published_at": "2026-08-31T04:28:22+00:00",
+    "fetched_at": "2026-08-31T06:46:51.775391+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "3006"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为ESMT（3006）的市盈率极低，仅基于年化盈利的1.9倍，且公司拥有大量净现金和库存，受益于内存价格上涨。作者看好其价值，认为市场可能低估了该股票。",
+      "translation": "ESMT（3006）的市盈率仅为7月年化盈利的1.9倍。最近净利润为1.09亿美元/月，年化约13亿美元。拥有约3.959亿美元净现金和2.496亿美元库存。市值减去净现金和库存后，相当于约17个月的7月盈利。其中，库存变现受益于内存价格上涨。上个季度其他分析师的报告显示，他们的平均售价（ASP）预期环比增长105-113%。DDR2/DDR3、NOR闪存、SLC NAND的价格预计在下半年继续上涨。主要问题是持续时间，但我个人认为传统DRAM/NAND的短缺将持续到2027年。其他人可能有不同意见。其他分析师如Huanan认为，PSMC的晶圆涨价很大程度上是转嫁的（我们将在下半年看到结果）。大多数人认为到2028年约20倍远期市盈率的公司具有吸引力……但对我个人来说，1.9倍的当前运行率市盈率似乎是个异常值。这是我对该公司/传统内存主题的看法，让其他人/市场来决定这是否被低估。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094228929288532258",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Nvidia, $NVDA, could be up to 50% undervalued,\" per Bank of America",
+    "tweet_url": "https://x.com/unusual_whales/status/2094228929288532258",
+    "published_at": "2026-08-31T01:01:00+00:00",
+    "fetched_at": "2026-08-31T06:48:15.698637+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "美国银行认为英伟达（NVDA）可能被低估高达50%，暗示其股价有显著上涨空间，属于看涨观点。",
+      "translation": "据美国银行称，英伟达（NVDA）可能被低估高达50%。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2094198730442330133",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
