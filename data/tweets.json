@@ -1,5 +1,145 @@
 [
   {
+    "tweet_id": "2094837247530996010",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$GPRO all quiet on the options front for quite some time until yesterday...\n\nGPRO saw 50x normal options volume yesterday, followed by 53x today\n\nA stake by Youtuber Markiplier responsible for some of the initial buzz \n\nToday a $285 million merger has been announced, pricing the shares at 1.14 \n\nNotable options flow yesterday includes the 1c 9/18 \n\nOptions data + much more available with Unusual Whales (Labor Day Sale active now!): https://t.co/tuTV2ayKr3",
+    "tweet_url": "https://x.com/unusual_whales/status/2094837247530996010",
+    "published_at": "2026-09-01T17:18:14+00:00",
+    "fetched_at": "2026-09-01T17:54:37.469086+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出GPRO期权交易量异常激增，随后宣布以每股1.14美元进行2.85亿美元的合并，许多投资者通过看涨期权获利。推文暗示这可能是一个投资机会，并推广了Unusual Whales的数据服务。",
+      "translation": "$GPRO 在期权方面沉寂了相当长一段时间，直到昨天…… GPRO 昨天的期权交易量是正常水平的50倍，今天是53倍。YouTuber Markiplier 的持股是引发最初关注的原因之一。今天宣布了2.85亿美元的合并，股价定为1.14美元。昨天的显著期权流包括9月18日的1美元看涨期权。期权数据及更多信息可通过 Unusual Whales 获取（Labor Day 促销正在进行中！）：https://t.co/tuTV2ayKr3",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094831983306440746",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "After seeing everything from $AXTI to $IREN get nuked… I’m starting to believe in the:\n\n“September is the worst month of the year” myth. https://t.co/sck3Y0pOg2",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094831983306440746",
+    "published_at": "2026-09-01T16:57:19+00:00",
+    "fetched_at": "2026-09-01T17:53:34.115978+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI",
+        "IREN"
+      ],
+      "direction": "bearish",
+      "summary": "该推文提到AXTI和IREN等股票被大幅抛售，作者开始相信9月是股市表现最差的月份这一说法。整体情绪偏空，暗示市场可能下跌。",
+      "translation": "在经历了从AXTI到IREN等股票被大幅抛售之后，我开始相信“9月是一年中最差月份”的说法。https://t.co/sck3Y0pOg2",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094827120589783428",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The SEC is ramping up scrutiny of special purpose vehicles that claim to offer investors exposure to private companies, asking registered investment advisers to prove their SPVs actually hold or have access to the shares they say they do, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2094827120589783428",
+    "published_at": "2026-09-01T16:38:00+00:00",
+    "fetched_at": "2026-09-01T17:54:40.343583+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国证监会对特殊目的载体（SPV）的审查加强，要求注册投资顾问证明SPV真正持有或能访问所声称的私募公司股份。这可能影响私募股权和风险投资行业，增加合规成本，对相关投资工具和基金构成负面影响。",
+      "translation": "美国证监会正在加强对声称向投资者提供私募公司敞口的特殊目的载体的审查，要求注册投资顾问证明其SPV确实持有或能够访问他们声称拥有的股份，据华尔街日报报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094817055316865506",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Japan's benchmark bond yield officially rises to 3% for first time in 30 years",
+    "tweet_url": "https://x.com/unusual_whales/status/2094817055316865506",
+    "published_at": "2026-09-01T15:58:00+00:00",
+    "fetched_at": "2026-09-01T17:54:42.701324+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "日本基准债券收益率30年来首次升至3%，反映市场对通胀预期及货币政策正常化的担忧，可能引发全球债市波动，对风险资产构成压力。",
+      "translation": "日本基准债券收益率30年来首次正式升至3%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094812021724184774",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: GoPro, $GPRO, is up 42% today.\n\nThis is after they announced a definitive merger agreement with Starman Optical.\n\nIf you followed the flow on Unusual Whales, you'd see how there was typical unusual options.\n\nTraders made millions.\n\nSomeone always knows.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094812021724184774",
+    "published_at": "2026-09-01T15:38:00+00:00",
+    "fetched_at": "2026-09-01T17:54:44.512850+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文报道GoPro因宣布与Starman Optical合并而大涨42%，并暗示有内部人士通过期权交易获利，市场存在信息不对称。对于投资者而言，这既是利好消息，也警示了内幕交易风险。",
+      "translation": "突发：GoPro（$GPRO）今日上涨42%。这是在宣布与Starman Optical达成最终合并协议之后。如果你在Unusual Whales上关注资金流向，你会看到典型的异常期权。交易者赚了数百万。总有人事先知道。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094806484785955152",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Jim Cramer says a rate cut looks unlikely.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094806484785955152",
+    "published_at": "2026-09-01T15:16:00+00:00",
+    "fetched_at": "2026-09-01T17:54:49.066445+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "吉姆·克莱默表示降息可能性不大，这通常对股市构成压力，因为较低的利率有助于刺激经济和企业盈利。这一表态可能令市场失望，短期或对股市产生负面影响。",
+      "translation": "突发：吉姆·克莱默表示，降息的可能性不大。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094801955482656974",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Russia is projecting its lowest oil output since 2009, cutting its 2026 production forecast to 494.2 million tons, per Reuters.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094801955482656974",
+    "published_at": "2026-09-01T14:58:00+00:00",
+    "fetched_at": "2026-09-01T17:54:50.528685+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "俄罗斯下调2026年石油产量预测至4.942亿吨，为2009年以来最低，表明供应可能收紧，对油价构成支撑，但可能利空俄罗斯能源企业盈利预期。",
+      "translation": "据路透社报道，俄罗斯预计其石油产量将降至2009年以来的最低水平，将2026年产量预测下调至4.942亿吨。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094786201605808566",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -262,6 +402,27 @@
       "direction": "bullish",
       "summary": "该推文指出GPRO期权交易量异常放大，隐含波动率上升，且盘后大涨43%，显示出较强的看涨情绪。这些特征可能预示着短期价格上涨，但需注意风险。",
       "translation": "转发 @snorlax_uw：$GPRO 有很多讨论。今日交易量是正常水平的50倍，几个有趣的期权链符合我们经常提到的常见特征... 盘后上涨43% - 成交量/未平仓量比率 - 高于平均交易量 - IV上升 - 没有很多大宗交易，但有大额成交量很突出。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094541196932645241",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$GPRO lots of chatter. 50x normal volume today with several interesting options chains that meet the usual characteristics we frequently touch on...  +43% AH\n\n- volume/OI ratio\n- higher than average trading volume\n- increases in IV \n- not many block trades, but large volumes that stick out\n\nhttps://t.co/3zWpXEcf91",
+    "tweet_url": "https://x.com/unusual_whales/status/2094541196932645241",
+    "published_at": "2026-08-31T21:41:50+00:00",
+    "fetched_at": "2026-09-01T17:54:46.866328+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出GPRO股票今日交易量异常放大，达到正常水平的50倍，且期权链呈现典型的看涨特征，包括成交量/未平仓量比率高、隐含波动率上升，盘后股价大涨43%，暗示市场情绪强烈看涨。",
+      "translation": "GPRO 今天有很多讨论。成交量是正常水平的50倍，有几条有趣的期权链符合我们经常提到的常见特征... 盘后上涨43% - 成交量/未平仓量比率 - 高于平均的交易量 - 隐含波动率上升 - 虽然大额交易不多，但有突出的成交量。",
       "confidence": "medium"
     }
   },
@@ -2279,6 +2440,30 @@
       "summary": "该推文对某光子学公司持负面态度，认为在所有潜在光子学公司中排名最后，但未指明具体公司。",
       "translation": "等等等等....在所有潜在的光子学公司中，这家是最垫底的。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2093054882282651723",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE ER transcript just dropped, TLDR:\n\n- 6 NEW pluggable players working with Sivers now.\n\nProbably the biggest news of the entire ER next to new foundry allocations. \n\n\"3 are in alpha sample evaluation stage\" and another 3 in technical engagement / supply assessment stage.\"\n\nAnd now it makes more sense why their $1.2B revenue pipeline ballooned (since this was a bigger leap than Jabil). \n\n- Initial production orders with $JBL expected in the first half of 2027, with the production ramp planned second half of 2027\n\nLFG, Jabil is a massive hyperscaler supplier and finally got clear timelines on revenue from volume ramp.\n\n- \"new foundry partner who has brought on tremendous capacity that is available now\"\n\nThis is what I wanted to hear. Apparently they've been in the works for this for awhile since it's \"available now\", and THIS IS VERY MATERIAL. \n\nCW lasers are in a massive shortage and $SIVE brought on new supply outside of Win Semi (also de-risks).\n\nAs you hear with other qualified CW players (anything they make gets sold), so as Sivers partners finishes their qualifications, I'm expecting the same.\n\n- \"long-term capacity model where one-third of manufacturing capacity will be internal, while two-thirds will come from our foundry partners\"\n\nLukewarm on this, it makes sense they need to be vertically integrated like $AAOI / $LITE eventually but implies more capex (better after NASDAQ listing).\n\nAs you see with ESMT + DDR2 bottlenecks, the operating income they get from just securing wafers during shortages and doing fabless models is incredible. \n\nAnd it would make more sense to fund this with cashflow down the road.\n\n- NASDAQ listing ongoing. CFO gave a very lawyer like answer, but on track as usual.\n\n- \"We do not see production capacity as a bottleneck at this point in time\"\n\nThis is very meaningful since with their new foundry partners, implies $SIVE is coming online with a very material CW laser supply to a bottlenecked market.\n\nTLDR:\n- NEW substantial FOUNDRY ALLOCATION! (very, very material during CW laser shortage)\n- 6 new pluggable players outside of $JBL \n- Clear revenue ramp timelines from Jabil\n\nHeavy focus on pluggables -> NPO -> CPO seems like the progression.  Only lukewarm piece was building up internal capacity but it's long term positive.  \n\nAnyway, very happy after reading the transcript aside from potential capex prioritizing laser capacity (which is fine too during an industry shortage) over IP acquisition.\n\nThe 6 new pluggable players + substantial wafer allocation \"available now\" is a pretty insane disclosure.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093054882282651723",
+    "published_at": "2026-08-27T19:15:45+00:00",
+    "fetched_at": "2026-09-01T17:54:11.902307+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "JBL",
+        "AAOI",
+        "LITE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析Sivers Semiconductor的财报电话会议，强调其新增6家可插拔客户、新的代工产能分配以及Jabil的明确营收时间表，认为在CW激光器短缺背景下这些是重大利好，总体看涨。",
+      "translation": "SIVE财报电话会议记录刚刚发布，要点如下：- 现在有6家新的可插拔客户与Sivers合作。这可能是整个财报中除了新的代工分配之外最大的新闻。“3家处于alpha样品评估阶段”，另外3家处于技术接触/供应评估阶段。这也解释了为什么他们的12亿美元营收管道膨胀了（因为这是比Jabil更大的飞跃）。- 与$JBL的初始生产订单预计在2027年上半年，生产爬坡计划在2027年下半年。LFG，Jabil是大型超大规模数据中心供应商，终于有了明确的营收爬坡时间线。- “新的代工合作伙伴带来了巨大的产能，现在可用”。这就是我想听到的。显然他们已经为此努力了一段时间，因为“现在可用”，而且这非常重要。CW激光器严重短缺，$SIVE带来了Win Semi之外的新供应（也降低了风险）。正如你听到的其他合格的CW玩家（他们生产的所有东西都能卖出去），随着Sivers合作伙伴完成认证，我预计也会如此。- “长期产能模式中，三分之一的生产能力将内部化，三分之二来自代工合作伙伴”。对此我持谨慎态度，他们需要像$AAOI/$LITE那样垂直整合，但这意味着更多资本支出（最好在纳斯达克上市后）。正如ESMT和DDR2瓶颈所示，在短缺时期仅通过确保晶圆和做无晶圆厂模式就能获得惊人的运营收入。而且用未来的现金流来资助这会更有意义。- 纳斯达克上市正在进行中。CFO的回答很律师化，但一如既往按计划进行。- “我们目前不认为产能是瓶颈”。这非常重要，因为有了新的代工合作伙伴，意味着$SIVE即将以非常实质性的CW激光器供应进入一个瓶颈市场。TLDR：- 新的实质性代工分配！（在CW激光器短缺期间非常非常重要）- 6家新的可插拔客户，不包括$JBL- Jabil的明确营收爬坡时间线。重点放在可插拔->NPO->CPO似乎是发展路径。唯一不太满意的是建立内部产能，但长期是积极的。总之，读完记录后非常满意，除了可能优先考虑激光产能（在行业短缺期间这也没问题）而不是IP收购。6家新的可插拔客户和“现在可用”的实质性晶圆分配是一个相当惊人的披露。",
+      "confidence": "high"
     }
   },
   {
