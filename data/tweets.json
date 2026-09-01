@@ -1,5 +1,147 @@
 [
   {
+    "tweet_id": "2094880201687920770",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Dell, $DELL, earnings:\n\n- EPS: 7.04, est: 4.92\n- Revenue: $46.9 billion, est: $44.5 billion\n\n$PANW earnings:\n\n- EPS: 1.02, est: 0.98\n- Revenue: $3.41 billion, est: $3.35 billion",
+    "tweet_url": "https://x.com/unusual_whales/status/2094880201687920770",
+    "published_at": "2026-09-01T20:08:55+00:00",
+    "fetched_at": "2026-09-01T20:19:31.841616+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DELL",
+        "PANW"
+      ],
+      "direction": "bullish",
+      "summary": "戴尔和派拓网络的每股收益及营收均超出市场预期，显示公司业绩强劲，可能对股价产生积极影响。",
+      "translation": "突发：戴尔，$DELL，财报：- 每股收益：7.04，预期：4.92 - 营收：469亿美元，预期：445亿美元。$PANW 财报：- 每股收益：1.02，预期：0.98 - 营收：34.1亿美元，预期：33.5亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094867385979388306",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JPMorgan's trading desk has shifted to a \"tactically cautious/neutral\" view on U.S. equities.\n\nIt was previously bullish.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094867385979388306",
+    "published_at": "2026-09-01T19:18:00+00:00",
+    "fetched_at": "2026-09-01T20:19:35.565724+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "摩根大通交易部门将美股观点从看多调整为战术性谨慎/中性，暗示短期市场不确定性增加，可能影响风险偏好。",
+      "translation": "摩根大通的交易部门已将对美国股市的看法调整为“战术性谨慎/中性”。此前其持看多观点。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094867009289019654",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "看了一下这10年期国债的收益率讨论的频率在今晚是真高，真让我做空股市我还是有点怂，顶多做做插针抄底反弹。 https://t.co/8UNjJv5iB2",
+    "tweet_url": "https://x.com/xiaomustock/status/2094867009289019654",
+    "published_at": "2026-09-01T19:16:30+00:00",
+    "fetched_at": "2026-09-01T20:19:15.202608+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "作者观察到10年期国债收益率讨论频繁，但表示不敢做空股市，只考虑做短线抄底反弹。表明对市场持谨慎态度，认为可能有短期波动但长期不看好做空。",
+      "translation": "看了一下今晚关于10年期国债收益率的讨论频率真的很高，让我做空股市我还是有点怂，顶多做做插针抄底反弹。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094858992048877636",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "日元美元10年期国债收益率最近都在暴涨，\n唯一能确定性的就是无风险收益率增加这会抽走股市大量的资金，这俩月股市都不会好。\n\n这美联储的再加息是想自己搞死自己人，\n10年国债的利率上升这又对无息资产按理也是打击，之前美财政部回购10年/20年/30年美债是美债崩盘叙事。\n所以如果美债不崩，国债利率上行利空无息资产黄金btc，\n美债崩盘，即使美债利率上行，也利好黄金btc。\n这种俩种都说得通，但美债崩盘叙事更多是情绪盘。现在btc和黄金下跌估计就是资金冷静下来，还是利空btc黄金这种无息资产毕竟国债高息躺赚。\n唯一确定性利空股市，流动性被锁住抽走。\nanthropic上市还能再抽走一批流动性，股市肯定是好不了，地狱难度，怀念上半年的存储行情，天天都是暴涨。",
+    "tweet_url": "https://x.com/xiaomustock/status/2094858992048877636",
+    "published_at": "2026-09-01T18:44:38+00:00",
+    "fetched_at": "2026-09-01T20:19:17.943578+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BTC",
+        "黄金"
+      ],
+      "direction": "bearish",
+      "summary": "作者认为日元、美元和10年期国债收益率上升导致无风险收益率增加，抽走股市资金，未来两个月股市承压。同时，高国债利率利空黄金和比特币等无息资产，除非美债崩盘，否则比特币和黄金将继续下行。",
+      "translation": "日元、美元和10年期国债收益率最近都在暴涨，唯一能确定的就是无风险收益率增加，这会抽走股市大量资金，这两个月股市都不会好。美联储再加息是想自己搞死自己人，10年国债利率上升对无息资产按理也是打击，之前美财政部回购10年/20年/30年美债是美债崩盘叙事。所以如果美债不崩，国债利率上行利空无息资产黄金和比特币；美债崩盘，即使美债利率上行，也利好黄金和比特币。这两种说法都说得通，但美债崩盘叙事更多是情绪盘。现在比特币和黄金下跌估计就是资金冷静下来，还是利空比特币和黄金这种无息资产，毕竟国债高息躺赚。唯一确定的是利空股市，流动性被锁住抽走。Anthropic上市还能再抽走一批流动性，股市肯定好不了，地狱难度，怀念上半年的存储行情，天天都是暴涨。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094854529967862140",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "US Department of War announces $174M financing for securing Gallium Supply Chains. Beneficiaries are:\n\n- $AA (Alcoa Corp) for Gallium production at its refinery.\n\n- Sojitz (2768) as the Japanese JV offtake partner\n\nGood to see US critical minerals supply chains investments. https://t.co/fyi203MH2B",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094854529967862140",
+    "published_at": "2026-09-01T18:26:55+00:00",
+    "fetched_at": "2026-09-01T20:18:31.331111+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AA",
+        "2768"
+      ],
+      "direction": "bullish",
+      "summary": "美国政府为保障镓供应链提供1.74亿美元融资，惠及美国铝业（AA）及其日本合作伙伴Sojitz（2768），该消息对相关公司构成利好，显示美国在关键矿产供应链的投资力度加大。",
+      "translation": "美国国防部宣布为保障镓供应链提供1.74亿美元融资。受益方包括：- 美国铝业（AA）在其精炼厂生产镓。- Sojitz（2768）作为日美合资的承购合作伙伴。很高兴看到美国对关键矿产供应链的投资。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094852034751238315",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Anthropic is reportedly asking job candidates during culture interviews how they would feel if the company someday abandoned its AI ambitions for safety reaso, and that decision caused its stock to fall to zero, per Axios.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094852034751238315",
+    "published_at": "2026-09-01T18:17:00+00:00",
+    "fetched_at": "2026-09-01T20:19:39.819975+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文报道了Anthropic在文化面试中询问候选人对于公司可能因安全原因放弃AI抱负并导致股价归零的看法。这反映了公司对安全优先于股东价值的立场，可能对投资者情绪产生负面影响，但未涉及具体投资建议或金融资产分析。",
+      "translation": "据报道，Anthropic在文化面试中询问候选人，如果有一天公司出于安全原因放弃其AI抱负，并且这一决定导致其股价跌至零，他们会作何感想。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2094842220151214218",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "US says China uses ‘concealed equipment’ on COSCO ships to spy on military communications, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2094842220151214218",
+    "published_at": "2026-09-01T17:38:00+00:00",
+    "fetched_at": "2026-09-01T20:19:44.131561+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国指控中国在COSCO船只上使用隐藏设备进行军事通信间谍活动，可能加剧地缘政治紧张，对航运及相关供应链股票构成负面影响。",
+      "translation": "美国称中国在COSCO船只上使用“隐藏设备”监视军事通信，据YF报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094837247530996010",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -137,6 +279,25 @@
       "summary": "俄罗斯下调2026年石油产量预测至4.942亿吨，为2009年以来最低，表明供应可能收紧，对油价构成支撑，但可能利空俄罗斯能源企业盈利预期。",
       "translation": "据路透社报道，俄罗斯预计其石油产量将降至2009年以来的最低水平，将2026年产量预测下调至4.942亿吨。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094786352160313689",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed's Barr has said that inflation remains too high, and \"it will be time for a rate hike.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2094786352160313689",
+    "published_at": "2026-09-01T13:56:00+00:00",
+    "fetched_at": "2026-09-01T20:19:52.016188+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美联储官员巴尔表示通胀仍然过高，并暗示可能加息，这通常对股市构成压力，因为加息预期可能收紧金融条件，抑制风险资产表现。投资者可能预期未来利率维持高位，对成长股和指数不利。",
+      "translation": "美联储的巴尔表示，通胀仍然过高，并称“将是加息的时候了”。",
+      "confidence": "high"
     }
   },
   {
@@ -2005,6 +2166,25 @@
       "summary": "美国SEC对华尔街大型主要经纪商在高杠杆AI交易中的融资行为展开调查，这可能引发监管风险，对AI相关股票和杠杆交易活动产生影响。",
       "translation": "美国证券交易委员会已就华尔街最大的主要经纪商如何为这个周期中杠杆率最高的AI交易之一提供融资展开调查。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093423841766760502",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit anime girl can you make ai stocks go up please",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093423841766760502",
+    "published_at": "2026-08-28T19:41:52+00:00",
+    "fetched_at": "2026-09-01T20:18:41.214021+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "这是一条开玩笑的推文，用户请求动漫角色让AI股票上涨，反映了对AI股票可能上涨的乐观情绪，但缺乏实质性分析。",
+      "translation": "@aleabitoreddit 动漫女孩，你能让AI股票涨上去吗？",
+      "confidence": "low"
     }
   },
   {
