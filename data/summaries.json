@@ -1,73 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "AAOI",
-      "SIVE",
       "NVDA",
+      "SIVE",
+      "AAOI",
       "ESMT",
       "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资与算力需求持续增长",
-      "光通信与硅光的供应链瓶颈与机会",
-      "利基存储（DDR2/DDR3）的供需失衡与价格上涨",
-      "先进封装与上游材料（如ABF基板）的紧缺",
-      "人形机器人与物理AI的产业趋势"
+      "AI基础设施建设",
+      "光子学和光学互连",
+      "存储芯片供应链瓶颈",
+      "半导体材料与设备投资",
+      "人形机器人和物理AI"
     ],
-    "recent_shift": "近期观点从关注高beta AI估值回调转向强调基本面支撑与供应链瓶颈的长期机会，尤其偏好光通信与存储领域。",
+    "recent_shift": "近期更加关注存储和光学领域的细分瓶颈，并强调AI资本开支的持续增长，同时保持对高波动性但基本面强劲的公司的看涨态度。",
     "representative_quotes": [
       "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
-      "If you knew how to evaluate qualification cycle players, which number actually matters? I'd argue overwhelmingly the latter.",
-      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead."
+      "We're seeing record visibility with memory (2031), photonics (2029-2030), etc LTAs - combined with record projections... I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
+      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-09-01T17:55:21.162338+00:00"
+    "generated_at": "2026-09-01T20:20:20.397392+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "GPRO",
       "NVDA",
+      "GPRO",
       "AAPL",
-      "GOOGL",
-      "MSFT"
+      "DELL",
+      "PANW"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI炒作与泡沫担忧",
-      "并购与期权异常流动",
-      "地缘政治与能源市场",
-      "美联储政策与利率预期",
-      "个股财报与市场情绪"
+      "AI泡沫风险",
+      "美联储利率政策",
+      "地缘政治紧张",
+      "能源市场波动",
+      "市场估值争议"
     ],
-    "recent_shift": "从关注GPRO的异常期权流动转向更广泛的市场风险提示，如AI泡沫、债券收益率上升和潜在的政策不确定性。",
+    "recent_shift": "从相对乐观转向谨慎，特别是对AI和股市短期前景的担忧增加",
     "representative_quotes": [
-      "GPRO saw 50x normal options volume yesterday, followed by 53x today",
-      "Nvidia, $NVDA, could be up to 50% undervalued, per Bank of America",
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America"
+      "JPMorgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities. It was previously bullish.",
+      "'AI stocks show similarities to 2000 tech peak,' per JPMorgan.",
+      "'The AI boom has echoes of Enron,' per BI."
     ],
-    "generated_at": "2026-09-01T17:55:17.816395+00:00"
+    "generated_at": "2026-09-01T20:20:13.388779+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "MU",
-      "SNDK",
-      "SKHynix",
       "META",
-      "GOOGL"
+      "MRVL",
+      "SNDK",
+      "MU",
+      "INTC"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需失衡与涨价周期",
-      "AI Agent普及推动算力需求增长",
-      "美债危机与避险资产配置",
-      "财报季投资机会与风险"
+      "AI投资周期与存储需求上行",
+      "美债收益率上行与流动性收紧，影响风险资产",
+      "AI Agent普及带动CPU与存储需求",
+      "存储板块结构性机会与价格弹性",
+      "全球AI基建投资与算力需求"
     ],
-    "recent_shift": "从积极看多存储板块转向关注AI Agent带来的新机会，并反思杠杆风险，计划增加指数定投和现金储备。",
+    "recent_shift": "近期观点从聚焦存储和AI基建，转向关注美债危机、无风险利率上升对市场的负面影响，对风险资产更谨慎。",
     "representative_quotes": [
-      "本月只有俩件事值得关注，anthropic的招股书和上市时间，美光9月20多号的新一季度财报和指引。其他都是杂音。这俩件事会主导接下来2个月左右的行情波动",
-      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。AI想搞起来，就离不开存储，潘健成和黄仁勋一堆大佬说真正制约AI进化的瓶颈就是存储。",
-      "cpu必然会发生和2026年跟存储发生的结构性需求缺口。现在cpu和gpu的配置需求是1/8，随着各AI大模型公司下场AI代理，代理需求催生的高端cpu需求会在2-3个季度内快递被爆拉到1/1。"
+      "唯一确定性利空股市，流动性被锁住抽走。",
+      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。",
+      "如果AI真的能把美国长期实际生产率增速从约1.5–2%推到3–4%以上，整个美债估值模型都要重写，经济会飞速腾飞。"
     ],
-    "generated_at": "2026-09-01T09:32:03.532972+00:00"
+    "generated_at": "2026-09-01T20:20:17.037571+00:00"
   }
 }
