@@ -1,5 +1,46 @@
 [
   {
+    "tweet_id": "2094653158903673174",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "本月只有俩件事值得关注，\nanthropic的招股书和上市时间，\n美光9月20多号的新一季度财报和指引。\n其他都是杂音。\n这俩件事会主导接下来2个月左右的行情波动",
+    "tweet_url": "https://x.com/xiaomustock/status/2094653158903673174",
+    "published_at": "2026-09-01T05:06:44+00:00",
+    "fetched_at": "2026-09-01T09:31:16.363161+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ANTHROPIC",
+        "MU"
+      ],
+      "direction": "neutral",
+      "summary": "作者认为本月只有两件事值得关注：Anthropic的招股书和上市时间，以及美光在9月20多号发布的新一季度财报和指引。其他事件都是噪音，这两件事将主导接下来两个月的行情波动。",
+      "translation": "本月只有两件事值得关注，Anthropic的招股书和上市时间，美光9月20多号的新一季度财报和指引。其他都是杂音。这两件事会主导接下来2个月左右的行情波动。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094649214446035271",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a 20% chance the US announces the end of the Iranian blockade by September 30, per Polymarket⁠.com. https://t.co/DMYcC96GX3",
+    "tweet_url": "https://x.com/unusual_whales/status/2094649214446035271",
+    "published_at": "2026-09-01T04:51:04+00:00",
+    "fetched_at": "2026-09-01T09:31:29.847509+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及Polymarket预测市场显示美国在9月30日前宣布结束伊朗封锁的概率为20%，这可能影响原油供应预期和能源价格，但对具体股票或加密货币无明显指向性。",
+      "translation": "根据Polymarket网站，美国在9月30日前宣布结束伊朗封锁的概率为20%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094631582045028850",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -1302,6 +1343,25 @@
       "direction": "bullish",
       "summary": "该推文分析了MRVL的供应链瓶颈，特别指出大型基板（large body substrates）是ABF基板中的关键限制因素，并提及相关供应商如Daeduck、Kinsus、LG Innotek等，暗示这些供应商可能面临供应紧张带来的投资机会。整体观点偏向看多相关供应链企业。",
       "translation": "所以我周末在查看$MRVL的SEC文件，纯粹是为了好玩。对于他们的制约因素，他们引用的是：'先进的晶圆制造、先进的封装和大型基板。'这导致交货时间延长、无法满足需求以及成本上升……所以$TSM是Marvell所有先进工艺节点晶圆的唯一代工厂（这并不意外）。不太明显的是大型基板需要关注：ABF基板已经众所周知，但大型基板可能是ABF内部更严重的瓶颈。有Daeduck Electronics（353200）、Kinsus（3189）——'大面积高层数ABF基板'，但年初至今已上涨496.07%，还有LG Innotek（011070）——大型AI基板，'与北美大型科技客户共同开发大型AI基板，计划于26年下半年开始量产'，$ATS上涨370.12%。对于'不太知名'的公司，除了Ibiden、Nan Ya PCB和Unimicron（但很多已经重新定价）。在5月份，他们的措辞是供应挑战已经发生/可能发生，大型基板处于持续紧张的环境中。现在他们说'我们目前处于供应受限的环境。'也许还有其他我遗漏的新兴参与者，我会继续寻找。但这只是披露了$MRVL面临的严重瓶颈。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093836342346006839",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Baby boomers collectively have more wealth than any other living generation, and they are splurging on travel, per WS",
+    "tweet_url": "https://x.com/unusual_whales/status/2093836342346006839",
+    "published_at": "2026-08-29T23:01:00+00:00",
+    "fetched_at": "2026-09-01T09:31:37.318166+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "婴儿潮一代拥有比任何其他在世世代更多的财富，并且他们在旅游上大肆消费。这暗示旅游相关行业（如航空公司、酒店、邮轮）可能受益，但该推文未提及具体投资标的或市场方向。",
+      "translation": "婴儿潮一代总体上拥有比任何其他在世世代更多的财富，而他们正在旅游上挥霍，据《华尔街日报》报道。",
       "confidence": "medium"
     }
   },
