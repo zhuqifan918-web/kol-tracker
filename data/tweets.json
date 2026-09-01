@@ -1,5 +1,110 @@
 [
   {
+    "tweet_id": "2094548914284429374",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Apple, $AAPL, says OpenAI is destroying evidence in trade suit, per Bloomberg",
+    "tweet_url": "https://x.com/unusual_whales/status/2094548914284429374",
+    "published_at": "2026-08-31T22:12:30+00:00",
+    "fetched_at": "2026-09-01T00:01:16.831651+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "这条消息涉及苹果公司与OpenAI之间的法律纠纷，可能间接影响市场情绪和投资者对苹果公司的风险评估，但没有直接的财务或价格指引，因此属于中性信息。",
+      "translation": "快讯：苹果公司（AAPL）称OpenAI在贸易诉讼中销毁证据，据彭博社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094545888043848139",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @Limitlesss1: $GPRO is up 40% after hours \n\nUnusual whales Alerted highly unusual activity in the $1 strike call option\n\nThe trade is set to open up. +100%   \n\n@unusual_whales with a killer alert https://t.co/cwyK2hOIRL",
+    "tweet_url": "https://x.com/unusual_whales/status/2094545888043848139",
+    "published_at": "2026-08-31T22:00:29+00:00",
+    "fetched_at": "2026-09-01T00:01:19.351029+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到GoPro（GPRO）盘后大涨40%，并出现异常看涨期权交易活动，暗示股价可能进一步上涨。推文对$1行权价的看涨期权交易表示高度关注，认为该交易可能带来翻倍收益。整体情绪偏多，认为该股票有继续上涨的潜力。",
+      "translation": "转推@Limitlesss1：$GPRO盘后上涨40%。Unusual Whales警报显示$1行权价的看涨期权出现高度异常活动。该交易即将开启，预计涨幅达+100%。@unusual_whales提供了一条杀手级警报。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094543346006122645",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @snorlax_uw: $GPRO lots of chatter. 50x normal volume today with several interesting options chains that meet the usual characteristics we frequently touch on...  +43% AH\n\n- volume/OI ratio\n- higher than average trading volume\n- increases in IV \n- not many block trades, but large volumes that stick out\n\nhttps://t.co/3zWpXEcf91",
+    "tweet_url": "https://x.com/unusual_whales/status/2094543346006122645",
+    "published_at": "2026-08-31T21:50:23+00:00",
+    "fetched_at": "2026-09-01T00:01:23.572749+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出GPRO期权交易量异常放大，隐含波动率上升，且盘后大涨43%，显示出较强的看涨情绪。这些特征可能预示着短期价格上涨，但需注意风险。",
+      "translation": "转发 @snorlax_uw：$GPRO 有很多讨论。今日交易量是正常水平的50倍，几个有趣的期权链符合我们经常提到的常见特征... 盘后上涨43% - 成交量/未平仓量比率 - 高于平均交易量 - IV上升 - 没有很多大宗交易，但有大额成交量很突出。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094539763189727517",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$GPRO Unusual Whales alerted GO-PRO Stock buy today during market hours \n\nFrom @unusual_whales https://t.co/Z7h4yEfxby",
+    "tweet_url": "https://x.com/unusual_whales/status/2094539763189727517",
+    "published_at": "2026-08-31T21:36:08+00:00",
+    "fetched_at": "2026-09-01T00:01:21.107135+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提及Unusual Whales在交易时段内报告了GoPro（GPRO）股票的买入活动，可能暗示有大额或非寻常买盘资金流入，整体情绪偏正面。",
+      "translation": "Unusual Whales警报显示，Go-Pro股票在交易时段内出现了买入行为。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094538468760412567",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "YouTuber Markiplier is GoPro’s, $GPRO, largest individual shareholder, with a now 8.5% stake in the company, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094538468760412567",
+    "published_at": "2026-08-31T21:31:00+00:00",
+    "fetched_at": "2026-09-01T00:01:25.752790+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及YouTuber Markiplier持有GoPro公司8.5%股份，成为其最大个人股东。这一信息可能引起市场关注，但未明确表达看涨或看跌观点，仅作为公司股东结构变化的报道。",
+      "translation": "据彭博社报道，YouTuber Markiplier是GoPro公司（$GPRO）的最大个人股东，目前持有该公司8.5%的股份。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2094516012557427002",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -125,6 +230,27 @@
       "summary": "作者认为尽管宏观环境不佳（通胀、就业疲软、利率不确定性），但AI基础设施建设的基本面强劲，内存、光子学等领域的长约需求和算力供不应求，大厂资本开支持续增加，因此保持看多AI相关高Beta标的。",
       "translation": "宏观因素明显在过去几个月打压了高Beta AI估值。但我尽量专注于基本面。如果你对我的看法感到好奇：我们看到创纪录的可见性——内存（2031年）、光子学（2029-2030年）等长期协议；NBIS、Solana等对算力的巨大需求失衡，尽管资本开支巨大；再加上创纪录的预测（NVDA 2027年增长70%，SMCI 600亿美元新服务器订单等）。相比之下，宏观令人不安：Warsh表示如果潜在通胀没有明确回到2%，美联储还有“更多工作要做”；7月PCE同比3.7%；7月非农就业减少2.3万，失业率4.1%；10年期美债收益率高，30年期创2007年以来新高；伊朗紧张局势持续；日元贬至160，韩国两次加息。而近期加息25个基点的概率为40/60。这肯定对融资有影响，加上太多三阶和四阶效应，我无法个人梳理。我不是宏观专家，但我的看法是：AI建设将继续，明年预计有1.3万亿美元以上的上游资本开支，流经许多瓶颈和堵点。而市场砍掉了远期估值，转向当前盈利/防御性公司。我不知道会发生什么，尤其是加息概率几乎是抛硬币，特朗普的帖子可能一夜改变情绪。只要我没有看到超大容量客户削减资本开支或需求疲软的迹象，我就会在宏观波动中保持做多，因为我想拥有控制AI建设未来的公司的所有权。如果有任何宏观气候改善的迹象，高Beta通常恢复最快。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094484865307586685",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Sony has sued Anthropic over AI music training, and is seeking $150,000 per song, per YF",
+    "tweet_url": "https://x.com/unusual_whales/status/2094484865307586685",
+    "published_at": "2026-08-31T17:58:00+00:00",
+    "fetched_at": "2026-09-01T00:01:32.651931+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SONY"
+      ],
+      "direction": "neutral",
+      "summary": "索尼起诉Anthropic侵犯其音乐版权用于AI训练，并要求每首歌赔偿15万美元。该消息可能影响索尼（SONY）的股价，因其潜在的版权赔偿收入或法律纠纷风险，但影响方向不明确。",
+      "translation": "突发新闻：索尼已起诉Anthropic，指控其使用AI训练音乐侵权，并要求每首歌赔偿15万美元，据YF报道。",
+      "confidence": "medium"
     }
   },
   {
@@ -529,6 +655,25 @@
       "direction": "neutral",
       "summary": "该推文讨论了Marvell收购的Celestial公司的估值问题，强调在评估合格周期（qualification cycle）中的公司时，应关注未来增长潜力（如2028-2029年的收入预期）而非当前财务表现。作者认为美国市场更看重前瞻性估值，而欧洲文化更注重当前数据。",
       "translation": "想象一下，如果Celestial（被Marvell收购）是上市公司。其估值在美国市场可能会非常高（我猜，大概60-100亿美元）。因为2028年的收入预测为5亿美元（Q4年化运行率），2029年的收入预测为10亿美元。而且Celestial是超大规模云厂商CPO项目的核心部分。Celestial的2026年Q2财报将会是：收入接近0美元（Marvell表示“自收购以来的收入和收益并不重要”），每季度亏损1250万美元（每年亏损5000万美元）。那些懂行的人，看资格周期玩家时会怎么看呢？1. 基于Celestial的Q2 P/S数据，并且每季度亏损1250万美元……它是一文不值的meme股？还是2. 考虑到2028年CPO超大规模云厂商的机会，它应该价值60-100亿美元？我认为这正是美国与欧洲文化和市场之间的核心分歧。如果你知道如何评估资格周期玩家，哪个数字真正重要？我认为绝对是后者。"
+    }
+  },
+  {
+    "tweet_id": "2094315465438908429",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @bob80924 Do you think that the macro environment is having a huge impact now? Are we likely to only settle one Iran/US peace is agreed. Feels like the market is pure whiplash.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094315465438908429",
+    "published_at": "2026-08-31T06:44:52+00:00",
+    "fetched_at": "2026-09-01T00:00:12.527391+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文讨论了宏观经济环境对市场的影响，以及地缘政治（伊朗/美国和平协议）可能带来的市场波动，认为市场情绪不稳定，但未明确看多或看空。",
+      "translation": "@aleabitoreddit @bob80924 你认为宏观环境现在有巨大影响吗？我们是否只有在伊朗/美国达成和平协议后才会稳定下来？感觉市场完全是反复无常的。",
+      "confidence": "medium"
     }
   },
   {
@@ -938,6 +1083,25 @@
       "direction": "neutral",
       "summary": "该推文提及英伟达CEO黄仁勋对AI热潮创造的财富持开放态度，并支持对超级富豪增税，但未直接涉及股价或投资建议，对投资方向影响中性。",
       "translation": "英伟达CEO黄仁勋对如何分享AI热潮创造的巨额财富持开放态度，并表示对向超级富豪增税的提议“完全没问题”，据《财富》杂志报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094062834795819440",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Venezuelan's interim president, Delcy Rodriguez, has granted a private company a 100-year lease for prime oil fields in Venezuela, per FORTUNE",
+    "tweet_url": "https://x.com/unusual_whales/status/2094062834795819440",
+    "published_at": "2026-08-30T14:01:00+00:00",
+    "fetched_at": "2026-09-01T00:01:08.088040+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "委内瑞拉临时总统德尔西·罗德里格斯授予一家私营公司主要油田的100年租约，该消息可能影响全球石油供应格局和油价预期。投资者需关注该事件对能源市场及委内瑞拉相关资产的影响。",
+      "translation": "委内瑞拉临时总统德尔西·罗德里格斯已根据《财富》杂志的报道，向一家私营公司授予了委内瑞拉主要油田的100年租约。",
       "confidence": "medium"
     }
   },
