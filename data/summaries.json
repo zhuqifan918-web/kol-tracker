@@ -25,50 +25,48 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
       "NVDA",
+      "AAPL",
       "GPRO",
       "MSFT",
-      "COIN"
-    ],
-    "overall_bias": "neutral",
-    "key_themes": [
-      "AI技术与企业盈利",
-      "期权市场与价格波动",
-      "宏观经济与政策影响",
-      "地缘政治与贸易",
-      "加密货币与数字资产"
-    ],
-    "recent_shift": "近期态度从关注AI和科技股盈利转向担忧市场泡沫和地缘政治风险。",
-    "representative_quotes": [
-      "Nvidia, $NVDA, could be up to 50% undervalued, per Bank of America",
-      "\"AI stocks show similarities to 2000 tech peak,\" per JPMorgan",
-      "\"The AI boom has echoes of Enron,\" per BI"
-    ],
-    "generated_at": "2026-09-01T04:19:30.621994+00:00"
-  },
-  "xiaomustock": {
-    "focus_tickers": [
-      "SNDK",
-      "SK Hynix",
-      "MU",
-      "META",
-      "MRVL"
+      "META"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片供需紧张与涨价周期",
-      "AI基础设施投资（算力、存储、光互连）",
-      "美债危机与避险资产选择",
-      "Agent（AI代理）商业化加速",
-      "风险控制与去杠杆"
+      "AI与科技巨头增长",
+      "地缘政治与能源",
+      "市场情绪与期权交易",
+      "政策与监管影响"
     ],
-    "recent_shift": "从前期重仓存储、追求高杠杆收益，转向增加现金仓位、配置SPY/QQQ等指数基金，并强调风险控制和稳健操作，同时关注点从存储扩展到多个科技子板块。",
+    "recent_shift": "近期从关注宏观风险转向关注AI、科技股和加密货币的积极催化剂。",
     "representative_quotes": [
-      "始终坚信这一条，如果机会足够伟大，绝对显而易见随时都能上车，而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。",
-      "真正解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。AI想搞起来，就离不开存储。",
-      "不贪就不返贫。"
+      "Jensen Huang of Nvidia, $NVDA, has said: AI is bringing manufacturing back to America and reindustrializing the nation after decades of offshoring.",
+      "Nvidia, $NVDA, could be up to 50% undervalued, per Bank of America",
+      "Bitcoin could hit $300,000 by 2029, per Bernstein."
     ],
-    "generated_at": "2026-08-31T20:31:22.452330+00:00"
+    "generated_at": "2026-09-01T09:32:00.056798+00:00"
+  },
+  "xiaomustock": {
+    "focus_tickers": [
+      "MU",
+      "SNDK",
+      "SKHynix",
+      "META",
+      "GOOGL"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "存储芯片供需失衡与涨价周期",
+      "AI Agent普及推动算力需求增长",
+      "美债危机与避险资产配置",
+      "财报季投资机会与风险"
+    ],
+    "recent_shift": "从积极看多存储板块转向关注AI Agent带来的新机会，并反思杠杆风险，计划增加指数定投和现金储备。",
+    "representative_quotes": [
+      "本月只有俩件事值得关注，anthropic的招股书和上市时间，美光9月20多号的新一季度财报和指引。其他都是杂音。这俩件事会主导接下来2个月左右的行情波动",
+      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。AI想搞起来，就离不开存储，潘健成和黄仁勋一堆大佬说真正制约AI进化的瓶颈就是存储。",
+      "cpu必然会发生和2026年跟存储发生的结构性需求缺口。现在cpu和gpu的配置需求是1/8，随着各AI大模型公司下场AI代理，代理需求催生的高端cpu需求会在2-3个季度内快递被爆拉到1/1。"
+    ],
+    "generated_at": "2026-09-01T09:32:03.532972+00:00"
   }
 }
