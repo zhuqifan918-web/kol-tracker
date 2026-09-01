@@ -9,41 +9,40 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设与算力投资持续高涨",
-      "存储芯片（特别是利基型DRAM）供需紧张、价格上涨",
-      "光子学与光互连技术成为新瓶颈，激光器/光模块需求强劲",
-      "供应链瓶颈从高端向低端蔓延，带来投资机会"
+      "AI基础设施与算力建设",
+      "光通信与激光器瓶颈",
+      "利基型存储涨价周期"
     ],
-    "recent_shift": "近期观点从关注AI核心受益股转向挖掘供应链瓶颈环节（如利基存储、光通信激光器）中的价值洼地，同时表达对宏观波动和融资稀释的担忧。",
+    "recent_shift": "近期观点从极度看多转向谨慎乐观，强调宏观不确定性但坚持长期做多AI供应链。",
     "representative_quotes": [
       "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
-      "Even in a bear case where earnings are unsustainable, reverting monthly net income back to $55m, would give it a 3.8x P/E.",
-      "The demand visibility... is just way too stupidly high."
+      "As long as I don't see indicators of hyperscalers cutting capex or demand wavering. I'm staying long despite macro volatility.",
+      "I think the real party is about to begin."
     ],
-    "generated_at": "2026-08-31T20:31:28.541571+00:00"
+    "generated_at": "2026-09-01T00:01:53.424675+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
+      "GPRO",
       "AAPL",
-      "MSFT",
       "META",
-      "GOOGL"
+      "COIN"
     ],
     "overall_bias": "bullish",
     "key_themes": [
       "AI与科技巨头",
-      "政治与市场",
-      "宏观政策",
-      "市场情绪"
+      "加密资产与期权流",
+      "地缘政治与市场",
+      "政治人物交易跟踪"
     ],
-    "recent_shift": "近期明显偏向看多AI和科技股，同时对政治事件的影响更为关注。",
+    "recent_shift": "近期从关注科技财报转向更关注加密货币和期权异常流动，并强调政治事件对市场的影响。",
     "representative_quotes": [
-      "\"Nvidia, $NVDA, could be up to 50% undervalued,\" per Bank of America",
-      "\"AI stocks show similarities to 2000 tech peak,\" per JPMorgan",
-      "\"The AI boom has echoes of Enron,\" per BI"
+      "Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028.",
+      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
+      "No politician can hide from me, not even Nancy Pelosi."
     ],
-    "generated_at": "2026-08-31T20:31:24.903702+00:00"
+    "generated_at": "2026-09-01T00:01:49.902653+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
