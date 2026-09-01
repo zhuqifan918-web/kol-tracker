@@ -1,5 +1,105 @@
 [
   {
+    "tweet_id": "2094786201605808566",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "What... $GPRO is up 79.17% after planning to merge with a photonics company \"Starman Optical\"\n\nTo build US 800G/1.6T optical transceivers for AI data centers.\n\nGoPro trying to compete with $AAOI was definitely not on my radar. https://t.co/5z2XXHaxvs",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094786201605808566",
+    "published_at": "2026-09-01T13:55:24+00:00",
+    "fetched_at": "2026-09-01T14:23:49.476732+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "GoPro宣布与光子学公司Starman Optical合并，以生产面向AI数据中心的800G/1.6T光收发器，股价因此大涨79.17%。这被视为看好其进入AI光通信领域的举措，但竞争激烈。",
+      "translation": "什么……$GPRO在计划与光子学公司“Starman Optical”合并后上涨了79.17%，目的是为AI数据中心制造美国800G/1.6T光收发器。GoPro试图与$AAOI竞争绝对不在我的预料之内。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094783608406061181",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Anthropic has signed a cloud-computing deal worth $35 billion with Nvidia-backed cloud provider Lambda, with Nvidia, $NVDA, itself holding the lease on the data center, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2094783608406061181",
+    "published_at": "2026-09-01T13:45:06+00:00",
+    "fetched_at": "2026-09-01T14:25:00.186909+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "Anthropic与Lambda签署了350亿美元的云计算协议，而英伟达持有该数据中心租赁权，这进一步强化了英伟达在AI基础设施领域的市场地位和需求前景，对其股价构成利好。",
+      "translation": "据《华尔街日报》报道，Anthropic已与英伟达支持的云服务商Lambda签署了一项价值350亿美元的云计算协议，而英伟达（$NVDA）本身持有该数据中心的租赁权。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094761437919150449",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "China’s humanoid robot makers now control 97% of global shipments, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094761437919150449",
+    "published_at": "2026-09-01T12:17:00+00:00",
+    "fetched_at": "2026-09-01T14:25:06.156654+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "中国的人形机器人制造商目前控制全球97%的发货量，这一数据凸显了中国在该领域的市场主导地位。此信息可能对相关概念股和产业投资有一定参考价值，但推文本身未明确给出投资建议。",
+      "translation": "根据彭博社报道，中国的人形机器人制造商目前控制全球97%的发货量。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094751371388211687",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094751371388211687",
+    "published_at": "2026-09-01T11:37:00+00:00",
+    "fetched_at": "2026-09-01T14:25:09.020333+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国银行调查显示，32%的基金经理认为AI泡沫是市场最大风险，表明机构投资者对AI相关资产泡沫化担忧升温，短期可能引发市场回调压力。",
+      "translation": "根据美国银行的调查，32%的基金经理认为AI泡沫是市场最大的风险。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094740550167544252",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: A Princeton University economist told global central bankers that AI could soon predict policy moves, urging banks to speak more unpredictably and even hold separate press conferences for humans and machine, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2094740550167544252",
+    "published_at": "2026-09-01T10:54:00+00:00",
+    "fetched_at": "2026-09-01T14:25:12.814634+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该消息属于宏观政策与AI技术对央行沟通方式的影响，不涉及具体投资品种，但对金融市场有间接参考价值。",
+      "translation": "突发：普林斯顿大学一位经济学家告诉全球央行行长，人工智能可能很快预测政策动向，敦促银行说话更加难以预测，甚至为人类和机器分别举行新闻发布会，据路透社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094653158903673174",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",

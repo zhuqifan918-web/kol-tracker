@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$NVDA",
-      "$SIVE",
-      "$AAOI",
-      "$MRVL",
-      "$ESMT"
+      "SIVE",
+      "ESMT",
+      "NVDA",
+      "AAOI",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设",
-      "光通信与硅光子",
-      "存储芯片超级周期",
-      "供应链瓶颈",
-      "宏观经济对高Beta的影响"
+      "AI基础设施投资热潮",
+      "光通信与硅光子技术瓶颈",
+      "存储芯片供需失衡",
+      "半导体供应链瓶颈与机会",
+      "高增长领域（如人形机器人）的投资"
     ],
-    "recent_shift": "近期虽有回调，但依然坚定看多AI供应链，对光通信和存储板块的乐观情绪持续增强。",
+    "recent_shift": "近期观点转向更加关注存储芯片和光通信领域的结构性强劲需求，同时维持对AI基础设施的乐观态度，但更加强调供应链瓶颈和估值风险。",
     "representative_quotes": [
-      "Nvidia earnings just reaffirms what we know about extreme demand since commitments went from $119B -> $279B largely driven by memory procurement.",
-      "The demand visibility... is just way too stupidly high.",
-      "AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints."
+      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
+      "As long as I don't see indicators of hyperscalers cutting capex or demand wavering. I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-09-01T04:19:28.673627+00:00"
+    "generated_at": "2026-09-01T14:25:33.422795+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -29,22 +29,21 @@
       "AAPL",
       "GPRO",
       "MSFT",
-      "META"
+      "COIN"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技巨头增长",
+      "AI泡沫风险",
       "地缘政治与能源",
-      "市场情绪与期权交易",
-      "政策与监管影响"
+      "市场流动性"
     ],
-    "recent_shift": "近期从关注宏观风险转向关注AI、科技股和加密货币的积极催化剂。",
+    "recent_shift": "最近的推文中显示出对AI泡沫和地缘政治紧张局势的担忧增加。",
     "representative_quotes": [
-      "Jensen Huang of Nvidia, $NVDA, has said: AI is bringing manufacturing back to America and reindustrializing the nation after decades of offshoring.",
-      "Nvidia, $NVDA, could be up to 50% undervalued, per Bank of America",
-      "Bitcoin could hit $300,000 by 2029, per Bernstein."
+      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
+      "BREAKING: Nvidia, $NVDA, earnings are in after hours.",
+      "Trump says that the US will refill the Strategic Petroleum Reserve using Venezuelan oil"
     ],
-    "generated_at": "2026-09-01T09:32:00.056798+00:00"
+    "generated_at": "2026-09-01T14:25:35.957848+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
