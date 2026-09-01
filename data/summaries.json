@@ -3,25 +3,25 @@
     "focus_tickers": [
       "NVDA",
       "SIVE",
-      "AAOI",
       "ESMT",
+      "AAOI",
       "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设",
-      "光子学和光学互连",
-      "存储芯片供应链瓶颈",
-      "半导体材料与设备投资",
-      "人形机器人和物理AI"
+      "AI基础设施投资与算力需求",
+      "光通信与硅光子供应链瓶颈",
+      "内存（DRAM/NAND）供不应求",
+      "半导体先进封装与测试",
+      "政策与地缘政治对供应链的影响"
     ],
-    "recent_shift": "近期更加关注存储和光学领域的细分瓶颈，并强调AI资本开支的持续增长，同时保持对高波动性但基本面强劲的公司的看涨态度。",
+    "recent_shift": "近期观点更加强调对光通信和存储板块的看好，同时对宏观经济波动和利率政策表示关注，但整体保持乐观。",
     "representative_quotes": [
-      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
-      "We're seeing record visibility with memory (2031), photonics (2029-2030), etc LTAs - combined with record projections... I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
-      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
+      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
+      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints."
     ],
-    "generated_at": "2026-09-01T20:20:20.397392+00:00"
+    "generated_at": "2026-09-01T22:42:45.775972+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -49,26 +49,24 @@
   },
   "xiaomustock": {
     "focus_tickers": [
-      "META",
-      "MRVL",
       "SNDK",
       "MU",
-      "INTC"
+      "HX",
+      "META",
+      "MRVL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI投资周期与存储需求上行",
-      "美债收益率上行与流动性收紧，影响风险资产",
-      "AI Agent普及带动CPU与存储需求",
-      "存储板块结构性机会与价格弹性",
-      "全球AI基建投资与算力需求"
+      "存储芯片结构性紧缺",
+      "AI Agent驱动存储及CPU需求",
+      "美债收益率上行与流动性收紧"
     ],
-    "recent_shift": "近期观点从聚焦存储和AI基建，转向关注美债危机、无风险利率上升对市场的负面影响，对风险资产更谨慎。",
+    "recent_shift": "近期观点从坚定看多存储行业转为关注美债收益率上升对股市的流动性压力，并认可黄金和比特币在美债危机叙事下的对冲属性，但认为股市短期内承压。",
     "representative_quotes": [
       "唯一确定性利空股市，流动性被锁住抽走。",
-      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。",
-      "如果AI真的能把美国长期实际生产率增速从约1.5–2%推到3–4%以上，整个美债估值模型都要重写，经济会飞速腾飞。"
+      "存储三巨头的2027年产能售罄。",
+      "美债的影响太大，资金没啥渠道避险，全球一起牵连。"
     ],
-    "generated_at": "2026-09-01T20:20:17.037571+00:00"
+    "generated_at": "2026-09-01T22:42:43.110589+00:00"
   }
 }
