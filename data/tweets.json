@@ -60,6 +60,25 @@
     }
   },
   {
+    "tweet_id": "2094862688182517823",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "2 hours later and another 19-month high for the 10Y Note Yield.\n\nThe 10Y Note Yield is officially back above 4.80% for the first time since January 14th, 2025.\n\nMortgage rates will soon be above 7%.\n\nWhat stops this train? https://t.co/qI8eEywBxq",
+    "tweet_url": "https://x.com/xiaomustock/status/2094862688182517823",
+    "published_at": "2026-09-01T18:59:20+00:00",
+    "fetched_at": "2026-09-01T22:42:00.812562+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出10年期国债收益率突破4.80%，创19个月新高，并暗示抵押贷款利率将超过7%。这通常被视为对股市的不利信号，因为利率上升会增加借贷成本，可能抑制经济增长和企业盈利。",
+      "translation": "两小时后，10年期国债收益率再次触及19个月新高。10年期国债收益率自2025年1月14日以来首次正式回升至4.80%以上。抵押贷款利率很快将超过7%。什么能阻止这列火车？",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2094858992048877636",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -2028,6 +2047,30 @@
       "direction": "bearish",
       "summary": "该推文批评SIVE公司管理层在市场沟通策略上过度聚焦瑞典本地市场，导致电话会议被引导性问题占据，未能向美国投资者展示其在CW激光瓶颈、代工分配及CPO等领域的增长潜力，从而可能影响估值。整体情绪偏负面，认为公司价值被低估或市场沟通不佳。",
       "translation": "是的。我真的不明白为什么$SIVE仍然专注于瑞典本地市场的沟通/私人融资。相对于美国市场。来自瑞典重量级受众的问题包括：引导性问题，比如你如何“止血”；“为什么你不能披露你的私人客户”；为什么专注于收发器（这很明显）；对非光子学订单的影响。所以有1/3的时间，CEO需要为围绕“机会管道是什么意思”的引导性/指责性问题辩护。美国分析师会追问：在瓶颈期两次代工分配的经济影响以及ASP上涨/运营杠杆；这些分配会带来多少产能收入（AOI电话会议中一半的问题来自美国分析师）；$GFS NPO/CPO/可插拔规模影响以及下游最终客户机会；Ayar/CPO玩家2028年产能爬坡（恰好筹集了5亿多美元）或其他产品如与O-net的ELS生产以及那里的TAM机会；那6个新的可插拔玩家有多大，而不是问“为什么你不能披露他们”；澄清CFO关于上市时间表和M&A TAM扩展机会的法律立场。这样投资者可以了解2027-2028年的未来增长。相反，由于引导性问题的构成/回答，整个电话会议都集中在当前财务状况（美国投资者不关心）、非光子学影响或对措辞的怀疑上。而不是让美国投资者对他们在CW激光瓶颈期间的经济影响感到兴奋。$SIVE在瑞典市场的时间越多，他们就越会被如此估值。"
+    }
+  },
+  {
+    "tweet_id": "2093652781928448279",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "If I had to be critical of $SIVE earnings:\n\n1. Management underweighted the two disclosures that matter most.\n\n-> 6 pluggable engagements \n-> Foundry capacity (during an industry bottleneck)\n\nThat's the most important part of the call and should have been the focus to provide economic scale of them. But we got 2-3 sentences about it.  \n\nAnd it shouldn't take an Anime avatar on X to talk most about the implications of those. \n\n2. CFO needs retraining or bring on a new one.\n\nThe lawyer like answers were infuriating to listen to as a shareholder. Even I got pissed off with this statement:\n\n\"we will evaluate the timing and decide whether the conditions are right to move forward at that particular time.\" \n\nIt should be a 100% given by now they file for dual listing to escape hostile Swedish markets. \n\nShareholders didn't fund a future growth type company to hear lawyer-like answers. \n\nAgain, this was probably one of the worst answers the CFO could have gave and there needs to be firm commitment along with faster timelines. \n\n3. $70M should have gone toward M&A and dual listing. \n\n-> Brutally honestly speaking, it's a waste of capital to focus on hybrid manufacturing at this stage and I was disappointed to hear this during this timeframe.  \n\nIt's eventually needed but with 2 foundry suppliers \n\n-> You have a ton of new capital and large marketcap. \n\nUse it to pull $AVGO style acquisitions of Cloud Light style IP for pluggables or optical engines. \n\nLumilens went from 0 -> $5.5B in 2 years and now with hyperscaler engagements. \n\nSivers should expand out of the laser chokepoint as fast as possible and not stay just a component vendor. \n\nAnd most of all, who cares about competing with customers? If a customer says: \"if you do pluggables, we'll go with other players for lasers\"\n\nwho?? $LITE / $COHR / $AAOI reroutes their lasers to internal usage. Lot of your Asian players already allocated. \n\nAbuse the current bottleneck as much as possible because there's almost no qualified choices left.\n\nAnd I'm certain all the partners are trying to vertically integrate upward toward the laser level too and compete.  \n\nIf there was a new OE/pluggable accusation attempted during the Q2 time frame, things would have been a lot different. \n\n_\n\nTLDR: \n\n$SIVE should aim to be the next $LITE and blitzscale like a Silicon Valley company.\n\nUse that $70m capital to move faster H2, and at the bare minimum finish readiness then. And expect NASDAQ listing to be finished H1 2027. \n\nNot \"evaluation\" at that timeframe. \n\nAnd use the capital + equity to expand downward into optical engines/ELS/optical transceivers using your equity valuation, and buy a Celestial/Ayar/Cloud Lite type startup. \n\nAs for the wording of the call, markets care about economic value of the foundry allocation + 6 pluggable players, not other business segments.\n\n$SIVE has been extremely conservative to date, but \n they need to speed up and communicate to forward looking US/Int shareholders. \n\nNot geared toward local Swedish audiences who care about Q2/TTM revenue. \n\nOtherwise they'll be treated like an Asian component supplier and eventually be valued like an EU one.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093652781928448279",
+    "published_at": "2026-08-29T10:51:36+00:00",
+    "fetched_at": "2026-09-01T22:41:48.944752+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "AVGO",
+        "LITE",
+        "COHR",
+        "AAOI"
+      ],
+      "direction": "bearish",
+      "summary": "该推文对SIVE的管理层和资本配置提出批评，认为其未充分利用资金进行并购和双重上市，且管理层沟通不力，导致公司未能抓住行业瓶颈机会。整体态度偏向负面，认为公司发展过于保守。",
+      "translation": "如果我要批评$SIVE的财报：1. 管理层低估了两个最重要的披露——6个可插拔客户和代工产能（在行业瓶颈期）。这是电话会议最重要的部分，应该重点说明其经济规模，但只用了2-3句话。而且不该由X上的动漫头像来讨论其影响。2. CFO需要再培训或换人。律师式的回答让股东恼火。这句话让我很生气：“我们将评估时机，并决定当时条件是否合适。”他们现在就应该100%确定申请双重上市以逃离敌意的瑞典市场。股东们投资的是未来增长型公司，不想听到律师式的回答。这可能是CFO最差的回答之一，需要坚定承诺和更快的进度。3. 7000万美元应该用于并购和双重上市。坦白说，现阶段专注于混合制造是浪费资本，我对此很失望。虽然有2个代工供应商，但你有大量新资本和市值。应该像AVGO收购Cloud Light那样收购可插拔或光引擎IP。Lumilens两年内从0做到55亿美元，现在有超大规模客户。Sivers应该尽快扩大激光瓶颈，不能只做组件供应商。最重要的是，谁在乎与客户竞争？如果客户说：“你做可插拔，我们就用其他激光器供应商”，那谁呢？LITE/COHR/AAOI会把激光器转为内部使用吗？很多亚洲玩家已经分配了产能。尽可能利用当前的瓶颈，因为几乎没有合格的选择了。我确信所有合作伙伴都在向上垂直整合到激光领域并竞争。如果在Q2尝试新的OE/可插拔收购，情况会大不相同。总结：$SIVE应该成为下一个$LITE，像硅谷公司一样快速扩张。用7000万美元资本在下半年加快步伐，至少完成准备。纳斯达克上市应在2027年上半年完成，而不是“评估”。利用资本和股权向下扩展光引擎/ELS/光收发器，利用估值收购Celestial/Ayar/Cloud Lite类创业公司。至于电话会议措辞，市场关心的是代工产能和6个可插拔客户的经济价值，而不是其他业务。$SIVE一直过于保守，但需要加快步伐，向面向未来的美国/国际股东沟通，而不是迎合只关注Q2/TTM收入的瑞典本地受众。否则会被当作亚洲组件供应商，最终按欧盟公司估值。"
     }
   },
   {
