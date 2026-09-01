@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "ESMT",
-      "NVDA",
       "AAOI",
+      "SIVE",
+      "NVDA",
+      "ESMT",
       "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资热潮",
-      "光通信与硅光子技术瓶颈",
-      "存储芯片供需失衡",
-      "半导体供应链瓶颈与机会",
-      "高增长领域（如人形机器人）的投资"
+      "AI基础设施投资与算力需求持续增长",
+      "光通信与硅光的供应链瓶颈与机会",
+      "利基存储（DDR2/DDR3）的供需失衡与价格上涨",
+      "先进封装与上游材料（如ABF基板）的紧缺",
+      "人形机器人与物理AI的产业趋势"
     ],
-    "recent_shift": "近期观点转向更加关注存储芯片和光通信领域的结构性强劲需求，同时维持对AI基础设施的乐观态度，但更加强调供应链瓶颈和估值风险。",
+    "recent_shift": "近期观点从关注高beta AI估值回调转向强调基本面支撑与供应链瓶颈的长期机会，尤其偏好光通信与存储领域。",
     "representative_quotes": [
       "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
-      "As long as I don't see indicators of hyperscalers cutting capex or demand wavering. I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "If you knew how to evaluate qualification cycle players, which number actually matters? I'd argue overwhelmingly the latter.",
+      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead."
     ],
-    "generated_at": "2026-09-01T14:25:33.422795+00:00"
+    "generated_at": "2026-09-01T17:55:21.162338+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "GPRO",
       "NVDA",
       "AAPL",
-      "GPRO",
-      "MSFT",
-      "COIN"
+      "GOOGL",
+      "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫风险",
-      "地缘政治与能源",
-      "市场流动性"
+      "AI炒作与泡沫担忧",
+      "并购与期权异常流动",
+      "地缘政治与能源市场",
+      "美联储政策与利率预期",
+      "个股财报与市场情绪"
     ],
-    "recent_shift": "最近的推文中显示出对AI泡沫和地缘政治紧张局势的担忧增加。",
+    "recent_shift": "从关注GPRO的异常期权流动转向更广泛的市场风险提示，如AI泡沫、债券收益率上升和潜在的政策不确定性。",
     "representative_quotes": [
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
-      "BREAKING: Nvidia, $NVDA, earnings are in after hours.",
-      "Trump says that the US will refill the Strategic Petroleum Reserve using Venezuelan oil"
+      "GPRO saw 50x normal options volume yesterday, followed by 53x today",
+      "Nvidia, $NVDA, could be up to 50% undervalued, per Bank of America",
+      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America"
     ],
-    "generated_at": "2026-09-01T14:25:35.957848+00:00"
+    "generated_at": "2026-09-01T17:55:17.816395+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
