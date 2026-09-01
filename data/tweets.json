@@ -1,5 +1,67 @@
 [
   {
+    "tweet_id": "2094631582045028850",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple touched the $5 trillion market capitalization mark on July 28, 2026\n\nRead more: https://t.co/K45cEwNctx",
+    "tweet_url": "https://x.com/unusual_whales/status/2094631582045028850",
+    "published_at": "2026-09-01T03:41:00+00:00",
+    "fetched_at": "2026-09-01T04:18:58.181151+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "bullish",
+      "summary": "苹果公司市值达到5万亿美元，这是一个重要的里程碑，表明公司股价表现强劲，市场对该公司的估值持乐观态度。",
+      "translation": "苹果公司在2026年7月28日触及5万亿美元市值大关。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094585395224981709",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Anthropic signs a $35B AI compute deal with $NVDA backed Lambda.\n\n$HUT / DC, with Lambda / GPUs. \n\nFrontier model demand is rapidly outpacing the ecosystem's ability to build capacity.\n\nIt also looks like Anthropic is securing more compute... Which neocloud/colo player is next? https://t.co/49yvFKjr49",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2094585395224981709",
+    "published_at": "2026-09-01T00:37:28+00:00",
+    "fetched_at": "2026-09-01T04:18:12.266237+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "HUT"
+      ],
+      "direction": "bullish",
+      "summary": "推特提到Anthropic与英伟达支持的Lambda签署350亿美元AI算力协议，显示前沿模型需求远超产能，并暗示HUT/DC等算力提供商会受益，整体对AI算力板块和NVDA、HUT构成利好。",
+      "translation": "Anthropic与英伟达支持的Lambda签署了350亿美元的AI算力协议。HUT/DC与Lambda/GPU相关。前沿模型的需求正迅速超过生态系统建设产能的能力。看起来Anthropic正在确保更多算力...哪家云计算/托管公司会是下一个？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094553819883405709",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Grand Theft Auto 6 is coming out.\n\nAnd there's a lot of options content around it.\n\nWhat is the market telling us?\n\nLet's take a look. https://t.co/Oig7mzQQCH",
+    "tweet_url": "https://x.com/unusual_whales/status/2094553819883405709",
+    "published_at": "2026-08-31T22:32:00+00:00",
+    "fetched_at": "2026-09-01T04:19:12.914126+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到《侠盗猎车手6》即将发布，并围绕其存在大量期权交易活动，暗示市场对此事件有投机兴趣，但未明确看涨或看跌方向。",
+      "translation": "《侠盗猎车手6》即将发布。而且围绕它有很多期权内容。市场在告诉我们什么？让我们来看看。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094548914284429374",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
