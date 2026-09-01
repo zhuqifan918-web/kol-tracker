@@ -1,48 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "NVDA",
-      "SIVE",
-      "ESMT",
-      "AAOI",
-      "MRVL"
+      "$NVDA",
+      "$SIVE",
+      "$AAOI",
+      "$MRVL",
+      "$ESMT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力建设",
-      "光通信与激光器瓶颈",
-      "利基型存储涨价周期"
+      "AI基础设施建设",
+      "光通信与硅光子",
+      "存储芯片超级周期",
+      "供应链瓶颈",
+      "宏观经济对高Beta的影响"
     ],
-    "recent_shift": "近期观点从极度看多转向谨慎乐观，强调宏观不确定性但坚持长期做多AI供应链。",
+    "recent_shift": "近期虽有回调，但依然坚定看多AI供应链，对光通信和存储板块的乐观情绪持续增强。",
     "representative_quotes": [
-      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
-      "As long as I don't see indicators of hyperscalers cutting capex or demand wavering. I'm staying long despite macro volatility.",
-      "I think the real party is about to begin."
+      "Nvidia earnings just reaffirms what we know about extreme demand since commitments went from $119B -> $279B largely driven by memory procurement.",
+      "The demand visibility... is just way too stupidly high.",
+      "AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints."
     ],
-    "generated_at": "2026-09-01T00:01:53.424675+00:00"
+    "generated_at": "2026-09-01T04:19:28.673627+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "AAPL",
       "NVDA",
       "GPRO",
-      "AAPL",
-      "META",
+      "MSFT",
       "COIN"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技巨头",
-      "加密资产与期权流",
-      "地缘政治与市场",
-      "政治人物交易跟踪"
+      "AI技术与企业盈利",
+      "期权市场与价格波动",
+      "宏观经济与政策影响",
+      "地缘政治与贸易",
+      "加密货币与数字资产"
     ],
-    "recent_shift": "近期从关注科技财报转向更关注加密货币和期权异常流动，并强调政治事件对市场的影响。",
+    "recent_shift": "近期态度从关注AI和科技股盈利转向担忧市场泡沫和地缘政治风险。",
     "representative_quotes": [
-      "Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028.",
-      "Options flow doesn’t need to tell you exactly when something is going to happen. But when millions of dollars suddenly start positioning for something we haven’t seen in months, it can tell you when to start positioning for a massive change in direction.",
-      "No politician can hide from me, not even Nancy Pelosi."
+      "Nvidia, $NVDA, could be up to 50% undervalued, per Bank of America",
+      "\"AI stocks show similarities to 2000 tech peak,\" per JPMorgan",
+      "\"The AI boom has echoes of Enron,\" per BI"
     ],
-    "generated_at": "2026-09-01T00:01:49.902653+00:00"
+    "generated_at": "2026-09-01T04:19:30.621994+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
