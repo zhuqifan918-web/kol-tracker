@@ -25,27 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
-      "AAPL",
-      "GPRO",
-      "COIN",
-      "MSFT"
+      "$GPRO",
+      "$NVDA",
+      "$AAPL",
+      "$COIN",
+      "$MSFT"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI泡沫担忧",
-      "科技巨头监管",
-      "地缘政治风险",
-      "能源与大宗商品",
-      "市场波动与期权交易"
+      "AI基础设施与算力投资",
+      "供应链回流与关税政策",
+      "期权异常交易机会",
+      "地缘政治风险与资产避险",
+      "企业盈利与市场波动"
     ],
-    "recent_shift": "近期由强烈看涨转向谨慎，提及AI泡沫风险增加。",
+    "recent_shift": "近期观点从对AI泡沫的担忧转向关注实际期权流动和交易机会，同时强调政策利好和宏观风险。",
     "representative_quotes": [
-      "Nvidia, $NVDA, CEO: “Every single country needs to build infrastructure so you can support your own local economy”",
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
-      "JPMorgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities. It was previously bullish."
+      "Nvidia, $NVDA, CEO: AI eliminating your job is \"nonsense.\"",
+      "Howard Lutnick says that interest rates will stabilize and decline in the next six months",
+      "These traders made MILLIONS. GoPro, $GPRO, saw 50x normal options volume yesterday, followed by 53x today."
     ],
-    "generated_at": "2026-09-02T17:35:22.911410+00:00"
+    "generated_at": "2026-09-02T20:18:10.683799+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
