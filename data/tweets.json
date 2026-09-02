@@ -1,5 +1,43 @@
 [
   {
+    "tweet_id": "2094946155201249533",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Grand Theft Auto 6 is coming out.  \n\nAnd there's a lot of options content around it.  \n\nWhat is the market telling us?  \n\nLet's take a look. https://t.co/TCWZVFoQ13",
+    "tweet_url": "https://x.com/unusual_whales/status/2094946155201249533",
+    "published_at": "2026-09-02T00:31:00+00:00",
+    "fetched_at": "2026-09-02T00:41:06.846709+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文关注GTA 6发布前后的期权市场活动，通过对期权数据的分析来观察市场对游戏发售的反应和预期，但未提及具体股票或投资建议。",
+      "translation": "侠盗猎车手6即将发布。围绕它有很多期权内容。市场在告诉我们什么？让我们来看一看。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094931055610679353",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Jason Hunter, JPMorgan’s chief technical strategist, told clients the current divergence in AI stocks mirrors what happened in the months before the dot-com bubble burst in 2000.\n\nRead more: https://t.co/PEKvlaZVsP",
+    "tweet_url": "https://x.com/unusual_whales/status/2094931055610679353",
+    "published_at": "2026-09-01T23:31:00+00:00",
+    "fetched_at": "2026-09-02T00:41:09.896631+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "摩根大通首席技术策略师警告，当前AI股票的分化走势与2000年互联网泡沫破裂前的情况相似，暗示市场可能面临回调风险。",
+      "translation": "摩根大通首席技术策略师杰森·亨特告诉客户，当前AI股票的分化走势与2000年互联网泡沫破裂前几个月的情况相似。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094880201687920770",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

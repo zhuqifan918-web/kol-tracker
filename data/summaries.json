@@ -28,24 +28,24 @@
       "NVDA",
       "GPRO",
       "AAPL",
-      "DELL",
-      "PANW"
+      "MSFT",
+      "ANTH"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫风险",
-      "美联储利率政策",
-      "地缘政治紧张",
-      "能源市场波动",
-      "市场估值争议"
+      "AI泡沫风险与估值分歧",
+      "财报超预期与市场反应",
+      "地缘政治与供应链风险",
+      "市场情绪与技术指标",
+      "期权异动与投资机会"
     ],
-    "recent_shift": "从相对乐观转向谨慎，特别是对AI和股市短期前景的担忧增加",
+    "recent_shift": "近期观点从对AI股热情转向谨慎中性，强调可能与2000年科技泡沫相似。",
     "representative_quotes": [
       "JPMorgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities. It was previously bullish.",
       "'AI stocks show similarities to 2000 tech peak,' per JPMorgan.",
-      "'The AI boom has echoes of Enron,' per BI."
+      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America."
     ],
-    "generated_at": "2026-09-01T20:20:13.388779+00:00"
+    "generated_at": "2026-09-02T00:41:28.071206+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
