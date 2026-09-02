@@ -2,49 +2,48 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "NVDA",
       "MRVL",
-      "SIVE",
-      "NVDA"
+      "NVDA",
+      "TSM",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力扩张",
-      "光模块与硅光子供应链瓶颈",
-      "存储器（尤其是利基型存储）供需紧张",
-      "CPO（共封装光学）与NPO技术演进",
-      "人形机器人与物理AI"
+      "硅光与CPO供应链瓶颈",
+      "存储芯片超级周期",
+      "AI基础设施与算力需求"
     ],
-    "recent_shift": "近期观点未发生根本性转变，但更加关注SIVE的管理层沟通问题、AAOI的增发稀释，以及市场对高估值股票的波动性。",
+    "recent_shift": "近期观点从普遍的AI乐观转向关注供应链瓶颈和部分公司治理问题，但仍保持长期看多。",
     "representative_quotes": [
-      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints. While markets chopped off forward valuations and rotated toward currently profitable/defensive companies.",
-      "I’m staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
+      "It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right. At a certain point, the operating outlook could be positive. But the share structure/financing becomes increasingly shareholder unfriendly.",
+      "Still long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
       "The demand visibility... is just way too stupidly high."
     ],
-    "generated_at": "2026-09-02T09:47:46.009741+00:00"
+    "generated_at": "2026-09-02T13:58:51.598490+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "GPRO",
       "NVDA",
       "AAPL",
-      "MSFT",
-      "DELL"
+      "COIN",
+      "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI交易拥挤与泡沫担忧",
-      "利率政策不确定性",
-      "期权异动与流信号交易",
-      "美中贸易摩擦与科技限制"
+      "AI泡沫與估值擔憂",
+      "個股期權異常交易",
+      "利率政策不確定性",
+      "地緣政治風險",
+      "企業盈利與市場表現"
     ],
-    "recent_shift": "近期受AI泡沫担忧影响，市场谨慎度上升，从多头转向战术性中性。",
+    "recent_shift": "近期觀點從樂觀轉向警惕，強調AI泡沫風險和市場可能過度樂觀。",
     "representative_quotes": [
+      "Nvidia, NVDA, could be up to 50% undervalued, per Bank of America",
       "AI stocks show similarities to 2000 tech peak, per JPMorgan",
-      "32% of fund managers see an AI bubble as the largest market risk",
-      "GPRO is up 42% today after merger announcement; traders made millions following unusual options flow."
+      "These traders made MILLIONS. GoPro, GPRO, saw 50x normal options volume yesterday, followed by 53x today."
     ],
-    "generated_at": "2026-09-02T05:16:39.870909+00:00"
+    "generated_at": "2026-09-02T13:58:48.821108+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

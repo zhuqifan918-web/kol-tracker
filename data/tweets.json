@@ -1,5 +1,145 @@
 [
   {
+    "tweet_id": "2095141314308288908",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Live now!\n\nThe Unusual Whales live trading show WhaleWatch is live! Join our hosts as they use our GEX Periscope to daytrade, and break down options flow:\n\nhttps://t.co/S202DLwBBq",
+    "tweet_url": "https://x.com/unusual_whales/status/2095141314308288908",
+    "published_at": "2026-09-02T13:26:29+00:00",
+    "fetched_at": "2026-09-02T13:58:25.261708+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣传了Unusual Whales的实盘交易节目WhaleWatch，该节目利用GEX Periscope进行日内交易并分析期权流。虽然内容与投资相关，但仅是一个节目推广，没有具体的投资建议或方向。",
+      "translation": "现在直播！Unusual Whales实盘交易节目WhaleWatch正在进行中！欢迎加入我们的主持人，他们将使用我们的GEX Periscope进行日内交易，并分析期权流：https...",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095123825855987780",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The share of used cars that cost more than $30,000 is at 35.8%, up from 16.8% in 2019, per Edmunds.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095123825855987780",
+    "published_at": "2026-09-02T12:17:00+00:00",
+    "fetched_at": "2026-09-02T13:58:29.490431+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提供了二手车市场价格分布的数据，显示高价位二手车占比上升，可能反映通胀和二手车市场供需变化，对汽车行业及相关金融产品有间接影响，但未直接提及具体投资标的或趋势判断。",
+      "translation": "根据Edmunds的数据，价格超过3万美元的二手车占比已达35.8%，高于2019年的16.8%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095102771418845551",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: \n\n1. Names Europe/Japan for laser supply sourcing as examples for SiPH modules. \n\nVery interesting that Marvell's SVP had Europe in mind when giving examples of laser supply sourcing for SiPH modules. \n\nI can't really name any notable public EU merchant laser suppliers other than $SIVE. Japan I can namedrop a few like Sumitomo/Furukawa etc. \n\nMaybe I'm reading too much into the geography, but a lot of US players like $LITE / $COHR / $AAOI are redirecting laser capacity internally, so it's interesting that the US wasn't mentioned.\n\n2. Silicon photonics, high-speed drivers, amplifiers and DSPs come from other suppliers, with final integration taking place in Taiwan\n\nMakes sense, with $TSM COUPE / $ASX / ShunSin, and others.\n\n3. Nagarajan appears to say NPO could arrive first around late 2027–2028, with full CPO continuing afterward. \n\nGood to hear more about commercialization timelines.\n\n$LITE similarly sees NPO around late 2027-H1 2028, while expecting  CPO laser shipments in H2 2027 ahead of CPO scale up deployments in 2028.\n\nRevenue from upstream suppliers usually hits a bit earlier. \n\n4. $MRVL on Google's TPU program vs. $AVGO / Mediatek and others. \n\n\"Hyperscalers are seeking greater supply-chain diversification. If Google selects Marvell for a particular AI-chip segment, that does not mean it will stop working with MediaTek or Broadcom\". \n\nGuess he's just trying to emphasize pie keeps growing for ASIC suppliers, nothing really too new. \n\n5. All of Marvell's advanced ICs and ASICs are manufactured at TSMC, making the foundry central to the broader architecture.\n\n$TSM backbone of AI as usual. \n\nTLDR:\n\n- Very odd Marvell's SVP highlights Europe for laser sourcing, given how small a pool for merchant suppliers there is... \n- NPO volume looks late 2027, CPO after that. Upstream optical suppliers should start seeing revenue earlier",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095102771418845551",
+    "published_at": "2026-09-02T10:53:20+00:00",
+    "fetched_at": "2026-09-02T13:57:30.824661+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MRVL",
+        "SIVE",
+        "LITE",
+        "COHR",
+        "AAOI",
+        "TSM",
+        "ASX",
+        "AVGO"
+      ],
+      "direction": "neutral",
+      "summary": "该推文分析了Marvell高管在Semicon Taiwan上关于硅光子（SiPH）激光器供应来源、NPO/CPO时间线以及AI ASIC供应链多样化的评论，涉及多家相关公司。整体观点是中性的，认为NPO/CPO的商用时间在2027-2028年，上游光学供应商可能提前受益。",
+      "translation": "分析这条关于投资相关性的推文。推文内容：Marvell的光学工程SVP兼CTO Radha Nagarajan在台湾半导体展上表示：1. 提到欧洲/日本作为硅光子模块的激光器供应来源的例子。有趣的是，Marvell的SVP在举例时提到了欧洲，但我能想到的欧洲公开交易的商业激光器供应商很少，只有SIVE。日本则能想到住友、古河等。也许我过度解读了地理因素，但许多美国厂商如LITE/COHR/AAOI正将激光器产能内部化，所以美国未被提及很有意思。2. 硅光子、高速驱动器、放大器和DSP来自其他供应商，最终集成在台湾完成。这很合理，因为有TSM的COUPE、ASX、ShunSin等。3. Nagarajan似乎表示NPO可能先在2027年底至2028年出现，之后是完整的CPO。很高兴听到更多商业化时间表。LITE也预计NPO在2027年底至2028年上半年，同时预计CPO激光器在2027年下半年出货，CPO规模部署在2028年。上游供应商的收入通常会更早出现。4. 关于Marvell在谷歌TPU项目上与AVGO/联发科等的竞争。'超大规模厂商正在寻求更大的供应链多元化。如果谷歌在某个AI芯片细分领域选择Marvell，并不意味着它会停止与联发科或博通合作。' 猜测他只是想强调ASIC供应商的蛋糕在增长，没什么新意。5. Marvell所有先进IC和ASIC都在台积电制造，使代工厂成为更广泛架构的核心。TSM是AI的支柱，一如既往。要点总结：- Marvell的SVP强调欧洲作为激光器供应来源很奇怪，因为那里的商业供应商很少... - NPO的量产看起来在2027年底，CPO在那之后。上游光学供应商应该更早看到收入。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095098659780301135",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Coinbase, $COIN, co-founder Fred Ehrsam is seeking control of at least three Venezuelan oil field, per Bloomberg.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095098659780301135",
+    "published_at": "2026-09-02T10:37:00+00:00",
+    "fetched_at": "2026-09-02T13:58:34.962687+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "COIN"
+      ],
+      "direction": "neutral",
+      "summary": "Coinbase联合创始人Fred Ehrsam据报寻求控制委内瑞拉至少三个油田，这可能涉及Coinbase的业务多元化或关联投资，但具体影响不明确。对COIN股价的影响方向暂无确定，故定为中性。",
+      "translation": "突发：据彭博社报道，Coinbase联合创始人Fred Ehrsam正在寻求控制委内瑞拉至少三个油田。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095093627043152253",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Tim Cook to be paid $47 million as Apple’s, $AAPL, executive chair, per FT",
+    "tweet_url": "https://x.com/unusual_whales/status/2095093627043152253",
+    "published_at": "2026-09-02T10:17:00+00:00",
+    "fetched_at": "2026-09-02T13:58:36.602194+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "该消息涉及苹果CEO库克的薪酬，为中性公司治理信息，不直接影响苹果股票的投资价值，但可能引发市场对公司高管薪酬结构的关注。",
+      "translation": "据英国《金融时报》报道，蒂姆·库克将获得4700万美元作为苹果公司执行董事长的薪酬。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095087925822190023",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $744.5M\n7. $CORZ - $665.6M\n8. $STM - $584.3M (new)\n9. $APLD - $469.0M\n10. $RIOT - $468.2M\n11. $SHAZ - $456.8M\n12. $IREN - $433.3M\n\nLess material positions includeed $CLSK, $KEEL, sei-network:native, $WYFI, $BTDR, $TE, $HIVE, $VSH, and others. \n\nSeems like Situational Awareness concentrated around memory (Sandisk, Micron), that have low forward multiples but high visibility into 2030.  \n\nAs well as Anthropic/energy/power adjacent from colo/neoclouds + Bloom. \n\nSome of the bottlenecks like the MLCC trade, he couldn't see play out (Taiyo Yuden, etc). due to July's liqudation. And some are new like $STM (eg. MCU price hikes).\n\nWith core winners of everything such as $TSM (but less high-beta). \n\nThis looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently, with a lot of name overlap).  \n\nBut always cool to see what others are doing.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095087925822190023",
+    "published_at": "2026-09-02T09:54:21+00:00",
+    "fetched_at": "2026-09-02T13:57:37.255467+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SNDK",
+        "MU",
+        "BE",
+        "TSM",
+        "NBIS",
+        "CRWV",
+        "CORZ",
+        "STM",
+        "APLD",
+        "RIOT",
+        "SHAZ",
+        "IREN"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了某机构第二季度13F持仓，显示其重仓存储芯片（如闪迪、美光）和AI/能源相关股票，并认为这些领域有高可见度增长。作者表示自己的投资组合与这些持仓有重叠，并看好相关机会。",
+      "translation": "只是看看Leopold的《态势感知》第二季度13F最新持仓，截至6月30日：1. 闪迪 - 56.74亿美元 2. 美光 - 55.74亿美元 3. Bloom Energy - 18.99亿美元 4. 台积电 - 12.65亿美元 5. Nebius - 12.32亿美元 6. CoreWeave - 7.445亿美元 7. Core Scientific - 6.656亿美元 8. 意法半导体 - 5.843亿美元（新进）9. Applied Digital - 4.69亿美元 10. Riot Platforms - 4.682亿美元 11. Shazam - 4.568亿美元 12. IREN - 4.333亿美元。次要持仓包括CleanSpark、KEEL、Sei Network原生代币、WYFI、Bitdeer、TE、HIVE、Vishay等。看起来《态势感知》集中在存储（闪迪、美光），这些公司远期市盈率低，但到2030年可见度高。以及与Anthropic/能源/电力相关的colo/neoclouds和Bloom Energy。一些瓶颈如MLCC交易（如Taiyo Yuden等），由于7月的清算他无法参与。还有一些新的如意法半导体（例如MCU涨价）。核心赢家如台积电（但贝塔较低）。这看起来与我2026年下半年/2027年初的投资组合类似，其中Nebius、美光、台积电、colo玩家等为核心关注点。（我目前已大力集中在网络上游和传统存储，与这些名字有很多重叠）。但看到其他人的做法总是很酷。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2095080414826381575",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -2086,6 +2226,28 @@
       "summary": "该推文指出2027年约有15GW的AI算力因基础设施（如变压器、布线和冷却系统）建设瓶颈无法按时启用，影响AI产能释放。对AI基础设施和电力设备供应商可能是潜在利好，但对依赖AI算力及时扩张的公司则是风险。",
       "translation": "共识估计，2027年生产的约15GW AI算力在2027年无法投入使用。这比仅仅找到电力更难，因为你还需要建设所有的变压器、布线、液冷、（大型）冷水机组以及复杂的网络。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2093805166655143988",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Yep, ESMT (3006) has exposure to multiple legacy memory segments.\n\nHas a portfolio of: SLC/SPI NAND, NOR Flash, DDR2/DDR3, MCP/eMCP, so all the fun legacy stuff.\n\nIf you want to look at broader industry price hikes coming up that ESMT has exposure to:  \n\n1. SLC NAND: ~120-170% for H2 2026.\n2. DDR2: ~35-40% for Q3 2026.\n3. DDR4: +30–40% Q3 (with DDR3 tightening)\n4. NOR +60–65%+ for H2 (high density)\n5. MCP/eMCP: maybe ~+15–25% QoQ for ESMT from my own estimate\n\nFor official breakdown:\n\nDDR2 + DDR3: ~45% of revenue\nDDR4/other DRAM ~ 10% of revenue\neMCP/MCP ≈30%\nAnalog + other ≈15%\n\nRegardless, duration/hikes is the key: \n\n-> \"none of the major global SLC NAND suppliers plan to add new production capacity in the near term.\"\n-> TrendForce specifically expects depleted inventories to make SLC NAND even tighter in Q4.\n-> Winbond withdrawing DDR2, would make inventory even tighter (and they're doing allocations into 2029-2030)\n-> ESMT management said the market's main problem was supply, not demand; the company's foundry allocations covered only roughly 60–70% of customer orders\n-> Nanya: \"memory shortages could last through the end of 2027, with supply and demand still tight in 2028\"\n->Nanya explicitly said capacity constraints could cause shortages across DDR5, LPDDR5, DDR4, LPDDR4 and DDR3. \n-> ESMT included eMCP among the products receiving order-transfer benefits as mature node resources were being pulled elsewhere\n______\n\nIf I had to state my thoughts again:\n\nI think ESMT's ~1.9x July annualized run-rate P/E could compress further, despite factoring in PSMC's 45% wafer hike due to further legacy memory price hikes. \n\nIndustry commentary supports durability throughout 2027. \n\nCherry on top is if we start seeing LTAs and visibility into 2029-2030 (but not factored in). \n\nI think markets either don't know about this, are mispricing duration, or overestimating PSMC's wafer hike effects. \n\nMaybe playing duoQ with Rank 1 Challenger \"ESMT\" in LoL classic... Is more fun than playing with hardstuck \"Micron\" in League?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2093805166655143988",
+    "published_at": "2026-08-29T20:57:07+00:00",
+    "fetched_at": "2026-09-02T13:57:59.126432+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "3006",
+        "ESMT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好ESMT（3006），指出其覆盖多种利基存储产品，且行业价格上调及供应紧张将持续至2027-2028年，公司估值可能进一步压缩，但认为市场可能低估了其盈利持续性。",
+      "translation": "是的，ESMT（3006）涉足多个传统存储细分市场。其产品组合包括：SLC/SPI NAND、NOR Flash、DDR2/DDR3、MCP/eMCP，都是那些有趣的传统产品。如果你关注更广泛的行业涨价趋势，ESMT将受益于：1. SLC NAND：2026年下半年约120-170%涨价。2. DDR2：2026年第三季度约35-40%涨价。3. DDR4：第三季度+30-40%（DDR3趋紧）。4. NOR：下半年高密度产品+60-65%以上。5. MCP/eMCP：据我估计，对ESMT可能环比增长约15-25%。官方营收构成：DDR2+DDR3约占45%，DDR4/其他DRAM约占10%，eMCP/MCP约占30%，模拟及其他约占15%。无论如何，涨价持续性和幅度是关键：——'全球主要SLC NAND供应商近期均无新增产能计划。'——TrendForce预计库存耗尽将使SLC NAND在第四季度更加紧张。——华邦退出DDR2将使库存更加紧张（并将配额分配至2029-2030年）。——ESMT管理层表示市场主要问题是供应而非需求；公司晶圆厂配额仅能满足约60-70%的客户订单。——南亚科技：'内存短缺可能持续到2027年底，2028年供需仍将紧张。'——南亚科技明确表示产能限制可能导致DDR5、LPDDR5、DDR4、LPDDR4和DDR3出现短缺。——ESMT将eMCP列为受益于成熟节点资源转移订单的产品之一。______如果我要重申我的观点：我认为ESMT约1.9倍7月年化市盈率可能进一步压缩，尽管考虑到PSMC 45%的晶圆涨价，但传统内存价格进一步上涨以及行业评论支持涨势持续到2027年。锦上添花的是，如果我们开始看到长期协议以及对2029-2030年的可见性（但尚未计入）。我认为市场要么不了解这一点，要么错误定价了持续性，要么高估了PSMC晶圆涨价的影响。也许在英雄联盟经典模式中与'ESMT'这个最强王者双排...比与'硬扛'的美光玩更有趣？",
+      "confidence": "high"
     }
   },
   {
