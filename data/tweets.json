@@ -1,5 +1,151 @@
 [
   {
+    "tweet_id": "2095279986701951461",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$AVGO CEO: \"Demand for lasers, whether it is EML lasers, CW lasers.\n\nIs far surpassing supply out there in the industry\"\n\nPretty material coming from one of the largest laser suppliers in the world... Even while they 3x laser capacity. \n\nExciting validation for laser companies. https://t.co/l4alSsexMT",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095279986701951461",
+    "published_at": "2026-09-02T22:37:31+00:00",
+    "fetched_at": "2026-09-02T22:43:43.478703+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AVGO"
+      ],
+      "direction": "bullish",
+      "summary": "博通CEO表示激光器（包括EML激光器和CW激光器）的需求远超供应，尽管该公司已将激光产能提高了三倍。这被解读为对激光器行业的重大利好，可能利好相关激光器公司。",
+      "translation": "$AVGO CEO：激光器的需求，无论是EML激光器还是CW激光器，都远远超过行业内的供应。来自世界上最大的激光器供应商之一的这一说法相当重要……即使他们已经将激光器产能提高了三倍。这对激光器公司来说是令人兴奋的验证。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095278030289879230",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Zoom has appointed former Oracle CFO Jeffrey E. Epstein to its Board of Directors.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095278030289879230",
+    "published_at": "2026-09-02T22:29:45+00:00",
+    "fetched_at": "2026-09-02T22:44:23.883011+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ZM"
+      ],
+      "direction": "neutral",
+      "summary": "Zoom任命前甲骨文高管加入董事会，此人事变动可能为公司治理带来经验，但短期内对股价影响不大，属于中性消息。",
+      "translation": "Zoom已任命前甲骨文首席财务官Jeffrey E. Epstein为其董事会成员。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095261816767283663",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There we go, $AVGO earnings call to clarify miss. Broadcom expects:\n\nFY27E: ~$115B (+100% growth)\nFY28E: ~$230B (+100%), think analysts were modeling ~$180B. \n\nDemand actually exceeds this outlook, and Broadcom will work to improve supply. This is way above street estimates, similar to $NVDA earnings. \n\n\"very much on target to exceed $30 in earnings per share in fiscal 2028.\" ~12.2x forward p/e (of $367/share)\n\nAlso just a brownie quote: \"AI networking revenue is expected to grow just as fast as XPUs over the next few years.\"\n\nWay more bullish forward guidance relative to next soft quarter revenue projections, think the few percent AH selloff was an overreaction.\n\nJust my initial thoughts.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095261816767283663",
+    "published_at": "2026-09-02T21:25:19+00:00",
+    "fetched_at": "2026-09-02T22:43:49.119049+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AVGO",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为博通（AVGO）的业绩指引远超市场预期，尽管近期财报营收略低于预期导致盘后小幅下跌，但前景非常乐观，预计未来几年收入和利润将大幅增长，估值相对便宜，回调是过度反应，整体看涨。",
+      "translation": "来了，$AVGO财报电话会议澄清了业绩不及预期的问题。博通预计：FY27E约1150亿美元（+100%增长），FY28E约2300亿美元（+100%），认为分析师们此前建模约1800亿美元。需求实际上超过这一展望，博通将努力改善供应。这远远高于华尔街预期，类似$NVDA财报。\"非常有望在2028财年超过每股30美元的收益\"。约12.2倍远期市盈率（股价367美元）。另外引用一句话：\"AI网络收入预计未来几年将增长得和XPU一样快。\"相对于下一个疲软季度的营收预期，前瞻指引更加看涨，认为那百分之几的盘后下跌是过度反应。这只是我的初步想法。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095254939589353530",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Amazon is warning New Yorkers their deliveries could get slower and more expensive.  The company says NYC Mayor Zohran Mamdani's proposal could add an estimated $664 a year to the average household's delivery costs, while putting more than 5,000 delivery jobs at risk, per FOX",
+    "tweet_url": "https://x.com/unusual_whales/status/2095254939589353530",
+    "published_at": "2026-09-02T20:58:00+00:00",
+    "fetched_at": "2026-09-02T22:44:28.828916+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMZN"
+      ],
+      "direction": "bearish",
+      "summary": "亚马逊警告，纽约市长提出的政策可能导致配送成本上升、速度变慢，增加消费者负担并威胁数千个工作岗位，这可能对亚马逊的运营效率和成本控制构成负面影响。",
+      "translation": "亚马逊警告纽约市民，他们的配送可能会变得更慢、更贵。该公司表示，纽约市长佐赫兰·马姆达尼的提案可能使普通家庭每年的配送成本增加约664美元，并使超过5000个配送工作岗位面临风险（据福克斯报道）。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095248145013727235",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Apple, $AAPL, CEO John Ternus will earn a $3 million annual salary in his new role.   \n\nOn top of his base pay, he is set to receive $55 million in equity grants for fiscal 2027 starting this October.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095248145013727235",
+    "published_at": "2026-09-02T20:31:00+00:00",
+    "fetched_at": "2026-09-02T22:44:30.808340+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "该消息涉及苹果公司CEO的薪酬结构，但并未直接提供公司财务或市场前景的明确信息。薪酬安排可能被视为对公司长期发展的信心信号，但总体影响中性，投资者需关注其他基本面因素。",
+      "translation": "苹果公司，$AAPL，CEO John Ternus 在新职位上的年薪将为300万美元。除了基本工资外，他将在今年10月获得2027财年5500万美元的股权授予。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095245901426282814",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Broadcom, $AVGO, earnings:\n\n- EPS: $3.32, est: $3.24 \n- Revenue: $29.5, est: $29.4",
+    "tweet_url": "https://x.com/unusual_whales/status/2095245901426282814",
+    "published_at": "2026-09-02T20:22:05+00:00",
+    "fetched_at": "2026-09-02T22:44:32.092405+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AVGO"
+      ],
+      "direction": "bullish",
+      "summary": "博通公布的每股收益和营收均超预期，显示公司业绩强劲，对股价构成利好。",
+      "translation": "突发：博通，$AVGO，财报：每股收益：3.32美元，预期3.24美元；营收：295亿美元，预期294亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095234806955270227",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Howard Lutnick: \"data centers aren't a significant user of water... This is propaganda by our adversaries to try to slow us down\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2095234806955270227",
+    "published_at": "2026-09-02T19:38:00+00:00",
+    "fetched_at": "2026-09-02T22:44:34.790812+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文涉及数据中心用水争议，可能影响科技和人工智能相关板块的情绪。霍华德·卢特尼克否认数据中心耗水严重，称这是对手的阻挠宣传，可能旨在维护美国人工智能基建的扩张前景。但推文未直接提及具体投资标的或市场走势，对投资方向的指引较为间接。",
+      "translation": "霍华德·卢特尼克：“数据中心并不是重要的用水用户……这是对手的宣传，目的是为了减缓我们的发展。”",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2095224992296288559",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -177,6 +323,25 @@
       "direction": "bullish",
       "summary": "霍华德·卢特尼克预测未来六个月内利率将企稳并下降，这对债券市场和股市可能构成利好，因为低利率环境通常有利于风险资产和经济增长。",
       "translation": "霍华德·卢特尼克表示，未来六个月内利率将趋于稳定并下降。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095154024849043561",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Dutch central bank has moved 86 tons of gold from North America to London to strengthen liquidity and crisis preparedness, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2095154024849043561",
+    "published_at": "2026-09-02T14:17:00+00:00",
+    "fetched_at": "2026-09-02T22:44:42.589660+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "荷兰央行将86吨黄金从北美转移至伦敦，旨在提高流动性和危机应对能力。该消息反映央行对黄金的战略性调整，可能暗示对金融稳定性的担忧，但未直接指向具体投资标的，对金价影响中性偏多。",
+      "translation": "荷兰央行已将86吨黄金从北美转移至伦敦，以加强流动性和危机应对能力，据路透社报道。",
       "confidence": "medium"
     }
   },
