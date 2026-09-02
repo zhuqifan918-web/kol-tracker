@@ -1,72 +1,74 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "NVDA",
       "SIVE",
       "MRVL",
-      "NVDA",
-      "TSM",
-      "MU"
+      "ESMT",
+      "AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "硅光与CPO供应链瓶颈",
-      "存储芯片超级周期",
-      "AI基础设施与算力需求"
+      "AI基础设施与算力需求持续增长",
+      "硅光子与CPO技术成为新瓶颈",
+      "存储芯片价格上涨与产能紧缺",
+      "光模块与激光器供应链紧张",
+      "人形机器人与物理AI崛起"
     ],
-    "recent_shift": "近期观点从普遍的AI乐观转向关注供应链瓶颈和部分公司治理问题，但仍保持长期看多。",
+    "recent_shift": "宏观波动加剧背景下仍坚持AI长期多头，但短期更加关注高确定性细分领域。",
     "representative_quotes": [
-      "It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right. At a certain point, the operating outlook could be positive. But the share structure/financing becomes increasingly shareholder unfriendly.",
-      "Still long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
-      "The demand visibility... is just way too stupidly high."
+      "Nvidia projects $1.3T of hyperscaler spend for 2027... That capex flows across the AI supply chain… from memory and networking to foundries.",
+      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.",
+      "With demand visibility extending for years and the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-09-02T13:58:51.598490+00:00"
+    "generated_at": "2026-09-02T17:35:27.741946+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "GPRO",
       "NVDA",
       "AAPL",
+      "GPRO",
       "COIN",
       "MSFT"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫與估值擔憂",
-      "個股期權異常交易",
-      "利率政策不確定性",
-      "地緣政治風險",
-      "企業盈利與市場表現"
+      "AI泡沫担忧",
+      "科技巨头监管",
+      "地缘政治风险",
+      "能源与大宗商品",
+      "市场波动与期权交易"
     ],
-    "recent_shift": "近期觀點從樂觀轉向警惕，強調AI泡沫風險和市場可能過度樂觀。",
+    "recent_shift": "近期由强烈看涨转向谨慎，提及AI泡沫风险增加。",
     "representative_quotes": [
-      "Nvidia, NVDA, could be up to 50% undervalued, per Bank of America",
-      "AI stocks show similarities to 2000 tech peak, per JPMorgan",
-      "These traders made MILLIONS. GoPro, GPRO, saw 50x normal options volume yesterday, followed by 53x today."
+      "Nvidia, $NVDA, CEO: “Every single country needs to build infrastructure so you can support your own local economy”",
+      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
+      "JPMorgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities. It was previously bullish."
     ],
-    "generated_at": "2026-09-02T13:58:48.821108+00:00"
+    "generated_at": "2026-09-02T17:35:22.911410+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SNDK",
-      "MU",
-      "MRVL",
+      "海力士",
+      "闪迪",
+      "美光",
       "META",
-      "INTC"
+      "亚马逊"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施与存储需求",
-      "AI代理（Agent）带来的需求增长",
-      "美债危机与避险资产（黄金、BTC）的波动",
-      "美股与A股、港股的跨市场联动",
-      "存储公司的股东回报与资本开支"
+      "存储芯片牛市",
+      "AI对存储需求增长",
+      "美债收益率上升风险",
+      "市场避险情绪",
+      "个股操作与反思"
     ],
-    "recent_shift": "从早期集中投资存储和科技股，近期转向关注国债收益率和AI泡沫风险，但整体仍看好存储和AI的长期增长；同时开始考虑配置SPY和QQQ以降低风险。",
+    "recent_shift": "近期因市场下跌和亏损，作者从激进转向谨慎，表达了对风险的敬畏并计划降低杠杆。",
     "representative_quotes": [
-      "电脑就能装的小模型来了，$META 发布了Muse Spark 1.2模型精简版，参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。",
-      "ai说美债危机的临界点是50万亿，ai推算50万亿美金的时间是29.7月。",
-      "亚马逊26q2ai核心观点：开支：2200亿美元（原2000亿美元），主要因HBM/内存涨价。需求：2026、2027算力仍供不应求，2028需求已非常强劲。"
+      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。",
+      "唯一确定性利空股市，流动性被锁住抽走。anthropic上市还能再抽走一批流动性，股市肯定是好不了，地狱难度，怀念上半年的存储行情，天天都是暴涨。",
+      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。"
     ],
-    "generated_at": "2026-09-02T09:47:43.154079+00:00"
+    "generated_at": "2026-09-02T17:35:25.333382+00:00"
   }
 }

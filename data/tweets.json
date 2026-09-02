@@ -1,5 +1,109 @@
 [
   {
+    "tweet_id": "2095179191733903778",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, CEO: “Every single country needs to build infrastructure so you can support your own local economy”\n\nHuang said that the “single worst outcome” for a country is “being left behind\" in AI race.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095179191733903778",
+    "published_at": "2026-09-02T15:57:00+00:00",
+    "fetched_at": "2026-09-02T17:34:46.960052+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "黄仁勋强调各国需建设AI基础设施以支持本地经济，并警告落后于AI竞赛是最坏结果，这强化了英伟达AI芯片需求的长期增长逻辑，利好NVDA股价。",
+      "translation": "英伟达CEO黄仁勋：'每个国家都需要建设基础设施，以支持自己的本地经济'。他还表示，对于国家而言，'最糟糕的结果'就是在AI竞赛中'被甩在后面'。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095174157332070483",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Uber, $UBER, to lay off 10% of its staff, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2095174157332070483",
+    "published_at": "2026-09-02T15:37:00+00:00",
+    "fetched_at": "2026-09-02T17:34:49.937213+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "UBER"
+      ],
+      "direction": "bearish",
+      "summary": "据报道，优步（UBER）将裁员10%，这通常被视为负面信号，可能对股价产生压力。投资者需关注公司成本削减措施及其对盈利能力的潜在影响。",
+      "translation": "据路透社报道，优步（$UBER）将裁员10%。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095164090889236499",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Howard Lutnick: Semiconductor tariffs are being considered... if you build in the US, we will give you tariff relief.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095164090889236499",
+    "published_at": "2026-09-02T14:57:00+00:00",
+    "fetched_at": "2026-09-02T17:34:52.351321+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提到半导体关税可能实施，但如果在美国建厂则可获关税减免。这鼓励半导体制造业回流美国，对在美国有生产布局的半导体公司是利好，可能提升其竞争力。",
+      "translation": "霍华德·卢特尼克：正在考虑对半导体征收关税……如果你在美国建厂，我们将给予关税减免。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095153855818547571",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA told JP Morgan... That their revenue could increase more than 100%+ Y/Y unconstrained.\n\nBut ended up giving a ~70% growth projection because that's what Nvidia believes they can supply. \n\nFY27 est: ~$401B revenue...\nFY28: ~$682B at 70% or >$802B unconstrained.\n\n- Nvidia IR said it gave the updated outlook because it had greater visibility + saw a meaningful gap between Street ests. and its own projections\n\n- Inference is now larger than training after being roughly 50/50 about 18 months ago\n\nI wonder if Nvidia will be the first $10T company... this growth is absurd.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095153855818547571",
+    "published_at": "2026-09-02T14:16:19+00:00",
+    "fetched_at": "2026-09-02T17:34:05.583600+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论了英伟达（NVDA）向摩根大通透露其潜在营收增长超过100%，但官方指引为约70%的增长率，反映出供应能力限制而非需求不足。推文还提到推理需求已超过训练需求，并猜测英伟达可能成为首家市值达10万亿美元的公司，整体看涨情绪浓厚。",
+      "translation": "英伟达告诉摩根大通...他们的营收在无约束条件下可能同比增长超过100%。但最终给出了约70%的增长预测，因为这是英伟达认为他们能够供应的数量。FY27估计：约4010亿美元营收...FY28：按70%增长为约6820亿美元，或无约束条件下超过8020亿美元。英伟达投资者关系表示，之所以给出更新后的展望，是因为他们拥有更大的可见性，并看到市场预期与其自身预测之间存在显著差距。推理需求现在已超过训练需求，而大约18个月前两者大致相当。我在想英伟达是否会成为第一家市值达10万亿美元的公司...这种增长太惊人了。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095151502574702905",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Our hosts are 3/3 on GEX Periscope scalps; now covering options flow on $AAPL, $GPRO, and taking requests!\n\nWhat do you want to see?: https://t.co/rBhfGIPoRt",
+    "tweet_url": "https://x.com/unusual_whales/status/2095151502574702905",
+    "published_at": "2026-09-02T14:06:58+00:00",
+    "fetched_at": "2026-09-02T17:34:57.131060+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL",
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提及交易员在GEX（伽马指数）交易中成功获利，并正在关注AAPL和GPRO的期权流动，暗示可能提供交易信号。整体语气积极，暗示对这两只股票期权交易机会持乐观态度。",
+      "translation": "我们的主持人3/3成功执行GEX潜望镜快进交易；现在覆盖$AAPL、$GPRO的期权流动，并接受请求！想了解什么？：https://t.co/rBhfGIPoRt",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095141314308288908",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -140,6 +244,25 @@
     }
   },
   {
+    "tweet_id": "2095082850223878592",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "这段日子真无聊呐，来个大瀑布也是好事情，反弹一个单边行情出来，这行情枯燥到只想天天玩游戏。 https://t.co/JIhTAllWwn",
+    "tweet_url": "https://x.com/xiaomustock/status/2095082850223878592",
+    "published_at": "2026-09-02T09:34:10+00:00",
+    "fetched_at": "2026-09-02T17:34:29.862555+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "发文者表达了对当前沉闷市场的厌倦，期待大幅下跌以触发单边反弹行情，显示出对市场波动可能带来交易机会的期待，但未明确看多或看空。",
+      "translation": "最近真无聊，来个大瀑布也是好事，反弹出一个单边行情来。这种枯燥行情让人只想天天打游戏。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095080414826381575",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
@@ -238,6 +361,25 @@
       "direction": "bullish",
       "summary": "推文指出台湾市场表现强劲，远超美国和欧洲。提到了NVDA和TSM的供应商Foci，其股价经历了大幅波动但恢复迅速，暗示相关半导体供应链韧性较强，可能对投资有利。",
       "translation": "非常有趣地注意到台湾的表现远超世界其他地区，如美国/欧洲。焦点公司（NVDA / TSM FAU供应商）从400涨到900又跌回400再涨到800，并且从7月开始恢复得非常快。不确定像Etron这样的公司或其他公司的收益是否真的可以忽视宏观环境？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094983148673114430",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Crossing 45 million monthly users, about one in ten people in the EU, is the statutory trigger for enhanced supervision.\n\nRead more: https://t.co/A8uIHqH3ZD",
+    "tweet_url": "https://x.com/unusual_whales/status/2094983148673114430",
+    "published_at": "2026-09-02T02:58:00+00:00",
+    "fetched_at": "2026-09-02T17:35:12.476163+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及某平台月活跃用户突破4500万（约占欧盟人口的十分之一），达到触发更严格监管的法定门槛，可能对相关公司（如大型科技平台）的运营和合规成本产生潜在影响，但未指明具体投资标的。",
+      "translation": "月活跃用户突破4500万，约占欧盟人口的十分之一，这是触发强化监管的法定门槛。",
       "confidence": "medium"
     }
   },
