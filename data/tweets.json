@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2095080414826381575",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "山姆奥特曼这叼毛说ai可能摧毁全球经济，\n同时称一些新的云公司的算力扩张在明年很难持续。",
+    "tweet_url": "https://x.com/xiaomustock/status/2095080414826381575",
+    "published_at": "2026-09-02T09:24:30+00:00",
+    "fetched_at": "2026-09-02T09:46:59.596047+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "山姆·奥特曼警告AI可能摧毁全球经济，并指出部分新云公司的算力扩张明年难以持续。这暗示对AI算力基础设施投资持谨慎态度，可能影响相关云计算和AI芯片公司的股票。",
+      "translation": "山姆·奥特曼这个混蛋说AI可能摧毁全球经济，同时声称一些新的云公司的算力扩张在明年很难持续。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095064848031678648",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I don’t want to play investor activism here:\n\nBut I hope the recent crash sends a message to $SIVE what investor base + focus really matters (not Sweden, not wireless).\n\nAs well as that they should fire whatever board member or executive gave into local media criticisms:\n\nAnd told the CEO to prioritize on non-photonics / near term revenue, since the discussions was on AllSpace + pipeline conversion now. Not Ayar/GFS and H2 2027/2028 opportunities.\n\nIt’s not hard to set clear future goals like NASDAQ listing filing by H1 2027 and use all your resources to execute on that. \n\nNot vague post and language hedge like  no-growth conservative companies do.\n\nI’d argue this is better long term so they consolidate around:\n\nNPO/CPO, US funding, and forward vision + execution through scaling/M&A.\n\nIncluding divesting wireless/satcom/5G to 100% focus on photonics, if those are redirecting priorities.\n\nI’m still holding my 1M+ share count position but not going to blindly cheerlead or hold a company if they become misaligned on what I originally invested in them for (CPO).",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095064848031678648",
+    "published_at": "2026-09-02T08:22:38+00:00",
+    "fetched_at": "2026-09-02T09:46:23.775431+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "neutral",
+      "summary": "作者对SIVE公司（可能为Sivers Semiconductors）的近期下跌表达了担忧，并公开向管理层提出建议，希望公司更加专注于光子学（CPO/NPO）和近期收入转化，而不是无线/卫星通信或远期（2027/2028）机会。作者持有超过100万股，但表示若公司战略偏离其投资初衷（CPO），将不再盲目持有。整体语气偏中性，既未强烈看涨也未看跌，但隐含着对管理层方向的不满。",
+      "translation": "我不想在这里扮演激进投资者：\n\n但我希望最近的崩盘能向$SIVE传递一个信息：投资者基础和重心才是真正重要的（不是瑞典，也不是无线）。\n\n以及他们应该解雇任何屈服于本地媒体批评的董事会成员或高管：\n\n并告诉CEO优先考虑非光子学/近期收入，因为讨论的是AllSpace和管线转化，而不是Ayar/GFS和2027/2028年的机会。\n\n设定明确未来目标并不难，比如2027年上半年提交纳斯达克上市申请，并用所有资源去执行。\n\n而不是像无增长保守公司那样含糊其辞和模棱两可。\n\n我认为从长期来看这样更好，以便他们围绕以下方面整合：\n\nNPO/CPO，美国资金，以及通过规模化/并购实现的前瞻愿景和执行力。\n\n包括剥离无线/卫星通信/5G，100%专注于光子学，如果这些业务正在转移优先级的话。\n\n我仍然持有超过100万股的头寸，但如果公司与我最初投资他们的初衷（CPO）不一致，我不会盲目吹捧或继续持有。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095055422268780682",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit $SIVE is tanking to oblivion",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095055422268780682",
+    "published_at": "2026-09-02T07:45:11+00:00",
+    "fetched_at": "2026-09-02T09:46:28.536894+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bearish",
+      "summary": "该推文提及$SIVE正在暴跌，表达看空情绪，认为该股票可能持续下跌至无价值。",
+      "translation": "@aleabitoreddit $SIVE正在暴跌至湮灭",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095046980456112170",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "BREAKING: Sam Altman admits the AI bubble could blow up the entire global economy https://t.co/M6JoQ5HAdX",
+    "tweet_url": "https://x.com/xiaomustock/status/2095046980456112170",
+    "published_at": "2026-09-02T07:11:38+00:00",
+    "fetched_at": "2026-09-02T09:46:57.169447+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "山姆·奥特曼承认AI泡沫可能摧毁全球经济，这暗示AI相关资产存在重大下行风险，投资者需警惕市场泡沫破裂的可能性。",
+      "translation": "突发新闻：山姆·奥特曼承认AI泡沫可能摧毁整个全球经济。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095012962360828314",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",

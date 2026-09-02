@@ -1,27 +1,27 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "NVDA",
       "SIVE",
-      "ESMT",
-      "AAOI",
-      "MRVL"
+      "NVDA",
+      "MRVL",
+      "SIVE",
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI硬件需求激增与瓶颈",
-      "光子学与共封装光学",
-      "内存特别是利基DRAM超级周期",
-      "美国制造业回流与关税政策",
-      "机器人技术"
+      "AI基础设施与算力扩张",
+      "光模块与硅光子供应链瓶颈",
+      "存储器（尤其是利基型存储）供需紧张",
+      "CPO（共封装光学）与NPO技术演进",
+      "人形机器人与物理AI"
     ],
-    "recent_shift": "该分析师近期更加关注利基内存和光子学瓶颈，尽管对高贝塔AI股票的看法保持乐观，但由于市场波动和担忧，其近期观点变得更加谨慎。",
+    "recent_shift": "近期观点未发生根本性转变，但更加关注SIVE的管理层沟通问题、AAOI的增发稀释，以及市场对高估值股票的波动性。",
     "representative_quotes": [
-      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints. ... I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
-      "As long as I don't see indicators of hyperscalers cutting capex or demand wavering. I'm staying long despite macro volatility.",
-      "We're seeing record visibility with memory (2031), photonics (2029-2030), etc LTAs ... combined with record projections ... vs. uncomfortable macro."
+      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints. While markets chopped off forward valuations and rotated toward currently profitable/defensive companies.",
+      "I’m staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
+      "The demand visibility... is just way too stupidly high."
     ],
-    "generated_at": "2026-09-02T05:16:37.672524+00:00"
+    "generated_at": "2026-09-02T09:47:46.009741+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
@@ -50,22 +50,24 @@
     "focus_tickers": [
       "SNDK",
       "MU",
-      "HX",
+      "MRVL",
       "META",
-      "MRVL"
+      "INTC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片结构性紧缺",
-      "AI Agent驱动存储及CPU需求",
-      "美债收益率上行与流动性收紧"
+      "AI基础设施与存储需求",
+      "AI代理（Agent）带来的需求增长",
+      "美债危机与避险资产（黄金、BTC）的波动",
+      "美股与A股、港股的跨市场联动",
+      "存储公司的股东回报与资本开支"
     ],
-    "recent_shift": "近期观点从坚定看多存储行业转为关注美债收益率上升对股市的流动性压力，并认可黄金和比特币在美债危机叙事下的对冲属性，但认为股市短期内承压。",
+    "recent_shift": "从早期集中投资存储和科技股，近期转向关注国债收益率和AI泡沫风险，但整体仍看好存储和AI的长期增长；同时开始考虑配置SPY和QQQ以降低风险。",
     "representative_quotes": [
-      "唯一确定性利空股市，流动性被锁住抽走。",
-      "存储三巨头的2027年产能售罄。",
-      "美债的影响太大，资金没啥渠道避险，全球一起牵连。"
+      "电脑就能装的小模型来了，$META 发布了Muse Spark 1.2模型精简版，参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。",
+      "ai说美债危机的临界点是50万亿，ai推算50万亿美金的时间是29.7月。",
+      "亚马逊26q2ai核心观点：开支：2200亿美元（原2000亿美元），主要因HBM/内存涨价。需求：2026、2027算力仍供不应求，2028需求已非常强劲。"
     ],
-    "generated_at": "2026-09-01T22:42:43.110589+00:00"
+    "generated_at": "2026-09-02T09:47:43.154079+00:00"
   }
 }
