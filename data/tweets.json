@@ -1,5 +1,85 @@
 [
   {
+    "tweet_id": "2095224992296288559",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: New York City Public Schools is banning more than half a million students and teachers from using artificial intelligence for the 2026-2027 academic year, per ABC",
+    "tweet_url": "https://x.com/unusual_whales/status/2095224992296288559",
+    "published_at": "2026-09-02T18:59:00+00:00",
+    "fetched_at": "2026-09-02T20:17:38.489772+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "纽约市公立学校全面禁止学生和教师使用人工智能，可能对依赖教育领域应用的AI公司带来负面影响。",
+      "translation": "突发新闻：纽约市公立学校将在2026-2027学年禁止超过50万名学生和教师使用人工智能，据ABC报道。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2095216184320749783",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Wow, look at this.\n\nWe just enhanced charting on Unusual Whales.\n\nYou can now see new candle charting that allows subscribers to display many UW proprietary metrics\n\nLook at $NVDL, which had two spikes in positive directional delta.\n\nAnd then, gains!\n\nThis is a must have tool. https://t.co/z9FyU2uJza",
+    "tweet_url": "https://x.com/unusual_whales/status/2095216184320749783",
+    "published_at": "2026-09-02T18:24:00+00:00",
+    "fetched_at": "2026-09-02T20:17:41.067129+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文展示了Unusual Whales平台新增的蜡烛图工具，并提及NVDL股票出现两次正方向Delta峰值后价格上涨，暗示该工具对投资分析有帮助，且NVDL可能看涨。",
+      "translation": "哇，看看这个。我们刚刚增强了Unusual Whales的图表功能。你现在可以看到新的蜡烛图，让订阅者能够显示许多UW专有指标。看看$NVDL，它出现了两次正方向Delta的飙升。然后，涨了！这是一个必备工具。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095209137865183354",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Gold and silver are now legal tender in Texas, per USA Today",
+    "tweet_url": "https://x.com/unusual_whales/status/2095209137865183354",
+    "published_at": "2026-09-02T17:56:00+00:00",
+    "fetched_at": "2026-09-02T20:17:42.959141+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及德克萨斯州将黄金和白银视为法定货币，这反映出对贵金属作为货币的认可，可能提升其需求，对黄金和白银市场构成利好。",
+      "translation": "据《今日美国》报道，黄金和白银现在在德克萨斯州被视为法定货币。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095194038286856236",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, CEO: AI eliminating your job is \"nonsense.\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2095194038286856236",
+    "published_at": "2026-09-02T16:56:00+00:00",
+    "fetched_at": "2026-09-02T20:17:45.198748+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文引用英伟达CEO关于AI不会消除就业的观点，可能影响投资者对AI技术前景及英伟达市场表现的信心，但未提供具体投资建议或价格预测。",
+      "translation": "英伟达，$NVDA，首席执行官：AI 消除你的工作是无稽之谈。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095179191733903778",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -17,6 +97,27 @@
       "direction": "bullish",
       "summary": "黄仁勋强调各国需建设AI基础设施以支持本地经济，并警告落后于AI竞赛是最坏结果，这强化了英伟达AI芯片需求的长期增长逻辑，利好NVDA股价。",
       "translation": "英伟达CEO黄仁勋：'每个国家都需要建设基础设施，以支持自己的本地经济'。他还表示，对于国家而言，'最糟糕的结果'就是在AI竞赛中'被甩在后面'。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095176532641890517",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @snorlax_uw: Labor sale ongoing now!  Plans start at $40/mo\n\nGet access to:\n- the complete options flow tape + other data derived from it including options premium charting, options screeners, and more\n- GEX heatmaps/charting for every ticker\n- solana:J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr market maker exposure (Pro/Max plans only)\n-  much more!\n\nhttps://t.co/t94HwXcgN5",
+    "tweet_url": "https://x.com/unusual_whales/status/2095176532641890517",
+    "published_at": "2026-09-02T15:46:26+00:00",
+    "fetched_at": "2026-09-02T20:17:48.980074+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SOL"
+      ],
+      "direction": "neutral",
+      "summary": "这是一条推广加密货币交易数据服务的推文，没有给出具体的投资建议或方向。提及了Solana链上的一个代币（J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr），但未明确其投资价值，主要为工具宣传。",
+      "translation": "转发 @snorlax_uw：现在正在打劳动节促销！套餐每月40美元起。可获得完整期权流数据及其他衍生数据，包括期权溢价图表、期权筛选器等；每个代码的GEX热力图/图表；Solana上的J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr的市场做市商敞口（仅限Pro/Max套餐）；以及更多！https://t.co/t94HwXcgN5",
       "confidence": "high"
     }
   },
@@ -57,6 +158,25 @@
       "direction": "bullish",
       "summary": "该推文提到半导体关税可能实施，但如果在美国建厂则可获关税减免。这鼓励半导体制造业回流美国，对在美国有生产布局的半导体公司是利好，可能提升其竞争力。",
       "translation": "霍华德·卢特尼克：正在考虑对半导体征收关税……如果你在美国建厂，我们将给予关税减免。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095159057774772723",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Howard Lutnick says that interest rates will stabilize and decline in the next six months",
+    "tweet_url": "https://x.com/unusual_whales/status/2095159057774772723",
+    "published_at": "2026-09-02T14:37:00+00:00",
+    "fetched_at": "2026-09-02T20:17:52.403807+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "霍华德·卢特尼克预测未来六个月内利率将企稳并下降，这对债券市场和股市可能构成利好，因为低利率环境通常有利于风险资产和经济增长。",
+      "translation": "霍华德·卢特尼克表示，未来六个月内利率将趋于稳定并下降。",
       "confidence": "medium"
     }
   },
@@ -1187,6 +1307,25 @@
       "direction": "bullish",
       "summary": "特朗普评论利率过高并尊重美联储主席，市场解读为未来可能降息，推动QQQ上涨，短期对科技股偏利好。",
       "translation": "有趣的是，当特朗普就潜在加息发表评论时，QQQ出现了飙升：特朗普说：“不，我非常尊重他，他会做他必须做的事。我认为我们的利率太高了。”",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094515064334172511",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Chinese cars will not be sold in America, US Department of Transport Duffy has said.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094515064334172511",
+    "published_at": "2026-08-31T19:58:00+00:00",
+    "fetched_at": "2026-09-02T20:18:04.652486+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国交通部长表示中国汽车不会在美国销售，这一政策限制可能对依赖中国市场或寻求进入美国市场的中国汽车制造商构成负面影响，同时也可能影响美国本土汽车产业及相关供应链。",
+      "translation": "美国交通部长达菲表示，中国汽车将不会在美国销售。",
       "confidence": "medium"
     }
   },
