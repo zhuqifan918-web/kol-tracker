@@ -1,5 +1,88 @@
 [
   {
+    "tweet_id": "2095012962360828314",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Very interesting to notice Taiwan wildly outperform the rest of the World like US/EU.\n\nFoci ($NVDA / $TSM FAU supplier) went from 400 -&gt; 900 -&gt; 400 -&gt; 800, and recovered insanely fast from July.\n\nNot sure if earnings like Etron or others are just absurd to not care about macro? https://t.co/WHzwj9n6e8",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095012962360828314",
+    "published_at": "2026-09-02T04:56:28+00:00",
+    "fetched_at": "2026-09-02T05:15:16.490361+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "TSM"
+      ],
+      "direction": "bullish",
+      "summary": "推文指出台湾市场表现强劲，远超美国和欧洲。提到了NVDA和TSM的供应商Foci，其股价经历了大幅波动但恢复迅速，暗示相关半导体供应链韧性较强，可能对投资有利。",
+      "translation": "非常有趣地注意到台湾的表现远超世界其他地区，如美国/欧洲。焦点公司（NVDA / TSM FAU供应商）从400涨到900又跌回400再涨到800，并且从7月开始恢复得非常快。不确定像Etron这样的公司或其他公司的收益是否真的可以忽视宏观环境？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094976358086537638",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "To get updates on $AAPL, subscribe to Unusual Whales.\n\nSee more: https://t.co/ZqupDAkiiR",
+    "tweet_url": "https://x.com/unusual_whales/status/2094976358086537638",
+    "published_at": "2026-09-02T02:31:01+00:00",
+    "fetched_at": "2026-09-02T05:16:05.668437+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAPL"
+      ],
+      "direction": "neutral",
+      "summary": "该推文仅提及苹果公司（AAPL）的更新信息，并引导用户订阅Unusual Whales以获取更多相关资讯，未包含具体投资观点或市场分析。",
+      "translation": "要获取有关$AAPL的最新消息，请订阅Unusual Whales。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094961254578126928",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Huge change on site.    \n\nThe GEX heatmap update frequency has been increased significantly.    \n\nGet near second-to-second updates    \n\nSee more: https://t.co/SgtQedCuEx https://t.co/lhHEqeFVDF",
+    "tweet_url": "https://x.com/unusual_whales/status/2094961254578126928",
+    "published_at": "2026-09-02T01:31:00+00:00",
+    "fetched_at": "2026-09-02T05:16:13.363188+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布网站GEX热力图更新频率大幅提升，接近秒级更新，为交易者提供更及时的市场情绪数据，属于市场分析工具的改进，而非直接的投资建议。",
+      "translation": "网站发生重大变化。GEX热力图的更新频率已显著提高。获得接近每秒的更新。查看更多：https://t.co/SgtQedCuEx https://t.co/lhHEqeFVDF",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2094952949889823121",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "I want you to see this.\n\nThese traders made MILLIONS.\n\nGoPro, $GPRO, saw 50x normal options volume yesterday, followed by 53x today.\n\nYoutuber Markiplier's news was yesterday. Today a $285 million merger was announced.\n\nThese calls expiring 9/18 made huge profits.\n\nUnusual. https://t.co/nGVoPI42jr",
+    "tweet_url": "https://x.com/unusual_whales/status/2094952949889823121",
+    "published_at": "2026-09-02T00:58:00+00:00",
+    "fetched_at": "2026-09-02T05:16:09.280648+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "推特指出GoPro（GPRO）出现异常活跃的看涨期权交易，成交量暴增，随后公司宣布2.85亿美元并购消息，暗示可能有内幕交易或提前布局，投资者可关注此类异常信号，但需注意风险。",
+      "translation": "我想让你们看看这个。这些交易者赚了数百万美元。GoPro（$GPRO）昨天的期权成交量是正常的50倍，今天是53倍。Youtuber Markiplier的消息是昨天发布的。今天宣布了一笔2.85亿美元的并购。这些9/18到期的看涨期权获得了巨大利润。不寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2094946155201249533",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -220,6 +303,25 @@
     }
   },
   {
+    "tweet_id": "2094832153712550302",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Scott Bessent: The Strait of Hormuz could be worthless in two years.",
+    "tweet_url": "https://x.com/unusual_whales/status/2094832153712550302",
+    "published_at": "2026-09-01T16:58:00+00:00",
+    "fetched_at": "2026-09-02T05:16:30.557707+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文指出霍尔木兹海峡的战略重要性可能在未来两年内大幅下降，这可能对依赖该海峡运输的能源市场和相关投资产生影响，暗示能源供应链的地缘政治风险可能减弱，对油价构成利空。",
+      "translation": "斯科特·贝森特：霍尔木兹海峡可能在两年内变得一文不值。",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2094831983306440746",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -257,6 +359,25 @@
       "direction": "bearish",
       "summary": "美国证监会对特殊目的载体（SPV）的审查加强，要求注册投资顾问证明SPV真正持有或能访问所声称的私募公司股份。这可能影响私募股权和风险投资行业，增加合规成本，对相关投资工具和基金构成负面影响。",
       "translation": "美国证监会正在加强对声称向投资者提供私募公司敞口的特殊目的载体的审查，要求注册投资顾问证明其SPV确实持有或能够访问他们声称拥有的股份，据华尔街日报报道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2094818334227488792",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Mapped every giant AI datacenter being built in America.\n\n75 GW of power across 13 mega-campuses, that's 77% of the entire US nuclear fleet (94 reactors, built over decades).\n\nBuilt with a single prompt on @KeenableAI SELECT. They're giving away $1,750 in API credits below.\n\nCheck out the thread for more details🧵👇",
+    "tweet_url": "https://x.com/unusual_whales/status/2094818334227488792",
+    "published_at": "2026-09-01T16:03:05+00:00",
+    "fetched_at": "2026-09-02T05:16:27.290029+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文强调了美国大规模AI数据中心建设（75GW电力，相当于美国核舰队总容量的77%），显示AI基础设施投资热潮强劲，对科技和能源相关行业构成利好。",
+      "translation": "我绘制了美国正在建设的每一个巨型AI数据中心。13个超级园区合计75GW电力，这相当于整个美国核舰队（94个反应堆，历经数十年建造）的77%。仅通过一条提示在@KeenableAI上使用SELECT即可完成。他们在下方赠送1,750美元的API积分。查看帖子获取更多详情🧵👇",
       "confidence": "medium"
     }
   },

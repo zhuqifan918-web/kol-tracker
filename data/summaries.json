@@ -9,43 +9,42 @@
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施投资与算力需求",
-      "光通信与硅光子供应链瓶颈",
-      "内存（DRAM/NAND）供不应求",
-      "半导体先进封装与测试",
-      "政策与地缘政治对供应链的影响"
+      "AI硬件需求激增与瓶颈",
+      "光子学与共封装光学",
+      "内存特别是利基DRAM超级周期",
+      "美国制造业回流与关税政策",
+      "机器人技术"
     ],
-    "recent_shift": "近期观点更加强调对光通信和存储板块的看好，同时对宏观经济波动和利率政策表示关注，但整体保持乐观。",
+    "recent_shift": "该分析师近期更加关注利基内存和光子学瓶颈，尽管对高贝塔AI股票的看法保持乐观，但由于市场波动和担忧，其近期观点变得更加谨慎。",
     "representative_quotes": [
-      "I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
-      "It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
-      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints."
+      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints. ... I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
+      "As long as I don't see indicators of hyperscalers cutting capex or demand wavering. I'm staying long despite macro volatility.",
+      "We're seeing record visibility with memory (2031), photonics (2029-2030), etc LTAs ... combined with record projections ... vs. uncomfortable macro."
     ],
-    "generated_at": "2026-09-01T22:42:45.775972+00:00"
+    "generated_at": "2026-09-02T05:16:37.672524+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "NVDA",
       "GPRO",
+      "NVDA",
       "AAPL",
       "MSFT",
-      "ANTH"
+      "DELL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI泡沫风险与估值分歧",
-      "财报超预期与市场反应",
-      "地缘政治与供应链风险",
-      "市场情绪与技术指标",
-      "期权异动与投资机会"
+      "AI交易拥挤与泡沫担忧",
+      "利率政策不确定性",
+      "期权异动与流信号交易",
+      "美中贸易摩擦与科技限制"
     ],
-    "recent_shift": "近期观点从对AI股热情转向谨慎中性，强调可能与2000年科技泡沫相似。",
+    "recent_shift": "近期受AI泡沫担忧影响，市场谨慎度上升，从多头转向战术性中性。",
     "representative_quotes": [
-      "JPMorgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities. It was previously bullish.",
-      "'AI stocks show similarities to 2000 tech peak,' per JPMorgan.",
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America."
+      "AI stocks show similarities to 2000 tech peak, per JPMorgan",
+      "32% of fund managers see an AI bubble as the largest market risk",
+      "GPRO is up 42% today after merger announcement; traders made millions following unusual options flow."
     ],
-    "generated_at": "2026-09-02T00:41:28.071206+00:00"
+    "generated_at": "2026-09-02T05:16:39.870909+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
