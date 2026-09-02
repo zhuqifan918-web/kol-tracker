@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "NVDA",
-      "SIVE",
-      "MRVL",
-      "ESMT",
-      "AAOI"
+      "$SIVE",
+      "$ESMT",
+      "$NVDA",
+      "$MRVL",
+      "$AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力需求持续增长",
-      "硅光子与CPO技术成为新瓶颈",
-      "存储芯片价格上涨与产能紧缺",
-      "光模块与激光器供应链紧张",
-      "人形机器人与物理AI崛起"
+      "AI基础设施和供应链瓶颈",
+      "光通信和CPO",
+      "存储芯片超级周期",
+      "定制芯片和ASIC",
+      "宏观因素与市场波动"
     ],
-    "recent_shift": "宏观波动加剧背景下仍坚持AI长期多头，但短期更加关注高确定性细分领域。",
+    "recent_shift": "最近观点从单纯看好AI基础设施转向强调供应链瓶颈和细分领域机会，同时对宏观因素引发的估值收缩和波动性保持警惕。",
     "representative_quotes": [
-      "Nvidia projects $1.3T of hyperscaler spend for 2027... That capex flows across the AI supply chain… from memory and networking to foundries.",
-      "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.",
-      "With demand visibility extending for years and the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
+      "As long as I don't see indicators of hyperscalers cutting capex or demand wavering, I'm staying long despite macro volatility.",
+      "I do think this theme can cook given the extreme DDR2 price hikes recently + Winbond withdrawing."
     ],
-    "generated_at": "2026-09-02T17:35:27.741946+00:00"
+    "generated_at": "2026-09-02T22:44:55.913161+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GPRO",
-      "$NVDA",
-      "$AAPL",
-      "$COIN",
-      "$MSFT"
+      "AAPL",
+      "NVDA",
+      "GPRO",
+      "AVGO",
+      "DELL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
       "AI基础设施与算力投资",
-      "供应链回流与关税政策",
-      "期权异常交易机会",
-      "地缘政治风险与资产避险",
-      "企业盈利与市场波动"
+      "苹果公司重大人事变动",
+      "市场风险与监管关注",
+      "油气资源与地缘政治",
+      "散户交易与期权流"
     ],
-    "recent_shift": "近期观点从对AI泡沫的担忧转向关注实际期权流动和交易机会，同时强调政策利好和宏观风险。",
+    "recent_shift": "近期观点从对AI相关股票信心满满，转向在部分机构预警及监管审查下更为审慎。",
     "representative_quotes": [
-      "Nvidia, $NVDA, CEO: AI eliminating your job is \"nonsense.\"",
-      "Howard Lutnick says that interest rates will stabilize and decline in the next six months",
-      "These traders made MILLIONS. GoPro, $GPRO, saw 50x normal options volume yesterday, followed by 53x today."
+      "Howard Lutnick: \"data centers aren't a significant user of water... This is propaganda by our adversaries to try to slow us down\"",
+      "JPMorgan's trading desk has shifted to a \"tactically cautious/neutral\" view on U.S. equities. It was previously bullish.",
+      "Howard Lutnick says that interest rates will stabilize and decline in the next six months"
     ],
-    "generated_at": "2026-09-02T20:18:10.683799+00:00"
+    "generated_at": "2026-09-02T22:44:53.637630+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
