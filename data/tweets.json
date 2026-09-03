@@ -1,5 +1,89 @@
 [
   {
+    "tweet_id": "2095586876782694724",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Campbell’s Soup, $CPB, has announced has cut more than 13% of its workforce",
+    "tweet_url": "https://x.com/unusual_whales/status/2095586876782694724",
+    "published_at": "2026-09-03T18:57:00+00:00",
+    "fetched_at": "2026-09-03T20:19:53.832195+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "CPB"
+      ],
+      "direction": "bearish",
+      "summary": "金宝汤公司（CPB）宣布裁员超过13%，这通常被视为成本削减措施，可能反映出公司面临需求下滑或经营压力，短期对股价可能产生负面影响。",
+      "translation": "金宝汤公司（CPB）宣布已裁员超过13%。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095580088620449880",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Just an update to my DDR2/DDR3 memory idea with ESMT.  They reported August revenue (Taiwan sometimes does monthly reporting): \n\nJune revenue: ~$153M\nJuly: ~$214M\nAugust (new): ~$249M vs. $35.3m (last year)\n\nMonthly revenue has increased ~63% in two months despite reportedly similar 2026 wafer allocations to 2025 (MoneyDJ report).\n\nThe profitability is already really high as seen with July's monthly revenue (where they reported ~$109M net income).\n\nSo if pricing holds, and revenue increases, that would be very nice... \n\nNow a lot of US people don't really care since it's in Taiwan, but if you're in the $MU / $SKHY, $SNDK trade. \n\nJust educational purposes, it's a second order effect where your leading memory players prioritize AI/DC higher end memory and reduce allocations to older generations (causing shortages).\n\nBut... DDR4 since prices going up too much, so older gen memory products (DDR4) are getting redesigned with older gen memory (DDR3). And DDR3 products with DDR2. \n\nAnd so on. Causing cascading supply chain shortages.\n\n(DDR2 for example is boring/old memory used for cameras, printers, automotive back in the 2000s and not many ppl make them anymore). \n\nAnd even your old DDR2 suppliers like Winbond are gradually withdrawing from the market too... \n\nSo ESMT is the beneficiary of DDR3/DDR2 shortages. \n\nTLDR:\n\nESMT August revenue was ~$249M, up from ~$214M last month.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095580088620449880",
+    "published_at": "2026-09-03T18:30:01+00:00",
+    "fetched_at": "2026-09-03T20:19:23.153490+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "SKHY",
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "该推文分析了台湾存储器公司ESMT的月度营收增长，指出其8月营收同比大幅增长，并认为由于大厂优先AI/高端存储器导致DDR3/DDR2供应短缺，ESMT将受益。整体看多相关存储器股票。",
+      "translation": "这只是关于我对ESMT的DDR2/DDR3存储器想法的最新更新。他们公布了8月营收（台湾有时会按月报告）：6月营收约1.53亿美元，7月约2.14亿美元，8月（新）约2.49亿美元，去年同期为3530万美元。月度营收在两个月内增长了约63%，尽管据报道2026年晶圆分配与2025年相似（MoneyDJ报告）。盈利能力已经很高，如7月月度营收（净收入约1.09亿美元）所示。因此，如果价格保持并且营收增加，那将非常好... 现在很多美国人不太关心，因为这是台湾公司，但如果你参与$MU / $SKHY, $SNDK交易。仅用于教育目的，这是一个二阶效应，领先存储器厂商优先考虑AI/数据中心高端存储器，减少旧世代分配（导致短缺）。但是...DDR4价格涨太多，所以旧世代存储器产品（DDR4）正在用更旧的世代（DDR3）重新设计，而DDR3产品则用DDR2。如此类推，导致供应链短缺的连锁反应。（例如DDR2是无聊/老式存储器，用于2000年代的摄像头、打印机、汽车，现在很少人生产了。）甚至像华邦电子这样的老DDR2供应商也逐渐退出市场... 所以ESMT是DDR3/DDR2短缺的受益者。总结：ESMT八月营收约2.49亿美元，高于上月的2.14亿美元。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095575582662889902",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Senator Bernie Sanders introduces a bill to permanently ban AI systems that surpass human intelligence, with violators facing up to 20 years in prison.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095575582662889902",
+    "published_at": "2026-09-03T18:12:07+00:00",
+    "fetched_at": "2026-09-03T20:19:58.551740+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AI"
+      ],
+      "direction": "bearish",
+      "summary": "该推文报道伯尼·桑德斯提出永久禁止超越人类智能的AI系统法案，若通过将对AI相关股票造成负面影响。建议关注AI板块个股，如AI概念股或科技ETF，因监管风险增加可能导致股价下跌。",
+      "translation": "突发：参议员伯尼·桑德斯提出一项法案，永久禁止超越人类智能的AI系统，违规者将面临最高20年监禁。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095566744165159007",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "South Korea’s semiconductor exports have surged 209% from a year earlier to a record $46.55 billion in August, accounting for 47.5% of the country’s $98.25 billion in goods exports that month, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2095566744165159007",
+    "published_at": "2026-09-03T17:37:00+00:00",
+    "fetched_at": "2026-09-03T20:20:00.767619+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "韩国半导体出口激增，显示全球半导体需求强劲，利好相关产业链和韩国经济，对半导体行业构成积极信号。",
+      "translation": "据CNBC报道，韩国8月半导体出口同比增长209%，达到创纪录的465.5亿美元，占当月商品出口总额982.5亿美元的47.5%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095565402223038651",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
