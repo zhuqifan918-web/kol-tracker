@@ -1,5 +1,174 @@
 [
   {
+    "tweet_id": "2095565402223038651",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$DELL founder is a legend.\n\nThe Dell family pledged $6.25B / $250 each to 25M children through Trump Accounts, with $HOOD (up 14.83%+ today) as the initial sole brokerage. \n\nLittle off topic but getting the public invested early is very meaningful compared to the dollar amount. https://t.co/Xwrp7lMPyS",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095565402223038651",
+    "published_at": "2026-09-03T17:31:40+00:00",
+    "fetched_at": "2026-09-03T17:55:50.361582+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "DELL",
+        "HOOD"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提及DELL创始人及其家族通过特朗普账户向2500万儿童捐款，指定HOOD作为唯一券商，此消息推动HOOD股价上涨14.83%以上。推文认为让公众尽早参与投资比捐款金额更有意义，对HOOD构成利好。",
+      "translation": "$DELL创始人是个传奇。戴尔家族承诺通过特朗普账户向2500万儿童每人捐赠250美元，总额达62.5亿美元，其中$HOOD（今日上涨超过14.83%）为初始唯一券商。有点跑题，但让公众尽早参与投资相比金额本身更有意义。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095552434806648842",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @Limitlesss1: $TSLA +6% day \n\nNew high of the day, call options Paying. 💰\n\nI Traded it LIVE using Unusual Whales flow data only from @unusual_whales \n\nI secured 50% returns on $380 Call options. https://t.co/3uHmuYZc3U",
+    "tweet_url": "https://x.com/unusual_whales/status/2095552434806648842",
+    "published_at": "2026-09-03T16:40:08+00:00",
+    "fetched_at": "2026-09-03T17:56:28.184434+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文报道了特斯拉股价当日上涨6%，创出新高，交易者使用Unusual Whales的流量数据实时交易，买入看涨期权并获利50%，整体看涨特斯拉。",
+      "translation": "转发自@Limitlesss1：$TSLA 当日上涨6%。今日新高，看涨期权在盈利。💰 我使用@unusual_whales的Unusual Whales流量数据进行了实时交易。我在$380看涨期权上获得了50%的回报。https://t.co/3uHmuYZc3U",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095546138510459218",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "This is the correct response when looking at $SIVE >100m CW DFB extraordinary capacity disclosure.\n\nTo give some context, Trendforce July data cites global CW/EML capacity is roughly 608.4M/year (~50.7M monthly units annualized). \n\nWith $AVGO, $LITE, and Sumitomo making up ~335m/year combined. \n\nBy Q4 2027, it's likely a lot of these players will significantly expand capacity again, with broadcom citing 3x Y/Y growth.  (also capacity not being 1:1 since many are allocated to EML or UHP CWs, etc). \n\nBut this capacity target would place Sivers in global Tier 1 laser supplier category. \n\nWith possibly low double digits global laser market share if you factor in their hybrid 2:1 manufacturing model.\n\nThis new disclosure is very exciting coming from a conservative company.\n\nAnd sheds more light on why the $MRVL SVP cited Europe as a major geography when talking about laser supply chain sourcing.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095546138510459218",
+    "published_at": "2026-09-03T16:15:07+00:00",
+    "fetched_at": "2026-09-03T17:55:56.334128+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "AVGO",
+        "LITE",
+        "MRVL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文高度看好Sivers（SIVE）的产能扩张，认为其将跻身全球一线激光器供应商，并可能获得两位数的全球市场份额。提及AVGO、LITE等同行产能，以及MRVL高管对欧洲供应链的评论，进一步支持SIVE的增长潜力。",
+      "translation": "这是对$SIVE超过1亿个CW DFB非凡产能披露的正确回应。背景是Trendforce七月份数据显示全球CW/EML产能约为每年6.084亿个（月均约5070万个，年化）。$AVGO、$LITE和住友合计约每年3.35亿个。到2027年第四季度，这些厂商很可能再次大幅扩产，博通提到同比增长3倍。（另外产能并非1:1，因为许多产能分配给EML或UHP CW等）。但这一产能目标将使Sivers跻身全球一级激光器供应商之列。如果考虑其2:1混合制造模式，可能占据全球激光器市场份额的偏低两位数百分比。这一新披露来自一家保守的公司，令人非常兴奋。这也进一步解释了为何$MRVL的SVP在谈论激光器供应链采购时提到欧洲是重要地区。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095543979500773710",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Polymarket has launched perpetual futures with up to 20x leverage on crypto, stocks, indices and commodities.\n\nUsers can now trade predictions and leveraged assets in one place as Polymarket⁠.com expands into a $90T+ annual perps market.\n\nhttps://t.co/5OmDJcAGiQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2095543979500773710",
+    "published_at": "2026-09-03T16:06:32+00:00",
+    "fetched_at": "2026-09-03T17:56:32.089540+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "Polymarket"
+      ],
+      "direction": "neutral",
+      "summary": "Polymarket推出永续合约产品，支持高达20倍杠杆，覆盖加密货币、股票、指数和大宗商品。这表明预测市场平台正扩展至传统金融衍生品领域，可能对相关交易平台和加密市场产生竞争与流动性影响，但未提供具体投资标的或方向。",
+      "translation": "突发：Polymarket已推出永续合约，支持高达20倍杠杆，涵盖加密货币、股票、指数和大宗商品。用户现在可以在一个平台上交易预测和杠杆资产，Polymarket.com正扩展至年交易规模超过90万亿美元的永续合约市场。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095526227423686677",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: Trump: The stock market will go up.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095526227423686677",
+    "published_at": "2026-09-03T14:56:00+00:00",
+    "fetched_at": "2026-09-03T17:56:35.926894+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "特朗普表态看好股市，预期股指将上涨，属广泛市场利好表态，但缺乏具体政策或数据支撑。",
+      "translation": "突发：特朗普：股市将会上涨。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2095521421246263414",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "$TSLA 380 Call options paid 💰💰\n\nI used unusual whales data only from @unusual_whales \n\nI saw traders crowding into 375 Call options with Volume exceedingly OI https://t.co/2WKDIvORgS",
+    "tweet_url": "https://x.com/unusual_whales/status/2095521421246263414",
+    "published_at": "2026-09-03T14:36:54+00:00",
+    "fetched_at": "2026-09-03T17:56:29.616132+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "TSLA"
+      ],
+      "direction": "bullish",
+      "summary": "该推文显示特斯拉看涨期权交易活跃，交易者大量买入375美元行权价的看涨期权，且成交量远超未平仓量，并提及使用unusual whales数据观察到这一现象，暗示特斯拉股价可能上涨。",
+      "translation": "特斯拉380美元的看涨期权赚了💰💰。我只使用了@unusual_whales的unusual whales数据。我看到交易者大量涌向375美元看涨期权，成交量远超未平仓量。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095516162922512681",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Fed Waller says he prefers to keep rates unchanged in September.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095516162922512681",
+    "published_at": "2026-09-03T14:16:00+00:00",
+    "fetched_at": "2026-09-03T17:56:38.028484+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美联储理事沃勒倾向于在九月维持利率不变，这可能对市场流动性预期产生中性影响，投资者需关注后续通胀与经济数据以判断政策走向。",
+      "translation": "美联储理事沃勒表示，他倾向于在九月保持利率不变。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095515791739470130",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "$META 7万员工全面采用了赛富时 $CRM 的协作平台适配agent。替代了谷歌作为内部通信工具。\n刚干了一个 $CRM底仓。 https://t.co/dzWGXaKkAn",
+    "tweet_url": "https://x.com/xiaomustock/status/2095515791739470130",
+    "published_at": "2026-09-03T14:14:32+00:00",
+    "fetched_at": "2026-09-03T17:56:09.678480+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "META",
+        "CRM"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出Meta的7万员工全面采用Salesforce的协作平台替代谷歌作为内部通信工具，这显示Salesforce在企业级AI代理应用上的进展，作者因此建仓CRM底仓，看好其投资价值。",
+      "translation": "Meta的7万员工全面采用了Salesforce的协作平台来适配代理，替代了谷歌作为内部通信工具。刚刚建了一个CRM底仓。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095510372853899387",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
