@@ -25,50 +25,50 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "GPRO",
       "AAPL",
       "NVDA",
+      "GPRO",
       "AVGO",
       "DELL"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施与算力投资",
-      "科技巨头高管变动与薪酬",
-      "期权市场异常流动信号",
-      "地缘政治与大宗商品动态",
-      "财政与货币政策预期"
+      "人工智能竞赛与IPO",
+      "市场风险与泡沫担忧",
+      "大宗商品与地缘政治",
+      "内部人变动与期权交易",
+      "科技巨头财报与行业动态"
     ],
-    "recent_shift": "近期从关注宏观风险转向强调AI机遇与期权交易策略。",
+    "recent_shift": "从对科技股的乐观情绪转向对AI泡沫和地缘政治风险的谨慎态度。",
     "representative_quotes": [
-      "I’ve been trading with GEX a long time\nOnly using UNUSUAL WHALES data from @unusual_whales \nCheckout this 500% trade",
-      "Wow, look at this.\nWe just enhanced charting on Unusual Whales.\nYou can now see new candle charting that allows subscribers to display many UW proprietary metrics\nLook at $NVDL, which had two spikes in positive directional delta.\nAnd then, gains!\nThis is a must have tool.",
-      "GoPro, $GPRO, saw 50x normal options volume yesterday, followed by 53x today.\nYoutuber Markiplier's news was yesterday. Today a $285 million merger was announced.\nThese calls expiring 9/18 made huge profits.\nUnusual."
+      "AI stocks show similarities to 2000 tech peak, per JPMorgan",
+      "Nvidia, $NVDA, CEO: AI eliminating your job is \"nonsense.\"",
+      "I want you to see this. These traders made MILLIONS. GoPro, $GPRO, saw 50x normal options volume yesterday, followed by 53x today."
     ],
-    "generated_at": "2026-09-03T05:21:48.851536+00:00"
+    "generated_at": "2026-09-03T09:59:47.068612+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "海力士",
-      "闪迪",
-      "美光",
-      "META",
-      "亚马逊"
+      "SK Hynix",
+      "Micron",
+      "SanDisk",
+      "Seagate",
+      "Nebius"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "存储芯片牛市",
-      "AI对存储需求增长",
-      "美债收益率上升风险",
-      "市场避险情绪",
-      "个股操作与反思"
+      "存储芯片供需紧张与涨价周期",
+      "AI基建投资与算力需求增长",
+      "美债收益率上升对股市和加密资产的影响",
+      "AI Agent推动CPU与存储需求激增",
+      "中国芯片企业（长鑫存储）的竞争压力"
     ],
-    "recent_shift": "近期因市场下跌和亏损，作者从激进转向谨慎，表达了对风险的敬畏并计划降低杠杆。",
+    "recent_shift": "从前期激进加杠杆押注存储，到后期减仓并转向配置QQQ/SPY，风险偏好显著降低。",
     "representative_quotes": [
-      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。",
-      "唯一确定性利空股市，流动性被锁住抽走。anthropic上市还能再抽走一批流动性，股市肯定是好不了，地狱难度，怀念上半年的存储行情，天天都是暴涨。",
-      "存储真是盈亏同源的一波，今年赚钱是因为存储，亏钱还是因为存储。"
+      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。AI想搞起来，就离不开存储。",
+      "不管怎么算，存储三巨头的2027年产能售罄，这波暴跌后利好就出来了。",
+      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。"
     ],
-    "generated_at": "2026-09-02T17:35:25.333382+00:00"
+    "generated_at": "2026-09-03T09:59:49.908752+00:00"
   }
 }
