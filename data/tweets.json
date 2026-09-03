@@ -1,5 +1,133 @@
 [
   {
+    "tweet_id": "2095510372853899387",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, said it would pay $12.9 billion for the start-up Hugging Face",
+    "tweet_url": "https://x.com/unusual_whales/status/2095510372853899387",
+    "published_at": "2026-09-03T13:53:00+00:00",
+    "fetched_at": "2026-09-03T14:11:06.481175+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "英伟达宣布以129亿美元收购初创公司Hugging Face，这是一项重大战略投资。收购可能增强英伟达在AI领域的竞争力，但交易细节和效果仍需观察，对股价的影响方向尚不明朗。",
+      "translation": "英伟达表示将以129亿美元收购初创公司Hugging Face。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095491247452377232",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Barclays sees two more Fed rate hikes this year",
+    "tweet_url": "https://x.com/unusual_whales/status/2095491247452377232",
+    "published_at": "2026-09-03T12:37:00+00:00",
+    "fetched_at": "2026-09-03T14:11:10.285757+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "巴克莱预测美联储今年还将加息两次，这暗示货币政策可能进一步收紧，对股市或构成压力，但具体影响需结合其他因素判断。",
+      "translation": "巴克莱认为美联储今年还将加息两次。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095490725412733092",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$NVDA acquires hugging face for $12,930,300,000.\n\nJensen stated the reason being:\n- 18M+ devs use Hugging Face \n- 3M+ models, 500k+ datasets, 1M+ apps \n- 200k+ companies use the platformm\n- support of open weight models\n\nthis almost reminds me of $MSFT buying Github? https://t.co/8FhE7b9mU0",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095490725412733092",
+    "published_at": "2026-09-03T12:34:55+00:00",
+    "fetched_at": "2026-09-03T14:10:26.491578+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文报道英伟达以129.3亿美元收购Hugging Face，并将其与微软收购GitHub类比，暗示此次收购对英伟达有利，可能扩展其AI生态系统并增强开发者粘性，消息偏正面。",
+      "translation": "英伟达以129.3亿美元收购Hugging Face。黄仁勋表示原因：1800万+开发者使用Hugging Face，300万+模型、50万+数据集、100万+应用，20万+公司使用该平台，支持开源权重模型。这几乎让我想起微软收购GitHub？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095460499769155944",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$IQE is actually a quantum dot foundry leader believe it or not.\n\nToday IQE announced a purchase agreement with Quintessent (top player in the QD space).\n\n“As quantum dot lasers move to customer sampling.”\n\nYour QD bros like $ALMU, QD Laser (6613), and others might finally start to see the light of day, with broader commercialization in the next few years. \n\nSecond order effects are QD machine chokepoints like $ALRIB that might capture more attention.\n\nBut TAM is typically pretty small on the QD material epi side of things. (No disclosure over $ figure), but good news nevertheless.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095460499769155944",
+    "published_at": "2026-09-03T10:34:49+00:00",
+    "fetched_at": "2026-09-03T14:10:32.783981+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IQE",
+        "ALMU",
+        "6613",
+        "ALRIB"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出IQE作为量子点外延片领域的领先者，与Quintessent达成采购协议，标志着量子点激光器进入客户样品阶段，对量子点相关公司（如ALMU、QD Laser、ALRIB）构成利好，但量子点材料市场总规模较小。整体偏乐观。",
+      "translation": "实际上，$IQE是量子点外延片领域的领先者，信不信由你。今天IQE宣布与Quintessent（量子点领域的顶级玩家）达成采购协议。'随着量子点激光器进入客户样品阶段。' 你的量子点兄弟们，如$ALMU、QD Laser（6613）等，可能终于要看到曙光了，未来几年商业化将更广泛。二阶效应是量子点设备瓶颈公司如$ALRIB可能会获得更多关注。但量子点材料外延片方面的总可寻址市场通常很小。（未披露金额），但无论如何都是好消息。"
+    }
+  },
+  {
+    "tweet_id": "2095456271906349468",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit How does this play into the IQE announcement?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095456271906349468",
+    "published_at": "2026-09-03T10:18:01+00:00",
+    "fetched_at": "2026-09-03T14:10:37.237520+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IQE"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及IQE公司公告，并询问其影响，表明关注相关投资信息，但未表达明确看多或看空观点。",
+      "translation": "@aleabitoreddit 这如何影响IQE的公告？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095453263613341938",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "$SIVE announced today that it is expanding InP manufacturing in Glasgow.  \n\nThe new capacity target is:\n\n~100 million CW DFB laser annual production.\n\nUsing Sivers’ historical $50-$100 per 8-laser array pricing, the implied revenue capacity might be ~$625M-$1.25B/year (not guidance, just illustrative modeling)\n\nI’m personally very surprised by the amount of capacity coming online from their new hybrid manufacturing model, targeted Q4 2027.\n\nEspecially during an industry shortage, mentioned by $AVGO earnings call today.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095453263613341938",
+    "published_at": "2026-09-03T10:06:04+00:00",
+    "fetched_at": "2026-09-03T14:10:42.037323+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "AVGO"
+      ],
+      "direction": "bullish",
+      "summary": "该推文讨论Sivers半导体扩大InP激光器产能，暗示潜在收入规模可观，并提及行业短缺背景，整体偏向看多。",
+      "translation": "SIVE今天宣布扩大格拉斯哥的InP制造。新产能目标：每年约1亿只CW DFB激光器。基于Sivers历史每8激光器阵列50-100美元的定价，隐含年收入产能可能约为6.25亿至12.5亿美元（非指导，仅为示意建模）。我个人对其新混合制造模式带来的产能规模感到非常惊讶，目标于2027年第四季度实现。尤其是在今天AVGO财报电话会议提到的行业短缺期间。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095412099422064978",
     "kol_username": "xiaomustock",
     "kol_display_name": "小木",
