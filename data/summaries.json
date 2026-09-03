@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$SIVE",
-      "$ESMT",
-      "$NVDA",
-      "$MRVL",
-      "$AAOI"
+      "SIVE",
+      "NVDA",
+      "AAOI",
+      "ESMT",
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施和供应链瓶颈",
-      "光通信和CPO",
-      "存储芯片超级周期",
-      "定制芯片和ASIC",
-      "宏观因素与市场波动"
+      "AI基础设施和算力需求的持续爆发",
+      "光通信和硅光子学瓶颈及供应链紧张",
+      "内存（特别是利基型DRAM/NAND）的结构性短缺与涨价周期",
+      "半导体设备与材料（如InP、MLCC、基板）的供需失衡",
+      "对宏观政策（利率、中美关系）的担忧但长期看好科技股"
     ],
-    "recent_shift": "最近观点从单纯看好AI基础设施转向强调供应链瓶颈和细分领域机会，同时对宏观因素引发的估值收缩和波动性保持警惕。",
+    "recent_shift": "近期调低了部分前期高估值标的（如AAOI）的评级，但持续加仓光通信和利基内存相关标的，整体态度从全面看多转为选择性做多。",
     "representative_quotes": [
-      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
-      "As long as I don't see indicators of hyperscalers cutting capex or demand wavering, I'm staying long despite macro volatility.",
-      "I do think this theme can cook given the extreme DDR2 price hikes recently + Winbond withdrawing."
+      "Best TLDR: We're seeing record visibility with memory (2031), photonics (2029-2030), etc LTAs... combined with record projections... vs. uncomfortable macro... I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
+      "I remember saying earlier this year CW lasers would be the next optical shift and heavily bottlenecked by Nvidia? So fun watching this play out, with players signing LTAs already to 2030 (signaling less availability for other players). Implications for $SIVE / Win Semi are very material as one of the few remaining CW merchant suppliers with capacity (+ CPO-grade lasers).",
+      "Why would any investor be excited to invest in Anthropic at a $2T MC? Whereas Chinese IPOs like Unitree or $CMXT are price discovery events. US IPOs have gotten it completely wrong nowadays… with pubic markets now serving as liquidity for private holders at hiked valuations."
     ],
-    "generated_at": "2026-09-02T22:44:55.913161+00:00"
+    "generated_at": "2026-09-03T14:11:35.242473+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
       "NVDA",
+      "AAPL",
       "GPRO",
-      "AVGO",
-      "DELL"
+      "COIN",
+      "AVGO"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能竞赛与IPO",
-      "市场风险与泡沫担忧",
-      "大宗商品与地缘政治",
-      "内部人变动与期权交易",
-      "科技巨头财报与行业动态"
+      "AI估值泡沫担忧",
+      "美联储政策走向",
+      "地缘政治与大宗商品",
+      "CEO变动与公司新闻",
+      "期权市场异常活动"
     ],
-    "recent_shift": "从对科技股的乐观情绪转向对AI泡沫和地缘政治风险的谨慎态度。",
+    "recent_shift": "近期对AI估值泡沫发出警告，但仍强调AI基础设施的重要性，观点趋于谨慎。",
     "representative_quotes": [
-      "AI stocks show similarities to 2000 tech peak, per JPMorgan",
-      "Nvidia, $NVDA, CEO: AI eliminating your job is \"nonsense.\"",
-      "I want you to see this. These traders made MILLIONS. GoPro, $GPRO, saw 50x normal options volume yesterday, followed by 53x today."
+      "AI stocks show similarities to 2000 tech peak. (JPMorgan)",
+      "There is a 56% chance of a 25 BPS rate hike by the Fed in September, per Polymarket.",
+      "GPRO saw 50x normal options volume yesterday, followed by 53x today. Traders made millions. Someone always knows."
     ],
-    "generated_at": "2026-09-03T09:59:47.068612+00:00"
+    "generated_at": "2026-09-03T14:11:31.198445+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
