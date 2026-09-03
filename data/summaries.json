@@ -4,71 +4,70 @@
       "SIVE",
       "NVDA",
       "AAOI",
-      "ESMT",
-      "MRVL"
+      "SMTC",
+      "ESMT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施和算力需求的持续爆发",
-      "光通信和硅光子学瓶颈及供应链紧张",
-      "内存（特别是利基型DRAM/NAND）的结构性短缺与涨价周期",
-      "半导体设备与材料（如InP、MLCC、基板）的供需失衡",
-      "对宏观政策（利率、中美关系）的担忧但长期看好科技股"
+      "AI基础设施及光学互连需求激增",
+      "半导体供应链瓶颈及价格传导",
+      "利基存储器（DDR2/DDR3）紧缺与价格上涨",
+      "CPO（CPO）与硅光技术商业化加速",
+      "科技公司战略投资与生态系统演变"
     ],
-    "recent_shift": "近期调低了部分前期高估值标的（如AAOI）的评级，但持续加仓光通信和利基内存相关标的，整体态度从全面看多转为选择性做多。",
+    "recent_shift": "近期观点从广泛关注AI硬件转向聚焦光通信瓶颈和利基存储器，强调在宏观波动下维持高Beta仓位。",
     "representative_quotes": [
-      "Best TLDR: We're seeing record visibility with memory (2031), photonics (2029-2030), etc LTAs... combined with record projections... vs. uncomfortable macro... I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
-      "I remember saying earlier this year CW lasers would be the next optical shift and heavily bottlenecked by Nvidia? So fun watching this play out, with players signing LTAs already to 2030 (signaling less availability for other players). Implications for $SIVE / Win Semi are very material as one of the few remaining CW merchant suppliers with capacity (+ CPO-grade lasers).",
-      "Why would any investor be excited to invest in Anthropic at a $2T MC? Whereas Chinese IPOs like Unitree or $CMXT are price discovery events. US IPOs have gotten it completely wrong nowadays… with pubic markets now serving as liquidity for private holders at hiked valuations."
+      "I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
+      "AOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in the next 3 years” (2029)",
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-09-03T14:11:35.242473+00:00"
+    "generated_at": "2026-09-03T17:56:50.723956+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
+      "GPRO",
       "NVDA",
       "AAPL",
-      "GPRO",
-      "COIN",
-      "AVGO"
+      "TSLA",
+      "UBER"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI估值泡沫担忧",
-      "美联储政策走向",
-      "地缘政治与大宗商品",
-      "CEO变动与公司新闻",
-      "期权市场异常活动"
+      "AI与科技股投资",
+      "期权流动与交易信号",
+      "宏观政策与利率变化",
+      "地缘政治风险"
     ],
-    "recent_shift": "近期对AI估值泡沫发出警告，但仍强调AI基础设施的重要性，观点趋于谨慎。",
+    "recent_shift": "近期从关注宏观风险转向强调个股和期权交易机会，对AI股票泡沫的担忧增加但仍看好长期趋势。",
     "representative_quotes": [
-      "AI stocks show similarities to 2000 tech peak. (JPMorgan)",
-      "There is a 56% chance of a 25 BPS rate hike by the Fed in September, per Polymarket.",
-      "GPRO saw 50x normal options volume yesterday, followed by 53x today. Traders made millions. Someone always knows."
+      "RT @Limitlesss1: $TSLA +6% day New high of the day, call options Paying. 💰 I Traded it LIVE using Unusual Whales flow data only from @unusual_whales I secured 50% returns on $380 Call options.",
+      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows.",
+      "'Nvidia, $NVDA, could be up to 50% undervalued,' per Bank of America"
     ],
-    "generated_at": "2026-09-03T14:11:31.198445+00:00"
+    "generated_at": "2026-09-03T17:56:52.952821+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SK Hynix",
-      "Micron",
-      "SanDisk",
-      "Seagate",
-      "Nebius"
+      "CRM",
+      "META",
+      "MU",
+      "SNDK",
+      "MRVL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "存储芯片供需紧张与涨价周期",
-      "AI基建投资与算力需求增长",
-      "美债收益率上升对股市和加密资产的影响",
-      "AI Agent推动CPU与存储需求激增",
-      "中国芯片企业（长鑫存储）的竞争压力"
+      "存储芯片行业供需与价格周期",
+      "AI发展与算力需求",
+      "美债收益率与宏观经济风险",
+      "加密货币与黄金避险",
+      "Agent技术商业化"
     ],
-    "recent_shift": "从前期激进加杠杆押注存储，到后期减仓并转向配置QQQ/SPY，风险偏好显著降低。",
+    "recent_shift": "近期从对AI存储的极度过剩乐观转向为对市场流动性收紧和美债风险以及存储板块波动的担忧。",
     "representative_quotes": [
-      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。AI想搞起来，就离不开存储。",
-      "不管怎么算，存储三巨头的2027年产能售罄，这波暴跌后利好就出来了。",
-      "以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。"
+      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。",
+      "AI想搞起来，就离不开存储，潘健成和黄仁勋一堆大佬说真正制约AI进化的瓶颈就是存储。闭环了，美政府想解决美债就得把存储拉起来。",
+      "唯一确定性利空股市，流动性被锁住抽走。"
     ],
-    "generated_at": "2026-09-03T09:59:49.908752+00:00"
+    "generated_at": "2026-09-03T17:56:47.819409+00:00"
   }
 }
