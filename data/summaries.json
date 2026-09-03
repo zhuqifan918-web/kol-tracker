@@ -25,25 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
+      "GPRO",
       "AAPL",
       "NVDA",
-      "GPRO",
       "AVGO",
-      "COIN"
+      "DELL"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI竞赛与IPO",
-      "关税与制造业回流",
-      "地缘政治与能源"
+      "AI基础设施与算力投资",
+      "科技巨头高管变动与薪酬",
+      "期权市场异常流动信号",
+      "地缘政治与大宗商品动态",
+      "财政与货币政策预期"
     ],
-    "recent_shift": "在AI股票估值分歧和宏观经济不确定性背景下，近期观点转向谨慎。",
+    "recent_shift": "近期从关注宏观风险转向强调AI机遇与期权交易策略。",
     "representative_quotes": [
-      "OpenAI's new model, Astra, is projected to launch tomorrow... Anthropic just launched their new model yesterday... The AI race is heating up as both labs push out flagship models ahead of their IPOs.",
-      "JPMorgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities.",
-      "Howard Lutnick: Semiconductor tariffs are being considered... if you build in the US, we will give you tariff relief."
+      "I’ve been trading with GEX a long time\nOnly using UNUSUAL WHALES data from @unusual_whales \nCheckout this 500% trade",
+      "Wow, look at this.\nWe just enhanced charting on Unusual Whales.\nYou can now see new candle charting that allows subscribers to display many UW proprietary metrics\nLook at $NVDL, which had two spikes in positive directional delta.\nAnd then, gains!\nThis is a must have tool.",
+      "GoPro, $GPRO, saw 50x normal options volume yesterday, followed by 53x today.\nYoutuber Markiplier's news was yesterday. Today a $285 million merger was announced.\nThese calls expiring 9/18 made huge profits.\nUnusual."
     ],
-    "generated_at": "2026-09-03T00:52:31.974140+00:00"
+    "generated_at": "2026-09-03T05:21:48.851536+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
