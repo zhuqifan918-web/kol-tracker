@@ -29,23 +29,21 @@
       "NVDA",
       "GPRO",
       "AVGO",
-      "DELL"
+      "COIN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI基础设施与算力投资",
-      "苹果公司重大人事变动",
-      "市场风险与监管关注",
-      "油气资源与地缘政治",
-      "散户交易与期权流"
+      "AI竞赛与IPO",
+      "关税与制造业回流",
+      "地缘政治与能源"
     ],
-    "recent_shift": "近期观点从对AI相关股票信心满满，转向在部分机构预警及监管审查下更为审慎。",
+    "recent_shift": "在AI股票估值分歧和宏观经济不确定性背景下，近期观点转向谨慎。",
     "representative_quotes": [
-      "Howard Lutnick: \"data centers aren't a significant user of water... This is propaganda by our adversaries to try to slow us down\"",
-      "JPMorgan's trading desk has shifted to a \"tactically cautious/neutral\" view on U.S. equities. It was previously bullish.",
-      "Howard Lutnick says that interest rates will stabilize and decline in the next six months"
+      "OpenAI's new model, Astra, is projected to launch tomorrow... Anthropic just launched their new model yesterday... The AI race is heating up as both labs push out flagship models ahead of their IPOs.",
+      "JPMorgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities.",
+      "Howard Lutnick: Semiconductor tariffs are being considered... if you build in the US, we will give you tariff relief."
     ],
-    "generated_at": "2026-09-02T22:44:53.637630+00:00"
+    "generated_at": "2026-09-03T00:52:31.974140+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
