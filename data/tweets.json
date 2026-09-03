@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2095412099422064978",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "今天突然闪崩了一下，比较有意思的事情是\n美国要求三星海力士在美国建厂生产才免关税。\n实际情况是什么呢，\n作为美国的存储老大美光，它绝大部分产能也不在美国本土，在中国台湾。\n美国佬自己都不乐意自己在本土建厂😂 https://t.co/g0wOGZezBB",
+    "tweet_url": "https://x.com/xiaomustock/status/2095412099422064978",
+    "published_at": "2026-09-03T07:22:30+00:00",
+    "fetched_at": "2026-09-03T09:59:16.740023+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU"
+      ],
+      "direction": "bearish",
+      "summary": "这条推文提到美国要求三星和海力士在美国建厂才能豁免关税，但美国本土存储巨头美光的产能主要在中国台湾，暗示美国政策可能对美光不利，或对其供应链和市场格局产生负面影响。",
+      "translation": "今天突然闪崩了一下，有意思的是美国要求三星和海力士在美国建厂生产才免关税。实际情况是，作为美国的存储老大美光，它的绝大部分产能也不在美国本土，在中国台湾。美国佬自己都不乐意自己在本土建厂。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095313402881286464",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16,6 +37,25 @@
       "summary": "该推文提及使用Unusual Whales的GEX数据进行长期交易，并展示了一笔500%收益的交易，暗示其策略有效且看好该数据服务。",
       "translation": "转发 @Limitlesss1：我使用GEX交易很长时间了，只使用Unusual Whales的数据，看看这笔500%的交易。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095280860320911742",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales was made to catch these plays.\n\nWe're having a sale.\n\nSee more: https://t.co/d6DFEKs9sX",
+    "tweet_url": "https://x.com/unusual_whales/status/2095280860320911742",
+    "published_at": "2026-09-02T22:41:00+00:00",
+    "fetched_at": "2026-09-03T09:59:40.765578+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": null,
+      "translation": null,
+      "confidence": null
     }
   },
   {
