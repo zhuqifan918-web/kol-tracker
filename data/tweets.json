@@ -64,6 +64,25 @@
     }
   },
   {
+    "tweet_id": "2095257279478325420",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: OpenAI's new model, Astra, is projected to launch tomorrow, per Polymarket.\n\nAnthropic just launched their new model yesterday...\n\nThe AI race is heating up as both labs push out flagship models ahead of their IPOs. https://t.co/h2biiTiY0w",
+    "tweet_url": "https://x.com/unusual_whales/status/2095257279478325420",
+    "published_at": "2026-09-02T21:07:18+00:00",
+    "fetched_at": "2026-09-03T00:52:25.811844+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了OpenAI和Anthropic相继发布旗舰模型，暗示AI竞争加剧，并可能与其IPO计划相关。虽然未提及具体股票，但AI模型进展可能对相关上市公司产生影响，投资者需关注AI竞赛动态。",
+      "translation": "突发：据Polymarket，OpenAI的新模型Astra预计明天发布。Anthropic昨天刚发布了他们的新模型……AI竞赛正在升温，两家实验室都在其IPO之前推出旗舰模型。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095254939589353530",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -52436,6 +52455,27 @@
       "summary": "该推文指控火币创始人孙宇晨（孙割）涉嫌操纵市场，导致其平台上的资产贬值、下架并限制提币，甚至通过插针爆仓等方式损害投资者利益，对相关加密货币和平台持强烈看空态度。",
       "translation": "孙宇晨你但凡看一眼，兜里的钱都能少三块。孙宇晨的火币链上资产直接打2-3折，孙宇晨的P网（Poloniex）直接下架还不给提币，强制你归零。买的GALA孙宇晨给你创新+P也直接归零。你敢开杠杆，哪怕再低倍数，直接半夜限制你登录，然后插针给你爆了。都是真实案例。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "1805966684165198103",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "My +%500 Return On Investment: A 3 Minute Recap using Unusual Whales Options Flow\n\nFedEx $FDX reached +%13 today after beating the expected earnings forecast. I secured +%500 ROI on call options using UW. \n\nHow???\n\nWhen analyzing the options data for FedEx, I noticed the highest volume was in the 290 strike call options expiring in three days. About 5,000 contracts were traded just five minutes before the earnings report, at a low fill price of $0.84 per contract. I found this unusual due to the low price of the contract and the largest volume being on that contract. \n\nThis spike in activity made me curious, so I used the Unusual Whales tool to check the overall options volume. It confirmed a significant increase in call volume right before the earnings release. \n\nNext, I examined the gamma exposure for FedEx to ensure there was no negative gamma, and the Unusual Whales tool confirmed this. Negative gamma can sometimes indicate volatility; simply put, negative gamma warrants caution. Since there was no negative gamma, I felt more confident in taking a call option position.\n\nI then reviewed the candlestick chart, which suggested that FedEx stock might have hit a short-term bottom and was poised for an upward reversal.\n\nThese indicators, combined with the large volume of out-of-the-money call options at $0.84 per contract, prompted me to enter the position. The result was a 500% gain, turning my $170 investment into $900, as I was able to secure the same average fill price as the traders in the flow.\n\n It's important to note that options trading on earnings reports is extremely risky. Yet, I'm happy with the outcome of this trade. The Unusual Whales Flow report was persuading and aligned nicely with other technical analysis. \n\n****Interested in using @unusual_whales  to leverage your investing journey? Take advantage of the %20 SALE until July 4. Follow @snorlax_uw and @NicholasFNS for great education on how to use Unusual Whales*** NFA",
+    "tweet_url": "https://x.com/unusual_whales/status/1805966684165198103",
+    "published_at": "2024-06-26T14:09:45+00:00",
+    "fetched_at": "2026-09-03T00:52:15.988231+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "FDX"
+      ],
+      "direction": "bullish",
+      "summary": "作者分享利用Unusual Whales期权流分析工具，在FedEx财报前发现异常看涨期权交易，结合伽马敞口和技术图表判断底部反转，买入看涨期权获得500%回报。强调期权交易风险高，但认为工具与多种分析结合有效。",
+      "translation": "我的+500%投资回报：使用Unusual Whales期权流的三分钟回顾\n\n联邦快递（$FDX）在超出预期盈利预测后今日上涨+13%。我使用UW在看涨期权上获得了+500%的回报。\n\n怎么做到的？？？\n\n在分析联邦快递的期权数据时，我注意到成交量最高的是行权价290、三天后到期的看涨期权。在财报公布前五分钟，大约交易了5000份合约，成交价低至每份0.84美元。由于合约价格低且该合约成交量最大，我觉得这不同寻常。\n\n这一活动激增引起我的好奇，于是我使用Unusual Whales工具检查整体期权成交量。它确认了财报发布前看涨期权成交量显著增加。\n\n接下来，我检查了联邦快递的伽马敞口，确保没有负伽马，Unusual Whales工具也确认了这一点。负伽马有时可能预示波动性；简单说，负伽马需谨慎。由于没有负伽马，我更有信心买入看涨期权。\n\n然后我查看了蜡烛图，它表明联邦快递股票可能已触及短期底部，并有望向上反转。\n\n这些指标，加上大量价外看涨期权每份仅0.84美元的交易，促使我建仓。结果是500%的收益，将我的170美元投资变成了900美元，因为我能够以与流量中交易者相同的平均成交价执行。\n\n需要注意的是，财报期间的期权交易风险极高。然而，我对这笔交易的结果感到满意。Unusual Whales Flow报告很具说服力，并与其他技术分析很好地吻合。\n\n****有兴趣使用@unusual_whales 来助力您的投资之旅吗？抓住7月4日前20%折扣的机会。关注@snorlax_uw和@NicholasFNS获取如何使用Unusual Whales的优质教育***非财务建议",
+      "confidence": "high"
     }
   }
 ]
