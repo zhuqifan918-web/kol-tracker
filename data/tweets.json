@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2095313402881286464",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @Limitlesss1: I’ve been trading with GEX a long time\n\nOnly using UNUSUAL WHALES data from @unusual_whales \n\nCheckout this 500% trade",
+    "tweet_url": "https://x.com/unusual_whales/status/2095313402881286464",
+    "published_at": "2026-09-03T00:50:18+00:00",
+    "fetched_at": "2026-09-03T05:21:35.084682+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文提及使用Unusual Whales的GEX数据进行长期交易，并展示了一笔500%收益的交易，暗示其策略有效且看好该数据服务。",
+      "translation": "转发 @Limitlesss1：我使用GEX交易很长时间了，只使用Unusual Whales的数据，看看这笔500%的交易。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095279986701951461",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
