@@ -2,50 +2,48 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "NVDA",
+      "AVGO",
       "SIVE",
       "MU",
-      "SKHY",
-      "AAOI"
+      "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设",
-      "存储芯片与内存供应链",
-      "光子学与光通信",
-      "稀有金属与地缘政治",
-      "宏观波动下的基本面投资"
+      "AI芯片需求爆发",
+      "存储芯片短缺",
+      "光通信/激光器短缺"
     ],
-    "recent_shift": "作者近期更加关注传统存储芯片（如DDR2/DDR3）的供需缺口的投资机会，而此前更专注于光通信和AI芯片。",
+    "recent_shift": "近期观点从全面看多转向关注估值和融资稀释，但仍看多长期AI供应链。",
     "representative_quotes": [
-      "If you're curious what I'm doing this weekend: I'm trying to piece together who has Powerchip (PSMC) wafer allocations and also serves DDR2/DDR3 markets.",
-      "NVDA: 'We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook' That statement alone is probably more important than the entire earnings beat just now?",
-      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
+      "How can anyone not think AI stock go brrr?",
+      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
+      "I think Sivers is going to cook after connecting the dots."
     ],
-    "generated_at": "2026-09-04T13:53:25.066033+00:00"
+    "generated_at": "2026-09-04T17:16:53.074575+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GPRO",
-      "$AAPL",
-      "$NVDA",
-      "$TSLA",
-      "$AVGO"
+      "AAPL",
+      "GPRO",
+      "TSLA",
+      "NVDA",
+      "DELL"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能发展与监管",
-      "地缘政治与大宗商品（伊朗战争、石油市场）",
-      "联邦储备利率政策与通胀",
-      "市场波动与期权交易策略",
-      "非必需消费与并购活动"
+      "人工智能与科技竞争",
+      "能源与地缘政治风险",
+      "宏观经济与美联储政策",
+      "市场异常交易机会",
+      "监管与立法动态"
     ],
-    "recent_shift": "近期从对美国股市的乐观态度转向谨慎，强调AI泡沫风险和政策不确定性。",
+    "recent_shift": "近期观点从偏乐观转向更为谨慎，关注AI泡沫风险与市场高波动性，并强调技术分析与期权流的重要性。",
     "representative_quotes": [
-      "JPMorgan's trading desk has shifted to a \"tactically cautious/neutral\" view on U.S. equities. It was previously bullish.",
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
-      "The Iran war has shown that, in practice, China can singlehandedly stabilise the global oil market over a period of many months,\" per the Economist"
+      "The stock market will go up.",
+      "Jason Hunter, JPMorgan’s chief technical strategist, told clients the current divergence in AI stocks mirrors what happened in the months before the dot-com bubble burst in 2000.",
+      "There is a 56% chance of a 25 BPS rate hike by the Fed in September, per Polymarket."
     ],
-    "generated_at": "2026-09-04T13:53:27.042196+00:00"
+    "generated_at": "2026-09-04T17:16:47.581612+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
