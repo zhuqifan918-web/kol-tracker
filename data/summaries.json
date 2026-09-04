@@ -1,49 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "NVDA",
-      "AVGO",
       "SIVE",
-      "MU",
+      "NVDA",
+      "ESMT",
+      "AVGO",
       "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI芯片需求爆发",
-      "存储芯片短缺",
-      "光通信/激光器短缺"
+      "AI算力供应链瓶颈",
+      "存储器超级周期",
+      "光子学与光学互连",
+      "地缘政治与稀土",
+      "算力需求爆发"
     ],
-    "recent_shift": "近期观点从全面看多转向关注估值和融资稀释，但仍看多长期AI供应链。",
+    "recent_shift": "从聚焦AI芯片龙头转向挖掘供应链中的细分瓶颈（如激光器、利基存储、光模块）",
     "representative_quotes": [
-      "How can anyone not think AI stock go brrr?",
-      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
-      "I think Sivers is going to cook after connecting the dots."
+      "$NVDA projects $1.3T of hyperscaler spend for 2027. Up from ~$800B in 2026, alongside ~70% revenue growth despite remaining capacity constrained…",
+      "ESMT August revenue was ~$249M, up from ~$214M last month.",
+      "$SIVE announced today that it is expanding InP manufacturing in Glasgow. The new capacity target is: ~100 million CW DFB laser annual production. Using Sivers’ historical $50-$100 per 8-laser array pricing, the implied revenue capacity might be ~$625M-$1.25B/year (not guidance, just illustrative modeling)"
     ],
-    "generated_at": "2026-09-04T17:16:53.074575+00:00"
+    "generated_at": "2026-09-04T21:57:33.442375+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "GPRO",
-      "NVDA",
       "AAPL",
+      "NVDA",
+      "GPRO",
       "TSLA",
-      "COIN"
+      "LULU"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资与潜在泡沫",
-      "利率与通胀预期",
-      "能源与地缘政治风险",
-      "制造业回流与关税",
-      "中小盘投机机会"
+      "美联储利率路径不确定性",
+      "AI行业泡沫担忧与监管",
+      "地缘政治紧张与油价波动",
+      "个股并购与高管变动",
+      "期权与市场微观结构分析"
     ],
-    "recent_shift": "近期观点从AI热情转向对泡沫、利率和地缘政治风险的谨慎评估，同时强调利用期权流数据捕捉投机机会。",
+    "recent_shift": "近期观点从温和乐观转向谨慎，强调美联储政策不确定性与AI泡沫风险，同时关注个别股票的机会。",
     "representative_quotes": [
-      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows.",
-      "$NVDA, said it would pay $12.9 billion for the start-up Hugging Face",
-      "JPMorgan's trading desk has shifted to a \"tactically cautious/neutral\" view on U.S. equities. It was previously bullish."
+      "JUST IN: September Fed hike odds climbs to 52% after the stronger-than-expected jobs report.",
+      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
+      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows."
     ],
-    "generated_at": "2026-09-04T19:44:22.991990+00:00"
+    "generated_at": "2026-09-04T21:57:30.683562+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
