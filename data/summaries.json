@@ -1,51 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "SIVE",
-      "ESMT",
       "NVDA",
-      "AAOI",
-      "MRVL"
+      "SIVE",
+      "MU",
+      "SKHY",
+      "AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI供应链瓶颈与光电/激光短缺",
-      "利基型记忆体（DDR2/DDR3）结构性短缺与涨价",
-      "AI资本支出与算力需求持续成长",
-      "半导体上游材料与设备供应链安全",
-      "光通讯与CPO技术演进"
+      "AI基础设施建设",
+      "存储芯片与内存供应链",
+      "光子学与光通信",
+      "稀有金属与地缘政治",
+      "宏观波动下的基本面投资"
     ],
-    "recent_shift": "近期观点强调AI供应链的瓶颈与短缺加剧，对短期市场波动保持乐观，认为基本面强劲但市场波动大。",
+    "recent_shift": "作者近期更加关注传统存储芯片（如DDR2/DDR3）的供需缺口的投资机会，而此前更专注于光通信和AI芯片。",
     "representative_quotes": [
-      "We have record visibility with memory (2031), photonics (2029-2030), etc LTAs... I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
-      "$SIVE is the most unusual $1B photonics company I've ever seen. Just for AI DCs alone: Reference laser for $GFS SCALE (CPO/NPO/pluggable), 7 pluggable engagements disclosed... Let me know what other player around this range has so many ongoing qualifications, a large TAM, and in photonics.",
-      "NVDA projects $1.3T of hyperscaler spend for 2027. Up from ~$800B in 2026... That capex flows across the AI supply chain… from memory and networking to foundries. Especially through the new bottlenecks/chokepoints that didn’t benefit from older generations."
+      "If you're curious what I'm doing this weekend: I'm trying to piece together who has Powerchip (PSMC) wafer allocations and also serves DDR2/DDR3 markets.",
+      "NVDA: 'We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook' That statement alone is probably more important than the entire earnings beat just now?",
+      "When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027."
     ],
-    "generated_at": "2026-09-04T09:48:22.720387+00:00"
+    "generated_at": "2026-09-04T13:53:25.066033+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$GPRO",
-      "$NVDA",
       "$AAPL",
+      "$NVDA",
       "$TSLA",
       "$AVGO"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI及科技股投资机遇",
-      "期权与杠杆交易策略",
-      "公司并购与重组动态",
-      "宏观经济与利率政策",
-      "地缘政治与大宗商品"
+      "人工智能发展与监管",
+      "地缘政治与大宗商品（伊朗战争、石油市场）",
+      "联邦储备利率政策与通胀",
+      "市场波动与期权交易策略",
+      "非必需消费与并购活动"
     ],
-    "recent_shift": "近期更加强调AI泡沫风险及市场回调可能，整体仓位转向谨慎。",
+    "recent_shift": "近期从对美国股市的乐观态度转向谨慎，强调AI泡沫风险和政策不确定性。",
     "representative_quotes": [
-      "$TSLA 380 Call options paid 💰💰 I used unusual whales data only from @unusual_whales I saw traders crowding into 375 Call options with Volume exceedingly OI",
-      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows.",
-      "Jason Hunter, JPMorgan’s chief technical strategist, told clients the current divergence in AI stocks mirrors what happened in the months before the dot-com bubble burst in 2000."
+      "JPMorgan's trading desk has shifted to a \"tactically cautious/neutral\" view on U.S. equities. It was previously bullish.",
+      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
+      "The Iran war has shown that, in practice, China can singlehandedly stabilise the global oil market over a period of many months,\" per the Economist"
     ],
-    "generated_at": "2026-09-04T09:48:25.261474+00:00"
+    "generated_at": "2026-09-04T13:53:27.042196+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
