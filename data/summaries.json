@@ -23,27 +23,25 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$NVDA",
-      "$GPRO",
-      "$AAPL",
-      "$TSLA",
-      "$AVGO"
+      "GPRO",
+      "AAPL",
+      "NVDA",
+      "TSLA",
+      "COIN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI投资热潮与泡沫担忧",
-      "美联储政策与利率变动",
-      "企业财报与并购活动",
-      "市场异常交易与期权流动",
-      "地缘政治与宏观经济"
+      "AI与科技驱动的市场不确定性",
+      "就业与劳动力市场紧张",
+      "监管与政策风险"
     ],
-    "recent_shift": "近期对AI股票泡沫的担忧加剧，但同时也注意到并购和财报带来的机会，整体立场趋于谨慎。",
+    "recent_shift": "近期观点从偏向乐观转为中性，因AI估值泡沫担忧和宏观不确定性加剧。",
     "representative_quotes": [
-      "Jason Hunter, JPMorgan’s chief technical strategist, told clients the current divergence in AI stocks mirrors what happened in the months before the dot-com bubble burst in 2000.",
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
-      "JPMorgan's trading desk has shifted to a \"tactically cautious/neutral\" view on U.S. equities."
+      "GPRO saw 50x normal options volume yesterday, followed by 53x today.",
+      "J.P. Morgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities.",
+      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America."
     ],
-    "generated_at": "2026-09-03T20:20:13.779490+00:00"
+    "generated_at": "2026-09-04T00:32:34.478618+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
