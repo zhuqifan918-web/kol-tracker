@@ -1,5 +1,68 @@
 [
   {
+    "tweet_id": "2095851749127188691",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "From my channel checks, it appears Korean retail is firmly siding with $HOOD over the $AMC CEO.\n\nKorean sources find the prospect of 40x leveraged Samsung / $SKHY a powerful enough argument to win the tokenization debate.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095851749127188691",
+    "published_at": "2026-09-04T12:29:30+00:00",
+    "fetched_at": "2026-09-04T13:52:32.831871+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "HOOD",
+        "AMC",
+        "SKHY"
+      ],
+      "direction": "bullish",
+      "summary": "该推文通过渠道调查指出韩国散户更看好HOOD而非AMC的CEO，认为HOOD提出的三星/SKHY 40倍杠杆方案在代币化辩论中具有说服力，隐含对HOOD前景的乐观态度。",
+      "translation": "根据我的渠道调查，韩国散户似乎坚定地站在$HOOD一边，而不是$AMC的CEO。韩国消息人士认为，40倍杠杆的三星/SKHY方案足以赢得代币化辩论。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095838535446118612",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"The Iran war has shown that, in practice, China can singlehandedly stabilise the global oil market over a period of many months,\" per the Economist",
+    "tweet_url": "https://x.com/unusual_whales/status/2095838535446118612",
+    "published_at": "2026-09-04T11:37:00+00:00",
+    "fetched_at": "2026-09-04T13:53:05.100334+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文引用《经济学人》的观点，认为中国有能力在数月内单方面稳定全球石油市场。这属于宏观市场分析，影响石油价格和能源板块，但未提及具体投资标的或方向。",
+      "translation": "《经济学人》称，伊朗战争表明，实际上中国可以单方面在数月内稳定全球石油市场。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095813369332736487",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: The Trump administration officially imposed a 100% tariff on foreign-made drones, per NYT\n\nThe president’s eldest son, Donald Trump Jr., joined Unusual Machines’, a US drone company, advisory board in November 2024.\n\nTrump Jr. was awarded 200,000 shares in the company for joining the board, and a month before that he had purchased 66,000 shares and 66,000 warrants in a private placement.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095813369332736487",
+    "published_at": "2026-09-04T09:57:00+00:00",
+    "fetched_at": "2026-09-04T13:53:10.685938+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "UMAC"
+      ],
+      "direction": "bullish",
+      "summary": "特朗普政府对外国无人机征收100%关税，利好美国本土无人机制造商。特朗普长子加入Unusual Machines并持股，其关联可能推高该公司股价。",
+      "translation": "突发新闻：据《纽约时报》报道，特朗普政府正式对外国制造的无人机征收100%的关税。总统的长子小唐纳德·特朗普于2024年11月加入了美国无人机制造商Unusual Machines的顾问委员会。小特朗普因加入董事会获得20万股公司股票，而一个月前，他通过私募配售购买了6.6万股和6.6万份认股权证。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095802636876619928",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
