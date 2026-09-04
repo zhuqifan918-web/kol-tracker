@@ -1,5 +1,128 @@
 [
   {
+    "tweet_id": "2095914284186521836",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Trump: The Fed Board, with its great new leader, must get smart. Be patriots for a change.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095914284186521836",
+    "published_at": "2026-09-04T16:38:00+00:00",
+    "fetched_at": "2026-09-04T17:16:28.966649+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文涉及特朗普对美联储及新任领导人的施压，要求其采取爱国行动，可能影响货币政策走向。虽未提及具体标的，但政策预期或影响市场情绪及利率敏感资产。",
+      "translation": "特朗普：美联储董事会及其伟大的新领导人必须变得明智。为了改变，做爱国者吧。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2095898933180731568",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING:  US diesel fuel prices have hit an all-time high, per NYT",
+    "tweet_url": "https://x.com/unusual_whales/status/2095898933180731568",
+    "published_at": "2026-09-04T15:37:00+00:00",
+    "fetched_at": "2026-09-04T17:16:31.825833+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "美国柴油价格创历史新高，可能对能源相关行业及通胀预期产生影响，但未直接提及具体投资标的。",
+      "translation": "突发：据纽约时报报道，美国柴油燃料价格已创历史新高。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095894152403636553",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Norway’s sovereign wealth fund, the world's biggest sovereign wealth fund, plans to cut US Treasury holdings, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2095894152403636553",
+    "published_at": "2026-09-04T15:18:00+00:00",
+    "fetched_at": "2026-09-04T17:16:33.182097+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "全球最大主权财富基金计划削减美国国债持仓，可能反映对美国经济或财政前景的担忧，或对其资产配置进行调整。此消息可能对美国国债市场产生负面影响，进而影响全球风险资产情绪。",
+      "translation": "突发：挪威主权财富基金，全球最大的主权财富基金，据CNBC报道计划削减美国国债持仓。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095888867790356913",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Morgan Stanley says the Fed will hold rates at next meeting.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095888867790356913",
+    "published_at": "2026-09-04T14:57:00+00:00",
+    "fetched_at": "2026-09-04T17:16:34.523757+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "摩根士丹利预计美联储将在下次会议上维持利率不变，这暗示短期内货币政策将保持稳定，对市场影响可能有限。投资者可能关注后续经济数据以判断未来利率路径。",
+      "translation": "摩根士丹利表示美联储将在下次会议上维持利率不变。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095882424932766163",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Let me get this straight chat… you have:\n\n$NVDA 70% supply constrained revenue growth projections (would be 100%+)\n\n$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -> $230B\n\nOpenAI Astra blowing away AGI benchmarks and starting to train itself.\n\n$MSFT / $GOOGL / $AMZN stating compute demand imbalances into next year, with Nvidia projecting $1.3T spend for 2027.\n\nYou’re seeing this flow through supply chains from Samsung 70% capacity LTAs into 2031 to Powertech advanced packaging capacity 100% booked into 2030.\n\nEven your legacy players like Winbond are starting 2029-2030 allocations.\n\nMarkets always have temporary drawdowns and macro scares… but…\n\nHow can anyone not think AI stock go brrr?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095882424932766163",
+    "published_at": "2026-09-04T14:31:24+00:00",
+    "fetched_at": "2026-09-04T17:15:59.154706+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "Samsung",
+        "Powertech",
+        "Winbond"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为AI相关股票具有强劲增长潜力，列举了英伟达、博通等公司的营收增长预测以及供应链订单满负荷的迹象，强调尽管市场存在短期回调，但AI投资浪潮仍将推动股价上涨。",
+      "translation": "让我直说了吧，各位……你拥有：$NVDA 70%受供应限制的收入增长预测（原本会超过100%）；$AVGO AI收入未来两年同比增长100%以上，从约500亿美元增至2300亿美元；OpenAI Astra在AGI基准测试中表现惊人并开始自我训练；$MSFT/$GOOGL/$AMZN表示计算需求失衡将持续到明年，而英伟达预测2027年支出达1.3万亿美元。你会看到这传导至供应链，从三星到2031年的70%产能长期协议，到Powertech先进封装产能到2030年已100%被预订。甚至传统厂商如Winbond也开始分配2029-2030年的产能。市场总是有暂时回调和大宏观恐慌……但是，怎么会有人不认为AI股票会飞涨呢？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095873228195742074",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "下周中韩半导体看来稳了 https://t.co/xCsZZRqCeY",
+    "tweet_url": "https://x.com/xiaomustock/status/2095873228195742074",
+    "published_at": "2026-09-04T13:54:51+00:00",
+    "fetched_at": "2026-09-04T17:16:15.802018+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "推文认为下周中韩半导体板块会表现稳定，隐含看涨预期。但未提供具体标的或分析依据。",
+      "translation": "下周中韩半导体看来稳了 (Next week's China and Korea semiconductor sector looks stable.)",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2095851749127188691",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -39,6 +162,25 @@
       "summary": "该推文引用《经济学人》的观点，认为中国有能力在数月内单方面稳定全球石油市场。这属于宏观市场分析，影响石油价格和能源板块，但未提及具体投资标的或方向。",
       "translation": "《经济学人》称，伊朗战争表明，实际上中国可以单方面在数月内稳定全球石油市场。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095833502168342708",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Average price of a 3 year old car is at $32,461, up from $22,591 in 2019, per Edmunds.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095833502168342708",
+    "published_at": "2026-09-04T11:17:00+00:00",
+    "fetched_at": "2026-09-04T17:16:43.671294+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "二手车价格上涨可能反映汽车行业通胀压力，对消费者支出和整体经济有影响，但缺乏具体投资标的。",
+      "translation": "根据Edmunds数据，一辆3年车龄的二手车平均价格为32,461美元，高于2019年的22,591美元。",
+      "confidence": "low"
     }
   },
   {
@@ -2195,6 +2337,25 @@
       "summary": "黄仁勋的观点表明AI正在推动美国制造业回流和电网投资，对英伟达及新能源、电网相关行业构成长期利好。",
       "translation": "英伟达的黄仁勋表示，人工智能正在将制造业带回美国，并在数十年的离岸外包后重新实现国家工业化。AI正在创造需求，推动对老化电网和可持续能源的投资，这是由市场力量而非补贴驱动的。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2094509138433003882",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "查了一下黄果短剧是wan占50%，剩下sd和Kling干 https://t.co/y7CJNOSwZz",
+    "tweet_url": "https://x.com/xiaomustock/status/2094509138433003882",
+    "published_at": "2026-08-31T19:34:27+00:00",
+    "fetched_at": "2026-09-04T17:16:17.821085+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提及短剧公司黄果短剧的股权结构，其中wan占50%，而其余股份由sd和Kling持有。这或涉及相关公司的股权动态，但未明确指向具体投资建议或股票代码，因此相关性中等偏低。",
+      "translation": "查了一下黄果短剧，wan占50%，剩下由sd和Kling持有。",
+      "confidence": "low"
     }
   },
   {
