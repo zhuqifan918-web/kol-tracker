@@ -1,5 +1,106 @@
 [
   {
+    "tweet_id": "2095802636876619928",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "China reportedly halts some rare earth shipments to US.\n\nNot a new blanket ban, or any mention of specific rare earths. \n\nBut… if I had to guess, Japan is usually a decent indicator of what’s actively important since Japan:\n\n- “sources virtually all of its dysprosium and terbium from China.”\n- gallium, dysprosium, terbium and yttrium from China to Japan all stood at “zero” in June. \n- Shin-Etsu Chemical has reportedly suspended acceptance of new orders for magnets containing dysprosium.\n- Global magnet producer Proterial had received no export licenses for Chinese dysprosium as of last month\n\nThe Reuters piece mentioned yttrium, gallium, terbium, indium phosphide, and tungsten as historical examples (doesn’t say what’s being targeted now).\n\nOn a side note, $LYC.AX is becoming one of the most important alternatives, as Japan has locked up 75% of Lynas’s medium/heavy rare-earth output. (8 tons of dysprosium + terbium in Q1)\n\nSomething fun I also read is that Japan’s deep sea resource is enormous (est. at 16 million tons of rare earth rich mud, but commercialization is post-2028)\n\nBut in the meantime, China seem to be choking off feedstock that would materially affect Japan.\n\nSince you’ve already seen the WF6 Japanese industry stressed from tungsten related halts.\n\nAnd indium/others earlier this year that is used to make InP substrates from Sumitomo/JX.\n\nBut still gradually allowing exports directly eg. $AXTI -> $LITE to allow US/China trade to continue, kinda disrupting that from time to time, then using that as leverage.\n\nIt’s interesting since Japan has so many different monopolies like ABF, so we’ll see if they do anything back.\n\nBut if I had to give a prediction, it does look like the US has a countdown timer until China becomes self-sufficient on semiconductors.\n\nTLDR:\n- rare earth disruption to US\n- China actively targeting Japan for upstream feedstock (which goes to Us supply chains), probably want to focus on that\n- many many second/third order effects from disruptions\n- we’ll see what US/Japan wants to do back, but supply chain wars are being fought upstream.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095802636876619928",
+    "published_at": "2026-09-04T09:14:21+00:00",
+    "fetched_at": "2026-09-04T09:47:20.201373+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LYC.AX",
+        "AXTI",
+        "LITE"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出中国对美日稀土（特别是重稀土）出口管制可能加剧，影响日本及美国供应链。提及Lynas（LYC.AX）作为重要替代供应商但产能有限，AXTI和LITE受中美贸易影响。整体对依赖中国稀土的下游产业不利，但对拥有替代资源的公司可能有利。",
+      "translation": "中国据报道暂停向美国发送部分稀土货物。这不是新的全面禁令，也没有提及具体稀土品种。但是……如果让我猜的话，日本通常是衡量什么真正重要的良好指标，因为日本：\n- “几乎所有的镝和铽都从中国进口。”\n- 6月份，从中国进口到日本的镓、镝、铽和钇均为“零”。\n- 信越化学据报道已暂停接受含镝磁铁的新订单。\n- 全球磁铁生产商Proterial截至上月尚未获得中国镝的出口许可证。\n\n路透社文章提到钇、镓、铽、磷化铟和钨作为历史例子（并未说明当前目标）。\n\n附带一提，$LYC.AX正成为最重要的替代品之一，因为日本已锁定Lynas中重稀土产量的75%（第一季度镝和铽共8吨）。\n\n我还读到一些有趣的内容：日本的深海资源巨大（估计有1600万吨富含稀土的泥浆，但商业化要到2028年以后）。\n\n但与此同时，中国似乎在扼杀可能实质影响日本的原料供应。\n\n既然你已经看到钨相关停产导致日本WF6行业承压。\n\n以及今年早些时候用于制造Sumitomo/JX的InP衬底的铟和其他材料。\n\n但仍然逐渐允许直接出口，例如$AXTI -> $LITE，允许中美贸易继续，不时扰乱，然后将其用作杠杆。\n\n有趣的是，日本拥有许多不同的垄断地位，如ABF，所以我们看看他们是否会采取任何反击。\n\n但如果让我预测，看起来美国正面临倒计时，直到中国在半导体上实现自给自足。\n\nTLDR：\n- 稀土供应中断影响美国\n- 中国积极针对日本的上游原料（这些原料进入美国供应链），可能想专注于这一点\n- 许多许多来自中断的二阶和三阶效应\n- 我们将看看美国/日本想做什么反击，但供应链战争正在上游进行。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095763736070090959",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "RT @AnthonySandford: Here’s a basic guide to help you start reading the @unusual_whales Gamma Heat Zones and understand what the colors, nodes, expirations, and positioning are actually showing you. Combine this with the video below and it’ll give you a deeper walkthrough of how I actually use the Heat Zones with real examples.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095763736070090959",
+    "published_at": "2026-09-04T06:39:46+00:00",
+    "fetched_at": "2026-09-04T09:47:53.870864+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文介绍了一个帮助投资者解读Gamma热区图的指南，涉及期权交易中的颜色、节点、到期时间和持仓位置等概念。内容属于市场分析教育类，没有具体投资建议或趋势判断。",
+      "translation": "转发 @AnthonySandford：这里有一份基本指南，帮助您开始阅读 @unusual_whales 的Gamma热区图，并理解颜色、节点、到期日和持仓实际上向您展示的内容。将此与下面的视频结合，它将更深入地演示我实际如何使用热区图以及真实案例。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095763362026238342",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "还是原生家庭牛逼，amc公司说rh链发的不是股票是meme没有投票权，\nrh老板嘲讽了一句whats the concern？直接爆飞三个小时从几m拉到1个亿，\n原生家庭牛逼我日呐，搞几把股票。 https://t.co/0E9nE8j2uo",
+    "tweet_url": "https://x.com/xiaomustock/status/2095763362026238342",
+    "published_at": "2026-09-04T06:38:17+00:00",
+    "fetched_at": "2026-09-04T09:47:37.191641+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AMC"
+      ],
+      "direction": "neutral",
+      "summary": "该推文讨论了AMC公司发行meme股票（无投票权）的事件，以及Robinhood CEO的嘲讽引发市场短期内价格暴涨（从几百万市值到1亿）。推文表达了对股票市场操纵和meme股票现象的讽刺，但未提供明确投资建议。",
+      "translation": "还是原生家庭牛逼，AMC公司说RH发的不是股票是meme没有投票权，RH老板嘲讽了一句whats the concern？直接爆飞三个小时从几百万拉到1个亿，原生家庭牛逼我日呐，搞几把股票。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095753503528604128",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "过去这一年基本上能明眼看见的机会都被炒的很贵，再想赚轻松钱太难了，美股a股都没便宜的东西。",
+    "tweet_url": "https://x.com/xiaomustock/status/2095753503528604128",
+    "published_at": "2026-09-04T05:59:07+00:00",
+    "fetched_at": "2026-09-04T09:47:38.444674+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "作者认为当前市场（美股、A股）中明显可见的投资机会估值过高，难以获取轻松收益，整体观点偏谨慎或看空。",
+      "translation": "过去这一年基本上能明眼看见的机会都被炒的很贵，再想赚轻松钱太难了，美股A股都没便宜的东西。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095743667634147347",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "大a赚钱太难了，亏了100嘎了换成中韩半导体了。 https://t.co/31wRQ1gv1m",
+    "tweet_url": "https://x.com/xiaomustock/status/2095743667634147347",
+    "published_at": "2026-09-04T05:20:02+00:00",
+    "fetched_at": "2026-09-04T09:47:39.870527+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "发帖人感叹A股赚钱难，亏损后清仓并换成中韩半导体相关资产，反映出对中国股市的悲观态度和对半导体板块的关注。",
+      "translation": "A股赚钱太难了，亏了100块（或100个单位），清仓后换成了中韩半导体。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095677725511954884",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -438,6 +539,25 @@
       "direction": "bearish",
       "summary": "这条推文提到美国要求三星和海力士在美国建厂才能豁免关税，但美国本土存储巨头美光的产能主要在中国台湾，暗示美国政策可能对美光不利，或对其供应链和市场格局产生负面影响。",
       "translation": "今天突然闪崩了一下，有意思的是美国要求三星和海力士在美国建厂生产才免关税。实际情况是，作为美国的存储老大美光，它的绝大部分产能也不在美国本土，在中国台湾。美国佬自己都不乐意自己在本土建厂。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095330945733992462",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "I’m still really excited about the brand new @unusual_whales Heat Maps / Heat Zones.\n\nThis is one of those tools I think people are going to like a lot once they actually understand what they are looking at.\n\nSo I made a full beginner friendly tutorial on how I read them and how I would use them.\n\nIn the video, I explain:\n• What the Heat Maps are\n• Positive gamma\n• Negative gamma\n• Why red does not automatically mean puts\n• Why green does not automatically mean calls\n• Gamma flip\n• Call walls\n• Put walls\n• Absolute gamma\n• Directionalized volume\n• Clean maps vs messy maps\n\nThis is not a “find the biggest box and blindly trade it” tool. It is a tool to help you build a better read before taking the trade.\n\nWatch here:\nhttps://t.co/GSFYVVq3NF\n\nGood time to try @unusual_whales too. They’re running a Labor Day sale for 20% off Dashboard, API, and Bundle plans for a limited time.\n\nLink below:\nhttps://t.co/cNSsGRNj7z",
+    "tweet_url": "https://x.com/unusual_whales/status/2095330945733992462",
+    "published_at": "2026-09-03T02:00:01+00:00",
+    "fetched_at": "2026-09-04T09:47:56.455967+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推特内容主要介绍Unusual Whales的热力图/热区工具，并附有教学视频，同时提及Labor Day促销活动。不涉及具体投资标的或交易方向，属于工具推广和市场教育内容。",
+      "translation": "我仍然对全新的@unusual_whales热力图/热区感到非常兴奋。我认为一旦人们真正理解这些工具，他们会非常喜欢。所以我制作了一个完整的初学者教程，讲解如何阅读和使用它们。在视频中，我解释了：热力图是什么、正伽马、负伽马、为什么红色不一定代表看跌期权、绿色不一定代表看涨期权、伽马翻转、看涨期权墙、看跌期权墙、绝对伽马、定向成交量、清晰与混乱的图。这不是一个'找到最大方块就盲目交易'的工具，而是帮助你在交易前更好地理解市场的工具。在这里观看：https://t.co/GSFYVVq3NF 这也是尝试@unusual_whales的好时机，他们正在举办劳动节促销，仪表板、API和套餐计划可享受20%折扣，限时优惠。链接如下：https://t.co/cNSsGRNj7z",
       "confidence": "medium"
     }
   },
