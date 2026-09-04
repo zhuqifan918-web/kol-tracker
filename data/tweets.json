@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2095953673650352571",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has said: stupidity has caused inflation... and the stock market should have gone up today",
+    "tweet_url": "https://x.com/unusual_whales/status/2095953673650352571",
+    "published_at": "2026-09-04T19:14:31+00:00",
+    "fetched_at": "2026-09-04T19:44:04.925441+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普称愚蠢导致了通胀，并认为股市本应上涨。该言论未提及具体资产或明确看多/看空方向，但涉及市场情绪和宏观评论，对投资参考价值有限。",
+      "translation": "突发：特朗普表示，愚蠢导致了通胀……而股市今天本应该上涨。",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2095939198381670402",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "In the last month, Nvidia, $NVDA, is nearly up 10%.\n\nIt has moved billions in market cap.\n\nWill the rally hold? https://t.co/uWFe8SbCyQ",
+    "tweet_url": "https://x.com/unusual_whales/status/2095939198381670402",
+    "published_at": "2026-09-04T18:17:00+00:00",
+    "fetched_at": "2026-09-04T19:44:09.325298+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "推特提到英伟达（NVDA）在过去一个月上涨近10%，市值增加了数十亿美元，并讨论涨势能否持续。整体偏正面，但未给出明确的投资建议。",
+      "translation": "在过去一个月里，英伟达（$NVDA）上涨了近10%。其市值已增加了数十亿美元。这一涨势能否持续？https://t.co/uWFe8SbCyQ",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095929132060164574",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Michael Burry has said that Lululemon, $LULU, is now his largest stock position and that he plans to “aggressively buy” the shares below $100.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095929132060164574",
+    "published_at": "2026-09-04T17:37:00+00:00",
+    "fetched_at": "2026-09-04T19:44:11.631596+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LULU"
+      ],
+      "direction": "bullish",
+      "summary": "迈克尔·伯里表示，Lululemon（$LULU）是他最大的股票持仓，并计划在股价低于100美元时积极买入，这释放出强烈的看涨信号。",
+      "translation": "迈克尔·伯里曾表示，Lululemon（$LULU）现在是他最大的股票仓位，他计划在股价低于100美元时“积极买入”该股。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2095914284186521836",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -76,6 +137,25 @@
     }
   },
   {
+    "tweet_id": "2095883834734547352",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Hedgefund Citadel has held talks to buy U.S. oil production assets, as the hedge fund and commodities trader considers ‌expanding further into owning physical assets, per Reuters",
+    "tweet_url": "https://x.com/unusual_whales/status/2095883834734547352",
+    "published_at": "2026-09-04T14:37:00+00:00",
+    "fetched_at": "2026-09-04T19:44:16.582738+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "Citadel对冲基金考虑收购美国石油生产资产，显示机构对实物资产的兴趣增加，可能影响能源板块估值，但无具体标的。",
+      "translation": "对冲基金Citadel已与相关方洽谈收购美国石油生产资产，这家对冲基金和商品交易商正考虑进一步扩大对实物资产的所有权，据路透社报道。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095882424932766163",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -120,6 +200,25 @@
       "summary": "推文认为下周中韩半导体板块会表现稳定，隐含看涨预期。但未提供具体标的或分析依据。",
       "translation": "下周中韩半导体看来稳了 (Next week's China and Korea semiconductor sector looks stable.)",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2095865095322796298",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "JUST IN: September Fed hike odds climbs to 52% after the stronger-than-expected jobs report. https://t.co/9iAq0CDxuM",
+    "tweet_url": "https://x.com/unusual_whales/status/2095865095322796298",
+    "published_at": "2026-09-04T13:22:32+00:00",
+    "fetched_at": "2026-09-04T19:44:07.288678+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文报道了美联储9月加息概率因强劲的就业报告而升至52%，这属于宏观经济和货币政策相关的市场信息。对投资者而言，需关注加息预期对股票等风险资产估值的影响。",
+      "translation": "最新消息：在强于预期的就业报告公布后，美联储9月份加息概率攀升至52%。",
+      "confidence": "high"
     }
   },
   {

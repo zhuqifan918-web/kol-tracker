@@ -23,27 +23,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
       "GPRO",
-      "TSLA",
       "NVDA",
-      "DELL"
+      "AAPL",
+      "TSLA",
+      "COIN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "人工智能与科技竞争",
+      "AI投资与潜在泡沫",
+      "利率与通胀预期",
       "能源与地缘政治风险",
-      "宏观经济与美联储政策",
-      "市场异常交易机会",
-      "监管与立法动态"
+      "制造业回流与关税",
+      "中小盘投机机会"
     ],
-    "recent_shift": "近期观点从偏乐观转向更为谨慎，关注AI泡沫风险与市场高波动性，并强调技术分析与期权流的重要性。",
+    "recent_shift": "近期观点从AI热情转向对泡沫、利率和地缘政治风险的谨慎评估，同时强调利用期权流数据捕捉投机机会。",
     "representative_quotes": [
-      "The stock market will go up.",
-      "Jason Hunter, JPMorgan’s chief technical strategist, told clients the current divergence in AI stocks mirrors what happened in the months before the dot-com bubble burst in 2000.",
-      "There is a 56% chance of a 25 BPS rate hike by the Fed in September, per Polymarket."
+      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows.",
+      "$NVDA, said it would pay $12.9 billion for the start-up Hugging Face",
+      "JPMorgan's trading desk has shifted to a \"tactically cautious/neutral\" view on U.S. equities. It was previously bullish."
     ],
-    "generated_at": "2026-09-04T17:16:47.581612+00:00"
+    "generated_at": "2026-09-04T19:44:22.991990+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
