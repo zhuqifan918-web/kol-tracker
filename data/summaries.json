@@ -2,70 +2,71 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "NVDA",
       "ESMT",
+      "NVDA",
       "AAOI",
       "MRVL"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与光通信瓶颈",
-      "存储芯片超级周期与供应短缺",
-      "半导体供应链国产替代与政策受益"
+      "AI供应链瓶颈与光电/激光短缺",
+      "利基型记忆体（DDR2/DDR3）结构性短缺与涨价",
+      "AI资本支出与算力需求持续成长",
+      "半导体上游材料与设备供应链安全",
+      "光通讯与CPO技术演进"
     ],
-    "recent_shift": "近期观点从关注AI算力转向更关注光互连和存储芯片的细分瓶颈，并强调这些领域的持续上涨潜力。",
+    "recent_shift": "近期观点强调AI供应链的瓶颈与短缺加剧，对短期市场波动保持乐观，认为基本面强劲但市场波动大。",
     "representative_quotes": [
-      "Sivers is coming into the industry with large capacity from Win Semi and 'tremendous capacity that is available now'... I think Sivers is going to cook after connecting the dots.",
-      "we're seeing record visibility with memory (2031), photonics (2029-2030), etc LTAs... combined with record projections... As long as I don't see indicators of hyperscalers cutting capex or demand wavering, I'm staying long despite macro volatility.",
-      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints."
+      "We have record visibility with memory (2031), photonics (2029-2030), etc LTAs... I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout.",
+      "$SIVE is the most unusual $1B photonics company I've ever seen. Just for AI DCs alone: Reference laser for $GFS SCALE (CPO/NPO/pluggable), 7 pluggable engagements disclosed... Let me know what other player around this range has so many ongoing qualifications, a large TAM, and in photonics.",
+      "NVDA projects $1.3T of hyperscaler spend for 2027. Up from ~$800B in 2026... That capex flows across the AI supply chain… from memory and networking to foundries. Especially through the new bottlenecks/chokepoints that didn’t benefit from older generations."
     ],
-    "generated_at": "2026-09-03T20:20:11.431110+00:00"
+    "generated_at": "2026-09-04T09:48:22.720387+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "GPRO",
-      "TSLA",
-      "COIN"
+      "$GPRO",
+      "$NVDA",
+      "$AAPL",
+      "$TSLA",
+      "$AVGO"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "AI泡沫与监管风险",
-      "科技巨头动向与期权交易",
+      "AI及科技股投资机遇",
+      "期权与杠杆交易策略",
+      "公司并购与重组动态",
       "宏观经济与利率政策",
-      "地缘政治与商品市场"
+      "地缘政治与大宗商品"
     ],
-    "recent_shift": "近期，该影响者从关注科技IPO和AI进展转向更多关注AI泡沫风险、美联储政策及地缘政治事件，表现出对市场前景的谨慎态度。",
+    "recent_shift": "近期更加强调AI泡沫风险及市场回调可能，整体仓位转向谨慎。",
     "representative_quotes": [
-      "Nvidia, $NVDA, CEO: AI eliminating your job is \"nonsense.\"",
-      "Apple, $AAPL, CEO John Ternus will earn a $3 million annual salary in his new role.",
-      "Fed Waller says he prefers to keep rates unchanged in September."
+      "$TSLA 380 Call options paid 💰💰 I used unusual whales data only from @unusual_whales I saw traders crowding into 375 Call options with Volume exceedingly OI",
+      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows.",
+      "Jason Hunter, JPMorgan’s chief technical strategist, told clients the current divergence in AI stocks mirrors what happened in the months before the dot-com bubble burst in 2000."
     ],
-    "generated_at": "2026-09-04T05:14:56.739279+00:00"
+    "generated_at": "2026-09-04T09:48:25.261474+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "CRM",
       "META",
-      "MU",
       "SNDK",
-      "MRVL"
+      "MU",
+      "SK Hynix",
+      "INTC"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片行业供需与价格周期",
-      "AI发展与算力需求",
-      "美债收益率与宏观经济风险",
-      "加密货币与黄金避险",
-      "Agent技术商业化"
+      "存储芯片的长期供需缺口与价格上涨",
+      "AI代理及Agent技术带动新一轮需求",
+      "美债收益率上升对无息资产的压力"
     ],
-    "recent_shift": "近期从对AI存储的极度过剩乐观转向为对市场流动性收紧和美债风险以及存储板块波动的担忧。",
+    "recent_shift": "从早期重仓存储并追求高杠杆收益，转向强调控制风险、分散投资并关注AI基础设施价值",
     "representative_quotes": [
-      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。",
-      "AI想搞起来，就离不开存储，潘健成和黄仁勋一堆大佬说真正制约AI进化的瓶颈就是存储。闭环了，美政府想解决美债就得把存储拉起来。",
-      "唯一确定性利空股市，流动性被锁住抽走。"
+      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。",
+      "亚马逊这个财报发言太bullish了 csp们说自己即将要赚麻",
+      "市场是真不缺机会，更不缺黑天鹅。"
     ],
-    "generated_at": "2026-09-03T17:56:47.819409+00:00"
+    "generated_at": "2026-09-04T09:48:27.610012+00:00"
   }
 }
