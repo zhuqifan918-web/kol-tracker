@@ -1,5 +1,24 @@
 [
   {
+    "tweet_id": "2095677725511954884",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The Ban Artificial Superintelligence Act would suspend advanced AI development until a new federal agency sets safety standards and procedures for reviewing AI models.\n\nRead more: https://t.co/Qbo9JJwByC",
+    "tweet_url": "https://x.com/unusual_whales/status/2095677725511954884",
+    "published_at": "2026-09-04T00:58:00+00:00",
+    "fetched_at": "2026-09-04T05:14:43.604103+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该法案提议暂停先进AI开发直至新联邦机构建立安全标准，可能增加AI公司的合规成本并推迟产品上市，对AI行业短期构成利空。",
+      "translation": "《禁止人工超级智能法案》将暂停先进AI开发，直到新的联邦机构制定安全标准并审查AI模型的程序。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095627898162184490",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",

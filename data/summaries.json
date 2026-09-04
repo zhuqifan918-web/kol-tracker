@@ -23,25 +23,26 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "GPRO",
       "AAPL",
       "NVDA",
+      "GPRO",
       "TSLA",
       "COIN"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技驱动的市场不确定性",
-      "就业与劳动力市场紧张",
-      "监管与政策风险"
+      "AI泡沫与监管风险",
+      "科技巨头动向与期权交易",
+      "宏观经济与利率政策",
+      "地缘政治与商品市场"
     ],
-    "recent_shift": "近期观点从偏向乐观转为中性，因AI估值泡沫担忧和宏观不确定性加剧。",
+    "recent_shift": "近期，该影响者从关注科技IPO和AI进展转向更多关注AI泡沫风险、美联储政策及地缘政治事件，表现出对市场前景的谨慎态度。",
     "representative_quotes": [
-      "GPRO saw 50x normal options volume yesterday, followed by 53x today.",
-      "J.P. Morgan's trading desk has shifted to a 'tactically cautious/neutral' view on U.S. equities.",
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America."
+      "Nvidia, $NVDA, CEO: AI eliminating your job is \"nonsense.\"",
+      "Apple, $AAPL, CEO John Ternus will earn a $3 million annual salary in his new role.",
+      "Fed Waller says he prefers to keep rates unchanged in September."
     ],
-    "generated_at": "2026-09-04T00:32:34.478618+00:00"
+    "generated_at": "2026-09-04T05:14:56.739279+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
