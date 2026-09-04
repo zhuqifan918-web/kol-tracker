@@ -1,5 +1,50 @@
 [
   {
+    "tweet_id": "2095974877115380043",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "There's actually a whole new universe I haven't discovered with the Indian stock market...\n\nApparently there's some company called Sterlite Technologies (~$4.5B MC) that's up 630%, so I'm always curious why:\n\n- upstream glass preforms (Used in optical fiber), so part of the fiber bottleneck\n- preform -> fiber -> cable -> connectivity integration\n- Optical fiber and cables, connectors, etc. \n\nSo maybe reminds me of India's alternative to Shin-Etsu/Furukawa?\n\nAnd they got some $1.11 billion hyperscaler award, another $288m hyperscaler agreement and EBITDA up +184%. \n\nSo then i look into related companies like:\n\n-West Coast Paper (india)\n- FINCABLES\n\nto see if markets missed anything or if there's any nuances I missed on why Sterlite is so highly valued. And why hyperscalers gave that award.\n\nThey also cited Germanium and helium inflation are headwinds, so you also get to see what other companies are citing too. \n\nRegardless I'm always curious about the implications of random stuff I know nothing about. \n\nSo just having a good time looking through these things and doing research now (obviously never heard of this before until today, so don't own anything above)",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095974877115380043",
+    "published_at": "2026-09-04T20:38:46+00:00",
+    "fetched_at": "2026-09-04T21:56:44.488859+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "STLTECH.NS",
+        "WCPL.NS",
+        "FINCABLES.NS"
+      ],
+      "direction": "neutral",
+      "summary": "该推文探讨了印度股票市场中的Sterlite Technologies（市值45亿美元）股价大涨630%的原因，认为其涉及光纤预制棒等上游环节，并获得超大规模数据中心订单，业绩强劲。作者同时提到相关公司West Coast Paper和FINCABLES，并指出德国和氦气通胀是潜在阻力，整体保持好奇和研究心态，未明确表达看多或看空。",
+      "translation": "我发现印度股市还有一整个我尚未发现的新领域……显然有一家叫Sterlite Technologies的公司（市值约45亿美元）涨了630%，所以我很好奇原因：- 上游玻璃预制棒（用于光纤），所以是光纤瓶颈的一部分- 预制棒→光纤→光缆→连接集成- 光纤光缆、连接器等。所以或许让我想起印度版的信越或古河？而且他们获得了11亿美元的超大规模数据中心奖励，另一项2.88亿美元的超大规模协议，EBITDA增长184%。于是我看了一些相关公司，比如West Coast Paper（印度）和FINCABLES，看看市场是否遗漏了什么，或者我是否错过了Sterlite被高估的细微之处，以及为什么超大规模数据中心给了那个奖励。他们还提到锗和氦气通胀是阻力，所以你也可以看到其他公司也在提到什么。不管怎样，我总是对我不了解的随机事物的影响感到好奇。所以我现在很开心地研究这些东西（显然今天之前从未听说过，所以上面没有任何持仓）。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095957075302273257",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "OpenAI's Astra is now available. https://t.co/foqBHhPGkH",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095957075302273257",
+    "published_at": "2026-09-04T19:28:02+00:00",
+    "fetched_at": "2026-09-04T21:56:49.140879+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "OpenAI推出Astra新功能，可能提升对微软Azure云服务和英伟达AI芯片的需求，对相关股票构成利好。",
+      "translation": "OpenAI的Astra现已可用。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2095953673650352571",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -16,6 +61,25 @@
       "summary": "特朗普称愚蠢导致了通胀，并认为股市本应上涨。该言论未提及具体资产或明确看多/看空方向，但涉及市场情绪和宏观评论，对投资参考价值有限。",
       "translation": "突发：特朗普表示，愚蠢导致了通胀……而股市今天本应该上涨。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2095952069618467110",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Odds of a September Fed rate hike just jumped back to 52%, per Polymarket⁠.com.\n\nDovish Fed comments dropped the odds yesterday. Then a blowout jobs report, 162K vs 56K expected, flipped them right back today.\n\nNobody seems to know where this is headed.",
+    "tweet_url": "https://x.com/unusual_whales/status/2095952069618467110",
+    "published_at": "2026-09-04T19:08:08+00:00",
+    "fetched_at": "2026-09-04T21:57:21.113768+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文讨论了美联储9月加息概率因强劲就业报告而回升至52%，市场对加息路径的不确定性增加。这对投资者而言属于重要的宏观经济信号，但未明确指向具体资产方向，因此整体为中性。",
+      "translation": "突发：Polymarket网站显示，9月美联储加息几率刚刚回升至52%。美联储的鸽派言论昨日降低了这一几率，然而今日强劲的非农就业报告（实际16.2万，预期5.6万）使其再度反弹。似乎没有人知道未来走向。",
+      "confidence": "medium"
     }
   },
   {
@@ -280,6 +344,33 @@
       "summary": "二手车价格上涨可能反映汽车行业通胀压力，对消费者支出和整体经济有影响，但缺乏具体投资标的。",
       "translation": "根据Edmunds数据，一辆3年车龄的二手车平均价格为32,461美元，高于2019年的22,591美元。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2095823005595439615",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "So... here's my take on US / China tensions: \n\nYou have European monopolies like:\n- $ASML (EUV)\n- $SOI (Photonics-SOI)\n- Zeiss SMT (ASML EUV supplier), Trumpf (ASML EUV laser supplier)\n\nJapan has many near/complete monoplies like:\n- TOK, JSR, ShinEstu, Fujifilm for EUV photoresist - 90-100% share\n- coat/develop equiment with Tokyo Electron -90%+\n- actinic EUV patterned mask inspection (Lasertec) -100% share\n- EUV mask blanks (HOYA, AGC) ~93% share\n- arf photoresist\n- Nittobo T-Glass \n- ABF film (Ajinomoto)\n- lot of misc from specialty glassAGC, wafer thinning/grinding/dicing with Disco and others. \n\nThen there's US allied countries like Taiwan eg. $TSM, Korean memory with $SKHY / Samsung. \n\nUS has EDA with Synopsys/Cadence, $LCRX / $KLA, $NVDA, and many downstream giants.\n\nChina has many chokepoints such as gallium, graphite, refined lithium, and others + benefits from cost mass production over many future supply chains (eg. robotics). \n\nIf I had to give my opinion on US / China supply chain wars:\n\n- US is trying to achieve Western independence from China/Russia rare earths + materials supply, but took too long (should have been a priority last decade). \n\n- China is trying to eliminate strategic chokepoint dependence and forcing US reliance on Chinese supply chains (as seen with Wf6) \n\nIt's a race on who achieves supply chain independence first to gain leverage over the other.  \n\nAnd fun thing is, AI acceleration kinda throws an unknown variable in terms of speeding up independence. \n\nAs well as open source efforts (eg. RISC-V), which China is heavily focusing on. So it's a weird paradox where US should theoretically support open source hardware development + open source AI, but it's also being exploited against them.\n\nFrom a Chinese perspective, they're pressuring US supply chains by targeting Japan, which increases Western supply chain reliance on China. \n\nAnd going down the list to eliminate competitor chokepoints internally by throwing subsidized spend into R&D. Or by acqusition as seen with China's acquisition of EU leaders like Ficontec.  \n\nAmerica... they had all the cards initially, but I think they got too comfortable, and took too long to focus heavily on rare earths (recent funding is a good thing).\n\nThe earlier tariffs went the wrong way (socks, furniture, other exports), and pissed off allies in EU/Canada too. \n\nWhich could have been used for leverage for major chokepoints. But maybe they'll realize soon enough why allies are important.\n\nAnyway, we'll see what happens, just my two cents about ongoing dynamics.\n\nIn an ideal world, everyone works together... \n\nTLDR: Just some shower thoughts on how there's an unspoken race on who achieves supply chain independence first to gain leverage over the other.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095823005595439615",
+    "published_at": "2026-09-04T10:35:17+00:00",
+    "fetched_at": "2026-09-04T21:56:56.910099+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "ASML",
+        "SOI",
+        "TSM",
+        "SKHY",
+        "LCRX",
+        "KLA",
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该推文分析了中美供应链竞争中的关键环节，涉及半导体设备、光刻胶、掩膜版等领域的垄断企业，并指出美国在稀土等材料领域的迟缓行动可能影响长期竞争力。整体观点中性，强调双方都在争夺供应链独立以获取优势，但未给出明确的投资建议。",
+      "translation": "我的看法是：美中紧张局势中，欧洲有垄断企业如ASML（EUV）、SOI（光子SOI）、蔡司SMT和通快（ASML的供应商）。日本几乎垄断了EUV光刻胶（TOK、JSR、信越、富士胶片）、涂布显影设备（东京电子）、EUV掩膜版检测（Lasertec）等。美国拥有EDA软件（Synopsys/Cadence）、应用材料、KLA、英伟达等下游巨头。中国则在镓、石墨、锂等资源上有关键控制点，并拥有成本优势。美国试图摆脱对中国/俄罗斯稀土和材料的依赖，但行动太慢；中国则在消除对战略瓶颈的依赖，并迫使美国依赖中国供应链（如六氟化钨）。这是一场谁先实现供应链独立以获得对对方杠杆的竞赛。AI加速和开源（如RISC-V）增加了不确定性。中国针对日本施压，并补贴研发或收购（如Ficontec）来消除竞争对手的瓶颈。美国起初有优势，但过于自满，太晚重视稀土（最近的资金是好事）。早期关税针对袜子、家具等，方向错误，激怒了欧盟和加拿大盟友。理想情况下大家合作。总之，这只是我对正在进行动态的思考：一场关于供应链独立的无声竞赛。",
+      "confidence": "medium"
     }
   },
   {
