@@ -4,48 +4,48 @@
       "SIVE",
       "NVDA",
       "ESMT",
-      "AVGO",
-      "MRVL"
+      "SNDK",
+      "MU"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力供应链瓶颈",
-      "存储器超级周期",
-      "光子学与光学互连",
-      "地缘政治与稀土",
-      "算力需求爆发"
+      "AI算力基础设施长期供不应求",
+      "存储芯片特别是利基型DRAM供需失衡及价格上涨",
+      "光通信激光器与硅光子技术瓶颈及产业链机会",
+      "地缘政治与供应链关键材料博弈",
+      "投资需关注长期基本面而非短期波动"
     ],
-    "recent_shift": "从聚焦AI芯片龙头转向挖掘供应链中的细分瓶颈（如激光器、利基存储、光模块）",
+    "recent_shift": "近期观点无明显转变，依然坚定看多AI相关产业链，但更强调短期市场波动性加剧，需关注长期供需逻辑。",
     "representative_quotes": [
-      "$NVDA projects $1.3T of hyperscaler spend for 2027. Up from ~$800B in 2026, alongside ~70% revenue growth despite remaining capacity constrained…",
-      "ESMT August revenue was ~$249M, up from ~$214M last month.",
-      "$SIVE announced today that it is expanding InP manufacturing in Glasgow. The new capacity target is: ~100 million CW DFB laser annual production. Using Sivers’ historical $50-$100 per 8-laser array pricing, the implied revenue capacity might be ~$625M-$1.25B/year (not guidance, just illustrative modeling)"
+      "Inference is now larger than training after being roughly 50/50 about 18 months ago. I wonder if Nvidia will be the first $10T company... this growth is absurd.",
+      "So ESMT is the beneficiary of DDR3/DDR2 shortages. TLDR: ESMT August revenue was ~$249M, up from ~$214M last month.",
+      "Demand for lasers, whether it is EML lasers, CW lasers. Is far surpassing supply out there in the industry."
     ],
-    "generated_at": "2026-09-04T21:57:33.442375+00:00"
+    "generated_at": "2026-09-05T15:26:42.298152+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
-      "AAPL",
-      "NVDA",
-      "GPRO",
-      "TSLA",
-      "LULU"
+      "$GPRO",
+      "$AAPL",
+      "$NVDA",
+      "$BE",
+      "$TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "美联储利率路径不确定性",
-      "AI行业泡沫担忧与监管",
-      "地缘政治紧张与油价波动",
-      "个股并购与高管变动",
-      "期权与市场微观结构分析"
+      "政治人物交易与内幕信息",
+      "期权异常交易与市场操纵",
+      "人工智能监管与市场影响",
+      "美联储利率政策与市场预期",
+      "宏观经济与地缘政治风险"
     ],
-    "recent_shift": "近期观点从温和乐观转向谨慎，强调美联储政策不确定性与AI泡沫风险，同时关注个别股票的机会。",
+    "recent_shift": "近期观点从对AI泡沫的担忧转向对市场操纵和政府政策干预的更多关注，同时保持对美联储政策的谨慎态度。",
     "representative_quotes": [
-      "JUST IN: September Fed hike odds climbs to 52% after the stronger-than-expected jobs report.",
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America.",
-      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows."
+      "Look at this. This week, these traders made MILLIONS. GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1. Youtuber Markiplier's news was Aug 31. Then Sept 1, a $285 million merger was announced. These calls made huge profits. Unusual.",
+      "BREAKING: Look at this trade by Pelosi. Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. Then yesterday, it was announced Bloom Energy was going to be added to the S&P500. Someone always knows.",
+      "The plan doubles workforce reductions agreed to across Volkswagen Group brands since late 2024, while also paving the way for the company to slim its vehicle lineup by as much as 50% by 2035."
     ],
-    "generated_at": "2026-09-04T21:57:30.683562+00:00"
+    "generated_at": "2026-09-05T15:26:39.517606+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [

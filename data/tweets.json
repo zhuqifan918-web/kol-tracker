@@ -1,5 +1,176 @@
 [
   {
+    "tweet_id": "2096252262884474927",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this trade by Pelosi.\n\nPelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17.\n\nThen yesterday, it was announced Bloom Energy was going to be added to the S&amp;P500.\n\nSomeone always knows. https://t.co/lDtrxoMz8K",
+    "tweet_url": "https://x.com/unusual_whales/status/2096252262884474927",
+    "published_at": "2026-09-05T15:01:00+00:00",
+    "fetched_at": "2026-09-05T15:26:10.425447+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文披露了佩洛西在7月24日买入1万股Bloom Energy（BE）股票及100份到期日为6月17日的看涨期权，随后该公司被宣布纳入标普500指数，暗示存在内幕交易或知情交易，整体对该股票持看涨态度。",
+      "translation": "突发：看看佩洛西的这笔交易。佩洛西于7月24日买入1万股Bloom Energy（$BE）股票，并买入100份到期日为6/17的100看涨期权。然后昨天，宣布Bloom Energy将被纳入标普500指数。总有人提前知道。https://t.co/lDtrxoMz8K",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2096237162094309454",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nThis week, these traders made MILLIONS.  \n\nGoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1.  \n\nYoutuber Markiplier's news was Aug 31. \n\nThen Sept 1, a $285 million merger was announced.  \n\nThese calls made huge profits.  \n\nUnusual. https://t.co/V9ahk1uRBX",
+    "tweet_url": "https://x.com/unusual_whales/status/2096237162094309454",
+    "published_at": "2026-09-05T14:01:00+00:00",
+    "fetched_at": "2026-09-05T15:26:12.195093+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "bullish",
+      "summary": "这条推文提到GoPro（GPRO）在8月31日和9月1日出现异常高的期权交易量，随后宣布了2.85亿美元的并购，交易者从中获利丰厚，暗示可能有内幕交易或提前获取消息，对GPRO股价短期看涨。",
+      "translation": "看看这个。本周，这些交易者赚了数百万美元。GoPro（$GPRO）在8月31日出现了50倍期权成交量，9月1日达到53倍。Youtuber Markiplier的新闻是在8月31日。然后9月1日，宣布了一笔2.85亿美元的并购。这些看涨期权赚取了巨大利润。不寻常。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096222062712926392",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Huge change on site. \n\nThe GEX heatmap update frequency has been increased significantly.  \n\nGet second-to-second updates\n\n See more: https://t.co/SgtQedCuEx https://t.co/k2gMWGsrIt",
+    "tweet_url": "https://x.com/unusual_whales/status/2096222062712926392",
+    "published_at": "2026-09-05T13:01:00+00:00",
+    "fetched_at": "2026-09-05T15:26:13.743147+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文宣布GEX热图更新频率大幅提升至秒级更新，旨在为交易者提供更实时的市场情绪和伽马暴露变化信息，属于交易工具更新，不直接涉及具体投资建议。",
+      "translation": "网站发生重大改变。GEX热图的更新频率已显著增加。获取秒级更新。了解更多：https://t.co/SgtQedCuEx",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096149203278037407",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Now that $MU to $SNDK have pulled a major recovery. \n\nGood to have a reminder that the memory bottleneck hasn’t changed!\n\nSame with CW lasers… substrates… or others.\n\nBut short term sentiment (depending on prices/macro) often does.\n\nI think a lot of demand imbalances get worse than people expect:\n\n- There’s some Japanese distributors in Nikkei today saying memory demand deficit has reached 40-60% (67-150% higher than supply). With general prices going up 50% by years end.\n\n- $SPCX isn’t included in the $1.3T hyperscaler capex figures (I think Wells Fargo ets. ~$263b AI capex), so total capex figures might be surprising.\n\n- $SNDK expects 80% gross margins to continue into 2030… (welcome to S&P 100)\n\n- and once again you have long term visibility into 2031 now with companies like Samsung\n\nMemory is very really volatile… some of my positions are up 270%+, so I find it a bit easier to hold through volatile periods.\n\nBut regardless, operating fundamentals doesn’t always align with short term price movements.\n\nSame concept can be applied to other sectors.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096149203278037407",
+    "published_at": "2026-09-05T08:11:29+00:00",
+    "fetched_at": "2026-09-05T15:25:41.718303+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "MU",
+        "SNDK",
+        "SPCX"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为存储芯片需求缺口严重（达40-60%），价格将上涨50%，且资本支出被低估，因此长期看多存储芯片及相关供应链，但提醒短期波动仍可能发生。",
+      "translation": "现在$MU和$SNDK已经大幅回调。很好提醒一下，存储瓶颈没有改变！CW激光器、衬底等也一样。但短期情绪（取决于价格/宏观）往往不同。我认为很多需求失衡会比人们预期的更严重：- 今天《日经》有日本分销商表示存储需求缺口已达到40-60%（比供应高67-150%）。一般价格到年底前上涨50%。- $SPCX并未包含在1.3万亿美元的超大规模数据中心资本支出数据中（我认为Wells Fargo等估计约2630亿美元AI资本支出），所以总资本支出数字可能会令人意外。- $SNDK预计80%的毛利率将持续到2030年……（欢迎加入标普100）。- 并且再次强调，现在像三星这样的公司能见度已经到2031年。存储确实非常波动……我的一些仓位涨幅超过270%，所以我觉得在波动期持有更容易些。但无论如何，运营基本面并不总是与短期价格走势一致。同样的概念也适用于其他行业。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2096122640465645937",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "我觉得这种思路很好：借鉴我对 ESMT DDR2/DDR3 等老一代存储芯片的研究, 举一反三.\n\n或者把我研究 $AAOI 时关于 CW 激光器供需失衡的思路, 应用到 A 股.\n\n很开心看到大家学习我的思考方式，而不是照抄具体的股票, 并用这些思路去寻找自己看好的做多标的！",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096122640465645937",
+    "published_at": "2026-09-05T06:25:56+00:00",
+    "fetched_at": "2026-09-05T15:25:46.080538+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文鼓励投资者借鉴其关于老一代存储芯片（ESMT DDR2/DDR3）和CW激光器（AAOI）供需失衡的研究思路，应用于A股寻找做多标的。整体态度偏多，认为这些思路可复制到其他市场。",
+      "translation": "我觉得这种思路很好：借鉴我对ESMT DDR2/DDR3等老一代存储芯片的研究，举一反三。或者把我研究$AAOI时关于CW激光器供需失衡的思路，应用到A股。很开心看到大家学习我的思考方式，而不是照抄具体的股票，并用这些思路去寻找自己看好的做多标的！",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096066033987817972",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Enjeti also flagged that the Trump administration lowered the bar for day trading, removing a rule that previously required $25,000 of liquidity to be classified as a pattern day trader.\n\nRead more: https://t.co/Uy51wSNVKr",
+    "tweet_url": "https://x.com/unusual_whales/status/2096066033987817972",
+    "published_at": "2026-09-05T02:41:00+00:00",
+    "fetched_at": "2026-09-05T15:26:20.926301+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到特朗普政府降低日内交易门槛，取消原先需2.5万美元流动性的规定，可能增加散户交易活跃度，对市场流动性和券商业务有一定正面影响，但未直接提及具体投资标的。",
+      "translation": "Enjeti还指出，特朗普政府降低了日内交易的门槛，取消了先前要求具备2.5万美元流动性才能被归类为典型日内交易者的规则。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096033318818988075",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The plan doubles workforce reductions agreed to across Volkswagen Group brands since late 2024, while also paving the way for the company to slim its vehicle lineup by as much as 50% by 2035.\n\nRead more: https://t.co/iqY0NIet6T",
+    "tweet_url": "https://x.com/unusual_whales/status/2096033318818988075",
+    "published_at": "2026-09-05T00:31:00+00:00",
+    "fetched_at": "2026-09-05T15:26:27.688514+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "VWAGY"
+      ],
+      "direction": "bearish",
+      "summary": "大众集团计划将裁员规模翻倍，并可能将车型阵容缩减至多50%，这反映出成本削减和业务收缩，可能对短期盈利和股价构成压力。",
+      "translation": "该计划使自2024年底以来大众集团各品牌商定的裁员规模翻倍，同时为公司到2035年将车型缩减至多50%铺平道路。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096003681971998779",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "S&amp;P being reshuffled.\n\nThese stocks are being added:\n\nBloom Energy $BE\nEverpure $P\nIllumina $ILMN\n\nAnd removed:\n\nMolson Coors $TAP\nTrade Desk $TTD\nBuilders FirstSource $BLDR",
+    "tweet_url": "https://x.com/unusual_whales/status/2096003681971998779",
+    "published_at": "2026-09-04T22:33:14+00:00",
+    "fetched_at": "2026-09-05T15:26:33.914394+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE",
+        "P",
+        "ILMN",
+        "TAP",
+        "TTD",
+        "BLDR"
+      ],
+      "direction": "neutral",
+      "summary": "该推文报道了标普500指数的成分股调整：新增Bloom Energy、Everpure和Illumina，移除Molson Coors、Trade Desk和Builders FirstSource。这可能影响相关股票的短期表现和指数基金的资金流动，但未提供具体观点。",
+      "translation": "标普500指数正在调整。新增的股票有：Bloom Energy $BE、Everpure $P、Illumina $ILMN；移除的股票有：Molson Coors $TAP、Trade Desk $TTD、Builders FirstSource $BLDR。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2095974877115380043",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -306,6 +477,25 @@
       "summary": "该推文通过渠道调查指出韩国散户更看好HOOD而非AMC的CEO，认为HOOD提出的三星/SKHY 40倍杠杆方案在代币化辩论中具有说服力，隐含对HOOD前景的乐观态度。",
       "translation": "根据我的渠道调查，韩国散户似乎坚定地站在$HOOD一边，而不是$AMC的CEO。韩国消息人士认为，40倍杠杆的三星/SKHY方案足以赢得代币化辩论。",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2095845262954811742",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit @grok 中国是否有对标ESMT的ddr2/ddr3上市公司",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095845262954811742",
+    "published_at": "2026-09-04T12:03:44+00:00",
+    "fetched_at": "2026-09-05T15:25:49.474977+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文询问中国是否有对标ESMT的DDR2/DDR3上市芯片公司，属于行业公司对标查询，未给出明确投资方向或推荐。",
+      "translation": "中国是否有对标ESMT的DDR2/DDR3上市公司？",
+      "confidence": "low"
     }
   },
   {
