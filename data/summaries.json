@@ -2,50 +2,49 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "NVDA",
       "ESMT",
-      "SNDK",
-      "MU"
+      "NVDA",
+      "MU",
+      "AAOI"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI算力基础设施长期供不应求",
-      "存储芯片特别是利基型DRAM供需失衡及价格上涨",
-      "光通信激光器与硅光子技术瓶颈及产业链机会",
-      "地缘政治与供应链关键材料博弈",
-      "投资需关注长期基本面而非短期波动"
+      "存储芯片结构性短缺（从HBM到DDR2/3）",
+      "硅光子及激光器供不应求（CPO/光模块）",
+      "AI硬件供应链瓶颈（封装、基板、光纤）",
+      "供应链自主与地缘政治风险",
+      "高估值科技股回调中的加仓机会"
     ],
-    "recent_shift": "近期观点无明显转变，依然坚定看多AI相关产业链，但更强调短期市场波动性加剧，需关注长期供需逻辑。",
+    "recent_shift": "近期从关注AI算力巨头（如NVDA、AVGO）转向更细分的存储和光学瓶颈环节，并加大了对高弹性中小市值标的（如SIVE、ESMT）的仓位。",
     "representative_quotes": [
-      "Inference is now larger than training after being roughly 50/50 about 18 months ago. I wonder if Nvidia will be the first $10T company... this growth is absurd.",
-      "So ESMT is the beneficiary of DDR3/DDR2 shortages. TLDR: ESMT August revenue was ~$249M, up from ~$214M last month.",
-      "Demand for lasers, whether it is EML lasers, CW lasers. Is far surpassing supply out there in the industry."
+      "How can anyone not think AI stock go brrr?",
+      "If you knew how to evaluate qualification cycle players, which number actually matters? I'd argue overwhelmingly the latter.",
+      "The demand visibility... is just way too stupidly high."
     ],
-    "generated_at": "2026-09-05T15:26:42.298152+00:00"
+    "generated_at": "2026-09-06T02:45:23.917797+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$GPRO",
-      "$AAPL",
       "$NVDA",
-      "$BE",
-      "$TSLA"
+      "$TSLA",
+      "$AAPL",
+      "$BE"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "政治人物交易与内幕信息",
-      "期权异常交易与市场操纵",
-      "人工智能监管与市场影响",
-      "美联储利率政策与市场预期",
-      "宏观经济与地缘政治风险"
+      "期权交易与聪明钱动向",
+      "政策和法规对市场的影响",
+      "AI竞争与市场风险",
+      "行业合并与重组"
     ],
-    "recent_shift": "近期观点从对AI泡沫的担忧转向对市场操纵和政府政策干预的更多关注，同时保持对美联储政策的谨慎态度。",
+    "recent_shift": "近期对AI泡沫和利率路径的担忧有所增加，同时关注期权异常交易机会。",
     "representative_quotes": [
-      "Look at this. This week, these traders made MILLIONS. GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1. Youtuber Markiplier's news was Aug 31. Then Sept 1, a $285 million merger was announced. These calls made huge profits. Unusual.",
-      "BREAKING: Look at this trade by Pelosi. Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. Then yesterday, it was announced Bloom Energy was going to be added to the S&P500. Someone always knows.",
-      "The plan doubles workforce reductions agreed to across Volkswagen Group brands since late 2024, while also paving the way for the company to slim its vehicle lineup by as much as 50% by 2035."
+      "There is a lot of moves in crypto right now. Many huge gains. But what are people doing in options and crypto related companies.",
+      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options.",
+      "BREAKING: U.S. negotiators used the promise of access to Nvidia’s artificial-intelligence chips to help secure a preliminary peace deal reached last year between the nations of Armenia and Azerbaijan, per WSJ"
     ],
-    "generated_at": "2026-09-05T15:26:39.517606+00:00"
+    "generated_at": "2026-09-06T02:45:21.315669+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
