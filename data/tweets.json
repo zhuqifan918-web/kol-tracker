@@ -1,5 +1,88 @@
 [
   {
+    "tweet_id": "2096629748852240708",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "No politician can hide from me, not even Nancy Pelosi.    \n\nShe disclosed $BE calls on July 24 &amp; $INTC\ncalls on July 28.\n\nUsing Unusual Whales, we can find her EXACT trade.\n\nShe paid millions for her calls, done before close.    \n\nShe traded while Congress was in session. https://t.co/J5lc57gnCX",
+    "tweet_url": "https://x.com/unusual_whales/status/2096629748852240708",
+    "published_at": "2026-09-06T16:01:00+00:00",
+    "fetched_at": "2026-09-06T16:59:40.334281+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE",
+        "INTC"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出众议员Nancy Pelosi披露了BE和INTC的看涨期权交易，且交易发生在国会会议期间。推文暗示这些交易可能具有投资参考价值，尤其关注其买入行为的时机和规模。",
+      "translation": "没有政客能逃脱我的眼睛，包括Nancy Pelosi。她在7月24日披露了BE的看涨期权，7月28日披露了INTC的看涨期权。使用Unusual Whales，我们可以找到她的确切交易。她花费数百万美元买入这些期权，且在收盘前完成。她在国会开会期间进行了交易。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096614649378779444",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Look at this.\n\nThis week, these traders made MILLIONS.\n\nGoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1.\n\nYoutuber Markiplier's news was Aug 31.\n\nThen Sept 1, a $285 million merger was announced.\n\nThese calls made huge profits.\n\nUnusual. https://t.co/bEupqhTns2",
+    "tweet_url": "https://x.com/unusual_whales/status/2096614649378779444",
+    "published_at": "2026-09-06T15:01:00+00:00",
+    "fetched_at": "2026-09-06T16:59:42.006821+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "GPRO"
+      ],
+      "direction": "neutral",
+      "summary": "推特指出，GoPro在重大消息公布前出现了异常的期权交易量激增，暗示有投资者可能提前获知信息。但推文本身并未给出明确的投资建议，只是客观描述了这一现象。",
+      "translation": "看看这个。本周，这些交易者赚了数百万美元。GoPro（$GPRO）在8月31日出现了50倍的期权交易量，9月1日又出现了53倍的交易量。Youtuber Markiplier的消息是在8月31日发表的。然后9月1日，宣布了一笔2.85亿美元的合并。这些看涨期权赚取了巨额利润。不寻常。https://t.co/bEupqhTns2",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096605093986787380",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I asked OpenAI Astra Ultra + Anthropic Fable 5.1 Max to make me a 5x-10x return type portfolio in 1 year. \n\nBurnt a lot of credits, and the results are in: \n\nOpenAI: - $KYTX (autoimmune CAR-T results)\n- $PRQR (human RNA-editing datasets)\n- $VSTM (KRAS cancer-drug)\n- $CNTB (asthma and COPD)\n- $RANI (oral biologics)\n- $IVA (MASH)\n- $SILC (networking + inference hardware)\n- $AMPX (batteries)\n- $EOSE (batteries)\n- $ZVRA (rare-disease drug growth)\n\nAnthropic: - $INO (respiratory papillomatosis)\n- $CAPR (PDUFA for deramiocel)\n- $GOSS (seralutinib)\n- $SLS (Phase 3 binary)\n- $IREN (familiar face)\n- $WULF (familiar face)\n- $OKLO (nuclear)\n- $SMR (nuclear)\n- $RGTI (quantum)\n- $QBTS (quantum)\n\n*Disclosure don't own any of these aside from 1 share in IREN, not a recommendation, just TLDR of LLM output for educational purposes. \n\nSo very interesting results:\n\nOur beloved AGI Astra prefers really obscure biotech I've never heard about. And a few familiar names like $EOSE and $AMPX. \n\nAnd Fable... yeah idk, feels like it learned a little too much from /r/wallstreetbets and X but maybe it's right, who knows.  \n\nAnyway no judgement, I'll save this and revisit it in a few months. If one of them actually delivers... I'll be impressed.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096605093986787380",
+    "published_at": "2026-09-06T14:23:02+00:00",
+    "fetched_at": "2026-09-06T16:59:18.549283+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "KYTX",
+        "PRQR",
+        "VSTM",
+        "CNTB",
+        "RANI",
+        "IVA",
+        "SILC",
+        "AMPX",
+        "EOSE",
+        "ZVRA",
+        "INO",
+        "CAPR",
+        "GOSS",
+        "SLS",
+        "IREN",
+        "WULF",
+        "OKLO",
+        "SMR",
+        "RGTI",
+        "QBTS"
+      ],
+      "direction": "neutral",
+      "summary": "该推文展示了两个AI模型（OpenAI和Anthropic）生成的一年期高回报股票组合，包含大量小型生物科技、能源、核能及量子计算等高风险标的。作者仅作记录保存，不构成投资建议，未来几个月将关注表现。整体态度中立，无明确多空倾向。",
+      "translation": "我问OpenAI Astra Ultra + Anthropic Fable 5.1 Max 帮我做一个一年内5倍到10倍回报的投资组合。\n\n烧了很多积分，结果如下：\n\nOpenAI: - $KYTX (自身免疫CAR-T结果)\n- $PRQR (人类RNA编辑数据集)\n- $VSTM (KRAS抗癌药)\n- $CNTB (哮喘和慢阻肺)\n- $RANI (口服生物制剂)\n- $IVA (MASH)\n- $SILC (网络+推理硬件)\n- $AMPX (电池)\n- $EOSE (电池)\n- $ZVRA (罕见病药物增长)\n\nAnthropic: - $INO (呼吸道乳头状瘤)\n- $CAPR (PDUFA for deramiocel)\n- $GOSS (seralutinib)\n- $SLS (三期双盲)\n- $IREN (熟悉的面孔)\n- $WULF (熟悉的面孔)\n- $OKLO (核电)\n- $SMR (核电)\n- $RGTI (量子)\n- $QBTS (量子)\n\n*声明：除了IREN的一股，我不持有上述任何股票，这不是推荐，只是LLM输出的摘要，仅供教育目的。\n\n所以非常有趣的结果：\n\n我们亲爱的AGI Astra偏爱非常冷门的生物科技股，我听都没听过。还有一些熟悉的名字如$EOSE和$AMPX。\n\n而Fable...嗯，我觉得它可能从/ r / wallstreetbets和X上学太多了，但也许它是对的，谁知道呢。\n\n不管怎样，不做评判，我会保存这个，几个月后再回看。如果其中一个真的实现了...我会很佩服。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2096455073580908908",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -18,6 +101,25 @@
       "summary": "推特讨论OpenAI与Anthropic的IPO估值预期变化，提及Anthropic可能以2万亿美元估值上市，而OpenAI或推迟至2027年。消息反映AI公司估值可能膨胀，但未给出明确投资建议。",
       "translation": "我不确定OpenAI是如何可能将IPO推迟到2027年的。因为他们三个月前还担心1万亿美元的估值。然后Anthropic的投资者们说，管他呢，让我们超越SPCX，下个月以2万亿美元的估值IPO？",
       "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096441005071294571",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "The changes would mean cutting nearly $80 billion from the fund's current holdings of about $215 billion of U.S. Treasuries as of the end of June, according to Reuters calculations.\n\nRead more: https://t.co/G6LclDbxf5",
+    "tweet_url": "https://x.com/unusual_whales/status/2096441005071294571",
+    "published_at": "2026-09-06T03:31:00+00:00",
+    "fetched_at": "2026-09-06T16:59:47.106981+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文提到某基金计划将其持有的美国国债从约2150亿美元削减近800亿美元，这可能导致国债价格下跌、收益率上升。对债券市场构成利空，可能影响相关投资。",
+      "translation": "据路透社计算，这些变化将意味着从该基金截至6月底持有的约2150亿美元美国国债中削减近800亿美元。",
+      "confidence": "high"
     }
   },
   {
@@ -76,6 +178,25 @@
       "direction": "neutral",
       "summary": "该报道表明英伟达的AI芯片被用作地缘政治谈判筹码，可能影响其出口管制和海外市场准入，但未明确提及直接影响股价的具体投资信号。投资者需关注后续政策变化对英伟达业务的影响。",
       "translation": "突发：据《华尔街日报》报道，美国谈判代表利用提供英伟达人工智能芯片的机会，帮助促成了去年亚美尼亚和阿塞拜疆之间达成的初步和平协议。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096382856981598225",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We've updated the plans you want.\n\nBundle plans that combine website access + API access are now available on Unusual Whales.\n\nAnd we're having a sale.\n\nJoin here: https://t.co/BKPFEUcgdh https://t.co/urexkIk5Ps",
+    "tweet_url": "https://x.com/unusual_whales/status/2096382856981598225",
+    "published_at": "2026-09-05T23:39:56+00:00",
+    "fetched_at": "2026-09-06T16:59:52.528197+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文宣布Unusual Whales平台推出捆绑网站和API访问的新套餐，并附带促销活动，未提及具体股票或市场方向。对投资者而言，可关注其工具的可用性，但无直接投资建议。",
+      "translation": "我们更新了你想要的计划。结合网站访问+API访问的捆绑计划现已在Unusual Whales上推出。而且我们有促销活动。请在此加入：https://t.co/BKPFEUcgdh https://t.co/urexkIk5Ps",
       "confidence": "medium"
     }
   },
