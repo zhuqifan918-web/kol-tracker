@@ -25,26 +25,27 @@
   },
   "unusual_whales": {
     "focus_tickers": [
-      "$GPRO",
-      "$NVDA",
-      "$AAPL",
-      "$BE",
-      "$TSLA"
+      "NVDA",
+      "GPRO",
+      "AAPL",
+      "BE",
+      "TSLA"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "政治人物交易追踪",
-      "人工智能与科技投资",
-      "宏观政策与市场动态",
-      "期权交易策略与工具"
+      "人工智能发展与芯片投资",
+      "期权交易与市场操纵",
+      "宏观经济与美联储政策",
+      "地缘政治与市场影响",
+      "股市结构性变化"
     ],
-    "recent_shift": "近期观点从对科技股的谨慎转向积极看好AI基础设施和特定事件驱动机会。",
+    "recent_shift": "从对AI和科技股的乐观转向对泡沫风险和美联储政策的谨慎，同时增加对期权市场异常交易的关注。",
     "representative_quotes": [
-      "Look at $NVDL, which had two spikes in positive directional delta. And then, gains!",
-      "GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1. ... These calls made huge profits. Unusual.",
-      "Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. ... Someone always knows."
+      "Nvidia, $NVDA, has become one of world's biggest strategic tech backers as equity investments soar to $99 billion, per CNBC",
+      "Look at this. This week, these traders made MILLIONS. GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1.",
+      "BREAKING: Odds of a September Fed rate hike just jumped back to 52%, per Polymarket⁠.com."
     ],
-    "generated_at": "2026-09-06T18:36:20.834844+00:00"
+    "generated_at": "2026-09-06T23:20:21.709488+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
