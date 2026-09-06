@@ -1,47 +1,51 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "NVDA",
-      "SIVE",
-      "ESMT",
-      "MU",
-      "SNDK"
+      "$NVDA",
+      "$SIVE",
+      "$MU",
+      "$AVGO",
+      "$ESMT"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基建與算力需求持續爆發",
-      "存儲晶片（含利基型記憶體）供需失衡",
-      "光通訊與CPO供應鏈瓶頸"
+      "AI基础设施与算力需求激增",
+      "存储芯片（尤其是传统内存）的结构性短缺",
+      "光子学与激光器供应链瓶颈",
+      "供应链独立竞赛与地缘政治风险",
+      "AI投资外溢至电力、冷却等配套环节"
     ],
-    "recent_shift": "近期觀點由全面看多AI轉為更關注供應鏈瓶頸與估值合理性，同時對部分公司（如SIVE）公司治理及融資行為表達不滿。",
+    "recent_shift": "近期从关注主流存储巨头转向挖掘传统内存（如DDR2/DDR3）和光子学细分市场的投资机会。",
     "representative_quotes": [
-      "How can anyone not think AI stock go brrr?",
-      "The demand visibility... is just way too stupidly high.",
-      "I think markets either don't know about this, are mispricing duration, or overestimating PSMC's wafer hike effects."
+      "Markets always have temporary drawdowns and macro scares… but… How can anyone not think AI stock go brrr?",
+      "Memory is very really volatile… some of my positions are up 270%+, so I find it a bit easier to hold through volatile periods.",
+      "I think Sivers is going to cook after connecting the dots."
     ],
-    "generated_at": "2026-09-06T08:54:45.568816+00:00"
+    "generated_at": "2026-09-06T17:00:03.885668+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$GPRO",
       "$NVDA",
-      "$NVDA",
       "$AAPL",
-      "$BE"
+      "$BE",
+      "$TSLA"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "AI与科技股波动",
-      "期权与异常交易流",
-      "政治与市场干预"
+      "政治人物期权追踪",
+      "异常期权活动揭示内幕交易",
+      "人工智能与科技股动态",
+      "宏观经济与货币政策",
+      "市场操纵与监管"
     ],
-    "recent_shift": "近期观点转向谨慎，注意到AI泡沫风险和市场波动性增加。",
+    "recent_shift": "近期关注点从政治人物交易转向GoPro等异常期权活动，且对市场前景的评论更加谨慎。",
     "representative_quotes": [
-      "BREAKING: Look at this trade by Pelosi. Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. Then yesterday, it was announced Bloom Energy was going to be added to the S&P500. Someone always knows.",
-      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows.",
-      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America."
+      "Look at this trade by Pelosi. Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. Then yesterday, it was announced Bloom Energy was going to be added to the S&P500. Someone always knows.",
+      "This week, these traders made MILLIONS. GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1. Youtuber Markiplier's news was Aug 31. Then Sept 1, a $285 million merger was announced. These calls made huge profits. Unusual.",
+      "In the last month, Nvidia, $NVDA, is nearly up 10%. It has moved billions in market cap. Will the rally hold?"
     ],
-    "generated_at": "2026-09-06T08:54:42.994639+00:00"
+    "generated_at": "2026-09-06T17:00:00.808034+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
