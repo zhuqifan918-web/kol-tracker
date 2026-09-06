@@ -31,21 +31,20 @@
       "$BE",
       "$TSLA"
     ],
-    "overall_bias": "neutral",
+    "overall_bias": "bullish",
     "key_themes": [
-      "政治人物期权追踪",
-      "异常期权活动揭示内幕交易",
-      "人工智能与科技股动态",
-      "宏观经济与货币政策",
-      "市场操纵与监管"
+      "政治人物交易追踪",
+      "人工智能与科技投资",
+      "宏观政策与市场动态",
+      "期权交易策略与工具"
     ],
-    "recent_shift": "近期关注点从政治人物交易转向GoPro等异常期权活动，且对市场前景的评论更加谨慎。",
+    "recent_shift": "近期观点从对科技股的谨慎转向积极看好AI基础设施和特定事件驱动机会。",
     "representative_quotes": [
-      "Look at this trade by Pelosi. Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. Then yesterday, it was announced Bloom Energy was going to be added to the S&P500. Someone always knows.",
-      "This week, these traders made MILLIONS. GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1. Youtuber Markiplier's news was Aug 31. Then Sept 1, a $285 million merger was announced. These calls made huge profits. Unusual.",
-      "In the last month, Nvidia, $NVDA, is nearly up 10%. It has moved billions in market cap. Will the rally hold?"
+      "Look at $NVDL, which had two spikes in positive directional delta. And then, gains!",
+      "GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1. ... These calls made huge profits. Unusual.",
+      "Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. ... Someone always knows."
     ],
-    "generated_at": "2026-09-06T17:00:00.808034+00:00"
+    "generated_at": "2026-09-06T18:36:20.834844+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
