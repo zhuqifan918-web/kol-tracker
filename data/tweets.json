@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2096455073580908908",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I’m not sure how OpenAI was likely holding off their IPO to 2027.\n\nBecause they had concerns about a $1T valuation 3 months ago.\n\nThen Anthropic investors go and say **** it, lets one-up $SPCX and IPO at $2T next month? https://t.co/wkMuzkCrzd",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096455073580908908",
+    "published_at": "2026-09-06T04:26:54+00:00",
+    "fetched_at": "2026-09-06T08:54:00.915750+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SPCX"
+      ],
+      "direction": "neutral",
+      "summary": "推特讨论OpenAI与Anthropic的IPO估值预期变化，提及Anthropic可能以2万亿美元估值上市，而OpenAI或推迟至2027年。消息反映AI公司估值可能膨胀，但未给出明确投资建议。",
+      "translation": "我不确定OpenAI是如何可能将IPO推迟到2027年的。因为他们三个月前还担心1万亿美元的估值。然后Anthropic的投资者们说，管他呢，让我们超越SPCX，下个月以2万亿美元的估值IPO？",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2096425905602347132",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -552,6 +573,25 @@
       "direction": "bullish",
       "summary": "推文认为下周中韩半导体板块会表现稳定，隐含看涨预期。但未提供具体标的或分析依据。",
       "translation": "下周中韩半导体看来稳了 (Next week's China and Korea semiconductor sector looks stable.)",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2095871943639744713",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Trump has said: \"LOWER THE INTEREST RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT\"",
+    "tweet_url": "https://x.com/unusual_whales/status/2095871943639744713",
+    "published_at": "2026-09-04T13:49:45+00:00",
+    "fetched_at": "2026-09-06T08:54:26.716405+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "特朗普威胁降低利率否则停止与贸易逆差国家的贸易，此举可能影响全球贸易和货币政策，但未直接涉及具体投资标的。投资者需关注美联储政策独立性及贸易摩擦升级风险。",
+      "translation": "突发：特朗普表示：“降低利率，否则我将停止与我们有贸易逆差的国家的贸易”",
       "confidence": "low"
     }
   },

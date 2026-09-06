@@ -1,50 +1,47 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
+      "NVDA",
       "SIVE",
       "ESMT",
-      "NVDA",
       "MU",
-      "AAOI"
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片结构性短缺（从HBM到DDR2/3）",
-      "硅光子及激光器供不应求（CPO/光模块）",
-      "AI硬件供应链瓶颈（封装、基板、光纤）",
-      "供应链自主与地缘政治风险",
-      "高估值科技股回调中的加仓机会"
+      "AI基建與算力需求持續爆發",
+      "存儲晶片（含利基型記憶體）供需失衡",
+      "光通訊與CPO供應鏈瓶頸"
     ],
-    "recent_shift": "近期从关注AI算力巨头（如NVDA、AVGO）转向更细分的存储和光学瓶颈环节，并加大了对高弹性中小市值标的（如SIVE、ESMT）的仓位。",
+    "recent_shift": "近期觀點由全面看多AI轉為更關注供應鏈瓶頸與估值合理性，同時對部分公司（如SIVE）公司治理及融資行為表達不滿。",
     "representative_quotes": [
       "How can anyone not think AI stock go brrr?",
-      "If you knew how to evaluate qualification cycle players, which number actually matters? I'd argue overwhelmingly the latter.",
-      "The demand visibility... is just way too stupidly high."
+      "The demand visibility... is just way too stupidly high.",
+      "I think markets either don't know about this, are mispricing duration, or overestimating PSMC's wafer hike effects."
     ],
-    "generated_at": "2026-09-06T02:45:23.917797+00:00"
+    "generated_at": "2026-09-06T08:54:45.568816+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "$GPRO",
       "$NVDA",
-      "$TSLA",
+      "$NVDA",
       "$AAPL",
       "$BE"
     ],
     "overall_bias": "neutral",
     "key_themes": [
-      "期权交易与聪明钱动向",
-      "政策和法规对市场的影响",
-      "AI竞争与市场风险",
-      "行业合并与重组"
+      "AI与科技股波动",
+      "期权与异常交易流",
+      "政治与市场干预"
     ],
-    "recent_shift": "近期对AI泡沫和利率路径的担忧有所增加，同时关注期权异常交易机会。",
+    "recent_shift": "近期观点转向谨慎，注意到AI泡沫风险和市场波动性增加。",
     "representative_quotes": [
-      "There is a lot of moves in crypto right now. Many huge gains. But what are people doing in options and crypto related companies.",
-      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options.",
-      "BREAKING: U.S. negotiators used the promise of access to Nvidia’s artificial-intelligence chips to help secure a preliminary peace deal reached last year between the nations of Armenia and Azerbaijan, per WSJ"
+      "BREAKING: Look at this trade by Pelosi. Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. Then yesterday, it was announced Bloom Energy was going to be added to the S&P500. Someone always knows.",
+      "BREAKING: GoPro, $GPRO, is up 42% today. This is after they announced a definitive merger agreement with Starman Optical. If you followed the flow on Unusual Whales, you'd see how there was typical unusual options. Traders made millions. Someone always knows.",
+      "32% of fund managers see an AI bubble as the largest market risk, per Bank of America."
     ],
-    "generated_at": "2026-09-06T02:45:21.315669+00:00"
+    "generated_at": "2026-09-06T08:54:42.994639+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
