@@ -1,5 +1,104 @@
 [
   {
+    "tweet_id": "2096425905602347132",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales was made to capture these plays.\n\nYou can see politicians' options trades on Unusual Whales.\n\nAnd we're having a sale.\n\nSee more: https://t.co/d6DFEKs9sX",
+    "tweet_url": "https://x.com/unusual_whales/status/2096425905602347132",
+    "published_at": "2026-09-06T02:31:00+00:00",
+    "fetched_at": "2026-09-06T02:44:40.083268+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": null,
+      "summary": "该推文是Unusual Whales平台的促销信息，该平台提供政客期权交易数据，暗示投资者可通过观察政客交易获取投资机会，但推文本身未提供具体操作建议或市场方向。",
+      "translation": "Unusual Whales就是为了捕捉这些机会而创立的。你可以在Unusual Whales上看到政客的期权交易。我们现在正在打折。详见：https://t.co/d6DFEKs9sX",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096403256369205431",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Under the order, drones weighing more than 25 kilograms or equipped with thermal imaging capability will face a 100% tariff. Drones under that weight threshold will face a 25% tariff.\n\nRead more: https://t.co/velTox7mBW",
+    "tweet_url": "https://x.com/unusual_whales/status/2096403256369205431",
+    "published_at": "2026-09-06T01:01:00+00:00",
+    "fetched_at": "2026-09-06T02:44:43.978177+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "美国对无人机加征高额关税，其中重型或热成像无人机关税达100%，轻量型为25%。这将增加无人机制造商成本，可能影响其盈利能力和股价表现，对相关行业构成利空。",
+      "translation": "根据该命令，重量超过25公斤或配备热成像能力的无人机将面临100%的关税。低于该重量阈值的无人机将面临25%的关税。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096395958091391330",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: U.S. negotiators used the promise of access to Nvidia’s artificial-intelligence chips to help secure a preliminary peace deal reached last year between the nations of Armenia and Azerbaijan, per WSJ",
+    "tweet_url": "https://x.com/unusual_whales/status/2096395958091391330",
+    "published_at": "2026-09-06T00:32:00+00:00",
+    "fetched_at": "2026-09-06T02:44:45.883726+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "neutral",
+      "summary": "该报道表明英伟达的AI芯片被用作地缘政治谈判筹码，可能影响其出口管制和海外市场准入，但未明确提及直接影响股价的具体投资信号。投资者需关注后续政策变化对英伟达业务的影响。",
+      "translation": "突发：据《华尔街日报》报道，美国谈判代表利用提供英伟达人工智能芯片的机会，帮助促成了去年亚美尼亚和阿塞拜疆之间达成的初步和平协议。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096312659377541227",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a lot of moves in crypto right now.\n\nMany huge gains.\n\nBut what are people doing in options and crypto related companies.\n\nLet's take a deep dive. https://t.co/S3b1nsMcim",
+    "tweet_url": "https://x.com/unusual_whales/status/2096312659377541227",
+    "published_at": "2026-09-05T19:01:00+00:00",
+    "fetched_at": "2026-09-06T02:44:53.646872+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "推文提到加密货币市场近期波动大、收益显著，并暗示要深入分析期权和加密货币相关公司的动态。但未给出具体投资建议或方向。",
+      "translation": "现在加密货币有很多动态。许多巨额收益。但人们在期权和加密货币相关公司方面做了什么？让我们深入探讨。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096267361925951855",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We just enhanced charting on Unusual Whales.  \n\nYou can now see new candle charting that allows subscribers to display many UW proprietary metrics  \n\nLook at $NVDL, which had two spikes in positive directional delta.  \n\nAnd then, gains!  \n\nThis is a must have tool. https://t.co/ibvGzFyxo9",
+    "tweet_url": "https://x.com/unusual_whales/status/2096267361925951855",
+    "published_at": "2026-09-05T16:01:00+00:00",
+    "fetched_at": "2026-09-06T02:44:58.482067+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提到Unusual Whales平台新增了图表功能，显示$NVDL的正面方向性Delta出现两次飙升，随后股价上涨，暗示该指标可能预示未来走势。整体偏向看涨。",
+      "translation": "我们刚刚增强了Unusual Whales的图表功能。您现在可以看到新的蜡烛图，让订阅者能够显示许多UW专有指标。看看$NVDL，它出现了两次正向方向性Delta的飙升。然后，上涨了！这是一个必备工具。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2096252262884474927",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -120,6 +219,25 @@
       "direction": "neutral",
       "summary": "该推文提到特朗普政府降低日内交易门槛，取消原先需2.5万美元流动性的规定，可能增加散户交易活跃度，对市场流动性和券商业务有一定正面影响，但未直接提及具体投资标的。",
       "translation": "Enjeti还指出，特朗普政府降低了日内交易的门槛，取消了先前要求具备2.5万美元流动性才能被归类为典型日内交易者的规则。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096048418225631389",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Vehicles priced under $20,000 now constitute less than one-third of used sales, down from over half in Q2 2019.\n\nRead more: https://t.co/5vFNdLXeTG",
+    "tweet_url": "https://x.com/unusual_whales/status/2096048418225631389",
+    "published_at": "2026-09-05T01:31:00+00:00",
+    "fetched_at": "2026-09-06T02:45:08.391784+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出，售价低于2万美元的二手车销量占比已从2019年第二季度的超过一半下降至如今不足三分之一，反映了汽车市场低价位车型供应减少或消费者购车偏好变化，对汽车零售及相关行业可能具有参考意义。",
+      "translation": "售价低于2万美元的二手车现在占二手车销量的不到三分之一，而2019年第二季度这一比例超过一半。",
       "confidence": "medium"
     }
   },
@@ -723,6 +841,25 @@
       "summary": "大众汽车宣布裁员约5万人，可能反映其面临的需求疲软和成本压力，对公司短期股价构成利空，但长期看可能有助于提升盈利能力。",
       "translation": "突发：大众汽车表示将裁员约5万人。",
       "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2095590610967421206",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "OpenAI GPT-6 Astra benchmarks got released. Looks both AGI and the Singularity are almost here.\n\nThe leap in eval performance:\n\nFrom 78.5% -> 100% on ExploitBench to 22.4% -> 64.6% on the Science benchmark is enormous. \n\nAnd the most striking part is the VP of Research comment around: \n\n\"Astra was also OpenAI's first model that involved previous AI models very heavily in the training process, with the older generations helping train the new one.\"\n\nSo we also get the beginnings of recursive self-improvement as a bonus. \n\nI don't think Bernie Sanders will be too happy about this?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2095590610967421206",
+    "published_at": "2026-09-03T19:11:50+00:00",
+    "fetched_at": "2026-09-06T02:44:16.614325+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文强调OpenAI GPT-6 Astra在基准测试上的巨大飞跃及递归自我改进的初步迹象，可能引发人工智能相关股票和行业投资情绪的积极变化。虽然没有直接提及具体公司，但整体传递的乐观信号对AI板块构成利好。",
+      "translation": "OpenAI GPT-6 Astra的基准测试发布了。看起来AGI和奇点几乎要来了。评估性能的飞跃：ExploitBench从78.5%提升到100%，Science基准从22.4%提升到64.6%，这是巨大的进步。最引人注目的是研究副总裁的评论：'Astra也是OpenAI第一款在训练过程中大量涉及以前AI模型的模型，老一代帮助训练新一代。'所以我们还得到了递归自我改进的开端作为额外奖励。我想伯尼·桑德斯不会对此感到高兴吧？",
+      "confidence": "medium"
     }
   },
   {
