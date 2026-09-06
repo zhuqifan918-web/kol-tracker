@@ -1,5 +1,66 @@
 [
   {
+    "tweet_id": "2096722425920766316",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Nvidia, $NVDA, CEO has said: AGI has arrived. Congratulations OpenAI team.",
+    "tweet_url": "https://x.com/unusual_whales/status/2096722425920766316",
+    "published_at": "2026-09-06T22:09:16+00:00",
+    "fetched_at": "2026-09-06T23:20:05.688003+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达CEO宣称AGI已到来，并祝贺OpenAI团队。这一声明突显AI技术的突破性进展，可能预示对英伟达AI芯片需求的长期增长，对NVDA构成潜在利好。但需注意消息更多为技术愿景而非具体财务指引，投资影响需结合基本面判断。",
+      "translation": "突发：英伟达（$NVDA）首席执行官表示：AGI已经到来。祝贺OpenAI团队。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096692663005159724",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a lot of moves in crypto right now.\n\nMany huge gains.\n\nBut what are people doing in options and crypto related companies.\n\nLet's take a deep dive. https://t.co/n5fqXsTkda",
+    "tweet_url": "https://x.com/unusual_whales/status/2096692663005159724",
+    "published_at": "2026-09-06T20:11:00+00:00",
+    "fetched_at": "2026-09-06T23:20:08.453266+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出加密货币市场波动大且存在巨大收益，并探讨投资者在期权和加密货币相关公司中的动向，暗示可能进行深入分析。",
+      "translation": "目前加密货币有很多变动。许多巨大的涨幅。但人们在期权和加密相关公司里做什么？让我们深入探讨。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096675047218020590",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Nvidia, $NVDA, has become one of world's biggest strategic tech backers as equity investments soar to $99 billion, per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2096675047218020590",
+    "published_at": "2026-09-06T19:01:00+00:00",
+    "fetched_at": "2026-09-06T23:20:11.182366+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA"
+      ],
+      "direction": "bullish",
+      "summary": "英伟达已成为全球最大的战略科技投资者之一，其股权投资飙升至990亿美元，这显示了公司强劲的现金储备和战略布局能力，对其长期发展构成利好。",
+      "translation": "据CNBC报道，英伟达（$NVDA）已成为全球最大的战略科技投资者之一，其股权投资飙升至990亿美元。",
+      "confidence": "high"
+    }
+  },
+  {
     "tweet_id": "2096644848434676056",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -17,6 +78,27 @@
       "direction": "bullish",
       "summary": "该推文介绍了Unusual Whales平台新增的图表功能，并以此前NVDL股价上涨为例，暗示其专有指标（如正方向Delta的两次飙升）可预示后续涨幅。整体态度偏正面。",
       "translation": "我们刚刚增强了Unusual Whales的图表功能。现在您可以看到新的蜡烛图，能够显示许多UW专有指标。看看$NVDL，它出现了两次正方向Delta的飙升。然后，股价上涨了！这是必备工具。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096636431100002453",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Lululemon founder Chip Wilson and his wife, Shannon “Summer” Wilson, are divorcing after more than 20 years of marriage, per NYP\n\nThere is no prenup.\n\nChip has a net worth of $6.1 billion. He owns 8.6% of Lululemon stock, worth about $1 billion. Summer owns about a 1% stake, worth roughly $100 million.",
+    "tweet_url": "https://x.com/unusual_whales/status/2096636431100002453",
+    "published_at": "2026-09-06T16:27:33+00:00",
+    "fetched_at": "2026-09-06T23:20:13.469756+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "LULU"
+      ],
+      "direction": "neutral",
+      "summary": "该消息涉及Lululemon创始人Chip Wilson的离婚事件，因无婚前协议，可能影响其持有的Lululemon股份（约8.6%）。但短期对公司运营影响有限，投资者需关注潜在的股份出售或转让的可能性。",
+      "translation": "Lululemon创始人Chip Wilson及其妻子Shannon “Summer” Wilson在结婚20多年后正在离婚，据《纽约邮报》报道。没有婚前协议。Chip的净资产为61亿美元。他持有Lululemon 8.6%的股份，价值约10亿美元。Summer持有约1%的股份，价值约1亿美元。",
       "confidence": "medium"
     }
   },
