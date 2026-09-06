@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2096644848434676056",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We just enhanced charting on Unusual Whales.\n\nYou can now see new candle charting that allows subscribers to display many UW proprietary metrics\n\nLook at $NVDL, which had two spikes in positive directional delta.\n\nAnd then, gains!\n\nThis is a must have tool. https://t.co/jrFhnZC325",
+    "tweet_url": "https://x.com/unusual_whales/status/2096644848434676056",
+    "published_at": "2026-09-06T17:01:00+00:00",
+    "fetched_at": "2026-09-06T18:36:04.746091+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文介绍了Unusual Whales平台新增的图表功能，并以此前NVDL股价上涨为例，暗示其专有指标（如正方向Delta的两次飙升）可预示后续涨幅。整体态度偏正面。",
+      "translation": "我们刚刚增强了Unusual Whales的图表功能。现在您可以看到新的蜡烛图，能够显示许多UW专有指标。看看$NVDL，它出现了两次正方向Delta的飙升。然后，股价上涨了！这是必备工具。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2096629748852240708",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -83,6 +104,25 @@
     }
   },
   {
+    "tweet_id": "2096584450834362411",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Huge change on site.\n\nThe GEX heatmap update frequency has been increased significantly.\n\nGet second-to-second updates\n\nSee more: https://t.co/SgtQedCuEx https://t.co/TqG6DugrVx",
+    "tweet_url": "https://x.com/unusual_whales/status/2096584450834362411",
+    "published_at": "2026-09-06T13:01:00+00:00",
+    "fetched_at": "2026-09-06T18:36:07.523766+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文提到GEX热力图更新频率大幅提升，可实现秒级更新，这对追踪市场情绪和期权交易者行为有一定帮助，属于交易工具更新信息，但未直接给出买卖建议。",
+      "translation": "网站有重大变化。GEX热力图的更新频率已大幅提高。获取秒级更新。查看更多：https://t.co/SgtQedCuEx",
+      "confidence": "low"
+    }
+  },
+  {
     "tweet_id": "2096455073580908908",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -142,6 +182,25 @@
     }
   },
   {
+    "tweet_id": "2096418355829772567",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "After the U.S. and Israel launched the war on Feb. 28, Chinese crude oil imports dove as prices spiked, and as the war approaches its sixth month, through June, Chinese oil imports remain down over 40% from the previous year.\n\nRead more: https://t.co/Br1cpwuSb0",
+    "tweet_url": "https://x.com/unusual_whales/status/2096418355829772567",
+    "published_at": "2026-09-06T02:01:00+00:00",
+    "fetched_at": "2026-09-06T18:36:13.813505+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bearish",
+      "summary": "该推文报道了由于美国与以色列发动战争导致油价飙升，中国原油进口量大幅下降，6月份仍同比下降超过40%。这可能对原油相关市场及中国经济产生负面影响，从中长期看，油价高企和需求下降可能对石油进口国构成压力。",
+      "translation": "在美国和以色列于2月28日发动战争后，随着价格飙升，中国原油进口量大幅下降；随着战争接近第六个月，截至6月，中国石油进口量仍比去年同期下降超过40%。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2096403256369205431",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
@@ -197,6 +256,31 @@
       "direction": "neutral",
       "summary": "推文宣布Unusual Whales平台推出捆绑网站和API访问的新套餐，并附带促销活动，未提及具体股票或市场方向。对投资者而言，可关注其工具的可用性，但无直接投资建议。",
       "translation": "我们更新了你想要的计划。结合网站访问+API访问的捆绑计划现已在Unusual Whales上推出。而且我们有促销活动。请在此加入：https://t.co/BKPFEUcgdh https://t.co/urexkIk5Ps",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096370959997603898",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Iran has said they have attacked a US aircraft carrier and destroyer with ballistic missiles.\n\nThe US military said it had \"permanently disabled\" two Iran-linked oil tankers, including one near Kharg Island, and \"completely destroyed\" a third in the Gulf of Oman.",
+    "tweet_url": "https://x.com/unusual_whales/status/2096370959997603898",
+    "published_at": "2026-09-05T22:52:40+00:00",
+    "fetched_at": "2026-09-06T18:36:16.197944+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "USO",
+        "CL=F",
+        "XLE",
+        "CVX",
+        "XOM"
+      ],
+      "direction": "bullish",
+      "summary": "伊朗攻击美国航母和驱逐舰的消息可能推高油价，利好能源板块。但需谨慎，因军事冲突升级可能引发市场波动。",
+      "translation": "突发：伊朗表示已用弹道导弹袭击美国航空母舰和驱逐舰。美国军方表示，已\"永久瘫痪\"两艘与伊朗有联系的油轮，其中一艘在哈尔克岛附近，并在阿曼湾\"彻底摧毁\"了第三艘。",
       "confidence": "medium"
     }
   },
