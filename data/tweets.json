@@ -1,5 +1,26 @@
 [
   {
+    "tweet_id": "2096749796023538032",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Oh cool! $SIVE also made it there on cnyes too (leading Taiwan financial media)!\n\nThe English translation might be off a bit, but this was summarizing Sivers surprising 100M+ CW DFB annual laser capacity expansion, ~ operational Q4 2027.\n\nAnd how given historical ASP from previous year presentation slides, it could translate to $625M-$1.25B capacity revenue ceiling at full utilization.\n\nSivers might be of more interest given its partnerships with local foundries like Win Semi.\n\nAnd since its downstream partners like Ayar (Mediatek / Alchip CPO partner) are heavily investing in Taiwanese optical supply chains.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096749796023538032",
+    "published_at": "2026-09-06T23:58:01+00:00",
+    "fetched_at": "2026-09-07T00:44:32.613132+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "bullish",
+      "summary": "该推文指出Sivers Photonics（SIVE）在台湾媒体上被报道，其DFB激光器年产能扩张超过1亿美元，预计2027年第四季度投产。根据历史平均售价，满产时收入上限可达6.25亿至12.5亿美元。推文认为Sivers与台湾代工厂（如Win Semi）合作，且下游合作伙伴（如Ayar，联发科/阿尔奇普的CPO伙伴）在台湾光供应链上大力投资，因此Sivers可能更具投资价值。整体观点偏积极。",
+      "translation": "哦，酷！$SIVE 也出现在 cnyes（台湾领先的金融媒体）上了！英文翻译可能有点偏差，但这总结了 Sivers 令人惊讶的 1 亿多美元 CW DFB 年激光产能扩张，预计 2027 年第四季度投产。考虑到之前年度演示幻灯片中的历史平均售价，满产时这可能转化为 6.25 亿至 12.5 亿美元的收入上限。Sivers 可能因其与当地代工厂（如稳懋半导体）的合作而更受关注。而且由于其下游合作伙伴（如 Ayar，联发科/阿尔奇普的 CPO 合作伙伴）正在大力投资台湾光通信供应链。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2096722425920766316",
     "kol_username": "unusual_whales",
     "kol_display_name": "Unusual Whales",
