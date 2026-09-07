@@ -2,70 +2,70 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
-      "ESMT",
       "NVDA",
+      "ESMT",
       "AAOI",
-      "SNDK"
+      "LITE"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施建设与算力瓶颈",
-      "存储芯片（含利基型存储）供需失衡与涨价",
-      "硅光子与激光器供应链瓶颈",
-      "供应链安全与地缘政治博弈"
+      "激光器与硅光子供需失衡",
+      "内存（特别是传统DRAM）短缺与涨价",
+      "AI基础设施投资与算力扩张",
+      "供应链瓶颈与关键材料国产化",
+      "科技股估值与市场情绪波动"
     ],
-    "recent_shift": "近期观点从宏观谨慎转为强调AI需求长期结构性增长，并加大对瓶颈环节的布局。",
+    "recent_shift": "从广泛看好AI供应链转向更加关注激光器、内存等特定瓶颈环节，并强调短期市场波动不影响长期基本面。",
     "representative_quotes": [
-      "Having a mid-X identity crisis rn: ... #1 most subscribed person on X by accident?",
-      "The more time $SIVE spends in Swedish markets, the more they will be valued as such.",
-      "I think ESMT's ~1.9x July annualized run-rate P/E could compress further, despite factoring in PSMC's 45% wafer hike due to further legacy memory price hikes."
+      "How can anyone not think AI stock go brrr?",
+      "Demand for lasers, whether it is EML lasers, CW lasers. Is far surpassing supply out there in the industry",
+      "I think a lot of demand imbalances get worse than people expect"
     ],
-    "generated_at": "2026-09-07T00:45:07.163078+00:00"
+    "generated_at": "2026-09-07T16:20:00.410453+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
       "NVDA",
+      "BE",
       "GPRO",
       "AAPL",
-      "BE",
-      "TSLA"
-    ],
-    "overall_bias": "neutral",
-    "key_themes": [
-      "人工智能发展与芯片投资",
-      "期权交易与市场操纵",
-      "宏观经济与美联储政策",
-      "地缘政治与市场影响",
-      "股市结构性变化"
-    ],
-    "recent_shift": "从对AI和科技股的乐观转向对泡沫风险和美联储政策的谨慎，同时增加对期权市场异常交易的关注。",
-    "representative_quotes": [
-      "Nvidia, $NVDA, has become one of world's biggest strategic tech backers as equity investments soar to $99 billion, per CNBC",
-      "Look at this. This week, these traders made MILLIONS. GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1.",
-      "BREAKING: Odds of a September Fed rate hike just jumped back to 52%, per Polymarket⁠.com."
-    ],
-    "generated_at": "2026-09-06T23:20:21.709488+00:00"
-  },
-  "xiaomustock": {
-    "focus_tickers": [
-      "META",
-      "SNDK",
-      "MU",
-      "SK Hynix",
-      "INTC"
+      "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "存储芯片的长期供需缺口与价格上涨",
-      "AI代理及Agent技术带动新一轮需求",
-      "美债收益率上升对无息资产的压力"
+      "AI基础设施与投资",
+      "国会股票交易与内幕消息",
+      "期权异常流动"
     ],
-    "recent_shift": "从早期重仓存储并追求高杠杆收益，转向强调控制风险、分散投资并关注AI基础设施价值",
+    "recent_shift": "近期更强调AI股票的分化风险与市场不确定性。",
     "representative_quotes": [
-      "真正决定这轮美债危机会不会演化成系统性危机的时间点，不是2026年，而是大约2029年。",
-      "亚马逊这个财报发言太bullish了 csp们说自己即将要赚麻",
-      "市场是真不缺机会，更不缺黑天鹅。"
+      "Look at this trade by Pelosi. Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. Then yesterday, it was announced Bloom Energy was going to be added to the S&P500. Someone always knows.",
+      "GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1. Youtuber Markiplier's news was Aug 31. Then Sept 1, a $285 million merger was announced. These calls made huge profits. Unusual.",
+      "BREAKING: Odds of a September Fed rate hike just jumped back to 52%, per Polymarket. Dovish Fed comments dropped the odds yesterday. Then a blowout jobs report, 162K vs 56K expected, flipped them right back today. Nobody seems to know where this is headed."
     ],
-    "generated_at": "2026-09-04T09:48:27.610012+00:00"
+    "generated_at": "2026-09-07T16:20:03.604592+00:00"
+  },
+  "xiaomustock": {
+    "focus_tickers": [
+      "MU",
+      "SNDK",
+      "SKHNY",
+      "META",
+      "AMZN"
+    ],
+    "overall_bias": "neutral",
+    "key_themes": [
+      "AI基础设施与存储需求",
+      "美债危机与宏观经济风险",
+      "AI代理与边缘计算",
+      "市场波动与风险控制"
+    ],
+    "recent_shift": "从早期积极看多存储和科技股，并采用激进杠杆策略，转变为更加谨慎，计划降低风险，增加指数基金定投和现金仓位。",
+    "representative_quotes": [
+      "过去这一年基本上能明眼看见的机会都被炒的很贵，再想赚轻松钱太难了，美股a股都没便宜的东西。",
+      "始终坚信这一条，如果机会足够伟大，绝对显而易见随时都能上车，而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。",
+      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。"
+    ],
+    "generated_at": "2026-09-07T16:20:06.947272+00:00"
   }
 }

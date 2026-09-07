@@ -1,5 +1,215 @@
 [
   {
+    "tweet_id": "2096992136793395698",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "We just enhanced charting on Unusual Whales.\n\nYou can now see new candle charting that allows subscribers to display many UW proprietary metrics\n\nLook at $NVDL, which had two spikes in positive directional delta.\n\nAnd then, gains!\n\nThis is a must have tool. https://t.co/a4xI8ktbcI",
+    "tweet_url": "https://x.com/unusual_whales/status/2096992136793395698",
+    "published_at": "2026-09-07T16:01:00+00:00",
+    "fetched_at": "2026-09-07T16:19:36.499173+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDL"
+      ],
+      "direction": "bullish",
+      "summary": "该推文宣传Unusual Whales的新图表功能，并指出NVDL出现两次正向德尔塔峰值后价格上涨，暗示看涨信号。",
+      "translation": "我们刚刚增强了Unusual Whales的图表功能。现在，订阅者可以查看新的蜡烛图，展示许多UW专有指标。看看$NVDL，它出现了两次正向德尔塔峰值，随后上涨！这是必备工具。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096977037567430745",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "There is a lot of moves in crypto right now.\n\nMany huge gains.\n\nBut what are people doing in options and crypto related companies.\n\nLet's take a deep dive. https://t.co/ZeK86V0Hh6",
+    "tweet_url": "https://x.com/unusual_whales/status/2096977037567430745",
+    "published_at": "2026-09-07T15:01:00+00:00",
+    "fetched_at": "2026-09-07T16:19:38.134828+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文指出加密货币市场当前波动大且涨幅可观，并询问投资者在期权和加密相关公司方面的动向，暗示可能进行深度分析，但未明确表达多空观点。",
+      "translation": "目前加密货币有很多动作。许多巨大的涨幅。但人们在期权和加密相关公司方面做了什么？让我们深入探讨。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096946838423437561",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "BREAKING: Look at this trade by Pelosi.\n\nPelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17.\n\nThen yesterday, it was announced Bloom Energy was going to be added to the S&amp;P500.\n\nSomeone always knows. https://t.co/7EUyXuw8wn",
+    "tweet_url": "https://x.com/unusual_whales/status/2096946838423437561",
+    "published_at": "2026-09-07T13:01:00+00:00",
+    "fetched_at": "2026-09-07T16:19:40.593626+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BE"
+      ],
+      "direction": "bullish",
+      "summary": "佩洛西买入Bloom Energy股票及看涨期权，随后该公司被纳入标普500指数，暗示内幕交易可能性，投资者可关注该股后续表现。",
+      "translation": "突发：看看佩洛西的这笔交易。佩洛西在7月24日买入10,000股Bloom Energy，$BE，并买入100份到期日为6月17日的100看涨期权。然后昨天，宣布Bloom Energy将被纳入标普500指数。总有人提前知道。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096933313785242098",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Uhh chat, did we accidentally AI bottleneck-pill Warren Buffett's $BRK.B successor Greg Abel? https://t.co/FnHS87s6XN",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096933313785242098",
+    "published_at": "2026-09-07T12:07:15+00:00",
+    "fetched_at": "2026-09-07T16:18:36.614472+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "BRK.B"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提到巴菲特接班人Greg Abel可能因AI相关问题受到质疑，但未明确表达投资观点或预测，因此对BRK.B的影响方向不明确。",
+      "translation": "呃，大家，我们是不是不小心用人工智能给巴菲特的BRK.B接班人Greg Abel喂了药丸？",
+      "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2096904209371427277",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "New report from Bloomberg on $IQE:\n\n“indium phosphide substrates is emerging as a key risk for the semiconductor industry.”\n\nI wonder who could have guessed this last year with $AXTI? https://t.co/ETW7Y2Pz7z",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096904209371427277",
+    "published_at": "2026-09-07T10:11:36+00:00",
+    "fetched_at": "2026-09-07T16:18:40.967801+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "IQE",
+        "AXTI"
+      ],
+      "direction": "neutral",
+      "summary": "该推文提及彭博报告指出磷化铟衬底成为半导体行业的关键风险，涉及IQE和AXTI两只股票。推文暗示去年已有人预见这一风险，但并未明确看多或看空，因此方向为中性。",
+      "translation": "彭博社关于IQE的新报告：'磷化铟衬底正成为半导体行业的一个关键风险。' 我想知道去年谁曾通过AXTI猜到这一点？",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096890295128625153",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies so much?\n\nThey don't just have to stay laser companies... just look at $LITE! \n\nIf we look at Lumentum's previous Cloud Light acqusition (pluggables)... it enabled: \n\n- more than a 5X+ expansion in served opportunity inside DCs. \n\nFrom Lumentum's OFC deck:\n\n- ELS expansion from UHP laser chips was 2X TAM opportunity..\n\nBut selling lasers alone... just from one UHP laser fab was $5B in projected revenue capacity (their fab expected to ramp in early 2028), if we apply similar 55-65% CPO laser margin quotes by $AAOI. \n\nSo lasers by itself is very profitable, and despite industry capacity expansion, there would likely still be a demand imbalance for lasers. \n\nIsn't that pretty cool? \n\nSo it's not quite just modeling component value for certain types of companies since they can keep growing into other products. \n\nAnd you have new overlapping cycles eg. NPO/CPO/1.6T pluggables increasing demand. \n\nSo I'd personally assign higher premiums for laser companies over types of suppliers that stay in the same layer.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096890295128625153",
+    "published_at": "2026-09-07T09:16:19+00:00",
+    "fetched_at": "2026-09-07T16:18:51.705524+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE",
+        "LITE",
+        "LITE",
+        "AAOI"
+      ],
+      "direction": "bullish",
+      "summary": "该推文看好激光公司，认为其不仅限于激光业务，可扩展到其他产品，如Lumentum收购Cloud Light进入可插拔市场，扩大了5倍以上的可服务市场。激光业务本身盈利能力强，且面临需求不平衡，因此应给予激光公司高于其他同类供应商的估值溢价。",
+      "translation": "关于那个10亿美元激光收入建模，基于SIVE的100兆瓦CW DFB激光器年度目标，是否可信由你自己判断。但你知道吗，我如此看好激光公司的主要原因是什么？它们不必只做激光公司...看看LITE就知道了！如果我们回顾Lumentum之前收购Cloud Light（可插拔模块），它使得在数据中心内的可服务市场扩大了5倍以上。从Lumentum的OFC演示文稿来看，从超高性能激光芯片的扩展使TAM机会翻倍。但仅靠销售激光器，仅一个超高性能激光晶圆厂（预计2028年初量产）就能带来50亿美元的收入产能，如果参考AAOI提到的55-65%的CPO激光器利润率。所以激光器本身利润丰厚，尽管行业产能扩张，但激光器可能仍然供不应求。这是不是很酷？所以不只是为某些类型的公司建模组件价值，因为它们可以不断成长进入其他产品。而且还有新的重叠周期，如NPO/CPO/1.6T可插拔模块正在增加需求。因此，我个人会给予激光公司比那些停留在同一层次的供应商更高的溢价。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2096860555327803768",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "@aleabitoreddit What do you think is a fair revenue multiple you would assign to $SIVE if their recent expansion is able to deliver on $625M-$1.25B of annualized revenue?",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096860555327803768",
+    "published_at": "2026-09-07T07:18:08+00:00",
+    "fetched_at": "2026-09-07T16:18:56.017203+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SIVE"
+      ],
+      "direction": "neutral",
+      "summary": "该推文探讨了SIVE在实现6.25亿至12.5亿美元年收入预期下应给予的合理收入倍数，属于估值分析讨论，未明确表达看多或看空观点。",
+      "translation": "@aleabitoreddit 你认为如果$SIVE最近的扩张能实现6.25亿至12.5亿美元的年收入，你会给予他们多少合理的收入倍数？",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2096858276290015563",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Is there any other industry... Where every investor is cheering for shortages and price hikes? \n\nSED reported today that: Samsung / $SKHY \"stockpiles have fallen to less than 10 days of supply, and a severe shortage could emerge next year, according to a new forecast\"\n\nKB Securities said that the memory market next year will see \"the tightest supply conditions in history\"\n\nKB Securities projects memory's share of AI infrastructure costs to expand from 40% this year to 57% next year, with others like TrendForce placing next year's figure at 68% (total hyperscaler capex, pretty wild forecast attached)\n\n\"Both stocks have fallen 38% from their peaks over the past three months, pushing their price-to-earnings ratios based on next year's expected results down to about three times.\"\n\nLikewise, commentary around Phison stated they expect extremely tight NAND supply in 2027, so hard to see memory flooding the market or prices collapsing next year... \n\nThey gave some color that \"soaring NAND prices have forced some Chinese consumer module makers to liquidate inventory, giving Phison opportunities to buy lower-priced stock\", so it does show some price declines can coexist with broader shortages. \n\nTLDR: KOSPI + read through for other names like $MU / $SNDK might be happy for 2027 given demand causing shortages + infra spend share increase.",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2096858276290015563",
+    "published_at": "2026-09-07T07:09:05+00:00",
+    "fetched_at": "2026-09-07T16:19:02.258650+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "SKHY",
+        "MU",
+        "SNDK"
+      ],
+      "direction": "bullish",
+      "summary": "该推文认为内存市场将出现历史最紧张的供应状况，内存占AI基础设施成本的比例将大幅提升，相关股票估值已大幅回落但前景乐观。作者认为这为内存行业及相关公司带来投资机会。",
+      "translation": "是否还有其他行业……每个投资者都在为供应短缺和价格上涨欢呼？\n\nSED今天报告称：三星/ $SKHY\"库存已降至不足10天供应量，并且根据新的预测，明年可能出现严重短缺\"\n\nKB证券表示，明年的内存市场将出现\"历史上最紧张的供应状况\"\n\nKB证券预测，内存占AI基础设施成本的比例将从今年的40%扩大到明年的57%，而其他机构如TrendForce将明年的数字定在68%（总超大规模数据中心资本支出，相当疯狂的预测）\n\n\"过去三个月，两只股票从峰值下跌了38%，基于明年预期结果的市盈率降至约3倍。\"\n\n同样，关于Phison的评论称，他们预计2027年NAND供应将极度紧张，因此很难看到内存市场泛滥或明年价格崩溃……\n\n他们提供了一些信息，\"NAND价格飙升迫使一些中国消费模块制造商清算库存，给Phison提供了以较低价格购买库存的机会\"，所以这表明价格下跌可以与更广泛的短缺共存。\n\n总结：KOSPI + 对其他股票如$MU / $SNDK的解读可能会对2027年感到乐观，因为需求导致短缺 + 基础设施支出份额增加。",
+      "confidence": "high"
+    }
+  },
+  {
+    "tweet_id": "2096780743972110779",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "Unusual Whales was made to capture these trades.\n\nYou can see them right on site.\n\nSee more: https://t.co/d6DFEKrBDp",
+    "tweet_url": "https://x.com/unusual_whales/status/2096780743972110779",
+    "published_at": "2026-09-07T02:01:00+00:00",
+    "fetched_at": "2026-09-07T16:19:47.252965+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "neutral",
+      "summary": "该推文推广Unusual Whales平台，该平台用于监控和展示异常交易活动。它强调了实时交易数据的可访问性，但没有提供具体的投资建议或方向性观点。",
+      "translation": "Unusual Whales就是为捕捉这些交易而生。你可以在网站上直接看到它们。查看更多：https://t.co/d6DFEKrBDp",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096780743699747063",
+    "kol_username": "unusual_whales",
+    "kol_display_name": "Unusual Whales",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_400x400.png",
+    "kol_focus": "美股期权/异动",
+    "content": "\"Family offices are making bullish bets on the stock market,\" per CNBC",
+    "tweet_url": "https://x.com/unusual_whales/status/2096780743699747063",
+    "published_at": "2026-09-07T02:01:00+00:00",
+    "fetched_at": "2026-09-07T16:19:48.691995+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [],
+      "direction": "bullish",
+      "summary": "该推文引用CNBC报道，指出家族理财办公室正在对股市做出看涨押注，表明机构资金可能流入股市，市场情绪偏向乐观。",
+      "translation": "据CNBC报道，家族理财办公室正在对股市做出看涨押注。",
+      "confidence": "medium"
+    }
+  },
+  {
     "tweet_id": "2096749796023538032",
     "kol_username": "aleabitoreddit",
     "kol_display_name": "Serenity",
@@ -38,6 +248,28 @@
       "direction": "bullish",
       "summary": "英伟达CEO宣称AGI已到来，并祝贺OpenAI团队。这一声明突显AI技术的突破性进展，可能预示对英伟达AI芯片需求的长期增长，对NVDA构成潜在利好。但需注意消息更多为技术愿景而非具体财务指引，投资影响需结合基本面判断。",
       "translation": "突发：英伟达（$NVDA）首席执行官表示：AGI已经到来。祝贺OpenAI团队。",
+      "confidence": "medium"
+    }
+  },
+  {
+    "tweet_id": "2096700264569090384",
+    "kol_username": "xiaomustock",
+    "kol_display_name": "小木",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_400x400.jpg",
+    "kol_focus": "A股/港股",
+    "content": "@ChaseLochmiller @OpenAI GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years.\n\nAGI has arrived. Congratulations @OpenAI team.\n\n400K GPUs coming online next.",
+    "tweet_url": "https://x.com/xiaomustock/status/2096700264569090384",
+    "published_at": "2026-09-06T20:41:12+00:00",
+    "fetched_at": "2026-09-07T16:19:23.386440+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "direction": "bullish",
+      "summary": "该推文提及OpenAI使用英伟达Grace Blackwell芯片训练GPT-6 Astra，并暗示AGI已到来，且未来有更多GPU上线，反映AI算力需求强劲，利好英伟达和微软等AI相关公司。",
+      "translation": "@ChaseLochmiller @OpenAI GPT-6 Astra，基于约10万+ NVIDIA Grace Blackwell NVLink72训练。从ChatGPT到o1再到Astra，仅用了4年。AGI已经到来。祝贺@OpenAI团队。接下来将有40万GPU上线。",
       "confidence": "medium"
     }
   },
@@ -52811,6 +53043,27 @@
       "summary": "推文认为美股即将暴涨，原因是SPCX募资锁定的几千亿美元即将释放，为市场带来流动性，并称这是最后的抄底机会。",
       "translation": "美股今晚肯定大暴涨，相比于spcx抽走的几百亿资金，因为spcx募资而锁定的几千亿美金才是大头，这部分今晚美股就能放出来。最后的抄底机会。",
       "confidence": "low"
+    }
+  },
+  {
+    "tweet_id": "2064942505553170886",
+    "kol_username": "aleabitoreddit",
+    "kol_display_name": "Serenity",
+    "kol_avatar_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_400x400.jpg",
+    "kol_focus": "产业链卡点投资",
+    "content": "Oh look… a new report by Reuters shows China’s control over InP threatens the AI DC buildout.\n\nWho could have guessed $AXTI would have been a major point of failure? https://t.co/mu9sOWGHN6",
+    "tweet_url": "https://x.com/aleabitoreddit/status/2064942505553170886",
+    "published_at": "2026-06-11T05:27:12+00:00",
+    "fetched_at": "2026-09-07T16:18:45.434191+00:00",
+    "analysis": {
+      "is_investment_related": true,
+      "tickers": [
+        "AXTI"
+      ],
+      "direction": "bearish",
+      "summary": "该推文指出，中国对磷化铟（InP）的控制威胁到人工智能数据中心（DC）的建设，并提到AXTI（美国一家半导体材料公司）可能成为关键瓶颈。这暗示AXTI的供应链风险可能对其股价产生负面影响，尽管其作为潜在受益者也可能有复杂影响。整体上对AXTI是利空信号。",
+      "translation": "哦，看啊……路透社的一份新报告显示，中国对磷化铟（InP）的控制威胁到了人工智能数据中心的建设。谁能想到$AXTI会成为主要的故障点呢？",
+      "confidence": "medium"
     }
   },
   {
