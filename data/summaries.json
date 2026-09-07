@@ -1,27 +1,26 @@
 {
   "aleabitoreddit": {
     "focus_tickers": [
-      "$NVDA",
-      "$SIVE",
-      "$MU",
-      "$AVGO",
-      "$ESMT"
+      "SIVE",
+      "ESMT",
+      "NVDA",
+      "AAOI",
+      "SNDK"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与算力需求激增",
-      "存储芯片（尤其是传统内存）的结构性短缺",
-      "光子学与激光器供应链瓶颈",
-      "供应链独立竞赛与地缘政治风险",
-      "AI投资外溢至电力、冷却等配套环节"
+      "AI基础设施建设与算力瓶颈",
+      "存储芯片（含利基型存储）供需失衡与涨价",
+      "硅光子与激光器供应链瓶颈",
+      "供应链安全与地缘政治博弈"
     ],
-    "recent_shift": "近期从关注主流存储巨头转向挖掘传统内存（如DDR2/DDR3）和光子学细分市场的投资机会。",
+    "recent_shift": "近期观点从宏观谨慎转为强调AI需求长期结构性增长，并加大对瓶颈环节的布局。",
     "representative_quotes": [
-      "Markets always have temporary drawdowns and macro scares… but… How can anyone not think AI stock go brrr?",
-      "Memory is very really volatile… some of my positions are up 270%+, so I find it a bit easier to hold through volatile periods.",
-      "I think Sivers is going to cook after connecting the dots."
+      "Having a mid-X identity crisis rn: ... #1 most subscribed person on X by accident?",
+      "The more time $SIVE spends in Swedish markets, the more they will be valued as such.",
+      "I think ESMT's ~1.9x July annualized run-rate P/E could compress further, despite factoring in PSMC's 45% wafer hike due to further legacy memory price hikes."
     ],
-    "generated_at": "2026-09-06T17:00:03.885668+00:00"
+    "generated_at": "2026-09-07T00:45:07.163078+00:00"
   },
   "unusual_whales": {
     "focus_tickers": [
