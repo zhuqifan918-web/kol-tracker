@@ -2,71 +2,70 @@
   "aleabitoreddit": {
     "focus_tickers": [
       "SIVE",
+      "NVDA",
+      "ESMT",
       "AAOI",
-      "LITE",
-      "COHR",
+      "LITE"
+    ],
+    "overall_bias": "bullish",
+    "key_themes": [
+      "激光器与硅光子供需失衡",
+      "内存（特别是传统DRAM）短缺与涨价",
+      "AI基础设施投资与算力扩张",
+      "供应链瓶颈与关键材料国产化",
+      "科技股估值与市场情绪波动"
+    ],
+    "recent_shift": "从广泛看好AI供应链转向更加关注激光器、内存等特定瓶颈环节，并强调短期市场波动不影响长期基本面。",
+    "representative_quotes": [
+      "How can anyone not think AI stock go brrr?",
+      "Demand for lasers, whether it is EML lasers, CW lasers. Is far surpassing supply out there in the industry",
+      "I think a lot of demand imbalances get worse than people expect"
+    ],
+    "generated_at": "2026-09-07T16:20:00.410453+00:00"
+  },
+  "unusual_whales": {
+    "focus_tickers": [
+      "NVDA",
+      "BE",
+      "GPRO",
+      "AAPL",
       "NVDA"
     ],
     "overall_bias": "bullish",
     "key_themes": [
-      "AI基础设施与光通信瓶颈",
-      "存储芯片（内存）供应紧张",
-      "美国上市与资本市场策略"
+      "AI基础设施与投资",
+      "国会股票交易与内幕消息",
+      "期权异常流动"
     ],
-    "recent_shift": "情绪由强烈看涨转向谨慎乐观，对高估值和宏观经济风险更有意识，但仍看好AI供应链。",
+    "recent_shift": "近期更强调AI股票的分化风险与市场不确定性。",
     "representative_quotes": [
-      "How can anyone not think AI stock go brrr?",
-      "The AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints.",
-      "Sivers should aim to be the next $LITE and blitzscale like a Silicon Valley company."
+      "Look at this trade by Pelosi. Pelosi longs 10,000 Bloom Energy, $BE, on the 24th of July + 100 of the 100 calls expiring 6/17. Then yesterday, it was announced Bloom Energy was going to be added to the S&P500. Someone always knows.",
+      "GoPro, $GPRO, saw 50x options volume on Aug 31, followed by 53x Sept 1. Youtuber Markiplier's news was Aug 31. Then Sept 1, a $285 million merger was announced. These calls made huge profits. Unusual.",
+      "BREAKING: Odds of a September Fed rate hike just jumped back to 52%, per Polymarket. Dovish Fed comments dropped the odds yesterday. Then a blowout jobs report, 162K vs 56K expected, flipped them right back today. Nobody seems to know where this is headed."
     ],
-    "generated_at": "2026-09-08T03:41:27.434551+00:00"
-  },
-  "unusual_whales": {
-    "focus_tickers": [
-      "$NVDA",
-      "$BE",
-      "$GPRO",
-      "$LULU",
-      "$AAPL"
-    ],
-    "overall_bias": "bullish",
-    "key_themes": [
-      "AI算力与半导体",
-      "政治人物股票交易与内幕揭露",
-      "期权流动与做市商暴露",
-      "加密货币与衍生品",
-      "指数成分股异动"
-    ],
-    "recent_shift": "早前偏重政治人物交易揭示，近期转向宏观政策与AI行业动态，整体更乐观。",
-    "representative_quotes": [
-      "Trump says that the airline Bombardier will no longer be able to sell in the United States.",
-      "There is a lot of moves in crypto right now. Many huge gains. But what are people doing in options and crypto related companies.",
-      "Nvidia, $NVDA, CEO: “Every single country needs to build infrastructure so you can support your own local economy”"
-    ],
-    "generated_at": "2026-09-08T03:41:29.652509+00:00"
+    "generated_at": "2026-09-07T16:20:03.604592+00:00"
   },
   "xiaomustock": {
     "focus_tickers": [
-      "SNDK",
       "MU",
+      "SNDK",
+      "SKHNY",
       "META",
-      "MRVL",
-      "INTC"
+      "AMZN"
     ],
-    "overall_bias": "bullish",
+    "overall_bias": "neutral",
     "key_themes": [
-      "AI存储需求激增与存储行业景气周期",
-      "AI Agent推动的算力与CPU需求提升",
-      "美债危机与AI作为解药的双重叙事",
-      "巨头资本开支扩张强化AI基础设施投资",
-      "AI定价战与成本降低对存储需求的正面影响"
+      "AI基础设施与存储需求",
+      "美债危机与宏观经济风险",
+      "AI代理与边缘计算",
+      "市场波动与风险控制"
     ],
-    "recent_shift": "近期从对存储股的激进杠杆操作转向更为稳健的配置策略，并关注Meta、CPU等相对低估资产，同时表达了对市场波动的谨慎情绪。",
+    "recent_shift": "从早期积极看多存储和科技股，并采用激进杠杆策略，转变为更加谨慎，计划降低风险，增加指数基金定投和现金仓位。",
     "representative_quotes": [
-      "存储三巨头的2027年产能售罄。",
-      "AI想搞起来，就离不开存储。真正制约AI进化的瓶颈就是存储。",
-      "如果AI真的能把美国长期实际生产率增速从约1.5–2%推到3–4%以上，整个美债估值模型都要重写。"
+      "过去这一年基本上能明眼看见的机会都被炒的很贵，再想赚轻松钱太难了，美股a股都没便宜的东西。",
+      "始终坚信这一条，如果机会足够伟大，绝对显而易见随时都能上车，而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。",
+      "真正能解决美债的死结，还是美政府必须孤注一掷搞AI把社会生产效率用AI爆拉上来，所有问题都会消失。"
     ],
-    "generated_at": "2026-09-08T03:41:32.547172+00:00"
+    "generated_at": "2026-09-07T16:20:06.947272+00:00"
   }
 }
